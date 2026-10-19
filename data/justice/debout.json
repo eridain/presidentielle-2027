@@ -1,0 +1,99 @@
+{
+ "partiId": "debout",
+ "nom": "Debout !",
+ "sigle": "D!",
+ "predecesseurs": [
+  "Picardie debout ! (2017-2025)"
+ ],
+ "fondation": "2017",
+ "direction": [
+  {
+   "nom": "François Ruffin",
+   "fonction": "président (depuis juin 2025)",
+   "url": "https://fr.wikipedia.org/wiki/Debout!_(parti_politique)"
+  },
+  {
+   "nom": "Mathieu Bosque",
+   "fonction": "nommé à la tête du parti en novembre 2024",
+   "url": "https://fr.wikipedia.org/wiki/Debout!_(parti_politique)"
+  }
+ ],
+ "presentation": "Debout ! est un parti fondé par François Ruffin en 2017 sous le nom de Picardie debout !, enregistré en février 2019 et renommé Debout ! le 28 juin 2025. Selon Wikipédia, il est issu d'une scission de La France insoumise et son positionnement est « Gauche à gauche radicale ». Il compte un député, François Ruffin, membre du groupe Écologiste et social à l'Assemblée nationale ; aucun sénateur ni député européen ne lui a été identifié.",
+ "presentationSources": [
+  {
+   "titre": "Debout ! (parti politique) — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Debout!_(parti_politique)"
+  },
+  {
+   "titre": "François Ruffin — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+  }
+ ],
+ "effectifs": {
+  "deputes": 1,
+  "senateurs": 0,
+  "eurodeputes": 0,
+  "source": "data/research/deputes_par_groupe_2026.json (François Ruffin, groupe EcoS) ; https://fr.wikipedia.org/wiki/Debout!_(parti_politique) — aucun autre parlementaire identifié"
+ },
+ "candidats": [
+  {
+   "id": "ruffin",
+   "bio": "François Ruffin, né en 1975 à Calais, est journaliste, fondateur du journal Fakir et réalisateur du documentaire « Merci Patron ! » (César 2017). Il fonde Picardie debout ! en 2017 et devient la même année député de la Somme, mandat renouvelé en 2022 et 2024. Proche de La France insoumise sans en être membre, il s'en écarte en 2024 et préside Debout ! depuis juin 2025.",
+   "sources": [
+    {
+     "titre": "François Ruffin — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Ruffin"
+    },
+    {
+     "titre": "Debout ! (parti politique) — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/Debout!_(parti_politique)"
+    }
+   ]
+  }
+ ],
+ "condamnations": [
+  {
+   "personne": "François Ruffin",
+   "categorie": "candidat",
+   "roleActuel": "député de la Somme, président de Debout !, candidat à l'élection présidentielle 2027",
+   "infraction": "diffamation",
+   "faits": "Portrait de Nourédine Gaham, habitant des quartiers nord d'Amiens présenté sous un pseudonyme, dans le livre d'enquête « Quartier Nord » (2006) ; faits antérieurs à tout mandat.",
+   "juridiction": "tribunal d'Amiens",
+   "dateDecision": "2008-04-23",
+   "peine": "non précisée dans les sources consultées",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Europe 1 — Législatives : François Ruffin refoulé à Amiens-Nord",
+     "url": "https://www.europe1.fr/politique/legislatives-francois-ruffin-refoule-a-amiens-nord-2996414",
+     "citation": "En cause : la rédaction d'un livre sur la ville, Quartier Nord, lors de ses années de journaliste. Un ouvrage qui lui a valu une condamnation pour diffamation.",
+     "date": "2017-03-07"
+    },
+    {
+     "titre": "franceinfo — Qui est François Ruffin, l'inspirateur de Nuit debout",
+     "url": "https://www.franceinfo.fr/societe/nuit-debout/journalisme-engage-critique-des-medias-et-france-peripherique-qui-est-francois-ruffin-l-inspirateur-de-nuit-debout_1413979.html",
+     "citation": "Une plainte en diffamation est déposée contre François Ruffin par un certain Nouredine Graham. [...] Mais il perd le procès – une première, lui qui en a gagné six autres.",
+     "date": "2016-04-28"
+    },
+    {
+     "titre": "Quartier Nord (livre) — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/Quartier_Nord_(livre)",
+     "citation": "Le 23 avril 2008, François Ruffin est condamné pour diffamation par le tribunal d'Amiens.",
+     "date": "2026-10-18"
+    }
+   ],
+   "famille": "diffamation"
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 3,
+  "methode": "Périmètre : François Ruffin (candidat, président, seul parlementaire identifié) ; le parti Debout ! / Picardie debout ! comme personne morale ; dirigeants identifiés (Isabelle Guyot, présidente lors de l'enregistrement en 2019 ; Mathieu Bosque, nommé à la tête du parti en novembre 2024). Les 38 députés du groupe EcoS ont été parcourus : seul François Ruffin est identifié comme membre de Debout !. Requêtes : « François Ruffin condamné », « François Ruffin condamné diffamation tribunal », « Ruffin Quartier Nord diffamation condamné 2008 Gaham », « Fakir condamné diffamation Ruffin », « Debout ! mouvement François Ruffin députés membres direction », « Mathieu Bosque condamné », « Isabelle Guyot Picardie Debout ». Sources ouvertes : Wikipédia (François Ruffin, Debout !, Quartier Nord), franceinfo (2016), Europe 1 (2017), Le Monde (2016), fiche Votons (votons-2027.fr/candidats/ruffin/justice), export Poligraph.",
+  "limites": "Le jugement de 2008 n'est connu que par la presse et par Wikipédia : peine, nature exacte (pénale ou civile) et éventuel appel ne sont pas documentés ; la date du 23 avril 2008 provient de Wikipédia et de Votons, et une photo franceinfo situe une audience au tribunal d'Amiens le 18 février 2008. La composition de la direction nationale actuelle (vice-présidents, trésorier, porte-parole) n'a pas été trouvée dans une source fiable. Aucun parlementaire de Debout ! autre que François Ruffin n'a été identifié. Exclu : l'action civile de François Ruffin contre LVMH (il est demandeur ; l'espionnage dont il a été la cible a valu à Bernard Squarcini une condamnation le 7 mars 2025)."
+ },
+ "alertes": [
+  "François Ruffin (diffamation, 2008) : la peine et le caractère définitif ne sont précisés dans aucune source consultée ; Votons écrit « La peine exacte prononcée n'est pas précisée dans les sources publiques disponibles. Aucune mention d'appel n'a été trouvée. » Nature « penale » retenue d'après la formulation « condamné pour diffamation par le tribunal d'Amiens », sans confirmation qu'il s'agit du tribunal correctionnel.",
+  "Graphie du nom du plaignant : « Nouredine Graham » (franceinfo, 2016) et « Nourédine Gaham » (Wikipédia, légende photo franceinfo)."
+ ]
+}

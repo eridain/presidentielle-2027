@@ -1,0 +1,218 @@
+{
+  "id": "fin-hydrocarbures",
+  "titre": "Fin de la recherche et de l'exploitation d'hydrocarbures",
+  "question": "Faut-il interdire la recherche de nouveaux gisements d'hydrocarbures et mettre fin à leur exploitation en France d'ici 2040 (loi Hulot, 2017) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi porté par Nicolas Hulot interdit la délivrance de nouveaux permis de recherche d'hydrocarbures, interdit la recherche et l'exploitation du gaz de schiste et empêche la prolongation des concessions existantes au-delà de 2040 ; un amendement y a ajouté le charbon. L'Assemblée l'a adopté en première lecture le 10 octobre 2017 (388 pour, 92 contre, 70 abstentions). Le Sénat a adopté une version modifiée (dérogation au-delà de 2040 au titre du « droit de suite »), puis, après l'échec de la commission mixte paritaire, a rejeté le texte en nouvelle lecture ; l'Assemblée l'a adopté définitivement le 19 décembre 2017. Promulgation : loi n° 2017-1839 du 30 décembre 2017.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 30 décembre 2017 mettant fin à la recherche et à l'exploitation des hydrocarbures",
+      "url": "https://www.vie-publique.fr/loi/20778-loi-30-decembre-2017-fin-recherche-et-exploitation-hydrocarbures-energie"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/DLR5L15N35929"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°139",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/139"
+    },
+    {
+      "titre": "Sénat – scrutin n°6 du 8 novembre 2017 (ensemble du projet de loi)",
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-6.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/139",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/DLR5L15N35929",
+  "argumentsPour": [
+    {
+      "auteur": "Matthieu Orphelin (La République en marche)",
+      "resume": "La loi engage la sortie des énergies fossiles pour tenir l'objectif de limiter le réchauffement ; elles seront remplacées par les économies d'énergie et les renouvelables, pas par des importations.",
+      "citation": "avec cette loi sur la fin des hydrocarbures en France, nous faisons le pari d’un futur meilleur, libéré des énergies fossiles",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N005",
+      "date": "2017-10-10"
+    },
+    {
+      "auteur": "Christophe Bouillon (Nouvelle Gauche)",
+      "resume": "Le texte tire les conséquences du constat scientifique du GIEC sur la part des hydrocarbures à laisser dans le sous-sol et comble des vides juridiques du code minier.",
+      "citation": "la limitation à moins de 2 degrés de l’augmentation des températures exige que nous gardions dans nos sous-sols 80 % des hydrocarbures.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N005",
+      "date": "2017-10-10"
+    },
+    {
+      "auteur": "Bruno Duvergé (MoDem)",
+      "resume": "La contrainte fixée par la loi doit pousser les entreprises à innover et à investir dans les énergies renouvelables.",
+      "citation": "Ce texte va libérer les énergies des entreprises qui vont oser créer, découvrir de nouvelles technologies et investir dans les énergies renouvelables.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N005",
+      "date": "2017-10-10"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Julien Aubert (Les Républicains)",
+      "resume": "Interdire la production nationale, qui couvre une faible part de la consommation, déplacerait le problème vers les importations sans réduire les émissions.",
+      "citation": "Vous allez faire la même chose : en interdisant la production, vous déporterez le problème sur les importations.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N005",
+      "date": "2017-10-10"
+    },
+    {
+      "auteur": "Julien Aubert (Les Républicains)",
+      "resume": "Le texte traduirait une absence de politique industrielle, avec des ajouts (charbon, gisement de Lacq) faits sans étude d'impact.",
+      "citation": "Tout d’abord, il reflète une absence totale de politique industrielle : la preuve en est que, au cours des débats, vous y avez inclus le charbon sans aucune étude d’impact !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N005",
+      "date": "2017-10-10"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Loïc Prud'homme (La France insoumise)",
+      "resume": "Premier pas salué, mais le maintien du « droit de suite » du code minier permettrait de prolonger des concessions au-delà de 2040.",
+      "citation": "Le résultat est un texte paradoxal et contradictoire, qui prétend arrêter l’exploitation de tous types d’hydrocarbures en 2040, mais dont les non-dits permettent de prolonger des concessions bien au-delà de cette date",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N005",
+      "date": "2017-10-10"
+    },
+    {
+      "auteur": "Hubert Wulfranc (Gauche démocrate et républicaine)",
+      "resume": "Ambition partagée, mais portée jugée limitée (1 % de la consommation) et incohérente avec le CETA et les reculs sur les pesticides.",
+      "citation": "Votre texte n’interdira pas aux multinationales de continuer d’exploiter les hydrocarbures aux quatre coins du globe, ni à notre pays d’importer les hydrocarbures dont il a besoin.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N005",
+      "date": "2017-10-10"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°139 du 10 octobre 2017) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe La France insoumise (Loïc Prud'homme).",
+      "argument": "Le groupe salue un premier pas mais juge le texte troué : le droit de suite du code minier permettrait de prolonger des concessions jusqu'en 2054.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N005",
+      "date": "2017-10-10"
+    },
+    "roussel": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°139) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe GDR (Hubert Wulfranc).",
+      "argument": "Le groupe partage l'ambition mais juge la portée limitée (1 % de la consommation nationale) et le texte incohérent avec le CETA et les reculs sur les pesticides.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N005",
+      "date": "2017-10-10"
+    },
+    "ruffin": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°139) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe La France insoumise.",
+      "argument": "Le groupe salue un premier pas mais estime que le maintien du droit de suite vide en partie l'échéance de 2040.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N005",
+      "date": "2017-10-10"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2017 ; aucune déclaration spécifique retrouvée. Aucun groupe EELV à l'Assemblée ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/139",
+      "date": "2017-10-10"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°139) ; intervention en séance le 3 octobre 2017 lors de l'examen des articles.",
+      "argument": "Le projet de loi s'appuie sur la science du climat (GIEC) ; elle a cherché à le renforcer, notamment contre le droit de suite qui lie automatiquement exploration et exploitation.",
+      "citation": "Donc l’obscurantisme n’est pas du côté de ceux qui défendent ce projet de loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-03-octobre-2017",
+      "date": "2017-10-03"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat en 2017 ; aucune déclaration spécifique retrouvée. PROXY : le groupe Nouvelle Gauche (socialistes) a voté pour (27 pour / 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/139",
+      "date": "2017-10-10"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°139), alors député LaREM ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe LaREM (Matthieu Orphelin).",
+      "argument": "Le groupe voit dans la loi une étape vers la sortie des fossiles, compensée par les économies d'énergie et les renouvelables plutôt que par des importations.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N005",
+      "date": "2017-10-10"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a déposé le projet de loi (porté par le ministre d'État Nicolas Hulot) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/DLR5L15N35929",
+      "date": "2017-10-10"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR, il a voté pour la version modifiée par le Sénat (scrutin n°6 du 8 novembre 2017), puis pour la question préalable rejetant le texte en nouvelle lecture (scrutin n°47 du 18 décembre 2017, https://www.senat.fr/scrutin-public/2017/scr2017-47.html).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-6.html",
+      "date": "2017-11-08"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (5 pour / 80 contre / 10 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/139",
+      "date": "2017-10-10"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (5 pour / 80 contre / 10 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/139",
+      "date": "2017-10-10"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°139), députée non inscrite ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/139",
+      "date": "2017-10-10"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2017 (Reconquête fondé en 2021) ; aucune déclaration retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/139",
+      "date": "2017-10-10"
+    },
+    "dupontaignan": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°139), député non inscrit ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/139",
+      "date": "2017-10-10"
+    }
+  },
+  "alertes": [
+    "Le scrutin n°139 est le vote de première lecture (10 octobre 2017) ; la lecture définitive a eu lieu le 19 décembre 2017.",
+    "Retailleau : il a voté pour la version du Sénat (qui ouvrait une dérogation au-delà de 2040 au titre du droit de suite), puis pour la question préalable rejetant la version de l'Assemblée en nouvelle lecture. La position « pour » porte sur le principe du texte, pas sur sa version finale.",
+    "Mélenchon, Roussel, Ruffin, Attal : aucune intervention personnelle retrouvée ; arguments = explications de vote de leur groupe, sans citation personnelle.",
+    "Le Pen et Dupont-Aignan (non-inscrits) : abstention sans explication de vote retrouvée.",
+    "Batho : citation tirée de la discussion des articles du 3 octobre 2017, pas de l'explication de vote.",
+    "Le texte de Légifrance n'a pas pu être ouvert (protection anti-robot) ; le contenu est attesté par vie-publique.fr et le dossier législatif."
+  ]
+}

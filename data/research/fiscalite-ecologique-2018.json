@@ -1,0 +1,213 @@
+{
+  "id": "fiscalite-ecologique-2018",
+  "titre": "Abandon de la hausse de la taxe carbone",
+  "question": "Approuvez-vous la réponse du gouvernement Philippe aux « gilets jaunes » sur la fiscalité écologique (abandon de la hausse de la taxe carbone sur les carburants prévue en 2019) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Face au mouvement des « gilets jaunes », le Premier ministre Édouard Philippe a annoncé le 4 décembre 2018 une suspension de six mois de la hausse des taxes sur les carburants et l'énergie, puis, le 5 décembre à l'Assemblée, l'abandon de cette hausse dans la loi de finances pour 2019 : la composante carbone devait passer de 44,60 à 55 euros la tonne. Le vote du 5 décembre porte sur une déclaration du Gouvernement suivie d'un débat (article 50-1 de la Constitution) : il n'engage pas la responsabilité du Gouvernement et n'adopte aucun texte de loi. La déclaration a été approuvée par 358 voix contre 194 : la majorité (LaREM, MoDem) a voté pour ; la droite (LR) jugeait le geste insuffisant et réclamait la suppression des taxes, la gauche réclamait notamment le rétablissement de l'ISF.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 5 décembre 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094"
+    },
+    {
+      "titre": "Le Monde (Les Décodeurs) – Comprendre la taxe carbone en huit questions",
+      "url": "https://www.lemonde.fr/les-decodeurs/article/2018/12/07/comprendre-la-taxe-carbone-en-huit-questions_5394292_4355770.html"
+    },
+    {
+      "titre": "L'Obs – Moratoire sur la hausse du carburant : « insuffisant » jugent gilets jaunes et politiques",
+      "url": "https://www.nouvelobs.com/politique/20181204.OBS6519/moratoire-sur-la-hausse-du-carburant-insuffisant-jugent-gilets-jaunes-et-politiques.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1536",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+  "argumentsPour": [
+    {
+      "auteur": "Gilles Le Gendre (LaREM)",
+      "resume": "La méthode du Gouvernement – suspension des taxes puis concertation large sur la justice sociale, fiscale et territoriale – est la bonne réponse à la colère exprimée.",
+      "citation": "La méthode proposée par le Gouvernement est la bonne et je veux vous en remercier, monsieur le Premier ministre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    },
+    {
+      "auteur": "Patrick Mignola (MoDem)",
+      "resume": "Le gel des taxes reconnaît la colère et ouvre un temps de dialogue ; il faut suspendre la taxe carbone, non la supprimer, car la transition écologique n'est pas une option.",
+      "citation": "C’est pour cela, président Jacob, qu’il ne faut pas supprimer mais suspendre la taxe carbone.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    },
+    {
+      "auteur": "Édouard Philippe (Premier ministre)",
+      "resume": "Aucune taxe ne mérite de mettre en danger l'unité de la nation ; la hausse est retirée du budget 2019 et toute solution devra sortir du débat.",
+      "citation": "Le Gouvernement le démontre puisque la hausse de cette taxe est désormais abandonnée dans le projet de loi de finances pour 2019 : elle n’y figurera pas, et toute solution devra résulter du débat.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Christian Jacob (LR)",
+      "resume": "Un simple report ne suffit pas : LR réclame la suppression pure et simple de toutes les hausses de taxes à venir sur les carburants et dénonce un « matraquage fiscal ».",
+      "citation": "La solution, c’est la suppression pure et simple de toutes les taxes à venir sur les carburants.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    },
+    {
+      "auteur": "Valérie Rabault (Socialistes)",
+      "resume": "La politique fiscale du Gouvernement est injuste ; même avec le moratoire, les ménages paieront davantage de taxes énergétiques tandis que les plus aisés ont été favorisés.",
+      "citation": "Vous et votre majorité avez cru que vous pourriez imposer incognito 55 milliards d’euros de plus de taxes sur les carburants et le chauffage !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    },
+    {
+      "auteur": "Jean-Luc Mélenchon (La France insoumise)",
+      "resume": "La surtaxe sur les carburants ne finance que marginalement la transition écologique et compense les cadeaux fiscaux aux plus riches ; il faut l'abroger et rétablir l'ISF.",
+      "citation": "Abrogez la surtaxe sur les carburants et rétablissez l’impôt de solidarité sur la fortune, car le moment est venu que les riches soient solidaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    },
+    {
+      "auteur": "Bertrand Pancher (Libertés et Territoires)",
+      "resume": "Le moratoire est un geste, mais la transition écologique ne doit pas servir à renflouer les caisses de l'État pendant que l'ISF est supprimé.",
+      "citation": "Mais la transition écologique doit être une source de création d’emplois et de mieux vivre, non un prétexte pour renflouer les caisses d’un État impécunieux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre la déclaration du Gouvernement (scrutin AN n°1536) ; orateur du groupe La France insoumise dans le débat.",
+      "argument": "La hausse des taxes sur les carburants compense les cadeaux fiscaux aux riches et finance peu l'écologie : il faut abroger la surtaxe et rétablir l'ISF.",
+      "citation": "Abrogez la surtaxe sur les carburants et rétablissez l’impôt de solidarité sur la fortune, car le moment est venu que les riches soient solidaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre la déclaration du Gouvernement (scrutin AN n°1536) ; orateur du groupe GDR dans le débat.",
+      "argument": "Demande la suppression de la taxe carbone sur l'essence, le rétablissement de l'ISF, l'annulation de la hausse de la CSG des retraités et des aides publiques conditionnées.",
+      "citation": "Supprimez la taxe carbone sur l’essence et rétablissez l’impôt de solidarité sur la fortune !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre la déclaration du Gouvernement (scrutin AN n°1536) ; sa seule prise de parole retrouvée est une interjection pendant le discours du Premier ministre.",
+      "argument": "Interrompant le Premier ministre sur la baisse des impôts, il réclame que les baisses d'impôts profitent d'abord aux plus modestes.",
+      "citation": "Moins d’impôts pour les pauvres !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire en 2018 ; EELV n'avait pas de groupe à l'Assemblée, aucun proxy de groupe possible ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Députée non inscrite (Génération écologie), a voté contre la déclaration (scrutin AN n°1536) ; aucune intervention ni déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1536",
+      "date": "2018-12-05"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas encore élu (eurodéputé à partir de 2019) ; aucun groupe parlementaire de référence ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'Éducation nationale, membre du gouvernement Philippe auteur de la déclaration ; aucune prise de position personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre, auteur de la déclaration du Gouvernement soumise au vote.",
+      "argument": "Aucune taxe ne vaut de mettre en danger l'unité de la nation : la hausse est retirée du budget 2019, et toute solution devra résulter du débat.",
+      "citation": "Le Gouvernement le démontre puisque la hausse de cette taxe est désormais abandonnée dans le projet de loi de finances pour 2019 : elle n’y figurera pas, et toute solution devra résulter du débat.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N094",
+      "date": "2018-12-05"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Président du groupe LR au Sénat (pas de vote au Sénat sur cette déclaration) ; a jugé le moratoire insuffisant sur Public Sénat, en ligne avec les députés LR qui ont voté contre.",
+      "argument": "Un simple report de la hausse ne répond pas à la crise ; la droite réclamait l'annulation des hausses de taxes.",
+      "citation": "c'est-à-dire simplement des délais avant que la hausse de taxe ne s'applique, ça n'est pas à la hauteur",
+      "url": "https://www.nouvelobs.com/politique/20181204.OBS6519/moratoire-sur-la-hausse-du-carburant-insuffisant-jugent-gilets-jaunes-et-politiques.html",
+      "date": "2018-12-04"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Président de la région Hauts-de-France ; sur BFMTV, il voit dans le moratoire un premier geste qui « desserre l'étau » mais réclame davantage : position sur la déclaration non tranchée.",
+      "argument": "Demande de geler les hausses de taxes sur l'énergie et de remettre à plat la question des revenus et de la pression fiscale.",
+      "citation": "remettre à plat sans tabou la question des revenus",
+      "url": "https://www.nouvelobs.com/politique/20181204.OBS6519/moratoire-sur-la-hausse-du-carburant-insuffisant-jugent-gilets-jaunes-et-politiques.html",
+      "date": "2018-12-04"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR), sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe LR à l'Assemblée a voté contre (103 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre la déclaration du Gouvernement (scrutin AN n°1536) ; réaction sur Twitter au moratoire annoncé la veille.",
+      "argument": "Le moratoire n'est pas à la hauteur des attentes ; le pouvoir se comporte en « patron de banque » qui accorde des délais plutôt qu'en protecteur du peuple.",
+      "citation": "ça n'est évidemment pas à la hauteur des attentes et de la précarité",
+      "url": "https://www.nouvelobs.com/politique/20181204.OBS6519/moratoire-sur-la-hausse-du-carburant-insuffisant-jugent-gilets-jaunes-et-politiques.html",
+      "date": "2018-12-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Journaliste en 2018, sans mandat ni parti (Reconquête créé en 2021) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre la déclaration du Gouvernement (scrutin AN n°1536) ; réaction au moratoire la veille.",
+      "argument": "Réclame l'annulation définitive, et non une simple suspension, des taxes sur les carburants et sur l'énergie.",
+      "citation": "une annulation définitive non seulement des taxes sur les carburants, mais aussi des taxes sur l'énergie !",
+      "url": "https://www.nouvelobs.com/politique/20181204.OBS6519/moratoire-sur-la-hausse-du-carburant-insuffisant-jugent-gilets-jaunes-et-politiques.html",
+      "date": "2018-12-04"
+    }
+  },
+  "alertes": [
+    "Le scrutin porte sur une déclaration du Gouvernement (article 50-1) : vote politique sans portée normative ; l'abandon de la hausse a ensuite été traduit dans la loi de finances pour 2019.",
+    "Le « contre » réunit des motivations opposées : la droite (LR) jugeait le geste insuffisant et voulait supprimer les hausses de taxes, la gauche réclamait aussi le rétablissement de l'ISF ; voter contre ne signifie pas souhaiter la hausse de la taxe carbone.",
+    "Les citations de Le Pen, Dupont-Aignan, Retailleau et Bertrand portent sur le moratoire annoncé le 4 décembre (veille du vote), rapportées par L'Obs.",
+    "Ruffin : la citation est une interjection lors du discours du Premier ministre, non une explication de vote.",
+    "Aucun vote au Sénat sur cette déclaration n'a été trouvé dans la liste des scrutins publics de la session 2018-2019 : position de Retailleau déclarative.",
+    "Le dossier législatif n'existe pas (déclaration du Gouvernement) : urlDossier pointe vers le compte rendu de la séance."
+  ]
+}

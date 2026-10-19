@@ -1,0 +1,12 @@
+{
+  "id": "suppression-redevance",
+  "questionSimple": "Faut-il supprimer la redevance télé, la taxe annuelle qui finance l'audiovisuel public ?",
+  "enBref": "Chaque foyer avec une télévision payait 138 euros par an pour financer France Télévisions, Radio France ou Arte. En 2022, cette taxe est supprimée. L'audiovisuel public est désormais financé par une part de la TVA.",
+  "pourquoiPour": "Pour ses défenseurs, la suppression rend 138 euros par an aux ménages. Un financement par la TVA garantit les ressources de l'audiovisuel public sans menacer son indépendance.",
+  "pourquoiContre": "Pour ses opposants, sans taxe dédiée, l'audiovisuel public dépend chaque année du gouvernement. Cela menace son indépendance, et la réforme aurait dû être débattue dans une loi à part.",
+  "ceQuiSestPasse": "L'article a été adopté (170 voix contre 57) et la redevance a disparu dès 2022.",
+  "lexique": [
+    {"terme": "Audiovisuel public", "definition": "Télévisions et radios appartenant à l'État : France Télévisions, Radio France, Arte, etc."},
+    {"terme": "TVA", "definition": "Taxe sur la valeur ajoutée, incluse dans le prix de la plupart des achats."}
+  ]
+}

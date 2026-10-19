@@ -1,0 +1,229 @@
+{
+  "id": "loi-duplomb",
+  "titre": "Loi Duplomb : acétamipride, élevages, eau",
+  "question": "Faut-il permettre, par dérogation, la réintroduction de l'acétamipride (néonicotinoïde) et alléger les contraintes pesant sur les élevages et le stockage de l'eau (loi Duplomb) ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi des sénateurs Laurent Duplomb (LR) et Franck Menonville (UDI) autorisait notamment, par décret et à titre dérogatoire, des produits interdits en France mais autorisés dans l'UE comme l'acétamipride, assouplissait la séparation vente/conseil des pesticides, les procédures des élevages classés et facilitait les ouvrages de stockage d'eau. Après l'adoption d'une motion de rejet en première lecture à l'Assemblée (26 mai 2025), le texte de la commission mixte paritaire a été adopté définitivement le 8 juillet 2025. Saisi par des parlementaires de gauche, le Conseil constitutionnel (décision 2025-891 DC du 7 août 2025) a censuré la réintroduction de l'acétamipride au regard de la Charte de l'environnement et validé l'essentiel du reste ; la loi n° 2025-794 a été promulguée le 11 août 2025. Une pétition demandant son abrogation a dépassé 2 millions de signatures.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – dossier législatif « Lever les contraintes à l'exercice du métier d'agriculteur »",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-108.html"
+    },
+    {
+      "titre": "LCP – Loi Duplomb : le Conseil constitutionnel censure la réintroduction de l'acétamipride (7 août 2025)",
+      "url": "https://lcp.fr/actualites/loi-agricole-duplomb-le-conseil-constitutionnel-censure-la-reintroduction-de-l"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 8 juillet 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2957",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50819",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-Luc Fugit (EPR)",
+      "resume": "Le texte réautorise l'acétamipride dans un cadre dérogatoire comparable à d'autres pays européens, sans réautorisation sans condition ni remise en cause de l'Anses.",
+      "citation": "Enfin, la troisième consistait à envisager la réautorisation de l’acétamipride dans un cadre dérogatoire de droit commun, identique à ce qui se fait dans d’autres pays d’Europe",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Guillaume Lepers (Droite républicaine)",
+      "resume": "Le texte allège les procédures administratives, notamment pour les élevages, et améliore la compétitivité des exploitations.",
+      "citation": "C’est également un texte de compétitivité qui allège les procédures administratives, fluidifie les démarches liées aux installations classées, notamment pour les élevages",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Hervé de Lépinau (RN)",
+      "resume": "Le texte répond à la colère agricole face à une réglementation française jugée excessive et à la concurrence internationale déloyale.",
+      "citation": "Les paysans ont exprimé leur désespoir face à une réglementation française kafkaïenne et à une concurrence internationale déloyale",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Henri Alfandari (Horizons)",
+      "resume": "La version finale maintient l'indépendance de l'Anses et l'interdiction générale des néonicotinoïdes, avec des dérogations encadrées et temporaires.",
+      "citation": "Il confirme l’indépendance de l’Anses et réaffirme l’interdiction générale des néonicotinoïdes. Il ne fait aucun cadeau aveugle : les dérogations qu’il prévoit sont strictement encadrées, temporaires et contrôlées.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Mathilde Hignet (LFI-NFP)",
+      "resume": "Le texte soutient un modèle agro-industriel et expose agriculteurs, riverains et enfants aux pesticides ; voter pour ou s'abstenir revient à le cautionner.",
+      "citation": "Voter pour ce texte ou s’abstenir, c’est cautionner un modèle qui empoisonne les terres, la biodiversité, les agriculteurs, les citoyens et nos enfants.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Delphine Batho (Écologiste et social)",
+      "resume": "La réintroduction des néonicotinoïdes menace les pollinisateurs et la santé humaine ; le texte ne serait pas une aide à l'agriculture.",
+      "citation": "C’est le retour du poison des néonicotinoïdes qui tuent les insectes pollinisateurs et intoxiquent les bébés dans le ventre de leur mère.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Dominique Potier (Socialistes)",
+      "resume": "Les arbitrages sur les pesticides doivent relever de la science et d'une Anses renforcée, non de l'opinion ou du marché ; le groupe vote contre.",
+      "citation": "Pour le reste, particulièrement en matière de phytopharmacie, la conviction des socialistes est que ni l’opinion ni le marché ne doivent dicter les arbitrages : seules la science et la démocratie peuvent le faire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Julien Brugerolles (GDR)",
+      "resume": "Le texte ne traite ni les revenus ni la régulation des marchés et affaiblit le droit environnemental en réautorisant des molécules interdites.",
+      "citation": "Vous faites diversion en réautorisant certaines molécules interdites ou en faisant croire que l’affaiblissement du droit environnemental permettra de faire face au défi climatique",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "David Taupiac (LIOT)",
+      "resume": "Le groupe, partagé, juge le texte amélioré par la navette mais limité face à la concurrence déloyale ; une majorité vote pour, les autres contre ou abstention.",
+      "citation": "C’est donc consciente des limites de la proposition de loi et vigilante quant à l’application de ses mesures qu’une majorité du groupe Libertés, indépendants, outre-mer et territoires votera pour le texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Non député en 2025 ; note de blog du 8 août 2025 se félicitant de la censure partielle et dénonçant la loi (franceinfo indique par ailleurs qu'il a signé la pétition d'abrogation).",
+      "argument": "Il reproche au gouvernement, à la droite, à l'extrême droite et à une partie du bloc central d'avoir voté la loi malgré le lien connu entre pesticides et maladies.",
+      "citation": "La loi Duplomb a été soutenue fortement par le gouvernement et votée au début de l’été par l’extrême droite, la droite et une majorité du « bloc central ».",
+      "url": "https://melenchon.fr/2025/08/08/incendies-duplomb-algerie-les-nuls-nous-fatiguent/",
+      "date": "2025-08-08"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Non député depuis 2024 ; selon franceinfo, il a salué la pétition contre la loi Duplomb à l'été 2025 et demandé l'arrêt des importations de produits traités à l'acétamipride.",
+      "argument": "Il soutient l'interdiction de l'acétamipride et demande, par cohérence, d'interdire aussi l'importation de produits traités avec ce pesticide.",
+      "citation": "des produits traités à l'acétamipride quand ce pesticide est désormais interdit dans notre pays",
+      "url": "https://www.franceinfo.fr/environnement/loi-duplomb/autoriser-ou-interdire-l-acetamipride-on-a-demande-aux-principaux-candidats-a-la-presidentielle-leur-avis-sur-son-utilisation_8170565.html",
+      "date": "2026-09-03"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée (scrutin n°2957) ; arguments exprimés sur France Inter le 23 juillet 2025.",
+      "argument": "Le rôle du gouvernement est de protéger la santé des Français ; il faut relever les normes au niveau européen plutôt qu'abaisser les normes françaises.",
+      "citation": "Ce dont on parle, c'est de la santé des gens. Quel est le rôle d'un gouvernement ? C'est de protéger. De protéger les agriculteurs contre le dumping, mais surtout de protéger la santé des Français",
+      "url": "https://www.franceinfo.fr/environnement/loi-duplomb/loi-duplomb-le-role-du-gouvernement-est-de-proteger-les-agriculteurs-contre-le-dumping-mais-surtout-de-proteger-la-sante-des-francais-estime-francois-ruffin_7393963.html",
+      "date": "2025-07-23"
+    },
+    "tondelier": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Non parlementaire ; message sur X du 20 juillet 2025, rapporté par TF1info, demandant au président de ne pas promulguer la loi.",
+      "argument": "S'appuyant sur la pétition, elle demande au président de la République de ne pas promulguer la loi.",
+      "citation": "La pétition contre la loi Duplomb va atteindre un million de signatures. Je demande à Emmanuel Macron de ne pas promulguer cette loi",
+      "url": "https://tf1info.fr/politique/loi-duplomb-petition-pesticide-agriculture-emmanuel-macron-peut-il-refuser-de-la-promulguer-assemblee-2384155.html",
+      "date": "2025-07-20"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2957) ; elle a pris la parole en séance pour le groupe Écologiste et social le 8 juillet 2025.",
+      "argument": "Selon elle, le texte n'aide pas l'agriculture mais constitue une « loi d'empoisonnement alimentaire » qui fait revenir les néonicotinoïdes.",
+      "citation": "C’est le retour du poison des néonicotinoïdes qui tuent les insectes pollinisateurs et intoxiquent les bébés dans le ventre de leur mère.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    "glucksmann": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Eurodéputé, pas de vote sur ce texte national ; déclaration du 21 juillet 2026 contre la réintroduction de l'acétamipride dans la loi d'urgence agricole (texte ultérieur reprenant cette mesure).",
+      "argument": "L'acétamipride et le flupyradifurone ont été interdits pour leurs effets sur les pollinisateurs, les sols, l'eau et la santé ; la droite s'en prend aux normes environnementales.",
+      "citation": "L'acétamipride et le flupyradifurone ont été interdits en France parce qu’ils tuent les pollinisateurs, s'accumulent dans les sols et l'eau, et présentent des risques pour la santé humaine.",
+      "url": "https://place-publique.eu/posts/68jyTyNjDww1F2yvJ1c4St/reaction-de-raphael-glucksmann-suite-a-l-adoption-de-la-loi-d-urgence-agricole",
+      "date": "2026-07-21"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2957), président du groupe EPR ; déclaration en conférence de presse le 21 juillet 2025 (AFP).",
+      "argument": "Il souhaite un avis de l'Anses pour éclairer le débat, mais refuse d'interdire sans solution alternative des produits utilisés par les concurrents étrangers.",
+      "citation": "On ne gardera pas l'agriculture la plus qualitative au monde si on perd toute une partie de notre agriculture parce qu'on interdit certaines choses sans solution alternative",
+      "url": "https://www.linfodurable.fr/politique/loi-duplomb-attal-souhaite-que-le-gouvernement-saisisse-lanses-52220",
+      "date": "2025-07-21"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de vote (maire du Havre) ; selon franceinfo (sept. 2026), son entourage défend le maintien de la réintroduction dérogatoire de l'acétamipride. Le groupe Horizons a voté majoritairement pour la loi Duplomb (26 pour, 3 contre, 4 abstentions).",
+      "argument": "Son entourage prône le statu quo, c'est-à-dire le maintien de la réintroduction dérogatoire de l'acétamipride prévue par la loi d'urgence agricole de 2026.",
+      "citation": "On maintient l'état du droit",
+      "url": "https://www.franceinfo.fr/environnement/loi-duplomb/autoriser-ou-interdire-l-acetamipride-on-a-demande-aux-principaux-candidats-a-la-presidentielle-leur-avis-sur-son-utilisation_8170565.html",
+      "date": "2026-09-03"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou, qui soutenait le texte (défendu en séance par la ministre de l'Agriculture Annie Genevard) ; déclaration ultérieure devant les Jeunes Agriculteurs (juin 2026).",
+      "argument": "Il juge incohérent d'interdire en France une molécule autorisée ailleurs dans l'UE et défend une concurrence loyale pour les agriculteurs français.",
+      "citation": "Il est incroyable que dans 27 pays européens, la molécule soit autorisée, et qu'en France, on ne l'autorise pas.",
+      "url": "https://www.franceinfo.fr/environnement/loi-duplomb/autoriser-ou-interdire-l-acetamipride-on-a-demande-aux-principaux-candidats-a-la-presidentielle-leur-avis-sur-son-utilisation_8170565.html",
+      "date": "2026-09-03"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Pas de vote (président de région) ; après la censure, il demande (X, 8 août 2025) des clauses miroirs contre les importations traitées à l'acétamipride, sans se prononcer explicitement sur la loi. Proxy : le groupe Droite républicaine a voté pour (47 pour, 1 abstention).",
+      "argument": "Il réclame que les denrées traitées à l'acétamipride, y compris issues de l'UE, ne puissent pas être importées, au nom de la concurrence loyale.",
+      "citation": "non à une concurrence déloyale en Europe qui menace nos agriculteurs !",
+      "url": "https://x.com/xavierbertrand/status/1953857509581541377",
+      "date": "2025-08-08"
+    },
+    "lisnard": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de vote (maire de Cannes) ; entretien à Midi Libre (6 août 2026) : il déclare qu'il aurait voté la loi.",
+      "argument": "Il estime que la toxicité dépend des doses et que l'acétamipride n'est pas cancérigène aux seuils européens, selon ses lectures de presse.",
+      "citation": "Oui, je l’aurais votée. Tout produit concentré est une nuisance.",
+      "url": "https://www.midilibre.fr/2026/08/06/david-lisnard-ceux-qui-disent-vouloir-renverser-la-table-je-trouve-quils-sont-ingrats-avec-la-table-qui-les-nourrit-depuis-20-ans-13498026.php",
+      "date": "2026-08-06"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2957), présidente du groupe RN ; message sur X du 21 juillet 2025 rapporté par l'AFP.",
+      "argument": "Favorable à un débat parlementaire, elle conteste l'idée que la loi menace la santé et l'environnement et dénonce les arguments de la pétition.",
+      "citation": "Nous refusons que la propagande des gauches puisse laisser imaginer à nos compatriotes que cette loi menace leur santé et notre environnement.",
+      "url": "https://www.linfodurable.fr/loi-duplomb-le-pen-favorable-un-debat-au-parlement-mais-denonce-la-propagande-des-gauches-52223",
+      "date": "2025-07-21"
+    },
+    "zemmour": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de vote ; position transmise par le parti Reconquête à franceinfo (sept. 2026) : favorable à l'autorisation de l'acétamipride, jugeant les dérogations « un moindre mal ».",
+      "argument": "Reconquête aurait préféré une autorisation sans dérogation comme chez les voisins européens, l'interdiction française créant une concurrence déloyale.",
+      "citation": "Nous aurions préféré une autorisation sans dérogation comme c'est le cas chez nos voisins et concurrents sur le plan commercial : Allemagne, Pays-Bas, Belgique...",
+      "url": "https://www.franceinfo.fr/environnement/loi-duplomb/autoriser-ou-interdire-l-acetamipride-on-a-demande-aux-principaux-candidats-a-la-presidentielle-leur-avis-sur-son-utilisation_8170565.html",
+      "date": "2026-09-03"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration trouvée. Debout la France n'a pas de groupe à l'Assemblée : aucun proxy de groupe disponible.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Les libellés de position de groupe dans tasks.json semblent incohérents avec les décomptes pour ce scrutin (RN « abstention » avec 119 pour ; HOR « abstention » avec 26 pour ; LIOT « abstention » avec 12 pour ; Dem « contre » avec 26 pour). Les décomptes chiffrés ont été utilisés.",
+    "Philippe, Retailleau, Glucksmann et Zemmour : les déclarations trouvées datent de 2026 et portent sur l'acétamipride / la loi d'urgence agricole (qui a repris la réintroduction dérogatoire), pas directement sur le vote de la loi Duplomb. Philippe et Zemmour : propos d'entourage/parti, pas de citation personnelle.",
+    "Roussel : citation rapportée par franceinfo (2026) ; la source primaire (discours PCF, pcf.fr) n'a pas pu être ouverte (403). Date réelle de la déclaration : été 2025.",
+    "Bertrand : position sur la loi elle-même non explicite ; son tweet (cosigné avec le rapporteur Julien Dive) vise les importations après la censure.",
+    "Retailleau : ministre de l'Intérieur au moment du vote ; aucun vote parlementaire (le Sénat a voté en janvier et juillet 2025, alors qu'il était au gouvernement).",
+    "Dupont-Aignan : aucune déclaration publique trouvée sur la loi Duplomb ou l'acétamipride.",
+    "La disposition principale (acétamipride) a été censurée par le Conseil constitutionnel ; elle a été réintroduite sous une autre forme par la loi d'urgence agricole de juillet 2026, hors du périmètre de cette question."
+  ]
+}

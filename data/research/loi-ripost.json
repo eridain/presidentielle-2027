@@ -1,0 +1,224 @@
+{
+  "id": "loi-ripost",
+  "titre": "Loi RIPOST : ordre public et troubles du quotidien",
+  "question": "Faut-il adopter la loi RIPOST sur l'ordre public (sanctions renforcées contre les rodéos urbains, rave-parties, squats et autres troubles du quotidien) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Porté par le ministre de l'Intérieur Laurent Nuñez, le projet de loi visant à offrir des réponses immédiates aux phénomènes troublant l'ordre public, la sécurité et la tranquillité de nos concitoyens (« RIPOST ») cible des infractions « du quotidien » : usage détourné de mortiers d'artifice contre les forces de l'ordre, protoxyde d'azote, rave-parties illégales, rodéos motorisés, squats de meublés touristiques, violences autour des stades. Il recourt largement à l'amende forfaitaire délictuelle (sanction sans passage devant un juge). L'organisation d'une rave-party non déclarée ou interdite devient un délit puni de deux ans de prison et 30 000 € d'amende, et la participation est elle aussi réprimée ; le seuil de déclaration est abaissé de 500 à 250 participants. Le préfet peut faire évacuer les occupants sans droit d'un meublé de tourisme. Adopté par le Sénat le 26 mai 2026, le texte de la commission mixte paritaire a été voté le 21 juillet 2026 par le Sénat puis définitivement par l'Assemblée (351 pour, 179 contre, 7 abstentions). Le Conseil constitutionnel a censuré sept dispositions sur le fond et cinq articles comme « cavaliers législatifs » (décision n° 2026-915 DC du 14 août 2026) ; la loi a été promulguée le 18 août 2026 (loi n° 2026-798).",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi RIPOST du 18 août 2026",
+      "url": "https://www.vie-publique.fr/loi/302565-loi-ripost-ordre-public-securite-et-tranquillite-18-aout-2026"
+    },
+    {
+      "titre": "Conseil constitutionnel – La décision en bref n° 2026-915 DC",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/la-decision-en-bref-decision-n-2026-915-dc-du-14-aout-2026"
+    },
+    {
+      "titre": "Banque des territoires (Localtis) – la loi Ripost est promulguée",
+      "url": "https://www.banquedesterritoires.fr/rodeos-mortiers-protoxyde-dazote-rave-parties-la-loi-ripost-entre-en-vigueur"
+    },
+    {
+      "titre": "Sénat – Dossier législatif pjl25-472",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl25-472.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53980",
+  "argumentsPour": [
+    {
+      "auteur": "Laurent Nuñez (ministre de l'Intérieur)",
+      "resume": "Mortiers, rave-parties, rodéos, squats ou violences autour des stades troublent l'ordre public : chaque trouble doit recevoir une réponse.",
+      "citation": "Le gouvernement fait le choix de l’intransigeance avec la délinquance. À chaque trouble à l’ordre public doit être apportée une réponse.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Christophe Marion (Ensemble pour la République)",
+      "resume": "Face à l'exaspération causée par la délinquance du quotidien, le texte montre un État qui protège et rassure.",
+      "citation": "Ce texte, c’est l’État qui protège et qui rassure.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Ian Boucard (Droite républicaine)",
+      "resume": "Le texte apporte des réponses concrètes aux problèmes rencontrés par les Français.",
+      "citation": "Ce texte qui apporte des réponses concrètes aux problèmes rencontrés par nos concitoyens est de cette nature",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Michaël Taverne (Rassemblement national)",
+      "resume": "Le RN vote le texte, tout en le jugeant tardif et insuffisant face à l'insécurité.",
+      "citation": "Nous voterons donc ce texte, qui comporte quelques mesures mais qui ne changera pas grand-chose à l’insécurité dans laquelle vous avez entraîné le pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sacha Houlié (Socialistes)",
+      "resume": "Les quelques vertus du texte sont altérées par ses carences et ses atteintes aux libertés fondamentales, ni nécessaires ni proportionnées.",
+      "citation": "Ses minces vertus sont donc largement altérées par ses importantes carences et par ses nombreuses atteintes aux libertés fondamentales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Pouria Amirshahi (Écologiste et social)",
+      "resume": "Le texte se limite à alourdir les peines, au risque de faire déborder les prisons, sans aucun moyen pour la prévention.",
+      "citation": "Or votre texte vise uniquement à augmenter le quantum des peines, quitte à faire déborder des prisons qui sont déjà surpeuplées",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Ugo Bernalicis (La France insoumise)",
+      "resume": "Opération de communication qui interdit des choses déjà interdites ; le recours aux amendes forfaitaires transforme le policier en juge.",
+      "citation": "Il faut qu’on vous le dise : en réalité, vous êtes drogués à la répression.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Émeline K/Bidi (Gauche démocrate et républicaine)",
+      "resume": "Le texte fragilise les libertés et repose sur une répression généralisée et une surveillance automatisée de l'espace public.",
+      "citation": "Parce qu’il fragilise les libertés et les droits fondamentaux et parce qu’il repose sur une logique de répression généralisée et de surveillance automatisée de l’espace public",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 71 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+      "date": "2026-07-21"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 15 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+      "date": "2026-07-21"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°8433 du 21 juillet 2026) ; pas d'intervention personnelle retrouvée, argument = explication du groupe Écologiste et social, auquel il est apparenté (Pouria Amirshahi).",
+      "argument": "Groupe EcoS : le texte ne fait qu'alourdir les peines, au risque de surcharger les prisons, sans moyens pour la prévention.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour / 36 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+      "date": "2026-07-21"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°8433) ; pas d'intervention personnelle retrouvée, argument = explication du groupe Écologiste et social (Pouria Amirshahi).",
+      "argument": "Groupe EcoS : doctrine strictement punitive qui ajoute des missions aux policiers sans moyens pour la prévention.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 56 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+      "date": "2026-07-21"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°8433), président du groupe EPR ; pas d'intervention personnelle retrouvée, argument = explication du groupe (Christophe Marion).",
+      "argument": "Groupe EPR : face à l'exaspération causée par la délinquance du quotidien, le texte montre un État « qui protège et qui rassure ».",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons & indépendants a voté pour (32 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+      "date": "2026-07-21"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur, vote nominatif pour sur l'ensemble du texte de la commission mixte paritaire (scrutin n°338 du 21 juillet 2026) ; avait aussi voté pour en première lecture (scrutin n°275 du 26 mai 2026).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-338.html",
+      "date": "2026-07-21"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (46 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+      "date": "2026-07-21"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (Nouvelle Énergie), sans mandat parlementaire ; aucune déclaration retrouvée ; son parti n'a pas de groupe à l'Assemblée. À titre indicatif, le groupe Droite républicaine (LR, son ancien parti) a voté pour (46 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+      "date": "2026-07-21"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°8433), présidente du groupe RN ; pas d'intervention personnelle retrouvée, argument = explication du groupe (Michaël Taverne).",
+      "argument": "Groupe RN : texte voté par soutien aux forces de l'ordre, mais jugé tardif et insuffisant face à l'insécurité.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N024",
+      "date": "2026-07-21"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans mandat national ; aucune déclaration retrouvée ; pas de député Reconquête. À titre indicatif, le groupe UDR a voté pour (17 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+      "date": "2026-07-21"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée ; pas de groupe de son parti à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8433",
+      "date": "2026-07-21"
+    }
+  },
+  "alertes": [
+    "Texte très composite (mortiers d'artifice, protoxyde d'azote, rave-parties, rodéos, squats, stades, vidéoprotection, drones…) : la question n'en cite que quelques volets.",
+    "Le Conseil constitutionnel a censuré sept dispositions sur le fond (dont la destruction de véhicules de rodéo sans recours pour le propriétaire et l'amende forfaitaire pour certains délits pyrotechniques) et cinq cavaliers législatifs ; selon Localtis, les mesures phares n'ont pas été touchées.",
+    "Montant de l'amende forfaitaire pour l'inhalation de protoxyde d'azote divergent selon les sources : 200 € selon Localtis, 500 € selon Vie publique. Ce chiffre n'est pas repris dans la fiche.",
+    "La pénalisation des rave-parties prolonge la proposition de loi votée en avril 2026 (voir la fiche delit-rave-parties).",
+    "Ruffin, Batho, Attal et Le Pen : arguments tirés de l'explication de leur groupe.",
+    "Retailleau, redevenu sénateur, a voté pour au Sénat le même jour que l'Assemblée."
+  ]
+}

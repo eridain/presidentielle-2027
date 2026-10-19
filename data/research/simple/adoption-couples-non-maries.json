@@ -1,0 +1,22 @@
+{
+  "id": "adoption-couples-non-maries",
+  "questionSimple": "Faut-il permettre aux couples pacsés ou en union libre d'adopter un enfant, comme les couples mariés ?",
+  "enBref": "Avant cette loi, seuls les couples mariés et les personnes seules pouvaient adopter. Le texte ouvre l'adoption aux couples pacsés et en union libre. Il assouplit aussi l'âge et la durée de vie commune demandés.",
+  "pourquoiPour": "Pour ses défenseurs, rien ne justifie d'exclure les couples non mariés : ce qui compte, c'est la stabilité du couple et sa capacité à élever un enfant. Les familles ont changé.",
+  "pourquoiContre": "Pour ses opposants, permettre d'adopter tôt dans la vie de couple sert mal l'intérêt de l'enfant. Ils critiquent aussi d'autres articles, sur les organismes d'adoption et la filiation.",
+  "ceQuiSestPasse": "Adopté définitivement par l'Assemblée le 8 février 2022, le texte est devenu la loi du 21 février 2022.",
+  "lexique": [
+    {
+      "terme": "Pacs",
+      "definition": "Pacte civil de solidarité : contrat d'union entre deux personnes, distinct du mariage."
+    },
+    {
+      "terme": "Concubinage",
+      "definition": "Vie en couple stable sans mariage ni pacs, aussi appelée union libre."
+    },
+    {
+      "terme": "Lecture définitive",
+      "definition": "Dernier vote de l'Assemblée, qui tranche seule quand les deux chambres restent en désaccord."
+    }
+  ]
+}

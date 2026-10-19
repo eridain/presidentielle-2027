@@ -1,0 +1,18 @@
+{
+  "id": "liste-nationale-europeennes",
+  "questionSimple": "Faut-il élire nos députés européens sur une seule liste nationale plutôt que par grandes régions ?",
+  "enBref": "Aux élections européennes, la France était découpée en huit grandes régions, chacune avec ses listes. Cette loi revient à une seule liste par parti pour tout le pays. Elle s'applique depuis les élections européennes de 2019.",
+  "pourquoiPour": "Pour ses partisans, les huit grandes régions étaient artificielles et n'ont pas fait reculer l'abstention. Une seule liste nationale permet un vrai débat national sur l'Europe.",
+  "pourquoiContre": "Pour ses opposants, les députés européens doivent rester ancrés dans un territoire pour être légitimes et influents. D'autres rejetaient surtout le seuil de 5 % pour avoir des élus.",
+  "ceQuiSestPasse": "La loi a été adoptée en 2018, validée en grande partie par le Conseil constitutionnel, et appliquée aux élections européennes de 2019.",
+  "lexique": [
+    {
+      "terme": "Circonscription",
+      "definition": "Zone géographique dans laquelle les électeurs votent pour élire leurs représentants."
+    },
+    {
+      "terme": "Commission mixte paritaire",
+      "definition": "Groupe de députés et sénateurs chargé de trouver un texte commun aux deux assemblées."
+    }
+  ]
+}

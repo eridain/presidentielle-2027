@@ -1,0 +1,209 @@
+{
+  "id": "definition-antisemitisme-ihra",
+  "titre": "Définition de l'antisémitisme de l'IHRA",
+  "question": "Faut-il que l'Assemblée nationale approuve, par une résolution non contraignante, la définition de l'antisémitisme de l'IHRA ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de résolution de Sylvain Maillard (LaREM), déposée en application de l'article 34-1 de la Constitution, approuve la « définition de travail » de l'antisémitisme adoptée en 2016 par l'Alliance internationale pour la mémoire de l'Holocauste (IHRA), en excluant les exemples qui l'illustrent ; son exposé des motifs évoque l'antisionisme comme forme contemporaine de l'antisémitisme. Le texte n'est pas juridiquement contraignant et ne modifie ni le code pénal ni la loi de 1881. Il a été adopté le 3 décembre 2019 (154 pour, 72 contre, 43 abst.), avec le soutien du gouvernement, de LR et de la majorité de LaREM ; la gauche a voté contre et le MoDem s'est majoritairement abstenu.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier « Lutte contre l'antisémitisme »",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_contre_antisemitisme"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 3 décembre 2019",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/premiere-seance-du-mardi-03-decembre-2019"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_contre_antisemitisme",
+  "argumentsPour": [
+    {
+      "auteur": "Sylvain Maillard (LaREM, auteur)",
+      "resume": "La définition permettra de mieux qualifier les attaques antisionistes motivées par la haine des juifs, sans empêcher la critique de la politique israélienne.",
+      "citation": "Demain, grâce à ce texte, il sera possible de mieux qualifier les attaques antisionistes motivées par une haine des juifs, sans pour autant empêcher les critiques à l’égard des politiques menées par l’État d’Israël.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/premiere-seance-du-mardi-03-decembre-2019",
+      "date": "2019-12-03"
+    },
+    {
+      "auteur": "Christophe Castaner (ministre de l'Intérieur, gouvernement)",
+      "resume": "La définition ne contient pas les mots « sionisme » ou « antisionisme » et précise que les critiques d'Israël comparables à celles visant d'autres pays ne sont pas antisémites.",
+      "citation": "Les termes « sionisme » et « antisionisme », par exemple, ne figurent pas dans la définition de travail de l’IHRA.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/premiere-seance-du-mardi-03-decembre-2019",
+      "date": "2019-12-03"
+    },
+    {
+      "auteur": "Éric Ciotti (Les Républicains)",
+      "resume": "Il faut, comme quinze autres pays de l'Union, approuver la définition de l'IHRA ; vouloir détruire Israël revient à viser le peuple juif.",
+      "citation": "Il est indispensable d’approuver, comme l’ont d’ailleurs fait quinze autres membres de l’Union européenne, la définition de l’antisémitisme telle qu’elle a été conçue par l’IHRA.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/premiere-seance-du-mardi-03-decembre-2019",
+      "date": "2019-12-03"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sabine Rubin (La France insoumise)",
+      "resume": "La résolution entretiendrait un amalgame entre antisionisme et antisémitisme ; la définition serait floue et n'ajouterait rien à l'arsenal répressif.",
+      "citation": "Désignée comme « définition de travail » depuis 2016, sa caractérisation de l’antisémitisme est floue et n’enrichit nullement l’arsenal répressif déjà existant.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/premiere-seance-du-mardi-03-decembre-2019",
+      "date": "2019-12-03"
+    },
+    {
+      "auteur": "Jean-Paul Lecoq (GDR)",
+      "resume": "Les exemples attachés à la définition laisseraient penser que certaines critiques de l'État israélien sont antisémites, limitant la liberté d'opinion.",
+      "citation": "Or ces exemples sont extrêmement dangereux car ils laissent penser que certaines critiques de l’État israélien sont assimilables à de l’antisémitisme.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/premiere-seance-du-mardi-03-decembre-2019",
+      "date": "2019-12-03"
+    },
+    {
+      "auteur": "Michèle Victory (Socialistes)",
+      "resume": "Toutes les victimes de haine doivent être protégées sans définition spécifique à une communauté ; la CNCDH juge cette définition inacceptable.",
+      "citation": "Nous devons protéger toutes les victimes de propos et d’actes haineux avec considération et fermeté ; nul besoin d’en distinguer certaines ou d’énoncer des définitions spécifiques valant pour telle communauté ou pour telle religion.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/premiere-seance-du-mardi-03-decembre-2019",
+      "date": "2019-12-03"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Bruno Millienne (MoDem)",
+      "resume": "La définition, objet de controverses, limiterait la portée de la lutte contre l'antisémitisme ; le groupe s'est majoritairement abstenu.",
+      "citation": "Alors que l’on veut que l’antisémitisme soit combattu dans toutes ses dimensions, en donner une telle définition limiterait forcément la portée de cette lutte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/premiere-seance-du-mardi-03-decembre-2019",
+      "date": "2019-12-03"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°2338 du 3 décembre 2019) ; pas d'intervention personnelle dans le compte rendu : argument tiré des interventions de son groupe (Sabine Rubin, Éric Coquerel).",
+      "argument": "Le groupe LFI dénonce un amalgame entre antisionisme et antisémitisme et défend la liberté de critiquer la politique d'un État étranger.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/premiere-seance-du-mardi-03-decembre-2019",
+      "date": "2019-12-03"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2338) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR a voté : contre (0p/11c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+      "date": "2019-12-03"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2338) ; aucune déclaration retrouvée. À titre indicatif, son groupe FI a voté : contre (0p/14c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+      "date": "2019-12-03"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ni de responsabilité nationale à EELV en 2019 ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+      "date": "2019-12-03"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°2338) ; aucune déclaration retrouvée. Non-inscrite : pas de groupe servant de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+      "date": "2019-12-03"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur cette résolution ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 11 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+      "date": "2019-12-03"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État du gouvernement Philippe, qui a soutenu la résolution (ministre de l'Intérieur Christophe Castaner au banc) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/premiere-seance-du-mardi-03-decembre-2019",
+      "date": "2019-12-03"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a soutenu la résolution en séance ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/premiere-seance-du-mardi-03-decembre-2019",
+      "date": "2019-12-03"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; résolution propre à l'Assemblée, pas de vote au Sénat ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (46 pour / 1 contre / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+      "date": "2019-12-03"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe LR de l'Assemblée a voté pour (46 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+      "date": "2019-12-03"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (46 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+      "date": "2019-12-03"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°2338) ; aucune déclaration retrouvée. Les non-inscrits se sont partagés (2 pour / 2 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+      "date": "2019-12-03"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2019 ; aucune déclaration vérifiable retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+      "date": "2019-12-03"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non-inscrit, n'a pas pris part au vote (scrutin n°2338) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2338",
+      "date": "2019-12-03"
+    }
+  },
+  "alertes": [
+    "Question reformulée : la questionProposee indiquait que la définition « inclut certaines formes d'antisionisme ». La résolution approuve la définition de l'IHRA en excluant ses exemples ; le ministre souligne que les mots « sionisme » et « antisionisme » n'y figurent pas, tandis que l'exposé des motifs et les opposants évoquent l'antisionisme. La polarité (Oui = pour) est inchangée.",
+    "Vote sur une résolution (article 34-1 de la Constitution) : texte non contraignant, sans effet juridique direct.",
+    "Le groupe LaREM s'est divisé (84 pour, 26 contre, 22 abst.) et le MoDem s'est majoritairement abstenu.",
+    "Mélenchon : vote certain, argument repris des interventions du groupe LFI (non personnel).",
+    "Attal, Philippe : positions déduites du soutien du gouvernement en séance."
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "id": "sante-etrangers-2021",
+  "titre": "Restreindre la couverture santé des sans-papiers (résolution LR, 2021)",
+  "question": "Faut-il restreindre la couverture santé des étrangers en situation irrégulière et des demandeurs d'asile originaires de pays sûrs ?",
+  "ouiSignifie": "pour",
+  "contexte": "Après un rapport de Véronique Louwagie (LR) sur le coût des soins aux étrangers en situation irrégulière (onze dispositifs, au moins 1,5 milliard d'euros en 2020, environ 380 000 bénéficiaires de l'AME), le groupe LR a déposé une proposition de résolution non contraignante. Elle invitait le gouvernement à : limiter le panier de soins de l'AME aux soins urgents ; recueillir des données sur la nationalité et les pathologies des bénéficiaires ; revoir le maintien des droits expirés à la protection maladie (PUMa, C2S) ; modifier la couverture santé des demandeurs d'asile venant de pays d'origine « sûrs ». Le gouvernement Castex (Brigitte Bourguignon) s'y est opposé : restreindre l'AME engorgerait l'hôpital, et des restrictions étaient déjà en vigueur depuis le 1er janvier 2021, dont un délai de neuf mois pour certains soins programmés. La résolution a été rejetée le 15 juin 2021 (25 voix contre 42), seuls LR et deux non-inscrits votant pour.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 3e séance du 15 juin 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N307"
+    },
+    {
+      "titre": "Assemblée nationale – proposition de résolution n° 4190",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b4190_proposition-resolution"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/couverture_sante_des_etrangers_en_situation_irreguliere"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3822",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3822"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3822",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/couverture_sante_des_etrangers_en_situation_irreguliere",
+  "argumentsPour": [
+    {
+      "auteur": "Véronique Louwagie (Les Républicains, autrice)",
+      "resume": "Le nombre de bénéficiaires de l'AME augmente de plus de 1 000 par mois ; ce flux doit être maîtrisé en faisant comme les autres pays européens.",
+      "citation": "Ce sont les chiffres qui parlent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N307",
+      "date": "2021-06-15"
+    },
+    {
+      "auteur": "Éric Ciotti (Les Républicains)",
+      "resume": "Le dispositif français est le plus généreux d'Europe selon l'IGF et l'IGAS ; il faut réduire la prise en charge aux soins urgents.",
+      "citation": "Nous demandons donc que cette prise en charge soit réduite à l’urgence.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N307",
+      "date": "2021-06-15"
+    },
+    {
+      "auteur": "Bruno Bilde (non inscrit, Rassemblement national)",
+      "resume": "L'AME est une exception française qui crée un appel d'air pour une immigration sanitaire ; il faut la supprimer.",
+      "citation": "Il faut mettre fin à l’AME, exception française qui constitue un appel d’air pour une immigration sanitaire qui n’est clairement pas un phénomène marginal.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N307",
+      "date": "2021-06-15"
+    },
+    {
+      "auteur": "Jean-Christophe Lagarde (UDI et indépendants)",
+      "resume": "Sans soutenir la suppression, il juge l'AME devenue injuste à cause de la fraude et du non-recours, et réclame une vraie réforme.",
+      "citation": "L’AME est donc devenue une prestation injuste qu’il convient de réformer avec une vraie ambition",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N307",
+      "date": "2021-06-15"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Brigitte Bourguignon (ministre déléguée, gouvernement)",
+      "resume": "Restreindre l'AME n'économise rien : cela engorge l'hôpital et fait courir des risques sanitaires, comme en Espagne après 2012.",
+      "citation": "L’AME, ce n’est pas du confort, c’est une exigence d’humanité, c’est un impératif de santé publique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N307",
+      "date": "2021-06-15"
+    },
+    {
+      "auteur": "Mireille Robert (La République en marche)",
+      "resume": "Limiter l'AME aux soins urgents ferait exploser les dépenses plus tard ; on ne risque pas sa vie en Méditerranée pour des soins gratuits.",
+      "citation": "Limiter son accès aux seuls soins urgents entraînerait à coup sûr l’explosion ultérieure des dépenses",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N307",
+      "date": "2021-06-15"
+    },
+    {
+      "auteur": "Bénédicte Taurine (La France insoumise)",
+      "resume": "La réduction de l'AME serait contre-productive pour la santé publique ; le texte stigmatise une partie de la population.",
+      "citation": "Cette proposition de résolution ne vise qu’à stigmatiser une partie de la population et à créer un climat délétère vis-à-vis des étrangers à des fins purement électoralistes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N307",
+      "date": "2021-06-15"
+    },
+    {
+      "auteur": "Gérard Leseul (Socialistes)",
+      "resume": "Le coût de l'AME est faible et stable (0,5 % des dépenses de santé) ; c'est la réponse humaniste fidèle aux valeurs françaises.",
+      "citation": "Le groupe Socialistes et apparentés votera contre votre proposition de résolution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N307",
+      "date": "2021-06-15"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3822 du 15 juin 2021) ; aucune intervention personnelle retrouvée : argument = explication de vote de son groupe LFI (Bénédicte Taurine).",
+      "argument": "Le groupe juge la réduction de l'AME contre-productive pour la santé publique et dénonce un texte qui stigmatise les étrangers à des fins électoralistes.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N307",
+      "date": "2021-06-15"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3822) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR, auquel il appartenait, a voté contre (0-1) et Hubert Wulfranc a dénoncé le texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3822",
+      "date": "2021-06-15"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3822) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI, auquel il appartenait, a voté contre (0-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3822",
+      "date": "2021-06-15"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée non inscrite, n'a pas pris part au vote (scrutin n°3822) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3822",
+      "date": "2021-06-15"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée non inscrite, n'a pas pris part au vote (scrutin n°3822) ; aucune déclaration datée et vérifiable retrouvée. À titre indicatif, le député RN Bruno Bilde a réclamé en séance la suppression de l'AME et les non-inscrits ont voté pour (2-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3822",
+      "date": "2021-06-15"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Député non inscrit, n'a pas pris part au vote (scrutin n°3822). En séance le 7 juin 2023, lors d'une résolution LR similaire, il a dénoncé le coût et les fraudes de l'AME, tout en défendant les soins urgents.",
+      "argument": "Il veut réduire des dépenses jugées exorbitantes, en garantissant seulement les soins urgents.",
+      "citation": "il est en revanche inacceptable de fermer les yeux sur l’ampleur des détournements.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259",
+      "date": "2023-06-07"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui s'est déclaré défavorable à la résolution (Brigitte Bourguignon) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N307",
+      "date": "2021-06-15"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; les écologistes n'avaient pas de groupe à l'Assemblée sous cette législature.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3822",
+      "date": "2021-06-15"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, allié de Place publique, a voté contre (0-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3822",
+      "date": "2021-06-15"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire (maire du Havre) ; aucune déclaration retrouvée ; Horizons n'existait pas encore (le groupe proche Agir ensemble a voté contre, 0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3822",
+      "date": "2021-06-15"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur, président du groupe LR : vote nominatif pour l'article transformant l'AME en aide médicale d'urgence dans le projet de loi immigration (Sénat, scrutin n°24 du 7 novembre 2023). Vote postérieur à cette résolution, sur une mesure proche (aide médicale d'urgence).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-24.html",
+      "date": "2023-11-07"
+    },
+    "bertrand": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; candidat à l'investiture LR fin 2021, il proposait de supprimer l'AME (Le Quotidien du médecin, 3 décembre 2021). Déclaration postérieure de six mois au vote, allant au-delà de la résolution.",
+      "argument": "Propose de supprimer l'aide médicale d'État.",
+      "citation": "Supprimer l'aide médicale d'État",
+      "url": "https://www.lequotidiendumedecin.fr/actus-medicales/politique-de-sante/xavier-bertrand-supprimer-laide-medicale-detat",
+      "date": "2021-12-03"
+    },
+    "lisnard": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; candidat en 2026, il propose de supprimer l'AME (site de son parti Nouvelle Énergie), ce qui va au-delà de la résolution.",
+      "argument": "Propose de supprimer l'aide médicale d'État dans un ensemble de mesures sur les prestations non contributives.",
+      "citation": "David Lisnard propose de supprimer l’aide médicale d’État.",
+      "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-supprimer-l-aide-medicale-d-etat/",
+      "date": "2026-08-18"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration vérifiable retrouvée ; Reconquête n'existait pas encore.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3822",
+      "date": "2021-06-15"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur une proposition de résolution (art. 34-1), sans effet juridique ; scrutin à très faible participation (67 votants).",
+    "Retailleau, Bertrand, Lisnard, Dupont-Aignan : positions tirées de prises de position ou de votes postérieurs (2021-2026) sur l'AME, transposées à cette résolution proche.",
+    "Bertrand et Lisnard proposent de supprimer l'AME, ce qui va au-delà de la résolution (recentrage sur les soins urgents).",
+    "Le Pen : aucune déclaration datée retrouvée ; position non déduite de celle de Bruno Bilde.",
+    "Une fiche voisine (ame-aide-urgence, 2023) porte sur une résolution LR similaire."
+  ]
+}

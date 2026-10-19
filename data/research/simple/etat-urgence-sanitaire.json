@@ -1,0 +1,18 @@
+{
+  "id": "etat-urgence-sanitaire",
+  "questionSimple": "Faut-il créer un « état d'urgence sanitaire » permettant au gouvernement de confiner la population et limiter certaines libertés ?",
+  "enBref": "En mars 2020, face au Covid-19, la loi crée un régime d'exception temporaire. Pendant cette période, le gouvernement peut confiner les gens chez eux, interdire les rassemblements et réquisitionner des biens. La loi reporte aussi le second tour des municipales.",
+  "pourquoiPour": "Pour ses défenseurs, une crise sanitaire inédite exige un outil juridique nouveau et rapide. Ces pouvoirs restent limités dans le temps et contrôlés par le Parlement et le juge.",
+  "pourquoiContre": "Pour ses opposants, le texte donne des pouvoirs trop larges au gouvernement et réduit le débat démocratique. Il fallait plutôt des moyens concrets : masques, tests et hôpitaux.",
+  "ceQuiSestPasse": "Adoptée très largement le 22 mars 2020, la loi a été promulguée le lendemain ; l'état d'urgence sanitaire a été déclaré pour deux mois.",
+  "lexique": [
+    {
+      "terme": "Commission mixte paritaire (CMP)",
+      "definition": "Groupe de députés et sénateurs chargé de trouver un texte commun aux deux assemblées."
+    },
+    {
+      "terme": "Ordonnance",
+      "definition": "Mesure prise par le gouvernement dans un domaine de la loi, avec l'autorisation du Parlement."
+    }
+  ]
+}

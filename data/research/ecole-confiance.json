@@ -1,0 +1,212 @@
+{
+  "id": "ecole-confiance",
+  "titre": "Loi pour une école de la confiance (2019)",
+  "question": "Faut-il abaisser l'âge de l'instruction obligatoire à 3 ans et instaurer une obligation de formation jusqu'à 18 ans (loi pour une école de la confiance, 2019) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi de Jean-Michel Blanquer abaisse de 6 à 3 ans l'âge de l'instruction obligatoire et instaure une obligation de formation de 16 à 18 ans ; il contient aussi un article sur l'« exemplarité » des personnels et le « lien de confiance », le renforcement du contrôle de l'instruction à domicile, la création d'établissements publics locaux d'enseignement international, le remplacement du CNESCO par un Conseil d'évaluation de l'école, des ESPE par des INSPE, et la présence du drapeau et de la devise dans les classes. L'Assemblée a adopté le texte de la commission mixte paritaire le 2 juillet 2019 (112 pour, 48 contre, 14 abst.), contre l'opposition de la gauche et de la majorité de LR. Saisi par plus de soixante députés, le Conseil constitutionnel l'a jugé partiellement conforme ; la loi a été promulguée le 26 juillet 2019.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif « Pour une école de la confiance »",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/ecole_de_la_confiance"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 2 juillet 2019",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-02-juillet-2019"
+    },
+    {
+      "titre": "Sénat – scrutins publics sur le texte",
+      "url": "https://www.senat.fr/scrutin-public/dossiers/pjl18-323_scr.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2015",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/ecole_de_la_confiance",
+  "argumentsPour": [
+    {
+      "auteur": "Anne Brugnera (LaREM)",
+      "resume": "L'instruction obligatoire dès 3 ans est un levier contre les inégalités sociales : chaque enfant doit avoir les mêmes chances dès la maternelle.",
+      "citation": "L’obligation d’instruction fut l’acte véritablement fondateur de notre République et cette mesure phare nous permet d’aller encore plus loin, puisqu’elle constitue un véritable levier de lutte contre les inégalités sociales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-02-juillet-2019",
+      "date": "2019-07-02"
+    },
+    {
+      "auteur": "Jean-Michel Blanquer (ministre de l'Éducation nationale)",
+      "resume": "L'obligation de formation jusqu'à 18 ans découle du plan pauvreté ; l'instruction à 3 ans s'accompagne d'une visite médicale.",
+      "citation": "Le prolongement du devoir de formation, porté de 16 à 18 ans, est issu du plan pauvreté que nous avons consacré par la loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-02-juillet-2019",
+      "date": "2019-07-02"
+    },
+    {
+      "auteur": "Nadia Essayan (MoDem)",
+      "resume": "Le texte ancre l'école maternelle dans le système éducatif et réforme la formation des enseignants.",
+      "citation": "Par l’abaissement de l’âge de l’instruction obligatoire, cette loi vient ancrer l’école maternelle et les savoirs qui y sont transmis dans notre système éducatif.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-02-juillet-2019",
+      "date": "2019-07-02"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Régis Juanico (Socialistes)",
+      "resume": "Une loi « verticale » qui détricote la refondation de 2013 et constitue un cadeau à l'enseignement privé sans contrepartie de mixité sociale.",
+      "citation": "C’est aussi un cadeau à l’enseignement privé, sans contrepartie en matière de mixité sociale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-02-juillet-2019",
+      "date": "2019-07-02"
+    },
+    {
+      "auteur": "Sabine Rubin (La France insoumise)",
+      "resume": "LFI rejette les finalités du texte, qui préparerait une société à deux vitesses.",
+      "citation": "Le groupe La France insoumise rejettera ce projet de loi, de même qu’il rejette les finalités que vous donnez à l’éducation et à la société à deux vitesses que votre texte prépare durablement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-02-juillet-2019",
+      "date": "2019-07-02"
+    },
+    {
+      "auteur": "Elsa Faucillon (GDR)",
+      "resume": "L'article sur le « lien de confiance » servirait à sanctionner les enseignants, et les établissements internationaux créeraient un enseignement à deux vitesses.",
+      "citation": "En s’appuyant sur cet article qui évoque la confiance, vous entendez pouvoir sanctionner ce que vous ne réussissez pas à punir actuellement : sinon, pourquoi un tel article ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-02-juillet-2019",
+      "date": "2019-07-02"
+    },
+    {
+      "auteur": "Frédéric Reiss (Les Républicains)",
+      "resume": "La suppression programmée des jardins d'enfants bafouerait la liberté de choix des parents ; les avancées du Sénat sur les directeurs d'école ont été supprimées.",
+      "citation": "La liberté de choisir et la confiance aux parents, premiers éducateurs de leurs enfants, sont ainsi bafouées.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-02-juillet-2019",
+      "date": "2019-07-02"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°2015 du 2 juillet 2019) ; pas d'intervention personnelle retrouvée : argument tiré de l'explication de vote de son groupe (Sabine Rubin, LFI).",
+      "argument": "Le groupe LFI rejette les finalités données à l'éducation par le texte, qui préparerait une société à deux vitesses.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-02-juillet-2019",
+      "date": "2019-07-02"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2015) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR a voté : contre (0p/5c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2015",
+      "date": "2019-07-02"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2015) ; aucune déclaration retrouvée. À titre indicatif, son groupe FI a voté : contre (0p/11c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2015",
+      "date": "2019-07-02"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ni de responsabilité nationale à EELV en 2019 ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2015",
+      "date": "2019-07-02"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°2015 du 2 juillet 2019) ; pas d'intervention personnelle retrouvée dans le compte rendu de la séance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2015",
+      "date": "2019-07-02"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé depuis juillet 2019, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 10 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2015",
+      "date": "2019-07-02"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'Éducation nationale Jean-Michel Blanquer, qui portait le projet de loi ; pas de déclaration personnelle retrouvée sur ce vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-02-juillet-2019",
+      "date": "2019-07-02"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a déposé le projet de loi et engagé la procédure accélérée ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/ecole_de_la_confiance",
+      "date": "2019-07-02"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour l'ensemble du projet de loi au Sénat en première lecture, dans la version du Sénat (scrutin public n°118 du 21 mai 2019).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-118.html",
+      "date": "2019-05-21"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe LR de l'Assemblée a voté majoritairement contre (1 pour / 14 contre / 9 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2015",
+      "date": "2019-07-02"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté majoritairement contre (1 pour / 14 contre / 9 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2015",
+      "date": "2019-07-02"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°2015) ; aucune déclaration retrouvée. Les non-inscrits ont voté majoritairement contre (1 pour / 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2015",
+      "date": "2019-07-02"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2019 ; aucune déclaration vérifiable retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2015",
+      "date": "2019-07-02"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non-inscrit, n'a pas pris part au vote (scrutin n°2015) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2015",
+      "date": "2019-07-02"
+    }
+  },
+  "alertes": [
+    "Le texte est un projet de loi large : la question porte sur ses deux mesures phares (instruction à 3 ans, formation jusqu'à 18 ans), mais les votes contre visent souvent d'autres dispositions (article 1er sur l'exemplarité, financement des maternelles privées, EPLEI, jardins d'enfants, Conseil d'évaluation).",
+    "Retailleau : vote sur la version du Sénat en première lecture (21 mai 2019), pas sur le texte de la CMP ; le scrutin du Sénat sur la CMP (4 juillet 2019) n'a pas été retrouvé dans la liste des scrutins publics.",
+    "Conseil constitutionnel : décision « partiellement conforme » ; le détail des dispositions censurées n'a pas été vérifié.",
+    "Mélenchon : vote certain, argument repris de l'explication de vote du groupe LFI (non personnel).",
+    "Attal, Philippe : positions déduites de l'appartenance au gouvernement."
+  ]
+}

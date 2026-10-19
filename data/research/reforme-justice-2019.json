@@ -1,0 +1,209 @@
+{
+  "id": "reforme-justice-2019",
+  "titre": "Réforme de la justice 2018-2022",
+  "question": "Faut-il adopter la réforme de la justice de 2019 (fusion des tribunaux d'instance et de grande instance, tribunal criminel sans jury expérimental, interdiction des peines de prison de moins d'un mois) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Porté par la garde des Sceaux Nicole Belloubet, le projet de loi de programmation 2018-2022 et de réforme pour la justice prévoit une hausse du budget de la justice de 1,6 milliard d'euros en cinq ans et 6 500 emplois. Il regroupe les tribunaux d'instance et de grande instance en « tribunaux judiciaires » (1er janvier 2020), crée à titre expérimental une cour criminelle sans jury pour certains crimes, interdit les peines de prison ferme d'un mois ou moins et développe la dématérialisation et les modes amiables de règlement des litiges. Après l'échec de la commission mixte paritaire, l'Assemblée l'a adopté en nouvelle lecture le 23 janvier 2019 (325 pour, 213 contre), puis en lecture définitive le 18 février. Le Conseil constitutionnel l'a déclaré partiellement conforme (décision n° 2019-778 DC du 21 mars 2019) et la loi a été promulguée le 23 mars 2019 (loi n° 2019-222).",
+  "contexteSources": [
+    {
+      "titre": "Sénat – Dossier législatif (décision 2019-778 DC, loi n° 2019-222)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl17-463.html"
+    },
+    {
+      "titre": "Wikipédia – Loi de programmation 2018-2022 et de réforme pour la justice",
+      "url": "https://fr.wikipedia.org/wiki/Loi_de_programmation_2018-2022_et_de_r%C3%A9forme_pour_la_justice"
+    },
+    {
+      "titre": "info.gouv.fr – Justice : loi de programmation 2018-2022 et de réforme",
+      "url": "https://info.gouv.fr/actualite/justice-loi-de-programmation-2018-2022-et-de-reforme"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°1633",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1633"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1633",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/reforme_justice_programmation_2018-2022",
+  "argumentsPour": [
+    {
+      "auteur": "Jean Terlier (La République en marche)",
+      "resume": "Le texte a été coconstruit et amendé avec les acteurs de terrain ; ses dispositions doivent être jugées à l'épreuve de la pratique et de l'expérimentation.",
+      "citation": "Nous sommes persuadés qu’avant d’être jugés et condamnés, ces textes méritent d’être mis à l’épreuve de la pratique et de l’expérimentation",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N124",
+      "date": "2019-01-23"
+    },
+    {
+      "auteur": "Erwan Balanant (MODEM)",
+      "resume": "Le texte simplifie le fonctionnement des juridictions sans les éloigner des justiciables ; la fusion des tribunaux est acceptée, le Gouvernement s'étant engagé à maintenir le maillage territorial.",
+      "citation": "Néanmoins le Gouvernement s’est fermement engagé à maintenir le maillage territorial et c’est donc avec confiance que nous accueillons cette mesure.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N124",
+      "date": "2019-01-23"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Philippe Gosselin (Les Républicains)",
+      "resume": "La réforme ne répond pas aux attentes : dématérialisation source d'inégalités d'accès, spécialisation menaçant des tribunaux, aide juridictionnelle non traitée.",
+      "citation": "Parce que le compte n’y est pas, parce que cette réforme de la justice n’est pas la nôtre, nous nous y opposons.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N124",
+      "date": "2019-01-23"
+    },
+    {
+      "auteur": "Cécile Untermaier (Socialistes)",
+      "resume": "Le texte ne traduit pas l'objectif d'une justice plus proche et plus accessible aux citoyens.",
+      "citation": "Nous ne retrouvons pas ici la traduction de cette vision et, pour cette raison, nous voterons contre ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N124",
+      "date": "2019-01-23"
+    },
+    {
+      "auteur": "Ugo Bernalicis (La France insoumise)",
+      "resume": "Médiations obligatoires et payantes, représentation obligatoire par avocat et recul du contrôle judiciaire sur l'enquête éloigneraient les justiciables modestes de leur juge.",
+      "citation": "Vous mettez sur pied, en quelque sorte, une justice de classe.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N124",
+      "date": "2019-01-23"
+    },
+    {
+      "auteur": "Sébastien Jumel (Gauche démocrate et républicaine)",
+      "resume": "La fusion des tribunaux et le transfert de compétences préparent des fermetures de juridictions et une « justice sans juge ».",
+      "citation": "Un texte qui ouvre la voie demain à une possible extension d’une justice sans juge.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N124",
+      "date": "2019-01-23"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1633 du 23 janvier 2019) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe LFI (Ugo Bernalicis).",
+      "argument": "Groupe LFI : une « justice de classe » qui éloigne le justiciable de son juge (médiation obligatoire payante, représentation obligatoire) et renforce le volet répressif.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N124",
+      "date": "2019-01-23"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1633) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe GDR (Sébastien Jumel).",
+      "argument": "Groupe GDR : un texte qui réduit le service public de la justice, prépare des fermetures de tribunaux et ouvre la voie à une justice sans juge.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N124",
+      "date": "2019-01-23"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1633) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe LFI (Ugo Bernalicis).",
+      "argument": "Groupe LFI : la réforme éloignerait les justiciables modestes de la justice et réduirait le contrôle judiciaire sur l'enquête policière.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N124",
+      "date": "2019-01-23"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; aucun groupe EELV à l'Assemblée en 2019 pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1633",
+      "date": "2019-01-23"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°1633) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1633",
+      "date": "2019-01-23"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en janvier 2019 (eurodéputé à partir de juillet 2019) ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée, allié de Place publique, a voté contre (0 pour / 29 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1633",
+      "date": "2019-01-23"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'Éducation nationale dans le gouvernement Philippe, qui a porté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl17-463.html",
+      "date": "2019-01-23"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a déposé et défendu le projet de loi ; pas de déclaration personnelle retenue.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl17-463.html",
+      "date": "2019-01-23"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "vote_senat",
+      "detail": "Au Sénat, il a voté pour la version du texte modifiée par le Sénat en première lecture (scrutin n°3 du 23 octobre 2018), version différente de celle adoptée ensuite par l'Assemblée ; pas de vote nominatif retrouvé sur le texte final.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-3.html",
+      "date": "2018-10-23"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire, sans parti depuis son départ de LR (fin 2017) ; aucune déclaration retrouvée ; pas de proxy pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1633",
+      "date": "2019-01-23"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (0 pour / 103 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1633",
+      "date": "2019-01-23"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1633) ; aucune explication de vote des non-inscrits ni déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1633",
+      "date": "2019-01-23"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2019 (Reconquête fondé en 2021) ; aucune déclaration vérifiée ; pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1633",
+      "date": "2019-01-23"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1633) ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1633",
+      "date": "2019-01-23"
+    }
+  },
+  "alertes": [
+    "Le scrutin n°1633 porte sur la nouvelle lecture après échec de la CMP ; la lecture définitive a eu lieu le 18 février 2019. Le vote porte sur le projet de loi ordinaire (le projet de loi organique associé a fait l'objet d'un vote distinct).",
+    "La question cite trois mesures parmi de nombreuses autres (programmation budgétaire, procédure pénale, divorce, pensions alimentaires, création du parquet national antiterroriste…).",
+    "Retailleau : position « inconnu » car son seul vote nominatif retrouvé porte sur la version du Sénat (première lecture), profondément différente du texte final ; le groupe LR de l'Assemblée a voté contre le texte final.",
+    "Mélenchon, Roussel, Ruffin : arguments tirés de l'explication de vote de leur groupe. Le Pen et Dupont-Aignan : aucune explication retrouvée (pas d'orateur des non-inscrits dans les explications de vote de cette séance).",
+    "Attal et Philippe : position déduite de l'appartenance au gouvernement."
+  ]
+}

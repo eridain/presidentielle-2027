@@ -1,0 +1,231 @@
+{
+ "id": "separatisme",
+ "titre": "Loi « séparatisme » (principes de la République)",
+ "question": "Faut-il adopter la loi confortant le respect des principes de la République, dite « séparatisme » (contrat d'engagement républicain des associations, contrôle des cultes, autorisation préalable de l'instruction en famille) ?",
+ "ouiSignifie": "pour",
+ "contexte": "Présenté en Conseil des ministres le 9 décembre 2020 après le discours d'Emmanuel Macron aux Mureaux et l'assassinat de Samuel Paty, le projet de loi étend la neutralité aux organismes chargés d'un service public, crée un délit de séparatisme, impose un « contrat d'engagement républicain » aux associations subventionnées, renforce le contrôle des associations cultuelles et de leurs financements, et soumet l'instruction en famille à autorisation préalable. L'Assemblée l'a adopté en première lecture le 16 février 2021 (347 pour, 151 contre, 65 abstentions). Le Sénat, après l'avoir modifié et adopté le 12 avril 2021, a rejeté le texte en nouvelle lecture par une question préalable ; l'Assemblée l'a adopté définitivement le 23 juillet 2021. Le Conseil constitutionnel (décision 2021-823 DC du 13 août 2021) a censuré trois dispositions et émis des réserves ; la loi n° 2021-1109 a été promulguée le 24 août 2021.",
+ "contexteSources": [
+  {
+   "titre": "vie-publique.fr — Loi du 24 août 2021 confortant le respect des principes de la République",
+   "url": "https://www.vie-publique.fr/loi/277621-loi-separatisme-respect-des-principes-de-la-republique-24-aout-2021"
+  },
+  {
+   "titre": "LCP — Principes de la République : ce que les députés ont voté",
+   "url": "https://lcp.fr/actualites/principes-de-la-republique-ce-que-les-deputes-ont-vote-55412"
+  },
+  {
+   "titre": "Sénat — Dossier législatif « Respect des principes de la République »",
+   "url": "https://www.senat.fr/dossier-legislatif/pjl20-369.html"
+  },
+  {
+   "titre": "Conseil constitutionnel — Décision n° 2021-823 DC du 13 août 2021",
+   "url": "https://www.conseil-constitutionnel.fr/decision/2021/2021823DC.htm"
+  }
+ ],
+ "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3421",
+ "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/respects_principes_republique",
+ "argumentsPour": [
+  {
+   "auteur": "Guillaume Vuilletet (LaREM)",
+   "resume": "Le texte crée une « boîte à outils » contre le détournement de la liberté associative, l'instruction en famille sectaire et les financements étrangers des cultes, dans le respect de l'État de droit.",
+   "citation": "Nous avons construit une boîte à outils pratique et simple, destinée à atteindre ces objectifs.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-16-fevrier-2021",
+   "date": "2021-02-16"
+  },
+  {
+   "auteur": "Isabelle Florennes (MoDem)",
+   "resume": "Le texte répare des décennies de renoncements et apporte des outils face aux menaces contre la République.",
+   "citation": "Nous nous attaquons de front à un problème complexe et nous avons tout mis en œuvre pour apporter des outils afin de répondre aux menaces qui pèsent sur la République.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-16-fevrier-2021",
+   "date": "2021-02-16"
+  },
+  {
+   "auteur": "Pierre-Yves Bournazel (Agir ensemble)",
+   "resume": "Le texte renforce l'arsenal législatif contre le séparatisme dans le cadre de l'État de droit, notamment la neutralité du service public.",
+   "citation": "L’objet du texte est en effet de renforcer notre arsenal législatif afin de lutter contre les tentatives de séparatisme et de permettre à la République de réagir dans le cadre de l’État de droit !",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-16-fevrier-2021",
+   "date": "2021-02-16"
+  }
+ ],
+ "argumentsContre": [
+  {
+   "auteur": "Alexis Corbière (La France insoumise)",
+   "resume": "Le texte ne renforce aucun principe républicain, jette la suspicion sur les associations musulmanes et confie au pouvoir administratif la dissolution d'associations cultuelles.",
+   "citation": "Hélas, ce texte, lui, n’aura formé qu’un halo supplémentaire de suspicion autour d’un ensemble d’associations généralement animées par nos concitoyens de confession musulmane.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-16-fevrier-2021",
+   "date": "2021-02-16"
+  },
+  {
+   "auteur": "Annie Genevard (Les Républicains)",
+   "resume": "Le texte est jugé insuffisant face à l'islamisme, vise tous les cultes au lieu de cibler l'idéologie séparatiste et restreint l'instruction en famille.",
+   "citation": "Nous voterons contre ce texte d’affichage sans grande portée et sans courage.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-16-fevrier-2021",
+   "date": "2021-02-16"
+  },
+  {
+   "auteur": "Charles de Courson (Libertés et territoires)",
+   "resume": "La majorité du groupe juge que le contrat d'engagement républicain et la restriction de l'instruction en famille portent une atteinte excessive aux libertés.",
+   "citation": "Notre groupe exprime majoritairement son désaccord sur certaines dispositions qui portent une atteinte excessive aux libertés fondamentales.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-16-fevrier-2021",
+   "date": "2021-02-16"
+  }
+ ],
+ "argumentsAbstention": [
+  {
+   "auteur": "Boris Vallaud (Socialistes)",
+   "resume": "Le groupe soutient certaines mesures (neutralité, contrôle des financements) mais estime que la liberté d'association sort affaiblie et que le volet social manque.",
+   "citation": "Une seule certitude : la liberté d’association ne sort pas renforcée de cette loi.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-16-fevrier-2021",
+   "date": "2021-02-16"
+  },
+  {
+   "auteur": "Stéphane Peu (GDR, communistes)",
+   "resume": "Le texte ne traite que des conséquences et pas des causes sociales du séparatisme ; il est vu comme une loi de restriction.",
+   "citation": "Malheureusement, votre loi est une loi de restriction, plutôt qu’une loi de liberté.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-16-fevrier-2021",
+   "date": "2021-02-16"
+  },
+  {
+   "auteur": "Marine Le Pen (non-inscrite, RN)",
+   "resume": "Le texte applique à tous des contraintes visant une minorité et ne désigne pas l'idéologie islamiste ; elle le qualifie d'« occasion loupée ».",
+   "citation": "Ce projet de loi est une occasion loupée –⁠ je m’en attriste.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-mercredi-03-fevrier-2021",
+   "date": "2021-02-03"
+  }
+ ],
+ "candidats": {
+  "melenchon": {
+   "position": "contre",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 3421 ; il a défendu la motion de rejet préalable de LFI le 1er février 2021.",
+   "argument": "Texte en partie redondant avec le droit existant et menaçant pour les libertés, notamment associatives ; il craint des effets néfastes pour l'unité nationale envers les musulmans.",
+   "citation": "la loi que vous proposez est en partie inutile, car répétant ce qui existe déjà, et dangereuse quant au reste, car elle menace la liberté.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-lundi-01-fevrier-2021",
+   "date": "2021-02-01"
+  },
+  "roussel": {
+   "position": "abstention",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 3421 ; aucune explication personnelle trouvée : argument = explication de vote du groupe GDR (Stéphane Peu).",
+   "argument": "Le groupe GDR juge que le texte ne traite pas les causes sociales du séparatisme et constitue une loi de restriction plutôt que de liberté.",
+   "citation": "Malheureusement, votre loi est une loi de restriction, plutôt qu’une loi de liberté.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-16-fevrier-2021",
+   "date": "2021-02-16"
+  },
+  "ruffin": {
+   "position": "contre",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 3421 ; aucune explication personnelle trouvée : argument = explication de vote du groupe LFI (Alexis Corbière).",
+   "argument": "Le groupe LFI estime que le texte stigmatise les associations musulmanes et donne au pouvoir administratif la dissolution des associations cultuelles.",
+   "citation": "Vous avez au cours de ces débats rejeté avec détermination tous nos amendements, aussi voterons-nous avec la même détermination contre votre texte.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-16-fevrier-2021",
+   "date": "2021-02-16"
+  },
+  "tondelier": {
+   "position": "inconnu",
+   "type": "groupe",
+   "detail": "Pas de mandat parlementaire ni de déclaration trouvée sur ce texte. PROXY : EELV n'avait pas de groupe à l'Assemblée ; au Sénat, le groupe Écologiste - Solidarité et Territoires a voté contre (12/12) le texte modifié par le Sénat (scrutin n° 112).",
+   "argument": null,
+   "citation": null,
+   "url": "https://www.senat.fr/scrutin-public/2020/scr2020-112.html",
+   "date": "2021-04-12"
+  },
+  "batho": {
+   "position": "abstention",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 3421 (députée non-inscrite, Génération écologie) ; aucune explication personnelle trouvée.",
+   "argument": null,
+   "citation": null,
+   "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3421",
+   "date": "2021-02-16"
+  },
+  "glucksmann": {
+   "position": "inconnu",
+   "type": "groupe",
+   "detail": "Eurodéputé, pas de vote sur ce texte national ni de déclaration trouvée. PROXY : le groupe Socialistes (allié de Place publique) s'est abstenu à l'Assemblée (0 pour, 1 contre, 28 abstentions).",
+   "argument": null,
+   "citation": null,
+   "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3421",
+   "date": "2021-02-16"
+  },
+  "attal": {
+   "position": "pour",
+   "type": "gouvernement",
+   "detail": "Secrétaire d'État, porte-parole du gouvernement Castex qui a présenté le projet de loi ; il l'a défendu sur CNews le jour de sa présentation en Conseil des ministres.",
+   "argument": "Il défend des outils pour permettre aux services d'agir, comme dissoudre plus facilement des associations prêchant des valeurs contraires à la République.",
+   "citation": "la peur doit changer de camp et ça doit être ceux qui ont un projet politique de se séparer de la République qui doivent nous voir à l'offensive",
+   "url": "https://www.vie-publique.fr/discours/277835-gabriel-attal-09122020-covid-vaccin-beauvau-securite-laicite",
+   "date": "2020-12-09"
+  },
+  "philippe": {
+   "position": "inconnu",
+   "type": "groupe",
+   "detail": "Maire du Havre, hors gouvernement depuis juillet 2020 ; aucune déclaration trouvée sur ce texte. PROXY : le groupe LaREM (majorité dont il était issu ; Horizons n'existait pas encore) a voté pour (252 pour, 1 contre, 10 abstentions).",
+   "argument": null,
+   "citation": null,
+   "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3421",
+   "date": "2021-02-16"
+  },
+  "retailleau": {
+   "position": "pour",
+   "type": "vote_senat",
+   "detail": "Vote nominatif au Sénat, scrutin n° 112 du 12 avril 2021, sur le texte tel que modifié par le Sénat ; il a ensuite voté la question préalable rejetant le texte de l'Assemblée en nouvelle lecture (scrutin n° 159).",
+   "argument": "Il votera des mesures jugées utiles mais reproche au texte de ne pas cibler l'islam politique, de ne pas traiter du voile et de restreindre l'instruction en famille.",
+   "citation": "si nous voterons certaines mesures, qui sont utiles, le vrai courage n’est pas au cœur de ce texte.",
+   "url": "https://www.senat.fr/seances/s202103/s20210330/s20210330_mono.html",
+   "date": "2021-03-30"
+  },
+  "bertrand": {
+   "position": "inconnu",
+   "type": "declaration",
+   "detail": "Président de région, sans vote ; avant le dépôt du texte, il a reproché au président de la République d'avoir tardé à légiférer sur les séparatismes. Aucune position trouvée sur le texte lui-même.",
+   "argument": "Il estime que trois ans ont été perdus et qu'un texte aurait dû voir le jour depuis longtemps.",
+   "citation": "Trois ans de perdus",
+   "url": "https://www.europe1.fr/politique/separatisme-xavier-bertrand-denonce-la-grande-naivete-demmanuel-macron-3993063",
+   "date": "2020-09-20"
+  },
+  "lisnard": {
+   "position": "inconnu",
+   "type": "groupe",
+   "detail": "Maire de Cannes, aucune déclaration trouvée sur ce texte. PROXY : le groupe LR (son parti à l'époque) a voté contre à l'Assemblée (0 pour, 97 contre, 5 abstentions), mais les sénateurs LR ont voté pour le texte modifié par le Sénat.",
+   "argument": null,
+   "citation": null,
+   "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3421",
+   "date": "2021-02-16"
+  },
+  "lepen": {
+   "position": "abstention",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 3421 ; intervention en discussion générale le 3 février 2021.",
+   "argument": "Elle juge que le texte applique à tous des mesures visant une minorité et ne désigne pas l'idéologie islamiste ; elle dénonce une « reculade politique ».",
+   "citation": "Plus problématique, beaucoup de mesures s’appliqueront à tous, alors que les risques qu’elles ont pour objet de prévenir ne concernent que les agissements d’une faible minorité",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-mercredi-03-fevrier-2021",
+   "date": "2021-02-03"
+  },
+  "zemmour": {
+   "position": "inconnu",
+   "type": "groupe",
+   "detail": "Éditorialiste à l'époque, sans mandat ni parti (Reconquête créé en décembre 2021) ; aucune déclaration sourcée trouvée sur ce texte. Aucun proxy de groupe applicable.",
+   "argument": null,
+   "citation": null,
+   "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3421",
+   "date": "2021-02-16"
+  },
+  "dupontaignan": {
+   "position": "contre",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 3421 ; intervention en discussion générale le 3 février 2021.",
+   "argument": "Il juge le texte pas à la hauteur : pas d'interdiction des financements étrangers des lieux de culte, ni d'expulsion des organisations islamistes, ni de mesures migratoires.",
+   "citation": "j’ai très vite compris que ce texte n’était pas du tout à la hauteur du défi historique qui nous est lancé.",
+   "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-mercredi-03-fevrier-2021",
+   "date": "2021-02-03"
+  }
+ },
+ "alertes": [
+  "Retailleau : son vote « pour » (Sénat, scrutin n° 112) porte sur une version profondément modifiée par le Sénat (intitulé complété « et de lutte contre le séparatisme ») ; il a ensuite voté la question préalable rejetant le texte de l'Assemblée en nouvelle lecture (scrutin n° 159 du 20 juillet 2021). Sa position sur le texte final promulgué est donc plutôt d'opposition.",
+  "Roussel, Ruffin, Batho : aucune intervention personnelle trouvée dans les comptes rendus de séance consultés (1er-16 février 2021, liste incomplète de séances) ; arguments = groupe ou null.",
+  "Tondelier, Glucksmann, Philippe, Lisnard, Zemmour : aucune déclaration datée trouvée ; positions « inconnu » avec proxy de groupe explicitement signalé. Pour Zemmour, aucun proxy pertinent (pas de parti en 2021).",
+  "Bertrand : la déclaration citée (Europe 1, 20 septembre 2020) précède le dépôt du texte et ne porte pas sur son contenu.",
+  "Le Monde et Les Échos (non accessibles sans JavaScript/abonnement) n'ont pas été utilisés."
+ ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "fusilles-pour-l-exemple",
+  "questionSimple": "Faut-il réhabiliter les soldats « fusillés pour l'exemple » pendant la guerre de 1914-1918 ?",
+  "enBref": "Pendant la Première Guerre mondiale, des soldats ont été condamnés à mort et exécutés pour désobéissance, après des procès rapides. Ce texte les réhabilite tous ensemble. Leurs noms iraient sur les monuments aux morts et un monument national serait construit.",
+  "pourquoiPour": "Pour ses partisans, ces soldats ont été jugés sans vrais droits de défense, sans appel ni avocat. Les réhabiliter répare une injustice et l'honneur des familles.",
+  "pourquoiContre": "Pour ses opposants, ce n'est pas à la loi de rendre l'honneur, mais au travail des historiens. Une réhabilitation de tous, sans examen au cas par cas, serait une erreur.",
+  "ceQuiSestPasse": "Adoptée par l'Assemblée en janvier 2022 (39 voix contre 26), la proposition a été rejetée par le Sénat en février 2023 et n'est pas devenue loi.",
+  "lexique": [
+    {
+      "terme": "Réhabilitation",
+      "definition": "Décision qui rétablit l'honneur d'une personne condamnée, en effaçant moralement sa condamnation."
+    },
+    {
+      "terme": "Conseil de guerre",
+      "definition": "Tribunal militaire qui jugeait les soldats pendant la guerre."
+    }
+  ]
+}

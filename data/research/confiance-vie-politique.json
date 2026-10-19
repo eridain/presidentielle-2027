@@ -1,0 +1,225 @@
+{
+  "id": "confiance-vie-politique",
+  "titre": "Loi organique confiance dans la vie politique (2017)",
+  "question": "Faut-il supprimer la réserve parlementaire et encadrer les activités de conseil des parlementaires (loi organique de 2017 pour la confiance dans la vie politique) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Premier texte du quinquennat Macron, la loi organique pour la confiance dans la vie politique supprime la « réserve parlementaire » (enveloppes de subventions attribuées sur proposition des parlementaires), renforce la prévention des conflits d'intérêts et encadre l'activité de conseil des parlementaires, qui doivent aussi justifier du respect de leurs obligations fiscales ; leurs frais de mandat sont remboursés sur justificatifs. L'Assemblée l'a adoptée en lecture définitive le 9 août 2017 (412 pour, 74 contre, 62 abstentions), après désaccord avec le Sénat, qui voulait remplacer la réserve par un dispositif d'aide aux communes rurales et aux associations. Le Conseil constitutionnel (décision n° 2017-753 DC du 8 septembre 2017) a validé la suppression de la réserve parlementaire mais censuré celle de la « réserve ministérielle » ; la loi organique n° 2017-1338 a été promulguée le 15 septembre 2017.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – Salle de presse : Rétablir la confiance dans la vie politique (étapes, décisions du Conseil constitutionnel, promulgation)",
+      "url": "https://www.senat.fr/salle-de-presse/201706/retablir-la-confiance-dans-la-vie-politique.html"
+    },
+    {
+      "titre": "Vie publique – Dossier législatif de la loi organique n° 2017-1338 du 15 septembre 2017",
+      "url": "https://www.vie-publique.fr/dossierlegislatif/JORFDOLE000034924617"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 9 août 2017",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033"
+    },
+    {
+      "titre": "Assemblée nationale – Analyse du scrutin n°119",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/119"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/119",
+  "urlDossier": "https://www.vie-publique.fr/dossierlegislatif/JORFDOLE000034924617",
+  "argumentsPour": [
+    {
+      "auteur": "Paula Forteza (La République en marche)",
+      "resume": "Le texte met fin à la réserve parlementaire et ministérielle, interdit les emplois familiaux et impose la probité aux candidats : la majorité tient ses promesses de campagne.",
+      "citation": "Les Français retiendront que c'est La République en marche qui aura osé mettre fin au système clientéliste et discrétionnaire des réserves parlementaire et ministérielle.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    },
+    {
+      "auteur": "Marc Fesneau (MoDem)",
+      "resume": "Le texte respecte la parole donnée aux électeurs et contient des mesures concrètes sur les conflits d'intérêts, les emplois familiaux, la probité et le financement de la vie politique.",
+      "citation": "le texte que nous nous apprêtons à voter est d'abord et avant tout le respect de la parole donnée : la parole donnée aux citoyens, la parole donnée lors des élections.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    },
+    {
+      "auteur": "Philippe Vigier (Les Constructifs)",
+      "resume": "Malgré des promesses abandonnées (casier judiciaire, verrou de Bercy) et son désaccord sur la réserve, son groupe vote un texte qui constitue un progrès sur les conflits d'intérêts.",
+      "citation": "Celui qui nous est soumis aujourd'hui est un pas de plus, notamment sur les conflits d'intérêts.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    },
+    {
+      "auteur": "Cécile Untermaier (Nouvelle Gauche)",
+      "resume": "Le texte prolonge les lois de transparence de 2013-2016 et impose une discipline aux députés, même s'il ne va pas assez loin sur le conseil et le casier judiciaire.",
+      "citation": "Bien sûr, il ne suffira pas à rétablir la confiance, mais il exige des députés une discipline, laquelle s'impose à nous tous.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Annie Genevard (Les Républicains)",
+      "resume": "La suppression de la réserve parlementaire prive communes et associations de moyens et ne rend pas l'attribution des aides plus transparente ; le texte est inspiré par l'antiparlementarisme.",
+      "citation": "Sa suppression est en effet préjudiciable à tous les territoires, à des milliers de bénéficiaires, à des associations, à des communes, à des projets modestes",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    },
+    {
+      "auteur": "Philippe Gosselin (Les Républicains)",
+      "resume": "Le texte n'est pas la grande réforme annoncée ; il oppose deux conceptions du député, LR défendant des élus ancrés dans leur territoire, dont la réserve était une illustration.",
+      "citation": "Ce projet de loi organique, en réalité, met en jeu deux conceptions du rôle du parlementaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "Le texte s'est réduit à l'intendance des assemblées et ne s'attaque pas à l'argent, aux conflits d'intérêts ni au pantouflage ; le groupe voulait une Assemblée constituante.",
+      "citation": "force est de constater qu'elle ne contient rien contre les conflits d'intérêts, rien contre le pantouflage, rien qui s'attaque réellement aux corrupteurs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    },
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "Sans s'attaquer aux puissances de l'argent, la loi ne pourra pas restaurer la confiance des citoyens ; le groupe s'abstient.",
+      "citation": "Au final, il n'y a aucune chance qu'on restaure aujourd'hui la confiance de nos concitoyens. C'est pourquoi le groupe GDR s'abstiendra.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention lors du scrutin n°119 (9 août 2017) ; pas d'intervention personnelle retrouvée, argument = explication du groupe La France insoumise (Bastien Lachaud).",
+      "argument": "Groupe FI : la loi ne s'attaque ni à l'argent, ni aux conflits d'intérêts, ni au pantouflage ; il fallait rendre la parole au peuple par une Assemblée constituante.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    },
+    "roussel": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention lors du scrutin n°119 ; pas d'intervention personnelle retrouvée, argument = explication du groupe GDR (Elsa Faucillon).",
+      "argument": "Groupe GDR : sans s'attaquer aux puissances de l'argent, le texte ne peut pas restaurer la confiance des citoyens.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    },
+    "ruffin": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention lors du scrutin n°119 ; pas d'intervention personnelle retrouvée, argument = explication du groupe La France insoumise (Bastien Lachaud).",
+      "argument": "Groupe FI : texte réduit à l'intendance des assemblées, sans mesure contre l'argent qui corrompt, les conflits d'intérêts ou le pantouflage.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2017 ; aucune déclaration retrouvée. EELV n'avait pas de groupe à l'Assemblée : aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/119",
+      "date": "2017-08-09"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour lors du scrutin n°119 ; intervention en séance le 9 août 2017 (groupe Nouvelle Gauche).",
+      "argument": "Des pratiques devaient prendre fin et des réformes étaient indispensables, même si le texte n'est pas « la grande loi » attendue (lobbies, activités de conseil) ; elle préférait des budgets participatifs à la réserve.",
+      "citation": "Parce que oui, malheureusement, un certain nombre de pratiques doivent prendre fin et qu'un certain nombre de réformes étaient et demeurent indispensables.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat en 2017 ; aucune déclaration retrouvée. PROXY : le groupe Nouvelle Gauche (socialiste) a voté pour (30 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/119",
+      "date": "2017-08-09"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Député La République en marche, vote pour lors du scrutin n°119 ; pas d'intervention personnelle retrouvée, argument = explication de son groupe (Paula Forteza).",
+      "argument": "Groupe LaREM : le texte met fin aux réserves parlementaire et ministérielle et aux emplois familiaux et impose la probité aux candidats, conformément aux promesses de campagne.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E1N033",
+      "date": "2017-08-09"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a présenté le projet de loi organique (défendu par la garde des sceaux Nicole Belloubet) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.vie-publique.fr/dossierlegislatif/JORFDOLE000034924617",
+      "date": "2017-08-09"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat ; a voté pour la version sénatoriale du projet de loi organique en nouvelle lecture (scrutin n°144 du 4 août 2017), qui remplaçait la réserve parlementaire par un dispositif d'aide aux communes rurales et associations, écarté du texte définitif.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2016/scr2016-144.html",
+      "date": "2017-08-04"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (dont il était encore membre du parti) a voté contre (2 pour / 73 contre / 20 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/119",
+      "date": "2017-08-09"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (2 pour / 73 contre / 20 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/119",
+      "date": "2017-08-09"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention lors du scrutin n°119 (non-inscrite) ; aucune intervention ni déclaration personnelle retrouvée sur ce vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/119",
+      "date": "2017-08-09"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2017 (Reconquête fondé en 2021) ; aucune déclaration retrouvée, aucun groupe ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/119",
+      "date": "2017-08-09"
+    },
+    "dupontaignan": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention lors du scrutin n°119 (non-inscrit) ; aucune intervention ni déclaration personnelle retrouvée sur ce vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/119",
+      "date": "2017-08-09"
+    }
+  },
+  "alertes": [
+    "Le scrutin n°119 porte sur la loi ORGANIQUE (statut des parlementaires : réserve parlementaire, activités de conseil, frais de mandat) ; la loi ordinaire du même nom (emplois familiaux, financement des partis) a fait l'objet d'un vote distinct.",
+    "Retailleau : position déduite de son vote au Sénat sur la version sénatoriale (scrutin n°144, 4 août 2017), qui supprimait aussi la réserve parlementaire mais la remplaçait par un dispositif de soutien aux communes et associations ; ce n'est pas un vote sur le texte définitif adopté par l'Assemblée.",
+    "Mélenchon, Roussel, Ruffin, Attal : aucun argument personnel retrouvé dans le compte rendu de la lecture définitive ; l'argument indiqué est celui de l'explication de vote de leur groupe.",
+    "Batho a voté pour tout en jugeant le texte insuffisant (activités de conseil, lobbies) ; son groupe Nouvelle Gauche a voté pour.",
+    "La décision n° 2017-753 DC est citée d'après la salle de presse du Sénat ; le site du Conseil constitutionnel n'a pas été consulté pour cette question.",
+    "Bertrand a quitté LR en décembre 2017, après ce vote ; le proxy LR reste indicatif."
+  ]
+}

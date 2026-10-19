@@ -1,0 +1,235 @@
+{
+  "id": "budget-secu-2026",
+  "titre": "Budget de la Sécurité sociale 2026 (vote final)",
+  "question": "Faut-il adopter définitivement le budget de la Sécurité sociale pour 2026, compromis négocié avec le PS (suspension de la réforme des retraites, hausse de la CSG sur les revenus du capital) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2026 du gouvernement Lecornu a été examiné sans recours au 49.3, ce qui obligeait à trouver une majorité. Le texte initial prévoyait un gel des pensions et des prestations, un doublement des franchises médicales et une taxe exceptionnelle sur les complémentaires santé. Il créait aussi un congé de naissance et suspendait la réforme des retraites de 2023 jusqu'au 1er janvier 2028. Les députés ont supprimé le gel des pensions et plusieurs économies, et porté la CSG sur les revenus du patrimoine et des placements de 9,2 % à 10,6 %, notamment pour financer la suspension. Le gouvernement a aussi relevé l'objectif de dépenses d'assurance maladie (Ondam) à environ 3 %. Après le rejet du texte par le Sénat (question préalable du 12 décembre 2025), l'Assemblée a eu le dernier mot. Le 16 décembre 2025, elle l'a adopté en lecture définitive par 247 voix contre 232 (90 abstentions) : EPR, Socialistes, Démocrates et LIOT ont voté pour ; RN, LFI, UDR et GDR contre ; Droite républicaine, Écologistes et Horizons se sont majoritairement abstenus. Le déficit prévu pour 2026 est de 19,4 milliards d'euros. La loi a été promulguée le 30 décembre 2025.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – « La loi en clair » : PLFSS pour 2026",
+      "url": "https://senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-de-financement-de-la-securite-sociale-pour-2026.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 16 décembre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif PLFSS 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026"
+    },
+    {
+      "titre": "Sénat – scrutin n°117 (question préalable, nouvelle lecture)",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-117.html"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°4758",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+  "argumentsPour": [
+    {
+      "auteur": "Sandrine Runel (Socialistes)",
+      "resume": "Les socialistes ont obtenu la suspension de la réforme des retraites, l'abandon du gel des pensions et une hausse de la CSG sur le capital : une « gauche utile ».",
+      "citation": "En votant ce texte, nous faisons donc le choix d’une gauche utile, d’une gauche qui protège",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094",
+      "date": "2025-12-16"
+    },
+    {
+      "auteur": "Camille Galliard-Minier (Ensemble pour la République)",
+      "resume": "Le texte n'est pas parfait, mais l'adopter est un choix de responsabilité qui évite un dérapage des comptes.",
+      "citation": "voter ce PLFSS, ce n’est pas en approuver chaque ligne sans réserve mais faire le choix de la responsabilité, le choix de l’intérêt général…",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094",
+      "date": "2025-12-16"
+    },
+    {
+      "auteur": "Jean-Pierre Farandou (ministre du Travail, gouvernement)",
+      "resume": "Le budget suspend la réforme des retraites jusqu'en 2028, améliore les pensions des femmes et contient le déficit.",
+      "citation": "Ce budget acte également la suspension de la réforme des retraites de 2023 jusqu’au 1 er janvier 2028.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094",
+      "date": "2025-12-16"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Mathilde Panot (La France insoumise)",
+      "resume": "Le budget organise la pénurie à l'hôpital et valide de fait la retraite à 64 ans, simplement suspendue.",
+      "citation": "Voter contre ce texte est une évidence car depuis huit ans, vous organisez la pénurie",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094",
+      "date": "2025-12-16"
+    },
+    {
+      "auteur": "Christophe Bentz (Rassemblement national)",
+      "resume": "Le RN vote contre pour sanctionner le dérapage des comptes sociaux, les hausses d'impôts et le gouvernement.",
+      "citation": "Par notre vote contre le PLFSS, nous voulons sanctionner le dérapage des finances sociales, toutes les injustices contenues dans le texte, votre politique, le gouvernement et Emmanuel Macron.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094",
+      "date": "2025-12-16"
+    },
+    {
+      "auteur": "Nicolas Sansu (Gauche démocrate et républicaine)",
+      "resume": "Les reculs évités ne font pas un bon budget : les patients restent mis à contribution.",
+      "citation": "Quand on part du pire, le moins pire ne devient pas du sucre !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094",
+      "date": "2025-12-16"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Cyrielle Chatelain (Écologiste et social)",
+      "resume": "Un « tout petit budget », mais le rejeter priverait les hôpitaux de la hausse de l'Ondam ; la majorité du groupe s'abstient.",
+      "citation": "rejeter ce budget, c’est demander aux soignants de faire la même chose avec moins d’argent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094",
+      "date": "2025-12-16"
+    },
+    {
+      "auteur": "Justine Gruet (Droite républicaine)",
+      "resume": "Le texte comporte encore trop de hausses d'impôts, mais l'absence de budget priverait de moyens les hôpitaux et les EHPAD.",
+      "citation": "Nous savons que l’absence de budget conduirait à priver de moyens supplémentaires nos hôpitaux, nos Ehpad et nos soignants ; ce n’est pas une option réaliste.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094",
+      "date": "2025-12-16"
+    },
+    {
+      "auteur": "Nathalie Colin-Oesterlé (Horizons)",
+      "resume": "Le compromis laisse filer les dépenses et le déficit ; le groupe s'abstient majoritairement.",
+      "citation": "C’est pourquoi notre groupe fera majoritairement le choix de l’abstention.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094",
+      "date": "2025-12-16"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée sur ce vote. PROXY : le groupe LFI-NFP a voté contre (0 pour, 69 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "date": "2025-12-16"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée sur ce vote. PROXY : le groupe GDR a voté contre (1 pour, 10 contre, 2 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "date": "2025-12-16"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°4758), alors que la majorité de son groupe Écologiste et social s'est abstenue ; pas d'intervention retrouvée dans ce débat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "date": "2025-12-16"
+    },
+    "tondelier": {
+      "position": "abstention",
+      "type": "declaration",
+      "detail": "Sans mandat parlementaire ; sur Public Sénat (10 décembre 2025), elle explique l'abstention des écologistes après la hausse de l'Ondam. Selon l'article, elle se serait elle-même abstenue si elle avait été députée.",
+      "argument": "Elle juge le texte insatisfaisant mais aurait voté contre sans la hausse des moyens de l'assurance maladie.",
+      "citation": "S’abstenir, ce n’est pas être content et trouver qu’on a un formidable texte, sinon nous aurions voté pour",
+      "url": "https://publicsenat.fr/actualites/politique/budget-de-la-secu-sabstenir-ce-nest-pas-trouver-quon-a-un-formidable-texte-sinon-nous-aurions-vote-pour-explique-marine-tondelier",
+      "date": "2025-12-10"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°4758), alors que la majorité de son groupe Écologiste et social s'est abstenue ; pas d'intervention retrouvée dans ce débat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "date": "2025-12-16"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée sur ce vote. PROXY : le groupe Socialistes a voté pour (64 pour, 0 contre, 5 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "date": "2025-12-16"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°4758), président du groupe EPR ; pas d'intervention personnelle dans ce débat : argument = explication du groupe EPR (Camille Galliard-Minier).",
+      "argument": "Son groupe juge que voter ce budget imparfait est un choix de responsabilité.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094",
+      "date": "2025-12-16"
+    },
+    "philippe": {
+      "position": "abstention",
+      "type": "declaration",
+      "detail": "Sans mandat parlementaire ; président d'Horizons, il a recommandé sur LCI le 8 décembre 2025 aux députés de son parti de s'abstenir sur le PLFSS, qu'il juge « pas satisfaisant ». Le groupe Horizons s'est abstenu (9 pour, 25 abstentions).",
+      "argument": "Il juge le texte insatisfaisant mais refuse de faire tomber le gouvernement Lecornu.",
+      "citation": "je ne suis pas partisan du chaos, je ne propose pas de voter contre",
+      "url": "https://www.sudouest.fr/politique/budget-de-la-secu-edouard-philippe-recommande-aux-deputes-horizons-de-s-abstenir-27027484.php",
+      "date": "2025-12-08"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Sénateur LR (sorti du gouvernement en octobre 2025) ; a voté pour la question préalable rejetant le texte en nouvelle lecture au Sénat (scrutin n°117 du 12 décembre 2025). C'était le texte adopté par l'Assemblée le 9 décembre, identique au texte voté définitivement.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-117.html",
+      "date": "2025-12-12"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; le 10 novembre 2025 sur France 2, il reproche au PLFSS de ne pas donner assez de moyens à l'hôpital public, sans dire comment il voterait. PROXY : le groupe Droite républicaine s'est abstenu (18 pour, 3 contre, 28 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://franceinfo.fr/politique/xavier-bertrand/budget-2026-lfi-et-le-rn-souhaitent-qu-il-n-y-ait-pas-de-budget-que-le-gouvernement-tombe-affirme-xavier-bertrand-president-lr-de-la-region-hauts-de-france_7607141.html",
+      "date": "2025-11-10"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée sur ce vote. PROXY : le groupe Droite républicaine s'est abstenu (18 pour, 3 contre, 28 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "date": "2025-12-16"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°4758), présidente du groupe RN ; l'oratrice du RN a annoncé en séance le vote contre du groupe et de Marine Le Pen.",
+      "argument": "Le RN rejette un budget jugé marqué par le dérapage des comptes sociaux et les hausses de prélèvements.",
+      "citation": "le Rassemblement national et Marine Le Pen , libres dans leur trajectoire politique et conscients de la situation, préfèrent voter contre votre projet de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N094",
+      "date": "2025-12-16"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national ; aucune déclaration retrouvée. Reconquête n'a pas de groupe à l'Assemblée : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "date": "2025-12-16"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée sur ce vote. Pas de groupe Debout la France : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4758",
+      "date": "2025-12-16"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur l'ensemble du budget de la Sécurité sociale, pas seulement sur la suspension de la réforme des retraites. Celle-ci a fait l'objet d'un vote distinct (fiche « suspension-retraites »).",
+    "Retailleau : vote au Sénat sur la question préalable (rejet) en nouvelle lecture, pas sur le scrutin final de l'Assemblée. Le texte rejeté était identique à celui adopté définitivement.",
+    "Tondelier et Philippe : positions tirées de déclarations faites avant le vote final, autour du vote en nouvelle lecture du 9 décembre 2025 (texte identique).",
+    "Ruffin (contre) et Batho (pour) se sont écartés de la position majoritaire (abstention) de leur groupe Écologiste et social ; aucune explication personnelle retrouvée.",
+    "Le Pen : citation de l'oratrice du RN (Joëlle Mélin), qui annonce le vote de Marine Le Pen ; ce ne sont pas ses propres mots."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "revenu-digne-agriculteurs",
+  "questionSimple": "Faut-il fixer un prix minimum pour acheter les produits des agriculteurs ?",
+  "enBref": "Le texte voulait imposer un prix minimum d'achat des produits agricoles, pour que les agriculteurs gagnent au moins l'équivalent de deux SMIC. Ce prix serait fixé filière par filière, par exemple pour le lait ou la viande, ou à défaut par le gouvernement.",
+  "pourquoiPour": "Ses partisans veulent que les agriculteurs vivent enfin de leur travail. Selon eux, les lois précédentes sur les prix n'ont pas suffi et le président lui-même avait promis des prix planchers.",
+  "pourquoiContre": "Ses opposants y voient des prix fixés par l'État, qui risquent de devenir des prix maximums. Ils craignent aussi une perte de compétitivité et une hausse des prix de l'alimentation.",
+  "ceQuiSestPasse": "L'Assemblée a adopté le texte en avril 2024 contre l'avis du gouvernement, mais il n'a jamais été examiné par le Sénat.",
+  "lexique": [
+    {
+      "terme": "Prix plancher",
+      "definition": "Prix minimum en dessous duquel un produit ne peut pas être acheté."
+    },
+    {
+      "terme": "Niche parlementaire",
+      "definition": "Journée où un groupe d'opposition choisit les textes examinés à l'Assemblée."
+    }
+  ]
+}

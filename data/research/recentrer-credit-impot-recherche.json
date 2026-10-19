@@ -1,0 +1,209 @@
+{
+  "id": "recentrer-credit-impot-recherche",
+  "titre": "Recentrer le crédit d'impôt recherche sur les PME",
+  "question": "Faut-il recentrer le crédit d'impôt recherche sur les PME en abaissant fortement le plafond de dépenses éligibles des grands groupes ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le crédit d'impôt recherche (CIR), qui coûte environ 7 milliards d'euros par an, rembourse 30 % des dépenses de recherche et développement jusqu'à 100 millions d'euros, puis 5 % au-delà. Selon France Stratégie, son effet de levier est fort pour les petites entreprises mais faible pour les grandes, qui captent une large part du montant. Lors de l'examen du budget 2025, l'amendement n° 2010 de la socialiste Christine Pirès Beaune propose de supprimer le taux de 5 % et d'abaisser le plafond de 100 à 20 millions d'euros de dépenses (comme en Allemagne), avec un plafond de 100 millions par groupe. Le 6 novembre 2024, il est rejeté par 102 voix contre 166 (gauche pour ; bloc central, Droite républicaine et RN contre), contre l'avis de la commission et du gouvernement Barnier.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 6 novembre 2024 (PLF 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/281",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038",
+  "argumentsPour": [
+    {
+      "auteur": "Christine Pirès Beaune (Socialistes)",
+      "resume": "Les études concordent : le CIR est efficace pour les PME mais pas pour les grands groupes ; il faut le recentrer, comme le fait l'Allemagne.",
+      "citation": "Pour les entreprises de moins de cinquante salariés, 1 euro de CIR augmenterait d’1,40 euro les dépenses de R&D, provoquant un effet d’entraînement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038",
+      "date": "2024-11-06"
+    },
+    {
+      "auteur": "Aurélien Le Coq (LFI-NFP)",
+      "resume": "Exemple de Sanofi : 150 millions d'euros de CIR par an tout en divisant par deux ses chercheurs et en versant des milliards de dividendes.",
+      "citation": "Le crédit d’impôt recherche coûte 7 milliards d’euros par an à l’État.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038",
+      "date": "2024-11-06"
+    },
+    {
+      "auteur": "Éric Coquerel (LFI, président de la commission des finances)",
+      "resume": "La niche est très concentrée : les 50 plus gros bénéficiaires représentent 43 % de son coût.",
+      "citation": "les cinquante plus gros bénéficiaires, soit 0,17 % des entreprises, représentent 43 % du coût de la niche fiscale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038",
+      "date": "2024-11-06"
+    },
+    {
+      "auteur": "Eva Sas (Écologiste et social)",
+      "resume": "Les amendements rendent au CIR sa vocation première : aider les TPE et PME et vraiment encourager la recherche.",
+      "citation": "Les amendements en discussion commune ne visent qu’à rendre au crédit d’impôt recherche sa vocation première : aider les TPE et les PME et encourager vraiment la recherche.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038",
+      "date": "2024-11-06"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Laurent Saint-Martin (ministre du budget)",
+      "resume": "Face aux subventions américaines (IRA), toucher au CIR des grands groupes ferait partir la R&D privée et la production hors de France.",
+      "citation": "si vous faites cela, les grandes entreprises ne financeront plus de centres de R&D dans notre pays !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038",
+      "date": "2024-11-06"
+    },
+    {
+      "auteur": "Charles de Courson (rapporteur général, LIOT)",
+      "resume": "Un seuil à 20 millions est excessif et nuirait à l'attractivité ; il préfère un taux intermédiaire entre 50 et 100 millions.",
+      "citation": "Un seuil aussi bas pénaliserait trop les entreprises qui exposent beaucoup de dépenses de recherche.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038",
+      "date": "2024-11-06"
+    },
+    {
+      "auteur": "Charles Sitzenstuhl (EPR)",
+      "resume": "Le CIR compense des impôts de production bien plus élevés qu'en Allemagne : c'est un outil d'attractivité.",
+      "citation": "Si vous touchez aussi au CIR, nous n’aurons plus d’entreprises du tout en France !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038",
+      "date": "2024-11-06"
+    },
+    {
+      "auteur": "Julien Limongi (RN)",
+      "resume": "La recherche privée des grands groupes est indispensable, notamment dans la défense.",
+      "citation": "Il ne faut pas modifier le crédit d’impôt recherche, au risque de pénaliser les grands groupes dont nous avons besoin, que cela vous plaise ou pas.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038",
+      "date": "2024-11-06"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée sur ce vote. Proxy : le groupe LFI-NFP a voté pour (39 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée. Proxy : le groupe GDR a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°281) ; aucune déclaration retrouvée. Proxy : le groupe Écologiste et social a voté pour (21 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Écologiste et social a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°281) ; aucune déclaration retrouvée. Proxy : le groupe Écologiste et social a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. Proxy : le groupe Socialistes, auteur de l'amendement, a voté pour (33 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°281) ; président du groupe EPR, pas d'intervention personnelle retrouvée : argument = intervention du groupe (Charles Sitzenstuhl).",
+      "argument": "Groupe EPR : le CIR est un outil d'attractivité qui compense des impôts de production élevés ; y toucher ferait fuir les entreprises.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038",
+      "date": "2024-11-06"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Horizons a voté contre (19 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Barnier, qui a donné un avis défavorable par la voix du ministre du budget ; aucun désaccord public retrouvé.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N038",
+      "date": "2024-11-06"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. Proxy : le groupe Droite républicaine a voté contre (14 contre, 1 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°281) ; aucune déclaration retrouvée. Proxy : le groupe RN a voté contre (87 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Le gouvernement se disait ouvert à un « recentrage » plus modéré (taux intermédiaire proposé par le rapporteur général) mais opposé à cet amendement.",
+    "Ruffin, Batho et Le Pen n'ont pas pris part au vote ; aucune déclaration retrouvée.",
+    "La première partie du PLF 2025 a de toute façon été rejetée le 12 novembre 2024."
+  ]
+}

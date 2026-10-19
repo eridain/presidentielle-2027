@@ -1,0 +1,18 @@
+{
+  "id": "assouplir-zan",
+  "questionSimple": "Faut-il assouplir la règle qui limite le bétonnage des terres (« zéro artificialisation nette ») ?",
+  "enBref": "Une loi de 2021 oblige à diviser par deux le bétonnage des espaces naturels et agricoles d'ici 2031. Ce texte l'assouplit : chaque commune garde au moins un hectare constructible et les grands projets nationaux, comme les réacteurs nucléaires, sont comptés à part.",
+  "pourquoiPour": "Ses partisans, souvent proches des maires ruraux, veulent que les petites communes puissent encore construire. Ils estiment que la protection des sols ne doit pas bloquer le développement des territoires.",
+  "pourquoiContre": "Ses opposants, surtout écologistes et insoumis, y voient un recul. Selon eux, les grands projets échappent à l'effort commun et il faudrait plutôt réutiliser friches et logements vides.",
+  "ceQuiSestPasse": "Le texte a été adopté définitivement en juillet 2023 et est devenu la loi du 20 juillet 2023.",
+  "lexique": [
+    {
+      "terme": "Artificialisation",
+      "definition": "Transformation d'un sol naturel ou agricole en surface bâtie ou goudronnée."
+    },
+    {
+      "terme": "Garantie rurale",
+      "definition": "Droit pour chaque commune de construire sur au moins un hectare."
+    }
+  ]
+}

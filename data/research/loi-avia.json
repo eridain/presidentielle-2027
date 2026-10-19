@@ -1,0 +1,223 @@
+{
+  "id": "loi-avia",
+  "titre": "Loi Avia contre la haine en ligne",
+  "question": "Faut-il obliger les plateformes à retirer sous 24 heures les contenus haineux manifestement illicites (loi Avia, 2020) ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi de Laetitia Avia (LaREM) obligeait les grandes plateformes et moteurs de recherche à retirer sous 24 heures, après signalement, les contenus manifestement illicites (incitations à la haine, injures racistes ou anti-religieuses), et sous une heure les contenus terroristes ou pédopornographiques signalés par l'administration, sous peine de lourdes amendes. Faute d'accord avec le Sénat, l'Assemblée l'a adoptée en lecture définitive le 13 mai 2020, pendant l'état d'urgence sanitaire (355 pour, 150 contre, 47 abstentions). Le Conseil constitutionnel (décision n° 2020-801 DC du 18 juin 2020) a censuré ces obligations de retrait, jugeant l'atteinte à la liberté d'expression non nécessaire, adaptée et proportionnée. La loi n° 2020-766, promulguée le 24 juin 2020, ne conserve que des dispositions secondaires, dont la création d'un observatoire de la haine en ligne.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi Avia lutte contre les contenus haineux sur internet",
+      "url": "https://www.vie-publique.fr/loi/268070-loi-avia-lutte-contre-les-contenus-haineux-sur-internet"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2020-801 DC du 18 juin 2020, communiqué de presse",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2020-801-dc-du-18-juin-2020-communique-de-presse"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif Lutte contre la haine sur internet",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_contre_haine_internet"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 13 mai 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2742",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_contre_haine_internet",
+  "argumentsPour": [
+    {
+      "auteur": "Laetitia Avia (LaREM, rapporteure)",
+      "resume": "Ce qui n'est pas toléré dans l'espace public ne doit pas l'être en ligne ; il faut fixer aux grandes plateformes des obligations de résultat pour protéger les victimes.",
+      "citation": "nous ne devons pas craindre de fixer des objectifs, des obligations de résultat, aux grandes plateformes dont dépend pour beaucoup la teneur de nos échanges et de nos communications.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    },
+    {
+      "auteur": "Nicole Belloubet (garde des Sceaux, gouvernement)",
+      "resume": "Le retrait sous 24 heures ne vise que des infractions déjà définies par la loi et manifestement illicites ; les plateformes ont déjà l'obligation de retirer ces contenus depuis 2004.",
+      "citation": "il s'agit de permettre le retrait de contenus en vingt-quatre heures, s'ils constituent des infractions que nous connaissons, listées dans la loi de 1881 ou dans le code pénal",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    },
+    {
+      "auteur": "Guillaume Gouffier-Cha (La République en marche)",
+      "resume": "Le confinement a montré l'ampleur de la haine et du racisme en ligne : il y a urgence à légiférer, le texte aurait même dû être adopté plus tôt.",
+      "citation": "nous pensons qu'il y aura toujours urgence à agir pour lutter contre la haine, l'homophobie, l'antisémitisme, la xénophobie, le racisme",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    },
+    {
+      "auteur": "Isabelle Florennes (MoDem)",
+      "resume": "La pandémie a montré la place des réseaux sociaux et l'explosion du cyberharcèlement, notamment envers les plus jeunes ; il était temps d'agir.",
+      "citation": "Le pire, ce sont les commentaires haineux, les insultes, le harcèlement. Personne n'est épargné",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Alexis Corbière (La France insoumise)",
+      "resume": "La notion de contenu haineux est trop large ; le texte écarte le juge judiciaire, organise une censure arbitraire et menace la liberté d'expression.",
+      "citation": "Ce texte organise une forme de censure sur fond d'arbitraire. Il efface le rôle du juge judiciaire au profit de la police, ce qui est très préoccupant.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    },
+    {
+      "auteur": "Constance Le Grip (Les Républicains)",
+      "resume": "LR partage l'objectif mais craint que les plateformes, menacées de sanctions, suppriment massivement et préventivement des contenus : une « privatisation » de la censure.",
+      "citation": "Il nous semble très dangereux de privatiser ainsi la censure en confiant à des opérateurs privés, non européens pour la plupart,",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    },
+    {
+      "auteur": "Frédérique Dumas (Libertés et territoires)",
+      "resume": "Le juge doit intervenir en amont ; confier les rênes aux géants du numérique est risqué et la régulation devrait se faire au niveau européen.",
+      "citation": "ce texte est potentiellement liberticide et assurément inefficace puisque c'est à l'échelle européenne qu'il faudrait agir.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    },
+    {
+      "auteur": "Marine Le Pen (non-inscrite, Rassemblement national)",
+      "resume": "Le texte supprime le rôle du juge dans la protection de la liberté d'expression, alors que les idées qui choquent doivent aussi être protégées.",
+      "citation": "Vous avez organisé la disparition du rôle du juge dans la protection de la liberté d'expression, qui est une des grandes libertés du peuple français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2742 du 13 mai 2020) ; pas d'intervention personnelle dans cette séance, argument = position du groupe La France insoumise (Alexis Corbière).",
+      "argument": "Groupe FI : définition trop large des contenus haineux, effacement du juge judiciaire, risque de censure arbitraire.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    },
+    "roussel": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "N'a pas pris part au scrutin n°2742 (le groupe GDR n'a pas voté) ; s'était abstenu sur le texte en première lecture (scrutin n°2039 du 9 juillet 2019).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2039",
+      "date": "2019-07-09"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2742) ; pas d'intervention personnelle retrouvée, argument = position du groupe La France insoumise.",
+      "argument": "Groupe FI : définition trop large des contenus haineux, effacement du juge judiciaire, risque de censure arbitraire.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; pas de groupe écologiste ayant pris part à ce scrutin : aucun proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2742",
+      "date": "2020-05-13"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (ni en lecture définitive ni en première lecture) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2742",
+      "date": "2020-05-13"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée s'est abstenu (1 pour / 1 contre / 27 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2742",
+      "date": "2020-05-13"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'Éducation nationale dans le gouvernement Philippe, qui a soutenu le texte (défendu par Nicole Belloubet et Cédric O) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a soutenu la proposition de loi et demandé son adoption ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, président du groupe LR ; aucun scrutin public nominatif au Sénat ni déclaration personnelle retrouvés. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour / 98 contre / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2742",
+      "date": "2020-05-13"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire (ex-LR) ; aucune déclaration retrouvée. PROXY indicatif : le groupe LR de l'Assemblée a voté contre (0 pour / 98 contre / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2742",
+      "date": "2020-05-13"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (0 pour / 98 contre / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2742",
+      "date": "2020-05-13"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2742) ; intervention en séance le 13 mai 2020.",
+      "argument": "Le texte confie aux plateformes le soin de juger les propos et écarte le juge ; or les idées qui heurtent ou choquent doivent être protégées et un retrait abusif ne serait corrigé qu'au bout d'années de procédure.",
+      "citation": "Vous avez organisé la disparition du rôle du juge dans la protection de la liberté d'expression, qui est une des grandes libertés du peuple français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2020 (Reconquête fondé en 2021) ; aucune déclaration vérifiée retrouvée, aucun groupe ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2742",
+      "date": "2020-05-13"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2742) ; interventions en séance le 13 mai 2020.",
+      "argument": "La loi sous-traite aux grandes plateformes le jugement des propos sans juge indépendant en amont, ce qui met la liberté d'expression en danger.",
+      "citation": "En réalité, cette loi transférera définitivement la justice et l'établissement d'une jurisprudence aux GAFA et autres plateformes internet",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N208",
+      "date": "2020-05-13"
+    }
+  },
+  "alertes": [
+    "Le cœur du texte (retrait sous 24 heures / 1 heure) a été censuré par le Conseil constitutionnel le 18 juin 2020 : la loi promulguée ne contient plus cette obligation.",
+    "Roussel : n'a pas pris part au scrutin de lecture définitive (le groupe GDR n'a pas voté, séance en effectif réduit pendant l'état d'urgence sanitaire) ; position tirée de son abstention en première lecture (scrutin n°2039, 9 juillet 2019, open data AN), sur une version antérieure du texte.",
+    "Mélenchon et Ruffin : aucune intervention personnelle dans la séance du 13 mai 2020 ; argument = groupe FI.",
+    "Retailleau : aucun scrutin public nominatif du Sénat retrouvé sur ce texte (les pages de scrutins des sessions 2018-2019 et 2019-2020 consultées ne mentionnent pas la proposition) ; position laissée « inconnu ».",
+    "La séance s'est tenue en effectif réduit (état d'urgence sanitaire) ; plusieurs groupes ont peu voté."
+  ]
+}

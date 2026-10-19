@@ -1,0 +1,217 @@
+{
+  "id": "loi-egalim",
+  "titre": "Loi EGalim (agriculture et alimentation, 2018)",
+  "question": "Faut-il adopter la loi EGalim (relèvement de 10 % du seuil de revente à perte, encadrement des promotions, 50 % de produits de qualité dont 20 % de bio dans les cantines) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Issu des États généraux de l'alimentation, le projet de loi réforme la construction du prix des produits agricoles (contrats proposés par les producteurs, prise en compte des coûts de production) et habilite le gouvernement à relever de 10 % le seuil de revente à perte et à encadrer les promotions, à titre expérimental. Il fixe un objectif de 50 % de produits de qualité ou durables, dont 20 % de bio, dans la restauration collective en 2022, sépare vente et conseil des pesticides et renforce les sanctions pour maltraitance animale. Après le rejet du Sénat en nouvelle lecture, l'Assemblée l'a adopté en lecture définitive le 2 octobre 2018 (227 pour, 136 contre). Le Conseil constitutionnel a censuré plusieurs articles comme cavaliers législatifs (décision 2018-771 DC) ; loi n° 2018-938 du 30 octobre 2018.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 30 octobre 2018 (EGalim)",
+      "url": "https://www.vie-publique.fr/loi/20790-loi-30-octobre-2018-egalim-equilibre-relations-commerciales-agriculture"
+    },
+    {
+      "titre": "Conseil constitutionnel – décision n° 2018-771 DC du 25 octobre 2018",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2018/2018771DC.htm"
+    },
+    {
+      "titre": "Sénat – dossier législatif",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl17-525.html"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°1181",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1181"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1181",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/pjl17-525.html",
+  "argumentsPour": [
+    {
+      "auteur": "Monique Limon (La République en marche)",
+      "resume": "Le texte inverse la construction du prix à partir des coûts des producteurs pour leur permettre de vivre de leur travail, et répond aux attentes des consommateurs (bio, qualité dans les cantines).",
+      "citation": "Il répond aux attentes fortes du monde agricole, en inversant notamment la logique de construction du prix, pour permettre aux agriculteurs de vivre enfin dignement de leur travail.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N002",
+      "date": "2018-10-02"
+    },
+    {
+      "auteur": "Jean-Baptiste Moreau (LaREM, rapporteur)",
+      "resume": "L'encadrement des promotions et le relèvement du seuil de revente à perte doivent mettre fin à la guerre des prix qui pèse sur les producteurs.",
+      "citation": "Nous avons décidé d’agir efficacement pour y mettre fin, grâce à l’encadrement des promotions et au relèvement de 10 % du seuil de revente à perte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N002",
+      "date": "2018-10-02"
+    },
+    {
+      "auteur": "Nicolas Turquois (MoDem)",
+      "resume": "Deux leviers jugés novateurs : renverser la construction des prix pour mieux répartir la valeur, et valoriser des produits de qualité dans la restauration collective.",
+      "citation": "L’objectif du texte étant d’inverser la logique de construction des prix afin de mieux rémunérer les agriculteurs, il importe en effet qu’il soit appliqué le plus tôt possible.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N002",
+      "date": "2018-10-02"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Guillaume Garot (Socialistes)",
+      "resume": "Texte des occasions manquées : il ne corrige pas le rapport de force avec la grande distribution et ne traduit pas l'engagement de sortie du glyphosate.",
+      "citation": "Ils s’aperçoivent que cette loi ne corrigera en rien le déséquilibre du rapport de forces entre la grande distribution, les transformateurs et les producteurs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N002",
+      "date": "2018-10-02"
+    },
+    {
+      "auteur": "Jérôme Nury (Les Républicains)",
+      "resume": "Indicateurs de prix sans obligation ni sanction, propositions du Sénat écartées ; l'effet du seuil de revente à perte sur le revenu des producteurs est mis en doute.",
+      "citation": "Qui plus est, on peine à croire que l’encadrement des promotions et l’instauration d’un seuil de revente à perte entraîneront le ruissellement espéré vers les producteurs",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N002",
+      "date": "2018-10-02"
+    },
+    {
+      "auteur": "Sébastien Jumel (Gauche démocrate et républicaine)",
+      "resume": "Le refus de toute régulation publique dans la fixation des indicateurs de coût de production empêcherait des prix rémunérateurs.",
+      "citation": "Nous vous le disons : la politique du renard libre dans le poulailler libre ne permettra pas de faire avancer la politique de construction des prix.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N002",
+      "date": "2018-10-02"
+    },
+    {
+      "auteur": "Loïc Prud'homme (La France insoumise)",
+      "resume": "Motion de rejet : la loi serait une collection de promesses non tenues, sans effet sur le revenu des agriculteurs ni sur l'alimentation saine.",
+      "citation": "L’énoncé de ce titre pourrait suffire à justifier ma motion de rejet, tant il s’agit d’une collection de promesses non tenues.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N002",
+      "date": "2018-10-02"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°1181 du 2 octobre 2018) ; pas d'intervention personnelle retrouvée, argument = position du groupe La France insoumise (motion de rejet de Loïc Prud'homme).",
+      "argument": "Le groupe juge la loi « vide » : elle ne réglerait ni le revenu des agriculteurs, ni l'usage du glyphosate, ni le bien-être animal.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N002",
+      "date": "2018-10-02"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°1181) ; pas d'intervention personnelle retrouvée, argument = explication du groupe GDR (Sébastien Jumel, André Chassaigne).",
+      "argument": "Le groupe reproche l'absence de régulation publique des prix agricoles et juge le texte sans effet sur les prix payés aux producteurs.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N002",
+      "date": "2018-10-02"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°1181) ; intervention dans la discussion générale de la lecture définitive.",
+      "argument": "La loi ne contient rien contre l'artificialisation et le bétonnage des terres agricoles, qu'il compare à une « saignée ».",
+      "citation": "Dans votre grande loi sur l’agriculture, il n’y a pas un mot là-dessus, pas une ligne : rien sur la saignée, rien sur le foncier, rien sur le bétonnage",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N002",
+      "date": "2018-10-02"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2018 ; aucune déclaration spécifique retrouvée ; aucun groupe EELV à l'Assemblée ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1181",
+      "date": "2018-10-02"
+    },
+    "batho": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°1181) ; pas d'explication de vote retrouvée. Le même jour, elle interpellait le Premier ministre sur l'interdiction du glyphosate, absente de la loi.",
+      "argument": "Elle réclamait une réponse claire sur l'interdiction du glyphosate, que la loi EGalim n'a pas inscrite.",
+      "citation": "L’interdiction du glyphosate, pesticide probablement cancérogène, le seul de cette catégorie à être autorisé en France, à l’origine d’un scandale sanitaire et environnemental, c’est oui ou c’est non ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N002",
+      "date": "2018-10-02"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat en 2018 ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes a voté contre (0 pour / 25 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1181",
+      "date": "2018-10-02"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°1181), alors député LaREM (entré au gouvernement le 16 octobre 2018) ; aucune déclaration retrouvée. À titre indicatif, le groupe LaREM a voté pour (197-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1181",
+      "date": "2018-10-02"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a présenté le projet de loi (porté par le ministre de l'agriculture Stéphane Travert) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl17-525.html",
+      "date": "2018-10-02"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR, il a voté la question préalable rejetant le texte en nouvelle lecture (scrutin n°232 du 25 septembre 2018) et cosigné la saisine du Conseil constitutionnel ; il avait voté pour la version du Sénat en première lecture (scrutin n°186, https://www.senat.fr/scrutin-public/2017/scr2017-186.html).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-232.html",
+      "date": "2018-09-25"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour / 63 contre) ; il avait quitté LR fin 2017.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1181",
+      "date": "2018-10-02"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (0 pour / 63 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1181",
+      "date": "2018-10-02"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°1181) ; aucune déclaration retrouvée. À titre indicatif, les non-inscrits ont majoritairement voté contre (1 pour / 8 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1181",
+      "date": "2018-10-02"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2018 ; aucune déclaration retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1181",
+      "date": "2018-10-02"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°1181) ; aucune déclaration retrouvée. À titre indicatif, les non-inscrits ont majoritairement voté contre (1 pour / 8 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1181",
+      "date": "2018-10-02"
+    }
+  },
+  "alertes": [
+    "Question reformulée : la loi ne crée pas l'interdiction de revendre à perte (déjà existante), elle relève de 10 % le seuil de revente à perte (expérimentation par ordonnance) ; l'objectif cantines porte sur 50 % de produits « de qualité ou durables », dont 20 % de bio.",
+    "Lecture définitive : il n'y a pas d'explications de vote formelles ; les arguments proviennent de la motion de rejet préalable et de la discussion générale du 2 octobre 2018.",
+    "Retailleau : vote pour la version du Sénat en première lecture (2 juillet 2018), puis pour la question préalable (rejet) en nouvelle lecture et cosignataire de la saisine du Conseil constitutionnel ; la position « contre » se fonde sur ces deux derniers actes, qui portent sur la version finale.",
+    "Batho : la citation provient de sa question au gouvernement du même jour (glyphosate), pas d'une explication de son abstention.",
+    "Mélenchon, Roussel : arguments = position de leur groupe, sans citation personnelle.",
+    "Attal, Le Pen, Dupont-Aignan : n'ont pas pris part au vote ; position inconnu (indication du vote de leur groupe à titre indicatif seulement)."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "revision-traites-ue",
+  "questionSimple": "Faut-il changer les traités européens pour que l'Union décide plus souvent à la majorité, et non plus à l'unanimité ?",
+  "enBref": "Aujourd'hui, de nombreuses décisions européennes demandent l'accord de tous les pays, ce qui donne un droit de veto à chacun. Une grande consultation de citoyens a proposé de décider plus souvent à la majorité. Les députés ont voté un texte de soutien, sans effet obligatoire.",
+  "pourquoiPour": "Pour ses partisans, l'unanimité bloque l'Europe, par exemple sur les impôts. Un grand pays comme la France aurait intérêt à décider à la majorité, surtout si l'Union s'agrandit.",
+  "pourquoiContre": "Pour ses opposants, perdre le droit de veto affaiblirait la France, qui ne pourrait plus bloquer une décision contraire à ses intérêts, en agriculture ou en commerce par exemple.",
+  "ceQuiSestPasse": "L'Assemblée a adopté ce texte de soutien le 29 novembre 2023 ; les traités européens n'ont pas été modifiés depuis.",
+  "lexique": [
+    {
+      "terme": "Majorité qualifiée",
+      "definition": "Règle de vote européenne : une décision passe si 55 % des pays représentant 65 % de la population l'approuvent."
+    },
+    {
+      "terme": "Unanimité",
+      "definition": "Règle où tous les pays doivent être d'accord, ce qui donne à chacun un droit de veto."
+    }
+  ]
+}

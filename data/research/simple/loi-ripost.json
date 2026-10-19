@@ -1,0 +1,18 @@
+{
+  "id": "loi-ripost",
+  "questionSimple": "Faut-il punir plus durement les rodéos urbains, les rave-parties illégales et les squats ?",
+  "enBref": "La loi RIPOST vise les troubles du quotidien : rodéos, rave-parties non déclarées, protoxyde d'azote, squats de logements touristiques, tirs de mortiers. Beaucoup d'infractions pourront être punies par une amende immédiate, sans passer devant un juge.",
+  "pourquoiPour": "Pour ses défenseurs, ces nuisances exaspèrent les habitants et mettent en danger policiers et agriculteurs. L'État doit répondre vite à chaque trouble.",
+  "pourquoiContre": "Pour ses opposants, beaucoup de ces actes étaient déjà interdits. Le texte punit sans prévenir, remplit les prisons et donne trop de pouvoir aux policiers face aux juges.",
+  "ceQuiSestPasse": "La loi a été promulguée le 18 août 2026, après une censure partielle du Conseil constitutionnel.",
+  "lexique": [
+    {
+      "terme": "Amende forfaitaire délictuelle",
+      "definition": "Amende infligée directement par un policier pour certains délits, sans passer devant un tribunal."
+    },
+    {
+      "terme": "Rave-party",
+      "definition": "Grande fête de musique électronique, souvent organisée sans autorisation sur un terrain."
+    }
+  ]
+}

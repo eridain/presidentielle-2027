@@ -1,0 +1,18 @@
+{
+  "id": "referendum-revocatoire",
+  "questionSimple": "Faut-il que les citoyens puissent renvoyer un élu avant la fin de son mandat, par référendum ?",
+  "enBref": "Ce texte voulait permettre aux électeurs de renvoyer un élu en cours de mandat : maire, député ou même président. Il aurait fallu qu'une partie des électeurs le demande, puis qu'un référendum ait lieu.",
+  "pourquoiPour": "Pour ses défenseurs, beaucoup d'élus sont choisis par peu d'électeurs. Pouvoir les renvoyer obligerait les élus à rester à l'écoute des citoyens.",
+  "pourquoiContre": "Pour ses opposants, les élus n'oseraient plus prendre de décisions impopulaires mais nécessaires. Le texte était aussi trop flou sur les règles.",
+  "ceQuiSestPasse": "Le texte a été rejeté par l'Assemblée le 13 janvier 2022.",
+  "lexique": [
+    {
+      "terme": "Référendum",
+      "definition": "Vote où les citoyens répondent directement par oui ou par non."
+    },
+    {
+      "terme": "Mandat",
+      "definition": "Période pendant laquelle un élu exerce sa fonction."
+    }
+  ]
+}

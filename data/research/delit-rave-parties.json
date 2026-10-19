@@ -1,0 +1,226 @@
+{
+  "id": "delit-rave-parties",
+  "titre": "Délit d'organisation de rave-party",
+  "question": "Faut-il faire de l'organisation d'une rave-party non autorisée un délit passible de prison ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposée le 18 mars 2025 par Laetitia Saint-Paul (Horizons), autrice et rapporteure, la proposition de loi visant à renforcer la pénalisation de l'organisation de rave-parties a été examinée lors de la journée réservée du groupe Horizons le 9 avril 2026. Jusqu'ici, l'organisation d'un rassemblement festif illégal de plusieurs centaines de personnes n'était passible que d'une contravention. Le texte crée un délit puni jusqu'à six mois de prison et 30 000 € d'amende pour toute personne participant, directement ou indirectement, à l'organisation d'une rave-party interdite ou non déclarée, et sanctionne aussi les simples participants. Soutenu par le gouvernement (ministre déléguée Marie-Pierre Vedrenne), il a été adopté en première lecture par 78 voix contre 67 et transmis au Sénat le 10 avril 2026. Le sujet a ensuite été repris, avec des peines plus lourdes (deux ans de prison et 30 000 € d'amende pour l'organisation), par la loi RIPOST promulguée le 18 août 2026.",
+  "contexteSources": [
+    {
+      "titre": "Public Sénat – Rave-parties : quelles législations chez nos voisins européens ?",
+      "url": "https://www.publicsenat.fr/actualites/politique/rave-parties-quelles-legislations-chez-nos-voisins-europeens"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/penalisation_rave_party_17e"
+    },
+    {
+      "titre": "Vie publique – Loi RIPOST du 18 août 2026",
+      "url": "https://www.vie-publique.fr/loi/302565-loi-ripost-ordre-public-securite-et-tranquillite-18-aout-2026"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/penalisation_rave_party_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Laetitia Saint-Paul (Horizons & indépendants, autrice et rapporteure)",
+      "resume": "Le texte part de la réalité des campagnes, des élus démunis, des forces de secours mobilisées et des victimes de violences lors de ces événements.",
+      "citation": "celui que subissent nos campagnes où se déroulent 87 % de ces événements ; celui de nos élus locaux démunis",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N197",
+      "date": "2026-04-09"
+    },
+    {
+      "auteur": "Anne-Sophie Ronceret (Ensemble pour la République)",
+      "resume": "L'organisation d'un rassemblement illégal de plusieurs centaines de personnes n'est punie que d'une contravention, sans proportion avec les troubles causés, notamment aux agriculteurs.",
+      "citation": "Ce texte est donc la réponse concrète que la représentation nationale leur doit.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N199",
+      "date": "2026-04-09"
+    },
+    {
+      "auteur": "Eddy Casterman (Rassemblement national)",
+      "resume": "Le texte protège agriculteurs, maires ruraux et riverains ; c'est un premier pas, à compléter.",
+      "citation": "Car voter ce texte ne signifie pas s’en satisfaire : c’est reconnaître une avancée",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N199",
+      "date": "2026-04-09"
+    },
+    {
+      "auteur": "Thibault Bazin (Droite républicaine)",
+      "resume": "L'arsenal actuel n'est pas assez dissuasif face aux nuisances et à la mobilisation des secours et des forces de l'ordre.",
+      "citation": "Force est de constater que notre arsenal actuel est insuffisant et qu’il n’est pas assez dissuasif.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N199",
+      "date": "2026-04-09"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Paul Christophle (Socialistes)",
+      "resume": "La répression seule est inefficace et pousserait ces fêtes vers plus de clandestinité et de risques ; sanctionner les simples participants est un basculement.",
+      "citation": "Penser que durcir les peines empêchera ces événements d’avoir lieu est complètement illusoire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N198",
+      "date": "2026-04-09"
+    },
+    {
+      "auteur": "Jean-Claude Raux (Écologiste et social)",
+      "resume": "Le texte ne repose sur aucune base solide et, par son imprécision, pourrait demain réprimer d'autres formes de rassemblements.",
+      "citation": "Par son imprécision et l’ampleur des comportements visés, il fait peser un risque plus large : celui de pouvoir, demain, réprimer d’autres formes de rassemblements.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N198",
+      "date": "2026-04-09"
+    },
+    {
+      "auteur": "Louis Boyard (La France insoumise)",
+      "resume": "Le texte enverrait des DJ en prison pour une soirée gratuite, signe d'une justice de classe.",
+      "citation": "nous allons vivre dans un pays où des DJ et des influenceurs se retrouveront en prison pour avoir organisé une soirée gratuite",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N198",
+      "date": "2026-04-09"
+    },
+    {
+      "auteur": "Soumya Bourouaha (Gauche démocrate et républicaine)",
+      "resume": "Le texte, sur le modèle italien de Giorgia Meloni, viserait moins les troubles qu'une forme d'expression de la jeunesse.",
+      "citation": "En réalité, elle vise moins à résoudre les maux qu’elle dénonce qu’à détruire ce que ces rassemblements incarnent : une alternative au tout-marché.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N198",
+      "date": "2026-04-09"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Michel Castellani (LIOT)",
+      "resume": "Le problème existe, mais certaines solutions sont discutables : liberté de vote dans le groupe.",
+      "citation": "Vous l’aurez compris, nos réactions sont diverses et les membres du groupe LIOT voteront selon leur conscience.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N198",
+      "date": "2026-04-09"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 34 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 2 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°6124) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel il est apparenté, a voté contre (0 pour / 21 contre). Par ailleurs, il a voté contre la loi RIPOST (scrutin n°8433 du 21 juillet 2026), qui a ensuite créé un délit d'organisation de rave-party illégale.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour / 21 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°6124) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social a voté contre (0 pour / 21 contre). Par ailleurs, elle a voté contre la loi RIPOST (scrutin n°8433 du 21 juillet 2026), qui a ensuite créé un délit d'organisation de rave-party illégale.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 10 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°6124) ; aucune déclaration retrouvée. À titre indicatif, le groupe EPR qu'il préside a voté pour (16 pour / 0 contre). Par ailleurs, il a voté pour la loi RIPOST (scrutin n°8433 du 21 juillet 2026), qui a ensuite créé un délit d'organisation de rave-party illégale.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons & indépendants, auteur du texte, a voté pour (27 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; le Sénat n'a pas examiné cette proposition de loi ; aucune déclaration retrouvée. À titre indicatif, il a voté pour la loi RIPOST au Sénat (scrutin n°338 du 21 juillet 2026), qui a créé un délit d'organisation de rave-party illégale.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-338.html",
+      "date": "2026-04-09"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (7 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (Nouvelle Énergie), sans mandat parlementaire ; aucune déclaration retrouvée ; son parti n'a pas de groupe à l'Assemblée. À titre indicatif, le groupe Droite républicaine (LR, son ancien parti) a voté pour (7 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°6124) ; aucune déclaration retrouvée. À titre indicatif, le groupe RN, qu'elle préside, a voté pour (18 pour / 0 contre). Par ailleurs, elle a voté pour la loi RIPOST (scrutin n°8433 du 21 juillet 2026), qui a ensuite créé un délit d'organisation de rave-party illégale.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans mandat national ; aucune déclaration retrouvée ; pas de député Reconquête ; le groupe UDR n'a pas pris part au vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée ; pas de groupe de son parti à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6124",
+      "date": "2026-04-09"
+    }
+  },
+  "alertes": [
+    "Vote de première lecture en journée réservée (niche Horizons), avec 145 votants : Ruffin, Batho, Attal et Le Pen n'ont pas pris part au vote ; positions laissées « inconnu », avec mention de leur vote sur la loi RIPOST.",
+    "Le texte n'a pas été examiné par le Sénat au dernier état consulté ; la pénalisation des rave-parties a été reprise, avec des peines plus lourdes, par la loi RIPOST (voir la fiche loi-ripost).",
+    "Peines : six mois de prison et 30 000 € d'amende selon Public Sénat ; Paul Christophle évoque une contravention de 5e classe pour les simples participants.",
+    "Une partie des députés de gauche a quitté l'hémicycle pendant la présentation de la rapporteure (compte rendu de la première séance)."
+  ]
+}

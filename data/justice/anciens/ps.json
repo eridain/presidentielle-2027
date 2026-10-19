@@ -1,0 +1,453 @@
+{
+ "partiId": "ps",
+ "condamnations": [
+  {
+   "personne": "Jérôme Cahuzac",
+   "categorie": "ancien_membre",
+   "roleActuel": "ancien ministre délégué au Budget (2012-2013) et ancien député PS de Lot-et-Garonne",
+   "infraction": "fraude fiscale et blanchiment de fraude fiscale",
+   "faits": "Dissimulation d'un compte bancaire à l'étranger (Suisse puis Singapour), faits courant jusqu'à 2012-2013.",
+   "juridiction": "cour d'appel de Paris",
+   "dateDecision": "2018-05-15",
+   "peine": "4 ans d'emprisonnement dont 2 avec sursis, 300 000 € d'amende, 5 ans d'inéligibilité (partie ferme aménagée sous bracelet électronique)",
+   "statut": "definitive",
+   "nature": "penale",
+   "famille": "probite",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "franceinfo — Jérôme Cahuzac condamné en appel à quatre ans de prison dont deux avec sursis",
+     "url": "https://www.franceinfo.fr/politique/affaire/cahuzac/l-ancien-ministre-du-budget-jerome-cahuzac-est-condamne-en-appel-a-quatre-ans-de-prison-dont-deux-avec-sursis-pour-fraude-fiscale-et-blanchiment-de-fraude-fiscale_2753503.html",
+     "citation": "cour d'appel de Paris l'a aussi condamné à 300 000 euros d'amende et cinq ans d'inéligibilité.",
+     "date": "2018-05-15"
+    },
+    {
+     "titre": "France Inter (AFP) — Avant François Fillon, ces hommes politiques condamnés à de la prison ferme",
+     "url": "https://radiofrance.fr/franceinter/avant-francois-fillon-ces-hommes-politiques-condamnes-a-de-la-prison-ferme-5780081",
+     "citation": "Il échappe finalement à l'incarcération, en bénéficiant d'un aménagement de sa peine sous forme de bracelet électronique.",
+     "date": "2020-06-29"
+    }
+   ],
+   "appartenance": {
+    "statutMembre": "exclu",
+    "depuis": "2013-04-09",
+    "detail": "Ministre délégué au Budget (2012-2013) et député PS ; exclu du PS par le bureau national après ses aveux en avril 2013.",
+    "lienAvecCondamnation": "oui",
+    "reactionParti": "Le bureau national du PS a prononcé son exclusion le 9 avril 2013.",
+    "sources": [
+     {
+      "titre": "Le Parisien — Juppé, Cahuzac, Balkany, Emmanuelli… ces responsables politiques condamnés à une peine d'inéligibilité",
+      "url": "https://leparisien.fr/politique/juppe-cahuzac-balkany-emmanuelli-avant-le-pen-ces-responsables-politiques-condamnes-a-une-peine-dineligibilite-31-03-2025-HTWXT5N33ZEWXDRHXPSVMQFRHU.php",
+      "citation": "Exclu du Parti socialiste dès le 9 avril 2013, l'ancien médecin avait déjà été contraint de quitter ses fonctions ministérielles un mois plus tôt",
+      "date": "2025-03-31"
+     }
+    ]
+   }
+  },
+  {
+   "personne": "Thomas Thévenoud",
+   "categorie": "ancien_membre",
+   "roleActuel": "ancien secrétaire d'État au Commerce extérieur (2014) et ancien député de Saône-et-Loire",
+   "infraction": "fraude fiscale",
+   "faits": "Absence de déclaration de revenus en 2012 et déclarations tardives de 2009 à 2013 malgré relances et mises en demeure.",
+   "juridiction": "cour d'appel de Paris (pourvoi rejeté par la Cour de cassation le 12 septembre 2019)",
+   "dateDecision": "2018-01-31",
+   "peine": "1 an d'emprisonnement avec sursis et 3 ans d'inéligibilité",
+   "statut": "definitive",
+   "nature": "penale",
+   "famille": "probite",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Public Sénat — Fraude fiscale : condamnation définitive de l'ex-ministre Thomas Thévenoud",
+     "url": "https://www.publicsenat.fr/actualites/non-classe/fraude-fiscale-condamnation-definitive-de-l-ex-ministre-thomas-thevenoud-145302",
+     "citation": "avait été condamné en appel le 31 janvier 2018 pour fraude fiscale à un an de prison avec sursis et trois ans d'inéligibilité, comme son épouse.",
+     "date": "2019-09-12"
+    }
+   ],
+   "appartenance": {
+    "statutMembre": "depart",
+    "depuis": "2014-09-08",
+    "detail": "Député PS élu en 2012, secrétaire d'État en 2014 ; a annoncé quitter le PS en septembre 2014 après sa démission du gouvernement, tout en conservant son siège.",
+    "lienAvecCondamnation": "oui",
+    "reactionParti": null,
+    "sources": [
+     {
+      "titre": "Atlantico — Thomas Thévenoud : de nombreuses personnalités politiques l'appellent à démissionner",
+      "url": "https://atlantico.fr/article/pepite/thomas-thevenoud--de-nombreuses-personnalites-politiques-l-appellent-a-demissionner",
+      "citation": "Le député a annoncé lundi soir qu'il quittait le Parti socialiste mais qu'il conserverait son siège à l'Assemblée nationale.",
+      "date": "2014-09-09"
+     }
+    ]
+   }
+  },
+  {
+   "personne": "Sylvie Andrieux",
+   "categorie": "ancien_membre",
+   "roleActuel": "ancienne députée des Bouches-du-Rhône (démissionnaire en décembre 2016)",
+   "infraction": "détournement de fonds publics",
+   "faits": "Entre 2005 et 2008, alors conseillère régionale PACA, distribution d'environ 700 000 € de subventions à des associations fictives.",
+   "juridiction": "cour d'appel d'Aix-en-Provence (pourvoi rejeté par la Cour de cassation le 9 novembre 2016)",
+   "dateDecision": "2014-09-23",
+   "peine": "4 ans d'emprisonnement dont 3 avec sursis, 100 000 € d'amende, 5 ans d'inéligibilité",
+   "statut": "definitive",
+   "nature": "penale",
+   "famille": "probite",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "France Bleu (ici) — La députée PS Sylvie Andrieux définitivement condamnée pour détournement de fonds publics",
+     "url": "https://www.francebleu.fr/infos/faits-divers-justice/la-deputee-socialiste-sylvie-andrieux-definitivement-condamnee-pour-detournement-de-fonds-publics-1478711566",
+     "citation": "La Cour de cassation a rejeté ce mercredi le pourvoi de Sylvie Andrieux. La députée socialiste marseillaise est définitivement condamnée à quatre ans de prison dont trois avec sursis, 100.000 euros d'amende et cinq ans d'inéligibilité.",
+     "date": "2016-11-09"
+    },
+    {
+     "titre": "France Inter — Prison ferme en appel pour la députée Sylvie Andrieux",
+     "url": "https://www.radiofrance.fr/franceinter/prison-ferme-en-appel-pour-la-deputee-sylvie-andrieux-8050041",
+     "citation": "La cour d'appel d'Aix a alourdi ce mardi la peine infligée en première instance à Sylvie Andrieux.",
+     "date": "2014-09-23"
+    }
+   ],
+   "appartenance": {
+    "statutMembre": "exclu",
+    "depuis": "2013",
+    "detail": "Députée PS (2012-2016) ; exclue du PS après sa condamnation en première instance (mai 2013), elle siège ensuite comme non-inscrite.",
+    "lienAvecCondamnation": "oui",
+    "reactionParti": "Exclusion du PS après la condamnation de première instance.",
+    "sources": [
+     {
+      "titre": "France Inter — Prison ferme en appel pour la députée Sylvie Andrieux",
+      "url": "https://www.radiofrance.fr/franceinter/prison-ferme-en-appel-pour-la-deputee-sylvie-andrieux-8050041",
+      "citation": "Sylvie Andrieux, avait déjà été exclue du parti socialiste après sa condamnation en mai dernier",
+      "date": "2014-09-23"
+     },
+     {
+      "titre": "BFMTV — Démission de la députée Sylvie Andrieux (ex-PS) après sa condamnation définitive",
+      "url": "https://www.bfmtv.com/politique/demission-de-la-deputee-sylvie-andrieux-ex-ps-apres-sa-condamnation-definitive_AN-201612090024.html",
+      "citation": "La députée Sylvie Andrieux, exclue du Parti socialiste, a démissionné de l'Assemblée nationale",
+      "date": "2016-12-09"
+     }
+    ]
+   }
+  },
+  {
+   "personne": "Jean-Noël Guérini",
+   "categorie": "ancien_membre",
+   "roleActuel": "ancien sénateur des Bouches-du-Rhône (démissionnaire en mars 2024), ancien président du conseil général",
+   "infraction": "prise illégale d'intérêts",
+   "faits": "Participation, en 2006, au vote d'une délibération du conseil général qu'il présidait sur la cession d'un terrain servant à l'extension d'une décharge exploitée par son frère.",
+   "juridiction": "cour d'appel d'Aix-en-Provence (pourvoi rejeté pour l'essentiel par la Cour de cassation le 13 mars 2024)",
+   "dateDecision": "2022-03",
+   "peine": "3 ans d'emprisonnement dont 18 mois avec sursis, 30 000 € d'amende, 5 ans d'inéligibilité",
+   "statut": "definitive",
+   "nature": "penale",
+   "famille": "probite",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Le Parisien (AFP) — Marchés truqués : prison et inéligibilité confirmées en cassation pour le sénateur Jean-Noël Guérini",
+     "url": "https://leparisien.fr/faits-divers/marches-truques-prison-et-ineligibilite-confirmees-en-cassation-pour-le-senateur-jean-noel-guerini-13-03-2024-4YMP7K2KYZDQFCPRB3VV6MVMVY.php",
+     "citation": "La Cour de cassation a confirmé mercredi la condamnation du sénateur Jean-Noël Guérini , à trois ans de prison dont 18 mois avec sursis et cinq ans d'inéligibilité pour le trucage de marchés publics.",
+     "date": "2024-03-13"
+    },
+    {
+     "titre": "France Bleu (ici) — Marchés truqués : Jean-Noël Guérini définitivement condamné",
+     "url": "https://www.francebleu.fr/infos/faits-divers-justice/marches-truques-jean-noel-guerini-est-definitivement-condamne-a-trois-ans-de-prison-et-cinq-ans-d-ineligibilite-3165433",
+     "citation": "Condamné pour \"prise illégale d'intérêts\", il était reproché à Jean-Noël Guérini, quand il était à la tête du département, d'avoir préempté un terrain",
+     "date": "2024-03-13"
+    }
+   ],
+   "appartenance": {
+    "statutMembre": "depart",
+    "depuis": "2014-04-07",
+    "detail": "Sénateur PS jusqu'en 2014 ; a quitté le PS le 7 avril 2014 en devançant une procédure d'exclusion lancée en janvier 2014, puis a fondé La Force du 13.",
+    "lienAvecCondamnation": "non",
+    "reactionParti": "Le PS avait lancé en janvier 2014 une procédure d'exclusion pour « manquements répétés aux principes de la charte éthique du parti » (soutien à une liste concurrente aux municipales).",
+    "sources": [
+     {
+      "titre": "franceinfo (AFP) — L'ancien socialiste Jean-Noël Guérini lance La Force du 13",
+      "url": "https://www.franceinfo.fr/politique/affaire/guerini/guerini-lance-la-force-du-13_585869.html",
+      "citation": "Jean-Noël Guérini , qui a devancé son exclusion imminente du PS en quittant le parti le 7 avril",
+      "date": "2014-04-25"
+     },
+     {
+      "titre": "Le Parisien — Marseille : le PS désire exclure Jean-Noël Guérini avant les municipales",
+      "url": "https://www.leparisien.fr/elections/municipales/marseille-le-ps-desire-exclure-jean-noel-guerini-avant-les-municipales-28-01-2014-3536555.php",
+      "citation": "il avait décidé de saisir la Haute autorité de PS du cas de M. Guérini, pour manquements répétés aux principes de la charte éthique du parti",
+      "date": "2014-01-28"
+     }
+    ]
+   }
+  },
+  {
+   "personne": "Jean-Pierre Kucheida",
+   "categorie": "ancien_membre",
+   "roleActuel": "ancien député du Pas-de-Calais (jusqu'en juin 2012) et ancien maire de Liévin",
+   "infraction": "abus de biens sociaux",
+   "faits": "Usage abusif de la carte bancaire du bailleur social Soginorpa, qu'il présidait, et environ 11 000 € de dépenses non justifiées entre 2009 et 2012.",
+   "juridiction": "tribunal correctionnel de Douai",
+   "dateDecision": "2013-05-21",
+   "peine": "30 000 € d'amende",
+   "statut": "definitive",
+   "nature": "penale",
+   "famille": "probite",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "La Croix — Jean-Pierre Kucheida condamné à une amende",
+     "url": "https://www.la-croix.com/Actualite/France/Jean-Pierre-Kucheida-condamne-a-une-amende-2013-05-21-962641",
+     "citation": "a été condamné mardi 21 mai par le tribunal correctionnel de Douai (Nord) à 30 000 € d'amende pour abus de biens sociaux au détriment du bailleur social qu'il présidait, la Soginorpa.",
+     "date": "2013-05-21"
+    },
+    {
+     "titre": "BFMTV — Condamné pour abus de biens sociaux, Kucheida ne fait pas appel",
+     "url": "https://www.bfmtv.com/politique/parti-socialiste/condamne-pour-abus-de-biens-sociaux-kucheida-ne-fait-pas-appel_AN-201306010002.html",
+     "citation": "n'a pas fait appel de sa condamnation à une amende pour abus de biens sociaux, rendant celle-ci définitive.",
+     "date": "2013-06-01"
+    }
+   ],
+   "appartenance": {
+    "statutMembre": "exclu",
+    "depuis": "2012-05-29",
+    "detail": "Député PS jusqu'en juin 2012 ; non réinvesti, il se présente en dissident aux législatives de 2012 et est exclu du PS.",
+    "lienAvecCondamnation": "non",
+    "reactionParti": "Exclusion pour candidature dissidente.",
+    "sources": [
+     {
+      "titre": "BFMTV — Condamné pour abus de biens sociaux, Kucheida ne fait pas appel",
+      "url": "https://www.bfmtv.com/politique/parti-socialiste/condamne-pour-abus-de-biens-sociaux-kucheida-ne-fait-pas-appel_AN-201306010002.html",
+      "citation": "Il avait été exclu du PS pour candidature dissidente, puis battu au premier tour des législatives en juin 2012.",
+      "date": "2013-06-01"
+     }
+    ]
+   }
+  },
+  {
+   "personne": "Jean-Jacques Bridey",
+   "categorie": "ancien_membre",
+   "roleActuel": "ancien député du Val-de-Marne (PS 2012-2017, LREM 2017-2022), ancien maire de Fresnes",
+   "infraction": "détournement de fonds publics et concussion",
+   "faits": "Dépenses à des fins privées d'environ 145 000 € entre 2013 et 2019 (frais de mandat) et dépassement du plafond légal d'indemnités d'élu.",
+   "juridiction": "tribunal correctionnel de Paris (32e chambre)",
+   "dateDecision": "2026-06-04",
+   "peine": "2 ans d'emprisonnement avec sursis, 75 000 € d'amende, 5 ans d'inéligibilité avec exécution provisoire",
+   "statut": "inconnu",
+   "nature": "penale",
+   "famille": "probite",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "BFMTV/AFP via Yahoo — L'ex-député LREM Jean-Jacques Bridey condamné à deux ans avec sursis",
+     "url": "https://fr.news.yahoo.com/lex-d%C3%A9put%C3%A9-lrem-jean-jacques-144239525.html",
+     "citation": "a été condamné jeudi 4 juin par le tribunal correctionnel de Paris à deux ans d'emprisonnement avec sursis, 75.000 euros d'amende et cinq ans d'inéligibilité pour détournement de fonds publics et concussion.",
+     "date": "2026-06-04"
+    },
+    {
+     "titre": "Le Monde — L'ex-député Jean-Jacques Bridey condamné à deux ans avec sursis pour le détournement de ses frais de mandat",
+     "url": "https://www.lemonde.fr/societe/article/2026/06/04/l-ex-depute-jean-jacques-bridey-condamne-a-deux-ans-avec-sursis-pour-le-detournement-de-ses-frais-de-mandat_6697438_3224.html",
+     "citation": "a notamment été condamné pour avoir dépensé à des fins privées quelque 145 000 euros entre 2013 et 2019.",
+     "date": "2026-06-04"
+    },
+    {
+     "titre": "Le Parisien — Condamné pour détournement de fonds publics, l'ex-maire de Fresnes Jean-Jacques Bridey va perdre son dernier mandat",
+     "url": "https://www.leparisien.fr/val-de-marne-94/condamne-pour-detournement-de-fonds-publics-lex-maire-de-fresnes-jean-jacques-bridey-va-perdre-son-dernier-mandat-04-06-2026-L3PUD22565AUXGQWPOHWNCFBNM.php",
+     "citation": "L'ex-maire (PS) de Fresnes et ancien député (PS puis LREM) du Val-de-Marne, Jean-Jacques Bridey (ici le 2 avril 2026), envisage de faire appel de sa condamnation.",
+     "date": "2026-06-04"
+    }
+   ],
+   "appartenance": {
+    "statutMembre": "depart",
+    "depuis": "2017",
+    "detail": "Député PS de 2012 à 2017, rallié à Emmanuel Macron en 2017 ; président de Renaissance Val-de-Marne au moment du jugement.",
+    "lienAvecCondamnation": "non",
+    "reactionParti": null,
+    "sources": [
+     {
+      "titre": "Citoyens.com (AFP) — Prison avec sursis et inéligibilité pour l'ex-député Jean-Jacques Bridey",
+      "url": "https://citoyens.com/2026/val-de-marne-prison-avec-sursis-et-ineligibilite-pour-lex-depute-jean-jacques-bridey,04-06-2026.html",
+      "citation": "Jean-Jacques Bridey, ancien député-maire PS puis LREM de Fresnes, actuellement président de Renaissance Val-de-Marne",
+      "date": "2026-06-04"
+     }
+    ]
+   }
+  },
+  {
+   "personne": "François Pupponi",
+   "categorie": "ancien_membre",
+   "roleActuel": "ancien député du Val-d'Oise (2007-2022), ancien maire de Sarcelles",
+   "infraction": "détournement de fonds publics",
+   "faits": "Usage non conforme de l'indemnité représentative de frais de mandat (IRFM) de député pour des dépenses personnelles (122 459,56 € selon le PNF).",
+   "juridiction": "tribunal correctionnel de Paris (32e chambre, homologation d'une CRPC)",
+   "dateDecision": "2025-12-09",
+   "peine": "10 mois d'emprisonnement avec sursis, 80 000 € d'amende dont la moitié avec sursis, 5 ans d'inéligibilité",
+   "statut": "appel_en_cours",
+   "nature": "penale",
+   "famille": "probite",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Le Monde — François Pupponi, ex-député socialiste, condamné pour détournement de fonds publics",
+     "url": "https://www.lemonde.fr/les-decodeurs/article/2025/12/09/frais-de-mandat-l-ex-depute-socialiste-francois-pupponi-condamne-pour-detournement-de-fonds-publics_6656640_4355770.html",
+     "citation": "M.Pupponi a également accepté la peine proposée par le Parquet national financier (PNF), à savoir dix mois de prison avec sursis, une amende de 80 000 euros (dont la moitié avec sursis), et cinq ans d'inéligibilité.",
+     "date": "2025-12-09"
+    },
+    {
+     "titre": "Le Monde — L'ex-député François Pupponi fait appel de sa condamnation",
+     "url": "https://www.lemonde.fr/les-decodeurs/article/2026/03/26/l-ex-depute-francois-pupponi-fait-appel-de-sa-condamnation-apres-avoir-reconnu-un-detournement-de-fonds-publics-pour-ses-frais-de-mandat_6674393_4355770.html",
+     "citation": "sera rejugé, en appel, après avoir contesté sa condamnation pour détournement de fonds publics.",
+     "date": "2026-03-26"
+    }
+   ],
+   "appartenance": {
+    "statutMembre": "depart",
+    "depuis": "2018-07",
+    "detail": "Député PS du Val-d'Oise (2007-2017 sous l'étiquette PS) ; a quitté le PS en 2018 et rejoint ensuite le groupe MoDem à l'Assemblée.",
+    "lienAvecCondamnation": "non",
+    "reactionParti": null,
+    "sources": [
+     {
+      "titre": "Corse-Matin — Le député et ex-PS François Pupponi rejoint le groupe MoDem à l'Assemblée",
+      "url": "https://www.corsematin.com/articles/le-depute-et-ex-ps-francois-pupponi-rejoint-le-groupe-modem-a-lassemblee-113989",
+      "citation": "Le député et ex-PS François Pupponi rejoint le groupe MoDem à l'Assemblée",
+      "date": "2020-12-08"
+     }
+    ]
+   }
+  },
+  {
+   "personne": "François Pupponi",
+   "categorie": "ancien_membre",
+   "roleActuel": "ancien député du Val-d'Oise (2007-2022), ancien maire de Sarcelles",
+   "infraction": "abus de biens sociaux",
+   "faits": "Usage abusif, entre 2004 et 2006, de la carte bancaire de la SEM Chaleur (chauffage urbain de Sarcelles) qu'il présidait.",
+   "juridiction": "cour d'appel de Versailles (confirmation du jugement du tribunal correctionnel de Pontoise du 5 janvier 2022)",
+   "dateDecision": "2024-11-27",
+   "peine": "5 000 € d'amende avec sursis (relaxe pour faux et usage de faux)",
+   "statut": "pourvoi_en_cours",
+   "nature": "penale",
+   "famille": "probite",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Le Parisien — Sarcelles : François Pupponi condamné en appel pour abus de biens sociaux",
+     "url": "https://www.leparisien.fr/val-d-oise-95/sarcelles-francois-pupponi-condamne-en-appel-pour-abus-de-biens-sociaux-28-11-2024-NLSFUGCA6VG7DAFZ5K4F54EP4M.php",
+     "citation": "la cour d'appel de Versailles a confirmé le jugement en première instance de Pontoise en condamnant l'ancien maire de Sarcelles et président de la Sem-Chaleur pour abus de biens sociaux à 5 000 euros d'amende.",
+     "date": "2024-11-28"
+    },
+    {
+     "titre": "actu.fr — L'ancien député-maire François Pupponi condamné pour détournement de fonds publics",
+     "url": "https://actu.fr/ile-de-france/sarcelles_95585/val-doise-lancien-depute-maire-francois-pupponi-condamne-pour-detournement-de-fonds-publics_63569711.html",
+     "citation": "Déjà condamné en première instance puis en appel pour abus de biens sociaux en raison d'un usage jugé abusif de la carte bancaire de la société entre 2004 et 2006, il a saisi la Cour de cassation .",
+     "date": "2025-12"
+    }
+   ],
+   "appartenance": {
+    "statutMembre": "depart",
+    "depuis": "2018-07",
+    "detail": "Député PS du Val-d'Oise (2007-2017 sous l'étiquette PS) ; a quitté le PS en 2018 et rejoint ensuite le groupe MoDem à l'Assemblée.",
+    "lienAvecCondamnation": "non",
+    "reactionParti": null,
+    "sources": [
+     {
+      "titre": "Corse-Matin — Le député et ex-PS François Pupponi rejoint le groupe MoDem à l'Assemblée",
+      "url": "https://www.corsematin.com/articles/le-depute-et-ex-ps-francois-pupponi-rejoint-le-groupe-modem-a-lassemblee-113989",
+      "citation": "Le député et ex-PS François Pupponi rejoint le groupe MoDem à l'Assemblée",
+      "date": "2020-12-08"
+     }
+    ]
+   }
+  },
+  {
+   "personne": "Xavier Iacovelli",
+   "categorie": "ancien_membre",
+   "roleActuel": "sénateur des Hauts-de-Seine (groupe RDPI), président de Démocrates et progressistes",
+   "infraction": "escroquerie",
+   "faits": "En 2009, financement par la ville de Suresnes, au titre du droit à la formation des élus, d'une formation au bénéfice d'une militante non élue.",
+   "juridiction": "tribunal correctionnel de Nanterre",
+   "dateDecision": "2014-04-10",
+   "peine": "3 mois d'emprisonnement avec sursis et 3 120,46 € d'amende (solidairement), 1 500 € à verser à la commune (relaxe pour faux)",
+   "statut": "inconnu",
+   "nature": "penale",
+   "famille": "probite",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Le Parisien — Suresnes : Xavier Iacovelli (PS) condamné pour escroquerie",
+     "url": "https://www.leparisien.fr/hauts-de-seine-92/suresnes-xavier-iacovelli-ps-condamne-pour-escroquerie-10-04-2014-3757881.php",
+     "citation": "a été condamné par le tribunal de Nanterre à trois mois de prison avec sursis et à verser 1 500",
+     "date": "2014-04-10"
+    }
+   ],
+   "appartenance": {
+    "statutMembre": "depart",
+    "depuis": "2019",
+    "detail": "Élu sénateur en 2017 sous l'étiquette PS, ancien premier secrétaire fédéral des Hauts-de-Seine ; a quitté le PS en 2019 pour rejoindre LREM.",
+    "lienAvecCondamnation": "non",
+    "reactionParti": null,
+    "sources": [
+     {
+      "titre": "Public Sénat — Le sénateur Renaissance Xavier Iacovelli pressenti comme secrétaire d'État",
+      "url": "https://www.publicsenat.fr/actualites/politique/le-senateur-renaissance-xavier-iacovelli-pressenti-comme-secretaire-detat-a-la-famille-et-a-lenfance",
+      "citation": "Elu sénateur en septembre 2017 sous l'étiquette PS, il quitte le parti à la rose en 2019 , pour ensuite rejoindre La République en marche (aujourd'hui Renaissance)",
+      "date": "2024-09-21"
+     }
+    ]
+   }
+  },
+  {
+   "personne": "Christophe Castaner",
+   "categorie": "ancien_membre",
+   "roleActuel": "ancien ministre de l'Intérieur (2018-2020), ancien député PS (2012-2017) puis LREM des Alpes-de-Haute-Provence",
+   "infraction": "diffamations et injures publiques envers particulier, fonctionnaire ou citoyen chargé d'un service public",
+   "faits": "Diffusion à Avignon, en juin 1995 pendant la campagne municipale, d'une bande dessinée pornographique visant des candidats adverses.",
+   "juridiction": "tribunal de grande instance d'Avignon",
+   "dateDecision": "1996-10-10",
+   "peine": "50 000 francs d'amende et 51 000 francs de dommages et intérêts (solidairement)",
+   "statut": "inconnu",
+   "nature": "penale",
+   "famille": "diffamation",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "L'Obs — « Marianne » ressort l'affaire de la « BD pornographique » distribuée par Castaner en 1995",
+     "url": "https://www.nouvelobs.com/politique/20190809.OBS16999/marianne-ressort-l-affaire-de-la-bd-pornographique-distribuee-par-castaner-en-1995.html",
+     "citation": "Christophe Castaner sera finalement condamné à payer 50 000 francs d'amende pour « diffamations et injures publiques envers particulier, fonctionnaire ou citoyen chargé d'un service public",
+     "date": "2019-08-09"
+    }
+   ],
+   "appartenance": {
+    "statutMembre": "depart",
+    "depuis": "2016",
+    "detail": "Membre du PS, député PS de 2012 à 2017 ; rallié à Emmanuel Macron en 2016, il devient délégué général de LREM en 2017.",
+    "lienAvecCondamnation": "non",
+    "reactionParti": null,
+    "sources": [
+     {
+      "titre": "Mediapart (English) — Former socialist appointed head of Macron party",
+      "url": "https://www.mediapart.fr/en/journal/france/201117/former-socialist-appointed-head-macron-party",
+      "citation": "Christophe Castaner, 51, who last year swapped political allegiance to join Emmanuel Macron's centrist bid for the French presidency has been appointed as head of the latter's fledgling political party",
+      "date": "2017-11-20"
+     }
+    ]
+   }
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 45,
+  "methode": "Croisement de trois bases : export Poligraph (poligraph.fr/api/export/affaires, filtre condamnations + parti PS au moment des faits ou actuel), casier-politique.fr (page parti PS, 41 condamnations / 30 personnes, données brutes Codeberg raphael-jolivet/crapulopedia affaires-out.csv filtrées sur « Parti socialiste »), puis recherche nominative (web) sur ~45 anciens parlementaires/ministres PS depuis 2012 : « <nom> condamné », « <nom> appel/cassation », « <nom> quitte/exclu du PS ». Wikitexte Wikipédia (fr) lu pour l'appartenance partisane, chaque fait retenu étant recoupé par un article de presse ouvert (Le Monde, franceinfo, Le Parisien, BFMTV, Public Sénat, France Bleu, France Inter, La Croix, L'Obs, Atlantico, Corse-Matin, actu.fr, citoyens.com/AFP). Toutes les citations ont été vérifiées par comparaison automatique avec le texte des pages téléchargées.",
+  "limites": "Inclusion limitée aux personnes dont le départ ou l'exclusion du PS est sourcé ; plusieurs anciens ministres/parlementaires PS condamnés dont l'appartenance actuelle n'a pu être établie sont listés en alertes et non dans les condamnations. Pas de consultation systématique de Judilibre ni des casiers ; condamnations peu médiatisées (diffamation, décisions locales anciennes) possiblement manquées. Pagination de casier-politique (pages 2-3) non accessible en rendu, compensée par le CSV brut du dépôt Codeberg (état mars 2026, possiblement incomplet pour 2026). Statut définitif non confirmé pour Iacovelli (2014), Castaner (1996) et Bridey (2026) ; issue du pourvoi de Pupponi (SEM Chaleur) non trouvée au 18/10/2026. Réhabilitation/non-avenu des peines anciennes non vérifiés. Dirigeants nationaux historiques du PS non parlementaires depuis 2012 couverts seulement via les bases ci-dessus."
+ },
+ "alertes": [
+  "Périmètre « depuis 2012 » limite pour Jean-Pierre Kucheida : député PS jusqu'à son exclusion le 29/05/2012 (mandat achevé en juin 2012). À valider.",
+  "Christophe Castaner (1996) : condamnation ancienne (faits de juin 1995, après le seuil de la loi d'amnistie du 3 août 1995 sous réserve de vérification) ; appel et réhabilitation non vérifiés ; une seule source de presse (L'Obs, reprenant Marianne) détaille la peine. Wikipédia donne la même peine.",
+  "Xavier Iacovelli : Wikipédia indique « 1 500 € », alors que Le Parisien mentionne 3 mois avec sursis, 3 120,46 € d'amende (solidairement) et 1 500 € à verser à la commune ; c'est Le Parisien qui est retenu. Appel non documenté. Départ du PS : Wikipédia donne le 20/10/2019.",
+  "Jean-Jacques Bridey : Le Parisien indique qu'il « envisage de faire appel » ; Poligraph qualifie la décision de « non définitive ». Statut laissé « inconnu ».",
+  "François Pupponi (SEM Chaleur) : pourvoi en cassation annoncé en décembre 2024 (actu.fr ; communiqué publié sur sarcelles.fr) et toujours pendant selon actu.fr en décembre 2025 ; aucune décision de la Cour de cassation trouvée. Pupponi (IRFM) : condamnation par CRPC homologuée, puis appel (Le Monde, 26/03/2026).",
+  "Guérini : jour exact de l'arrêt d'appel non lu dans une source ouverte (Poligraph indique le 30/03/2022) ; « 2022-03 » retenu.",
+  "Appartenance non établie, donc non inclus (des condamnés qui pourraient encore être membres du PS sans figurer dans ps.json) : Jean-Jacques Urvoas (CJR, 30/09/2019, 1 mois avec sursis et 5 000 € d'amende pour violation du secret professionnel) ; Kader Arif (CJR, 26/10/2022, 1 an avec sursis pour favoritisme) ; Bruno Le Roux (TC Paris, 19/02/2026, 2 ans avec sursis, 70 000 €, 5 ans d'inéligibilité, emplois de ses filles, appel annoncé) ; Thierry Mandon (TC Saint-Étienne, 15/11/2024, 1 an avec sursis et 22 000 €, appel puis désistement selon Activ Radio) ; Henri Jibrayel (CA Aix 2023, deux condamnations, pourvois ; TJ Marseille 03/07/2025, 6 mois avec sursis pour violences en réunion) ; Philippe Martin (2022, 2 ans avec sursis pour détournement de fonds publics ; Wikipédia le dit toujours membre du PS) ; Philippe Doucet (TC Paris, 14/12/2023, 18 mois avec sursis, sans appel ; TC Paris, 10/12/2024, 1 an avec sursis pour détournement de fonds publics ; liste dissidente aux municipales de 2026 sans exclusion sourcée) ; Philippe Kaltenbach (CA Versailles, 18/10/2019, 30 mois avec sursis pour corruption passive ; suspendu du PS en 2016, exclusion non sourcée). À arbitrer : soit les rattacher à ps.json, soit sourcer leur départ.",
+  "Exclus du périmètre : Robert Navarro (exclu du PS le 23/02/2010, donc pas parlementaire PS depuis 2012 ; condamnation définitive en 2019 pour abus de confiance) ; René Teulade (condamné en 1re instance, décédé le 13/02/2014 avant l'arrêt d'appel, action publique éteinte) ; Max Mathiasin (PS jusqu'en 2015, député à partir de 2017 hors PS) ; Benoît Simian, Jean-Paul Huchon, Gilbert Annette, Claude Pradille, Jean-Michel Boucheron, Roland Dumas (pas parlementaires/ministres PS depuis 2012 ni dirigeants nationaux au sens du brief) ; Christian Bourquin (sénateur 2011-2014 au groupe RDSE, décédé en 2014 ; condamnations non vérifiées).",
+  "Exclus (pas de condamnation pénale retenue) : Olivier Dussopt (ex-PS, condamné en appel le 07/02/2025 pour favoritisme, arrêt annulé par la Cour de cassation le 03/06/2026 avec renvoi, selon L'Informé et Wikipédia) ; Arnaud Montebourg (ex-PS 1985-2018 : condamné le 23/05/2012 par le TGI de Paris pour injure envers d'ex-dirigeants de SeaFrance, avec 1 € de dommages et intérêts, voie a priori civile et issue de l'appel non trouvée ; puis 2 000 € de dommages et intérêts envers J.-N. Guérini pour atteinte à la présomption d'innocence le 17/12/2012, décision civile) ; Yamina Benguigui (condamnée définitivement en 2017 à 1 an d'inéligibilité pour déclaration de patrimoine incomplète, mais adhésion au PS non établie : Wikipédia la dit « sans étiquette ») ; Malek Boutih (diffamation envers le MRAP en 2006 selon Wikipédia et casier-politique, aucune source de presse ouverte).",
+  "Personnes déjà présentes dans data/justice/ps.json (Emmanuelli, Mauroy, Désir, Cambadélis, Hollande) : non reprises.",
+  "Doublons inter-partis : Xavier Iacovelli figure aussi dans renaissance.json, et Jean-Jacques Bridey dans anciens/renaissance.json, pour les mêmes décisions. Ici, ils sont rattachés à leur passé de parlementaires PS. À dédoublonner à l'affichage si besoin."
+ ]
+}

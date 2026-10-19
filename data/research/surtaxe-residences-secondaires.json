@@ -1,0 +1,192 @@
+{
+  "id": "surtaxe-residences-secondaires",
+  "titre": "Taxer davantage les résidences secondaires en zone tendue",
+  "question": "Faut-il permettre aux communes en zone tendue d'augmenter davantage la taxe d'habitation sur les résidences secondaires, sans hausse de la taxe foncière ?",
+  "ouiSignifie": "pour",
+  "contexte": "Depuis la suppression de la taxe d'habitation sur les résidences principales, la taxe d'habitation ne frappe plus que les résidences secondaires (THRS). La règle de « liaison des taux » oblige les communes, à partir de 2023, à faire varier dans la même proportion la THRS et la taxe foncière payée par les propriétaires, y compris ceux qui occupent leur logement. Lors de l'examen du budget rectificatif de l'été 2022, l'amendement n° 403 de Paul Molac (LIOT) propose que les communes situées en zone tendue puissent augmenter le taux de THRS sans relever la taxe foncière, pour lutter contre la flambée des prix et le départ des habitants à l'année. Le 26 juillet 2022, il est rejeté par 171 voix contre 206 : la majorité et LR contre, la gauche, LIOT et le RN pour. La loi de finances pour 2023 a ensuite élargi la liste des communes pouvant majorer la THRS jusqu'à 60 %, sans supprimer la liaison des taux.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la première séance du 26 juillet 2022 (PLFR 2022)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023"
+    },
+    {
+      "titre": "Banque des Territoires – Résidences secondaires : plus d'un millier de communes supplémentaires ont institué la surtaxe en 2024",
+      "url": "https://www.banquedesterritoires.fr/residences-secondaires-plus-dun-millier-de-communes-supplementaires-ont-institue-la-surtaxe-en-2024"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/159",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+  "argumentsPour": [
+    {
+      "auteur": "Paul Molac (LIOT)",
+      "resume": "Dans les zones tendues, des actifs ne trouvent plus à se loger ; laisser les communes taxer plus les résidences secondaires ne coûte rien à l'État.",
+      "citation": "La mesure que nous préconisons ne coûterait rien à l’État et pourrait être appliquée au bon vouloir des communes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "Paul Molac (LIOT), sur l'amendement voisin n° 402",
+      "resume": "La liaison des taux oblige à augmenter la taxe foncière de propriétaires modestes pour pouvoir taxer des résidences secondaires de familles plus aisées.",
+      "citation": "Elle impliquerait en effet d’augmenter la taxe foncière de foyers très modestes, mais propriétaires de leur logement, pour pouvoir augmenter la taxe d’habitation sur les résidences secondaires",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "Paul-André Colombani (LIOT)",
+      "resume": "Dans certaines communes, les résidences secondaires sont plus nombreuses que les habitants : instituteurs et actifs ne peuvent plus s'y loger.",
+      "citation": "J’habite une commune qui compte 2 400 habitants pour 2 800 résidences secondaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "Inaki Echaniz (Socialistes)",
+      "resume": "La spéculation immobilière chasse les habitants à l'année du Pays basque et de la façade atlantique : il faut agir sur la fiscalité.",
+      "citation": "Il faut faire payer ceux qui possèdent cinq, six ou sept appartements, et qui les louent de mai à septembre parce que c’est plus avantageux fiscalement que de les louer à l’année.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+      "date": "2022-07-26"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-René Cazeneuve (rapporteur général, Renaissance)",
+      "resume": "La liaison des taux protège les contribuables contre une imposition excessive de certaines catégories ; le sujet relève du budget 2023.",
+      "citation": "c’est pourtant un système protecteur, qui permet d’éviter qu’une imposition excessive touche certaines catégories de nos concitoyens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+      "date": "2022-07-26"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2022 ; aucune déclaration retrouvée. Proxy : le groupe LFI-NUPES a voté pour (52 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°159) ; aucune déclaration retrouvée. Proxy : le groupe GDR-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°159) ; aucune déclaration retrouvée. Proxy : le groupe LFI-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Écologiste-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°159) ; aucune déclaration retrouvée. Proxy : le groupe Écologiste-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. Proxy : le groupe Socialistes a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics : avis défavorable du gouvernement (« Même avis » que la commission).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+      "date": "2022-07-26"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Horizons a voté contre (20 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur : pas de scrutin au Sénat retrouvé sur cette mesure ; aucune déclaration retrouvée. Proxy : le groupe LR de l'Assemblée a voté majoritairement contre (24 contre, 3 pour, 7 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes et président de l'Association des maires de France (AMF) ; aucune déclaration retrouvée sur cet amendement. Proxy : le groupe LR a voté majoritairement contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté pour (scrutin AN n°159) ; aucune intervention en séance du groupe RN retrouvée sur cet amendement.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/159",
+      "date": "2022-07-26"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°159) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Argumentation contre très limitée en séance : la commission et le gouvernement ont donné un avis défavorable presque sans explication, renvoyant au budget 2023.",
+    "Le RN a voté pour sans intervenir.",
+    "La loi de finances pour 2023 a élargi la majoration de la THRS (jusqu'à 60 %) à davantage de communes, mais sans la « déliaison » demandée ici."
+  ]
+}

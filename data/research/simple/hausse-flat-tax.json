@@ -1,0 +1,18 @@
+{
+  "id": "hausse-flat-tax",
+  "questionSimple": "Faut-il augmenter l'impôt sur les revenus de l'épargne et des placements, de 30 % à 33 % ?",
+  "enBref": "Depuis 2018, les dividendes, intérêts et plus-values sont taxés à un taux unique de 30 %, appelé « flat tax ». En 2024, la gauche propose de le passer à 33 % pour aider à réduire le déficit. Les petits épargnants peuvent toujours choisir d'être imposés au barème de l'impôt sur le revenu.",
+  "pourquoiPour": "Pour ses défenseurs, les revenus du capital sont moins taxés que ceux du travail. Les dividendes vont surtout aux plus riches, qui doivent participer à l'effort budgétaire.",
+  "pourquoiContre": "Pour ses opposants, augmenter cet impôt découragerait l'investissement en France. Il toucherait aussi des patrons de PME et des épargnants modestes.",
+  "ceQuiSestPasse": "L'amendement a été rejeté (130 voix pour, 160 contre).",
+  "lexique": [
+    {
+      "terme": "Flat tax (PFU)",
+      "definition": "Prélèvement forfaitaire unique : impôt de 30 % sur les revenus de l'épargne et des placements."
+    },
+    {
+      "terme": "Dividende",
+      "definition": "Part des bénéfices d'une entreprise versée à ses actionnaires."
+    }
+  ]
+}

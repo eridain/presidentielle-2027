@@ -1,0 +1,223 @@
+{
+  "id": "simplification-vie-economique",
+  "titre": "Loi de simplification de la vie économique",
+  "question": "Faut-il adopter la loi de simplification de la vie économique de 2026 (allègement des formalités des entreprises, accélération des grands projets industriels et des centres de données) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposé au Sénat en avril 2024 par le gouvernement Attal et adopté par le Sénat en octobre 2024, ce projet de loi « fourre-tout » regroupe plus d'une centaine de mesures : allègement de formalités pour les entreprises, accès des PME à la commande publique, extension de la qualification de projet d'intérêt national majeur à certains centres de données, accélération de projets industriels, assouplissements de l'objectif « zéro artificialisation nette ». Au fil de la navette, il a aussi intégré, à l'initiative du RN, la suppression des zones à faibles émissions (ZFE) ; un amendement de compromis du gouvernement pour les rétablir sous conditions a été rejeté juste avant le vote final (149 voix contre 192). L'Assemblée a adopté le texte de la CMP le 14 avril 2026 (275 voix contre 225, 30 abstentions), grâce notamment aux voix du RN, le groupe EPR se divisant. Le Conseil constitutionnel en a censuré de nombreuses dispositions, dont la suppression des ZFE (article 37), comme « cavaliers » sans lien avec le texte initial (décision n° 2026-903 DC du 21 mai 2026) ; la loi a été promulguée le 26 mai 2026.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49868"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2026-903 DC du 21 mai 2026",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2026/2026903DC.htm"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 14 avril 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203"
+    },
+    {
+      "titre": "Sénat – Scrutin n°232 du 15 avril 2026 (texte de la CMP)",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-232.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6184",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49868",
+  "argumentsPour": [
+    {
+      "auteur": "Ian Boucard (Droite républicaine)",
+      "resume": "Le texte apporte plus d'une centaine de mesures de simplification attendues par les TPE et PME, et des avancées sur le ZAN.",
+      "citation": "À cet égard, le texte comporte des avancées importantes, avec plus d’une centaine de mesures de simplification attendues, je le répète, par les acteurs économiques, singulièrement les TPE et PME.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+      "date": "2026-04-14"
+    },
+    {
+      "auteur": "Thomas Lam (Horizons)",
+      "resume": "Le texte améliore la compétitivité, encourage l'innovation et simplifie concrètement la vie des entrepreneurs, salariés et citoyens.",
+      "citation": "Ce projet de loi constitue une étape importante pour améliorer notre compétitivité, encourager l’innovation et renforcer la croissance en simplifiant concrètement la vie des entrepreneurs, des salariés et des citoyens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+      "date": "2026-04-14"
+    },
+    {
+      "auteur": "Pierre Meurin (RN)",
+      "resume": "Le texte simplifie peu, mais le RN y a fait voter la suppression des zones à faibles émissions.",
+      "citation": "Enfin, le groupe Rassemblement national a fait voter un amendement dont je suis fier d’être l’auteur, qui visait à supprimer les zones à faibles émissions.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+      "date": "2026-04-14"
+    },
+    {
+      "auteur": "Marie Lebec (Ensemble pour la République)",
+      "resume": "Le texte facilite notamment l'accès des PME à la commande publique, malgré des débats sur le ZAN et les ZFE sans rapport avec le texte d'origine.",
+      "citation": "Je pense aux mesures qui vont faciliter l’accès des PME à la commande publique : simplification des procédures pour les petits marchés et ouverture accrue aux entreprises innovantes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+      "date": "2026-04-14"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Anne Stambach-Terrenoir (LFI-NFP)",
+      "resume": "Le texte démantèle des normes protectrices, surtout le droit de l'environnement.",
+      "citation": "Sans surprise, c’est surtout le droit de l’environnement que vous attaquez massivement, celui qui protège nos conditions de survie sur cette planète.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+      "date": "2026-04-14"
+    },
+    {
+      "auteur": "Lisa Belluco (Écologiste et social)",
+      "resume": "Un texte fourre-tout qui détricote le droit au profit du capital et rabote les mesures environnementales comme le ZAN.",
+      "citation": "À chacun son style, mais le dogme reste le même : le détricotage du droit au profit du capital, au détriment des droits sociaux, économiques et environnementaux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+      "date": "2026-04-14"
+    },
+    {
+      "auteur": "Laurent Lhardit (Socialistes)",
+      "resume": "Le texte est devenu incohérent, avec des ajouts comme les ZFE absents du texte initial ; les socialistes votent contre.",
+      "citation": "Pour toutes ces raisons, nous ne voterons évidemment pas en faveur de ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+      "date": "2026-04-14"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Louise Morel (Les Démocrates)",
+      "resume": "Le groupe soutient la simplification mais refuse la suppression pure et simple des ZFE, recul pour la santé environnementale.",
+      "citation": "S’agissant des ZFE, notre position reste constante : nous refusons leur suppression pure et simple, qui serait un recul pour la santé environnementale, un renoncement à nos engagements européens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+      "date": "2026-04-14"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; pas de déclaration retrouvée. Proxy indicatif : le groupe LFI-NFP a voté contre (68 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; pas de déclaration retrouvée. Proxy indicatif : le groupe GDR a voté contre (13 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°6184) ; pas d'intervention retrouvée dans la séance : argument = explication du groupe Écologiste et social, où il siège (Lisa Belluco).",
+      "argument": "Le groupe écologiste dénonce un texte fourre-tout qui détricote le droit social et environnemental au profit du capital.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+      "date": "2026-04-14"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; pas de déclaration retrouvée. Proxy indicatif : le groupe Écologiste et social a voté contre (38 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°6184) ; pas d'intervention retrouvée : argument = explication du groupe Écologiste et social (Lisa Belluco).",
+      "argument": "Le groupe écologiste dénonce un texte fourre-tout qui détricote le droit social et environnemental au profit du capital.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+      "date": "2026-04-14"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste a voté contre (67 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député et président du groupe EPR, n'a pas pris part au vote (scrutin AN n°6184) ; son groupe s'est divisé (25 pour, 30 contre, 19 abstentions). Le projet de loi avait été déposé par son gouvernement en avril 2024.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons ; pas de déclaration retrouvée. Proxy indicatif : le groupe Horizons a voté pour (32 pour, 2 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur (LR) ; a voté pour le texte de la CMP au Sénat (scrutin n°232 du 15 avril 2026).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-232.html",
+      "date": "2026-04-15"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; pas de déclaration retrouvée. Proxy indicatif : le groupe Droite républicaine a voté pour (43 pour, 3 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de Nouvelle Énergie ; pas de déclaration retrouvée. Proxy indicatif : le groupe Droite républicaine a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°6184) ; présidente du groupe RN ; argument = explication du groupe RN (Pierre Meurin).",
+      "argument": "Le groupe RN juge le texte peu ambitieux mais revendique la suppression des zones à faibles émissions qu'il y a fait adopter.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N203",
+      "date": "2026-04-14"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans groupe à l'Assemblée ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Le texte voté le 14 avril 2026 contenait la suppression des ZFE (article 37) : une partie des votes (RN pour, une partie d'EPR et du MoDem contre ou abstention) s'explique par cette mesure, absente de la question. Elle a ensuite été censurée par le Conseil constitutionnel comme cavalier législatif (décision 2026-903 DC), avec de nombreux autres articles.",
+    "Majorité inhabituelle : RN, Droite républicaine, Horizons, MoDem (majoritairement) et UDR pour ; gauche contre ; EPR divisé (25 pour, 30 contre, 19 abstentions).",
+    "Attal : président du groupe EPR, il n'a pas pris part au vote ; le texte avait été déposé par son gouvernement en avril 2024 (non vérifié par une déclaration personnelle).",
+    "Louise Morel (Dem) classée en abstention à titre d'illustration de la réserve sur les ZFE ; le groupe Dem a toutefois voté majoritairement pour (25 pour, 2 contre, 2 abstentions)."
+  ]
+}

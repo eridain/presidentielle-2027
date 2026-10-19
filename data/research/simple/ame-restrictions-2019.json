@@ -1,0 +1,18 @@
+{
+  "id": "ame-restrictions-2019",
+  "questionSimple": "Faut-il rendre plus difficile l'accès à l'aide médicale des sans-papiers, avec plus de contrôles ?",
+  "enBref": "L'aide médicale de l'État (AME) paie les soins des étrangers sans papiers aux revenus modestes. En 2019, le gouvernement a ajouté un délai avant certains soins non urgents, comme une prothèse de hanche. Il a aussi renforcé les contrôles et visé les personnes arrivées avec un visa touristique.",
+  "pourquoiPour": "Pour ses partisans, un rapport officiel montrait des abus, comme des personnes venues en touristes pour se faire soigner. Mieux contrôler protège l'AME sans réduire les soins couverts.",
+  "pourquoiContre": "Pour la gauche, ces obstacles découragent des malades déjà peu nombreux à demander l'AME et peuvent aggraver leur santé. Pour une partie de la droite, la mesure était au contraire trop timide.",
+  "ceQuiSestPasse": "L'amendement a été adopté le 7 novembre 2019 ; un décret d'octobre 2020 a fixé à neuf mois le délai avant certains soins.",
+  "lexique": [
+    {
+      "terme": "AME",
+      "definition": "Aide médicale de l'État : prise en charge des soins des étrangers sans papiers à faibles revenus."
+    },
+    {
+      "terme": "Accord préalable",
+      "definition": "Feu vert de l'Assurance maladie nécessaire avant de rembourser certains soins."
+    }
+  ]
+}

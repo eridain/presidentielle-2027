@@ -1,0 +1,18 @@
+{
+  "id": "taxe-hauts-patrimoines",
+  "questionSimple": "Faut-il créer une taxe temporaire sur les fortunes de plus de 3 millions d'euros, comme en Espagne ?",
+  "enBref": "En 2022, la gauche propose une taxe exceptionnelle de deux ans sur les très gros patrimoines. Elle toucherait les biens de plus de 3 millions d'euros, avec un taux de 1,7 % à 3,5 % selon la fortune. L'Espagne venait de créer une taxe de ce type.",
+  "pourquoiPour": "Pour ses défenseurs, les plus grandes fortunes ont beaucoup augmenté. Avec l'inflation, il est juste que les plus riches aident les plus modestes, pour une durée limitée.",
+  "pourquoiContre": "Pour ses opposants, cette taxe serait trop lourde et contraire à la Constitution. Elle toucherait aussi les entreprises familiales et découragerait l'investissement.",
+  "ceQuiSestPasse": "L'amendement a été rejeté (95 voix pour, 173 contre).",
+  "lexique": [
+    {
+      "terme": "Patrimoine",
+      "definition": "Ensemble des biens d'une personne : logements, placements, parts d'entreprise, moins ses dettes."
+    },
+    {
+      "terme": "ISF / IFI",
+      "definition": "L'impôt sur la fortune (ISF) a été remplacé en 2018 par un impôt ne visant que l'immobilier (IFI)."
+    }
+  ]
+}

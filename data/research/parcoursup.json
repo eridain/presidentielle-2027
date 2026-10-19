@@ -1,0 +1,217 @@
+{
+  "id": "parcoursup",
+  "titre": "Loi ORE et Parcoursup (2018)",
+  "question": "Faut-il remplacer APB par Parcoursup et permettre aux universités de classer les candidatures selon des « attendus » (loi ORE, 2018) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi relatif à l'orientation et à la réussite des étudiants (loi ORE) met fin au tirage au sort de la plateforme APB et fonde Parcoursup : les formations publient des « attendus », encadrés par un cadrage national, et peuvent, lorsque les places manquent, départager les candidats ; un candidat dont le profil ne correspond pas entièrement peut être admis sous condition de suivre un dispositif d'accompagnement. Le texte prévoit aussi un renforcement de l'orientation au lycée et des parcours personnalisés en licence. L'Assemblée a adopté le texte de la commission mixte paritaire le 15 février 2018 (49 pour, 13 contre, 4 abst.), Gabriel Attal en étant le rapporteur. Le Conseil constitutionnel a jugé conformes les dispositions contestées (décision 2018-763 DC) et la loi n° 2018-166 a été promulguée le 8 mars 2018.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif « Orientation et réussite des étudiants »",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/orientation_reussite_etudiants"
+    },
+    {
+      "titre": "Sénat – dossier législatif pjl17-193",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl17-193.html"
+    },
+    {
+      "titre": "Conseil constitutionnel – décision n° 2018-763 DC du 8 mars 2018",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2018/2018763DC.htm"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 15 février 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-jeudi-15-fevrier-2018"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/402",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/orientation_reussite_etudiants",
+  "argumentsPour": [
+    {
+      "auteur": "Gabriel Attal (LaREM, rapporteur)",
+      "resume": "Le Parlement a imposé un cadrage national des attendus pour éviter la concurrence entre établissements et des critères socialement injustes.",
+      "citation": "C’est le Parlement qui a inscrit un cadrage national dans la fixation des attendus, pour éviter le dumping entre établissements ou écarter des attendus injustes sur le plan social.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-jeudi-15-fevrier-2018",
+      "date": "2018-02-15"
+    },
+    {
+      "auteur": "Anne Brugnera (LaREM)",
+      "resume": "L'orientation est au cœur du texte : information complète, accompagnement renforcé, choix libre et éclairé des bacheliers.",
+      "citation": "Le projet de loi donne les axes d’une réelle orientation : informations concrètes et complètes, accompagnement renforcé, choix des bacheliers libre et éclairé.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-jeudi-15-fevrier-2018",
+      "date": "2018-02-15"
+    },
+    {
+      "auteur": "Philippe Berta (MoDem)",
+      "resume": "Accompagner et orienter les étudiants permet de s'attaquer à la « sélection par l'échec » en première année.",
+      "citation": "C’est à ces conditions, réunies par le texte, que nous nous attaquerons enfin à ce qui fait la triste originalité du système universitaire français : la maudite sélection par l’échec.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-jeudi-15-fevrier-2018",
+      "date": "2018-02-15"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Éric Coquerel (La France insoumise)",
+      "resume": "Le texte instaurerait une sélection à l'université qui ne dit pas son nom et pénaliserait les jeunes des milieux populaires.",
+      "citation": "Il n’y a en effet pas d’autre mot pour illustrer la sélection à l’université que vous mettez en place.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-jeudi-15-fevrier-2018",
+      "date": "2018-02-15"
+    },
+    {
+      "auteur": "Marie-George Buffet (GDR)",
+      "resume": "Faute de moyens, l'université triait déjà ; la loi légaliserait ce tri au lieu d'ouvrir des places.",
+      "citation": "Faute de moyens, l’université a commencé, ces dernières années, à trier, jusqu’à l’inique tirage au sort ; et votre loi, loin d’inverser la tendance, légalise le tri.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-jeudi-15-fevrier-2018",
+      "date": "2018-02-15"
+    },
+    {
+      "auteur": "George Pau-Langevin (Nouvelle Gauche)",
+      "resume": "Les attendus nationaux pourront être durcis localement ; il aurait suffi de donner des moyens pour mettre fin au tirage au sort.",
+      "citation": "Par ailleurs, les attendus fixés au niveau national peuvent être déclinés localement et, par conséquent, durcis.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-jeudi-15-fevrier-2018",
+      "date": "2018-02-15"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Constance Le Grip (Les Républicains)",
+      "resume": "Une « occasion manquée » et une réforme timide, muette sur l'autonomie des universités, mais LR ne veut pas laisser les futurs étudiants dans le flou.",
+      "citation": "Le texte, nous l’avions dit en première lecture, constitue une occasion manquée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-jeudi-15-fevrier-2018",
+      "date": "2018-02-15"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°402) ; candidat en 2026, il promet l'abrogation de Parcoursup (meeting de Clermont-Ferrand rapporté par 20 Minutes/AFP).",
+      "argument": "Il refuse la sélection à l'université et promet d'abolir Parcoursup.",
+      "citation": "Parcoursup doit être aboli",
+      "url": "https://www.20minutes.fr/politique/4253277-20261011-parcoursup-doit-etre-aboli-jean-luc-melenchon-promet-supprimer-ignominie-salle-pleine-craquer",
+      "date": "2026-10-11"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°402) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR a voté : contre (0p/3c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/402",
+      "date": "2018-02-15"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°402) ; aucune déclaration retrouvée. À titre indicatif, son groupe FI a voté : contre (0p/7c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/402",
+      "date": "2018-02-15"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ni de responsabilité nationale à EELV en 2018 ; aucune déclaration spécifique vérifiée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/402",
+      "date": "2018-02-15"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°402) ; aucune déclaration retrouvée. Non-inscrite : pas de groupe servant de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/402",
+      "date": "2018-02-15"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat en 2018 ; aucune déclaration spécifique retrouvée. PROXY : le groupe Nouvelle Gauche (socialistes) a voté contre (0 pour / 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/402",
+      "date": "2018-02-15"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour à l'Assemblée nationale (scrutin n°402 du 15 février 2018) ; rapporteur du projet de loi et de la commission mixte paritaire.",
+      "argument": "Il défend la fin du tirage au sort, le cadrage national des attendus et des dispositifs d'accompagnement pour les étudiants les moins favorisés.",
+      "citation": "C’est le Parlement qui a inscrit un cadrage national dans la fixation des attendus, pour éviter le dumping entre établissements ou écarter des attendus injustes sur le plan social.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-jeudi-15-fevrier-2018",
+      "date": "2018-02-15"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a déposé le projet de loi (ministre Frédérique Vidal) et engagé la procédure accélérée ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/orientation_reussite_etudiants",
+      "date": "2018-02-15"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour l'ensemble du texte de la commission mixte paritaire au Sénat (scrutin public n°63 du 15 février 2018).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-63.html",
+      "date": "2018-02-15"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe LR de l'Assemblée s'est abstenu (0 pour / 0 contre / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/402",
+      "date": "2018-02-15"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) s'est abstenu (4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/402",
+      "date": "2018-02-15"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°402) ; aucune déclaration vérifiée retrouvée. Non-inscrite : pas de groupe servant de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/402",
+      "date": "2018-02-15"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2018 ; aucune déclaration vérifiable retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/402",
+      "date": "2018-02-15"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non-inscrit, n'a pas pris part au vote (scrutin n°402) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/402",
+      "date": "2018-02-15"
+    }
+  },
+  "alertes": [
+    "Scrutin à très faible participation (66 votants) : Mélenchon, Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'y ont pas pris part.",
+    "Mélenchon : position tirée d'une déclaration de campagne d'octobre 2026 (abolition de Parcoursup), postérieure de huit ans au vote ; elle porte sur la plateforme actuelle et non sur le texte de 2018 lui-même.",
+    "Retailleau : vote nominatif au Sénat sur le même texte (CMP), le même jour que l'Assemblée.",
+    "Parcoursup est revenu au cœur de l'actualité en octobre 2026 (mouvement lycéen) ; d'autres candidats ont pu s'exprimer, mais aucune déclaration n'a pu être vérifiée (article de L'Opinion sous paywall).",
+    "Le Conseil constitutionnel a jugé conformes les dispositions dont il était saisi et ne s'est pas prononcé sur les autres."
+  ]
+}

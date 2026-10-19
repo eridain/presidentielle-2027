@@ -1,0 +1,213 @@
+{
+  "id": "retraite-universelle-points",
+  "titre": "Système universel de retraite par points",
+  "question": "Faut-il remplacer les régimes de retraite existants par un système universel de retraite par points (réforme de 2020) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le vote porte sur l'article 1er du projet de loi instituant un système universel de retraite (première lecture), qui fixe les principes généraux de la réforme : un régime unique remplaçant les 42 régimes existants, des droits calculés par points pour chaque heure travaillée, un système par répartition. L'article a été adopté le 24 février 2020 (89 pour, 46 contre) après plus d'une semaine de débats. Le 29 février, le gouvernement Philippe a engagé sa responsabilité (49.3) ; les deux motions de censure ayant été rejetées, le texte a été adopté en première lecture sans vote final. Le 16 mars 2020, avec la crise du Covid-19, Emmanuel Macron a suspendu la réforme, qui n'a jamais été examinée au Sénat ni promulguée.",
+  "contexteSources": [
+    {
+      "titre": "vie-publique.fr – Projet de loi instituant un système universel de retraite",
+      "url": "https://www.vie-publique.fr/loi/272912-loi-systeme-universel-de-retraite-reforme-des-retraites"
+    },
+    {
+      "titre": "Wikipédia – Projet de réforme des retraites en France en 2020",
+      "url": "https://fr.wikipedia.org/wiki/Projet_de_r%C3%A9forme_des_retraites_en_France_en_2020"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2636",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2636"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2636",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/systeme_universel_de_retraite",
+  "argumentsPour": [
+    {
+      "auteur": "Laurent Pietraszewski (secrétaire d'État, gouvernement)",
+      "resume": "Le régime universel par points serait fortement redistributif en faveur des retraités aux plus faibles pensions, notamment les fonctionnaires de catégorie C.",
+      "citation": "le régime universel de retraite par points que nous instaurons est profondément redistributif vers les premiers déciles, à savoir ceux dont les pensions seront les plus faibles",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N163",
+      "date": "2020-02-24"
+    },
+    {
+      "auteur": "Guillaume Gouffier-Cha (LaREM, rapporteur général)",
+      "resume": "Le futur système universel reste un système par répartition ; la capitalisation n'a pas sa place dans le dispositif obligatoire.",
+      "citation": "le futur système universel sera bien un système par répartition et que la capitalisation n’a pas sa place dans le dispositif obligatoire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N163",
+      "date": "2020-02-24"
+    },
+    {
+      "auteur": "Édouard Philippe (Premier ministre)",
+      "resume": "Un même système pour tous, sans logique de statut, plus simple et plus juste, où chaque euro cotisé ouvre les mêmes droits.",
+      "citation": "Le système sera le même pour tous les Français, sans exception, au lieu d'être organisé selon des logiques de statuts.",
+      "url": "https://www.vie-publique.fr/discours/272299-edouard-philippe-11122019-cese-systeme-universel-de-retraite-points",
+      "date": "2019-12-11"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Luc Mélenchon (La France insoumise)",
+      "resume": "Il n'existe selon lui aucune crise de financement des retraites ; les principes de l'article 1er feraient de tous des perdants, notamment les femmes, sans visibilité sur la valeur du point.",
+      "citation": "nous vous mettons au défi de démontrer le contraire : il n’existe aucune crise de financement. Dès lors, pourquoi tout ce bazar ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N163",
+      "date": "2020-02-24"
+    },
+    {
+      "auteur": "Éric Woerth (Les Républicains)",
+      "resume": "L'universalité affichée ne serait pas réelle, le texte est jugé incomplet (financement et pénibilité renvoyés à des conférences) et illisible pour les assurés.",
+      "citation": "L’universalité de la réforme n’a rien d’universel. Nous le constaterons dès l’examen de l’article 2 : nombreux sont ceux qui échappent à l’universalité voulue.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N163",
+      "date": "2020-02-24"
+    },
+    {
+      "auteur": "Sébastien Jumel (Gauche démocrate et républicaine)",
+      "resume": "L'unification public-privé permettrait à l'État de réduire ses contributions aux retraites des fonctionnaires, au risque de faire peser l'effort sur les salariés du privé.",
+      "citation": "La volonté de mettre en place un système de retraite universel pour le privé et le public aboutira à un transfert de un point du PIB des caisses des fonctions publiques",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N163",
+      "date": "2020-02-24"
+    },
+    {
+      "auteur": "Boris Vallaud (Socialistes et apparentés)",
+      "resume": "Les projections de l'étude d'impact, notamment sur les primes et la pension des enseignants, reposeraient sur des hypothèses irréalistes.",
+      "citation": "Vos hypothèses sont absolument bidon !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N163",
+      "date": "2020-02-24"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre l'article 1er (scrutin n°2636) ; intervention en séance juste avant le vote, au nom de son groupe.",
+      "argument": "Il conteste toute crise de financement et estime que les principes de l'article 1er feront des perdants, notamment les femmes, avec un taux de remplacement et une valeur du point inconnus.",
+      "citation": "les principes généraux de l’article 1 er démontrent que tous seront perdants, notamment les femmes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N163",
+      "date": "2020-02-24"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au scrutin n°2636 ; a voté le 3 mars 2020 la motion de censure de gauche contre le recours au 49.3 sur ce projet (scrutin n°2707), donc contre la réforme.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2707",
+      "date": "2020-03-03"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au scrutin n°2636 ; a voté la motion de censure de gauche contre le 49.3 sur ce projet (scrutin n°2707 du 3 mars 2020) et réclamé la dissolution de l'Assemblée (blog, rapporté par franceinfo).",
+      "argument": "Après le recours au 49.3 pour faire adopter la réforme, il juge les motions de censure insuffisantes et réclame une dissolution de l'Assemblée nationale.",
+      "citation": "Il nous faut exiger, dans l'immédiat, une dissolution de l'Assemblée nationale",
+      "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-francois-ruffin-demande-la-dissolution-de-l-assemblee-nationale-apres-le-recours-au-49-3_3848977.html",
+      "date": "2020-03-02"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national en 2020 ; aucune déclaration retrouvée. Pas de groupe écologiste à l'Assemblée à cette date, donc pas de proxy de groupe.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2636",
+      "date": "2020-02-24"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Députée (non inscrite), n'a pas pris part au scrutin n°2636 ; a voté la motion de censure de gauche contre le 49.3 sur ce projet (scrutin n°2707 du 3 mars 2020), donc contre la réforme.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2707",
+      "date": "2020-03-03"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes et apparentés a voté contre l'article (0 pour, 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2636",
+      "date": "2020-02-24"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'Éducation nationale dans le gouvernement Philippe, qui a porté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/systeme_universel_de_retraite",
+      "date": "2020-02-24"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre qui a porté la réforme, présenté le système universel au CESE le 11 décembre 2019, puis engagé le 49.3 sur le texte le 29 février 2020.",
+      "argument": "Un système identique pour tous, sans logique de statut, plus simple et plus juste, où chaque heure travaillée ouvre des droits, et qui reste par répartition.",
+      "citation": "Le système sera le même pour tous les Français, sans exception, au lieu d'être organisé selon des logiques de statuts.",
+      "url": "https://www.vie-publique.fr/discours/272299-edouard-philippe-11122019-cese-systeme-universel-de-retraite-points",
+      "date": "2019-12-11"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, président du groupe LR au Sénat : le texte n'a jamais été examiné au Sénat ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre l'article (0 pour, 24 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2636",
+      "date": "2020-02-24"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre l'article (0 pour, 24 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2636",
+      "date": "2020-02-24"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR à l'époque), sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre l'article (0 pour, 24 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2636",
+      "date": "2020-02-24"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Députée (non inscrite), n'a pas pris part au scrutin n°2636 ; a voté la motion de censure de gauche contre le 49.3 sur ce projet (scrutin n°2707 du 3 mars 2020), donc contre la réforme.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2707",
+      "date": "2020-03-03"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2020 (Reconquête fondé en 2021) ; aucune déclaration retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2636",
+      "date": "2020-02-24"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Député (non inscrit), n'a pas pris part au scrutin n°2636 ; a voté la motion de censure de gauche contre le 49.3 sur ce projet (scrutin n°2707 du 3 mars 2020), donc contre la réforme.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2707",
+      "date": "2020-03-03"
+    }
+  },
+  "alertes": [
+    "Portée : le scrutin n°2636 porte sur l'article 1er (principes généraux du système universel), pas sur l'ensemble du projet de loi ; l'ensemble a été adopté en première lecture sans vote via le 49.3, puis la réforme a été suspendue (16 mars 2020) et jamais promulguée.",
+    "Roussel, Ruffin, Batho, Le Pen, Dupont-Aignan n'ont pas pris part au scrutin n°2636 : leur position « contre » est déduite de leur vote nominatif pour la motion de censure de gauche (scrutin n°2707, 3 mars 2020) déposée contre l'engagement de responsabilité sur ce projet. Voter la censure portait aussi sur le recours au 49.3, pas seulement sur le fond.",
+    "Ruffin : la citation porte sur la réaction au 49.3 (demande de dissolution), rapportée par franceinfo à partir de son blog, pas sur le contenu de l'article 1er.",
+    "Les arguments sont tirés de la séance du 24 février 2020 (fin de l'examen de l'article 1er) ; il n'y a pas d'explications de vote formelles sur un article. L'argument d'Édouard Philippe provient de son discours au CESE du 11 décembre 2019 (vie-publique.fr).",
+    "Aucune déclaration vérifiable retrouvée pour Tondelier, Glucksmann, Retailleau, Bertrand, Lisnard, Zemmour sur le système par points : positions « inconnu » (proxy de groupe indiqué quand pertinent).",
+    "Attal : position déduite de l'appartenance au gouvernement, sans déclaration personnelle vérifiée."
+  ]
+}

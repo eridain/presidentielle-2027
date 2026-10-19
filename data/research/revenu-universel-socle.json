@@ -1,0 +1,219 @@
+{
+  "id": "revenu-universel-socle",
+  "titre": "Revenu universel « socle citoyen » : ouvrir le débat (2020)",
+  "question": "Faut-il ouvrir un débat public sur la création d'un revenu universel (« socle citoyen ») ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le 26 novembre 2020, en pleine deuxième vague de Covid, la députée Valérie Petit (Agir ensemble) a fait voter une proposition de résolution (article 34-1 de la Constitution). Elle invitait le gouvernement à organiser un débat national sur un revenu universel baptisé « socle citoyen », en vue de l'inscrire dans la loi au plus tard en 2022. Dans ce schéma, les prestations sociales existantes seraient fusionnées, chacun paierait l'impôt sur le revenu dès le premier euro, et les finances publiques verseraient un complément à ceux dont les ressources restent sous le niveau du socle (« impôt négatif »). La résolution ne fixait ni montant ni financement et n'avait pas de valeur contraignante. Elle a été adoptée par 106 voix contre 11, avec une très faible participation (119 votants). LaREM, MoDem, Agir, Socialistes et Libertés et territoires ont voté pour ; LR, GDR et FI contre. Le gouvernement a renvoyé aux travaux en cours sur le « revenu universel d'activité » (travaux annoncés pour 2021).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 26 novembre 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N095"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution n°3476",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/revenu_universel_socle_citoyen"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3261",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/revenu_universel_socle_citoyen",
+  "argumentsPour": [
+    {
+      "auteur": "Valérie Petit (Agir ensemble, autrice)",
+      "resume": "Un revenu de base versé automatiquement via l'impôt simplifierait les aides sociales et libérerait chacun de la pauvreté.",
+      "citation": "Avec le socle citoyen, les prestations sociales actuelles seraient fusionnées et intégrées dans un système unique de calcul et de versement automatiques via la feuille d’impôt, désormais universelle.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N095",
+      "date": "2020-11-26"
+    },
+    {
+      "auteur": "Frédérique Dumas (Libertés et territoires)",
+      "resume": "Le non-recours aux aides et la hausse de la pauvreté justifient un revenu citoyen, au moins expérimenté.",
+      "citation": "le revenu citoyen est un outil de nature à préserver la dignité humaine.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N095",
+      "date": "2020-11-26"
+    },
+    {
+      "auteur": "Boris Vallaud (Socialistes)",
+      "resume": "Les socialistes votent pour le débat et demandent d'urgence un minimum jeunesse, en ouvrant le RSA dès 18 ans.",
+      "citation": "nous, députés socialistes, ne sommes jamais défavorables au débat",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N095",
+      "date": "2020-11-26"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Adrien Quatennens (La France insoumise)",
+      "resume": "Le revenu universel détourne du partage des richesses ; LFI préfère porter les minima sociaux à 1 000 euros.",
+      "citation": "Vous voulez rendre anachronique la bataille, pourtant essentielle à nos yeux, du partage des richesses et de la meilleure répartition entre le travail et le capital.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N095",
+      "date": "2020-11-26"
+    },
+    {
+      "auteur": "Pierre Dharréville (Gauche démocrate et républicaine)",
+      "resume": "Il faut une protection sociale universelle et un meilleur partage du travail plutôt qu'un revenu de survie.",
+      "citation": "Il faut libérer le travail, le transformer et mieux le partager, réhabiliter et réinventer le salaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N095",
+      "date": "2020-11-26"
+    },
+    {
+      "auteur": "Stéphane Viry (Les Républicains)",
+      "resume": "Un revenu universel proche du SMIC dévaloriserait le travail ; priorité au plein emploi.",
+      "citation": "Cependant, en l’état, telle qu’elle est formulée, nous ne suivrons pas votre proposition.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N095",
+      "date": "2020-11-26"
+    },
+    {
+      "auteur": "Emmanuelle Ménard (non inscrite)",
+      "resume": "Un revenu sans contrepartie encouragerait certains à se détourner du travail.",
+      "citation": "votre proposition pourrait avoir un autre effet pervers, et d’une autre importance, celui de laisser entendre que l’on peut vivre sans travailler…",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N095",
+      "date": "2020-11-26"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Agnès Thill (UDI et indépendants)",
+      "resume": "Ouverte au débat, elle veut un revenu ciblé sur les plus pauvres et assorti de contreparties, comme du bénévolat.",
+      "citation": "si notre groupe est ouvert à débattre du concept de revenu universel, nous ne partageons pas la manière dont vous l’envisagez.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N095",
+      "date": "2020-11-26"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée sur ce texte. Son groupe FI : 1 seul votant, contre ; l'orateur du groupe, Adrien Quatennens, s'est opposé au texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée sur ce texte. Son groupe GDR a voté contre (0 pour, 4 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée sur ce texte. Son groupe FI : 1 seul votant, contre.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Pas de groupe écologiste à l'Assemblée en 2020 : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration retrouvée sur ce texte. Son groupe EDS n'apparaît pas parmi les votants.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (3 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Porte-parole du gouvernement Castex. Le gouvernement n'a pas pris position formellement sur la résolution : la ministre Brigitte Bourguignon a renvoyé aux travaux sur le revenu universel d'activité. Pas de déclaration personnelle retrouvée. PROXY : le groupe LaREM a voté pour (70 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N095",
+      "date": "2020-11-26"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ancien Premier ministre (jusqu'en juillet 2020), sans mandat parlementaire ; aucune déclaration retrouvée. Horizons n'existait pas encore : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; résolution propre à l'Assemblée, aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour, 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté contre (0 pour, 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté contre (0 pour, 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration retrouvée sur ce texte. Une seule non-inscrite a voté (contre) : Emmanuelle Ménard. Pas de groupe RN à l'Assemblée en 2020 : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2020 ; aucune déclaration retrouvée. Pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée sur ce texte. Pas de groupe Debout la France : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3261",
+      "date": "2020-11-26"
+    }
+  },
+  "alertes": [
+    "Portée : résolution non contraignante qui demande seulement l'ouverture d'un débat public, sans fixer montant ni financement. Un vote pour ne vaut pas forcément soutien au revenu universel : les socialistes, par exemple, ont voté pour le principe du débat.",
+    "Très faible participation (119 votants sur 577) : aucun des candidats députés à l'époque (Mélenchon, Roussel, Ruffin, Batho, Le Pen, Dupont-Aignan) n'a pris part au vote.",
+    "LaREM a voté pour alors que son oratrice, Monique Iborra, s'est montrée critique sur le fond (aide inconditionnelle, coût).",
+    "Toutes les positions des candidats sont « inconnu » ; les proxies de groupe reposent sur très peu de votants (FI : 1 ; LR : 5 ; Socialistes : 3)."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surtaxe-residences-secondaires",
+  "questionSimple": "Faut-il permettre aux communes où il est dur de se loger de taxer plus les résidences secondaires ?",
+  "enBref": "Dans certaines villes touristiques, les résidences secondaires font flamber les prix et les habitants ne trouvent plus à se loger. Aujourd'hui, une commune qui augmente la taxe sur les résidences secondaires doit aussi augmenter la taxe foncière de tous les propriétaires. L'amendement veut supprimer ce lien dans les zones tendues.",
+  "pourquoiPour": "Pour ses défenseurs, il faut freiner la multiplication des résidences secondaires sans pénaliser les propriétaires modestes qui habitent leur logement. La mesure ne coûte rien à l'État.",
+  "pourquoiContre": "Pour ses opposants, le lien entre les deux taxes protège certains contribuables contre des hausses excessives. Le sujet devait être traité dans le budget suivant.",
+  "ceQuiSestPasse": "L'amendement a été rejeté (171 voix pour, 206 contre).",
+  "lexique": [
+    {
+      "terme": "Zone tendue",
+      "definition": "Territoire où la demande de logements dépasse fortement l'offre, avec des prix très élevés."
+    },
+    {
+      "terme": "Taxe foncière",
+      "definition": "Impôt local payé chaque année par les propriétaires d'un logement ou d'un terrain."
+    }
+  ]
+}

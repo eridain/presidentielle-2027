@@ -1,0 +1,201 @@
+{
+  "id": "avenir-professionnel",
+  "titre": "Loi « Avenir professionnel » (2018)",
+  "question": "Faut-il réformer l'apprentissage et la formation professionnelle (compte formation en euros) et ouvrir l'assurance chômage aux démissionnaires (loi « Avenir professionnel », 2018) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi pour la liberté de choisir son avenir professionnel, porté par la ministre du travail Muriel Pénicaud, réforme la formation professionnelle (compte personnel de formation crédité en euros et non plus en heures), confie le pilotage de l'apprentissage aux branches professionnelles (apprentissage ouvert jusqu'à 29 ans), ouvre l'assurance chômage à certains démissionnaires ayant un projet de reconversion et aux indépendants, et contient des mesures sur l'égalité salariale femmes-hommes. Après l'échec de la CMP et le rejet du texte par le Sénat en nouvelle lecture (question préalable), l'Assemblée l'a adopté en lecture définitive le 1er août 2018 (137 voix contre 30). Le Conseil constitutionnel l'a déclaré partiellement conforme (décision n° 2018-769 DC du 4 septembre 2018) et la loi a été promulguée le 5 septembre 2018.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/choix_avenir_professionnel"
+    },
+    {
+      "titre": "Sénat – Scrutin n°229 (question préalable en nouvelle lecture)",
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-229.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1116",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/choix_avenir_professionnel",
+  "argumentsPour": [
+    {
+      "auteur": "Carole Grandjean (LaREM)",
+      "resume": "Le texte réforme l'apprentissage, ouvert jusqu'à 29 ans et à tout moment de l'année, et ouvre l'assurance chômage aux démissionnaires en reconversion et aux indépendants.",
+      "citation": "L’innovation sociale passe aussi par une ouverture des droits à l’assurance chômage aux démissionnaires en reconversion professionnelle et aux indépendants.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018E1N044",
+      "date": "2018-08-01"
+    },
+    {
+      "auteur": "Michèle de Vaucouleurs (MoDem)",
+      "resume": "Le texte facilite l'accès à la formation et développe l'apprentissage, domaine où la France est en retard.",
+      "citation": "Notre pays est en retard en la matière, alors que l’apprentissage peut permettre à de nombreux jeunes aux profils variés de s’épanouir pleinement et de trouver leur voie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018E1N044",
+      "date": "2018-08-01"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Gérard Cherpion (LR)",
+      "resume": "La réforme de l'apprentissage déséquilibre le système en le confiant aux seules branches et en écartant les régions.",
+      "citation": "Concernant l’apprentissage, la réforme introduit quelques bonnes mesures, mais déséquilibre le système en le mettant exclusivement entre les mains des branches, écartant les régions,…",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018E1N044",
+      "date": "2018-08-01"
+    },
+    {
+      "auteur": "André Chassaigne (GDR)",
+      "resume": "La conversion du compte de formation en euros réduirait les droits et aggraverait les inégalités sociales et territoriales.",
+      "citation": "La monétisation du compte personnel de formation et la division par deux des droits à la formation vont aggraver les inégalités sociales et territoriales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018E1N044",
+      "date": "2018-08-01"
+    },
+    {
+      "auteur": "Paul Christophe (UDI, Agir et indépendants)",
+      "resume": "Le groupe vote contre un texte qui, selon lui, ne répond pas efficacement aux enjeux de la formation professionnelle.",
+      "citation": "notre groupe se prononcera contre ce texte qui, en l’état, ne répond pas efficacement aux enjeux cruciaux de la formation professionnelle du XXI e siècle.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018E1N044",
+      "date": "2018-08-01"
+    },
+    {
+      "auteur": "Jean-Hugues Ratenon (La France insoumise)",
+      "resume": "La majorité a refusé un service public de la formation professionnelle et n'a que partiellement tenu la promesse d'indemniser tous les démissionnaires.",
+      "citation": "Premièrement, nous aurions créé un service public de la formation professionnelle, pour assurer la qualité de celle-ci, mais aussi pour qu’elle réponde aux besoins productifs et écologiques de notre société.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018E1N044",
+      "date": "2018-08-01"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°1116) ; président du groupe FI, il n'est intervenu que par interjections : argument = motion de rejet du groupe (Adrien Quatennens).",
+      "argument": "Le groupe FI conteste une politique qui flexibilise le marché du travail, précarise l'emploi et renforce le contrôle des chômeurs.",
+      "citation": "en précarisant toujours plus l’emploi et en renforçant le contrôle sur les chômeurs",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018E1N044",
+      "date": "2018-08-01"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1116). Proxy indicatif : le groupe GDR a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1116). Proxy indicatif : le groupe FI a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national en 2018 ; pas de déclaration retrouvée ; pas de groupe écologiste à l'Assemblée (pas de proxy).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1116).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de déclaration retrouvée. Proxy indicatif : le groupe Nouvelle Gauche (socialistes) a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°1116), alors député LaREM ; argument = explication du groupe LaREM (Carole Grandjean).",
+      "argument": "Le groupe LaREM met en avant la réforme de l'apprentissage et l'ouverture de l'assurance chômage aux démissionnaires et aux indépendants.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018E1N044",
+      "date": "2018-08-01"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a présenté et défendu le texte (ministre du travail Muriel Pénicaud).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/choix_avenir_professionnel",
+      "date": "2018-08-01"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat ; a voté pour la question préalable opposée au texte adopté par l'Assemblée en nouvelle lecture (scrutin Sénat n°229 du 30 juillet 2018), c'est-à-dire pour son rejet. Il avait voté la version modifiée par le Sénat en première lecture (scrutin n°219).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-229.html",
+      "date": "2018-07-30"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région (ex-LR) ; pas de déclaration retrouvée sur ce texte. Proxy indicatif : le groupe LR de l'Assemblée a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; pas de déclaration retrouvée. Proxy indicatif : le groupe LR de l'Assemblée a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1116). Proxy indicatif : les non-inscrits présents ont voté contre (4 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2018 ; pas de déclaration retrouvée, pas de proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1116). Proxy indicatif : les non-inscrits présents ont voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Scrutin de lecture définitive à très faible participation (167 votants, 1er août 2018) : la plupart des candidats députés n'ont pas pris part au vote ; aucune déclaration personnelle retrouvée, positions laissées « inconnu ».",
+    "LR et UDI-Agir ont voté contre ce texte, notamment en raison du transfert de l'apprentissage des régions vers les branches.",
+    "Retailleau : position déduite de son vote pour la question préalable au Sénat (rejet du texte adopté par l'Assemblée), alors qu'il avait voté pour la version du Sénat en première lecture.",
+    "L'ouverture de l'assurance chômage aux démissionnaires est limitée aux salariés ayant un projet de reconversion et une durée d'activité minimale (conditions fixées par décret).",
+    "Mélenchon : citation extraite d'une phrase de l'intervention d'Adrien Quatennens (motion de rejet préalable du groupe FI), pas de ses propres mots."
+  ]
+}

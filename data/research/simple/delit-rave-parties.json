@@ -1,0 +1,18 @@
+{
+  "id": "delit-rave-parties",
+  "questionSimple": "Faut-il punir de prison l'organisation d'une rave-party non autorisée ?",
+  "enBref": "Organiser une rave-party sans autorisation n'était puni que d'une amende légère. Ce texte en fait un délit, passible de six mois de prison et 30 000 € d'amende. Les simples participants pourraient aussi être sanctionnés.",
+  "pourquoiPour": "Pour ses défenseurs, ces fêtes sauvages abîment les champs, gênent les riverains et mobilisent les secours. Une simple amende ne dissuade pas les organisateurs.",
+  "pourquoiContre": "Pour ses opposants, punir plus fort ne fera pas disparaître ces fêtes : elles deviendront plus clandestines et plus dangereuses. Le texte viserait aussi la culture des fêtes libres.",
+  "ceQuiSestPasse": "Le texte a été adopté par l'Assemblée en avril 2026 mais pas par le Sénat. La loi RIPOST d'août 2026 a ensuite créé un délit similaire, plus sévère.",
+  "lexique": [
+    {
+      "terme": "Rave-party (free party)",
+      "definition": "Grande fête de musique électronique, souvent gratuite et organisée sans autorisation sur un terrain."
+    },
+    {
+      "terme": "Délit",
+      "definition": "Infraction plus grave qu'une contravention, qui peut être punie de prison."
+    }
+  ]
+}

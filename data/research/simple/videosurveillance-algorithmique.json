@@ -1,0 +1,18 @@
+{
+  "id": "videosurveillance-algorithmique",
+  "questionSimple": "Faut-il tester des caméras analysées par intelligence artificielle pour la sécurité des JO de Paris 2024 ?",
+  "enBref": "Pour les JO de Paris 2024, la loi permet de tester des caméras dont les images sont analysées par un logiciel d'intelligence artificielle. Il repère par exemple un sac abandonné ou un mouvement de foule. La reconnaissance faciale reste interdite.",
+  "pourquoiPour": "Pour ses défenseurs, les Jeux sont une cible pour les attentats. Ces outils aident la police à repérer vite un danger, sans identifier les personnes.",
+  "pourquoiContre": "Pour ses opposants, c'est une surveillance de masse qui dure bien au-delà des Jeux. Elle risque de devenir permanente et de viser certains comportements jugés suspects.",
+  "ceQuiSestPasse": "Adoptée le 11 avril 2023, la loi a été validée par le Conseil constitutionnel ; l'expérimentation devait durer jusqu'au 31 mars 2025.",
+  "lexique": [
+    {
+      "terme": "Vidéosurveillance algorithmique",
+      "definition": "Caméras dont les images sont analysées automatiquement par un logiciel."
+    },
+    {
+      "terme": "Expérimentation",
+      "definition": "Essai limité dans le temps avant de décider de garder ou non une mesure."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "testing-discriminations",
+  "questionSimple": "Faut-il organiser des tests pour repérer et rendre publiques les discriminations, à l'embauche notamment ?",
+  "enBref": "Un service de l'État enverrait de faux CV presque identiques pour voir si certains candidats sont écartés, par exemple à cause de leur origine. Une entreprise prise en faute qui ne corrige rien pourrait payer une amende. Son nom pourrait être rendu public.",
+  "pourquoiPour": "Pour ses défenseurs, ces tests ont prouvé qu'ils révèlent les discriminations. Les généraliser et publier les résultats pousse les entreprises fautives à changer leurs pratiques.",
+  "pourquoiContre": "Les opposants de droite y voient une suspicion contre les entreprises. Ceux de gauche jugent le texte trop faible, ou préfèrent confier ces tests au Défenseur des droits.",
+  "ceQuiSestPasse": "Adopté par l'Assemblée en décembre 2023 puis modifié par le Sénat, le texte n'a pas abouti avant la dissolution de 2024.",
+  "lexique": [
+    {
+      "terme": "Testing",
+      "definition": "Envoi de candidatures fictives presque identiques pour mesurer si un critère, comme l'origine, entraîne un rejet."
+    },
+    {
+      "terme": "Name and shame",
+      "definition": "Publier le nom d'une organisation fautive pour l'inciter à changer."
+    },
+    {
+      "terme": "Dilcrah",
+      "definition": "Service de l'État chargé de lutter contre le racisme, l'antisémitisme et la haine anti-LGBT."
+    }
+  ]
+}

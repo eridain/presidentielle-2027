@@ -1,0 +1,22 @@
+{
+  "questionSimple": "Faut-il obliger les entreprises rentables de 11 à 49 salariés à partager leurs bénéfices avec leurs salariés ?",
+  "enBref": "Les sociétés de 11 à 49 salariés qui font des bénéfices plusieurs années de suite doivent prévoir un partage avec leurs salariés. Elles choisissent la forme : prime, intéressement, participation ou épargne salariale. Le texte reprend un accord signé par les syndicats et le patronat.",
+  "pourquoiPour": "Pour ses défenseurs, la loi respecte un accord trouvé entre syndicats et patronat. Elle associe davantage les salariés des petites entreprises aux résultats de leur travail.",
+  "pourquoiContre": "Pour ses opposants, primes et intéressement remplacent souvent de vraies hausses de salaire. Ils sont exonérés de cotisations, ce qui prive la Sécurité sociale de ressources.",
+  "ceQuiSestPasse": "Adoptée le 22 novembre 2023, la loi a été promulguée le 29 novembre 2023 ; l'obligation s'applique à titre expérimental depuis 2025.",
+  "lexique": [
+    {
+      "terme": "Accord national interprofessionnel",
+      "definition": "Accord signé par les syndicats et le patronat pour tous les secteurs."
+    },
+    {
+      "terme": "Intéressement",
+      "definition": "Prime liée aux résultats de l'entreprise, prévue par un accord."
+    },
+    {
+      "terme": "Participation",
+      "definition": "Part des bénéfices reversée aux salariés selon une formule légale."
+    }
+  ],
+  "id": "partage-valeur-ani"
+}

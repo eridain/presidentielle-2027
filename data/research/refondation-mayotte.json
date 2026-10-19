@@ -1,0 +1,215 @@
+{
+  "id": "refondation-mayotte",
+  "titre": "Loi de refondation de Mayotte",
+  "question": "Faut-il adopter la loi de refondation de Mayotte (2025), qui durcit l'accès aux titres de séjour familiaux sur l'île et renforce la lutte contre l'habitat illégal et l'immigration irrégulière ?",
+  "ouiSignifie": "pour",
+  "contexte": "Après le cyclone Chido (décembre 2024), le gouvernement Bayrou (Manuel Valls, ministre des Outre-mer) a présenté une loi de programmation : environ 4 milliards d'euros d'investissements, convergence sociale avec l'Hexagone, création d'un département-région. Son volet migratoire est central. Les titres « parent d'enfant français » et « liens personnels et familiaux » sont conditionnés à une entrée régulière (visa de long séjour) et à un logement non informel. La résidence exigée pour la carte de résident « parent d'enfant français » passe de 3 à 5 ans. Le titre peut être retiré aux parents d'enfants menaçant l'ordre public, et les reconnaissances de paternité sont centralisées. Le préfet peut faire évacuer et démolir les « bangas » (habitat informel) en dérogeant, jusqu'à fin 2034, à l'obligation de relogement. Le titre de séjour territorialisé sera supprimé en 2030. Le texte de la CMP a été adopté par l'Assemblée le 9 juillet 2025 (354 voix contre 111, 62 abstentions), puis par le Sénat le 10 juillet. Le Conseil constitutionnel l'a validé avec des réserves (décision n° 2025-894 DC du 7 août 2025) et la loi n° 2025-797 a été promulguée le 11 août 2025.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi pour la refondation de Mayotte (11 août 2025)",
+      "url": "https://www.vie-publique.fr/loi/298241-mayotte-loi-pour-la-refondation-departement-region-de-mayotte"
+    },
+    {
+      "titre": "Conseil constitutionnel – décision n° 2025-894 DC du 7 août 2025",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025894DC.htm"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 9 juillet 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51985"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2975",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51985",
+  "argumentsPour": [
+    {
+      "auteur": "Manuel Valls (ministre d'État, ministre des Outre-mer)",
+      "resume": "Le texte apporte des moyens pour la sécurité, contre l'immigration illégale et l'habitat irrégulier, en plus de la reconstruction.",
+      "citation": "Ce texte donne des moyens supplémentaires en matière de sécurité, de lutte contre l’immigration illégale, de lutte contre l’habitat irrégulier.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011",
+      "date": "2025-07-09"
+    },
+    {
+      "auteur": "Jean Terlier (Ensemble pour la République)",
+      "resume": "La lutte contre l'immigration irrégulière et la sécurité vont de pair avec le développement économique de Mayotte.",
+      "citation": "Soyons lucides : la lutte contre l’immigration irrégulière et le renforcement des mesures de sécurité à Mayotte vont de pair avec son développement économique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011",
+      "date": "2025-07-09"
+    },
+    {
+      "auteur": "Estelle Youssouffa (LIOT, députée de Mayotte)",
+      "resume": "Le compromis est imparfait mais indispensable ; Mayotte, revendiquée par un État voisin, doit mener une lutte totale contre l'immigration irrégulière.",
+      "citation": "Enfin, parce que Mayotte est le seul département revendiqué par un État voisin, la lutte contre l’immigration irrégulière doit être totale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011",
+      "date": "2025-07-09"
+    },
+    {
+      "auteur": "Anchya Bamana (Rassemblement national, députée de Mayotte)",
+      "resume": "Le RN vote un texte qu'il juge insuffisant, notamment sur la surveillance maritime, mais qu'il dit avoir amélioré.",
+      "citation": "En conclusion, nous voterons ce texte, non pas parce qu’il est bon mais parce que nous l’avons amélioré, profondément, dans l’intérêt des Mahorais.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011",
+      "date": "2025-07-09"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Aurélien Taché (La France insoumise)",
+      "resume": "Le texte exclut l'archipel du droit commun et jettera à la rue des milliers de personnes en détruisant leur habitat sans relogement.",
+      "citation": "Cela revient à mettre à la rue des milliers de personnes qui se trouvaient déjà en situation d’extrême précarité et qui n’auront désormais même plus un endroit où s’abriter.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011",
+      "date": "2025-07-09"
+    },
+    {
+      "auteur": "Dominique Voynet (Écologiste et social)",
+      "resume": "Le groupe ne peut voter un texte qui durcit l'accès à la nationalité et au séjour, maintient l'absence d'AME et renforce la toute-puissance du préfet.",
+      "citation": "le groupe Écologiste et social ne pourra voter ce projet de loi marqué par un renforcement de la toute-puissance du préfet.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011",
+      "date": "2025-07-09"
+    },
+    {
+      "auteur": "Émeline K/Bidi (Gauche démocrate et républicaine)",
+      "resume": "Le cœur du texte est une série de mesures d'exception en matière d'immigration, et la convergence sociale reste lointaine.",
+      "citation": "Colère, enfin, de voir que le cœur du texte consistait en une série de mesures dérogatoires ou d’exception en matière d’immigration.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011",
+      "date": "2025-07-09"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2975 du 9 juillet 2025) ; aucune intervention personnelle retrouvée : argument = explication de vote de son groupe EPR (Jean Terlier).",
+      "argument": "Le groupe EPR juge que la lutte contre l'immigration irrégulière et la sécurité vont de pair avec le développement de Mayotte, et salue la fin programmée du titre de séjour territorialisé.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011",
+      "date": "2025-07-09"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2975) ; aucune intervention personnelle retrouvée : argument = explication de vote de son groupe RN (Anchya Bamana).",
+      "argument": "Le RN vote un texte qu'il juge insuffisant contre l'immigration clandestine, mais qu'il estime avoir amélioré dans l'intérêt des Mahorais.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011",
+      "date": "2025-07-09"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2975) ; aucune intervention personnelle retrouvée : argument = explication de vote de son groupe Écologiste et social (Dominique Voynet).",
+      "argument": "Le groupe refuse un texte qui durcit l'accès à la nationalité et au séjour, maintient l'absence d'AME et renforce la toute-puissance du préfet.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011",
+      "date": "2025-07-09"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°2975) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel elle appartient, a voté contre (0-37).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2975",
+      "date": "2025-07-09"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou, qui a porté le projet de loi (défendu par Manuel Valls) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N011",
+      "date": "2025-07-09"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté contre (0-67) et ses députés ont saisi le Conseil constitutionnel.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2975",
+      "date": "2025-07-09"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe GDR s'est partagé entre contre et abstention (0-5-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2975",
+      "date": "2025-07-09"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0-37).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2975",
+      "date": "2025-07-09"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, allié de Place publique, s'est abstenu en très grande majorité (2-2-54).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2975",
+      "date": "2025-07-09"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée sur ce texte. PROXY : le groupe Horizons & indépendants (son parti) a voté pour (34-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2975",
+      "date": "2025-07-09"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR) a voté pour (40-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2975",
+      "date": "2025-07-09"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour (40-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2975",
+      "date": "2025-07-09"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2975",
+      "date": "2025-07-09"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée ; Debout la France n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2975",
+      "date": "2025-07-09"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur l'ensemble d'une loi de programmation très large (reconstruction, convergence sociale, institutions) ; la question en retient surtout le volet migratoire. Certains votes pour ou contre portent sur d'autres volets.",
+    "Question précisée : la loi ne traite pas explicitement du « regroupement familial » mais des titres de séjour familiaux (« parent d'enfant français », « liens personnels et familiaux ») ; la formulation a été ajustée.",
+    "Retailleau : position déduite de son appartenance au gouvernement Bayrou, auteur du projet de loi.",
+    "Les socialistes se sont massivement abstenus (54 abstentions), d'où les 62 abstentions au total."
+  ]
+}

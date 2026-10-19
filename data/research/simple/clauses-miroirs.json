@@ -1,0 +1,18 @@
+{
+  "id": "clauses-miroirs",
+  "questionSimple": "Faut-il obliger les produits importés en Europe à respecter les mêmes règles que ceux produits chez nous ?",
+  "enBref": "Les agriculteurs européens doivent respecter des règles strictes : pesticides interdits, bien-être animal… Ce n'est pas toujours le cas des produits importés. Ce texte demande que ces produits respectent les mêmes règles : ce sont les « clauses miroirs ».",
+  "pourquoiPour": "Pour ses partisans, il est injuste d'importer des produits fabriqués d'une manière interdite en Europe. Cela met les agriculteurs en concurrence déloyale et peut nuire à la santé.",
+  "pourquoiContre": "Personne n'a voté contre. Certains ont jugé ces règles faciles à contourner et insuffisantes face au libre-échange ; d'autres ont rappelé que la décision revient à l'Union européenne.",
+  "ceQuiSestPasse": "Le texte a été adopté le 30 janvier 2025 sans aucune voix contre ; il n'oblige pas l'Union à agir.",
+  "lexique": [
+    {
+      "terme": "Clause miroir",
+      "definition": "Règle imposant aux produits importés les mêmes normes de production que celles exigées des producteurs européens."
+    },
+    {
+      "terme": "Mercosur",
+      "definition": "Marché commun de plusieurs pays d'Amérique du Sud, dont le Brésil et l'Argentine."
+    }
+  ]
+}

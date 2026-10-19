@@ -1,0 +1,18 @@
+{
+  "id": "nucleaire-2023",
+  "questionSimple": "Faut-il construire plus vite de nouveaux réacteurs nucléaires et abandonner l'objectif de réduire la part du nucléaire à 50 % ?",
+  "enBref": "La loi simplifie les démarches pour construire de nouveaux réacteurs près des centrales existantes. Elle supprime l'objectif de ramener le nucléaire à 50 % de notre électricité d'ici 2035. Elle supprime aussi la limite fixée à la puissance totale des centrales nucléaires.",
+  "pourquoiPour": "Le nucléaire produit une électricité sans carbone et disponible en permanence. Construire plus vite aide à atteindre la neutralité carbone en 2050 et renforce l'indépendance énergétique du pays.",
+  "pourquoiContre": "La relance serait décidée sans vrai débat, en réduisant les règles environnementales et la consultation du public. Le nucléaire dépend d'uranium importé et les centrales sont exposées au manque d'eau.",
+  "ceQuiSestPasse": "Adoptée en mai 2023 (399 pour, 100 contre), la loi a été en partie censurée par le Conseil constitutionnel, puis promulguée le 22 juin 2023.",
+  "lexique": [
+    {
+      "terme": "Neutralité carbone",
+      "definition": "Situation où un pays n'émet pas plus de gaz à effet de serre qu'il n'en absorbe."
+    },
+    {
+      "terme": "Conseil constitutionnel",
+      "definition": "Juges qui vérifient qu'une loi respecte la Constitution et peuvent en supprimer des articles."
+    }
+  ]
+}

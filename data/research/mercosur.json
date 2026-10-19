@@ -1,0 +1,225 @@
+{
+  "id": "mercosur",
+  "titre": "Opposition à l'accord UE-Mercosur en l'état",
+  "question": "Faut-il approuver la déclaration du gouvernement s'opposant à l'accord de libre-échange UE-Mercosur tel qu'il est négocié ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le 26 novembre 2024, le gouvernement Barnier a fait devant l'Assemblée une déclaration suivie d'un vote (article 50-1 de la Constitution), s'opposant à l'accord d'association UE-Mercosur dans sa forme négociée, en invoquant les risques économiques et sanitaires pour l'agriculture. Le vote, consultatif, ne lie ni le gouvernement ni l'Union européenne. La déclaration a été approuvée par 485 voix contre 69 ; les députés LFI-NFP, opposés à l'accord, ont voté contre en reprochant au gouvernement de ne s'opposer qu'à l'accord « en l'état ». La Commission a conclu les négociations le 6 décembre 2024 ; le Conseil a autorisé la signature en janvier 2026 et le Parlement européen a saisi la CJUE le 21 janvier 2026.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la 2e séance du 26 novembre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-26-novembre-2024"
+    },
+    {
+      "titre": "Assemblée nationale – Actualité : approbation de la déclaration du Gouvernement",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/accord-d-association-entre-l-union-europeenne-et-le-mercosur-approbation-de-la-declaration-du-gouvernement"
+    },
+    {
+      "titre": "LCP – Mercosur : l'Assemblée nationale s'oppose très largement au projet d'accord",
+      "url": "https://lcp.fr/actualites/mercosur-l-assemblee-nationale-s-oppose-tres-largement-au-projet-d-accord-lors-d-un-vote"
+    },
+    {
+      "titre": "Le Club des juristes – L'Assemblée nationale rejette massivement l'accord UE-Mercosur",
+      "url": "https://www.leclubdesjuristes.com/en-bref/lassemblee-nationale-rejette-massivement-mais-pas-a-lunanimite-laccord-ue-mercosur-8040/"
+    },
+    {
+      "titre": "HowTheyVote.eu – Saisine de la CJUE (B10-0060/2026), 21 janvier 2026",
+      "url": "https://howtheyvote.eu/votes/183884"
+    },
+    {
+      "titre": "20 Minutes – Réactions à la conclusion des négociations (6/12/2024)",
+      "url": "https://www.20minutes.fr/politique/4127888-20241206-mercosur-trahison-classe-politique-elysee-furieux-apres-signature-traite-ue"
+    },
+    {
+      "titre": "Le Parisien – Feu vert de l'UE pour le Mercosur (9/01/2026)",
+      "url": "https://leparisien.fr/politique/feu-vert-de-lue-pour-le-mercosur-melenchon-appelle-a-la-desobeissance-lfi-et-le-rn-veulent-la-censure-de-lecornu-09-01-2026-6FWZKG3SKRAJLKPJQ2K6ZDSYZM.php"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/456",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/accord-d-association-entre-l-union-europeenne-et-le-mercosur-approbation-de-la-declaration-du-gouvernement",
+  "argumentsPour": [
+    {
+      "auteur": "Annie Genevard (ministre de l'Agriculture, gouvernement Barnier)",
+      "resume": "L'opposition du gouvernement n'est pas hostile au libre-échange en soi ; elle tient aux craintes économiques et sanitaires et aux failles des contrôles relevées par les audits européens dans les pays du Mercosur.",
+      "citation": "Si nous nous opposons à cet accord, ce n’est pas par dogmatisme mais par pragmatisme",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-26-novembre-2024",
+      "date": "2024-11-26"
+    },
+    {
+      "auteur": "Hélène Laporte (RN)",
+      "resume": "Les écarts de conditions de production entre le Mercosur, notamment l'élevage bovin brésilien, et l'agriculture française rendent impossible une suppression des barrières tarifaires sur une base saine.",
+      "citation": "Il existe entre le Mercosur et l’Union européenne, et plus encore avec la France, une disparité de conditions de production telle qu’il est inenvisageable que des échanges commerciaux sans barrières tarifaires puissent s’établir",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-26-novembre-2024",
+      "date": "2024-11-26"
+    },
+    {
+      "auteur": "Loïc Kervran (Horizons)",
+      "resume": "Le groupe soutient la position du gouvernement sans s'opposer au libre-échange : il juge l'accord contraire aux attentes des éleveurs et rejette des importations produites selon d'autres normes (antibiotiques, traçabilité).",
+      "citation": "Nous soutiendrons donc la position du gouvernement, non parce que nous serions opposés au libre-échange, mais parce que ce traité d’un autre siècle",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-26-novembre-2024",
+      "date": "2024-11-26"
+    },
+    {
+      "auteur": "Julien Dive (Droite républicaine)",
+      "resume": "L'accord mettrait les agriculteurs français, soumis à des normes strictes, en concurrence avec des produits ne respectant pas les standards européens ; il pose la question de la réciprocité des normes.",
+      "citation": "Du poulet gonflé aux antibiotiques, du maïs traité à l’atrazine, ou encore du bœuf issu de la déforestation massive : voilà ce qui entre sur nos marchés",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-26-novembre-2024",
+      "date": "2024-11-26"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Arnaud Le Gall (LFI-NFP)",
+      "resume": "Le groupe, hostile à l'accord, refuse une déclaration qui ne s'oppose qu'à l'accord « en l'état » et ne garantirait pas son blocage ; il refuse l'accord dans son principe.",
+      "citation": "nous ne louvoyons pas, nous ne refusons pas l’accord « en l’état », nous refusons l’accord tout court !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-26-novembre-2024",
+      "date": "2024-11-26"
+    },
+    {
+      "auteur": "Arnaud Le Gall (LFI-NFP)",
+      "resume": "Voter la déclaration reviendrait à s'en remettre à la stratégie d'un gouvernement accusé de n'avoir ni volonté réelle de bloquer l'accord ni stratégie au niveau européen.",
+      "citation": "Nous ne pouvons donc pas voter pour cette déclaration gouvernementale : ce serait nous en remettre à votre volonté et à votre stratégie",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-26-novembre-2024",
+      "date": "2024-11-26"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de vote (non député en 2024). Déclaration du 6 décembre 2024 (rapportée par l'AFP) hostile à la conclusion de l'accord par la Commission. Attention : son groupe LFI-NFP a voté CONTRE la déclaration du 26 novembre, la jugeant trop peu ferme.",
+      "argument": "Il dénonce la conclusion de l'accord par Ursula von der Leyen comme une perte d'influence de la France.",
+      "citation": "elle a signé le traité de libre échange Mercosur en Uruguay! (...) La France sort de l'Histoire",
+      "url": "https://www.journaldebruxelles.be/Economie/419305-coup-de-force-trahison-la-classe-politique-sindigne-de-laccord-ue-mercosur.html",
+      "date": "2024-12-06"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de vote (non député en 2024). Réaction écrite du 6 décembre 2024 rapportée par l'AFP ; le groupe GDR a voté pour la déclaration (16-0).",
+      "argument": "Il qualifie l'accord de trahison envers les agriculteurs européens et français.",
+      "citation": "Pas une honte, une trahison!",
+      "url": "https://www.journaldebruxelles.be/Economie/419305-coup-de-force-trahison-la-classe-politique-sindigne-de-laccord-ue-mercosur.html",
+      "date": "2024-12-06"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour au scrutin n°456 ; explication donnée sur BFMTV/RMC le lendemain du vote.",
+      "argument": "Il explique avoir voté la déclaration pour renforcer la voix du président de la République face à l'accord.",
+      "citation": "J'ai donné ma voix pour que le président ait une voix plus forte",
+      "url": "https://www.bfmtv.com/politique/j-ai-donne-ma-voix-pour-que-le-president-ait-une-voix-plus-forte-francois-ruffin-evoque-l-accord-de-l-ue-mercosur_VN-202411270402.html",
+      "date": "2024-11-27"
+    },
+    "tondelier": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de vote (non parlementaire). Déclaration du 18 novembre 2024 sur Twitch/LCP rapportée par l'AFP ; le groupe EcoS a voté pour (38-0).",
+      "argument": "Elle soutient les manifestations agricoles contre l'accord et se dit favorable à un vote à l'Assemblée, voire à un référendum.",
+      "citation": "soutient totalement les manifestations contre le Mercosur",
+      "url": "https://www.nouvelobs.com/economie/20241118.OBS96558/marine-tondelier-favorable-a-un-referendum-sur-le-traite-de-libre-echange-entre-l-ue-et-le-mercosur.html",
+      "date": "2024-11-18"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour au scrutin n°456 ; pas d'intervention personnelle trouvée (seulement des interruptions en séance) : argument = celui du groupe Écologiste et Social (Marie Pochon).",
+      "argument": "Position du groupe EcoS : refus de normes sanitaires abaissées, de la déforestation importée et d'une concurrence déloyale pour les agriculteurs.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/456",
+      "date": "2024-11-26"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "vote_pe",
+      "detail": "Eurodéputé : a voté POUR la résolution B10-0060/2026 du 21 janvier 2026 saisissant la CJUE sur la compatibilité de l'accord avec les traités (adoptée 334-324-11) ; n'a pas pris part au vote sur la résolution B10-0061. Vote sur une procédure, pas sur l'accord lui-même.",
+      "argument": "Place publique, son parti, réaffirme son opposition à un accord jugé précarisant pour les agriculteurs et juge qu'il peut encore être stoppé (Parlement européen, CJUE).",
+      "citation": null,
+      "url": "https://howtheyvote.eu/votes/183884",
+      "date": "2026-01-21"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour au scrutin n°456 (président du groupe EPR) ; aucune déclaration personnelle sur le fond trouvée : argument = intervention du groupe EPR (Daniel Labaronne).",
+      "argument": "Position exprimée pour le groupe EPR : attachement au libre-échange, mais accord jugé incompatible avec les exigences françaises faute de concurrence loyale.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/456",
+      "date": "2024-11-26"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de vote ni de déclaration vérifiée trouvée ; PROXY : le groupe Horizons & Indépendants a voté pour la déclaration (34-0).",
+      "argument": "Position du groupe Horizons (Loïc Kervran) : soutien au gouvernement contre un accord jugé contraire aux intérêts des éleveurs.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/456",
+      "date": "2024-11-26"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Barnier, auteur de la déclaration du 26 novembre 2024. Le 7 janvier 2026, devenu président de LR, il a mis en garde Emmanuel Macron contre un vote favorable à l'accord.",
+      "argument": "Il estime qu'un vote favorable de la France au Conseil exposerait le gouvernement à une censure.",
+      "citation": "si le président de la République vote pour le Mercosur, après toutes ses déclarations, il prend le risque d’une censure",
+      "url": "https://www.leparisien.fr/politique/mercosur-retailleau-menace-macron-dune-censure-du-gouvernement-lecornu-sil-vote-laccord-commercial-07-01-2026-JPSGF6AVLFFKTAE2FPTD64APKU.php",
+      "date": "2026-01-07"
+    },
+    "bertrand": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Tribune cosignée avec le député Julien Dive (La Tribune Dimanche, 8 janvier 2026) appelant la France à saisir la CJUE.",
+      "argument": "L'accord ouvrirait le marché à une agriculture à bas coût et menacerait des milliers d'exploitations ; les compensations promises seraient illusoires.",
+      "citation": "Le traité de libre-échange entre l’Union européenne et les pays du Mercosur est l’ouverture directe à une agriculture low-cost et à l’asphyxie programmée de milliers d’exploitations.",
+      "url": "https://latribune.fr/article/la-tribune-dimanche/politique/5589320516109214/opinion-saisir-la-cjue-le-dernier-recours-contre-le-mercosur-par-julien-dive-et-xavier-bertrand",
+      "date": "2026-01-08"
+    },
+    "lisnard": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Déclaration sur Europe 1 (7 janvier 2026), rapportée par le site de son parti Nouvelle Énergie (page Europe 1 non consultable).",
+      "argument": "Attaché au libre-échange, il juge l'accord « pas signable » en l'état en raison des distorsions de concurrence pour les éleveurs.",
+      "citation": "on ne peut pas sacrifier nos éleveurs",
+      "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-defend-les-agriculteurs/",
+      "date": "2026-01-07"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour au scrutin n°456 ; réaction du 6 décembre 2024 à la conclusion des négociations (rapportée par 20 Minutes).",
+      "argument": "Elle voit dans l'accord une menace pour la souveraineté alimentaire de la France.",
+      "citation": "coup de poignard dans le dos du peuple français",
+      "url": "https://www.20minutes.fr/politique/4127888-20241206-mercosur-trahison-classe-politique-elysee-furieux-apres-signature-traite-ue",
+      "date": "2024-12-06"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de vote ni de déclaration vérifiée trouvée ; Reconquête n'avait pas de groupe à l'Assemblée en 2024. À titre indicatif, Sarah Knafo (Reconquête) a voté pour la saisine de la CJUE le 21 janvier 2026.",
+      "argument": null,
+      "citation": null,
+      "url": "https://howtheyvote.eu/votes/183884",
+      "date": "2026-01-21"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de vote (non député depuis 2024) ni de déclaration vérifiable : l'article Europe 1 sur sa position est inaccessible (Cloudflare) ; Debout la France n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.cnews.fr/france/2026-01-08/crise-agricole-nos-dirigeants-sont-en-train-de-suicider-leur-propre-pays-sinsurge",
+      "date": "2026-01-08"
+    }
+  },
+  "alertes": [
+    "Voter POUR = approuver la déclaration du gouvernement hostile à l'accord en l'état (= s'opposer au Mercosur). Le vote CONTRE de LFI-NFP n'exprime pas un soutien à l'accord, mais le refus d'une opposition jugée seulement partielle : à expliciter dans l'interface.",
+    "Pas de dossier législatif (déclaration art. 50-1) : urlDossier pointe vers la page d'actualité de l'Assemblée.",
+    "Mélenchon : classé « pour » sur la base d'une déclaration hostile à l'accord, alors que son groupe a voté contre la déclaration du gouvernement. Position à présenter avec prudence.",
+    "Glucksmann : le vote européen porte sur une saisine de la CJUE, pas sur le fond de l'accord ; l'argument provient d'un texte de Place publique (18/01/2026), pas d'une citation personnelle.",
+    "Lisnard : citation tirée du site de son parti, qui reprend Europe 1 (page source bloquée) — source secondaire partisane.",
+    "Retailleau : citation de janvier 2026, alors qu'il n'est plus ministre ; position « pour » fondée sur sa participation au gouvernement auteur de la déclaration.",
+    "Tondelier, Mélenchon, Roussel, Le Pen : citations rapportées par l'AFP ou la presse (20 Minutes, Journal de Bruxelles), non issues de la source originale (X, Twitch).",
+    "Décompte : 485 pour selon la page officielle du scrutin et tasks.json ; LCP et le Club des juristes indiquent 484.",
+    "Dupont-Aignan, Zemmour, Philippe : aucune déclaration vérifiable trouvée ; entrées de type groupe/inconnu."
+  ]
+}

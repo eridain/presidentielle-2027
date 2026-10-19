@@ -1,0 +1,202 @@
+{
+  "id": "aides-publiques-dividendes",
+  "titre": "Conditionner les aides publiques aux hausses de salaires",
+  "question": "Faut-il priver d'aides publiques les grandes entreprises qui ont versé des dividendes sans augmenter les salaires au moins au niveau de l'inflation ?",
+  "ouiSignifie": "pour",
+  "contexte": "À l'été 2022, l'inflation dépasse 6 % sur un an et l'Assemblée examine le « paquet pouvoir d'achat » (loi pour la protection du pouvoir d'achat et budget rectificatif). Les entreprises françaises ont versé un montant record de dividendes en 2021 et bénéficient de nombreuses aides publiques (plan de relance, prêts garantis, baisse des impôts de production), sans contreparties générales. La gauche défend une série d'amendements de « conditionnalité » (climat, écarts de salaires, salaires). L'amendement n° 819 de Damien Maudet (LFI), défendu par Frédéric Mathieu, prive d'aides et de garanties publiques les entreprises qui ont versé des dividendes sans augmenter les salaires au moins à hauteur de l'inflation. Le 26 juillet 2022, il est rejeté par 90 voix contre 217 selon l'analyse du scrutin (66 abstentions) : majorité, LR et Horizons contre, RN abstenu, NUPES pour.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 26 juillet 2022 (PLFR 2022)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/168",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+  "argumentsPour": [
+    {
+      "auteur": "Frédéric Mathieu (LFI-NUPES)",
+      "resume": "Les entreprises qui distribuent des dividendes record sans maintenir les salaires réels n'ont pas besoin d'argent public : c'est une économie pour l'État.",
+      "citation": "Il s’agit de cesser d’octroyer des aides et garanties publiques à des entreprises qui, alors même qu’elles ont versé des dividendes, n’ont pas procédé à des augmentations de salaires à due proportion de l’inflation",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "Frédéric Mathieu (LFI-NUPES)",
+      "resume": "57,5 milliards d'euros de dividendes ont été versés en 2021, la même année que 150 milliards d'aides publiques.",
+      "citation": "ce qui laisse à penser que de nombreuses entreprises n’auraient pas eu besoin des 150 milliards d’euros d’aides publiques distribuées cette même année.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "Éric Coquerel (LFI, président de la commission des finances)",
+      "resume": "Le bilan des aides sans contreparties est mauvais : bénéfices et dividendes records au CAC 40, et 30 000 suppressions d'emplois.",
+      "citation": "L’absence de conditionnalité n’est plus acceptable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "Benjamin Lucas (Écologiste-NUPES)",
+      "resume": "On exige des devoirs en contrepartie des aides aux plus pauvres ; il doit en aller de même pour les aides aux entreprises.",
+      "citation": "Sur les questions environnementales et sociales aussi, des devoirs doivent correspondre à des droits.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-26"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-René Cazeneuve (rapporteur général, Renaissance), sur les amendements de conditionnalité",
+      "resume": "Des conditions existent déjà (pas de dividendes pour les grandes entreprises ayant obtenu un PGE) ; un dispositif aussi large aurait été inapplicable en pleine crise.",
+      "citation": "Le dispositif que vous proposez est beaucoup trop large.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "Jean-René Cazeneuve (rapporteur général), sur l'amendement n° 817",
+      "resume": "Ces conditions ne relèvent pas d'un budget rectificatif consacré au pouvoir d'achat.",
+      "citation": "Avis défavorable. Ce n’est pas le sujet du projet de loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "Bruno Le Maire (ministre de l'Économie)",
+      "resume": "Les aides et baisses d'impôts permettent d'attirer les industries de la décarbonation, comme l'hydrogène ; il faut rester compétitif face aux voisins européens.",
+      "citation": "les impôts de production doivent être moins élevés que ceux en vigueur chez nos partenaires européens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-26"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2022 ; aucune déclaration retrouvée sur ce vote. Proxy : le groupe LFI-NUPES, auteur de l'amendement, a voté pour (46 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°168) ; aucune déclaration retrouvée. Proxy : le groupe GDR-NUPES a voté pour (9 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°168) ; aucune déclaration retrouvée. Proxy : le groupe LFI-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Écologiste-NUPES a voté pour (15 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°168) ; aucune déclaration retrouvée. Proxy : le groupe Écologiste-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. Proxy : le groupe Socialistes a voté pour (18 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics : le gouvernement (Bruno Le Maire, au banc) a donné un avis défavorable.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-26"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Horizons a voté contre (20 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur (président du groupe LR) ; pas de vote au Sénat sur cet amendement, aucune déclaration retrouvée. Proxy : le groupe LR de l'Assemblée a voté contre (25 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. Proxy : le groupe LR a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°168) ; aucune déclaration retrouvée. Proxy : le groupe RN s'est abstenu (65 abstentions, 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°168) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Écart de décompte : le compte rendu annonce 210 voix contre, l'analyse du scrutin n°168 en compte 217 (mises au point incluses).",
+    "Peu d'argumentation spécifique contre en séance : commission et gouvernement ont répondu par un avis défavorable ; les arguments contre sont tirés de la discussion sur les amendements de conditionnalité voisins.",
+    "Le RN s'est abstenu ; aucune explication de vote du groupe retrouvée."
+  ]
+}

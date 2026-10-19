@@ -1,0 +1,222 @@
+{
+  "id": "rsa-15h",
+  "titre": "RSA sous conditions et création de France Travail",
+  "question": "Faut-il créer France Travail et obliger les allocataires du RSA à un contrat d'engagement prévoyant au moins 15 heures d'activité hebdomadaires ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi « pour le plein emploi », porté par le ministre du Travail Olivier Dussopt, transforme Pôle emploi en France Travail, inscrit automatiquement les allocataires du RSA comme demandeurs d'emploi et les soumet à un contrat d'engagement. Un amendement LR adopté à l'Assemblée fixe une durée hebdomadaire d'activité de 15 heures (formation, accompagnement, immersion), modulable mais non nulle, avec dispenses pour raisons de santé, handicap ou parents isolés sans garde ; une sanction de « suspension-remobilisation » est créée. Adopté en première lecture le 10 octobre 2023 puis définitivement le 14 novembre 2023, le texte a été partiellement validé par le Conseil constitutionnel (décision 2023-858 DC du 14 décembre 2023) et promulgué le 18 décembre 2023 (loi n° 2023-1196). Les 15 heures ont été généralisées au 1er janvier 2025.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif « Pour le plein emploi »",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N48163"
+    },
+    {
+      "titre": "LCP – RSA : droite et majorité s'accordent sur 15h obligatoires d'activité avec des exceptions (28 septembre 2023)",
+      "url": "https://lcp.fr/actualites/rsa-droite-et-majorite-s-accordent-sur-15h-obligatoires-d-activite-avec-des-exceptions"
+    },
+    {
+      "titre": "Sénat – scrutins publics sur le projet de loi pour le plein emploi",
+      "url": "https://www.senat.fr/scrutin-public/dossiers/pjl22-710_scr.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2717",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N48163",
+  "argumentsPour": [
+    {
+      "auteur": "Philippe Juvin (LR)",
+      "resume": "Les heures d'activité créent des obligations pour l'allocataire mais aussi pour la société, qui doit former et réinsérer ; « droits et devoirs ».",
+      "citation": "Ces heures d’activité, que vous décriez tant, c’est le pied à l’étrier. Il y a des droits et des devoirs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Nicolas Turquois (Démocrate)",
+      "resume": "L'emploi est un levier contre la pauvreté et un facteur d'intégration ; le texte vise un chômage sous 5 %.",
+      "citation": "Au groupe Démocrate et plus largement au sein de la majorité, nous avons la profonde conviction que l’emploi est un moyen puissant de lutter contre la pauvreté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "François Gernigon (Horizons)",
+      "resume": "Les accompagnements actuels sont dispersés et une partie des allocataires du RSA n'est suivie par aucun organisme ; le texte réorganise le service public de l'emploi.",
+      "citation": "alors que les entreprises peinent à recruter, 18 % des allocataires du RSA ne sont suivis par aucun organisme. Tous ces constats poussent à l’action.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Benoit Mournet (Renaissance)",
+      "resume": "Le texte prolonge la politique de l'emploi menée depuis 2017 pour atteindre les personnes les plus éloignées de l'emploi.",
+      "citation": "Si le plein emploi est d’ores et déjà une réalité dans certains territoires, le combat n’est pas terminé.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Danielle Simonnet (LFI-NUPES)",
+      "resume": "La menace de suspension des allocations pénaliserait des familles entières et les moyens d'accompagnement manquent.",
+      "citation": "Vous inventez la pédagogie par la faim en menaçant de couper les allocations –⁠ déjà si faibles, 500 euros – à des familles entières",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Pierre Dharréville (GDR-NUPES)",
+      "resume": "Le texte repose selon lui sur la présomption que les chômeurs sont responsables de leur situation, alors que les offres d'emploi sont bien moins nombreuses que les chômeurs.",
+      "citation": "Vous proposez un régime de coercition, d’infantilisation, de punition. Le présupposé est bien connu : les personnes privées d’emploi seraient coupables de leur situation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Sandrine Rousseau (Écolo-NUPES)",
+      "resume": "Le texte mettrait fin au caractère inconditionnel du RSA, socle de dignité, et pourrait laisser des personnes sans aucune ressource.",
+      "citation": "Nous ne tendrons plus la main de la solidarité sans condition. Exit le revenu de base conçu comme un socle fondamental et inconditionnel de dignité : il faudra désormais mériter la solidarité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Victor Catteau (RN)",
+      "resume": "Le RN rejette le contrat d'engagement et les heures d'activité, préférant réserver le RSA aux Français et augmenter les salaires.",
+      "citation": "Vous voulez atteindre le plein emploi en imposant aux demandeurs d’emploi des heures d’activité ; nous voulons l’atteindre en renforçant l’attractivité des métiers en tension et en augmentant les salaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Non député en 2023 ; note de blog du 4 avril 2022 contre le projet (alors annoncé par Jean Castex) de 15 à 20 heures d'activité ; le groupe LFI-NUPES a voté contre (0 pour / 75 contre).",
+      "argument": "Il estime qu'imposer des heures d'activité aux allocataires du RSA relèverait du travail forcé au sens des conventions de l'OIT ratifiées par la France.",
+      "citation": "Personne ne lui a dit que forcer quelqu’un à aller travailler, est interdit par les conventions de l’organisation internationale du travail (OIT) ?",
+      "url": "https://melenchon.fr/2022/04/04/rsa-apprentissage-macron-recule-sous-mes-arguments/",
+      "date": "2022-04-04"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2717) ; aucune intervention personnelle trouvée sur ce texte : argument = explication de vote de son groupe GDR-NUPES (Pierre Dharréville).",
+      "argument": "Le groupe GDR dénonce un régime de « coercition » fondé sur la culpabilisation des chômeurs, alors que les offres d'emploi sont bien moins nombreuses que les demandeurs.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2717) ; aucune intervention personnelle trouvée sur ce texte : argument = explication de vote de son groupe d'alors, LFI-NUPES (Danielle Simonnet).",
+      "argument": "Le groupe LFI-NUPES juge que la menace de suspension des allocations pénaliserait des familles et que les moyens d'accompagnement font défaut.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    "tondelier": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Non parlementaire ; le groupe écologiste a voté contre (0/23). Selon le récapitulatif Isoloir 2027, le programme des Écologistes de juillet 2026 prévoit de supprimer la contrepartie des 15 heures (programme non consultable directement : protection anti-robot).",
+      "argument": "Le programme des Écologistes veut remplacer le RSA par une garantie d'autonomie et supprimer la contrepartie de 15 heures d'activité hebdomadaires.",
+      "citation": null,
+      "url": "https://isoloir2027.fr/positions/rsa-conditionne",
+      "date": "2026-07-13"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2717) ; aucune intervention personnelle trouvée : argument = explication de vote de son groupe Écologiste-NUPES (Sandrine Rousseau).",
+      "argument": "Le groupe écologiste estime que le texte met fin à la solidarité inconditionnelle du RSA et pourrait laisser des personnes, dont des familles monoparentales, sans ressources.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration trouvée sur ce texte. Proxy : le groupe Socialistes (allié de Place publique) a voté contre (0 pour / 29 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Éducation nationale du gouvernement Borne qui portait le texte ; devenu Premier ministre, il a annoncé le 30 janvier 2024 la généralisation des 15 heures.",
+      "argument": "Il présente la mesure comme l'équilibre entre le droit à être accompagné et le devoir de chercher un emploi.",
+      "citation": "Dans dix-huit départements, nous avons lancé une expérimentation qui conditionne le revenu de solidarité active (RSA) à quinze heures d’activité pour l’insertion.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-30-janvier-2024",
+      "date": "2024-01-30"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2023 ; aucune déclaration trouvée sur ce texte. Proxy : le groupe Horizons a voté pour (29/0). En 2019, Premier ministre, il plaidait pour réfléchir à des « contreparties » aux aides sociales.",
+      "argument": "En 2019, il jugeait nécessaire de s'interroger sur des contreparties, notamment des activités d'intérêt général, au versement des aides de solidarité.",
+      "citation": "il faut qu'on s'interroge sur ces contreparties, il faut que l'on regarde ce qu'on peut réfléchir avec nos concitoyens comme contrepartie au versement obligatoire",
+      "url": "https://www.publicsenat.fr/actualites/non-classe/contreparties-aux-aides-sociales-edouard-philippe-rouvre-un-debat-explosif-138043",
+      "date": "2019-02-15"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur, président du groupe LR : vote pour au Sénat sur l'ensemble du texte (scrutin n°330 du 11 juillet 2023) et sur le texte de la CMP (scrutin n°29 du 9 novembre 2023).",
+      "argument": "Il revendique la contrepartie de 15 heures votée par la droite au Sénat et reproche au RN de ne pas l'avoir votée.",
+      "citation": "Elle a refusé de voter la réforme de l’assurance chômage et la contrepartie des 15 heures d’activité au RSA que nous avions votée au Sénat.",
+      "url": "https://republicains.fr/actualites/2026/09/16/produire-en-france-la-meilleure-des-solutions-ecologiques/",
+      "date": "2026-09-16"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, pas de vote ; aucune déclaration datée trouvée sur ce texte. Proxy : le groupe LR a voté pour (61/0).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR en 2023), pas de vote ; aucune déclaration trouvée sur les 15 heures. Proxy : le groupe LR a voté pour (61/0).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2717) ; aucune intervention personnelle trouvée : argument = explication de vote du groupe RN (Victor Catteau).",
+      "argument": "Le groupe RN rejette le « contrat d'engagement » et les heures d'activité imposées, et propose de réserver le RSA aux Français et d'augmenter les salaires.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration personnelle trouvée. Reconquête n'avait pas de groupe à l'Assemblée ; selon l'Opinion (oct. 2023), des cadres du parti soutenaient les 15 heures.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2717) ; aucune explication trouvée. Il avait auparavant défendu une journée hebdomadaire de mission d'intérêt général pour les allocataires du RSA (communiqué DLF, 2016).",
+      "argument": "Aucune explication de son vote trouvée ; en 2016, il proposait de conditionner le RSA à une journée de mission d'intérêt général par semaine.",
+      "citation": "Dans mon projet présidentiel, je proposerai de faire effectuer par toute personne au RSA en état de travailler une journée de mission d’intérêt général par semaine pour la collectivité",
+      "url": "https://www.debout-la-france.fr/actualite/rsabenevolat-nicolas-dupont-aignan-va-deposer-une-proposition-de-loi/",
+      "date": "2016-10-05"
+    }
+  },
+  "alertes": [
+    "Le scrutin retenu (n°2717, 10 octobre 2023) est la première lecture ; le vote définitif a eu lieu le 14 novembre 2023 (scrutin n°2965). Les positions de groupe sont identiques.",
+    "Dupont-Aignan a voté contre alors qu'il défendait en 2016 et 2022 une contrepartie d'activité au RSA : aucune explication de vote trouvée.",
+    "Le Pen : vote contre, mais Jordan Bardella s'est dit « parfaitement d'accord » sur le fond avec le conditionnement du RSA (HuffPost, 5 février 2024). Il n'existe pas de déclaration personnelle de Marine Le Pen.",
+    "Mélenchon : la déclaration date d'avril 2022, avant le projet de loi, et vise l'annonce de Jean Castex (15 à 20 heures).",
+    "Tondelier : le programme des Écologistes (PDF lesecologistes.fr) n'a pas pu être ouvert (protection Cloudflare). La position s'appuie sur le récapitulatif Isoloir 2027, sans citation.",
+    "Philippe : la citation date de 2019, quand il était Premier ministre, et porte sur les contreparties en général, pas sur ce texte.",
+    "Roussel, Ruffin, Batho : aucune intervention personnelle trouvée ; l'argument est celui de leur groupe. Roussel prône par ailleurs de « remplacer le RSA par un salaire » (France Inter, avril 2025), ce qui n'est pas une position sur les 15 heures.",
+    "Retailleau : la citation provient d'un entretien de septembre 2026 republié sur republicains.fr."
+  ]
+}

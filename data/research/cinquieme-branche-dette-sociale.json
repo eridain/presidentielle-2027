@@ -1,0 +1,231 @@
+{
+  "id": "cinquieme-branche-dette-sociale",
+  "titre": "Dette sociale et cinquième branche « autonomie » (2020)",
+  "question": "Faut-il transférer 136 milliards d'euros de dette (Covid, déficits passés, dette des hôpitaux) à la caisse de la dette sociale, repousser son remboursement de 2024 à 2033 et poser le principe d'une cinquième branche « autonomie » de la Sécurité sociale ?",
+  "ouiSignifie": "pour",
+  "contexte": "Après la première vague de Covid-19, le gouvernement Philippe a présenté deux projets de loi (organique et ordinaire) « relatifs à la dette sociale et à l'autonomie ». La loi ordinaire, adoptée en première lecture le 15 juin 2020 (350 pour, 81 contre, 136 abstentions), transfère 136 milliards d'euros de dette à la Caisse d'amortissement de la dette sociale (CADES) : déficits de la Sécurité sociale liés à la crise, déficits accumulés et 13 milliards de dette des hôpitaux. La fin du remboursement passe donc de 2024 à 2033 : la CRDS et une partie de la CSG continuent d'être prélevées neuf ans de plus. Ajoutée au cours de l'examen à l'Assemblée à l'initiative du gouvernement (elle ne figurait pas dans le texte initial), une disposition crée aussi une cinquième branche de la Sécurité sociale consacrée à la perte d'autonomie des personnes âgées et handicapées, qui recevra à partir de 2024 0,15 point de CSG, soit environ 2,3 milliards d'euros. Son organisation et son financement complet étaient renvoyés à des textes ultérieurs. Loi promulguée le 7 août 2020.",
+  "contexteSources": [
+    {
+      "titre": "vie-publique.fr – Lois du 7 août 2020 relatives à la dette sociale et à l'autonomie",
+      "url": "https://vie-publique.fr/node/274394"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 15 juin 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 15 juin 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N236"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2756",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2756"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2756",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/autonomie_dette_sociale",
+  "argumentsPour": [
+    {
+      "auteur": "Olivier Véran (ministre des Solidarités et de la Santé, gouvernement)",
+      "resume": "La cinquième branche est la première extension du périmètre de la Sécurité sociale depuis plus de soixante-dix ans, face au vieillissement.",
+      "citation": "Cette promesse consiste à élargir le périmètre de la sécurité sociale, ce qui n’avait pas été fait depuis plus de soixante-dix ans, en créant un cinquième risque.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    {
+      "auteur": "Stella Dupont (La République en marche)",
+      "resume": "Le transfert à la CADES est nécessaire pour l'équilibre des comptes ; la cinquième branche est une avancée historique.",
+      "citation": "La création d’une cinquième branche de la sécurité sociale consacrée à l’autonomie constitue à cet égard une avancée historique, n’en déplaise aux oppositions qui ont formulé leurs critiques ce soir.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    {
+      "auteur": "Agnès Firmin Le Bodo (Agir ensemble)",
+      "resume": "Le texte crée le cadre de la cinquième branche, qui sera rempli par une future loi grand âge.",
+      "citation": "Nous avons tous conscience d’avoir franchi un pas : un petit pas, certes, mais qui est important, car pour remplir une coquille, encore faut-il qu’elle existe.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Christine Pires Beaune (Socialistes et apparentés)",
+      "resume": "La dette Covid aurait dû être portée par l'État ; la transférer prive la santé et la dépendance d'environ 18 milliards de recettes par an après 2024.",
+      "citation": "les 136 milliards ne représentent pas une dette sociale, mais bien une dette liée à la crise sanitaire, une dette covid.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    {
+      "auteur": "Pierre Dharréville (Gauche démocrate et républicaine)",
+      "resume": "Charger la Sécurité sociale de la dette de crise l'affaiblira et servira à justifier l'austérité ; la cinquième branche est une opération d'affichage.",
+      "citation": "Le groupe GDR a fermement critiqué la décision consistant à faire peser sur le dos de la sécurité sociale une dette importante qui résulte de la crise.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    {
+      "auteur": "Delphine Bagarry (Écologie démocratie solidarité)",
+      "resume": "Les dettes Covid et hospitalière devraient être supportées par l'État ; EDS approuve en revanche le principe de la cinquième branche.",
+      "citation": "Le groupe Écologie démocratie solidarité est opposé au transfert à la CADES de 105 milliards d’euros supplémentaires, qui devraient selon nous être supportés par l’État",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    {
+      "auteur": "Caroline Fiat (La France insoumise)",
+      "resume": "La cinquième branche est une coquille vide, sans financement prévu dans la loi.",
+      "citation": "Le texte présenté est totalement vide. C’est pourquoi je voterai contre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Jean-Pierre Door (Les Républicains)",
+      "resume": "LR ne s'oppose ni au transfert de la dette Covid ni à la cinquième branche, mais conteste la reprise de la dette des hôpitaux et l'absence de financement.",
+      "citation": "Je ne vois toujours pas, par ailleurs, d’où proviendra le financement de cette cinquième branche : il faudra m’expliquer !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    {
+      "auteur": "Jeanine Dubié (Libertés et territoires)",
+      "resume": "On leur demande de voter le principe d'une branche sans organisation ni gouvernance définies.",
+      "citation": "Faute de cela, notre groupe s’abstiendra majoritairement parce qu’il nous est demandé de voter les prémices d’un dispositif sans savoir ce qu’il y aura dedans.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2756) ; pas d'intervention personnelle retrouvée : argument = explication du groupe FI (Caroline Fiat).",
+      "argument": "Le groupe FI juge la cinquième branche vide et refuse que la dette Covid pèse sur la Sécurité sociale jusqu'en 2033.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2756) ; pas d'intervention personnelle retrouvée : argument = explication du groupe GDR (Pierre Dharréville).",
+      "argument": "Le groupe GDR refuse de faire payer la dette de la crise à la Sécurité sociale.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2756) ; pas d'intervention personnelle retrouvée : argument = explication du groupe FI (Caroline Fiat).",
+      "argument": "Le groupe FI juge la cinquième branche vide et refuse que la dette Covid pèse sur la Sécurité sociale jusqu'en 2033.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Pas de groupe écologiste équivalent à l'Assemblée (le groupe EDS, proche, a voté majoritairement contre : 1 pour, 14 contre, 2 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2756",
+      "date": "2020-06-15"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2756), membre du groupe EDS ; pas d'intervention personnelle retrouvée : argument = explication du groupe EDS (Delphine Bagarry).",
+      "argument": "Le groupe EDS refuse le transfert de la dette Covid à la CADES, qui devrait être supportée par l'État, tout en saluant la cinquième branche.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté contre (0 pour, 30 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2756",
+      "date": "2020-06-15"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'Éducation nationale du gouvernement Philippe, auteur du projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement auteur du projet de loi ; pas de déclaration personnelle retrouvée sur ce vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N237",
+      "date": "2020-06-15"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; aucun scrutin public nominatif retrouvé au Sénat sur l'ensemble de la loi ordinaire, aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée s'est abstenu (102 abstentions, 2 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2756",
+      "date": "2020-06-15"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR s'est abstenu (102 abstentions, 2 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2756",
+      "date": "2020-06-15"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR s'est abstenu (102 abstentions, 2 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2756",
+      "date": "2020-06-15"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention nominative (scrutin n°2756), députée non inscrite ; pas de déclaration retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2756",
+      "date": "2020-06-15"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2020 ; aucune déclaration retrouvée. Pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2756",
+      "date": "2020-06-15"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2756) ; intervenu dans la discussion générale.",
+      "argument": "Il dénonce un nouveau prélèvement prolongé jusqu'en 2033, non progressif, et une cinquième branche privée de recettes.",
+      "citation": "cette nouvelle branche reste une coquille vide, car vous la privez de recettes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N236",
+      "date": "2020-06-15"
+    }
+  },
+  "alertes": [
+    "Question à double objet : le texte combine le transfert de dette jusqu'en 2033, principal objet selon la quasi-totalité des orateurs, et la création de la cinquième branche, absente du texte initial et ajoutée pendant l'examen à l'initiative du gouvernement et approuvée sur le principe par presque tous les groupes. Les votes contre et les abstentions visent surtout le transfert de dette et l'absence de financement de la branche, pas la branche elle-même.",
+    "Le report de 2024 à 2033 dépendait aussi de la loi organique votée le même jour, qui autorise à prolonger la CADES.",
+    "Attal et Philippe : position déduite de leur appartenance au gouvernement auteur du texte.",
+    "Mélenchon, Roussel, Ruffin, Batho : pas d'intervention personnelle ; argument = explication de vote de leur groupe, sans citation attribuée.",
+    "Le Pen : abstention sans déclaration retrouvée."
+  ]
+}

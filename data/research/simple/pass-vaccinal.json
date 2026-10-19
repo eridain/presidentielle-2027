@@ -1,0 +1,22 @@
+{
+  "id": "pass-vaccinal",
+  "questionSimple": "Faut-il remplacer le passe sanitaire par un passe vaccinal, où un test négatif ne suffit plus (Covid, janvier 2022) ?",
+  "enBref": "Pendant l'épidémie de Covid-19, il fallait un « passe » pour aller au bar, au restaurant, dans les lieux de loisirs ou voyager entre régions. Avec ce texte, un test négatif ne suffit plus : dès 16 ans, il faut être vacciné, ou parfois guéri du Covid. Les sanctions contre les faux passes sont durcies.",
+  "pourquoiPour": "Avec plus de 300 000 contaminations par jour et des hôpitaux saturés, il faut vacciner le plus de monde possible. Cette contrainte est préférée à un nouveau confinement ou à un couvre-feu.",
+  "pourquoiContre": "Il vaut mieux convaincre que contraindre : le passe crée une logique de contrôle et de sanction qui divise. Il ne garantit pas non plus l'arrêt de la circulation du virus.",
+  "ceQuiSestPasse": "Adoptée le 16 janvier 2022 et en partie censurée par le Conseil constitutionnel, la loi s'est appliquée dès le 24 janvier 2022.",
+  "lexique": [
+    {
+      "terme": "Passe sanitaire",
+      "definition": "Preuve de vaccin, de test négatif ou de guérison, exigée pour entrer dans certains lieux."
+    },
+    {
+      "terme": "Passe vaccinal",
+      "definition": "Version du passe où le test négatif n'est plus accepté : vaccin ou guérison obligatoire."
+    },
+    {
+      "terme": "Conseil constitutionnel",
+      "definition": "Juges qui vérifient qu'une loi respecte la Constitution et peuvent en supprimer des articles."
+    }
+  ]
+}

@@ -1,0 +1,208 @@
+{
+  "id": "expulsion-constitution",
+  "titre": "Inscrire l'expulsion des étrangers dangereux dans la Constitution",
+  "question": "Faut-il inscrire dans la Constitution l'éloignement des étrangers qui menacent la sécurité publique ou ont été condamnés à de la prison, sans que des règles (notamment européennes) puissent y faire obstacle ?",
+  "ouiSignifie": "pour",
+  "contexte": "Dans leur niche parlementaire, les députés LR (Olivier Marleix, Éric Ciotti) ont défendu une proposition de loi constitutionnelle sur l'immigration, aussi déposée au Sénat par Bruno Retailleau le 25 mai 2023. Son article 7 prévoyait que « tout ressortissant étranger qui représente une menace pour la sécurité publique ou qui a été condamné à une peine d'emprisonnement est éloigné du territoire national », et qu'« aucun principe ni aucune règle » ne pouvait faire obstacle à cet éloignement : un « bouclier constitutionnel » face notamment à la jurisprudence de la Cour européenne des droits de l'homme. Le gouvernement (Gérald Darmanin, Éric Dupond-Moretti) a proposé de garantir le droit au recours, puis a retiré son amendement ; il jugeait l'article moins sévère que son projet de loi immigration, puisqu'il ignorait la réclusion criminelle. L'article a été rejeté le 7 décembre 2023 (53 voix contre 77), et LR a retiré son texte le même jour.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 7 décembre 2023 (examen de l'article 7)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N079"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 7 décembre 2023 (discussion générale)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif (texte retiré le 7 décembre 2023)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/souverainete_france_nationalite_immigration_asile"
+    },
+    {
+      "titre": "Sénat – La loi en clair : proposition de loi constitutionnelle relative à la souveraineté de la France…",
+      "url": "https://senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-constitutionnelle-relative-a-la-souverainete-de-la-france-a-la-nationalite-a-limmigration-et-a-lasile.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/souverainete_france_nationalite_immigration_asile",
+  "argumentsPour": [
+    {
+      "auteur": "Éric Ciotti (Les Républicains, rapporteur)",
+      "resume": "La France doit pouvoir expulser les étrangers qui ont violé ses lois, sans que des jurisprudences supranationales comme celles de la CEDH l'en empêchent.",
+      "citation": "Notre objectif est de supprimer les contraintes imposées par des jurisprudences supranationales, le juge national vérifiant la conformité de la décision à la loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N079",
+      "date": "2023-12-07"
+    },
+    {
+      "auteur": "Annie Genevard (Les Républicains)",
+      "resume": "L'article permet d'éloigner les étrangers dangereux ou condamnés ; elle reproche à la majorité de s'être alliée à LFI contre lui en commission.",
+      "citation": "L’article 7 permet l’éloignement des étrangers représentant une menace pour l’ordre public ou ayant été condamnés à une peine d’emprisonnement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078",
+      "date": "2023-12-07"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Gérald Darmanin (ministre de l'Intérieur)",
+      "resume": "Le gouvernement veut pouvoir modifier les traités par la voie politique, sans « écraser » la Convention européenne des droits de l'homme par une Constitution qui mènerait à un « Frexit ».",
+      "citation": "nous, nous ne voulons pas écraser les traités européens, notamment la CEDH.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N079",
+      "date": "2023-12-07"
+    },
+    {
+      "auteur": "Éric Dupond-Moretti (garde des sceaux)",
+      "resume": "Mal rédigé, l'article viserait les peines d'emprisonnement (délits) mais pas la réclusion criminelle : il serait moins sévère que le droit existant.",
+      "citation": "Le problème du dispositif que vous proposez, monsieur Ciotti, est qu’il est beaucoup moins sévère, beaucoup moins dur que celui qui existe déjà.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N079",
+      "date": "2023-12-07"
+    },
+    {
+      "auteur": "Sylvain Maillard (Renaissance)",
+      "resume": "Le projet de loi immigration du gouvernement est jugé plus efficace ; l'article 7 est moins bien écrit et n'y réaffirme pas la place du juge.",
+      "citation": "Parce que l’article 7 est moins-disant, parce qu’il nous semble moins bien écrit et parce que la place du juge n’y est pas réaffirmée, nous voterons contre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N079",
+      "date": "2023-12-07"
+    },
+    {
+      "auteur": "Jérémie Iordanoff (Écologiste-NUPES)",
+      "resume": "L'article est contraire aux traités et revient à sortir de l'État de droit.",
+      "citation": "Ce que propose M. Ciotti, c’est de sortir de l’État de droit.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N079",
+      "date": "2023-12-07"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3191) ; aucune déclaration retrouvée. À titre indicatif, aucun député du groupe GDR-NUPES, auquel il appartenait, n'a voté.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3191) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI-NUPES, auquel il appartenait, a voté contre (0-15).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3191) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste-NUPES, auquel elle appartenait, a voté contre (0-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote sur l'article 7 (scrutin n°3191), alors qu'elle est intervenue sur d'autres articles du texte. À titre indicatif, le groupe RN, qu'elle présidait, a voté pour (27-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non inscrit, n'a pas pris part au vote sur l'article 7 (scrutin n°3191). En discussion générale, il a soutenu la reconquête de la souveraineté nationale face au droit européen, sans se prononcer spécifiquement sur cet article.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078",
+      "date": "2023-12-07"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2023 ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0-15).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté contre (0-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, allié de Place publique, a voté contre (0-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ministre de l'Éducation nationale (gouvernement Borne, dont les ministres ont combattu l'article sans émettre d'avis formel puisqu'ils ont retiré leur amendement) ; pas de déclaration personnelle retrouvée. PROXY : le groupe Renaissance a voté contre (0-40).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons (son parti) a voté contre (0-2-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Sénateur, président du groupe LR : premier signataire, au Sénat le 25 mai 2023, de la même proposition de loi constitutionnelle, qui prévoit que l'étranger menaçant l'ordre public ou condamné à une peine d'emprisonnement ne peut se prévaloir d'aucun droit au maintien sur le territoire. Il en a fait retirer l'examen en séance le 11 décembre 2023.",
+      "argument": "Il porte au Sénat la même réforme constitutionnelle que LR à l'Assemblée, pour reprendre la maîtrise de l'immigration.",
+      "citation": null,
+      "url": "https://senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-constitutionnelle-relative-a-la-souverainete-de-la-france-a-la-nationalite-a-limmigration-et-a-lasile.html",
+      "date": "2023-05-25"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR a voté pour (25-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR (son parti à l'époque) a voté pour (25-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration retrouvée sur ce texte ; Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3191",
+      "date": "2023-12-07"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur un seul article (art. 7) d'une proposition de loi constitutionnelle, examiné en priorité ; le texte a ensuite été retiré par LR.",
+    "Question précisée : l'article ne se limitait pas à « inscrire » l'éloignement, il excluait qu'« aucun principe ni aucune règle » y fasse obstacle (bouclier face à la CEDH). C'est ce point qui a motivé le rejet.",
+    "Rejet ambigu : la majorité (Renaissance, MoDem, Horizons) a voté contre en jugeant l'article mal rédigé et moins sévère que le projet de loi gouvernemental, pas forcément par opposition au principe ; Darmanin trouvait « intéressante », à titre personnel, la constitutionnalisation de l'éloignement.",
+    "Retailleau : position déduite de son dépôt du texte équivalent au Sénat (déclaration écrite), pas d'un vote."
+  ]
+}

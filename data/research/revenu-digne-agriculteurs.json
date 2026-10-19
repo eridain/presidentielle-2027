@@ -1,0 +1,205 @@
+{
+  "id": "revenu-digne-agriculteurs",
+  "titre": "Prix planchers pour un revenu digne des agriculteurs",
+  "question": "Faut-il instaurer des prix planchers pour les produits agricoles afin de garantir un revenu digne aux agriculteurs ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposée par la députée écologiste Marie Pochon dans la niche de son groupe, après le mouvement agricole de l'hiver 2024 et l'annonce par Emmanuel Macron, au Salon de l'agriculture, de « prix planchers », la proposition de loi prévoit un prix minimal d'achat aux agriculteurs, fixé par des conférences publiques de filière (ou à défaut par les ministres de l'Économie et de l'Agriculture) en tenant compte d'une rémunération équivalente à deux SMIC. Elle crée aussi un fonds pour accompagner la transition agricole. L'Assemblée l'a adoptée en première lecture le 4 avril 2024 (89 pour, 66 contre, 13 abstentions), contre l'avis du gouvernement et de la majorité. Le texte n'a jamais été inscrit à l'ordre du jour du Sénat.",
+  "contexteSources": [
+    {
+      "titre": "LCP – L'Assemblée adopte, en première lecture, un texte prévoyant d'instaurer des prix planchers",
+      "url": "https://lcp.fr/actualites/l-assemblee-adopte-en-premiere-lecture-un-texte-prevoyant-d-instaurer-des-prix-planchers"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/garantir_revenu_digne_agriculteurs"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3653",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/garantir_revenu_digne_agriculteurs",
+  "argumentsPour": [
+    {
+      "auteur": "Manon Meunier (La France insoumise)",
+      "resume": "Les prix planchers rémunérateurs sont une revendication du monde agricole et une proposition défendue de longue date par LFI, que le président avait lui-même promise.",
+      "citation": "L’instauration de prix planchers rémunérateurs est une proposition défendue depuis plusieurs années par la France insoumise.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N170",
+      "date": "2024-04-04"
+    },
+    {
+      "auteur": "David Taupiac (LIOT)",
+      "resume": "Le texte, amendé pour tenir compte de l'inflation et de la taille des exploitations, est imparfait mais s'attaque au premier problème : le revenu.",
+      "citation": "La loi est certes imparfaite, mais nous avons souhaité accompagner son élaboration et nous voterons pour.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N170",
+      "date": "2024-04-04"
+    },
+    {
+      "auteur": "Sandra Regol (Écologiste)",
+      "resume": "Les lois Egalim ne sont pas appliquées depuis six ans ; plusieurs syndicats agricoles soutiennent le dispositif.",
+      "citation": "Cela fait six ans que la loi Egalim a été votée, et six ans qu’elle n’est pas appliquée",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N170",
+      "date": "2024-04-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Françoise Buffet (Renaissance)",
+      "resume": "Les prix planchers par filière seraient des prix administrés qui risquent de devenir des prix plafonds et de ruiner la compétitivité agricole.",
+      "citation": "Votre définition des prix planchers fait courir le risque qu’ils deviennent des prix plafonds, mais aussi qu’ils ruinent la compétitivité de notre agriculture en Europe et dans le monde",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N170",
+      "date": "2024-04-04"
+    },
+    {
+      "auteur": "Anne-Laure Babault (Démocrate)",
+      "resume": "La grande majorité des agriculteurs et des filières ne demanderait pas ces prix planchers, devenus des prix administrés.",
+      "citation": "Avec ce changement, nous ne sommes plus dans le cadre de prix planchers, mais bien de prix administrés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N170",
+      "date": "2024-04-04"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Grégoire de Fournas (Rassemblement national)",
+      "resume": "Le RN soutient la hausse du revenu agricole mais craint une inflation alimentaire faute d'encadrement des marges de l'industrie et de la distribution, et rejette l'article 2.",
+      "citation": "Pour cette raison, et pour éviter que cette proposition de loi n’entraîne une augmentation de l’inflation alimentaire, nous nous abstiendrons.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N170",
+      "date": "2024-04-04"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2024 ; aucune déclaration spécifique retrouvée sur ce texte. PROXY : le groupe LFI-NUPES a voté pour (42-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3653) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe GDR-NUPES a voté pour (8-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3653) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe LFI-NUPES a voté pour (42-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste-NUPES, auteur du texte, a voté pour (20-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3653) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste-NUPES a voté pour (20-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (14-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a appelé à rejeter le texte (avis défavorables d'Agnès Pannier-Runacher) ; pas de déclaration personnelle retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N170",
+      "date": "2024-04-04"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre et président d'Horizons ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons a voté contre (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; le texte n'a pas été examiné au Sénat ; aucune déclaration spécifique retrouvée. Aucun député LR n'a pris part au scrutin : pas de proxy de groupe.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. Aucun député LR n'a pris part au scrutin : pas de proxy de groupe.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration spécifique retrouvée. Aucun député LR n'a pris part au scrutin : pas de proxy de groupe.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3653) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe RN s'est abstenu (0-0-12).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3653) ; aucune déclaration spécifique retrouvée. À titre indicatif, les non-inscrits se sont partagés (1 pour, 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3653",
+      "date": "2024-04-04"
+    }
+  },
+  "alertes": [
+    "Roussel, Ruffin, Batho, Le Pen, Dupont-Aignan : n'ont pas pris part au vote ; position inconnu (indication du vote de leur groupe à titre indicatif seulement).",
+    "Scrutin de première lecture à faible participation (168 votants), en séance de niche parlementaire ; le texte n'a jamais été examiné par le Sénat.",
+    "Le groupe LR n'a pas pris part au scrutin : aucun proxy de groupe pour Retailleau, Bertrand et Lisnard.",
+    "Attal : position déduite de l'opposition du gouvernement exprimée en séance par la ministre déléguée Agnès Pannier-Runacher."
+  ]
+}

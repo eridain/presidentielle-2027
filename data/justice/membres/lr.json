@@ -1,0 +1,215 @@
+{
+  "partiId": "lr",
+  "personnes": [
+    {
+      "personne": "Sarkozy Nicolas",
+      "statutMembre": "retire",
+      "depuis": "2016-11",
+      "detail": "Retiré de la vie politique depuis son échec à la primaire de la droite (novembre 2016) ; selon RMC et Public Sénat (octobre 2022), il n'avait pas renouvelé son adhésion à LR, ses proches assurant qu'il ne quitterait pas le parti qu'il a fondé ; jamais sanctionné par LR.",
+      "lienAvecCondamnation": null,
+      "reactionParti": "Après sa condamnation du 25 septembre 2025 (affaire libyenne), le président de LR Bruno Retailleau et le président du groupe Droite républicaine Laurent Wauquiez lui ont publiquement apporté leur « soutien ».",
+      "sources": [
+        {
+          "titre": "Nicolas Sarkozy et LR, le début du divorce?",
+          "url": "https://rmc.bfmtv.com/actualites/politique/nicolas-sarkozy-et-lr-le-debut-du-divorce_AV-202210050292.html",
+          "citation": "Retraité de la vie politique, Nicolas Sarkozy se montre distant avec la vie du parti, et le fait savoir.",
+          "date": "2022-10-05"
+        },
+        {
+          "titre": "Nicolas Sarkozy et LR, le début du divorce?",
+          "url": "https://rmc.bfmtv.com/actualites/politique/nicolas-sarkozy-et-lr-le-debut-du-divorce_AV-202210050292.html",
+          "citation": "Selon nos informations, il n'est même plus adhérent depuis l'année dernière.",
+          "date": "2022-10-05"
+        },
+        {
+          "titre": "Sarkozy évoque son départ des Républicains : « On attend autre chose d’un ancien Président », regrettent les sénateurs LR",
+          "url": "https://www.publicsenat.fr/actualites/politique/sarkozy-evoque-son-depart-de-lr-on-attend-autre-chose-d-un-ancien-president",
+          "citation": "Nicolas Sarkozy n’a pas d’ailleurs pas renouvelé son adhésion au parti en 2022.",
+          "date": "2022-10-04"
+        },
+        {
+          "titre": "Nicolas Sarkozy : \"Je dormirai en prison, mais la tête haute\"",
+          "url": "https://lcp.fr/actualites/nicolas-sarkozy-je-dormirai-en-prison-mais-la-tete-haute-402356",
+          "citation": "Le président des Républicains, Bruno Retailleau, a lui aussi apporté son \"soutien\" et son \"amitié\" à Nicolas Sarkozy.",
+          "date": "2025-09-25"
+        },
+        {
+          "titre": "Nicolas Sarkozy : \"Je dormirai en prison, mais la tête haute\"",
+          "url": "https://lcp.fr/actualites/nicolas-sarkozy-je-dormirai-en-prison-mais-la-tete-haute-402356",
+          "citation": "le président des députés Les Républicains, Laurent Wauquiez, a tenu à \"redire [s]on soutien, [s]a reconnaissance\" et \"[s]on amitié\" à Nicolas Sarkozy",
+          "date": "2025-09-25"
+        }
+      ]
+    },
+    {
+      "personne": "Fillon François",
+      "statutMembre": "retire",
+      "depuis": "2017-11",
+      "detail": "Officiellement retiré de la vie politique depuis novembre 2017 ; il avait laissé expirer son adhésion à LR en 2017 mais a repris sa carte fin 2022 pour soutenir Bruno Retailleau, à qui il a apporté son soutien pour la présidentielle le 17 octobre 2026.",
+      "lienAvecCondamnation": null,
+      "reactionParti": "Aucune sanction ni prise de distance officielle de LR trouvée ; Le Monde relevait en 2023 que, dans sa famille politique, « les réactions se font rares » sur l'affaire.",
+      "sources": [
+        {
+          "titre": "Les Républicains : François Fillon a repris sa carte du parti",
+          "url": "https://www.cnews.fr/france/2022-12-13/les-republicains-francois-fillon-repris-sa-carte-du-parti-1300248",
+          "citation": "François Fillon n'était plus adhérent des Républicains depuis 2017.",
+          "date": "2022-12-13"
+        },
+        {
+          "titre": "Affaire Fillon : à droite, gêne et prudence après la décision du Conseil constitutionnel",
+          "url": "https://www.lemonde.fr/politique/article/2023/09/28/affaire-fillon-a-droite-gene-et-discretion-apres-la-decision-du-conseil-constitutionnel_6191495_823448.html",
+          "citation": "l’ancien premier ministre – officiellement retiré de la vie politique depuis novembre 2017 – avait repris sa carte chez LR afin de soutenir M.Retailleau",
+          "date": "2023-09-28"
+        },
+        {
+          "titre": "Affaire Fillon : à droite, gêne et prudence après la décision du Conseil constitutionnel",
+          "url": "https://www.lemonde.fr/politique/article/2023/09/28/affaire-fillon-a-droite-gene-et-discretion-apres-la-decision-du-conseil-constitutionnel_6191495_823448.html",
+          "citation": "les réactions se font rares après la décision des Sages",
+          "date": "2023-09-28"
+        },
+        {
+          "titre": "Présidentielle: François Fillon apporte son soutien à Bruno Retailleau (AFP)",
+          "url": "https://www.boursorama.com/actualite-economique/actualites-amp/presidentielle-francois-fillon-apporte-son-soutien-a-bruno-retailleau-2d6b23f931826872a37ee731609b3e8e",
+          "citation": "L'ancien Premier ministre François Fillon a apporté samedi son soutien à Bruno Retailleau pour l'élection présidentielle",
+          "date": "2026-10-17"
+        }
+      ]
+    },
+    {
+      "personne": "Juppé Alain",
+      "statutMembre": "depart",
+      "depuis": "2019-01-01",
+      "detail": "En désaccord avec la ligne de Laurent Wauquiez, il n'a pas payé ses cotisations 2017 et 2018 et a perdu sa qualité d'adhérent de LR au 1er janvier 2019 ; membre du Conseil constitutionnel depuis mars 2019. Il avait quitté la présidence de l'UMP en juillet 2004 après sa condamnation.",
+      "lienAvecCondamnation": "non",
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Alain Juppé — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Alain_Jupp%C3%A9",
+          "citation": "N’ayant pas renouvelé sa cotisation durant deux années consécutives, il perd officiellement sa qualité d'adhérent à LR le 1er janvier 2019",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Alain Juppé : il se met en congé des Républicains",
+          "url": "https://www.franceinfo.fr/politique/les-republicains/laurent-wauquiez/alain-juppe-il-se-met-en-conge-des-republicains_2562969.html",
+          "citation": "Une décision liée à Laurent Wauquiez, le nouveau patron très controversé des Républicains.",
+          "date": "2018-01-15"
+        },
+        {
+          "titre": "Alain Juppé, figure-phare de la droite depuis 42 ans",
+          "url": "https://lemonde.fr/politique/article/2019/01/04/alain-juppe-figure-phare-de-la-droite-depuis-quarante-deux-ans_5405270_823448.html",
+          "citation": "n’est plus, dans les faits, membre des Républicains",
+          "date": "2019-01-04"
+        },
+        {
+          "titre": "Alain Juppé — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Alain_Jupp%C3%A9",
+          "citation": "il quitte la présidence de l'UMP le 16 juillet 2004 et son siège de député le 23 septembre suivant",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Gaudin Jean-Claude",
+      "statutMembre": "decede",
+      "depuis": "2024-05-20",
+      "detail": "Mort le 20 mai 2024 à 84 ans ; membre de LR jusqu'à son décès selon Wikipédia (LR 2015-2024), jamais exclu.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Décès de Jean-Claude Gaudin, Maire honoraire de Marseille",
+          "url": "https://www.marseille.fr/mairie/jean-claude-gaudin-ancien-maire-marseille",
+          "citation": "Jean-Claude Gaudin, maire de Marseille durant vingt-cinq ans, de 1995 à 2020 est décédé le lundi 20 mai 2024 à l’âge de 84 ans.",
+          "date": "2024-05-20"
+        },
+        {
+          "titre": "Jean-Claude Gaudin — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Jean-Claude_Gaudin",
+          "citation": "UMP (2002-2015) LR (2015-2024)",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Wauquiez Laurent",
+      "statutMembre": "membre",
+      "depuis": null,
+      "detail": "Député de la Haute-Loire et président du groupe Droite républicaine à l'Assemblée ; rattaché financièrement à LR, dont il a été président (2017-2019).",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Laurent Wauquiez — Datan",
+          "url": "https://datan.fr/deputes/haute-loire-43/depute_laurent-wauquiez",
+          "citation": "Laurent Wauquiez est rattaché financièrement au parti politique Les Républicains (REP).",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Laurent Wauquiez — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Laurent_Wauquiez",
+          "citation": "UMP (2004-2015) LR (depuis 2015)",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Hortefeux Brice",
+      "statutMembre": "membre",
+      "depuis": null,
+      "detail": "Membre de LR ; redevenu député européen (groupe PPE) le 8 octobre 2026 comme suivant de la liste LR de 2024, en remplacement de Laurent Castillo élu sénateur.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Brice Hortefeux — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Brice_Hortefeux",
+          "citation": "Membre du RPR, de l'UMP puis de LR, proche de Nicolas Sarkozy",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "« La situation est inédite » : comment Brice Hortefeux pourrait faire son retour au Parlement européen",
+          "url": "https://www.leparisien.fr/politique/la-situation-est-inedite-comment-brice-hortefeux-pourrait-faire-son-retour-au-parlement-europeen-26-09-2026-HJIAKSTRPVBLDKRRHVYMTLAGEM.php",
+          "citation": "Son départ fait donc « monter » à Strasbourg le premier candidat à ne pas avoir siégé sur cette même liste. À savoir, donc, Brice Hortefeux.",
+          "date": "2026-09-26"
+        },
+        {
+          "titre": "Brice HORTEFEUX — Parlement européen",
+          "url": "https://www.europarl.europa.eu/meps/fr/5565/BRICE_HORTEFEUX/home",
+          "citation": "Groupe du Parti populaire européen (Démocrates-Chrétiens) Membre",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Sido Bruno",
+      "statutMembre": "membre",
+      "depuis": null,
+      "detail": "Sénateur de la Haute-Marne depuis 2001 (réélu en 2023), membre du groupe Les Républicains au Sénat ; parcours RPR-UMP-LR.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Informations sur la composition et les activités des organes du Sénat au 18 septembre 2026",
+          "url": "https://www.senat.fr/themas/infocompo_encours/infocompo_encours1.html",
+          "citation": "Bruno SIDO Haute-Marne REP ETRD",
+          "date": "2026-09-18"
+        },
+        {
+          "titre": "Bruno Sido — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Bruno_Sido",
+          "citation": "Parti politique RPR UMP LR",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  ],
+  "alertes": [
+    "Nicolas Sarkozy : RMC et Public Sénat (octobre 2022) indiquent qu'il n'avait pas renouvelé son adhésion à LR ; aucune source postérieure ne confirme ni ne dément une ré-adhésion. Wikipédia le présente comme LR « depuis 2015 » sans nuance. Statut « retire » retenu par prudence (retrait de la vie politique, pas de départ formel annoncé) ; il pourrait aussi être considéré comme ancien adhérent de fait.",
+    "François Fillon : ré-adhésion à LR attestée en décembre 2022 ; le renouvellement de sa cotisation depuis n'est pas documenté. Il soutient publiquement Bruno Retailleau (17/10/2026). Statut « retire » (retiré de la vie politique, sans départ formel).",
+    "Jean-Claude Gaudin : l'appartenance à LR jusqu'au décès repose sur l'infobox Wikipédia (LR 2015-2024) ; pas de source de presse dédiée.",
+    "Brice Hortefeux : appartenance LR établie par Wikipédia et par son entrée au Parlement européen comme suivant de la liste LR de 2024 ; sa fiche du Parlement européen (consultée) n'affiche que le groupe PPE. Arrêt d'appel de l'affaire libyenne attendu le 30/11/2026 (Sarkozy et Hortefeux) : réaction de LR à suivre.",
+    "Bruno Sido : la source Sénat atteste l'appartenance au groupe Les Républicains (groupe ≠ parti) ; appartenance au parti selon Wikipédia.",
+    "Laurent Wauquiez : le rattachement financier (Datan) n'équivaut pas strictement à une adhésion, mais il est un dirigeant de LR (ancien président, candidat à la présidence du parti en mai 2025)."
+  ]
+}

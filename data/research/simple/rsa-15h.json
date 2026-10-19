@@ -1,0 +1,22 @@
+{
+  "id": "rsa-15h",
+  "questionSimple": "Faut-il créer France Travail et exiger des allocataires du RSA au moins 15 heures d'activité par semaine ?",
+  "enBref": "Pôle emploi devient France Travail, et toutes les personnes au RSA y sont inscrites automatiquement. Elles signent un contrat d'engagement avec 15 heures d'activité par semaine : formation, accompagnement ou immersion en entreprise. Ces heures peuvent être réduites mais pas supprimées, sauf dispense (santé, handicap, parent seul sans garde) ; l'allocation peut être suspendue en cas de manquement.",
+  "pourquoiPour": "Ses défenseurs parlent de « droits et devoirs » : la société doit former et accompagner, l'allocataire doit s'engager. Selon eux, l'emploi est un moyen puissant de lutter contre la pauvreté.",
+  "pourquoiContre": "Ses opposants y voient la fin d'un RSA sans condition et une façon de rendre les chômeurs coupables de leur situation. Ils craignent que des familles perdent leur seule ressource.",
+  "ceQuiSestPasse": "En partie validée par le Conseil constitutionnel, la loi a été promulguée fin 2023 ; les 15 heures s'appliquent partout depuis le 1er janvier 2025.",
+  "lexique": [
+    {
+      "terme": "RSA",
+      "definition": "Revenu de solidarité active : allocation versée aux personnes qui ont très peu ou pas de revenus."
+    },
+    {
+      "terme": "France Travail",
+      "definition": "Nouveau nom de Pôle emploi, le service public qui accompagne les demandeurs d'emploi."
+    },
+    {
+      "terme": "Contrat d'engagement",
+      "definition": "Document signé par l'allocataire, qui fixe ses démarches et ses heures d'activité."
+    }
+  ]
+}

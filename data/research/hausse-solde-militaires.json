@@ -1,0 +1,183 @@
+{
+  "id": "hausse-solde-militaires",
+  "titre": "Hausse de la solde des militaires (budget 2024)",
+  "question": "Faut-il augmenter sensiblement la rémunération des militaires ?",
+  "ouiSignifie": "pour",
+  "contexte": "Lors de l'examen en première lecture du projet de loi de finances pour 2024 (mission « Défense »), l'amendement n° II-3808, adopté par la commission de la défense sur proposition de Bastien Lachaud (LFI), rapporteur pour avis, transférait 220 millions d'euros des crédits d'équipement des forces vers le programme « Soutien de la politique de la défense » pour augmenter la rémunération indiciaire des militaires. Il visait à corriger le « tassement » des grilles : l'indice de solde était devenu le même pour 70 % des échelons des militaires du rang, et la LPM 2024-2030 prévoyait la révision de ces grilles. Le gouvernement (Sébastien Lecornu) le jugeait satisfait. L'amendement a été adopté le 7 novembre 2023 par 82 voix contre 77, grâce aux votes RN, LFI, socialistes et écologistes contre la majorité.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – amendement n° II-3808 (PLF 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/amendements/1680C/AN/3808"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 7 novembre 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-07-novembre-2023"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif PLF 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/plf_2024"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/plf_2024",
+  "argumentsPour": [
+    {
+      "auteur": "Bastien Lachaud (La France insoumise, rapporteur pour avis)",
+      "resume": "La hausse spécifique promise lors de la LPM a été absorbée par les mesures générales de la fonction publique ; il faut respecter le vote du Parlement.",
+      "citation": "Il ne s’agit que de respecter le vote de cette assemblée, chers collègues.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-07-novembre-2023",
+      "date": "2023-11-07"
+    },
+    {
+      "auteur": "Emeric Salmon (Rassemblement national, rapporteur spécial)",
+      "resume": "Les crédits de personnel ne progressent quasiment pas en 2024 ; revaloriser la rémunération des militaires est bienvenu.",
+      "citation": "Il est donc bienvenu. Il n’a pas été examiné en commission des finances, mais j’y suis favorable à titre personnel.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-07-novembre-2023",
+      "date": "2023-11-07"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sébastien Lecornu (ministre des Armées)",
+      "resume": "Les augmentations spécifiques pour la troupe ont déjà été versées en 2023, en plus des mesures générales : l'amendement est satisfait.",
+      "citation": "Votre amendement me semble donc satisfait, monsieur Lachaud. Demande de retrait ; à défaut, avis défavorable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-07-novembre-2023",
+      "date": "2023-11-07"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2023 ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES, dont l'amendement émane, a voté pour (29 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°2910) ; aucune déclaration retrouvée ; aucun député GDR n'a voté.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°2910) ; aucune déclaration retrouvée. Indication : son groupe LFI-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté pour (4 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°2910) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (3 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Éducation nationale dans le gouvernement Borne, qui a donné un avis défavorable (Sébastien Lecornu) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-07-novembre-2023",
+      "date": "2023-11-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté contre (0 pour / 8 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; amendement propre à l'Assemblée ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté majoritairement contre (1 pour / 7 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté majoritairement contre.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté majoritairement contre.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°2910) ; aucune déclaration retrouvée. Indication : son groupe RN a voté pour (45 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°2910) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2910",
+      "date": "2023-11-07"
+    }
+  },
+  "alertes": [
+    "Vote sur un amendement budgétaire (transfert de crédits à solde nul : +220 M€ pour la rémunération, −220 M€ sur l'équipement des forces), pas sur une loi autonome. La question doit le refléter : il ne s'agit pas de crédits supplémentaires.",
+    "Le même soir, la Première ministre a engagé la responsabilité du gouvernement (49.3) sur la seconde partie du PLF 2024 : il n'a pas été vérifié si cet amendement a été retenu dans le texte final.",
+    "Faible participation (161 votants) : Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote.",
+    "Attal : position déduite de l'avis défavorable du gouvernement auquel il appartenait."
+  ]
+}

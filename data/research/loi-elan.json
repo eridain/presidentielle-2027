@@ -1,0 +1,226 @@
+{
+  "id": "loi-elan",
+  "titre": "Loi ELAN sur le logement (2018)",
+  "question": "Faut-il adopter la loi ELAN sur le logement (assouplissement des normes de construction et d'accessibilité, regroupement des bailleurs sociaux, bail mobilité) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi portant évolution du logement, de l'aménagement et du numérique (ELAN), porté par Jacques Mézard et Julien Denormandie, veut « construire plus, mieux et moins cher ». Il ramène l'obligation de logements neufs accessibles aux personnes handicapées à 20 % (les autres devant être « évolutifs »), oblige les organismes HLM gérant moins de 12 000 logements à se regrouper d'ici 2021, facilite la vente de logements sociaux, crée un « bail mobilité » de un à dix mois, limite l'avis conforme des architectes des Bâtiments de France pour certains projets, rétablit à titre expérimental l'encadrement des loyers et renforce la lutte contre les marchands de sommeil. Le texte de la CMP a été adopté par l'Assemblée le 3 octobre 2018 (129 voix contre 72, 11 abstentions) et par le Sénat le 16 octobre. Saisi par des parlementaires, le Conseil constitutionnel s'est prononcé le 15 novembre 2018 et la loi n° 2018-1021 a été promulguée le 23 novembre 2018.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/evolution_logement_amenagement_numerique"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 3 octobre 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004"
+    },
+    {
+      "titre": "Sénat – Scrutin n°2 du 16 octobre 2018",
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-2.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1184",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/evolution_logement_amenagement_numerique",
+  "argumentsPour": [
+    {
+      "auteur": "Mickaël Nogal (LaREM)",
+      "resume": "Construire plus, simplifier les normes, protéger les plus fragiles et mettre le numérique au service de tous.",
+      "citation": "Construire plus de logements, simplifier les normes, protéger les plus fragiles et mettre les transitions énergétique et numérique au service de tous les Français, telle est l’ambition du projet de loi ÉLAN.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    },
+    {
+      "auteur": "Christelle Dubos (LaREM, rapporteure)",
+      "resume": "Le regroupement des petits bailleurs sociaux permettra des économies d'échelle, et les ventes financeront la construction de nouveaux logements.",
+      "citation": "Ici se concrétise le cercle vertueux que nous souhaitons enclencher afin que les ventes permettent de démultiplier la construction de nouveaux logements.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    },
+    {
+      "auteur": "Richard Lioger (LaREM, rapporteur)",
+      "resume": "Pour construire mieux et moins cher, la clé est de libérer du foncier.",
+      "citation": "Comme je le disais au Gouvernement, pour construire mieux et moins cher, la clé, c’est de libérer du foncier.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    },
+    {
+      "auteur": "Jean-Luc Lagleize (MoDem)",
+      "resume": "Le texte atteint son objectif de construire plus, mieux et moins cher ; le groupe le votera.",
+      "citation": "Le groupe du Mouvement démocrate est donc satisfait de ce projet de loi ÉLAN, qui avait parmi ses principaux objectifs de construire plus, mieux et moins cher.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Stéphane Peu (GDR)",
+      "resume": "Le texte remet en cause le modèle HLM et son financement, qu'il faudrait au contraire conforter.",
+      "citation": "Ce projet de loi remet en cause le modèle français du logement HLM et son financement, alors que c’est un modèle solide, qu’il faudrait, à l’inverse, conforter, moderniser et décentraliser.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    },
+    {
+      "auteur": "Bénédicte Taurine (FI)",
+      "resume": "Regroupements et ventes imposent aux HLM des logiques budgétaires contraires à leur mission ; le bail mobilité ajoute la précarité du logement à celle de l'emploi.",
+      "citation": "Avec le bail mobilité, vous ajoutez la précarité du logement à celle de l’emploi, notamment pour les plus jeunes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    },
+    {
+      "auteur": "François Pupponi (Socialistes)",
+      "resume": "Sous couvert de construire plus vite et moins cher, le texte est traversé par un fil rouge de dérégulation.",
+      "citation": "Le troisième axe que nous avions pointé est ce fil rouge de la dérégulation qui innerve votre texte, sous couvert de construire plus vite et moins cher.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    },
+    {
+      "auteur": "Thibault Bazin (LR)",
+      "resume": "Contre, depuis la droite : seuil de regroupement des HLM trop élevé, quota de logements accessibles insuffisant, politique favorable aux seules métropoles.",
+      "citation": "Seules les grandes métropoles sont privilégiées par votre politique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Guy Bricout (UDI, Agir et indépendants)",
+      "resume": "Les efforts de rationalisation des HLM sont réels mais le seuil uniforme de regroupement et les règles de vente posent problème.",
+      "citation": "Voilà pourquoi notre groupe votera en majorité contre ce projet de loi ou s’abstiendra.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°1184) ; pas d'intervention retrouvée dans la séance : argument = celui de son groupe FI (Bénédicte Taurine).",
+      "argument": "Le groupe FI reproche au texte d'imposer aux HLM des regroupements et des ventes contraires à leur mission sociale, et de précariser les jeunes avec le bail mobilité.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°1184) ; argument = celui de son groupe GDR (Stéphane Peu).",
+      "argument": "Le groupe GDR estime que la loi remet en cause le modèle HLM et son financement.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°1184) ; argument = celui de son groupe FI (Bénédicte Taurine).",
+      "argument": "Le groupe FI reproche au texte d'imposer aux HLM des regroupements et des ventes contraires à leur mission sociale, et de précariser les jeunes avec le bail mobilité.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national en 2018 ; pas de déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1184).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2018 ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste a voté contre (14 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°1184), alors député LaREM ; argument = celui de son groupe (Mickaël Nogal).",
+      "argument": "Le groupe LaREM veut construire plus, simplifier les normes et protéger les plus fragiles.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N004",
+      "date": "2018-10-03"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a porté le projet de loi.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/evolution_logement_amenagement_numerique",
+      "date": "2018-10-03"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat ; a voté pour le texte de la CMP (scrutin Sénat n°2 du 16 octobre 2018), contrairement aux députés LR.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-2.html",
+      "date": "2018-10-16"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région (ex-LR) ; pas de déclaration retrouvée. Proxies contradictoires : LR contre à l'Assemblée (25 contre), LR pour au Sénat.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; pas de déclaration retrouvée. Proxies contradictoires : LR contre à l'Assemblée, pour au Sénat.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1184). Les non-inscrits ont voté contre (7 contre), sans détail retrouvé par élu.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2018 ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1184).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "LR divisé selon la chambre : contre à l'Assemblée (25 contre), pour au Sénat (texte de compromis de la CMP).",
+    "Mélenchon, Roussel, Ruffin, Attal : vote nominatif sans intervention personnelle ; argument repris de leur groupe.",
+    "L'abaissement de l'accessibilité à 20 % de logements accessibles a suscité une forte opposition des associations de personnes handicapées ; elle n'apparaît ici que via les arguments parlementaires.",
+    "Contre venant de deux bords : la gauche (défense du modèle HLM, refus de la dérégulation) et LR (texte jugé trop centralisateur et insuffisant)."
+  ]
+}

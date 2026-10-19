@@ -1,0 +1,218 @@
+{
+  "id": "isf-ifi",
+  "titre": "Remplacement de l'ISF par l'IFI",
+  "question": "Faut-il supprimer l'impôt de solidarité sur la fortune (ISF) et le remplacer par un impôt sur la seule fortune immobilière (IFI) ?",
+  "ouiSignifie": "pour",
+  "contexte": "L'article 12 du projet de loi de finances pour 2018 supprime l'ISF et crée un impôt sur la fortune immobilière (IFI), au même seuil (1,3 million d'euros) et au même barème, mais limité au patrimoine immobilier : actions, obligations et autres actifs financiers en sont exclus. Le gouvernement Philippe présentait la mesure comme un moyen d'orienter l'épargne des plus aisés vers les entreprises ; le manque à gagner était estimé à environ 3,2 milliards d'euros. L'Assemblée a adopté l'article le 20 octobre 2017. Le Sénat, à majorité de droite, a voté une suppression totale de l'ISF sans IFI, mais l'Assemblée a eu le dernier mot. La loi de finances n° 2017-1837 du 30 décembre 2017 a été promulguée après la décision 2017-758 DC du Conseil constitutionnel, partiellement conforme.",
+  "contexteSources": [
+    {
+      "titre": "franceinfo – Les députés votent la suppression de l'ISF et son remplacement par un impôt sur la seule fortune immobilière (20 octobre 2017)",
+      "url": "https://www.franceinfo.fr/politique/moralisation-de-la-vie-politique/les-deputes-votent-la-suppression-de-l-isf-et-son-remplacement-par-un-impot-sur-la-seule-fortune-immobiliere_2429327.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 20 octobre 2017",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif Loi de finances 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_finances_2018"
+    },
+    {
+      "titre": "Sénat – compte rendu intégral de la séance du 24 novembre 2017",
+      "url": "https://www.senat.fr/seances/s201711/s20171124/s20171124_mono.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/169",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_finances_2018",
+  "argumentsPour": [
+    {
+      "auteur": "Amélie de Montchalin (LaREM)",
+      "resume": "Selon le groupe majoritaire, la réforme n'est pas un cadeau fiscal mais un moyen d'aider les entreprises à trouver des capitaux propres pour croître et embaucher.",
+      "citation": "Non, cette réforme n’est pas un cadeau, c’est un pacte pour l’investissement qui doit permettre à nos entreprises de trouver des capitaux",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018",
+      "date": "2017-10-20"
+    },
+    {
+      "auteur": "Marc Fesneau (MoDem)",
+      "resume": "Le groupe soutient une fiscalité favorable à ceux qui investissent dans l'économie réelle et rappelle qu'il s'agit d'un engagement de campagne.",
+      "citation": "Nous le voterons car nous en partageons la philosophie générale : favoriser par la fiscalité ceux qui sont disposés à affecter leurs moyens à l’économie réelle, à l’économie tout court.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018",
+      "date": "2017-10-20"
+    },
+    {
+      "auteur": "Véronique Louwagie (LR)",
+      "resume": "Les Républicains votent l'article mais réclament une suppression intégrale de l'ISF et critiquent la taxation de l'immobilier productif par l'IFI.",
+      "citation": "le groupe Les Républicains est favorable à la suppression de l’ISF, mais à sa suppression intégrale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018",
+      "date": "2017-10-20"
+    },
+    {
+      "auteur": "Bruno Le Maire (ministre de l'Économie)",
+      "resume": "Le ministre juge l'ISF inefficace et complexe ; sa suppression était un engagement de campagne du président de la République.",
+      "citation": "Un totem idéologique est tombé.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018",
+      "date": "2017-10-20"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Luc Mélenchon (FI)",
+      "resume": "Exonérer le patrimoine financier serait injuste socialement, et les sommes économisées ne seraient pas réinvesties dans l'économie réelle.",
+      "citation": "le retrait de la partie financière des patrimoines, est choquante sur le plan de la justice sociale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018",
+      "date": "2017-10-20"
+    },
+    {
+      "auteur": "Christine Pires Beaune (Nouvelle Gauche)",
+      "resume": "La réforme n'apporte aucune garantie que les gains des plus fortunés seront investis dans l'économie, alors que d'autres mesures touchent les ménages modestes.",
+      "citation": "mais quelle garantie avez-vous, monsieur le ministre, que les 1 260 000 euros que rapportera en moyenne la réforme à 100 contribuables seront bien investis dans l’économie réelle ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018",
+      "date": "2017-10-20"
+    },
+    {
+      "auteur": "Stéphane Peu (GDR)",
+      "resume": "La suppression prive l'État de 3,2 milliards d'euros pour les services publics, sans effet attendu sur l'économie, et l'exil fiscal reste marginal.",
+      "citation": "Vous sacrifiez 3,2 milliards d’euros de recettes publiques, ce qui est considérable, ainsi qu’un impôt dont la dénomination comportait le joli mot de solidarité",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018",
+      "date": "2017-10-20"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°169) ; il est intervenu en séance avant le vote, au nom du groupe FI.",
+      "argument": "Selon lui, exonérer le patrimoine financier est injuste et ces sommes, captées par les marchés financiers, ne seront pas réinvesties dans l'économie réelle.",
+      "citation": "La suppression de l’impôt sur la fortune dans la rédaction que vous venez de proposer, monsieur le ministre, c’est-à-dire le retrait de la partie financière des patrimoines, est choquante",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018",
+      "date": "2017-10-20"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Député GDR qui n'a pas pris part au scrutin n°169 ; il s'est prononcé contre l'article 12 lors de la 1re séance du 20 octobre 2017.",
+      "argument": "Il dénonce un gain de 3,2 milliards d'euros pour les ménages les plus riches, sans garantie que l'argent ira à l'économie, alors que des économies sont demandées aux Français.",
+      "citation": "L’heure est venue de prendre, ou non, cette grande responsabilité de supprimer l’impôt de solidarité sur la fortune, et de permettre aux 300 000 familles les plus riches de gagner 3,2 milliards",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-vendredi-20-octobre-2017",
+      "date": "2017-10-20"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°169) ; il est intervenu à plusieurs reprises dans le débat sur l'article 12.",
+      "argument": "Il conteste l'idée que favoriser les dividendes soutienne l'économie, en citant Sanofi, qui verse des dividendes record tout en supprimant des postes de chercheurs.",
+      "citation": "Le Gouvernement ne cesse de répéter que l’immobilier n’est pas productif et qu’il faut favoriser les dividendes. Ce raisonnement me dérange.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018",
+      "date": "2017-10-20"
+    },
+    "tondelier": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Non parlementaire en 2017 ; le programme des Écologistes pour 2027, dont elle est la candidate, prévoit un « ISF climatique » (L'Alsace, 13 juillet 2026). Le groupe Nouvelle Gauche, où siégeaient les écologistes, a voté contre.",
+      "argument": "Son parti propose de rétablir un impôt sur la fortune sous la forme d'un « ISF climatique », dans le cadre d'une fiscalité qu'il qualifie de « verte et juste ».",
+      "citation": null,
+      "url": "https://www.lalsace.fr/elections/2026/07/13/nouvelle-republique-isf-climatique-tva-verte-marine-tondelier-devoile-son-programme",
+      "date": "2026-07-13"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°169) ; elle a cosigné la demande d'évaluation de l'effet de la réforme sur les 100 plus grandes fortunes (franceinfo). Son groupe NG a voté contre (0/7).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.franceinfo.fr/economie/impots/reforme-de-l-isf-des-parlementaires-veulent-connaitre-son-effet-sur-les-plus-riches_2425321.html",
+      "date": "2017-10-18"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2017 (Place publique a été créé en 2018) ; aucune déclaration trouvée sur ce texte. Proxy : le groupe Nouvelle Gauche (PS) a voté contre (0/7).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°169), alors député LaREM ; aucune intervention personnelle trouvée : argument = explication de vote du groupe LaREM (Amélie de Montchalin).",
+      "argument": "Le groupe LaREM présente la réforme comme un pacte pour l'investissement qui permet aux entreprises de lever des capitaux pour grandir et embaucher.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018",
+      "date": "2017-10-20"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a porté le projet de loi de finances pour 2018, défendu en séance par Bruno Le Maire.",
+      "argument": "Pour le gouvernement, l'ISF est inefficace et complexe ; le supprimer doit orienter l'épargne vers l'investissement dans les entreprises.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N018",
+      "date": "2017-10-20"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, président du groupe LR ; aucun scrutin public nominatif trouvé au Sénat sur l'article ISF/IFI. La majorité sénatoriale LR a voté une suppression totale de l'ISF sans IFI. Proxy : le groupe LR de l'Assemblée a voté pour (8/0/2).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration datée trouvée sur ce texte. Proxy : le groupe LR a voté pour (8 pour, 2 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Maire de Cannes, sans vote ; dans une tribune du 16 avril 2026 (Nouvelle Énergie), il propose de supprimer aussi l'IFI. Il est donc favorable à la fin de l'ISF et veut aller au-delà.",
+      "argument": "Il veut remplacer l'IFI et les droits de mutation par une fiscalité foncière fondée sur des valeurs vénales actualisées.",
+      "citation": "L’IFI et les droits de mutation seraient supprimés et remplacés par une fiscalité foncière assise sur des valeurs vénales actualisées.",
+      "url": "https://unenouvelleenergie.fr/changer-de-logiciel-fiscal/",
+      "date": "2026-04-16"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°169) ; aucune intervention en séance ; elle a proposé en octobre 2021 de rétablir un ISF (LCI, rapporté par Challenges).",
+      "argument": "Elle propose de rétablir un ISF qui viserait la spéculation tout en préservant le patrimoine des Français.",
+      "citation": "un ISF qui soit une sanction de la spéculation mais qui préserve le patrimoine des Français.",
+      "url": "https://www.challenges.fr/politique/pourquoi-marine-le-pen-affute-l-arme-de-l-isf-contre-eric-zemmour_785917",
+      "date": "2021-10-21"
+    },
+    "zemmour": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Sans mandat, pas de vote ; en novembre 2021 il refuse de rétablir l'ISF et juge l'IFI « confiscatoire » (BFMTV).",
+      "argument": "Il refuse le retour de l'ISF et juge l'IFI confiscatoire, car les contribuables concernés ne sont pas selon lui spécialement riches, du fait de la hausse des prix des logements.",
+      "citation": "Non, je ne le rétablis pas. Je pense d'ailleurs que cet impôt est devenu confiscatoire.",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/pour-eric-zemmour-ce-n-est-pas-etre-riche-que-d-avoir-un-appartement-de-100-metres-carres-a-paris_AN-202111220137.html",
+      "date": "2021-11-22"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Député non inscrit qui n'a pas pris part au scrutin n°169 ; entretien à l'Opinion du 18 octobre 2017 critiquant la suppression de l'ISF.",
+      "argument": "Il reproche à Emmanuel Macron de récompenser une oligarchie qui n'investit pas dans le pays, par un cadeau fiscal sans contrepartie.",
+      "citation": "C’est un cadeau à 4 milliards et demi d’euros sans contrepartie évidente",
+      "url": "https://www.lopinion.fr/politique/nicolas-dupont-aignan-emmanuel-macron-detruit-la-france-cest-un-liquidateur",
+      "date": "2017-10-18"
+    }
+  },
+  "alertes": [
+    "Le scrutin n°169 porte sur l'article 12 en première lecture (77 pour, 19 contre, 2 abstentions) ; il n'y a pas eu de scrutin public sur l'ensemble de la loi de finances à cette étape.",
+    "Roussel, Batho et Dupont-Aignan étaient députés mais n'ont pas pris part au scrutin n°169. Roussel et Dupont-Aignan sont classés « contre » sur la base de déclarations, pas d'un vote.",
+    "Le Pen : la citation date de 2021 ; l'article de Challenges, daté du 21 octobre 2021, évoque une annonce « le 24 octobre » (incohérence de date dans la source).",
+    "Lisnard et Zemmour sont classés « pour » parce qu'ils s'opposent au rétablissement de l'ISF, mais ils veulent aussi supprimer ou réduire l'IFI : leur position va au-delà du texte.",
+    "Retailleau : le Sénat a voté la suppression intégrale de l'ISF et rejeté l'IFI (novembre 2017), mais aucun vote nominatif ni déclaration personnelle n'a été trouvé. Classé « inconnu ».",
+    "Tondelier : la proposition d'« ISF climatique » est celle du programme de son parti, rapportée par la presse ; pas de citation personnelle vérifiée.",
+    "Philippe et Attal : aucune citation personnelle sur ce vote ; l'argument est celui du gouvernement ou du groupe."
+  ]
+}

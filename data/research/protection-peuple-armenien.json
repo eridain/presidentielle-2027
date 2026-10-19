@@ -1,0 +1,214 @@
+{
+  "id": "protection-peuple-armenien",
+  "titre": "Protection du peuple arménien (Haut-Karabakh, 2020)",
+  "question": "Faut-il condamner l'offensive azerbaïdjanaise au Haut-Karabakh, protéger le peuple arménien et inviter le gouvernement à reconnaître la République du Haut-Karabakh (résolution de décembre 2020) ?",
+  "ouiSignifie": "pour",
+  "contexte": "À l'automne 2020, l'Azerbaïdjan, soutenu par la Turquie, a lancé une offensive au Haut-Karabakh (Artsakh), région peuplée d'Arméniens ; un cessez-le-feu sous égide russe a été signé le 9 novembre 2020, et plus de 100 000 Arméniens ont fui. La proposition de résolution n° 3538 du groupe Les Républicains, sans valeur contraignante, invite notamment le gouvernement à reconnaître le Haut-Karabakh, à assurer l'aide humanitaire, à réexaminer le processus d'adhésion de la Turquie à l'UE et à protéger les communautés chrétiennes d'Orient. Le ministre Jean-Yves Le Drian a dit ne pas partager l'objectif de reconnaissance, qui priverait la France de son rôle de médiatrice. La résolution a été adoptée le 3 décembre 2020 par 188 voix contre 3 (16 abstentions), une semaine après une résolution comparable du Sénat (25 novembre 2020, 305 pour, 1 contre).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution n° 3538",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/protection_peuple_armenien"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 3 décembre 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-jeudi-03-decembre-2020"
+    },
+    {
+      "titre": "Sénat – scrutin n°34 du 25 novembre 2020 (reconnaissance de la République du Haut-Karabagh)",
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-34.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/protection_peuple_armenien",
+  "argumentsPour": [
+    {
+      "auteur": "Brigitte Kuster (Les Républicains)",
+      "resume": "Face à un conflit initié par l'Azerbaïdjan et au silence international, la France doit se tenir aux côtés des Arméniens, comme lors de la reconnaissance du génocide en 2001.",
+      "citation": "Après le Sénat, l’Assemblée nationale a l’occasion d’envoyer un message fort ; c’est donc avec honneur et fierté que nous voterons la résolution qui vous est proposée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-jeudi-03-decembre-2020",
+      "date": "2020-12-03"
+    },
+    {
+      "auteur": "François Pupponi (député du Val-d'Oise)",
+      "resume": "Reconnaître la République d'Artsakh constituerait en soi une protection pour les populations arméniennes menacées.",
+      "citation": "notre appel à la reconnaissance de la République d’Artsakh par le Gouvernement français dans le cadre du processus politique de règlement du conflit",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-jeudi-03-decembre-2020",
+      "date": "2020-12-03"
+    },
+    {
+      "auteur": "Isabelle Santiago (Socialistes)",
+      "resume": "La reconnaissance du Haut-Karabakh est un soutien au peuple arménien et un devoir pour la France.",
+      "citation": "Nous soutenons le peuple arménien du Haut-Karabakh et la reconnaissance de sa souveraineté.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-jeudi-03-decembre-2020",
+      "date": "2020-12-03"
+    },
+    {
+      "auteur": "Danièle Cazarian (LaREM, à titre personnel)",
+      "resume": "Le vote est une question d'humanité et un soutien symbolique fort, mais les Arméniens ont aussi besoin d'actes.",
+      "citation": "Notre vote aujourd’hui est une question d’humanité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-jeudi-03-decembre-2020",
+      "date": "2020-12-03"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Yves Le Drian (ministre de l'Europe et des Affaires étrangères)",
+      "resume": "Reconnaître unilatéralement le Haut-Karabakh ferait renoncer la France à son rôle de médiatrice, que demandent les autorités arméniennes elles-mêmes.",
+      "citation": "je ne partage pas l’objectif visé par la proposition de résolution qui vous est soumise, c’est-à-dire la demande de la reconnaissance de l’indépendance du Haut-Karabakh.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-jeudi-03-decembre-2020",
+      "date": "2020-12-03"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Pierre Dharréville (GDR)",
+      "resume": "Le groupe refuse la lecture du conflit comme une « guerre de civilisation » fondée sur des valeurs judéo-chrétiennes, sans toutefois s'opposer au texte.",
+      "citation": "Pas plus que la république d’Artsakh, nous ne voulons être enrôlés dans une guerre de civilisation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-jeudi-03-decembre-2020",
+      "date": "2020-12-03"
+    },
+    {
+      "auteur": "Clémentine Autain (La France insoumise)",
+      "resume": "Solidarité totale avec le peuple arménien, mais désaccord avec l'argumentation du texte : il s'agit d'un nouvel impérialisme, pas d'un conflit de religion.",
+      "citation": "Il ne s’agit pas d’un conflit de religion mais d’un nouvel impérialisme, que vous dénoncez ici et encouragez dans le cadre de l’OTAN.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-jeudi-03-decembre-2020",
+      "date": "2020-12-03"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°3283), comme tout le groupe FI ; aucune déclaration personnelle retrouvée. Indication : Clémentine Autain (FI) a exprimé sa solidarité avec les Arméniens tout en contestant l'argumentation.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+      "date": "2020-12-03"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°3283), comme tout le groupe GDR, qui a dit ne pas s'opposer au texte ; aucune déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+      "date": "2020-12-03"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°3283) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+      "date": "2020-12-03"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+      "date": "2020-12-03"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°3283) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+      "date": "2020-12-03"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration vérifiée sur ce texte. PROXY : le groupe Socialistes a voté majoritairement pour (10 pour / 1 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+      "date": "2020-12-03"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État, porte-parole du gouvernement Castex ; le ministre Le Drian a dit en séance ne pas partager l'objectif de reconnaissance du Haut-Karabakh ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-jeudi-03-decembre-2020",
+      "date": "2020-12-03"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (maire du Havre) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+      "date": "2020-12-03"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat la résolution « portant sur la nécessité de reconnaître la République du Haut-Karabagh » (scrutin n°34 du 25 novembre 2020), président du groupe LR.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-34.html",
+      "date": "2020-11-25"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans parti à cette date ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+      "date": "2020-12-03"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le groupe LR, auteur du texte, a voté pour (70 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+      "date": "2020-12-03"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°3283) ; aucune déclaration vérifiée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+      "date": "2020-12-03"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3283",
+      "date": "2020-12-03"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°3283) ; intervention en discussion générale.",
+      "argument": "Approuve tous les points du texte (couloirs humanitaires, reconnaissance du Haut-Karabakh) et réclame des sanctions contre la Turquie.",
+      "citation": "Je ne peux qu’être d’accord avec les divers points de cette proposition de résolution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-jeudi-03-decembre-2020",
+      "date": "2020-12-03"
+    }
+  },
+  "alertes": [
+    "Question reformulée pour inclure l'appel à reconnaître le Haut-Karabakh, cœur du texte et du désaccord avec le gouvernement ; polarité inchangée.",
+    "Attal : position « contre » déduite de l'opposition du gouvernement (Le Drian) à l'objectif de reconnaissance, alors que la majorité LaREM a voté pour en liberté de vote. À relire.",
+    "Retailleau : vote sur la résolution distincte du Sénat (25 novembre 2020), de même objet.",
+    "Les groupes FI et GDR n'ont pas pris part au vote ; leurs orateurs (Autain, Dharréville) sont classés en abstention faute de vote exprimé.",
+    "Mélenchon, Roussel, Ruffin, Batho, Le Pen n'ont pas pris part au vote.",
+    "Groupe de François Pupponi non indiqué : non confirmé dans le compte rendu."
+  ]
+}

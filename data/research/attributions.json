@@ -1,0 +1,408 @@
+{
+ "aide-a-mourir/batho": {
+  "trouve": true,
+  "orateur": "Mme Sandrine Rousseau",
+  "estLeCandidat": false
+ },
+ "anti-squat/roussel": {
+  "trouve": true,
+  "orateur": "M. Stéphane Peu",
+  "estLeCandidat": false
+ },
+ "anti-squat/ruffin": {
+  "trouve": true,
+  "orateur": "M. François Piquemal",
+  "estLeCandidat": false
+ },
+ "anti-squat/batho": {
+  "trouve": true,
+  "orateur": "M. Aurélien Taché",
+  "estLeCandidat": false
+ },
+ "anti-squat/lepen": {
+  "trouve": true,
+  "orateur": "M. Michaël Taverne",
+  "estLeCandidat": false
+ },
+ "anticasseurs/roussel": {
+  "trouve": true,
+  "orateur": "M. Stéphane Peu",
+  "estLeCandidat": false
+ },
+ "anticasseurs/ruffin": {
+  "trouve": true,
+  "orateur": "M. Alexis Corbière",
+  "estLeCandidat": false
+ },
+ "arcelormittal/ruffin": {
+  "trouve": true,
+  "orateur": "M. François Ruffin",
+  "estLeCandidat": true
+ },
+ "asile-immigration-2018/melenchon": {
+  "trouve": true,
+  "orateur": "M. Jean-Luc Mélenchon",
+  "estLeCandidat": true
+ },
+ "asile-immigration-2018/lepen": {
+  "trouve": true,
+  "orateur": "Mme Marine Le Pen",
+  "estLeCandidat": true
+ },
+ "asile-immigration-2018/dupontaignan": {
+  "trouve": true,
+  "orateur": "M. Nicolas Dupont-Aignan",
+  "estLeCandidat": true
+ },
+ "assurance-chomage-2022/roussel": {
+  "trouve": true,
+  "orateur": "M. Pierre Dharréville",
+  "estLeCandidat": false
+ },
+ "assurance-chomage-2022/ruffin": {
+  "trouve": true,
+  "orateur": "M. François Ruffin",
+  "estLeCandidat": true
+ },
+ "assurance-chomage-2022/batho": {
+  "trouve": true,
+  "orateur": "Mme Marie-Charlotte Garin",
+  "estLeCandidat": false
+ },
+ "assurance-chomage-2022/lepen": {
+  "trouve": true,
+  "orateur": "Mme Marine Le Pen",
+  "estLeCandidat": true
+ },
+ "ceta/ruffin": {
+  "trouve": true,
+  "orateur": "M. François Ruffin",
+  "estLeCandidat": true
+ },
+ "ceta/batho": {
+  "trouve": true,
+  "orateur": "Mme Delphine Batho",
+  "estLeCandidat": true
+ },
+ "ceta/lepen": {
+  "trouve": true,
+  "orateur": "Mme Marine Le Pen",
+  "estLeCandidat": true
+ },
+ "ceta/dupontaignan": {
+  "trouve": true,
+  "orateur": "M. Nicolas Dupont-Aignan",
+  "estLeCandidat": true
+ },
+ "climat-resilience/melenchon": {
+  "trouve": true,
+  "orateur": "M. Jean-Luc Mélenchon",
+  "estLeCandidat": true
+ },
+ "climat-resilience/roussel": {
+  "trouve": true,
+  "orateur": "M. Hubert Wulfranc",
+  "estLeCandidat": false
+ },
+ "climat-resilience/ruffin": {
+  "trouve": true,
+  "orateur": "M. Loïc Prud'homme",
+  "estLeCandidat": false
+ },
+ "climat-resilience/batho": {
+  "trouve": true,
+  "orateur": "Mme Delphine Batho",
+  "estLeCandidat": true
+ },
+ "climat-resilience/dupontaignan": {
+  "trouve": true,
+  "orateur": "M. Nicolas Dupont-Aignan",
+  "estLeCandidat": true
+ },
+ "corse-autonome/lepen": {
+  "trouve": true,
+  "orateur": "Mme Marine Le Pen",
+  "estLeCandidat": true
+ },
+ "isf-ifi/melenchon": {
+  "trouve": true,
+  "orateur": "M. Jean-Luc Mélenchon",
+  "estLeCandidat": true
+ },
+ "isf-ifi/roussel": {
+  "trouve": true,
+  "orateur": "M. Fabien Roussel",
+  "estLeCandidat": true
+ },
+ "isf-ifi/ruffin": {
+  "trouve": true,
+  "orateur": "M. François Ruffin",
+  "estLeCandidat": true
+ },
+ "ivg-constitution/batho": {
+  "trouve": true,
+  "orateur": "Mme Cyrielle Chatelain",
+  "estLeCandidat": false
+ },
+ "ivg-constitution/attal": {
+  "trouve": true,
+  "orateur": "M. Gabriel Attal, Premier ministre",
+  "estLeCandidat": true,
+  "verifManuelle": true
+ },
+ "loi-duplomb/batho": {
+  "trouve": true,
+  "orateur": "Mme Delphine Batho",
+  "estLeCandidat": true
+ },
+ "lpm-2024-2030/roussel": {
+  "trouve": true,
+  "orateur": "M. Fabien Roussel",
+  "estLeCandidat": true
+ },
+ "lpm-2024-2030/ruffin": {
+  "trouve": true,
+  "orateur": "M. Aurélien Saintoul",
+  "estLeCandidat": false
+ },
+ "lpm-2024-2030/batho": {
+  "trouve": true,
+  "orateur": "Mme Cyrielle Chatelain",
+  "estLeCandidat": false
+ },
+ "lpm-2024-2030/lepen": {
+  "trouve": true,
+  "orateur": "M. Laurent Jacobelli",
+  "estLeCandidat": false
+ },
+ "narcotrafic/ruffin": {
+  "trouve": true,
+  "orateur": "Mme Sandra Regol",
+  "estLeCandidat": false
+ },
+ "narcotrafic/attal": {
+  "trouve": true,
+  "orateur": "M. Stéphane Mazars",
+  "estLeCandidat": false
+ },
+ "narcotrafic/retailleau": {
+  "trouve": true,
+  "orateur": "M. Bruno Retailleau , ministre d'État",
+  "estLeCandidat": true
+ },
+ "narcotrafic/lepen": {
+  "trouve": true,
+  "orateur": "M. Jocelyn Dessigny",
+  "estLeCandidat": false
+ },
+ "neonicotinoides-2020/batho": {
+  "trouve": true,
+  "orateur": "Mme Delphine Batho",
+  "estLeCandidat": true
+ },
+ "nouvelle-caledonie-2024/attal": {
+  "trouve": true,
+  "orateur": "M. Gabriel Attal , Premier ministre",
+  "estLeCandidat": true
+ },
+ "ordonnances-travail/melenchon": {
+  "trouve": true,
+  "orateur": "M. Jean-Luc Mélenchon",
+  "estLeCandidat": true
+ },
+ "ordonnances-travail/roussel": {
+  "trouve": true,
+  "orateur": "M. Fabien Roussel",
+  "estLeCandidat": true
+ },
+ "ordonnances-travail/ruffin": {
+  "trouve": true,
+  "orateur": "M. François Ruffin",
+  "estLeCandidat": true
+ },
+ "ordonnances-travail/batho": {
+  "trouve": true,
+  "orateur": "Mme Delphine Batho",
+  "estLeCandidat": true
+ },
+ "ordonnances-travail/attal": {
+  "trouve": true,
+  "orateur": "M. Aurélien Taché",
+  "estLeCandidat": false
+ },
+ "ordonnances-travail/lepen": {
+  "trouve": true,
+  "orateur": "Mme Marine Le Pen",
+  "estLeCandidat": true
+ },
+ "pass-vaccinal/melenchon": {
+  "trouve": true,
+  "orateur": "M. Jean-Luc Mélenchon",
+  "estLeCandidat": true
+ },
+ "pass-vaccinal/ruffin": {
+  "trouve": true,
+  "orateur": "M. François Ruffin",
+  "estLeCandidat": true
+ },
+ "pass-vaccinal/lepen": {
+  "trouve": true,
+  "orateur": "Mme Marine Le Pen",
+  "estLeCandidat": true
+ },
+ "pass-vaccinal/dupontaignan": {
+  "trouve": true,
+  "orateur": "M. Nicolas Dupont-Aignan",
+  "estLeCandidat": true
+ },
+ "pouvoir-achat-2022/roussel": {
+  "trouve": true,
+  "orateur": "M. Fabien Roussel",
+  "estLeCandidat": true
+ },
+ "pouvoir-achat-2022/ruffin": {
+  "trouve": true,
+  "orateur": "M. François Ruffin",
+  "estLeCandidat": true
+ },
+ "pouvoir-achat-2022/batho": {
+  "trouve": true,
+  "orateur": "Mme Delphine Batho",
+  "estLeCandidat": true
+ },
+ "pouvoir-achat-2022/retailleau": {
+  "trouve": true,
+  "orateur": "M. Philippe Mouiller",
+  "estLeCandidat": false
+ },
+ "pouvoir-achat-2022/lepen": {
+  "trouve": true,
+  "orateur": "Mme Marine Le Pen",
+  "estLeCandidat": true
+ },
+ "reseaux-sociaux-15/batho": {
+  "trouve": true,
+  "orateur": "Mme Lisa Belluco",
+  "estLeCandidat": false
+ },
+ "retention-210j/retailleau": {
+  "trouve": true,
+  "orateur": "M. Bruno Retailleau , ministre d'État",
+  "estLeCandidat": true
+ },
+ "rsa-15h/attal": {
+  "trouve": true,
+  "orateur": "M. Gabriel Attal , Premier ministre",
+  "estLeCandidat": true
+ },
+ "securite-globale/melenchon": {
+  "trouve": true,
+  "orateur": "M. Jean-Luc Mélenchon",
+  "estLeCandidat": true
+ },
+ "securite-globale/retailleau": {
+  "trouve": true,
+  "orateur": "M. Bruno Retailleau",
+  "estLeCandidat": true
+ },
+ "securite-globale/lepen": {
+  "trouve": true,
+  "orateur": "Mme Marine Le Pen",
+  "estLeCandidat": true
+ },
+ "separatisme/melenchon": {
+  "trouve": true,
+  "orateur": "M. Jean-Luc Mélenchon",
+  "estLeCandidat": true
+ },
+ "separatisme/roussel": {
+  "trouve": true,
+  "orateur": "M. Stéphane Peu",
+  "estLeCandidat": false
+ },
+ "separatisme/ruffin": {
+  "trouve": true,
+  "orateur": "M. Alexis Corbière",
+  "estLeCandidat": false
+ },
+ "separatisme/retailleau": {
+  "trouve": true,
+  "orateur": "M. Bruno Retailleau",
+  "estLeCandidat": true
+ },
+ "separatisme/lepen": {
+  "trouve": true,
+  "orateur": "Mme Marine Le Pen",
+  "estLeCandidat": true
+ },
+ "separatisme/dupontaignan": {
+  "trouve": true,
+  "orateur": "M. Nicolas Dupont-Aignan",
+  "estLeCandidat": true
+ },
+ "suspension-retraites/ruffin": {
+  "trouve": true,
+  "orateur": "M. François Ruffin",
+  "estLeCandidat": true
+ },
+ "suspension-retraites/batho": {
+  "trouve": true,
+  "orateur": "Mme Rousseau ! Mme Sandrine Rousseau",
+  "estLeCandidat": false
+ },
+ "suspension-retraites/attal": {
+  "trouve": true,
+  "orateur": "M. Gabriel Attal",
+  "estLeCandidat": true
+ },
+ "suspension-retraites/retailleau": {
+  "trouve": true,
+  "orateur": "M. Bruno Retailleau",
+  "estLeCandidat": true
+ },
+ "suspension-retraites/lepen": {
+  "trouve": true,
+  "orateur": "Mme Marine Le Pen",
+  "estLeCandidat": true
+ },
+ "taxe-zucman/ruffin": {
+  "trouve": true,
+  "orateur": "Mme Cyrielle Chatelain",
+  "estLeCandidat": false
+ },
+ "taxe-zucman/batho": {
+  "trouve": true,
+  "orateur": "Mme Cyrielle Chatelain",
+  "estLeCandidat": false
+ },
+ "taxe-zucman/attal": {
+  "trouve": true,
+  "orateur": "M. Charles Sitzenstuhl",
+  "estLeCandidat": false
+ },
+ "ukraine-accord/roussel": {
+  "trouve": true,
+  "orateur": "M. Fabien Roussel",
+  "estLeCandidat": true
+ },
+ "ukraine-accord/batho": {
+  "trouve": true,
+  "orateur": "Mme Cyrielle Chatelain",
+  "estLeCandidat": false
+ },
+ "ukraine-accord/attal": {
+  "trouve": true,
+  "orateur": "M. Gabriel Attal , Premier ministre",
+  "estLeCandidat": true
+ },
+ "ukraine-accord/retailleau": {
+  "trouve": true,
+  "orateur": "M. Bruno Retailleau",
+  "estLeCandidat": true
+ },
+ "ukraine-accord/lepen": {
+  "trouve": true,
+  "orateur": "Mme Marine Le Pen",
+  "estLeCandidat": true
+ }
+}

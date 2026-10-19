@@ -1,0 +1,214 @@
+{
+  "id": "loi-silt",
+  "titre": "Loi SILT : antiterrorisme après l'état d'urgence",
+  "question": "Faut-il intégrer au droit commun des mesures de l'état d'urgence (périmètres de protection, fermeture de lieux de culte, mesures de surveillance individuelles) pour lutter contre le terrorisme (loi SILT, 2017) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi renforçant la sécurité intérieure et la lutte contre le terrorisme (SILT) visait à permettre la sortie de l'état d'urgence, en vigueur depuis novembre 2015, en intégrant au droit commun des outils jusque-là réservés à ce régime : périmètres de protection, fermeture administrative de lieux de culte pour apologie ou provocation au terrorisme, mesures individuelles de contrôle administratif et de surveillance, visites domiciliaires et saisies. Ces quatre mesures ont été adoptées à titre expérimental jusqu'au 31 décembre 2020. L'Assemblée a adopté le texte en première lecture le 3 octobre 2017 (415 pour, 127 contre) ; après accord en commission mixte paritaire, il a été définitivement adopté par le Sénat le 18 octobre 2017 et promulgué le 30 octobre 2017 (loi n° 2017-1510). Saisi d'une QPC, le Conseil constitutionnel a censuré le 29 mars 2018 les dispositions permettant la saisie de documents et d'objets lors des visites.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi sécurité intérieure et lutte contre le terrorisme (loi SILT)",
+      "url": "https://www.vie-publique.fr/loi/20775-loi-securite-interieure-et-lutte-contre-le-terrorisme-loi-silt"
+    },
+    {
+      "titre": "Sénat – Dossier législatif du projet de loi (promulgation, loi n° 2017-1510)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl16-587.html"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°138",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/138"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/138",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/securite_interieure_lutte_terrorisme",
+  "argumentsPour": [
+    {
+      "auteur": "Marie Guévenoux (La République en marche)",
+      "resume": "Le texte cherche à concilier sécurité et libertés : sortir de l'état d'urgence, devenu durable, tout en assurant une sortie « maîtrisée ».",
+      "citation": "Comment concilier exigence de sécurité et respect de nos fondements démocratiques et de nos libertés individuelles ? Telle est la question qui a guidé le groupe majoritaire lors de l’examen de votre projet de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N001",
+      "date": "2017-10-03"
+    },
+    {
+      "auteur": "Laurence Vichnievsky (MODEM)",
+      "resume": "Le texte permet de sortir d'un régime d'exception tout en dotant l'État d'outils préventifs, dans un équilibre entre sécurité et libertés.",
+      "citation": "sortir de l’état d’urgence pour mettre fin à un régime qui doit rester exceptionnel et temporaire ; adapter le droit commun afin de doter l’État",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N001",
+      "date": "2017-10-03"
+    },
+    {
+      "auteur": "Olivier Dussopt (Nouvelle Gauche)",
+      "resume": "Les garanties obtenues, dont un contrôle parlementaire renforcé et une clause de revoyure, permettent selon son groupe de respecter l'équilibre entre liberté et sécurité.",
+      "citation": "permettent au texte de respecter l’équilibre fragile entre liberté et sécurité. C’est la raison pour laquelle nous voterons pour son adoption.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N001",
+      "date": "2017-10-03"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Guillaume Larrivé (Les Républicains)",
+      "resume": "Le texte affaiblirait la protection des Français en sortant de l'état d'urgence alors que la menace djihadiste s'amplifie : une « loi de désarmement ».",
+      "citation": "C’est pourtant, hélas, une loi de désarmement qui nous est proposée, aujourd’hui, par le président Emmanuel Macron et son gouvernement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N001",
+      "date": "2017-10-03"
+    },
+    {
+      "auteur": "Danièle Obono (La France insoumise)",
+      "resume": "Le texte pérenniserait des pouvoirs d'exception peu efficaces et contraires à la présomption d'innocence, au risque de dévoiements et de stigmatisation.",
+      "citation": "Nous entrons dans l’ère du soupçon généralisé, en opposition à la présomption d’innocence.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N001",
+      "date": "2017-10-03"
+    },
+    {
+      "auteur": "Hubert Wulfranc (Gauche démocrate et républicaine)",
+      "resume": "La lutte antiterroriste suppose un équilibre entre autorité administrative et autorité judiciaire, pas un glissement vers une logique de suspicion.",
+      "citation": "Elle ne passe pas par un glissement vers une logique de suspicion.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N001",
+      "date": "2017-10-03"
+    },
+    {
+      "auteur": "Marine Le Pen (non-inscrits, Front national)",
+      "resume": "Le texte serait « hors sujet » : le terrorisme relève d'actes de guerre appelant des règles spécifiques, et le texte ne s'attaque pas à l'idéologie islamiste.",
+      "citation": "La réalité, c’est qu’il faut arrêter de considérer le terrorisme comme un délit ou un crime classique, de droit commun.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E2N002",
+      "date": "2017-09-25"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°138 du 3 octobre 2017) ; pas d'intervention de fond retrouvée, argument = explication de vote de son groupe (Danièle Obono, LFI).",
+      "argument": "Groupe LFI : le texte installe durablement dans le droit commun des pouvoirs d'exception jugés inefficaces et contraires à la présomption d'innocence.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N001",
+      "date": "2017-10-03"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°138) ; pas d'intervention personnelle retrouvée, argument = explication de vote de son groupe GDR (Hubert Wulfranc).",
+      "argument": "Groupe GDR : la multiplication des textes antiterroristes n'est pas efficace et le texte glisse vers une logique de suspicion au détriment du juge judiciaire.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N001",
+      "date": "2017-10-03"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°138) ; il est intervenu dans les débats sur les contrôles d'identité, argument de fond = explication de vote de son groupe LFI (Danièle Obono).",
+      "argument": "Groupe LFI : pouvoirs d'exception pérennisés, peu efficaces et sources de stigmatisation ; lutter contre le terrorisme passerait par le renforcement des droits et des moyens des services.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N001",
+      "date": "2017-10-03"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2017 ; aucune déclaration retrouvée ; aucun groupe EELV à l'Assemblée en 2017 pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/138",
+      "date": "2017-10-03"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°138) ; membre du groupe Nouvelle Gauche à l'époque, argument = explication de vote du groupe (Olivier Dussopt), qu'elle a approuvée en séance (« Très bien ! »).",
+      "argument": "Groupe Nouvelle Gauche : les garanties obtenues (protection des mineurs, limitation dans le temps, contrôle parlementaire) assurent l'équilibre entre liberté et sécurité.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N001",
+      "date": "2017-10-03"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2017 (Place publique fondée en 2018) ; aucune déclaration retrouvée ; pas de proxy pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/138",
+      "date": "2017-10-03"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°138), alors député LaREM ; argument = explication de vote de son groupe (Marie Guévenoux).",
+      "argument": "Groupe LaREM : sortir de l'état d'urgence de façon maîtrisée en conciliant exigence de sécurité et respect des libertés individuelles.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N001",
+      "date": "2017-10-03"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a présenté le projet de loi (porté par Gérard Collomb, ministre de l'Intérieur) ; pas de déclaration personnelle retenue.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.vie-publique.fr/loi/20775-loi-securite-interieure-et-lutte-contre-le-terrorisme-loi-silt",
+      "date": "2017-10-03"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat sur le texte de la commission mixte paritaire (scrutin n°1 du 18 octobre 2017, liste « Pour » du groupe LR).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-1.html",
+      "date": "2017-10-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté majoritairement contre (5 pour / 84 contre / 9 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/138",
+      "date": "2017-10-03"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté majoritairement contre (5 pour / 84 contre / 9 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/138",
+      "date": "2017-10-03"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°138) ; intervention en séance le 25 septembre 2017.",
+      "argument": "Le terrorisme relève d'actes de guerre appelant des juridictions et règles spécifiques ; le texte ne s'attaque pas à l'idéologie islamiste ni aux mosquées radicales.",
+      "citation": "La réalité, c’est qu’il faut arrêter de considérer le terrorisme comme un délit ou un crime classique, de droit commun.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2017E2N002",
+      "date": "2017-09-25"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2017 (Reconquête fondé en 2021) ; aucune déclaration vérifiée ; pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/138",
+      "date": "2017-10-03"
+    },
+    "dupontaignan": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention nominative (scrutin n°138) ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/138",
+      "date": "2017-10-03"
+    }
+  },
+  "alertes": [
+    "Formulation : « assignations » remplacé par « mesures de surveillance individuelles », la loi créant des mesures individuelles de contrôle administratif et de surveillance (MICAS) qui succèdent aux assignations à résidence de l'état d'urgence ; polarité inchangée.",
+    "Le scrutin n°138 est celui de la première lecture ; le texte final (CMP) a été adopté par l'Assemblée le 11 octobre 2017 et par le Sénat le 18 octobre 2017.",
+    "Le groupe LR a voté contre au motif que le texte serait insuffisant face à la menace (et non pour défendre les libertés) : un vote « contre » recouvre donc des motivations opposées (LR/FN d'un côté, LFI/GDR de l'autre).",
+    "Mélenchon, Roussel, Ruffin, Batho, Attal : arguments tirés de l'explication de vote de leur groupe, faute d'intervention personnelle de fond retrouvée. Ruffin est intervenu sur les contrôles d'identité (récépissé), sujet connexe.",
+    "Le Pen : citation tirée de la deuxième séance du 25 septembre 2017 (discussion), pas de l'explication de vote.",
+    "Philippe : position déduite de sa fonction de Premier ministre. Retailleau : vote sur le texte de CMP au Sénat, pas sur la version de première lecture de l'Assemblée.",
+    "Tondelier, Glucksmann, Zemmour : aucune position retrouvée ; Bertrand et Lisnard : proxy LR seulement."
+  ]
+}

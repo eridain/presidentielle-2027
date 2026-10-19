@@ -1,0 +1,213 @@
+{
+  "id": "interdiction-portable-ecole",
+  "titre": "Interdiction du portable à l'école et au collège",
+  "question": "Faut-il interdire l'usage du téléphone portable dans les écoles et les collèges ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi de Richard Ferrand et des députés LaREM, traduction d'une promesse de campagne d'Emmanuel Macron, pose le principe de l'interdiction de l'usage du téléphone portable et des autres objets connectés dans les écoles et les collèges, sauf exceptions (notamment pédagogiques) prévues par le règlement intérieur ; elle autorise la confiscation et permet aux lycées d'étendre l'interdiction. Le code de l'éducation l'interdisait déjà en classe et dans les lieux fixés par le règlement intérieur. L'Assemblée a adopté le texte de la commission mixte paritaire le 30 juillet 2018 (62 pour, 1 contre, 14 abst.) ; LFI, GDR, Nouvelle Gauche et LR se sont abstenus, jugeant surtout le texte inutile. La loi n° 2018-698 du 3 août 2018 s'applique depuis la rentrée 2018.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/interdiction_usage_telephone_portable_ecoles_colleges"
+    },
+    {
+      "titre": "Sénat – dossier législatif ppl17-558",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl17-558.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 30 juillet 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2017-2018/seance-du-lundi-30-juillet-2018"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/interdiction_usage_telephone_portable_ecoles_colleges",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-Michel Blanquer (ministre de l'Éducation nationale)",
+      "resume": "L'interdiction garantit un environnement propice à l'attention et à la concentration des élèves.",
+      "citation": "Durant les activités d’enseignement, l’interdiction de l’usage des téléphones portables permettra de garantir aux élèves un environnement favorisant l’attention, la concentration et la réflexion indispensables à l’activité, à la compréhension et à la mémorisation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2017-2018/seance-du-lundi-30-juillet-2018",
+      "date": "2018-07-30"
+    },
+    {
+      "auteur": "Jean-Michel Blanquer (ministre de l'Éducation nationale)",
+      "resume": "Une cour sans portable favorise le jeu et les échanges ; les établissements qui l'ont interdit constatent moins de cyberharcèlement.",
+      "citation": "Les chefs d’établissement nous le disent tous : une cour sans portable, c’est une cour où les enfants jouent, discutent et vivent leur vie d’enfant.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2017-2018/seance-du-lundi-30-juillet-2018",
+      "date": "2018-07-30"
+    },
+    {
+      "auteur": "Béatrice Descamps (UDI, Agir et indépendants)",
+      "resume": "Le texte sécurise l'action des chefs d'établissement, alors que près de 40 % des incidents sont liés au portable.",
+      "citation": "Elle permettra de sécuriser l’action des directeurs d’établissement et d’éviter des conflits inutiles, dans un contexte où près de 40 % des incidents sont aujourd’hui liés à l’utilisation du téléphone portable en milieu scolaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2017-2018/seance-du-lundi-30-juillet-2018",
+      "date": "2018-07-30"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Alain David (Nouvelle Gauche, abstention)",
+      "resume": "Un texte d'affichage politique : la loi permet déjà d'interdire le portable, et la moitié des collèges le font.",
+      "citation": "Cette proposition de loi relève malheureusement plus de l’affichage politique que d’un travail législatif sérieux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2017-2018/seance-du-lundi-30-juillet-2018",
+      "date": "2018-07-30"
+    },
+    {
+      "auteur": "Elsa Faucillon (GDR, abstention)",
+      "resume": "La loi se contente de rappeler ce que les règlements prévoient déjà, sans nouveaux outils pour les établissements.",
+      "citation": "Quelle est donc l’utilité d’une loi qui se contente de rappeler ce que les règlements des établissements scolaires prévoient déjà ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2017-2018/seance-du-lundi-30-juillet-2018",
+      "date": "2018-07-30"
+    },
+    {
+      "auteur": "Frédéric Reiss (Les Républicains, abstention)",
+      "resume": "Le texte final s'éloigne de son objectif initial d'interdiction, avec de nombreuses exceptions.",
+      "citation": "On est loin de l’objectif initial de la proposition de loi, qui était d’interdire le téléphone portable à l’école.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2017-2018/seance-du-lundi-30-juillet-2018",
+      "date": "2018-07-30"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Alexis Corbière (La France insoumise)",
+      "resume": "Opposé au portable en classe, LFI s'abstient car le texte ne donne pas les moyens humains et pédagogiques d'atteindre son but.",
+      "citation": "Nous nous abstiendrons, vous l’aurez compris, car nous sommes défavorables à l’utilisation des téléphones portables dans les établissements scolaires, mais nous reprochons au texte son impuissance à atteindre les buts recherchés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2017-2018/seance-du-lundi-30-juillet-2018",
+      "date": "2018-07-30"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif : abstention à l'Assemblée nationale (scrutin n°1191 du 30 juillet 2018) ; pas d'intervention personnelle : argument tiré de l'explication de vote de son groupe (Alexis Corbière).",
+      "argument": "LFI est défavorable au portable dans les établissements, mais juge le texte impuissant faute de moyens pédagogiques.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2017-2018/seance-du-lundi-30-juillet-2018",
+      "date": "2018-07-30"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°1111) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR a voté : abstention (0p/0c/1a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°1111) ; aucune déclaration retrouvée. À titre indicatif, son groupe FI a voté : abstention (0p/0c/5a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ni de responsabilité nationale à EELV en 2018 ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°1191) ; aucune déclaration retrouvée. Les non-inscrits votants se sont abstenus (1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat en 2018 ; aucune déclaration retrouvée. À titre indicatif, le groupe Nouvelle Gauche (socialistes) s'est abstenu (2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour à l'Assemblée nationale (scrutin n°1191 du 30 juillet 2018), alors député LaREM ; pas d'intervention personnelle retrouvée dans le compte rendu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui soutenait la proposition de loi (ministre Jean-Michel Blanquer au banc) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2017-2018/seance-du-lundi-30-juillet-2018",
+      "date": "2018-07-30"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; aucun scrutin public retrouvé au Sénat sur ce texte, aucune déclaration retrouvée. À titre indicatif, le groupe LR de l'Assemblée s'est abstenu (0 pour / 1 contre / 5 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe LR de l'Assemblée s'est abstenu (5 abst. / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) s'est abstenu (5 abst. / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°1191) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2018 ; aucune déclaration vérifiable retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non-inscrit, n'a pas pris part au vote (scrutin n°1191) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1111",
+      "date": "2018-07-30"
+    }
+  },
+  "alertes": [
+    "Les abstentionnistes (LFI, GDR, socialistes, LR) ne défendaient pas le portable à l'école : ils jugeaient le texte inutile, l'interdiction étant déjà possible par le règlement intérieur. Les « arguments contre » sont donc des critiques de groupes qui se sont abstenus.",
+    "Le texte autorise des exceptions (usages pédagogiques, lieux prévus par le règlement intérieur) : ce n'est pas une interdiction absolue.",
+    "Mélenchon : abstention certaine, argument repris de l'explication de vote du groupe LFI (non personnel).",
+    "Philippe : position déduite de son rôle de Premier ministre.",
+    "Retailleau : aucun scrutin public trouvé au Sénat (vote probablement à main levée)."
+  ]
+}

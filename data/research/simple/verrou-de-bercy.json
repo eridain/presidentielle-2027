@@ -1,0 +1,13 @@
+{
+  "id": "verrou-de-bercy",
+  "questionSimple": "Faut-il adopter la loi anti-fraude de 2018, qui envoie automatiquement les plus grosses fraudes fiscales devant la justice ?",
+  "enBref": "Avant 2018, seul le ministère des Finances décidait de porter plainte contre un fraudeur fiscal. Avec cette loi, les fraudes graves de plus de 100 000 euros sont transmises d'office à la justice. La loi crée aussi une police fiscale et permet aux fraudeurs de négocier une sanction avec la justice.",
+  "pourquoiPour": "Pour ses défenseurs, la loi met fin au monopole de Bercy sur les poursuites. Les gros fraudeurs iront automatiquement devant un procureur, avec plus de sanctions et de transparence.",
+  "pourquoiContre": "Pour ses opposants à gauche, l'ouverture du verrou est utile mais trop limitée. Surtout, la loi permet aux gros fraudeurs de négocier avec la justice et d'éviter un procès public.",
+  "ceQuiSestPasse": "La loi a été adoptée (112 voix contre 14) puis promulguée le 23 octobre 2018.",
+  "lexique": [
+    {"terme": "Verrou de Bercy", "definition": "Règle qui réservait à l'administration fiscale la décision de poursuivre un fraudeur en justice."},
+    {"terme": "Parquet", "definition": "Magistrats (procureurs) chargés de lancer les poursuites pénales."},
+    {"terme": "Commission mixte paritaire (CMP)", "definition": "Groupe de députés et sénateurs qui rédige un texte commun aux deux assemblées."}
+  ]
+}

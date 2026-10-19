@@ -1,0 +1,212 @@
+{
+  "id": "partage-valeur-ani",
+  "titre": "Partage de la valeur en entreprise (ANI 2023)",
+  "question": "Faut-il obliger les entreprises de 11 à 49 salariés durablement bénéficiaires à partager la valeur avec leurs salariés (intéressement, participation ou prime), comme le prévoit l'accord interprofessionnel de 2023 ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi transpose l'accord national interprofessionnel du 10 février 2023 sur le partage de la valeur, signé par la majorité des organisations patronales et syndicales représentatives. À titre expérimental pour cinq ans, il oblige les sociétés de 11 à 49 salariés dont le bénéfice net fiscal atteint au moins 1 % du chiffre d'affaires trois années de suite à mettre en place un dispositif de partage de la valeur (participation, intéressement, prime de partage de la valeur ou abondement d'un plan d'épargne salariale). Il facilite aussi la participation dans les PME, prévoit une négociation sur les bénéfices exceptionnels dans les grandes entreprises et développe l'actionnariat salarié. Le texte de la CMP a été adopté par l'Assemblée le 22 novembre 2023 (158 voix contre 36, 11 abstentions) et la loi promulguée le 29 novembre 2023 (loi n° 2023-1107).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/partage_valeur_accord"
+    },
+    {
+      "titre": "Service-public.fr – Prime de partage de la valeur et obligation des entreprises de 11 à 49 salariés",
+      "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35235"
+    },
+    {
+      "titre": "Sénat – Scrutin n°5 du 17 octobre 2023",
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-5.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3009",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/partage_valeur_accord",
+  "argumentsPour": [
+    {
+      "auteur": "Félicie Gérard (Horizons)",
+      "resume": "L'accord transposé, signé par la majorité des organisations patronales et syndicales, est un succès du dialogue social qu'il faut respecter.",
+      "citation": "L’accord national interprofessionnel qu’il transpose est un réel succès à mettre au crédit du dialogue social entre entreprises et salariés de notre pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N058",
+      "date": "2023-11-22"
+    },
+    {
+      "auteur": "Stéphane Viry (LR)",
+      "resume": "La droite soutient le dialogue social ; la loi est utile et concrète pour de nombreux Français.",
+      "citation": "Le dialogue social a toujours été soutenu par notre groupe parlementaire et par la droite républicaine car il est vital pour la cohésion sociale de notre pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N058",
+      "date": "2023-11-22"
+    },
+    {
+      "auteur": "Frédéric Cabrolier (RN)",
+      "resume": "Étendre participation et intéressement aux entreprises de moins de 50 salariés améliorera la productivité, à condition de ne pas remplacer les hausses de salaire.",
+      "citation": "Le déploiement de la participation et de l’intéressement dans les entreprises de moins de 50 salariés devrait se traduire par plus de productivité dans ces entreprises.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N058",
+      "date": "2023-11-22"
+    },
+    {
+      "auteur": "Michèle Peyron (Renaissance)",
+      "resume": "La CMP respecte le dialogue entre partenaires sociaux et prolonge les mesures de la loi PACTE.",
+      "citation": "Notre groupe se réjouit de l’issue positive de la CMP, qui respecte avant tout le dialogue entre les partenaires sociaux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N058",
+      "date": "2023-11-22"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Matthias Tavel (LFI-NUPES)",
+      "resume": "Le texte repose sur des exonérations de cotisations et donne des « miettes » aux salariés ; des primes remplacent des hausses de salaire.",
+      "citation": "Il ne repose que sur des exonérations de cotisations sociales ou d’impôts au profit de primes, de l’intéressement et de la participation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N058",
+      "date": "2023-11-22"
+    },
+    {
+      "auteur": "Pierre Dharréville (GDR-NUPES)",
+      "resume": "Le salaire, qui ouvre des droits sociaux, est plus puissant que la participation, l'intéressement et les primes.",
+      "citation": "Pour des raisons évidentes, vous refusez donc de parler salaire et cotisations.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N058",
+      "date": "2023-11-22"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Eva Sas (Écologiste-NUPES)",
+      "resume": "Le principal outil de partage de la valeur est l'augmentation des salaires, que le gouvernement cherche à contourner.",
+      "citation": "Le principal outil de partage de la valeur dans l’entreprise, c’est bien l’augmentation des salaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N058",
+      "date": "2023-11-22"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2022 ; pas de déclaration retrouvée. Proxy indicatif : le groupe LFI-NUPES a voté contre (1 pour, 31 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin AN n°3009). Proxy indicatif : le groupe GDR-NUPES a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin AN n°3009). Proxy indicatif : le groupe LFI-NUPES a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale d'EELV, sans mandat parlementaire ; pas de déclaration retrouvée. Proxy indicatif : le groupe Écologiste-NUPES s'est abstenu (11 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°3009). Proxy indicatif : le groupe Écologiste-NUPES, auquel elle appartient, s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste, allié de Place publique, a voté pour (9 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'éducation nationale ; membre du gouvernement Borne qui a porté le projet de loi.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/partage_valeur_accord",
+      "date": "2023-11-22"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; pas de déclaration retrouvée. Proxy indicatif : le groupe Horizons a voté pour (11 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat ; a voté pour le projet de loi en première lecture (scrutin Sénat n°5 du 17 octobre 2023).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-5.html",
+      "date": "2023-10-17"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; pas de déclaration retrouvée. Proxy indicatif : le groupe LR de l'Assemblée a voté pour (10 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; pas de déclaration retrouvée. Proxy indicatif : le groupe LR de l'Assemblée a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°3009). Proxy indicatif : le groupe RN, qu'elle préside, a voté pour (33 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée en 2023 ; pas de déclaration retrouvée, pas de proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député non inscrit, n'a pas pris part au vote (scrutin AN n°3009).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Scrutin à participation moyenne (205 votants) : aucun des candidats députés n'a pris part au vote ; aucune déclaration personnelle retrouvée.",
+    "L'obligation pour les entreprises de 11 à 49 salariés est expérimentale (cinq ans) et s'applique aux exercices ouverts à partir du 1er janvier 2025 selon service-public.fr ; elle ne fixe pas de montant minimal.",
+    "Le RN et les socialistes ont voté pour ; LFI et GDR contre ; les écologistes se sont abstenus.",
+    "Retailleau : vote au Sénat sur la première lecture (17 octobre 2023), et non sur le texte de la CMP."
+  ]
+}

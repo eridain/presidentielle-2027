@@ -1,0 +1,219 @@
+{
+  "id": "testing-discriminations",
+  "titre": "Tests de discrimination (« testing ») par l'État",
+  "question": "Faut-il organiser des campagnes de « testing » pour détecter et rendre publiques les discriminations à l'embauche et au logement ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi de Marc Ferracci (Renaissance) charge un service placé sous l'autorité du Premier ministre – la Dilcrah – de réaliser des tests de discrimination individuels (pouvant servir de preuve en justice) et statistiques (envois massifs de candidatures fictives), notamment à l'embauche. Un test statistique positif suivi d'inaction peut entraîner une amende administrative (jusqu'à 1 % de la masse salariale dans la version de la commission) et la publication des résultats (« name and shame »). L'Assemblée l'a adoptée en première lecture le 6 décembre 2023 (102 pour, 81 contre), avec l'opposition de la gauche (hors écologistes partagés), de LR et du RN. Le Sénat l'a adoptée modifiée le 12 mars 2024, la commission mixte paritaire a échoué le 13 mars 2024 et la navette n'était pas achevée à la dissolution de juin 2024.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif « tests de discriminations »",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/tests_discriminations"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 6 décembre 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-decembre-2023"
+    },
+    {
+      "titre": "Sénat – scrutins publics sur le texte",
+      "url": "https://www.senat.fr/scrutin-public/dossiers/ppl23-183_scr.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/tests_discriminations",
+  "argumentsPour": [
+    {
+      "auteur": "Marc Ferracci (Renaissance, rapporteur)",
+      "resume": "Les tests ont fait la preuve de leur efficacité pour révéler les discriminations ; les systématiser renforce l'arsenal existant.",
+      "citation": "La présente proposition de loi vise donc à systématiser la pratique de ces deux types de tests et ainsi à renforcer l’arsenal de lutte contre les discriminations dans notre pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-decembre-2023",
+      "date": "2023-12-06"
+    },
+    {
+      "auteur": "Jean-Félix Acquaviva (LIOT)",
+      "resume": "Publier le nom d'une entreprise qui discrimine et refuse de se corriger devient une nécessité.",
+      "citation": "Quant au name and shame , lorsqu’une entreprise discrimine nos citoyens et se refuse à prendre des mesures correctrices, publier son nom et mettre à la vue de tous ces pratiques devient une nécessité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-decembre-2023",
+      "date": "2023-12-06"
+    },
+    {
+      "auteur": "Clara Chassaniol (Renaissance)",
+      "resume": "L'encadrement légal sécurise la publication des résultats, dont le but est d'engager un dialogue plutôt que de jeter l'opprobre.",
+      "citation": "Un tel encadrement permet de sécuriser juridiquement le name and shame , d’autant que l’objectif ne soit pas de jeter l’opprobre, mais bien d’engager un dialogue.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-decembre-2023",
+      "date": "2023-12-06"
+    },
+    {
+      "auteur": "Philippe Latombe (MoDem)",
+      "resume": "Les tests, utilisés depuis longtemps à l'étranger, ont prouvé leur efficacité.",
+      "citation": "Les tests de discriminations, utilisés depuis longtemps dans d’autres pays, ont déjà largement prouvé leur efficacité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-decembre-2023",
+      "date": "2023-12-06"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Raphaël Schellenberger (Les Républicains)",
+      "resume": "Le texte ferait peser sur les entreprises une présomption de culpabilité quasi systématique et risquerait de judiciariser l'embauche.",
+      "citation": "Deuxième problème, nous risquons de renverser la situation en appliquant aux entreprises une présomption de culpabilité quasi systématique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-decembre-2023",
+      "date": "2023-12-06"
+    },
+    {
+      "auteur": "Emmanuel Blairy (Rassemblement national)",
+      "resume": "Le texte ajoute une charge aux entreprises et les cloue au pilori au lieu de sanctionner pénalement les auteurs de discriminations.",
+      "citation": "Au fond, vous menacez les entreprises, au lieu de les associer à la lutte contre les discriminations ou de les condamner pénalement lorsqu’elles en commettent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-decembre-2023",
+      "date": "2023-12-06"
+    },
+    {
+      "auteur": "Carlos Martens Bilongo (La France insoumise)",
+      "resume": "Une réforme jugée trop timide, sans effet dissuasif : un outil de mesure ne fait pas une politique publique.",
+      "citation": "Toutefois, je le crains, cette réforme est trop timide, floue et manque d’ambition.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-decembre-2023",
+      "date": "2023-12-06"
+    },
+    {
+      "auteur": "Frédéric Maillot (GDR)",
+      "resume": "Favorable aux tests statistiques, le groupe refuse que des tests à visée contentieuse soient menés par un service de l'État plutôt que par le Défenseur des droits.",
+      "citation": "Toutefois, nous demeurons opposés à ce que cette nouvelle entité réalise des tests individuels à visée contentieuse.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-decembre-2023",
+      "date": "2023-12-06"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire à cette date (non candidat aux législatives de 2022) ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour / 24 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3144) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR - NUPES a voté : contre (0p/4c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3144) ; aucune déclaration retrouvée. À titre indicatif, son groupe LFI - NUPES a voté : contre (0p/24c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste-NUPES s'est partagé (2 pour / 2 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3144) ; aucune déclaration retrouvée. À titre indicatif, son groupe Ecolo - NUPES a voté : partagé (2p/2c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Éducation nationale du gouvernement Borne, qui soutenait le texte (procédure accélérée engagée, ministre déléguée Bérangère Couillard au banc) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-decembre-2023",
+      "date": "2023-12-06"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons, issu de son parti, a voté pour (5 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour l'ensemble de la proposition de loi au Sénat, dans la version modifiée par le Sénat (scrutin public n°154 du 12 mars 2024).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-154.html",
+      "date": "2024-03-12"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour / 13 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (0 pour / 13 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3144) ; aucune déclaration retrouvée. À titre indicatif, son groupe RN a voté : contre (0p/31c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée ; Reconquête n'avait pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non-inscrit, n'a pas pris part au vote (scrutin n°3144) ; aucune déclaration retrouvée ; pas de groupe servant de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3144",
+      "date": "2023-12-06"
+    }
+  },
+  "alertes": [
+    "Le vote « contre » réunit des motivations opposées : la gauche (LFI, SOC, GDR) jugeait le texte trop faible ou contestait le rôle confié à un service de l'État plutôt qu'au Défenseur des droits ; LR et le RN y voyaient une charge et une suspicion injustifiées pour les entreprises.",
+    "Retailleau : il a voté pour la version du Sénat, modifiée par rapport au texte de l'Assemblée (amendement Rietmann adopté à l'article 1er) ; ce vote ne vaut pas approbation de la version adoptée par les députés.",
+    "Issue : CMP en désaccord le 13 mars 2024 ; le dossier apparaît en 17e législature (deuxième lecture inscrite au 23 juillet 2024 sur la page AN) ; aucune promulgation n'a été vérifiée.",
+    "Scrutin à participation moyenne (183 votants) : Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote.",
+    "Philippe : proxy Horizons donné à titre indicatif ; Attal : position déduite de l'appartenance au gouvernement."
+  ]
+}

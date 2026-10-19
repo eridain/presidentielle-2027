@@ -1,0 +1,22 @@
+{
+  "id": "derives-sectaires",
+  "questionSimple": "Faut-il punir le fait de pousser quelqu'un à abandonner un traitement médical, pour lutter contre les dérives sectaires ?",
+  "enBref": "La loi punit ceux qui poussent une personne malade à arrêter des soins nécessaires, quand cela met clairement sa santé en danger. Elle crée aussi un délit d'emprise psychologique. Elle renforce l'aide aux victimes de mouvements sectaires.",
+  "pourquoiPour": "Pour ses défenseurs, de faux guérisseurs convainquent des malades de renoncer à leurs soins, et la loi actuelle ne suffit pas. Le texte ne vise ni la critique médicale ni le libre choix des patients.",
+  "pourquoiContre": "Pour ses opposants, ce nouveau délit est inutile, car d'autres infractions existent déjà. Il risquerait aussi de menacer la liberté d'expression, comme l'avait relevé le Conseil d'État.",
+  "ceQuiSestPasse": "Adoptée définitivement le 9 avril 2024, la loi a été validée sur ce délit par le Conseil constitutionnel et promulguée le 10 mai 2024.",
+  "lexique": [
+    {
+      "terme": "Dérive sectaire",
+      "definition": "Emprise d'un groupe ou d'une personne qui manipule quelqu'un au point de lui nuire."
+    },
+    {
+      "terme": "Miviludes",
+      "definition": "Service de l'État chargé de surveiller et combattre les dérives sectaires."
+    },
+    {
+      "terme": "Question préalable",
+      "definition": "Vote par lequel le Sénat refuse d'examiner un texte, ce qui revient à le rejeter."
+    }
+  ]
+}

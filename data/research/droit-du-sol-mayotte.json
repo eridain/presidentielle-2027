@@ -1,0 +1,216 @@
+{
+  "id": "droit-du-sol-mayotte",
+  "titre": "Durcissement du droit du sol à Mayotte",
+  "question": "Faut-il durcir le droit du sol à Mayotte en exigeant que les deux parents résident régulièrement en France depuis au moins un an à la naissance de l'enfant ?",
+  "ouiSignifie": "pour",
+  "contexte": "Depuis la loi de 2018, un enfant né à Mayotte de parents étrangers ne peut devenir français par le droit du sol que si l'un de ses parents résidait régulièrement en France depuis au moins trois mois à sa naissance. La proposition de loi du député Philippe Gosselin (Droite républicaine) étend cette condition aux deux parents (sauf famille monoparentale), porte la durée à un an et exige un passeport biométrique. Soutenue par le gouvernement Bayrou (procédure accélérée), elle a été adoptée définitivement le 8 avril 2025 (339 voix contre 174). Le Conseil constitutionnel l'a déclarée conforme sous une réserve sur le passeport biométrique (décision n° 2025-881 DC du 7 mai 2025) ; la loi a été promulguée le 12 mai 2025.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 12 mai 2025 visant à renforcer les conditions d'accès à la nationalité française à Mayotte",
+      "url": "https://www.vie-publique.fr/loi/297235-droit-du-sol-mayotte-loi-du-12-mai-2025-acces-la-nationalite-francaise"
+    },
+    {
+      "titre": "Le Monde – Mayotte : le durcissement du droit du sol adopté définitivement par le Parlement (8 avril 2025)",
+      "url": "https://lemonde.fr/politique/article/2025/04/08/mayotte-le-durcissement-du-droit-du-sol-adopte-definitivement-par-le-parlement_6592803_823448.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 8 avril 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°1308",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_conditions_acces_nationalite_francaise_mayotte",
+  "argumentsPour": [
+    {
+      "auteur": "Philippe Gosselin (Droite républicaine, rapporteur)",
+      "resume": "Mayotte subit une pression migratoire exceptionnelle ; la perspective d'obtenir la nationalité française attire l'immigration irrégulière, d'où des conditions plus strictes.",
+      "citation": "Toutefois, les perspectives d’accès à la nationalité française constituent un facteur indéniable d’attractivité pour l’immigration irrégulière.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164",
+      "date": "2025-04-08"
+    },
+    {
+      "auteur": "Sophie Primas (porte-parole du gouvernement)",
+      "resume": "Le texte adapte le droit de la nationalité aux spécificités de Mayotte, sans remettre en cause le droit du sol, avec une exception pour les familles monoparentales.",
+      "citation": "Ce texte vise à adapter notre droit de la nationalité aux spécificités de Mayotte, dans le respect du cadre constitutionnel et des exigences de l’État de droit.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164",
+      "date": "2025-04-08"
+    },
+    {
+      "auteur": "Estelle Youssouffa (LIOT, députée de Mayotte)",
+      "resume": "L'archipel subit une pression migratoire sans équivalent dans le reste du pays, aggravée par le cyclone Chido.",
+      "citation": "Depuis des années, Mayotte subit une pression migratoire sans commune mesure avec celle que connaît le reste du pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164",
+      "date": "2025-04-08"
+    },
+    {
+      "auteur": "Marine Le Pen (Rassemblement national)",
+      "resume": "Le RN vote le texte tout en jugeant son effet minime ; la priorité serait selon elle de supprimer le droit du sol sur tout le territoire.",
+      "citation": "La première urgence consisterait – vous le savez – à supprimer purement et simplement le droit du sol, non seulement à Mayotte, mais sur l’ensemble du territoire national.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164",
+      "date": "2025-04-08"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Aurélien Taché (La France insoumise)",
+      "resume": "Le droit du sol est déjà plus restreint à Mayotte qu'ailleurs ; le texte le priverait de toute effectivité et romprait l'égalité républicaine.",
+      "citation": "Alors que cette possibilité y est déjà plus réduite qu’ailleurs, l’adoption du texte de Philippe Gosselin reviendrait à priver le droit du sol à Mayotte de toute effectivité, ce qui serait absolument inacceptable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164",
+      "date": "2025-04-08"
+    },
+    {
+      "auteur": "Dominique Voynet (Écologiste et social)",
+      "resume": "Le droit du sol a déjà été restreint en 2018 ; il fallait évaluer cette loi avant tout nouveau durcissement, adopté sans étude d'impact.",
+      "citation": "Le droit du sol a déjà été considérablement restreint à Mayotte par la loi du 10 septembre 2018.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164",
+      "date": "2025-04-08"
+    },
+    {
+      "auteur": "Colette Capdevielle (Socialistes)",
+      "resume": "Le texte serait inutile et contraire à la Constitution, notamment au regard de l'indivisibilité de la République et de l'égalité.",
+      "citation": "Outre son inutilité, ce texte est surtout pétri d’inconstitutionnalités manifestes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164",
+      "date": "2025-04-08"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1308 du 8 avril 2025) ; aucune intervention personnelle retrouvée : argument = explication de son groupe Écologiste et social (Dominique Voynet).",
+      "argument": "Le droit du sol a déjà été restreint à Mayotte en 2018 ; un nouveau durcissement, sans étude d'impact ni évaluation de la loi précédente, n'est pas justifié.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164",
+      "date": "2025-04-08"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°1308) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel elle appartient, a voté contre (0-32).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "date": "2025-04-08"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1308), président du groupe EPR ; aucune intervention personnelle ni explication de vote EPR retrouvée dans ce débat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "date": "2025-04-08"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1308) ; intervention en séance comme présidente du groupe RN.",
+      "argument": "Elle soutient le texte inscrit à la demande du RN, mais juge son effet minime : il faudrait supprimer le droit du sol partout et appliquer la priorité nationale à Mayotte.",
+      "citation": "Nous avons eu l’occasion de le dire pendant le débat, son effet sur la vie de nos compatriotes mahorais et sur le déferlement migratoire subi par Mayotte sera minime.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164",
+      "date": "2025-04-08"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NFP a voté contre (0-65).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "date": "2025-04-08"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR (communistes) a voté contre (0-13).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "date": "2025-04-08"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social a voté contre (0-32).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "date": "2025-04-08"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes, allié de Place publique, a voté contre (0-61-3).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "date": "2025-04-08"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; en août 2026, il propose d'aller plus loin que la loi de 2025 en suspendant totalement le droit du sol à Mayotte.",
+      "argument": "Juge qu'il faut aller au-delà de la restriction de 2025 et suspendre le droit du sol à Mayotte pendant plusieurs années, avec un moratoire sur l'immigration dans l'archipel.",
+      "citation": "il faut aller encore plus loin et le suspendre totalement pendant plusieurs années",
+      "url": "https://www.lemonde.fr/election-presidentielle-2027/article/2026/08/20/presidentielle-2027-edouard-philippe-veut-fermer-totalement-les-vannes-de-l-immigration-a-mayotte-et-suspendre-le-droit-du-sol_6750751_6205049.html",
+      "date": "2026-08-20"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou, qui a soutenu le texte et engagé la procédure accélérée ; pas de déclaration personnelle vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N164",
+      "date": "2025-04-08"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine (LR) a voté pour (47-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "date": "2025-04-08"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour (47-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "date": "2025-04-08"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration spécifique retrouvée ; Reconquête n'a pas de groupe à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "date": "2025-04-08"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration spécifique retrouvée ; Debout la France n'a pas de groupe à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1308",
+      "date": "2025-04-08"
+    }
+  },
+  "alertes": [
+    "Question légèrement reformulée : la condition porte sur une résidence régulière « en France » (et non « à Mayotte ») d'au moins un an des deux parents, avec une exception pour les familles monoparentales.",
+    "Philippe : déclaration d'août 2026 (Le Monde) proposant d'aller plus loin que la loi ; elle ne porte pas sur le vote de 2025 lui-même. Position « pour » déduite de cette surenchère.",
+    "Le Pen a voté pour tout en jugeant le texte insuffisant ; Retailleau : position déduite de son appartenance au gouvernement qui soutenait le texte.",
+    "Attal : aucune déclaration personnelle retrouvée ; le groupe EPR n'apparaît pas parmi les orateurs de la séance du 8 avril 2025.",
+    "La décision 2025-881 DC n'a pas pu être lue sur le site du Conseil constitutionnel (page vide) ; son contenu est repris de Vie publique."
+  ]
+}

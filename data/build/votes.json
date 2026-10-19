@@ -1,0 +1,7036 @@
+[
+ {
+  "id": "ordonnances-travail",
+  "theme": "Travail & économie",
+  "scrutin": "VTANR5L15V314",
+  "question": "Faut-il réformer le Code du travail par ordonnances (barème plafonné des indemnités prud'homales, fusion des instances représentatives, primauté des accords d'entreprise) ?",
+  "sens": "pour=oui",
+  "date": "2017-11-28",
+  "titreScrutin": "l'ensemble du projet de loi ratifiant diverses ordonnances prises sur le fondement de la loi n° 2017-1340 du 15 septembre 2017 d'habilitation à prendre les mesures pour le renforcement du dialogue social (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 463,
+  "contre": 74,
+  "abstention": 20,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/314",
+  "groupes": [
+   {
+    "organe": "PO730964",
+    "libelle": "La République en Marche",
+    "abrege": "LaREM",
+    "membres": 312,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 306,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO730934",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 100,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 82,
+    "contre": 0,
+    "abstention": 15,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730970",
+    "libelle": "Mouvement Démocrate et apparentés",
+    "abrege": "MODEM",
+    "membres": 47,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 41,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730952",
+    "libelle": "Les Constructifs : républicains, UDI, indépendants",
+    "abrege": "LC",
+    "membres": 35,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 34,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730946",
+    "libelle": "Nouvelle Gauche",
+    "abrege": "NG",
+    "membres": 31,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 30,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO723569",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 18,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 11,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730958",
+    "libelle": "La France insoumise",
+    "abrege": "FI",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730940",
+    "libelle": "Gauche démocrate et républicaine",
+    "abrege": "GDR",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 16,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NG",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "LaREM",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "isf-ifi",
+  "theme": "Fiscalité",
+  "scrutin": "VTANR5L15V169",
+  "question": "Faut-il supprimer l'ISF et le remplacer par un impôt sur la seule fortune immobilière (IFI) ?",
+  "sens": "pour=oui",
+  "date": "2017-10-20",
+  "titreScrutin": "l'article 12 du projet de loi de finances pour 2018 (première lecture).",
+  "typeVote": "scrutin public ordinaire",
+  "sort": "adopté",
+  "pour": 77,
+  "contre": 19,
+  "abstention": 2,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/169",
+  "groupes": [
+   {
+    "organe": "PO730964",
+    "libelle": "La République en Marche",
+    "abrege": "LaREM",
+    "membres": 313,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 57,
+    "contre": 1,
+    "abstention": 0,
+    "nonVotants": 2
+   },
+   {
+    "organe": "PO730934",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 100,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 8,
+    "contre": 0,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730970",
+    "libelle": "Mouvement Démocrate et apparentés",
+    "abrege": "MODEM",
+    "membres": 47,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 8,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730952",
+    "libelle": "Les Constructifs : républicains, UDI, indépendants",
+    "abrege": "LC",
+    "membres": 35,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730946",
+    "libelle": "Nouvelle Gauche",
+    "abrege": "NG",
+    "membres": 31,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 7,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO723569",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 18,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 3,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730958",
+    "libelle": "La France insoumise",
+    "abrege": "FI",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 6,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730940",
+    "libelle": "Gauche démocrate et républicaine",
+    "abrege": "GDR",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 2,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "LaREM",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   }
+  }
+ },
+ {
+  "id": "asile-immigration-2018",
+  "theme": "Immigration",
+  "scrutin": "VTANR5L15V578",
+  "question": "Faut-il réduire les délais d'asile et allonger la rétention administrative des étrangers à 90 jours (loi asile-immigration 2018) ?",
+  "sens": "pour=oui",
+  "date": "2018-04-22",
+  "titreScrutin": "l'ensemble du projet de loi pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 228,
+  "contre": 139,
+  "abstention": 24,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/578",
+  "groupes": [
+   {
+    "organe": "PO730964",
+    "libelle": "La République en Marche",
+    "abrege": "LaREM",
+    "membres": 312,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 197,
+    "contre": 1,
+    "abstention": 14,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO730934",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 102,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 68,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730970",
+    "libelle": "Mouvement Démocrate et apparentés",
+    "abrege": "MODEM",
+    "membres": 47,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 16,
+    "contre": 1,
+    "abstention": 8,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO744425",
+    "libelle": "UDI, Agir et Indépendants",
+    "abrege": "UDI-AGIR",
+    "membres": 32,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 15,
+    "contre": 1,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730946",
+    "libelle": "Nouvelle Gauche",
+    "abrege": "NG",
+    "membres": 31,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 31,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO723569",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 19,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 14,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730958",
+    "libelle": "La France insoumise",
+    "abrege": "FI",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730940",
+    "libelle": "Gauche démocrate et républicaine",
+    "abrege": "GDR",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 6,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NG",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "LaREM",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "anticasseurs",
+  "theme": "Sécurité & libertés",
+  "scrutin": "VTANR5L15V1662",
+  "question": "Faut-il créer un délit de dissimulation du visage en manifestation et renforcer les contrôles autour des manifestations (loi anticasseurs) ?",
+  "sens": "pour=oui",
+  "date": "2019-02-05",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à prévenir les violences lors des manifestations et à sanctionner leurs auteurs (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 387,
+  "contre": 92,
+  "abstention": 74,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1662",
+  "groupes": [
+   {
+    "organe": "PO730964",
+    "libelle": "La République en Marche",
+    "abrege": "LaREM",
+    "membres": 307,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 241,
+    "contre": 0,
+    "abstention": 50,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO730934",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 104,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 97,
+    "contre": 2,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730970",
+    "libelle": "Mouvement Démocrate et apparentés",
+    "abrege": "MODEM",
+    "membres": 46,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 37,
+    "contre": 1,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO744425",
+    "libelle": "UDI, Agir et Indépendants",
+    "abrege": "UDI-AGIR",
+    "membres": 29,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 12,
+    "contre": 3,
+    "abstention": 13,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO758835",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 29,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 29,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730958",
+    "libelle": "La France insoumise",
+    "abrege": "FI",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730940",
+    "libelle": "Gauche démocrate et républicaine",
+    "abrege": "GDR",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 16,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO759900",
+    "libelle": "Libertés et Territoires",
+    "abrege": "LT",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 13,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO723569",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 13,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 11,
+    "abstention": 1,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "ceta",
+  "theme": "Europe & commerce",
+  "scrutin": "VTANR5L15V2059",
+  "question": "Faut-il ratifier le CETA, l'accord de libre-échange entre l'UE et le Canada ?",
+  "sens": "pour=oui",
+  "date": "2019-07-23",
+  "titreScrutin": "l'ensemble du projet de loi autorisant la ratification de l'accord économique et commercial global entre l'Union européenne et ses États membres, d'une part, et le Canada, d'autre part, et de l'accord de partenariat stratégique entre l'Union européenne et ses États membres, d'une part, et le Canada, d'autre part (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 266,
+  "contre": 213,
+  "abstention": 74,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2059",
+  "groupes": [
+   {
+    "organe": "PO730964",
+    "libelle": "La République en Marche",
+    "abrege": "LaREM",
+    "membres": 304,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 229,
+    "contre": 9,
+    "abstention": 52,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO730934",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 104,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 1,
+    "contre": 96,
+    "abstention": 5,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730970",
+    "libelle": "Mouvement Démocrate et apparentés",
+    "abrege": "MODEM",
+    "membres": 45,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 32,
+    "contre": 2,
+    "abstention": 6,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO758835",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 29,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 29,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO765636",
+    "libelle": "UDI et Indépendants",
+    "abrege": "UDI-I",
+    "membres": 28,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 2,
+    "contre": 14,
+    "abstention": 10,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO759900",
+    "libelle": "Libertés et Territoires",
+    "abrege": "LT",
+    "membres": 18,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 1,
+    "contre": 16,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730958",
+    "libelle": "La France insoumise",
+    "abrege": "FI",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730940",
+    "libelle": "Gauche démocrate et républicaine",
+    "abrege": "GDR",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 16,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO723569",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 15,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 1,
+    "contre": 14,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "neonicotinoides-2020",
+  "theme": "Environnement & agriculture",
+  "scrutin": "VTANR5L15V2940",
+  "question": "Faut-il autoriser temporairement les néonicotinoïdes pour sauver la filière betterave ?",
+  "sens": "pour=oui",
+  "date": "2020-10-06",
+  "titreScrutin": "l'ensemble du projet de loi relatif aux conditions de mise sur le marché de certains produits phytopharmaceutiques en cas de danger sanitaire pour les betteraves sucrières (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 313,
+  "contre": 158,
+  "abstention": 56,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2940",
+  "groupes": [
+   {
+    "organe": "PO730964",
+    "libelle": "La République en Marche",
+    "abrege": "LaREM",
+    "membres": 271,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 175,
+    "contre": 32,
+    "abstention": 36,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO730934",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 104,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 67,
+    "contre": 21,
+    "abstention": 9,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO774834",
+    "libelle": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+    "abrege": "Dem",
+    "membres": 56,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 38,
+    "contre": 9,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO758835",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 30,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 2,
+    "contre": 28,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771923",
+    "libelle": "Agir ensemble",
+    "abrege": "Agir ens",
+    "membres": 19,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 13,
+    "contre": 4,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730958",
+    "libelle": "La France insoumise",
+    "abrege": "FI",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771889",
+    "libelle": "UDI et Indépendants",
+    "abrege": "UDI-I",
+    "membres": 17,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 7,
+    "contre": 5,
+    "abstention": 3,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730940",
+    "libelle": "Gauche démocrate et républicaine",
+    "abrege": "GDR",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 16,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO759900",
+    "libelle": "Libertés et Territoires",
+    "abrege": "LT",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 3,
+    "contre": 10,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771789",
+    "libelle": "Écologie Démocratie Solidarité",
+    "abrege": "EDS",
+    "membres": 15,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 15,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO723569",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 12,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 8,
+    "contre": 1,
+    "abstention": 2,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "EDS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "NI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "securite-globale",
+  "theme": "Sécurité & libertés",
+  "scrutin": "VTANR5L15V3254",
+  "question": "Faut-il adopter la loi « sécurité globale » (drones, polices municipales, encadrement de la diffusion d'images de policiers) ?",
+  "sens": "pour=oui",
+  "date": "2020-11-24",
+  "titreScrutin": "l'ensemble de la proposition de loi relative à la sécurité globale (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 388,
+  "contre": 104,
+  "abstention": 66,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+  "groupes": [
+   {
+    "organe": "PO730964",
+    "libelle": "La République en Marche",
+    "abrege": "LaREM",
+    "membres": 271,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 220,
+    "contre": 10,
+    "abstention": 30,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO730934",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 105,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 99,
+    "contre": 0,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO774834",
+    "libelle": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+    "abrege": "Dem",
+    "membres": 56,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 33,
+    "contre": 5,
+    "abstention": 18,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO758835",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 29,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 29,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO723569",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 25,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 8,
+    "contre": 13,
+    "abstention": 3,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771923",
+    "libelle": "Agir ensemble",
+    "abrege": "Agir ens",
+    "membres": 20,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 18,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO759900",
+    "libelle": "Libertés et Territoires",
+    "abrege": "LT",
+    "membres": 18,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 14,
+    "abstention": 3,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771889",
+    "libelle": "UDI et Indépendants",
+    "abrege": "UDI-I",
+    "membres": 18,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 10,
+    "contre": 0,
+    "abstention": 8,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730958",
+    "libelle": "La France insoumise",
+    "abrege": "FI",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730940",
+    "libelle": "Gauche démocrate et républicaine",
+    "abrege": "GDR",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 16,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "separatisme",
+  "theme": "Laïcité & République",
+  "scrutin": "VTANR5L15V3421",
+  "question": "Faut-il adopter la loi « séparatisme » (contrôle des associations et lieux de culte, encadrement de l'instruction en famille) ?",
+  "sens": "pour=oui",
+  "date": "2021-02-16",
+  "titreScrutin": "l'ensemble du projet de loi confortant le respect des principes de la République (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 347,
+  "contre": 151,
+  "abstention": 65,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3421",
+  "groupes": [
+   {
+    "organe": "PO730964",
+    "libelle": "La République en Marche",
+    "abrege": "LaREM",
+    "membres": 269,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 252,
+    "contre": 1,
+    "abstention": 10,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO730934",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 105,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 97,
+    "abstention": 5,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO774834",
+    "libelle": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+    "abrege": "Dem",
+    "membres": 58,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 58,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO758835",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 29,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 0,
+    "contre": 1,
+    "abstention": 28,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO723569",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 24,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 1,
+    "contre": 14,
+    "abstention": 8,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771923",
+    "libelle": "Agir ensemble",
+    "abrege": "Agir ens",
+    "membres": 21,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 19,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771889",
+    "libelle": "UDI et Indépendants",
+    "abrege": "UDI-I",
+    "membres": 19,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 14,
+    "contre": 2,
+    "abstention": 3,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730958",
+    "libelle": "La France insoumise",
+    "abrege": "FI",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO759900",
+    "libelle": "Libertés et Territoires",
+    "abrege": "LT",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 2,
+    "contre": 12,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730940",
+    "libelle": "Gauche démocrate et républicaine",
+    "abrege": "GDR",
+    "membres": 16,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 1,
+    "contre": 7,
+    "abstention": 8,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "GDR",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "NI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "climat-resilience",
+  "theme": "Environnement & agriculture",
+  "scrutin": "VTANR5L15V3738",
+  "question": "Faut-il adopter la loi Climat et résilience issue de la Convention citoyenne (zéro artificialisation nette, interdiction de certains vols courts, ZFE) ?",
+  "sens": "pour=oui",
+  "date": "2021-05-04",
+  "titreScrutin": "l'ensemble du projet de loi portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 332,
+  "contre": 77,
+  "abstention": 145,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3738",
+  "groupes": [
+   {
+    "organe": "PO730964",
+    "libelle": "La République en Marche",
+    "abrege": "LaREM",
+    "membres": 269,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 253,
+    "contre": 0,
+    "abstention": 6,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO730934",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 104,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 1,
+    "contre": 3,
+    "abstention": 99,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO774834",
+    "libelle": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+    "abrege": "Dem",
+    "membres": 58,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 51,
+    "contre": 0,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO758835",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 29,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 29,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO723569",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 23,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 2,
+    "contre": 7,
+    "abstention": 12,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771923",
+    "libelle": "Agir ensemble",
+    "abrege": "Agir ens",
+    "membres": 21,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 21,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO759900",
+    "libelle": "Libertés et Territoires",
+    "abrege": "LT",
+    "membres": 18,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 1,
+    "contre": 7,
+    "abstention": 8,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771889",
+    "libelle": "UDI et Indépendants",
+    "abrege": "UDI-I",
+    "membres": 18,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 3,
+    "contre": 1,
+    "abstention": 14,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730958",
+    "libelle": "La France insoumise",
+    "abrege": "FI",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730940",
+    "libelle": "Gauche démocrate et républicaine",
+    "abrege": "GDR",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 13,
+    "abstention": 2,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "NI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "pma-pour-toutes",
+  "theme": "Société & bioéthique",
+  "scrutin": "VTANR5L15V3855",
+  "question": "Faut-il ouvrir la PMA aux couples de femmes et aux femmes seules ?",
+  "sens": "pour=oui",
+  "date": "2021-06-29",
+  "titreScrutin": "l'ensemble du projet de loi relatif à la bioéthique (lecture définitive).",
+  "typeVote": "scrutin public ordinaire",
+  "sort": "adopté",
+  "pour": 326,
+  "contre": 115,
+  "abstention": 42,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3855",
+  "groupes": [
+   {
+    "organe": "PO730964",
+    "libelle": "La République en Marche",
+    "abrege": "LaREM",
+    "membres": 270,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 209,
+    "contre": 6,
+    "abstention": 19,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO730934",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 105,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 5,
+    "contre": 77,
+    "abstention": 7,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO774834",
+    "libelle": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+    "abrege": "Dem",
+    "membres": 58,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 32,
+    "contre": 8,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO758835",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 30,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 24,
+    "contre": 2,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO723569",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 8,
+    "contre": 9,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771923",
+    "libelle": "Agir ensemble",
+    "abrege": "Agir ens",
+    "membres": 21,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 12,
+    "contre": 2,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771889",
+    "libelle": "UDI et Indépendants",
+    "abrege": "UDI-I",
+    "membres": 19,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 3,
+    "contre": 10,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO759900",
+    "libelle": "Libertés et Territoires",
+    "abrege": "LT",
+    "membres": 18,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 7,
+    "contre": 1,
+    "abstention": 3,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730958",
+    "libelle": "La France insoumise",
+    "abrege": "FI",
+    "membres": 17,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 16,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730940",
+    "libelle": "Gauche démocrate et républicaine",
+    "abrege": "GDR",
+    "membres": 16,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 10,
+    "contre": 0,
+    "abstention": 4,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "GDR",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "FI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "NI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "pass-vaccinal",
+  "theme": "Santé & libertés",
+  "scrutin": "VTANR5L15V4279",
+  "question": "Faut-il transformer le pass sanitaire en pass vaccinal (Covid-19, janvier 2022) ?",
+  "sens": "pour=oui",
+  "date": "2022-01-05",
+  "titreScrutin": "l'ensemble du projet de loi renforçant les outils de gestion de la crise sanitaire et modifiant le code de la santé publique (première lecture).",
+  "typeVote": "scrutin public ordinaire",
+  "sort": "adopté",
+  "pour": 214,
+  "contre": 93,
+  "abstention": 27,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4279",
+  "groupes": [
+   {
+    "organe": "PO730964",
+    "libelle": "La République en Marche",
+    "abrege": "LaREM",
+    "membres": 268,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 134,
+    "contre": 3,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730934",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 103,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 28,
+    "contre": 24,
+    "abstention": 22,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO774834",
+    "libelle": "Mouvement Démocrate (MoDem) et Démocrates apparentés",
+    "abrege": "Dem",
+    "membres": 57,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 32,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO758835",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 29,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 7,
+    "contre": 10,
+    "abstention": 3,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO723569",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 1,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771923",
+    "libelle": "Agir ensemble",
+    "abrege": "Agir ens",
+    "membres": 22,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 8,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO771889",
+    "libelle": "UDI et Indépendants",
+    "abrege": "UDI-I",
+    "membres": 19,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 3,
+    "contre": 8,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO759900",
+    "libelle": "Libertés et Territoires",
+    "abrege": "LT",
+    "membres": 18,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 1,
+    "contre": 7,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730958",
+    "libelle": "La France insoumise",
+    "abrege": "FI",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 15,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO730940",
+    "libelle": "Gauche démocrate et républicaine",
+    "abrege": "GDR",
+    "membres": 15,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 9,
+    "abstention": 1,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "FI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "pouvoir-achat-2022",
+  "theme": "Travail & économie",
+  "scrutin": "VTANR5L16V186",
+  "question": "Faut-il adopter le paquet « pouvoir d'achat » de 2022 (revalorisations, prime défiscalisée, plafonnement des loyers, réquisition de centrales) ?",
+  "sens": "pour=oui",
+  "date": "2022-08-03",
+  "titreScrutin": "l'ensemble du projet de loi portant mesures d'urgence pour la protection du pouvoir d'achat (texte de la commission paritaire).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 395,
+  "contre": 112,
+  "abstention": 36,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/186",
+  "groupes": [
+   {
+    "organe": "PO800538",
+    "libelle": "Renaissance",
+    "abrege": "RE",
+    "membres": 172,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 161,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800520",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 89,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 87,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800490",
+    "libelle": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "abrege": "LFI - NUPES",
+    "membres": 75,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 75,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800508",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 62,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 61,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800484",
+    "libelle": "Démocrate (MoDem et Indépendants)",
+    "abrege": "Dem",
+    "membres": 48,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 44,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800496",
+    "libelle": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+    "abrege": "SOC",
+    "membres": 31,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 29,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800514",
+    "libelle": "Horizons et apparentés",
+    "abrege": "HOR",
+    "membres": 30,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 26,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO800526",
+    "libelle": "Écologiste - NUPES",
+    "abrege": "Ecolo - NUPES",
+    "membres": 23,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 21,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800502",
+    "libelle": "Gauche démocrate et républicaine - NUPES",
+    "abrege": "GDR - NUPES",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 16,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800532",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 16,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 10,
+    "contre": 0,
+    "abstention": 6,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO793087",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 9,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 6,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR - NUPES",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "LFI - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "Ecolo - NUPES",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "NI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "assurance-chomage-2022",
+  "theme": "Travail & économie",
+  "scrutin": "VTANR5L16V236",
+  "question": "Faut-il moduler la durée d'indemnisation chômage selon la conjoncture et sanctionner les abandons de poste ?",
+  "sens": "pour=oui",
+  "date": "2022-10-11",
+  "titreScrutin": "l'ensemble du projet de loi portant mesures d'urgence relatives au fonctionnement du marché de travail en vue du plein emploi (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 303,
+  "contre": 249,
+  "abstention": 11,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/236",
+  "groupes": [
+   {
+    "organe": "PO800538",
+    "libelle": "Renaissance",
+    "abrege": "RE",
+    "membres": 170,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 166,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO800520",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 89,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 87,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800490",
+    "libelle": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "abrege": "LFI - NUPES",
+    "membres": 75,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 73,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800508",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 62,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 58,
+    "contre": 0,
+    "abstention": 3,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800484",
+    "libelle": "Démocrate (MoDem et Indépendants)",
+    "abrege": "Dem",
+    "membres": 51,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 47,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800496",
+    "libelle": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+    "abrege": "SOC",
+    "membres": 31,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 31,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800514",
+    "libelle": "Horizons et apparentés",
+    "abrege": "HOR",
+    "membres": 30,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 30,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800526",
+    "libelle": "Écologiste - NUPES",
+    "abrege": "Ecolo - NUPES",
+    "membres": 23,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 23,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800502",
+    "libelle": "Gauche démocrate et républicaine - NUPES",
+    "abrege": "GDR - NUPES",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 21,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800532",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 20,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 2,
+    "contre": 12,
+    "abstention": 6,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO793087",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 4,
+    "majoritaire": "partagé",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 2,
+    "abstention": 2,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "LFI - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "Ecolo - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "retraites-64",
+  "theme": "Retraites",
+  "scrutin": "VTANR5L16V1240",
+  "question": "Êtes-vous favorable au report de l'âge légal de départ à la retraite de 62 à 64 ans (réforme 2023) ?",
+  "sens": "motion_censure=non",
+  "note": "Réforme adoptée par 49.3 sans vote sur le texte : le vote de référence est la motion de censure transpartisane du 20 mars 2023 (voter la censure = s'opposer à la réforme).",
+  "date": "2023-03-20",
+  "titreScrutin": "la motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par M. Bertrand Pancher et 90 membres de l'Assemblée.",
+  "typeVote": "scrutin public solennel",
+  "sort": "rejeté",
+  "pour": 278,
+  "contre": 0,
+  "abstention": 0,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1240",
+  "groupes": [
+   {
+    "organe": "PO800538",
+    "libelle": "Renaissance",
+    "abrege": "RE",
+    "membres": 170,
+    "majoritaire": null,
+    "majoritaireOpenDataAN": "pour",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO800520",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 88,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 88,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800490",
+    "libelle": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "abrege": "LFI - NUPES",
+    "membres": 74,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 74,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800508",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 61,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 19,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800484",
+    "libelle": "Démocrate (MoDem et Indépendants)",
+    "abrege": "Dem",
+    "membres": 51,
+    "majoritaire": null,
+    "majoritaireOpenDataAN": "pour",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800496",
+    "libelle": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+    "abrege": "SOC",
+    "membres": 31,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 31,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800514",
+    "libelle": "Horizons et apparentés",
+    "abrege": "HOR",
+    "membres": 29,
+    "majoritaire": null,
+    "majoritaireOpenDataAN": "pour",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800502",
+    "libelle": "Gauche démocrate et républicaine - NUPES",
+    "abrege": "GDR - NUPES",
+    "membres": 22,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 22,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800526",
+    "libelle": "Écologiste - NUPES",
+    "abrege": "Ecolo - NUPES",
+    "membres": 22,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 22,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800532",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 20,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 18,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO793087",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 5,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "GDR - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "LFI - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "Ecolo - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "nucleaire-2023",
+  "theme": "Énergie",
+  "scrutin": "VTANR5L16V1533",
+  "question": "Faut-il accélérer la construction de nouveaux réacteurs nucléaires ?",
+  "sens": "pour=oui",
+  "date": "2023-05-16",
+  "titreScrutin": "l'ensemble du projet de loi relatif à l'accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes (texte de la commission mixte paritaire).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 399,
+  "contre": 100,
+  "abstention": 39,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1533",
+  "groupes": [
+   {
+    "organe": "PO800538",
+    "libelle": "Renaissance",
+    "abrege": "RE",
+    "membres": 171,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 159,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800520",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 88,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 84,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800490",
+    "libelle": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "abrege": "LFI - NUPES",
+    "membres": 75,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 72,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800508",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 62,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 59,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800484",
+    "libelle": "Démocrate (MoDem et Indépendants)",
+    "abrege": "Dem",
+    "membres": 51,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 40,
+    "contre": 1,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO800496",
+    "libelle": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+    "abrege": "SOC",
+    "membres": 31,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 30,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800514",
+    "libelle": "Horizons et apparentés",
+    "abrege": "HOR",
+    "membres": 29,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 29,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800526",
+    "libelle": "Écologiste - NUPES",
+    "abrege": "Ecolo - NUPES",
+    "membres": 23,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 23,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800502",
+    "libelle": "Gauche démocrate et républicaine - NUPES",
+    "abrege": "GDR - NUPES",
+    "membres": 22,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 10,
+    "contre": 4,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800532",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 21,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 15,
+    "contre": 0,
+    "abstention": 5,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO793087",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 4,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 3,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "GDR - NUPES",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "LFI - NUPES",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "Ecolo - NUPES",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "anti-squat",
+  "theme": "Logement",
+  "scrutin": "VTANR5L16V1361",
+  "question": "Faut-il durcir les sanctions contre les squatteurs et accélérer les expulsions pour impayés (loi Kasbarian) ?",
+  "sens": "pour=oui",
+  "date": "2023-04-04",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 385,
+  "contre": 147,
+  "abstention": 8,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1361",
+  "groupes": [
+   {
+    "organe": "PO800538",
+    "libelle": "Renaissance",
+    "abrege": "RE",
+    "membres": 170,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 159,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800520",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 88,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 84,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800490",
+    "libelle": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "abrege": "LFI - NUPES",
+    "membres": 74,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 74,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800508",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 61,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 58,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800484",
+    "libelle": "Démocrate (MoDem et Indépendants)",
+    "abrege": "Dem",
+    "membres": 51,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 38,
+    "contre": 1,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800496",
+    "libelle": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+    "abrege": "SOC",
+    "membres": 31,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 29,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800514",
+    "libelle": "Horizons et apparentés",
+    "abrege": "HOR",
+    "membres": 29,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 29,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800502",
+    "libelle": "Gauche démocrate et républicaine - NUPES",
+    "abrege": "GDR - NUPES",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 1,
+    "contre": 20,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800526",
+    "libelle": "Écologiste - NUPES",
+    "abrege": "Ecolo - NUPES",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 22,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800532",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 20,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 12,
+    "contre": 0,
+    "abstention": 5,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO793087",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 6,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 4,
+    "contre": 1,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR - NUPES",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "LFI - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "Ecolo - NUPES",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "NI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "lpm-2024-2030",
+  "theme": "Défense & international",
+  "scrutin": "VTANR5L16V1778",
+  "question": "Faut-il consacrer 413 milliards d'euros à la défense sur 2024-2030 (loi de programmation militaire) ?",
+  "sens": "pour=oui",
+  "date": "2023-06-07",
+  "titreScrutin": "l’ensemble du projet de loi relatif à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 408,
+  "contre": 87,
+  "abstention": 53,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1778",
+  "groupes": [
+   {
+    "organe": "PO800538",
+    "libelle": "Renaissance",
+    "abrege": "RE",
+    "membres": 171,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 162,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800520",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 88,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 87,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800490",
+    "libelle": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "abrege": "LFI - NUPES",
+    "membres": 75,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 70,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800508",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 62,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 61,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800484",
+    "libelle": "Démocrate (MoDem et Indépendants)",
+    "abrege": "Dem",
+    "membres": 51,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 49,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800496",
+    "libelle": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+    "abrege": "SOC",
+    "membres": 31,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 31,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800514",
+    "libelle": "Horizons et apparentés",
+    "abrege": "HOR",
+    "membres": 29,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 29,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800526",
+    "libelle": "Écologiste - NUPES",
+    "abrege": "Ecolo - NUPES",
+    "membres": 23,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 0,
+    "contre": 1,
+    "abstention": 20,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800502",
+    "libelle": "Gauche démocrate et républicaine - NUPES",
+    "abrege": "GDR - NUPES",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 16,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800532",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 21,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 16,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO793087",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 4,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 4,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "LFI - NUPES",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "Ecolo - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "rsa-15h",
+  "theme": "Travail & économie",
+  "scrutin": "VTANR5L16V2717",
+  "question": "Faut-il conditionner le RSA à 15 heures d'activité hebdomadaires et créer France Travail ?",
+  "sens": "pour=oui",
+  "date": "2023-10-10",
+  "titreScrutin": "l'ensemble du projet de loi pour le plein emploi (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 310,
+  "contre": 251,
+  "abstention": 7,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2717",
+  "groupes": [
+   {
+    "organe": "PO800538",
+    "libelle": "Renaissance",
+    "abrege": "RE",
+    "membres": 170,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 169,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO800520",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 88,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 88,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800490",
+    "libelle": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "abrege": "LFI - NUPES",
+    "membres": 75,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 75,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800508",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 62,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 61,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800484",
+    "libelle": "Démocrate (MoDem et Indépendants)",
+    "abrege": "Dem",
+    "membres": 51,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 49,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800496",
+    "libelle": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+    "abrege": "SOC",
+    "membres": 31,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 29,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800514",
+    "libelle": "Horizons et apparentés",
+    "abrege": "HOR",
+    "membres": 30,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 29,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800526",
+    "libelle": "Écologiste - NUPES",
+    "abrege": "Ecolo - NUPES",
+    "membres": 23,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 23,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800502",
+    "libelle": "Gauche démocrate et républicaine - NUPES",
+    "abrege": "GDR - NUPES",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 21,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800532",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 21,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 1,
+    "contre": 13,
+    "abstention": 6,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO793087",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 4,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 1,
+    "contre": 2,
+    "abstention": 1,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "LFI - NUPES",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "Ecolo - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "RN",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "immigration-2023",
+  "theme": "Immigration",
+  "scrutin": "VTANR5L16V3213",
+  "question": "Faut-il adopter la loi immigration de décembre 2023 (quotas, durcissement du regroupement familial et des aides sociales aux étrangers) ?",
+  "sens": "pour=oui",
+  "date": "2023-12-19",
+  "titreScrutin": "l'ensemble du projet de loi pour contrôler l'immigration, améliorer l'intégration (texte de la commission mixte paritaire).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 349,
+  "contre": 186,
+  "abstention": 38,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3213",
+  "groupes": [
+   {
+    "organe": "PO800538",
+    "libelle": "Renaissance",
+    "abrege": "RE",
+    "membres": 170,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 131,
+    "contre": 20,
+    "abstention": 17,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800520",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 88,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 88,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800490",
+    "libelle": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "abrege": "LFI - NUPES",
+    "membres": 75,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 75,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800508",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 62,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 62,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800484",
+    "libelle": "Démocrate (MoDem et Indépendants)",
+    "abrege": "Dem",
+    "membres": 51,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 30,
+    "contre": 5,
+    "abstention": 15,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800496",
+    "libelle": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+    "abrege": "SOC",
+    "membres": 31,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 31,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800514",
+    "libelle": "Horizons et apparentés",
+    "abrege": "HOR",
+    "membres": 30,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 28,
+    "contre": 2,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800526",
+    "libelle": "Écologiste - NUPES",
+    "abrege": "Ecolo - NUPES",
+    "membres": 23,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 23,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800502",
+    "libelle": "Gauche démocrate et républicaine - NUPES",
+    "abrege": "GDR - NUPES",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 21,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800532",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 21,
+    "majoritaire": "partagé",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 8,
+    "contre": 8,
+    "abstention": 5,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO793087",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 4,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 2,
+    "contre": 1,
+    "abstention": 1,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "LFI - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "Ecolo - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "ivg-constitution",
+  "theme": "Société & bioéthique",
+  "scrutin": "VTCGR5L16V1",
+  "question": "Faut-il inscrire la liberté de recourir à l'IVG dans la Constitution ?",
+  "sens": "pour=oui",
+  "note": "Vote du Parlement réuni en Congrès (députés + sénateurs), 4 mars 2024.",
+  "date": "2024-03-04",
+  "titreScrutin": "le projet de loi constitutionnelle relatif à la liberté de recourir à l'interruption volontaire de grossesse.",
+  "typeVote": "Scrutin solennel congrès",
+  "sort": "adopté",
+  "pour": 780,
+  "contre": 72,
+  "abstention": 50,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": null,
+  "groupes": [
+   {
+    "organe": "PO800538",
+    "libelle": "Renaissance",
+    "abrege": "RE",
+    "membres": 167,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 166,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800520",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 88,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 46,
+    "contre": 11,
+    "abstention": 20,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800490",
+    "libelle": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "abrege": "LFI - NUPES",
+    "membres": 75,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 75,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800508",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 62,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 43,
+    "contre": 12,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800484",
+    "libelle": "Démocrate (MoDem et Indépendants)",
+    "abrege": "Dem",
+    "membres": 49,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 48,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO830170",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 31,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 31,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800514",
+    "libelle": "Horizons et apparentés",
+    "abrege": "HOR",
+    "membres": 29,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 28,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800532",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 22,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 21,
+    "contre": 1,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800502",
+    "libelle": "Gauche démocrate et républicaine - NUPES",
+    "abrege": "GDR - NUPES",
+    "membres": 22,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 22,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800526",
+    "libelle": "Écologiste - NUPES",
+    "abrege": "Ecolo - NUPES",
+    "membres": 22,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 22,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO793087",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 6,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 3,
+    "contre": 2,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO286005",
+    "libelle": "Les Républicains",
+    "abrege": "Les Républicains",
+    "membres": 132,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 79,
+    "contre": 38,
+    "abstention": 14,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO77710",
+    "libelle": "Socialiste, Écologiste et Républicain",
+    "abrege": "SER",
+    "membres": 64,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 64,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO309463",
+    "libelle": "Union Centriste",
+    "abrege": "UC",
+    "membres": 56,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 42,
+    "contre": 6,
+    "abstention": 8,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO732421",
+    "libelle": "Rassemblement des démocrates, progressistes et indépendants",
+    "abrege": "RDPI",
+    "membres": 22,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 21,
+    "contre": 1,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO741019",
+    "libelle": "Les Indépendants - République et Territoires",
+    "abrege": "Les Indépendants",
+    "membres": 18,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 15,
+    "contre": 0,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO77707",
+    "libelle": "Communiste Républicain Citoyen et Écologiste - Kanaky",
+    "abrege": "CRCE-K",
+    "membres": 18,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 18,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO776990",
+    "libelle": "Écologiste - Solidarité et Territoires",
+    "abrege": "GEST",
+    "membres": 16,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 16,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO77714",
+    "libelle": "Rassemblement Démocratique et Social Européen",
+    "abrege": "RDSE",
+    "membres": 16,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 16,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO77708",
+    "libelle": "Non inscrits",
+    "abrege": "NI",
+    "membres": 5,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 4,
+    "contre": 1,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "GDR - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "LFI - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "Ecolo - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "Les Républicains",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   }
+  }
+ },
+ {
+  "id": "ukraine-accord",
+  "theme": "Défense & international",
+  "scrutin": "VTANR5L16V3461",
+  "question": "Faut-il approuver l'accord de sécurité bilatéral France-Ukraine (aide militaire sur 10 ans) ?",
+  "sens": "pour=oui",
+  "date": "2024-03-12",
+  "titreScrutin": "la déclaration du Gouvernement relative au débat sur l'accord de sécurité franco-ukrainien et la situation en Ukraine (application de l'article 50-1 de la Constitution).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 372,
+  "contre": 99,
+  "abstention": 101,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3461",
+  "groupes": [
+   {
+    "organe": "PO800538",
+    "libelle": "Renaissance",
+    "abrege": "RE",
+    "membres": 169,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 169,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800520",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 88,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 88,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800490",
+    "libelle": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "abrege": "LFI - NUPES",
+    "membres": 75,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 75,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800508",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 62,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 49,
+    "contre": 0,
+    "abstention": 11,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800484",
+    "libelle": "Démocrate (MoDem et Indépendants)",
+    "abrege": "Dem",
+    "membres": 50,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 49,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800496",
+    "libelle": "Socialistes et apparentés (membre de l’intergroupe NUPES)",
+    "abrege": "SOC",
+    "membres": 31,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 31,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800514",
+    "libelle": "Horizons et apparentés",
+    "abrege": "HOR",
+    "membres": 30,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 30,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800502",
+    "libelle": "Gauche démocrate et républicaine - NUPES",
+    "abrege": "GDR - NUPES",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 22,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800526",
+    "libelle": "Écologiste - NUPES",
+    "abrege": "Ecolo - NUPES",
+    "membres": 22,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 20,
+    "contre": 1,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800532",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 22,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 20,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO793087",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 6,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 4,
+    "contre": 1,
+    "abstention": 1,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "LFI - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "Ecolo - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "NI",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   }
+  }
+ },
+ {
+  "id": "nouvelle-caledonie-2024",
+  "theme": "Institutions",
+  "scrutin": "VTANR5L16V3725",
+  "question": "Faut-il dégeler le corps électoral provincial de Nouvelle-Calédonie (réforme constitutionnelle de 2024) ?",
+  "sens": "pour=oui",
+  "date": "2024-05-14",
+  "titreScrutin": "l'ensemble du projet de loi constitutionnelle portant modification du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 351,
+  "contre": 153,
+  "abstention": 3,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3725",
+  "groupes": [
+   {
+    "organe": "PO800538",
+    "libelle": "Renaissance",
+    "abrege": "RE",
+    "membres": 169,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 146,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO800520",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 88,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 76,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800490",
+    "libelle": "La France insoumise - Nouvelle Union Populaire écologique et sociale",
+    "abrege": "LFI - NUPES",
+    "membres": 75,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 73,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800508",
+    "libelle": "Les Républicains",
+    "abrege": "LR",
+    "membres": 61,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 53,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800484",
+    "libelle": "Démocrate (MoDem et Indépendants)",
+    "abrege": "Dem",
+    "membres": 50,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 39,
+    "contre": 1,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO830170",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 31,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 30,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800514",
+    "libelle": "Horizons et apparentés",
+    "abrege": "HOR",
+    "membres": 31,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 30,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800502",
+    "libelle": "Gauche démocrate et républicaine - NUPES",
+    "abrege": "GDR - NUPES",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 22,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800532",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 22,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 5,
+    "contre": 9,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO800526",
+    "libelle": "Écologiste - NUPES",
+    "abrege": "Ecolo - NUPES",
+    "membres": 21,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 18,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO793087",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 7,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 2,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "GDR - NUPES",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "LFI - NUPES",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "attal": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   }
+  }
+ },
+ {
+  "id": "mercosur",
+  "theme": "Europe & commerce",
+  "scrutin": "VTANR5L17V456",
+  "question": "Faut-il s'opposer à l'accord de libre-échange UE-Mercosur en l'état ?",
+  "sens": "pour=oui",
+  "note": "Vote sur la déclaration du Gouvernement (art. 50-1) opposée à l'accord : voter pour = s'opposer au Mercosur.",
+  "date": "2024-11-26",
+  "titreScrutin": "la déclaration du Gouvernement portant sur les négociations en cours relatives à l'accord d'association entre l'Union européenne et le Mercosur (application de l'article 50-1 de la Constitution).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 485,
+  "contre": 69,
+  "abstention": 1,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/456",
+  "groupes": [
+   {
+    "organe": "PO845401",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 124,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 122,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845407",
+    "libelle": "Ensemble pour la République",
+    "abrege": "EPR",
+    "membres": 94,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 84,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845413",
+    "libelle": "La France insoumise - Nouveau Front Populaire",
+    "abrege": "LFI-NFP",
+    "membres": 71,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 69,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845419",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 66,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 66,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845425",
+    "libelle": "Droite Républicaine",
+    "abrege": "DR",
+    "membres": 47,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 46,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845439",
+    "libelle": "Écologiste et Social",
+    "abrege": "EcoS",
+    "membres": 38,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 38,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845454",
+    "libelle": "Les Démocrates",
+    "abrege": "Dem",
+    "membres": 36,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 34,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845470",
+    "libelle": "Horizons & Indépendants",
+    "abrege": "HOR",
+    "membres": 34,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 34,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845485",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 23,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 23,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845514",
+    "libelle": "Gauche Démocrate et Républicaine",
+    "abrege": "GDR",
+    "membres": 17,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 16,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO847173",
+    "libelle": "UDR",
+    "abrege": "UDR",
+    "membres": 16,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 13,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO840056",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 9,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 9,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EPR",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   }
+  }
+ },
+ {
+  "id": "taxe-zucman",
+  "theme": "Fiscalité",
+  "scrutin": "VTANR5L17V881",
+  "question": "Faut-il instaurer un impôt plancher de 2 % sur le patrimoine des ultra-riches (> 100 M€, « taxe Zucman ») ?",
+  "sens": "pour=oui",
+  "date": "2025-02-20",
+  "titreScrutin": "l'ensemble de la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches (première lecture).",
+  "typeVote": "scrutin public ordinaire",
+  "sort": "adopté",
+  "pour": 116,
+  "contre": 39,
+  "abstention": 31,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/881",
+  "groupes": [
+   {
+    "organe": "PO845401",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 124,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 28,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845407",
+    "libelle": "Ensemble pour la République",
+    "abrege": "EPR",
+    "membres": 94,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 16,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845413",
+    "libelle": "La France insoumise - Nouveau Front Populaire",
+    "abrege": "LFI-NFP",
+    "membres": 71,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 37,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845419",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 66,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 36,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845425",
+    "libelle": "Droite Républicaine",
+    "abrege": "DR",
+    "membres": 47,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 3,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845439",
+    "libelle": "Écologiste et Social",
+    "abrege": "EcoS",
+    "membres": 38,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 38,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845454",
+    "libelle": "Les Démocrates",
+    "abrege": "Dem",
+    "membres": 36,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 9,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845470",
+    "libelle": "Horizons & Indépendants",
+    "abrege": "HOR",
+    "membres": 33,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 7,
+    "abstention": 3,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845485",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 23,
+    "majoritaire": null,
+    "majoritaireOpenDataAN": "pour",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845514",
+    "libelle": "Gauche Démocrate et Républicaine",
+    "abrege": "GDR",
+    "membres": 17,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 5,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO847173",
+    "libelle": "UDR",
+    "abrege": "UDR",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 4,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO840056",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 11,
+    "majoritaire": null,
+    "majoritaireOpenDataAN": "pour",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "EPR",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   }
+  }
+ },
+ {
+  "id": "narcotrafic",
+  "theme": "Sécurité & libertés",
+  "scrutin": "VTANR5L17V1473",
+  "question": "Faut-il adopter la loi « sortir la France du piège du narcotrafic » (parquet national, quartiers de haute sécurité, techniques de renseignement) ?",
+  "sens": "pour=oui",
+  "date": "2025-04-29",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à sortir la France du piège du narcotrafic (texte de la commission mixte paritaire).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 396,
+  "contre": 68,
+  "abstention": 34,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1473",
+  "groupes": [
+   {
+    "organe": "PO845401",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 123,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 109,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845407",
+    "libelle": "Ensemble pour la République",
+    "abrege": "EPR",
+    "membres": 94,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 73,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845413",
+    "libelle": "La France insoumise - Nouveau Front Populaire",
+    "abrege": "LFI-NFP",
+    "membres": 71,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 60,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845419",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 66,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 63,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845425",
+    "libelle": "Droite Républicaine",
+    "abrege": "DR",
+    "membres": 48,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 38,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845439",
+    "libelle": "Écologiste et Social",
+    "abrege": "EcoS",
+    "membres": 38,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 4,
+    "abstention": 25,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845454",
+    "libelle": "Les Démocrates",
+    "abrege": "Dem",
+    "membres": 36,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 36,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845470",
+    "libelle": "Horizons & Indépendants",
+    "abrege": "HOR",
+    "membres": 33,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 33,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845485",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 23,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 22,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845514",
+    "libelle": "Gauche Démocrate et Républicaine",
+    "abrege": "GDR",
+    "membres": 17,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 1,
+    "contre": 4,
+    "abstention": 7,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO847173",
+    "libelle": "UDR",
+    "abrege": "UDR",
+    "membres": 16,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 13,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO840056",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 11,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 8,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "EcoS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EPR",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   }
+  }
+ },
+ {
+  "id": "loi-duplomb",
+  "theme": "Environnement & agriculture",
+  "scrutin": "VTANR5L17V2957",
+  "question": "Faut-il permettre la réintroduction dérogatoire de l'acétamipride (néonicotinoïde) et alléger les contraintes des élevages (loi Duplomb) ?",
+  "sens": "pour=oui",
+  "date": "2025-07-08",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur (texte de la commission mixte paritaire).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 316,
+  "contre": 223,
+  "abstention": 25,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2957",
+  "groupes": [
+   {
+    "organe": "PO845401",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 123,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 119,
+    "contre": 0,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845407",
+    "libelle": "Ensemble pour la République",
+    "abrege": "EPR",
+    "membres": 93,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 64,
+    "contre": 14,
+    "abstention": 10,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845413",
+    "libelle": "La France insoumise - Nouveau Front Populaire",
+    "abrege": "LFI-NFP",
+    "membres": 71,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 71,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845419",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 66,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 65,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845425",
+    "libelle": "Droite Républicaine",
+    "abrege": "DR",
+    "membres": 48,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 47,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845439",
+    "libelle": "Écologiste et Social",
+    "abrege": "EcoS",
+    "membres": 38,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 38,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845454",
+    "libelle": "Les Démocrates",
+    "abrege": "Dem",
+    "membres": 36,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 26,
+    "contre": 9,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845470",
+    "libelle": "Horizons & Indépendants",
+    "abrege": "HOR",
+    "membres": 34,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 26,
+    "contre": 3,
+    "abstention": 4,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845485",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 23,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 12,
+    "contre": 3,
+    "abstention": 6,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845514",
+    "libelle": "Gauche Démocrate et Républicaine",
+    "abrege": "GDR",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO847173",
+    "libelle": "UDR",
+    "abrege": "UDR",
+    "membres": 16,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 16,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO840056",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 12,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 6,
+    "contre": 3,
+    "abstention": 1,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "EcoS",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "EcoS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EPR",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   }
+  }
+ },
+ {
+  "id": "retention-210j",
+  "theme": "Immigration",
+  "scrutin": "VTANR5L17V2958",
+  "question": "Faut-il pouvoir retenir jusqu'à 210 jours les étrangers condamnés pour des faits graves en attente d'expulsion ?",
+  "sens": "pour=oui",
+  "date": "2025-07-08",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à faciliter le maintien en rétention des personnes condamnées pour des faits d’une particulière gravité et présentant de forts risques de récidive (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 303,
+  "contre": 168,
+  "abstention": 1,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+  "groupes": [
+   {
+    "organe": "PO845401",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 123,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 108,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845407",
+    "libelle": "Ensemble pour la République",
+    "abrege": "EPR",
+    "membres": 93,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 61,
+    "contre": 1,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845413",
+    "libelle": "La France insoumise - Nouveau Front Populaire",
+    "abrege": "LFI-NFP",
+    "membres": 71,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 58,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845419",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 66,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 59,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845425",
+    "libelle": "Droite Républicaine",
+    "abrege": "DR",
+    "membres": 48,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 48,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845439",
+    "libelle": "Écologiste et Social",
+    "abrege": "EcoS",
+    "membres": 38,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 33,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845454",
+    "libelle": "Les Démocrates",
+    "abrege": "Dem",
+    "membres": 36,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 25,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845470",
+    "libelle": "Horizons & Indépendants",
+    "abrege": "HOR",
+    "membres": 34,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 24,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845485",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 23,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 19,
+    "contre": 1,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845514",
+    "libelle": "Gauche Démocrate et Républicaine",
+    "abrege": "GDR",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 12,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO847173",
+    "libelle": "UDR",
+    "abrege": "UDR",
+    "membres": 16,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 13,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO840056",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 12,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 5,
+    "contre": 4,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "EcoS",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "EcoS",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EPR",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": "membre",
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   }
+  }
+ },
+ {
+  "id": "suspension-retraites",
+  "theme": "Retraites",
+  "scrutin": "VTANR5L17V3684",
+  "question": "Faut-il suspendre la réforme des retraites de 2023 jusqu'à l'élection présidentielle ?",
+  "sens": "pour=oui",
+  "date": "2025-11-12",
+  "titreScrutin": "l'article 45 bis (examen prioritaire) du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).",
+  "typeVote": "scrutin public ordinaire",
+  "sort": "adopté",
+  "pour": 255,
+  "contre": 146,
+  "abstention": 104,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3684",
+  "groupes": [
+   {
+    "organe": "PO845401",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 123,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 112,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845407",
+    "libelle": "Ensemble pour la République",
+    "abrege": "EPR",
+    "membres": 92,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 3,
+    "contre": 5,
+    "abstention": 67,
+    "nonVotants": 6
+   },
+   {
+    "organe": "PO845413",
+    "libelle": "La France insoumise - Nouveau Front Populaire",
+    "abrege": "LFI-NFP",
+    "membres": 71,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 60,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845419",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 69,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 67,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845425",
+    "libelle": "Droite Républicaine",
+    "abrege": "DR",
+    "membres": 49,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 8,
+    "contre": 25,
+    "abstention": 9,
+    "nonVotants": 3
+   },
+   {
+    "organe": "PO845439",
+    "libelle": "Écologiste et Social",
+    "abrege": "EcoS",
+    "membres": 38,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 30,
+    "contre": 0,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845454",
+    "libelle": "Les Démocrates",
+    "abrege": "Dem",
+    "membres": 36,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 11,
+    "contre": 1,
+    "abstention": 18,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845470",
+    "libelle": "Horizons & Indépendants",
+    "abrege": "HOR",
+    "membres": 34,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 29,
+    "abstention": 1,
+    "nonVotants": 2
+   },
+   {
+    "organe": "PO845485",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 22,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 17,
+    "contre": 0,
+    "abstention": 3,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845514",
+    "libelle": "Gauche Démocrate et Républicaine",
+    "abrege": "GDR",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 1,
+    "contre": 11,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO872880",
+    "libelle": "Union des droites pour la République",
+    "abrege": "UDR",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 14,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO840056",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 9,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 6,
+    "contre": 1,
+    "abstention": 2,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "EPR",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   }
+  }
+ },
+ {
+  "id": "arcelormittal",
+  "theme": "Travail & économie",
+  "scrutin": "VTANR5L17V4438",
+  "question": "Faut-il nationaliser ArcelorMittal France pour préserver la sidérurgie ?",
+  "sens": "pour=oui",
+  "date": "2025-11-27",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France (première lecture).",
+  "typeVote": "scrutin public ordinaire",
+  "sort": "adopté",
+  "pour": 127,
+  "contre": 41,
+  "abstention": 42,
+  "dossier": null,
+  "dossierRef": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+  "groupes": [
+   {
+    "organe": "PO845401",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 123,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 40,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845407",
+    "libelle": "Ensemble pour la République",
+    "abrege": "EPR",
+    "membres": 91,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 19,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845413",
+    "libelle": "La France insoumise - Nouveau Front Populaire",
+    "abrege": "LFI-NFP",
+    "membres": 71,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 68,
+    "contre": 1,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845419",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 69,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 28,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845425",
+    "libelle": "Droite Républicaine",
+    "abrege": "DR",
+    "membres": 49,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 5,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845439",
+    "libelle": "Écologiste et Social",
+    "abrege": "EcoS",
+    "membres": 38,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 18,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845454",
+    "libelle": "Les Démocrates",
+    "abrege": "Dem",
+    "membres": 36,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 4,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845470",
+    "libelle": "Horizons & Indépendants",
+    "abrege": "HOR",
+    "membres": 34,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 10,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845485",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 22,
+    "majoritaire": null,
+    "majoritaireOpenDataAN": "pour",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845514",
+    "libelle": "Gauche Démocrate et Républicaine",
+    "abrege": "GDR",
+    "membres": 17,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 13,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO872880",
+    "libelle": "Union des droites pour la République",
+    "abrege": "UDR",
+    "membres": 16,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 2,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO840056",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 9,
+    "majoritaire": null,
+    "majoritaireOpenDataAN": "pour",
+    "pour": 0,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   }
+  }
+ },
+ {
+  "id": "corse-autonome",
+  "theme": "Institutions",
+  "scrutin": "VTANR5L17V7454",
+  "question": "Faut-il inscrire dans la Constitution une Corse autonome dotée d'un pouvoir normatif ?",
+  "sens": "pour=oui",
+  "date": "2026-06-23",
+  "titreScrutin": "l'ensemble du projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 271,
+  "contre": 202,
+  "abstention": 64,
+  "dossier": "Projet de loi constitutionnelle pour une Corse autonome au sein de la République",
+  "dossierRef": "DLR5L17N54218",
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+  "groupes": [
+   {
+    "organe": "PO845401",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 122,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 120,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845407",
+    "libelle": "Ensemble pour la République",
+    "abrege": "EPR",
+    "membres": 91,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 66,
+    "contre": 5,
+    "abstention": 11,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845413",
+    "libelle": "La France insoumise - Nouveau Front Populaire",
+    "abrege": "LFI-NFP",
+    "membres": 71,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 60,
+    "contre": 2,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845419",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 68,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 41,
+    "contre": 5,
+    "abstention": 19,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845425",
+    "libelle": "Droite Républicaine",
+    "abrege": "DR",
+    "membres": 48,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 1,
+    "contre": 34,
+    "abstention": 10,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845439",
+    "libelle": "Écologiste et Social",
+    "abrege": "EcoS",
+    "membres": 38,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 27,
+    "contre": 5,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845454",
+    "libelle": "Les Démocrates",
+    "abrege": "Dem",
+    "membres": 37,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 25,
+    "contre": 0,
+    "abstention": 11,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845470",
+    "libelle": "Horizons & Indépendants",
+    "abrege": "HOR",
+    "membres": 35,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 22,
+    "contre": 0,
+    "abstention": 6,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845485",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 23,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 21,
+    "contre": 2,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845514",
+    "libelle": "Gauche Démocrate et Républicaine",
+    "abrege": "GDR",
+    "membres": 17,
+    "majoritaire": "partagé",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 6,
+    "contre": 6,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO872880",
+    "libelle": "Union des droites pour la République",
+    "abrege": "UDR",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO840056",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 10,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 2,
+    "contre": 6,
+    "abstention": 1,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EPR",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   }
+  }
+ },
+ {
+  "id": "legitime-defense-policiers",
+  "theme": "Sécurité & libertés",
+  "scrutin": "VTANR5L17V7987",
+  "question": "Faut-il instaurer une présomption de légitime défense pour les forces de l'ordre ?",
+  "sens": "pour=oui",
+  "date": "2026-07-07",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 313,
+  "contre": 199,
+  "abstention": 5,
+  "dossier": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
+  "dossierRef": "DLR5L17N51037",
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+  "groupes": [
+   {
+    "organe": "PO845401",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 122,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 122,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845407",
+    "libelle": "Ensemble pour la République",
+    "abrege": "EPR",
+    "membres": 91,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 55,
+    "contre": 12,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845413",
+    "libelle": "La France insoumise - Nouveau Front Populaire",
+    "abrege": "LFI-NFP",
+    "membres": 71,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 69,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845419",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 68,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 62,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845425",
+    "libelle": "Droite Républicaine",
+    "abrege": "DR",
+    "membres": 48,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 48,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845439",
+    "libelle": "Écologiste et Social",
+    "abrege": "EcoS",
+    "membres": 38,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 29,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845454",
+    "libelle": "Les Démocrates",
+    "abrege": "Dem",
+    "membres": 37,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 28,
+    "contre": 1,
+    "abstention": 5,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845470",
+    "libelle": "Horizons & Indépendants",
+    "abrege": "HOR",
+    "membres": 35,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 31,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845485",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 23,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 9,
+    "contre": 8,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO872880",
+    "libelle": "Union des droites pour la République",
+    "abrege": "UDR",
+    "membres": 17,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 14,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845514",
+    "libelle": "Gauche Démocrate et Républicaine",
+    "abrege": "GDR",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO840056",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 10,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 6,
+    "contre": 1,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "EcoS",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EPR",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "RN",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   }
+  }
+ },
+ {
+  "id": "aide-a-mourir",
+  "theme": "Société & bioéthique",
+  "scrutin": "VTANR5L17V8280",
+  "question": "Faut-il créer un droit à l'aide à mourir (suicide assisté / euthanasie encadrés) ?",
+  "sens": "pour=oui",
+  "date": "2026-07-15",
+  "titreScrutin": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 291,
+  "contre": 241,
+  "abstention": 29,
+  "dossier": "Fin de vie",
+  "dossierRef": "DLR5L17N51670",
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+  "groupes": [
+   {
+    "organe": "PO845401",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 122,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 12,
+    "contre": 106,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845407",
+    "libelle": "Ensemble pour la République",
+    "abrege": "EPR",
+    "membres": 91,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 64,
+    "contre": 18,
+    "abstention": 9,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845413",
+    "libelle": "La France insoumise - Nouveau Front Populaire",
+    "abrege": "LFI-NFP",
+    "membres": 71,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 61,
+    "contre": 2,
+    "abstention": 3,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845419",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 68,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 57,
+    "contre": 4,
+    "abstention": 6,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845425",
+    "libelle": "Droite Républicaine",
+    "abrege": "DR",
+    "membres": 48,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 5,
+    "contre": 41,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845439",
+    "libelle": "Écologiste et Social",
+    "abrege": "EcoS",
+    "membres": 38,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 33,
+    "contre": 2,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845454",
+    "libelle": "Les Démocrates",
+    "abrege": "Dem",
+    "membres": 37,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 20,
+    "contre": 16,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845470",
+    "libelle": "Horizons & Indépendants",
+    "abrege": "HOR",
+    "membres": 35,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 16,
+    "contre": 18,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845485",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 23,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 10,
+    "contre": 8,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845514",
+    "libelle": "Gauche Démocrate et Républicaine",
+    "abrege": "GDR",
+    "membres": 17,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "abstention",
+    "pour": 10,
+    "contre": 2,
+    "abstention": 3,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO872880",
+    "libelle": "Union des droites pour la République",
+    "abrege": "UDR",
+    "membres": 17,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 17,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO840056",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 10,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 3,
+    "contre": 7,
+    "abstention": 0,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EPR",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "contre",
+    "groupe": "RN",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   }
+  }
+ },
+ {
+  "id": "reseaux-sociaux-15",
+  "theme": "Société & bioéthique",
+  "scrutin": "VTANR5L17V8431",
+  "question": "Faut-il interdire les réseaux sociaux aux moins de 15 ans ?",
+  "sens": "pour=oui",
+  "date": "2026-07-21",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+  "typeVote": "scrutin public solennel",
+  "sort": "adopté",
+  "pour": 279,
+  "contre": 81,
+  "abstention": 66,
+  "dossier": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
+  "dossierRef": "DLR5L17N53187",
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+  "groupes": [
+   {
+    "organe": "PO845401",
+    "libelle": "Rassemblement National",
+    "abrege": "RN",
+    "membres": 122,
+    "majoritaire": "abstention",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 2,
+    "abstention": 14,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845407",
+    "libelle": "Ensemble pour la République",
+    "abrege": "EPR",
+    "membres": 91,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 83,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 1
+   },
+   {
+    "organe": "PO845413",
+    "libelle": "La France insoumise - Nouveau Front Populaire",
+    "abrege": "LFI-NFP",
+    "membres": 71,
+    "majoritaire": "contre",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 0,
+    "contre": 63,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845419",
+    "libelle": "Socialistes et apparentés",
+    "abrege": "SOC",
+    "membres": 68,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 30,
+    "contre": 0,
+    "abstention": 28,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845425",
+    "libelle": "Droite Républicaine",
+    "abrege": "DR",
+    "membres": 48,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 40,
+    "contre": 0,
+    "abstention": 3,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845439",
+    "libelle": "Écologiste et Social",
+    "abrege": "EcoS",
+    "membres": 38,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "contre",
+    "pour": 19,
+    "contre": 7,
+    "abstention": 7,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845454",
+    "libelle": "Les Démocrates",
+    "abrege": "Dem",
+    "membres": 37,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 32,
+    "contre": 1,
+    "abstention": 2,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845470",
+    "libelle": "Horizons & Indépendants",
+    "abrege": "HOR",
+    "membres": 35,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 33,
+    "contre": 0,
+    "abstention": 0,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845485",
+    "libelle": "Libertés, Indépendants, Outre-mer et Territoires",
+    "abrege": "LIOT",
+    "membres": 23,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 22,
+    "contre": 0,
+    "abstention": 1,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO872880",
+    "libelle": "Union des droites pour la République",
+    "abrege": "UDR",
+    "membres": 17,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 8,
+    "contre": 5,
+    "abstention": 4,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO845514",
+    "libelle": "Gauche Démocrate et Républicaine",
+    "abrege": "GDR",
+    "membres": 17,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 6,
+    "contre": 3,
+    "abstention": 5,
+    "nonVotants": 0
+   },
+   {
+    "organe": "PO840056",
+    "libelle": "Non inscrit",
+    "abrege": "NI",
+    "membres": 10,
+    "majoritaire": "pour",
+    "majoritaireOpenDataAN": "pour",
+    "pour": 6,
+    "contre": 0,
+    "abstention": 2,
+    "nonVotants": 0
+   }
+  ],
+  "candidats": {
+   "melenchon": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "roussel": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "ruffin": {
+    "gouvernement": null,
+    "position": "abstention",
+    "groupe": "EcoS",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "batho": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EcoS",
+    "parDelegation": true,
+    "source": "vote nominatif"
+   },
+   "attal": {
+    "gouvernement": null,
+    "position": "pour",
+    "groupe": "EPR",
+    "parDelegation": false,
+    "source": "vote nominatif"
+   },
+   "philippe": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "retailleau": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "bertrand": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   },
+   "lepen": {
+    "gouvernement": null,
+    "position": "absent",
+    "source": "député(e) à cette date, ne figure pas parmi les votants"
+   },
+   "dupontaignan": {
+    "gouvernement": null,
+    "position": null,
+    "source": "pas parlementaire votant dans ce scrutin"
+   }
+  }
+ }
+]

@@ -1,0 +1,18 @@
+{
+  "id": "fin-numerus-clausus",
+  "questionSimple": "Faut-il supprimer le quota d'étudiants en médecine et réorganiser les soins (loi « Ma santé 2022 ») ?",
+  "enBref": "Depuis les années 1970, un quota national, le numerus clausus, limitait le nombre d'étudiants admis à poursuivre médecine. La loi de 2019 le supprime et réorganise les soins, avec des hôpitaux de proximité et des stages dans les zones manquant de médecins.",
+  "pourquoiPour": "Ceux qui ont voté pour veulent former plus de médecins et varier leurs profils. Ils misent aussi sur une meilleure coordination entre professionnels de santé.",
+  "pourquoiContre": "Ceux qui ont voté contre jugent la loi trop faible face à la crise des hôpitaux et des urgences. Selon eux, plus d'étudiants n'aura d'effet que dans dix ans, sans régler les déserts médicaux.",
+  "ceQuiSestPasse": "Loi adoptée définitivement (138 pour, 18 contre) et promulguée le 24 juillet 2019 ; numerus clausus supprimé à la rentrée 2020.",
+  "lexique": [
+    {
+      "terme": "Numerus clausus",
+      "definition": "Nombre maximum d'étudiants autorisés chaque année à continuer leurs études de médecine."
+    },
+    {
+      "terme": "Zone sous-dense",
+      "definition": "Territoire où il y a trop peu de médecins pour les habitants."
+    }
+  ]
+}

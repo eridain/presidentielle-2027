@@ -1,0 +1,18 @@
+{
+  "id": "programmation-hopital",
+  "questionSimple": "Faut-il obliger l'État à voter tous les cinq ans un plan chiffré pour les hôpitaux publics et les EHPAD ?",
+  "enBref": "En juin 2020, juste après la première vague de Covid, les députés communistes ont proposé une loi obligeant l'État à planifier tous les cinq ans les moyens de l'hôpital public et des EHPAD : lits, embauches, salaires, formation des soignants.",
+  "pourquoiPour": "Ceux qui ont voté pour veulent que l'hôpital ne soit plus la variable d'ajustement du budget chaque année. Ils veulent planifier pour être prêts à une prochaine crise.",
+  "pourquoiContre": "Ceux qui ont voté contre jugeaient le texte trop centré sur le public, sans la prévention ni les cliniques. Ils préféraient attendre le « Ségur de la santé », la grande concertation alors en cours.",
+  "ceQuiSestPasse": "Rejeté le 18 juin 2020 (102 pour, 430 contre) ; le gouvernement a ensuite annoncé ses propres hausses de salaires avec le Ségur.",
+  "lexique": [
+    {
+      "terme": "EHPAD",
+      "definition": "Établissement d'hébergement pour personnes âgées dépendantes : une maison de retraite médicalisée."
+    },
+    {
+      "terme": "Loi de programmation",
+      "definition": "Loi qui fixe à l'avance, sur plusieurs années, les objectifs et les moyens d'une politique."
+    }
+  ]
+}

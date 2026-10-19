@@ -1,0 +1,218 @@
+{
+  "id": "encadrement-marges",
+  "titre": "Encadrement des marges contre l'inflation",
+  "question": "Faut-il encadrer les marges de l'agro-industrie, du raffinage et de la grande distribution pour lutter contre l'inflation ?",
+  "ouiSignifie": "pour",
+  "contexte": "Cette proposition de loi du groupe LFI-NUPES (rapporteur Manuel Bompard), examinée lors de sa journée réservée, proposait de fixer des prix planchers pour les produits agricoles, d'encadrer en 2024 les marges des géants de l'agroalimentaire et de la grande distribution (coefficients multiplicateurs plafonnés aux marges moyennes des dix dernières années), d'encadrer la marge brute de raffinage des carburants et de renforcer l'Observatoire de la formation des prix et des marges. Le texte, modifié en séance par plusieurs amendements, a été rejeté par l'Assemblée le 30 novembre 2023 en première lecture par 168 voix contre 162 : la gauche et le RN ont voté pour, Renaissance, MoDem, Horizons et LR contre. Le texte n'a donc pas été transmis au Sénat.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la discussion générale (30 novembre 2023, 1re séance)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N068"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu des explications de vote et du scrutin",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/industrie_agroalimentaire_inflation"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3101",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/industrie_agroalimentaire_inflation",
+  "argumentsPour": [
+    {
+      "auteur": "Manuel Bompard (LFI-NUPES, rapporteur)",
+      "resume": "La hausse des profits a été selon le FMI la première cause de l'inflation ; il faut agir par la loi contre les marges abusives des géants de l'agroalimentaire et de la distribution.",
+      "citation": "Selon le Fonds monétaire international, l’augmentation des profits a été la première cause de l’inflation en 2022 et sur le premier semestre de l’année 2023.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N068",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Grégoire de Fournas (RN)",
+      "resume": "Les lois Egalim ont aggravé la hausse des prix alimentaires ; face à la détresse des agriculteurs et des Français, le RN vote le texte.",
+      "citation": "Face à la détresse des agriculteurs et des Français qui ne s’en sortent plus, le groupe Rassemblement national prendra ses responsabilités et votera cette proposition de loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Sophie Taillé-Polian (Écologiste-NUPES)",
+      "resume": "Les prix de l'alimentation ont augmenté de 22 % en deux ans ; un système opaque de profits et de marges se cache derrière cette flambée.",
+      "citation": "Derrière la flambée des prix alimentaires se cache un système scandaleux et opaque de profits et de marges.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N068",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Guy Bricout (LIOT)",
+      "resume": "Certaines dispositions adoptées en séance vont dans le bon sens : prix plancher, observatoire renforcé, accords de modération des marges.",
+      "citation": "Certaines dispositions adoptées vont dans le bon sens : le prix plancher pour les matières premières agricoles",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Olivia Grégoire (ministre déléguée chargée de la consommation)",
+      "resume": "L'intervention de l'État doit être temporaire et avisée ; le gouvernement a déjà absorbé une grande partie du choc inflationniste.",
+      "citation": "Nous croyons que si l’État doit intervenir – et il l’a fait à chacune des crises passées –, cette intervention doit être temporaire et, surtout, avisée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N068",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Alexis Izard (Renaissance)",
+      "resume": "Les auditions ont montré l'inefficacité de l'encadrement des marges proposé ; le consommateur risquerait de voir des produits disparaître des rayons.",
+      "citation": "Les auditions qui se sont tenues entre la première et la deuxième version du texte ont toutes mis en avant l’inefficacité de l’encadrement des marges tel que vous le proposez.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N068",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Pierre-Henri Dumont (LR)",
+      "resume": "Un prix plancher annuel refléterait mal les coûts et risquerait de devenir un prix plafond pour les agriculteurs.",
+      "citation": "En effet, il y a un risque que le prix plancher devienne un prix plafond, ce qui restreindrait leurs revenus.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Anne-Laure Babault (Démocrate)",
+      "resume": "Le texte, débattu en quelques heures, n'est pas à la hauteur des enjeux ; il faut un travail plus large.",
+      "citation": "Cette proposition de loi dont nous n’avons débattu que quelques heures n’est pas à la hauteur des enjeux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2022 ; pas de déclaration retrouvée sur ce texte. Proxy indicatif : le groupe LFI-NUPES, auteur du texte, a voté pour (74 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin AN n°3101). Proxy indicatif : le groupe GDR-NUPES a voté pour (12 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°3101) ; pas d'intervention de fond retrouvée dans la séance : argument = celui du rapporteur de son groupe (Manuel Bompard).",
+      "argument": "Le groupe LFI-NUPES attribue l'inflation à la hausse des profits et veut encadrer les marges des géants de l'agroalimentaire, de la distribution et du raffinage.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N068",
+      "date": "2023-11-30"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; pas de déclaration retrouvée. Proxy indicatif : le groupe Écologiste-NUPES a voté pour (15 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°3101) ; pas d'intervention personnelle sur ce texte : argument = celui de son groupe Écologiste-NUPES (Sophie Taillé-Polian).",
+      "argument": "Le groupe écologiste dénonce un système opaque de profits et de marges derrière la hausse de 22 % des prix alimentaires en deux ans.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N068",
+      "date": "2023-11-30"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste a voté pour (12 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre de l'éducation nationale ; membre du gouvernement Borne, qui s'opposait au texte (ministre déléguée Olivia Grégoire).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N068",
+      "date": "2023-11-30"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons ; pas de déclaration retrouvée. Proxy indicatif : le groupe Horizons a voté contre (17 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; le texte, rejeté par l'Assemblée, n'est pas venu au Sénat. Pas de déclaration retrouvée. Proxy indicatif : le groupe LR de l'Assemblée a voté contre (6 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; pas de déclaration retrouvée. Proxy indicatif : LR à l'Assemblée a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; pas de déclaration retrouvée. Proxy indicatif : LR à l'Assemblée a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°3101) ; présidente du groupe RN ; argument = explication du groupe RN (Grégoire de Fournas).",
+      "argument": "Le groupe RN reproche aux lois Egalim d'avoir aggravé la hausse des prix alimentaires et vote le texte au nom des agriculteurs et des Français en difficulté.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député en 2023 ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député non inscrit, n'a pas pris part au vote (scrutin AN n°3101).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Texte rejeté à six voix près (162 pour, 168 contre) : la gauche et le RN ont voté pour, le bloc central et LR contre.",
+    "Le texte voté avait été modifié en séance (amendements RN, LIOT, LR) : le contenu décrit dans le contexte est celui présenté par le rapporteur en discussion générale.",
+    "Plusieurs arguments proviennent de la discussion générale (1re séance du 30 novembre 2023, compte rendu distinct) et non des explications de vote finales.",
+    "Ruffin, Batho, Le Pen : arguments repris de leur groupe faute d'intervention personnelle retrouvée sur le fond."
+  ]
+}

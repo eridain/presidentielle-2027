@@ -1,0 +1,22 @@
+{
+  "id": "pouvoir-achat-2022",
+  "questionSimple": "Faut-il voter la loi pouvoir d'achat 2022 : retraites et aides +4 %, prime sans impôts, loyers plafonnés, mesures énergie ?",
+  "enBref": "Face à la hausse des prix, la loi augmente de 4 % les retraites et plusieurs aides, comme le RSA et les allocations familiales. Les loyers ne peuvent pas monter de plus de 3,5 % pendant un an, et les employeurs peuvent verser une prime sans impôts. Elle ouvre aussi la voie à un terminal de gaz au Havre et à la relance possible de centrales à charbon.",
+  "pourquoiPour": "Avec une inflation de plus de 6 %, il fallait agir vite. Les hausses de retraites et d'aides, les primes et les baisses de cotisations protègent tout de suite les Français.",
+  "pourquoiContre": "Le texte mise sur des primes au lieu d'augmenter les salaires et le SMIC, et ne bloque pas les prix. Son volet gaz et charbon va contre les objectifs climatiques.",
+  "ceQuiSestPasse": "Adoptée le 3 août 2022, la loi a été promulguée le 16 août, après une décision du Conseil constitutionnel ne la validant que partiellement.",
+  "lexique": [
+    {
+      "terme": "Inflation",
+      "definition": "Hausse générale des prix : avec la même somme, on peut acheter moins de choses."
+    },
+    {
+      "terme": "Terminal méthanier",
+      "definition": "Installation dans un port qui reçoit du gaz livré par bateau."
+    },
+    {
+      "terme": "RSA",
+      "definition": "Revenu de solidarité active : aide versée aux personnes ayant peu ou pas de revenus."
+    }
+  ]
+}

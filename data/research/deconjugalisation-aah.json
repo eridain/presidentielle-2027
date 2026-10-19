@@ -1,0 +1,209 @@
+{
+  "id": "deconjugalisation-aah",
+  "titre": "Déconjugalisation de l'AAH (2020)",
+  "question": "Faut-il calculer l'allocation aux adultes handicapés (AAH) sans tenir compte des revenus du conjoint ?",
+  "ouiSignifie": "pour",
+  "contexte": "L'allocation aux adultes handicapés (AAH, environ 900 € par mois en 2020) est versée sous condition de ressources du couple : si le conjoint gagne assez, l'allocation baisse ou disparaît. La proposition de loi « portant diverses mesures de justice sociale » de Jeanine Dubié et Yannick Favennec Becot (Libertés et territoires) prévoyait de ne plus tenir compte des revenus du conjoint (article 2). Elle comportait aussi un crédit d'impôt pour les résidents d'EHPAD (article 1er, rejeté) et un report de la barrière d'âge pour la prestation de compensation du handicap. Elle a été adoptée en première lecture le 13 février 2020 par 44 voix contre 31, contre l'avis du gouvernement et de la majorité LaREM. Le Sénat a maintenu la mesure en 2021, mais l'Assemblée l'a remplacée en juin 2021 par un abattement sur les revenus du conjoint, à la demande du gouvernement. La déconjugalisation a finalement été votée dans la loi « pouvoir d'achat » du 16 août 2022 et s'applique depuis le 1er octobre 2023.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 13 février 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N142"
+    },
+    {
+      "titre": "Sénat – dossier législatif « Diverses mesures de justice sociale »",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl19-319.html"
+    },
+    {
+      "titre": "Informations handicap – AAH : sa déconjugalisation définitivement adoptée",
+      "url": "https://informations.handicap.fr/a-aah-senat-deconjugalisation-definitivement-adoptee-33353.php"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2454",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2454"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2454",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/mesures_justice_sociale",
+  "argumentsPour": [
+    {
+      "auteur": "Marie-George Buffet (Gauche démocrate et républicaine)",
+      "resume": "Des personnes handicapées dépendent financièrement de leur conjoint, avec des risques en cas de violences ; la mesure est une question de dignité.",
+      "citation": "il est urgent de répondre à cette question pour toute une série de personnes qui se trouvent aujourd’hui dans une situation de dépendance envers leur conjoint ou conjointe",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N142",
+      "date": "2020-02-13"
+    },
+    {
+      "auteur": "Aurélien Pradié (Les Républicains)",
+      "resume": "L'AAH compense un handicap, ce n'est pas un minimum social comme le RSA.",
+      "citation": "Vous commettez une erreur magistrale : l’AAH n’a rien à voir avec le RSA.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N142",
+      "date": "2020-02-13"
+    },
+    {
+      "auteur": "François Ruffin (La France insoumise)",
+      "resume": "L'AAH doit garantir l'autonomie financière de la personne handicapée, indépendamment de son couple.",
+      "citation": "Il s’agit d’une allocation d’autonomie qui vise à permettre à la personne handicapée de ne pas être dans la dépendance de son conjoint.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N142",
+      "date": "2020-02-13"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Christine Cloarec-Le Nabour (La République en marche)",
+      "resume": "L'AAH est un minimum social, qui tient compte des solidarités familiales ; c'est la PCH qui compense le handicap.",
+      "citation": "Elle s’articule légitimement avec les solidarités familiales –⁠ c’est notre vision des choses.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N142",
+      "date": "2020-02-13"
+    },
+    {
+      "auteur": "Sophie Cluzel (secrétaire d'État aux Personnes handicapées, gouvernement)",
+      "resume": "Le calcul par foyer protège aussi des allocataires qui travaillent quand leur conjoint ne travaille pas ; elle demande une évaluation commune.",
+      "citation": "cela peut être la personne handicapée qui assure le revenu du foyer – est elle aussi protégée par la familialisation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N142",
+      "date": "2020-02-13"
+    },
+    {
+      "auteur": "Véronique Hammerer (La République en marche)",
+      "resume": "Des mesures précipitées, sans évaluation approfondie ni financement prévu.",
+      "citation": "les mesures proposées dans le cadre de la proposition de loi arrivent, c’est vrai, de manière précipitée, sans que nous ne disposions d’évaluation véritablement approfondie ni d’informations concernant le financement de certaines d’entre elles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N142",
+      "date": "2020-02-13"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2454) ; intervenu en fin de séance sur le déroulement du vote.",
+      "argument": "Il accuse la majorité, opposée au texte, d'inhumanité.",
+      "citation": "Vous êtes, une fois de plus, pris en flagrant délit d’inhumanité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N142",
+      "date": "2020-02-13"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe GDR a voté pour (2 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2454",
+      "date": "2020-02-13"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2454) ; intervenu à plusieurs reprises en séance.",
+      "argument": "L'AAH doit garantir l'autonomie de la personne handicapée : le handicap ne disparaît pas parce qu'elle vit en couple.",
+      "citation": "Il s’agit d’une allocation d’autonomie qui vise à permettre à la personne handicapée de ne pas être dans la dépendance de son conjoint.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N142",
+      "date": "2020-02-13"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Pas de groupe écologiste à l'Assemblée en février 2020 : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2454",
+      "date": "2020-02-13"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée non inscrite, n'a pas pris part au vote ; aucune déclaration retrouvée. Le seul non-inscrit votant a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2454",
+      "date": "2020-02-13"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (6 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2454",
+      "date": "2020-02-13"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État du gouvernement Philippe, opposé au texte (avis défavorable de la secrétaire d'État Sophie Cluzel) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N142",
+      "date": "2020-02-13"
+    },
+    "philippe": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement opposé au texte ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N142",
+      "date": "2020-02-13"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur, président du groupe LR ; a voté pour la proposition de loi en deuxième lecture au Sénat (scrutin n°2 du 12 octobre 2021), version qui rétablissait la déconjugalisation.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2021/scr2021-2.html",
+      "date": "2021-10-12"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté pour (8 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2454",
+      "date": "2020-02-13"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté pour (8 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2454",
+      "date": "2020-02-13"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée non inscrite, n'a pas pris part au vote ; aucune déclaration retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2454",
+      "date": "2020-02-13"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2020 ; aucune déclaration retrouvée. Pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2454",
+      "date": "2020-02-13"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non inscrit, n'a pas pris part au vote ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2454",
+      "date": "2020-02-13"
+    }
+  },
+  "alertes": [
+    "Portée : vote sur l'ensemble d'une proposition de loi qui comprend d'autres mesures, notamment sur la prestation de compensation du handicap. Participation très faible (79 votants, niche parlementaire).",
+    "Retailleau : vote au Sénat en octobre 2021 sur une version ultérieure du même texte, pas sur le texte de février 2020.",
+    "Mélenchon : la citation vient d'une intervention sur le déroulement du vote (délégations de vote), pas d'un argument de fond sur l'AAH.",
+    "Attal et Philippe : position déduite de leur appartenance au gouvernement Philippe, opposé au texte. Le gouvernement s'est rallié à la déconjugalisation en 2022, sous Élisabeth Borne.",
+    "Roussel, Batho, Le Pen, Dupont-Aignan n'ont pas pris part au vote : positions « inconnu »."
+  ]
+}

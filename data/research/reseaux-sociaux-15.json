@@ -1,0 +1,232 @@
+{
+  "id": "reseaux-sociaux-15",
+  "titre": "Interdiction des réseaux sociaux avant 15 ans",
+  "question": "Faut-il interdire l'accès aux réseaux sociaux aux moins de 15 ans ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi de Laure Miller (EPR) interdit l'accès aux réseaux sociaux aux mineurs de moins de 15 ans, étend l'interdiction du téléphone portable aux lycées et crée une peine complémentaire de « bannissement numérique ». Après accord en commission mixte paritaire, elle a été adoptée le 21 juillet 2026 par l'Assemblée (279 pour, 81 contre, 66 abstentions) et par le Sénat. Saisi par des députés socialistes et insoumis, le Conseil constitutionnel a censuré l'interdiction (article 1er), jugée disproportionnée au regard de la liberté d'expression (décision n° 2026-911 DC du 14 août 2026). La loi n° 2026-813 a été promulguée le 24 août 2026 sans cet article ; le président de la République a demandé une nouvelle rédaction.",
+  "contexteSources": [
+    {
+      "titre": "Dossier législatif – Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e"
+    },
+    {
+      "titre": "Dossier législatif – Sénat",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-304.html"
+    },
+    {
+      "titre": "L'interdiction des réseaux sociaux aux moins de 15 ans censurée par le Conseil constitutionnel (Le Monde/AFP, 14/08/2026)",
+      "url": "https://www.lemonde.fr/pixels/article/2026/08/14/l-interdiction-des-reseaux-sociaux-aux-moins-de-quinze-ans-censuree-par-le-conseil-constitutionnel_6746255_4408996.html"
+    },
+    {
+      "titre": "Ban on social media for under 15s ruled unconstitutional (IRIS/Observatoire européen de l'audiovisuel)",
+      "url": "https://merlin.obs.coe.int/article/10630"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_reseaux_sociaux_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Anne Genetet (Ensemble pour la République)",
+      "resume": "Face à des entreprises qui captent l'attention des enfants, la puissance publique doit intervenir ; la France serait le premier pays européen à fixer cette interdiction.",
+      "citation": "Ce texte constitue une avancée majeure : nous sommes le premier pays européen à interdire les réseaux sociaux aux moins de 15 ans.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Laurent Marcangeli (Horizons & Indépendants)",
+      "resume": "La loi de 2023 sur la majorité numérique n'a jamais été appliquée ; l'évolution du droit européen et le consensus scientifique permettent désormais une interdiction ferme.",
+      "citation": "Il y a trois ans, je montais à cette tribune pour défendre une idée simple : un enfant de moins de 15 ans n’a rien à faire sur un réseau social.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Lionel Duparay (Droite républicaine)",
+      "resume": "Les réseaux sociaux nuisent au développement des enfants ; soutien à l'interdiction et au portable interdit au lycée, avec une exigence de protection des données lors du contrôle d'âge.",
+      "citation": "Pour protéger la jeunesse contre le principal fléau de notre époque, le groupe Droite républicaine votera en faveur de la proposition de loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Lisa Belluco (Écologiste et social)",
+      "resume": "Les plateformes obéissent à des logiques de profit qui accaparent le temps des jeunes ; soutien majoritaire, avec des demandes de garanties sur l'anonymat en ligne.",
+      "citation": "Notre Parlement a choisi l’âge de 15 ans et le groupe Écologiste et social soutiendra majoritairement cette mesure.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023",
+      "date": "2026-07-21"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Arnaud Saint-Martin (La France insoumise)",
+      "resume": "La vérification d'âge imposée à tous mettrait fin à l'anonymat en ligne ; une loi jugée paternaliste et contournable, alors qu'il faudrait réguler les plateformes et investir dans l'éducation.",
+      "citation": "L’obligation de vérifier l’âge a des implications directement liberticides, car elle s’imposera à tout le monde, signant ainsi la fin de l’anonymat en ligne, pilier natif d’internet, d’un numérique alternatif et émancipateur.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Louis Boyard (La France insoumise)",
+      "resume": "Motion de rejet : interdiction jugée inapplicable et contournable (VPN, comptes empruntés), imposant à tous une vérification d'identité ; les vraies causes du mal-être des jeunes seraient sociales.",
+      "citation": "C’est une loi qui vise à imposer à toute la population française, quel que soit son âge, une vérification d’identité pour se connecter aux réseaux sociaux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023",
+      "date": "2026-07-21"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Laure Lavalette (Rassemblement national)",
+      "resume": "Le RN partage l'objectif mais juge que le texte ne dit rien des modalités techniques et menace les libertés publiques ; il demande son retrait et annonce l'abstention.",
+      "citation": "nous vous invitons, madame la ministre, à le retirer de l’ordre du jour et à revoir votre copie, sans quoi nous refuserons de le voter et nous nous abstiendrons.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Arthur Delaporte (Socialistes et apparentés)",
+      "resume": "Accord sur l'esprit du texte, mais des questions non résolues sur le contrôle de l'âge et les libertés ; annonce d'une saisine du Conseil constitutionnel (groupe partagé entre pour et abstention).",
+      "citation": "C’est une des raisons pour lesquelles nous saisirons le Conseil constitutionnel, même si nous partageons l’esprit du message envoyé par le texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023",
+      "date": "2026-07-21"
+    },
+    {
+      "auteur": "Soumya Bourouaha (Gauche démocrate et républicaine)",
+      "resume": "Un texte vidé de ses mesures de prévention, réduit à des dispositions déclaratives dont l'application n'est pas démontrée ; le groupe se partage entre trois votes.",
+      "citation": "En réalité, ce texte n’est qu’une loi d’affichage, et non la réforme de fond attendue pour protéger les mineurs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023",
+      "date": "2026-07-21"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Message sur X du 15 août 2026, rapporté par Le Parisien/AFP, saluant la censure du Conseil constitutionnel ; non député, son groupe LFI-NFP a voté contre (0 pour, 63 contre).",
+      "argument": "La loi organiserait un contrôle général de l'identité en ligne, sous couvert d'un contrôle des moins de 15 ans jugé irréaliste ; il dénonce un « flicage numérique ».",
+      "citation": "Le Conseil constitutionnel nous donne raison en censurant la loi visant au contrôle général de l’identité sur Internet sous prétexte de l’utopique contrôle des moins de 15 ans",
+      "url": "https://www.leparisien.fr/politique/interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-jean-luc-melenchon-salue-une-victoire-majeure-pour-nos-libertes-15-08-2026-GE52VRFK7FBXBBXR3Z4OWKERSA.php",
+      "date": "2026-08-15"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2026 ; aucune déclaration retrouvée. PROXY : le groupe GDR s'est divisé (6 pour, 3 contre, 5 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale (abstention), scrutin n° 8431 du 21 juillet 2026. Aucune intervention personnelle retrouvée ; son groupe Écologiste et social a majoritairement voté pour, son argument n'est donc pas transposable.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+      "date": "2026-07-21"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a majoritairement voté pour (19 pour, 7 contre, 7 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 8431 du 21 juillet 2026. Pas d'intervention de fond retrouvée : argument = discussion générale de son groupe Écologiste et social (Lisa Belluco).",
+      "argument": "(Groupe EcoS) Les plateformes accaparent le temps des jeunes au service d'intérêts privés ; soutien majoritaire à l'âge de 15 ans, avec des garanties demandées sur l'anonymat.",
+      "citation": "Notre Parlement a choisi l’âge de 15 ans et le groupe Écologiste et social soutiendra majoritairement cette mesure.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N023",
+      "date": "2026-07-21"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes et apparentés, allié de Place publique, s'est partagé (30 pour, 0 contre, 28 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 8431 du 21 juillet 2026 ; après la censure, il a demandé un référendum sur l'interdiction (entretien à La Tribune, rapporté par 20 Minutes/AFP).",
+      "argument": "Il faut agir vite contre l'exposition des enfants aux algorithmes ; une nouvelle procédure législative prendrait deux ans, d'où sa proposition de référendum.",
+      "citation": "C’est 1,5 million d’enfants que nous laisserions, chaque jour, pendant 1 heure et 47 minutes en moyenne, dans les griffes des algorithmes",
+      "url": "https://www.20minutes.fr/politique/4239355-20260816-reseaux-sociaux-interdits-moins-15-ans-gabriel-attal-appelle-executif-referendum",
+      "date": "2026-08-15"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY : le groupe Horizons & Indépendants, de son parti, a voté pour (33 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif au Sénat pour l'ensemble du texte de la CMP, scrutin public n° 337 du 21 juillet 2026.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-337.html",
+      "date": "2026-07-21"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY : la Droite républicaine (LR) a voté pour (40 pour, 0 contre, 3 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY indicatif : la Droite républicaine (LR) a voté pour (40 pour, 0 contre, 3 abstentions) ; Lisnard a quitté LR en 2026 pour Nouvelle Énergie, sans groupe propre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote. Son groupe RN avait annoncé l'abstention : 2 contre, 14 abstentions, la plupart de ses membres n'ayant pas voté. Aucune déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Message sur X après l'adoption en première lecture à l'Assemblée (janvier 2026), rapporté par franceinfo.",
+      "argument": "La vérification de l'âge exigerait la carte d'identité de tous les utilisateurs et engagerait vers une surveillance générale de la population.",
+      "citation": "Tout le monde sera fliqué au nom de la protection de l'enfance.",
+      "url": "https://www.franceinfo.fr/internet/reseaux-sociaux/vrai-ou-faux-l-interdiction-des-reseaux-sociaux-aux-moins-de-15-ans-permettrait-elle-de-fliquer-la-population-comme-le-denonce-eric-zemmour_7767827.html",
+      "date": "2026-01-29"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2026 ; aucune déclaration vérifiée ; Debout la France n'a pas de groupe à l'Assemblée : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "L'article 1er (interdiction aux moins de 15 ans) a été censuré par le Conseil constitutionnel le 14 août 2026 : la loi promulguée ne contient pas l'interdiction. Les votes portent sur le texte avant censure.",
+    "RN : tasks.json classe le groupe « contre » (2 contre, 14 abstentions) ; seuls 16 des 123 députés RN ont voté et l'oratrice a annoncé l'abstention (CR du 21/07/2026). En première lecture, le RN aurait voté pour selon Zemmour (franceinfo) : non vérifié.",
+    "Socialistes (30 pour/28 abstentions) et GDR (6/3/5) se sont divisés : les proxys de Glucksmann et Roussel sont peu informatifs.",
+    "Zemmour : date du message non précisée par franceinfo ; date retenue = publication de l'article (29/01/2026).",
+    "Dupont-Aignan : des publications Facebook sur l'« identité numérique » apparaissent en recherche, mais elles sont inaccessibles (HTTP 400) : non utilisées.",
+    "Les deux arguments « contre » viennent de LFI, seul groupe à voter contre en bloc ; les autres opposants (une partie de l'UDR, du GDR et d'EcoS) n'ont pas présenté d'explication de groupe."
+  ]
+}

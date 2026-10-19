@@ -1,0 +1,22 @@
+{
+  "id": "retention-210j",
+  "questionSimple": "Faut-il pouvoir garder en rétention jusqu'à 210 jours (contre 90) les étrangers expulsables condamnés pour faits graves ou dangereux ?",
+  "enBref": "Un étranger en attente d'expulsion peut être retenu 90 jours au maximum, sauf en cas de terrorisme. Le texte étend ce régime plus long, jusqu'à 180 voire 210 jours, aux étrangers condamnés pour des faits graves ou jugés très dangereux. Il permet aussi de prendre leurs empreintes sans leur accord.",
+  "pourquoiPour": "Des étrangers condamnés pour des crimes graves sont relâchés après 90 jours, faute de papiers de leur pays pour les renvoyer. Un délai plus long, contrôlé par le juge, permettrait de les expulser vraiment.",
+  "pourquoiContre": "La plupart des expulsions ont lieu dans les premiers jours : allonger la durée enfermerait plus sans expulser davantage. Le blocage vient des papiers des pays d'origine, et punir relève de la justice pénale.",
+  "ceQuiSestPasse": "Loi adoptée en juillet 2025, mais le Conseil constitutionnel a supprimé l'allongement à 180 ou 210 jours : cette mesure centrale ne s'applique pas.",
+  "lexique": [
+    {
+      "terme": "Rétention administrative",
+      "definition": "Enfermement d'un étranger dans un centre, décidé par l'administration, en attendant son expulsion."
+    },
+    {
+      "terme": "Laissez-passer consulaire",
+      "definition": "Document délivré par le pays d'origine, nécessaire pour y renvoyer un étranger sans passeport."
+    },
+    {
+      "terme": "Conseil constitutionnel",
+      "definition": "Juges qui vérifient qu'une loi respecte la Constitution et peuvent en supprimer des articles."
+    }
+  ]
+}

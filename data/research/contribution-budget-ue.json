@@ -1,0 +1,214 @@
+{
+  "id": "contribution-budget-ue",
+  "titre": "Contribution de la France au budget européen 2023",
+  "question": "Faut-il verser la contribution de la France au budget de l'Union européenne (environ 25 milliards d'euros en 2023) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le vote porte sur l'article 25 du projet de loi de finances pour 2023 (première lecture), qui fixe le prélèvement sur les recettes de l'État au profit du budget de l'Union européenne, évalué à 24,6 milliards d'euros pour 2023. L'article a été adopté le 19 octobre 2022 (212 pour, 146 contre, 27 abstentions), après le rejet d'un amendement du RN visant à réduire ce montant de 10 milliards. Le même jour, la Première ministre Élisabeth Borne a engagé la responsabilité du gouvernement (article 49.3) sur la première partie du budget ; la loi de finances pour 2023 a été promulguée le 30 décembre 2022 (loi n° 2022-1726).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 19 octobre 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/seance-du-mercredi-19-octobre-2022"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°349 (article 25)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349"
+    },
+    {
+      "titre": "Assemblée nationale – dossier du projet de loi de finances pour 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/plf_2023"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/plf_2023",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-René Cazeneuve (Renaissance, rapporteur général)",
+      "resume": "L'Union est au rendez-vous des grands défis ; c'est dans ce cadre que s'organisent la souveraineté et la sécurité françaises.",
+      "citation": "C’est dans cet espace politique commun que s’organisent désormais notre souveraineté et notre sécurité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/seance-du-mercredi-19-octobre-2022",
+      "date": "2022-10-19"
+    },
+    {
+      "auteur": "Laurence Boone (secrétaire d'État aux affaires européennes, gouvernement)",
+      "resume": "Le budget européen a permis de soutenir l'Ukraine, de faire face à la crise énergétique et de financer le plan de relance.",
+      "citation": "le budget de l’Union européenne a permis d’apporter un soutien décisif à l’Ukraine, de faire face à la crise énergétique et économique, et de préparer l’avenir grâce au plan de relance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/seance-du-mercredi-19-octobre-2022",
+      "date": "2022-10-19"
+    },
+    {
+      "auteur": "Philippe Brun (Socialistes)",
+      "resume": "Malgré des réserves sur l'ambition européenne, le groupe vote l'article par attachement à l'Europe et pour la transformer.",
+      "citation": "Parce que nous sommes européens, mais aussi parce que nous voulons une autre Europe, nous voterons pour l’article 25.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/seance-du-mercredi-19-octobre-2022",
+      "date": "2022-10-19"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Philippe Tanguy (Rassemblement national)",
+      "resume": "L'argent versé serait mal dépensé ; chaque euro devrait revenir utilement à l'économie française. Le RN défendait une baisse de 10 milliards.",
+      "citation": "La lumière ne nous ayant pas atteints, nous voterons contre ces 24 milliards d’euros mal dépensés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/seance-du-mercredi-19-octobre-2022",
+      "date": "2022-10-19"
+    },
+    {
+      "auteur": "Jean-Paul Lecoq (Gauche démocrate et républicaine)",
+      "resume": "Le problème n'est pas le montant mais la construction européenne : l'Union renonce à des recettes douanières et signe des traités de libre-échange nuisibles aux éleveurs.",
+      "citation": "Ce n’est pas être pour ou contre l’Europe que de dire cela, c’est considérer que l’Europe telle qu’elle existe actuellement pose un problème qui doit être examiné.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/seance-du-mercredi-19-octobre-2022",
+      "date": "2022-10-19"
+    },
+    {
+      "auteur": "Éric Coquerel (La France insoumise, président de la commission des finances)",
+      "resume": "Il faut réviser en profondeur les traités pour changer les règles de l'Union.",
+      "citation": "C’est pourquoi nous invitons à réviser en profondeur les traités européens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/seance-du-mercredi-19-octobre-2022",
+      "date": "2022-10-19"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Pierre-Henri Dumont (Les Républicains)",
+      "resume": "Le groupe LR exprime sa circonspection, notamment sur la lenteur des nouvelles ressources propres et de la taxe carbone aux frontières.",
+      "citation": "Permettez-moi tout d’abord de vous faire part de la circonspection des députés du groupe Les Républicains vis-à-vis de ce prélèvement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/seance-du-mercredi-19-octobre-2022",
+      "date": "2022-10-19"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2022 ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour / 60 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349",
+      "date": "2022-10-19"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre l'article 25 (scrutin n°349) ; pas d'intervention développée retrouvée, argument = explication du groupe GDR (Jean-Paul Lecoq).",
+      "argument": "Le groupe GDR critique moins le montant que l'orientation de l'Union : libre-échange, renoncement aux droits de douane.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/seance-du-mercredi-19-octobre-2022",
+      "date": "2022-10-19"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre l'article 25 (scrutin n°349) ; pas d'intervention personnelle retrouvée, argument = position du groupe LFI (Éric Coquerel).",
+      "argument": "LFI appelle à réviser en profondeur les traités européens.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/seance-du-mercredi-19-octobre-2022",
+      "date": "2022-10-19"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste a voté pour (12 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349",
+      "date": "2022-10-19"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°349) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349",
+      "date": "2022-10-19"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (15 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349",
+      "date": "2022-10-19"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des comptes publics dans le gouvernement Borne, qui a présenté le projet de loi de finances ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/plf_2023",
+      "date": "2022-10-19"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (maire du Havre) ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (22 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349",
+      "date": "2022-10-19"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; aucun vote ni déclaration retrouvés sur cet article. PROXY : le groupe LR de l'Assemblée s'est majoritairement abstenu (6 pour / 0 contre / 24 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349",
+      "date": "2022-10-19"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée s'est majoritairement abstenu (6 pour / 24 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349",
+      "date": "2022-10-19"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) s'est majoritairement abstenu (6 pour / 24 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349",
+      "date": "2022-10-19"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Députée, n'a pas pris part au vote sur l'article 25 (scrutin n°349) ; dans le même débat, elle a soutenu l'amendement RN de réduction de la contribution française.",
+      "argument": "Elle estime que la France, contrairement à d'autres pays, n'obtient pas de rabais et que la question est le consentement à la dépense européenne.",
+      "citation": "Seule la France, pigeon de l’Union européenne, ne cesse, année après année, d’augmenter sa contribution nette…",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/seance-du-mercredi-19-octobre-2022",
+      "date": "2022-10-19"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349",
+      "date": "2022-10-19"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député (non-inscrit), n'a pas pris part au vote (scrutin n°349) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/349",
+      "date": "2022-10-19"
+    }
+  },
+  "alertes": [
+    "Vote sur un article (article 25 du PLF 2023, première lecture), pas sur l'ensemble du budget ; la loi de finances a ensuite été adoptée via l'article 49.3 et promulguée le 30 décembre 2022.",
+    "Le Pen : n'a pas pris part au scrutin sur l'article ; sa position « contre » se fonde sur son intervention en faveur d'un amendement RN réduisant la contribution de 10 milliards, et non supprimant la contribution.",
+    "Le montant voté (24,6 milliards d'euros selon le débat) est une évaluation ; la question arrondit à « environ 25 milliards ».",
+    "Batho : n'a pas pris part au vote ; aucune déclaration retrouvée.",
+    "Dupont-Aignan : député non-inscrit, n'a pas pris part au vote ; aucune déclaration retrouvée.",
+    "Attal : ministre des comptes publics à la date du vote ; position déduite de l'appartenance au gouvernement."
+  ]
+}

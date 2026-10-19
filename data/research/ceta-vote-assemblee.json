@@ -1,0 +1,212 @@
+{
+  "id": "ceta-vote-assemblee",
+  "titre": "Demande d'un vote de l'Assemblée sur le CETA",
+  "question": "Faut-il que l'Assemblée nationale se prononce à son tour sur la ratification du CETA, après son rejet par le Sénat en 2024 ?",
+  "ouiSignifie": "pour",
+  "contexte": "Proposition de résolution du groupe GDR (communistes et ultramarins), sans valeur contraignante, demandant au gouvernement d'inscrire à l'ordre du jour de l'Assemblée la ratification du CETA, l'accord de libre-échange UE-Canada appliqué à titre provisoire depuis 2017. Le Sénat avait refusé l'article autorisant cette ratification le 21 mars 2024 ; le gouvernement n'avait pas transmis le texte à l'Assemblée et souhaitait d'abord un « débat apaisé ». La résolution a été adoptée le 30 mai 2024, à dix jours des élections européennes (151 pour, 4 contre, 65 abstentions), les groupes de la majorité s'abstenant.",
+  "contexteSources": [
+    {
+      "titre": "LCP – CETA : le gouvernement sommé de soumettre l'accord à un vote de l'Assemblée",
+      "url": "https://lcp.fr/actualites/ceta-le-gouvernement-somme-de-soumettre-l-accord-commercial-avec-le-canada-a-un-vote-de"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°3991",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3991"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/ratification_CETA_2"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3991",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/ratification_CETA_2",
+  "argumentsPour": [
+    {
+      "auteur": "André Chassaigne (Gauche démocrate et républicaine, auteur)",
+      "resume": "Le gouvernement repousse le vote par crainte d'un rejet, alors que ni les Français ni les élus ne veulent du CETA ; il y voit un déni démocratique.",
+      "citation": "Les années passent et le projet de loi de ratification n’est toujours pas inscrit à l’ordre du jour du Sénat, tant le Gouvernement redoute son rejet.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-jeudi-30-mai-2024",
+      "date": "2024-05-30"
+    },
+    {
+      "auteur": "Timothée Houssin (Rassemblement national)",
+      "resume": "Le CETA permet d'importer ce qu'il est interdit de produire en France ; l'Assemblée doit pouvoir dire non à son tour.",
+      "citation": "Aujourd’hui, c’est l’Assemblée nationale, que vous ne vouliez pas consulter, qui, à l’initiative de l’opposition, a l’occasion à son tour de dire symboliquement non au Ceta",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-jeudi-30-mai-2024",
+      "date": "2024-05-30"
+    },
+    {
+      "auteur": "Pierre-Henri Dumont (Les Républicains)",
+      "resume": "Le CETA fragilise l'élevage bovin et la filière sucre ; le gouvernement en fait un « totem » au détriment des agriculteurs.",
+      "citation": "vous leur faites un nouveau bras d’honneur en tenant le Ceta pour un totem indépassable",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-jeudi-30-mai-2024",
+      "date": "2024-05-30"
+    },
+    {
+      "auteur": "Matthias Tavel (La France insoumise)",
+      "resume": "En évitant le vote, le gouvernement substituerait les intérêts marchands à la souveraineté du peuple.",
+      "citation": "Vous remplacez les parlementaires par les marchands, la souveraineté du peuple par le bon plaisir du monarque et des multinationales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-jeudi-30-mai-2024",
+      "date": "2024-05-30"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Franck Riester (ministre délégué au commerce extérieur, gouvernement)",
+      "resume": "Le texte sera inscrit plus tard, après un débat apaisé ; le CETA a fait progresser les exportations françaises et l'Europe doit commercer sans être lésée.",
+      "citation": "La vision que nous défendons est celle d’une Europe qui sait qu’elle a besoin de commercer avec le monde et qui le fait sans être lésée",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-jeudi-30-mai-2024",
+      "date": "2024-05-30"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Christopher Weissberg (Renaissance)",
+      "resume": "Le groupe Renaissance s'abstient : il dit ne pas être contre la démocratie mais conteste les arguments avancés contre le traité.",
+      "citation": "nous nous abstiendrons – nous ne sommes pas contre la démocratie, mais quelle tristesse pour la démocratie, d’entendre raconter n’importe quoi, intervention après intervention !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-jeudi-30-mai-2024",
+      "date": "2024-05-30"
+    },
+    {
+      "auteur": "Henri Alfandari (Horizons)",
+      "resume": "Horizons ne peut voter contre l'article unique mais s'abstient en raison des considérants, jugés excessifs.",
+      "citation": "En raison des excès que l’on peut lire dans ses considérants, le groupe Horizons et apparentés s’abstiendra sur cette proposition de résolution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-jeudi-30-mai-2024",
+      "date": "2024-05-30"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2022 ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NUPES a voté pour (45 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3991",
+      "date": "2024-05-30"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3991) ; argument tiré de son interview sur franceinfo du 9 avril 2024.",
+      "argument": "Après le rejet du Sénat, il réclame un vote de l'Assemblée sur le CETA et, à défaut, un référendum.",
+      "citation": "Une autre manière de rejeter ce Ceta, c'est ou par la voie du Parlement ou par la voie du référendum",
+      "url": "https://www.franceinfo.fr/politique/fabien-roussel/ceta-s-il-le-faut-nous-lancerons-un-processus-de-referendum-d-initiative-parlementaire-declare-le-communiste-fabien-roussel_6476096.html",
+      "date": "2024-04-09"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3991) ; pas d'intervention personnelle retrouvée, argument = explication du groupe LFI (Matthias Tavel).",
+      "argument": "Le groupe LFI reproche au gouvernement de contourner le Parlement au profit des intérêts commerciaux.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-jeudi-30-mai-2024",
+      "date": "2024-05-30"
+    },
+    "tondelier": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; déclaration sur franceinfo le 26 mars 2024, après le rejet du CETA au Sénat.",
+      "argument": "Elle dénonce l'idée d'appliquer le CETA même si les parlementaires votent contre, qu'elle juge contraire à la démocratie.",
+      "citation": "Quel aveu d'irrespect pour la démocratie, pour nos parlementaires",
+      "url": "https://www.radiofrance.fr/franceinfo/podcasts/8h30-franceinfo/deficit-public-lutte-contre-le-trafic-de-drogue-et-accord-du-ceta-le-8h30-franceinfo-de-marine-tondelier-8774784",
+      "date": "2024-03-26"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3991) ; pas d'intervention personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3991",
+      "date": "2024-05-30"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (23 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3991",
+      "date": "2024-05-30"
+    },
+    "attal": {
+      "position": "abstention",
+      "type": "gouvernement",
+      "detail": "Premier ministre ; son gouvernement n'a pas appelé à voter contre mais a refusé une inscription immédiate (Franck Riester), et le groupe Renaissance s'est abstenu (45 abstentions). Pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://lcp.fr/actualites/ceta-le-gouvernement-somme-de-soumettre-l-accord-commercial-avec-le-canada-a-un-vote-de",
+      "date": "2024-05-30"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (maire du Havre, président d'Horizons) ; aucune déclaration retrouvée. PROXY : le groupe Horizons s'est majoritairement abstenu (5 pour / 2 contre / 6 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3991",
+      "date": "2024-05-30"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur : il avait voté contre la ratification du CETA au Sénat le 21 mars 2024, mais aucune déclaration retrouvée sur un vote de l'Assemblée. PROXY : le groupe LR de l'Assemblée a voté pour (6 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3991",
+      "date": "2024-05-30"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (6 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3991",
+      "date": "2024-05-30"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (6 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3991",
+      "date": "2024-05-30"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3991) ; pas d'intervention personnelle retrouvée, argument = explication du groupe RN (Timothée Houssin).",
+      "argument": "Le groupe RN veut que l'Assemblée dise non au CETA, qui permettrait d'importer des produits interdits de production en France.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-jeudi-30-mai-2024",
+      "date": "2024-05-30"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3991",
+      "date": "2024-05-30"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3991) ; pas d'intervention personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3991",
+      "date": "2024-05-30"
+    }
+  },
+  "alertes": [
+    "Résolution sans valeur contraignante : elle demande l'inscription du texte à l'ordre du jour, elle ne vaut pas rejet du CETA, même si la plupart des orateurs favorables sont opposés à l'accord.",
+    "Attal : le gouvernement a défendu le CETA et refusé une inscription immédiate, sans appeler à voter contre ; la position « abstention » reflète le vote de son groupe et l'attitude du gouvernement, non une déclaration personnelle.",
+    "Roussel et Tondelier : déclarations de mars-avril 2024, antérieures au scrutin, portant sur la nécessité d'un vote parlementaire.",
+    "Retailleau : son vote au Sénat porte sur la ratification elle-même, pas sur la procédure visée par cette résolution."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "loi-sren",
+  "questionSimple": "Faut-il mieux encadrer internet : vérifier l'âge sur les sites pornos, alerter contre les arnaques, bannir les harceleurs ?",
+  "enBref": "La loi SREN veut rendre internet plus sûr. Les sites pornos doivent vérifier que l'utilisateur a 18 ans. Un filtre prévient avant d'ouvrir un site d'arnaque. Un juge peut interdire les réseaux sociaux à un harceleur condamné.",
+  "pourquoiPour": "Pour ses défenseurs, les grandes plateformes ne protègent pas assez les enfants et les victimes. L'État doit pouvoir agir contre les arnaques, la pornographie et le harcèlement.",
+  "pourquoiContre": "Pour ses opposants, certaines mesures menacent la liberté d'expression et la vie privée. La vérification de l'âge serait difficile à appliquer et risquée pour les données personnelles.",
+  "ceQuiSestPasse": "Adoptée le 10 avril 2024, la loi a été en partie censurée par le Conseil constitutionnel puis promulguée le 21 mai 2024.",
+  "lexique": [
+    {
+      "terme": "Arcom",
+      "definition": "Autorité publique qui contrôle l'audiovisuel et le numérique."
+    },
+    {
+      "terme": "Bannissement numérique",
+      "definition": "Interdiction, décidée par un juge, d'utiliser un réseau social pendant un temps."
+    }
+  ]
+}

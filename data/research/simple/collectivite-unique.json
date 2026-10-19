@@ -1,0 +1,18 @@
+{
+  "id": "collectivite-unique",
+  "questionSimple": "Faut-il que l'Alsace quitte le Grand Est et devienne à la fois région et département ?",
+  "enBref": "Depuis 2016, l'Alsace fait partie de la grande région Grand Est. Ce texte veut créer une collectivité Alsace qui ferait le travail d'une région et d'un département. Les habitants devraient l'approuver par référendum.",
+  "pourquoiPour": "Pour ses défenseurs, la fusion de 2015 a été imposée depuis Paris et a effacé l'identité alsacienne. Une collectivité unique serait plus proche des habitants et plus simple.",
+  "pourquoiContre": "Pour ses opposants, le texte est mal préparé, sans étude de ses effets. On ne peut pas redécouper une région à part sans penser au reste du pays.",
+  "ceQuiSestPasse": "Adopté par l'Assemblée le 8 avril 2026 en première lecture, le texte attend son examen par le Sénat.",
+  "lexique": [
+    {
+      "terme": "Millefeuille territorial",
+      "definition": "Empilement des niveaux d'administration locale : communes, départements, régions…"
+    },
+    {
+      "terme": "Collectivité à statut particulier",
+      "definition": "Territoire organisé avec des règles propres, différentes des autres."
+    }
+  ]
+}

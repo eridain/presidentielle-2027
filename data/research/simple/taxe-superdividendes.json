@@ -1,0 +1,22 @@
+{
+  "id": "taxe-superdividendes",
+  "questionSimple": "Faut-il taxer davantage les dividendes exceptionnels versés par les grandes entreprises à leurs actionnaires ?",
+  "enBref": "En 2022, certaines grandes entreprises ont fait des profits records et versé de très gros dividendes. Cet amendement propose de taxer à 35 % au lieu de 30 % les dividendes bien plus élevés que d'habitude. Cela ne concerne que les entreprises réalisant plus de 750 millions d'euros de chiffre d'affaires.",
+  "pourquoiPour": "Pour ses défenseurs, les actionnaires profitent de la crise pendant que les Français subissent l'inflation. Il est juste qu'ils participent davantage à l'effort de solidarité.",
+  "pourquoiContre": "Pour ses opposants, changer la fiscalité des dividendes ferait fuir les investisseurs. Ils jugent aussi la mesure mal ciblée et injuste selon la taille de l'entreprise.",
+  "ceQuiSestPasse": "L'amendement a été adopté, mais le gouvernement l'a retiré du budget adopté par 49.3.",
+  "lexique": [
+    {
+      "terme": "Dividende",
+      "definition": "Part des bénéfices d'une entreprise versée à ses actionnaires."
+    },
+    {
+      "terme": "Flat tax",
+      "definition": "Impôt unique de 30 % sur les revenus de l'épargne et des placements (dividendes, intérêts)."
+    },
+    {
+      "terme": "49.3",
+      "definition": "Article de la Constitution permettant d'adopter un texte sans vote, sauf si une censure est votée."
+    }
+  ]
+}

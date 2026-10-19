@@ -1,0 +1,212 @@
+{
+  "id": "etat-urgence-sanitaire",
+  "titre": "Création de l'état d'urgence sanitaire (2020)",
+  "question": "Faut-il créer un « état d'urgence sanitaire » permettant au gouvernement de confiner la population et de restreindre les libertés (mars 2020) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi d'urgence pour faire face à l'épidémie de covid-19 crée un régime provisoire d'« état d'urgence sanitaire », déclaré par décret en Conseil des ministres et prolongé au-delà d'un mois par la loi, pendant lequel le Premier ministre peut notamment ordonner un confinement à domicile, des réquisitions et l'interdiction des rassemblements. Le texte déclare cet état d'urgence pour deux mois, reporte le second tour des élections municipales et habilite le gouvernement à légiférer par ordonnances (mesures économiques et sociales). Examiné en quatre jours, il a été adopté le 22 mars 2020 après accord en commission mixte paritaire (506 pour, 38 contre, 28 abstentions à l'Assemblée) et promulgué le 23 mars 2020 (loi n° 2020-290). Le régime était prévu jusqu'au 1er avril 2021.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 23 mars 2020 d'urgence pour faire face à l'épidémie de Covid-19",
+      "url": "https://www.vie-publique.fr/loi/273942-loi-durgence-pour-faire-face-lepidemie-de-covid-19"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif Loi d'urgence pour faire face à l'épidémie de covid-19",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_urgence_epidemie_covid-19"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 22 mars 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N188"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2736",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_urgence_epidemie_covid-19",
+  "argumentsPour": [
+    {
+      "auteur": "Stanislas Guerini (La République en marche)",
+      "resume": "Face à une situation inédite, le texte donne au gouvernement un outil juridique nouveau et large, mais borné dans le temps et contrôlé par le Parlement.",
+      "citation": "Le premier consiste à donner au Gouvernement un large champ d'action ; c'est pour cela que nous avons forgé cet outil juridique nouveau, parce que la situation est elle-même nouvelle",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N188",
+      "date": "2020-03-22"
+    },
+    {
+      "auteur": "Marie Guévenoux (LaREM, rapporteure de la CMP)",
+      "resume": "Le texte a été adopté avec célérité sans que le Parlement renonce à ses prérogatives : il a amendé et encadré le projet du gouvernement.",
+      "citation": "les conditions dans lesquelles nous nous trouvons n'ont pas abattu la force de notre démocratie parlementaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N188",
+      "date": "2020-03-22"
+    },
+    {
+      "auteur": "Isabelle Florennes (MoDem)",
+      "resume": "En parvenant rapidement à un accord, le Parlement a fait preuve de responsabilité et posé les bases juridiques pour surmonter l'épidémie et d'autres catastrophes.",
+      "citation": "En parvenant à un accord dans des délais aussi resserrés, le Parlement a fait preuve de responsabilité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N188",
+      "date": "2020-03-22"
+    },
+    {
+      "auteur": "Bertrand Pancher (Libertés et territoires)",
+      "resume": "L'unité nationale doit s'incarner dans le vote de ces lois exceptionnelles, adoptées dans des conditions inédites.",
+      "citation": "C'est pourquoi les députés du groupe Libertés et territoires voteront ces lois tout à fait exceptionnelles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N188",
+      "date": "2020-03-22"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Luc Mélenchon (La France insoumise)",
+      "resume": "Le confinement est nécessaire, mais les mesures du texte ne sont pas à la hauteur : il faut des masques, des tests, des respirateurs et rompre avec la logique de marché.",
+      "citation": "En effet, nous ne pensons pas que les mesures qu'il contient soient à la hauteur de la situation telle que nous l'analysons.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N188",
+      "date": "2020-03-22"
+    },
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "Le texte prévoit une dérogation démocratique plus large que l'état d'urgence classique et des dérogations sociales ; donner les pleins pouvoirs à l'exécutif risque de nourrir la suspicion.",
+      "citation": "Or accorder les pleins pouvoirs à l'exécutif, c'est prendre le risque du manque de transparence et de coopération.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N188",
+      "date": "2020-03-22"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Christophe Bouillon (Socialistes)",
+      "resume": "Le groupe soutient le confinement et les mesures de protection des Français et de l'économie, tout en exprimant des réserves sur certaines dispositions ; il s'abstient.",
+      "citation": "C'est la raison pour laquelle nous sommes très favorables à toutes les mesures qui permettent de satisfaire à cette exigence absolue et d'organiser ce confinement",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N188",
+      "date": "2020-03-22"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2736 du 22 mars 2020) ; a porté l'explication du groupe La France insoumise en séance.",
+      "argument": "Il juge le confinement nécessaire mais les mesures insuffisantes (masques, tests, respirateurs) et appelle à rompre avec la concurrence et le marché qui ont affaibli les moyens collectifs.",
+      "citation": "En effet, nous ne pensons pas que les mesures qu'il contient soient à la hauteur de la situation telle que nous l'analysons.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N188",
+      "date": "2020-03-22"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2736) ; pas d'intervention personnelle dans cette séance, argument = explication du groupe GDR (Elsa Faucillon).",
+      "argument": "Groupe GDR : dérogation démocratique excessive, « pleins pouvoirs » à l'exécutif, dérogations au droit du travail, moyens insuffisants pour l'hôpital.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N188",
+      "date": "2020-03-22"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2736) ; pas d'intervention personnelle dans cette séance, argument = explication du groupe La France insoumise (Jean-Luc Mélenchon).",
+      "argument": "Groupe FI : mesures jugées pas à la hauteur de la crise ; priorité aux masques, tests et respirateurs.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N188",
+      "date": "2020-03-22"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; aucun groupe écologiste n'existait à l'Assemblée à cette date : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2736",
+      "date": "2020-03-22"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2736, non-inscrite) ; aucune intervention ni déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2736",
+      "date": "2020-03-22"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée s'est abstenu (0 pour / 3 contre / 27 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2736",
+      "date": "2020-03-22"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État dans le gouvernement Philippe, qui a présenté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_urgence_epidemie_covid-19",
+      "date": "2020-03-22"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a présenté le projet de loi ; le texte lui confie le pouvoir de prendre par décret les mesures de l'état d'urgence sanitaire.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.vie-publique.fr/loi/273942-loi-durgence-pour-faire-face-lepidemie-de-covid-19",
+      "date": "2020-03-22"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat ; a voté pour l'ensemble du projet de loi en première lecture au Sénat (scrutin n°95 du 19 mars 2020).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2019/scr2019-95.html",
+      "date": "2020-03-19"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY indicatif : le groupe LR de l'Assemblée a voté pour (104 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2736",
+      "date": "2020-03-22"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (104 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2736",
+      "date": "2020-03-22"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2736, non-inscrite) ; aucune intervention dans cette séance ni déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2736",
+      "date": "2020-03-22"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2020 (Reconquête fondé en 2021) ; aucune déclaration vérifiée retrouvée, aucun proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2736",
+      "date": "2020-03-22"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2736, non-inscrit) ; aucune intervention dans cette séance ni déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2736",
+      "date": "2020-03-22"
+    }
+  },
+  "alertes": [
+    "Le scrutin porte sur l'ensemble du texte de CMP, qui ne se limite pas à l'état d'urgence sanitaire : report du second tour des municipales, habilitation à légiférer par ordonnances (mesures économiques et sociales). Plusieurs opposants ont motivé leur vote par ces autres volets.",
+    "Le Pen, Batho, Dupont-Aignan ont voté pour sans intervenir dans la séance du 22 mars ; leurs raisons n'ont pas été recherchées dans les débats de première lecture (21 mars) faute de temps.",
+    "Retailleau : vote pour en première lecture au Sénat (scrutin n°95, 19 mars 2020) ; le vote du Sénat sur le texte de CMP (22 mars) n'a pas été vérifié.",
+    "Le groupe Socialistes s'est abstenu ; son explication (Christophe Bouillon) insistait surtout sur le soutien au confinement — les motifs de l'abstention n'ont pas pu être extraits en entier."
+  ]
+}

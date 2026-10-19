@@ -1,0 +1,22 @@
+{
+  "id": "assurance-chomage-2022",
+  "questionSimple": "Faut-il laisser le gouvernement adapter l'indemnisation chômage à la situation de l'emploi et la refuser en cas d'abandon de poste ?",
+  "enBref": "La loi prolonge les règles du chômage et permet au gouvernement de les fixer seul, par décret, jusqu'à fin 2023. Cela ouvre la voie à des allocations moins généreuses quand l'emploi va bien, plus généreuses quand il va mal. Un salarié qui abandonne son poste est traité comme démissionnaire : il perd son droit au chômage.",
+  "pourquoiPour": "Pour ses défenseurs, il fallait garantir que les chômeurs restent indemnisés. Adapter les règles à l'économie et sanctionner les abandons de poste injustifiés doit encourager l'emploi stable.",
+  "pourquoiContre": "Pour ses opposants, durcir les allocations ne ramène pas les chômeurs vers l'emploi et les rend responsables du chômage. Le gouvernement contourne la négociation entre syndicats et patronat pour décider seul.",
+  "ceQuiSestPasse": "Le Sénat a ajouté la perte d'allocations après deux refus de CDI ; validée par le Conseil constitutionnel, la loi est promulguée le 21 décembre 2022.",
+  "lexique": [
+    {
+      "terme": "Décret",
+      "definition": "Règle fixée par le gouvernement seul, sans vote du Parlement."
+    },
+    {
+      "terme": "Abandon de poste",
+      "definition": "Le salarié cesse de venir travailler sans justification et sans démissionner."
+    },
+    {
+      "terme": "CDI",
+      "definition": "Contrat de travail à durée indéterminée, c'est-à-dire sans date de fin prévue."
+    }
+  ]
+}

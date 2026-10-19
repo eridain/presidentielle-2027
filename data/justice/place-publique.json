@@ -1,0 +1,81 @@
+{
+ "partiId": "place-publique",
+ "nom": "Place publique",
+ "sigle": "PP",
+ "predecesseurs": [],
+ "fondation": "2018",
+ "direction": [
+  {
+   "nom": "Raphaël Glucksmann",
+   "fonction": "Co-président",
+   "url": "https://place-publique.eu/trombinoscope"
+  },
+  {
+   "nom": "Aurore Lalucq",
+   "fonction": "Co-présidente",
+   "url": "https://place-publique.eu/trombinoscope"
+  },
+  {
+   "nom": "Yaniss Lassal",
+   "fonction": "Commission politique — trésorerie et gestion",
+   "url": "https://place-publique.eu/trombinoscope"
+  },
+  {
+   "nom": "Thierry Brochot",
+   "fonction": "Délégué général",
+   "url": "https://place-publique.eu/trombinoscope"
+  },
+  {
+   "nom": "Aurélien Rousseau",
+   "fonction": "Commission politique — élections et coordination des relations avec les partenaires",
+   "url": "https://place-publique.eu/trombinoscope"
+  }
+ ],
+ "presentation": "Place publique a été lancé fin 2018 autour d'un manifeste publié le 6 novembre 2018 par Raphaël Glucksmann et d'autres personnalités. Wikipédia le décrit comme « un parti politique français proeuropéen de centre gauche », co-présidé par Raphaël Glucksmann et Aurore Lalucq. Il compte trois eurodéputés élus en 2024 sur une liste commune avec le PS, deux députés (Aurélien Rousseau, Sacha Houlié, inscrits au groupe Socialistes et apparentés) et deux sénateurs (Bernard Jomier, Grégory Blanc).",
+ "presentationSources": [
+  {
+   "titre": "Place publique (parti politique) — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Place_publique_(parti_politique)"
+  },
+  {
+   "titre": "Place publique — Nos membres",
+   "url": "https://place-publique.eu/trombinoscope"
+  }
+ ],
+ "effectifs": {
+  "deputes": 2,
+  "senateurs": 2,
+  "eurodeputes": 3,
+  "source": "https://fr.wikipedia.org/wiki/Place_publique_(parti_politique)"
+ },
+ "candidats": [
+  {
+   "id": "glucksmann",
+   "bio": "Raphaël Glucksmann, né le 15 octobre 1979 à Boulogne-Billancourt, ancien documentariste et journaliste, a co-fondé Place publique en 2018. Il est député européen depuis 2019, élu à la tête de listes réunissant Place publique et le Parti socialiste. Il a remporté le 11 octobre 2026, dès le premier tour (66,13 %), la primaire de la gauche sociale-démocrate organisée par le PS, Place publique et la GRS, et bénéficie du soutien du PS pour la présidentielle 2027.",
+   "sources": [
+    {
+     "titre": "Raphaël Glucksmann — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Glucksmann"
+    },
+    {
+     "titre": "Toute l'Europe — Raphaël Glucksmann remporte largement la primaire de la gauche sociale-démocrate",
+     "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-l-eurodepute-raphael-glucksmann-remporte-largement-la-primaire-de-la-gauche-sociale-democrate/"
+    },
+    {
+     "titre": "LCP — Raphaël Glucksmann candidat en 2027 : une première historique pour le Parti socialiste depuis 1969",
+     "url": "https://lcp.fr/actualites/raphael-glucksmann-candidat-en-2027-une-premiere-historique-pour-le-parti-socialiste"
+    }
+   ]
+  }
+ ],
+ "condamnations": [],
+ "perimetre": {
+  "personnesVerifiees": 12,
+  "methode": "Personnes vérifiées : Raphaël Glucksmann, Aurore Lalucq, Thomas Pellerin-Carlin (eurodéputés), Aurélien Rousseau, Sacha Houlié (députés), Bernard Jomier, Grégory Blanc (sénateurs), Yaniss Lassal, Thierry Brochot, Sarah Pigeaud, Jérôme Auslender (direction), Jo Spiegel (ancien co-président) — requêtes web_search « \"<nom>\" condamné OR condamnée tribunal », « Raphaël Glucksmann condamné diffamation », « Raphaël Glucksmann procès diffamation jugement », « Place publique condamné tribunal » ; lecture des pages Wikipédia (Place publique, Raphaël Glucksmann : aucune mention de condamnation) et du trombinoscope place-publique.eu.",
+  "limites": "Aucune condamnation trouvée dans les sources consultées pour le candidat, le parti (personne morale) ou les personnes du périmètre ; cela ne signifie pas qu'aucune n'existe. Recherche par moteur et presse en ligne, sans consultation systématique de Judilibre. Les plaintes déposées par Raphaël Glucksmann (ingérence/désinformation, 2026) concernent des faits dont il se dit victime et sont hors périmètre. Les condamnations des dirigeants et parlementaires du PS, qui soutient le candidat, figurent dans ps.json."
+ },
+ "alertes": [
+  "Jo Spiegel (co-président 2018-2022) ajouté en vérification bien que non listé dans la direction actuelle ; aucune condamnation trouvée.",
+  "Aurélien Rousseau et Sacha Houlié siègent dans le groupe Socialistes et apparentés à l'Assemblée ; ils sont également comptés dans l'effectif du groupe dans ps.json."
+ ]
+}

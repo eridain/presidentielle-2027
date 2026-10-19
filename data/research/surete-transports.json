@@ -1,0 +1,219 @@
+{
+  "id": "surete-transports",
+  "titre": "Sûreté dans les transports (loi Tabarot)",
+  "question": "Faut-il étendre les pouvoirs des agents de sécurité de la SNCF et de la RATP (palpations, saisies, caméras-piétons) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposée au Sénat par Philippe Tabarot (LR), devenu ministre des Transports, la proposition de loi relative au renforcement de la sûreté dans les transports autorise les agents des services internes de sécurité de la SNCF (Suge) et de la RATP à pratiquer des palpations de sécurité sans arrêté préfectoral lorsque des éléments objectifs le justifient et à retirer des objets dangereux, leur ouvre un « droit de poursuite » sur la voie publique et étend l'usage des caméras-piétons (à titre expérimental pour les conducteurs de bus). Elle crée une peine complémentaire d'interdiction de paraître dans les transports, renforce la répression des bagages abandonnés et crée un délit de « train surfing ». Adopté au Sénat en février 2024, interrompu par la dissolution puis la censure du gouvernement Barnier, le texte de la commission mixte paritaire a été adopté définitivement par l'Assemblée le 18 mars 2025 (303 pour, 135 contre). Le Conseil constitutionnel l'a déclaré partiellement conforme (décision n° 2025-878 DC du 24 avril 2025) ; la loi a été promulguée le 28 avril 2025 (loi n° 2025-379).",
+  "contexteSources": [
+    {
+      "titre": "Sénat – La loi en clair : proposition de loi relative au renforcement de la sûreté dans les transports",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-relative-au-renforcement-de-la-surete-dans-les-transports.html"
+    },
+    {
+      "titre": "Sénat – Dossier législatif (décision 2025-878 DC, loi n° 2025-379)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl23-235.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 18 mars 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/ppl23-235.html",
+  "argumentsPour": [
+    {
+      "auteur": "Laure Miller (Ensemble pour la République)",
+      "resume": "Le texte renforce les prérogatives des opérateurs et de leurs agents pour mieux assurer la sécurité et le bon fonctionnement des transports.",
+      "citation": "renforcer les prérogatives des opérateurs et de leurs agents pour toujours mieux assurer la sécurité et le bon fonctionnement de nos transports.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133",
+      "date": "2025-03-18"
+    },
+    {
+      "auteur": "Bryan Masson (Rassemblement national)",
+      "resume": "Le texte répond à une urgence sécuritaire ; les agents de la SNCF et de la RATP doivent disposer de prérogatives élargies contre la délinquance.",
+      "citation": "Il est essentiel que les agents de la SNCF et de la RATP puissent mieux lutter contre la délinquance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133",
+      "date": "2025-03-18"
+    },
+    {
+      "auteur": "Ian Boucard (Droite républicaine)",
+      "resume": "Les violences recensées dans les transports justifient le texte ; les agents pourront pratiquer des palpations et saisir des objets dangereux.",
+      "citation": "Grâce au texte issu de la CMP, les agents de sécurité disposeront enfin de moyens plus adaptés : ils pourront procéder à des palpations de sécurité",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133",
+      "date": "2025-03-18"
+    },
+    {
+      "auteur": "Yannick Favennec-Bécot (LIOT)",
+      "resume": "Face aux 111 000 victimes annuelles de violences et de vols dans les transports, la sécurité des voyageurs doit être une priorité.",
+      "citation": "le groupe LIOT estime que la sécurité des voyageuses et des voyageurs dans nos territoires doit être une priorité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133",
+      "date": "2025-03-18"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Roger Vicot (Socialistes)",
+      "resume": "Le texte, imprécis, élargit trop les compétences d'agents qui ne sont pas des policiers, au détriment de la liberté d'aller et venir.",
+      "citation": "Leurs agents, je le rappelle, ne sont pas des policiers : ils ne sont pas assermentés et ils bénéficient d’une formation de quatre mois seulement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133",
+      "date": "2025-03-18"
+    },
+    {
+      "auteur": "Élisa Martin (La France insoumise)",
+      "resume": "Le texte s'inscrit dans une logique qui bâtit, loi après loi, une société de surveillance et de contrôle.",
+      "citation": "brique après brique, vous bâtissez une France surveillée, contrôlée, punie et enfermée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133",
+      "date": "2025-03-18"
+    },
+    {
+      "auteur": "Stéphane Peu (Gauche démocrate et républicaine)",
+      "resume": "Le texte prolonge le désengagement de l'État en matière de sécurité publique en confiant des missions de police à des agents privés.",
+      "citation": "La présente proposition de loi s’inscrit dans la lignée de plusieurs lois qui, depuis 2016, consacrent le désengagement progressif et continu de l’État en matière de sécurité publique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133",
+      "date": "2025-03-18"
+    },
+    {
+      "auteur": "Sandra Regol (Écologiste et social)",
+      "resume": "Texte de réaction aux faits divers, qui introduit de façon « cavalière » l'extension de la vidéosurveillance algorithmique.",
+      "citation": "nous continuons à dénoncer l’introduction cavalière de la vidéosurveillance algorithmique, à tout le moins l’extension de son expérimentation",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133",
+      "date": "2025-03-18"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 53 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "date": "2025-03-18"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 12 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "date": "2025-03-18"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°1041) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel il est apparenté, a voté contre (0 pour / 27 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "date": "2025-03-18"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour / 27 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "date": "2025-03-18"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°1041) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel elle appartient, a voté contre (0 pour / 27 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "date": "2025-03-18"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 42 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "date": "2025-03-18"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1041 du 18 mars 2025), président du groupe EPR ; pas d'intervention personnelle retrouvée, argument = explication du groupe (Laure Miller).",
+      "argument": "Groupe EPR : le texte de compromis préserve les axes de la proposition initiale et renforce les prérogatives des agents pour la sécurité des transports.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133",
+      "date": "2025-03-18"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons & indépendants a voté pour (31 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "date": "2025-03-18"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat en première lecture (scrutin n°120 du 13 février 2024), alors président du groupe LR ; ministre de l'Intérieur du gouvernement Bayrou, qui soutenait le texte, lors du vote final.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-120.html",
+      "date": "2024-02-13"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (34 pour / 1 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "date": "2025-03-18"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour (34 pour / 1 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "date": "2025-03-18"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1041), présidente du groupe RN ; pas d'intervention personnelle retrouvée, argument = explication du groupe (Bryan Masson).",
+      "argument": "Groupe RN : le texte répond à une urgence sécuritaire en donnant aux agents de la SNCF et de la RATP des prérogatives élargies, sous vigilance quant à son application.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N133",
+      "date": "2025-03-18"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans mandat national ; aucune déclaration retrouvée ; Reconquête n'a pas de député.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "date": "2025-03-18"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée ; pas de groupe de son parti à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1041",
+      "date": "2025-03-18"
+    }
+  },
+  "alertes": [
+    "Retailleau était ministre de l'Intérieur au moment du vote final ; sa position repose sur son vote de sénateur en première lecture (février 2024), sur la version du Sénat, et sur le soutien du gouvernement au texte.",
+    "La vidéosurveillance algorithmique évoquée par plusieurs orateurs (Regol, Latombe) a été contestée ; la décision n° 2025-878 DC (conformité partielle) n'a pas été consultée en détail : le contenu exact des censures n'est pas précisé ici.",
+    "Ruffin siège avec le groupe Écologiste et social (apparenté) ; Batho en est membre ; tous deux n'ont pas pris part au vote.",
+    "Attal et Le Pen : arguments tirés de l'explication de leur groupe, faute d'intervention personnelle retrouvée.",
+    "Mélenchon, Roussel, Dupont-Aignan n'étaient plus députés : aucune déclaration retrouvée."
+  ]
+}

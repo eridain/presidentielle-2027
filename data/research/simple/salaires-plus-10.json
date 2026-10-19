@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il supprimer les cotisations patronales sur les hausses de salaire jusqu'à 10 % pour encourager les augmentations ?",
+  "enBref": "Le RN proposait que les patrons ne paient pas de cotisations sur une hausse de salaire jusqu'à 10 %. La mesure aurait duré trois ans, pour les salaires jusqu'à trois fois le SMIC. Les entreprises restaient libres d'augmenter ou non les salaires.",
+  "pourquoiPour": "Pour ses défenseurs, les salariés n'arrivent plus à vivre avec l'inflation. Sans cotisations sur la hausse, les petites entreprises pourraient enfin augmenter les salaires.",
+  "pourquoiContre": "Pour ses opposants, moins de cotisations, c'est moins d'argent pour la Sécurité sociale et les retraites. La mesure coûterait cher et profiterait à des entreprises qui auraient augmenté les salaires de toute façon.",
+  "ceQuiSestPasse": "La mesure a été supprimée par l'Assemblée le 12 janvier 2023 et la proposition de loi a été rejetée.",
+  "lexique": [
+    {
+      "terme": "Cotisations patronales",
+      "definition": "Sommes payées par l'employeur sur les salaires pour financer la Sécurité sociale."
+    },
+    {
+      "terme": "Amendement de suppression",
+      "definition": "Demande de retirer un article d'un texte de loi."
+    }
+  ],
+  "id": "salaires-plus-10"
+}

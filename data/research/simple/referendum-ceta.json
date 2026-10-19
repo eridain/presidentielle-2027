@@ -1,0 +1,22 @@
+{
+  "id": "referendum-ceta",
+  "questionSimple": "Faut-il laisser les Français décider par référendum de l'accord de libre-échange entre l'Europe et le Canada (CETA) ?",
+  "enBref": "Le CETA supprime la plupart des droits de douane entre l'Union européenne et le Canada. Ce texte demandait que la France l'approuve par un référendum plutôt que par un vote du Parlement. C'était un souhait, sans effet obligatoire.",
+  "pourquoiPour": "Pour ses partisans, un traité qui touche autant l'agriculture, l'environnement et le pouvoir des lois doit être tranché directement par le peuple, et pas seulement par les élus.",
+  "pourquoiContre": "Pour ses opposants, un référendum ne porterait pas sur les 2 000 pages du traité mais sur d'autres sujets. Les députés, élus par le peuple, peuvent l'examiner en détail.",
+  "ceQuiSestPasse": "La demande a été rejetée le 1er février 2018 ; l'Assemblée a ensuite voté elle-même la ratification du CETA en 2019.",
+  "lexique": [
+    {
+      "terme": "CETA",
+      "definition": "Accord commercial entre l'Union européenne et le Canada, signé en 2016."
+    },
+    {
+      "terme": "Référendum",
+      "definition": "Vote où les citoyens répondent directement oui ou non à une question."
+    },
+    {
+      "terme": "Résolution",
+      "definition": "Texte par lequel l'Assemblée exprime un avis, sans créer de loi."
+    }
+  ]
+}

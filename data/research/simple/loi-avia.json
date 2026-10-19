@@ -1,0 +1,18 @@
+{
+  "id": "loi-avia",
+  "questionSimple": "Faut-il obliger les réseaux sociaux à retirer en 24 heures les messages haineux manifestement illégaux ?",
+  "enBref": "La loi obligeait les grands réseaux sociaux et moteurs de recherche à supprimer en 24 heures, après signalement, les messages haineux clairement illégaux. Pour les contenus terroristes ou pédopornographiques, le délai était d'une heure. Les plateformes risquaient de fortes amendes.",
+  "pourquoiPour": "Pour ses défenseurs, ce qui est interdit dans la rue doit l'être en ligne. Les plateformes doivent avoir une obligation de résultat pour protéger les victimes de haine et de harcèlement.",
+  "pourquoiContre": "Pour ses opposants, la loi confie aux plateformes, et non à un juge, le soin de décider ce qui est illégal. Par peur des amendes, elles supprimeraient trop de messages.",
+  "ceQuiSestPasse": "Adoptée en mai 2020, la loi a été vidée de son cœur par le Conseil constitutionnel, qui a censuré l'obligation de retrait en 24 heures.",
+  "lexique": [
+    {
+      "terme": "Manifestement illicite",
+      "definition": "Dont l'illégalité est évidente, sans besoin d'une analyse poussée."
+    },
+    {
+      "terme": "Conseil constitutionnel",
+      "definition": "Institution qui vérifie que les lois respectent la Constitution et peut en annuler des parties."
+    }
+  ]
+}

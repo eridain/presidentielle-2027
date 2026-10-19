@@ -1,0 +1,18 @@
+{
+  "id": "acces-soins-valletoux",
+  "questionSimple": "Faut-il adopter la loi Valletoux pour mieux organiser l'accès aux soins dans les territoires ?",
+  "enBref": "Cette loi de 2023 fait participer les cliniques privées aux gardes de nuit et de week-end. Elle interdit l'intérim aux jeunes soignants en début de carrière et confie l'organisation des soins à des instances locales. Elle n'oblige pas les médecins généralistes à faire des gardes.",
+  "pourquoiPour": "Ceux qui ont voté pour veulent soulager l'hôpital, qui assure la plupart des gardes. Ils misent sur une meilleure organisation locale et des équipes plus stables.",
+  "pourquoiContre": "Ceux qui ont voté contre ou se sont abstenus jugent la loi trop faible. Elle n'oblige pas les généralistes aux gardes et ne limite pas l'installation des médecins là où ils sont déjà nombreux.",
+  "ceQuiSestPasse": "Loi adoptée définitivement le 12 décembre 2023 (165 pour, 24 contre, 26 abstentions).",
+  "lexique": [
+    {
+      "terme": "Permanence des soins",
+      "definition": "Organisation des gardes médicales la nuit, le week-end et les jours fériés."
+    },
+    {
+      "terme": "Intérim médical",
+      "definition": "Remplacement temporaire d'un soignant, souvent payé plus cher qu'un poste stable."
+    }
+  ]
+}

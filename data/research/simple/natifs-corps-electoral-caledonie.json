@@ -1,0 +1,18 @@
+{
+  "id": "natifs-corps-electoral-caledonie",
+  "questionSimple": "Faut-il permettre aux personnes nées en Nouvelle-Calédonie de voter aux élections provinciales ?",
+  "enBref": "En Nouvelle-Calédonie, seule une liste spéciale d'électeurs, bloquée depuis 2007, peut voter aux élections locales. Environ 10 500 personnes nées sur place en étaient exclues. La loi les ajoute automatiquement à cette liste.",
+  "pourquoiPour": "Pour ses défenseurs, il est injuste que des personnes nées sur l'archipel ne puissent pas élire leurs élus locaux. Elles ont déjà voté aux référendums sur l'indépendance.",
+  "pourquoiContre": "Pour ses opposants, toucher à la liste électorale sans accord global avec les indépendantistes menace la paix fragile issue des accords de Nouméa. Le texte a été voté dans l'urgence.",
+  "ceQuiSestPasse": "Adoptée le 20 mai 2026, la loi a été validée par le Conseil constitutionnel le 28 mai, avant les élections provinciales prévues le 28 juin 2026.",
+  "lexique": [
+    {
+      "terme": "Accord de Nouméa",
+      "definition": "Accord de 1998 qui organise l'autonomie de la Nouvelle-Calédonie et ses référendums."
+    },
+    {
+      "terme": "Élections provinciales",
+      "definition": "Élections des assemblées locales et du congrès de Nouvelle-Calédonie."
+    }
+  ]
+}

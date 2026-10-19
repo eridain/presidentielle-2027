@@ -1,0 +1,222 @@
+{
+  "id": "ruptures-conventionnelles-2026",
+  "titre": "Chômage après rupture conventionnelle (2026)",
+  "question": "Faut-il réduire la durée d'indemnisation chômage après une rupture conventionnelle, comme le prévoit l'accord des partenaires sociaux de 2026 ?",
+  "ouiSignifie": "pour",
+  "contexte": "À la demande du ministre du travail, qui voulait au moins 400 millions d'euros d'économies par an pour l'assurance chômage, les partenaires sociaux ont signé l'avenant n° 3 du 25 février 2026. Il réduit la durée maximale d'indemnisation des chômeurs ayant quitté leur emploi par une rupture conventionnelle individuelle : 15 mois au lieu de 18 pour les moins de 55 ans, 20,5 mois pour les 55 ans et plus (au lieu de 22,5 mois entre 55 et 56 ans et 27 mois à partir de 57 ans), avec une prolongation possible au cas par cas pour les seniors. Le projet de loi, à article unique, donne la base légale nécessaire à l'agrément de cet avenant. Adopté par le Sénat le 1er avril 2026, il a été rejeté par l'Assemblée en première lecture le 16 avril, puis adopté par le Sénat en deuxième lecture le 18 mai et par l'Assemblée le 2 juin 2026 (353 voix contre 114, 37 abstentions). La loi n° 2026-470 a été promulguée le 11 juin 2026.",
+  "contexteSources": [
+    {
+      "titre": "vie-publique.fr – Loi du 11 juin 2026 (rupture conventionnelle et assurance chômage)",
+      "url": "https://www.vie-publique.fr/loi/302566-accord-assurance-chomage-rupture-conventionnelle-loi"
+    },
+    {
+      "titre": "Assemblée nationale – Rapport de la commission des affaires sociales (n° 2633)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/RAPPANR5L17B2633.html"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53981"
+    },
+    {
+      "titre": "Sénat – Scrutin n°270 du 18 mai 2026",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-270.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7260",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53981",
+  "argumentsPour": [
+    {
+      "auteur": "Nathalie Colin-Oesterlé (Horizons)",
+      "resume": "La rupture conventionnelle ouvre les mêmes droits qu'un licenciement subi ; elle coûte près de 9 milliards d'euros, 26 % des dépenses du régime, et remplace trop souvent la démission.",
+      "citation": "Quitter son emploi d’un commun accord avec l’employeur ouvre aujourd’hui exactement les mêmes droits à l’assurance chômage qu’un licenciement contraint.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N259",
+      "date": "2026-06-02"
+    },
+    {
+      "auteur": "Nicolas Turquois (Les Démocrates)",
+      "resume": "Quand les partenaires sociaux s'accordent sur un texte équilibré, le Parlement doit transposer fidèlement leur volonté.",
+      "citation": "Quand les partenaires sociaux s’accordent sur un texte équilibré, le rôle de la représentation nationale n’est pas de se substituer à eux, mais de transposer fidèlement leur volonté.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N259",
+      "date": "2026-06-02"
+    },
+    {
+      "auteur": "Gaëtan Dussausaye (RN)",
+      "resume": "Attaché à la démocratie sociale, le RN vote une réforme qu'il juge limitée, ciblant des ruptures conventionnelles en forte hausse.",
+      "citation": "Le texte se limite aux ruptures conventionnelles individuelles, dont le nombre a augmenté de 60 % au cours des dix dernières années.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N259",
+      "date": "2026-06-02"
+    },
+    {
+      "auteur": "Christophe Mongardien (Ensemble pour la République)",
+      "resume": "Les partenaires sociaux sont les plus pertinents sur ce sujet ; le groupe soutient l'accord qui en résulte.",
+      "citation": "Vous l’aurez compris, nous sommes largement favorables au dialogue social et à l’accord qui en a résulté.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N259",
+      "date": "2026-06-02"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sophie Taillé-Polian (Écologiste et social)",
+      "resume": "Un quart des ruptures conventionnelles sont des licenciements déguisés ; moduler l'indemnisation pénalise les salariés et jamais les employeurs.",
+      "citation": "En modulant l’indemnisation selon le motif de la rupture, vous rompez l’égal accès de tous à l’assurance chômage et vous pénalisez uniquement les salariés, jamais les employeurs –⁠ comme d’habitude.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N259",
+      "date": "2026-06-02"
+    },
+    {
+      "auteur": "Ségolène Amiot (LFI-NFP)",
+      "resume": "La hausse des ruptures conventionnelles n'est pas une fraude à la démission ; la réforme nie la subordination des salariés.",
+      "citation": "Premièrement, le recours à la rupture conventionnelle, en hausse, ne constitue en aucun cas une fraude à la démission.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N259",
+      "date": "2026-06-02"
+    },
+    {
+      "auteur": "Yannick Monnet (GDR)",
+      "resume": "Le texte crée une inégalité entre chômeurs selon le motif de rupture ; certains perdront jusqu'à six mois et demi de droits.",
+      "citation": "Ce texte est une aberration sociale et économique bâtie contre le monde du travail dans son ensemble !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N259",
+      "date": "2026-06-02"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Sandrine Runel (Socialistes)",
+      "resume": "Le texte est le fruit d'un chantage du gouvernement sur les partenaires sociaux, mais les socialistes s'abstiennent par respect de la démocratie sociale.",
+      "citation": "Aussi faisons-nous le choix de l’abstention, une abstention de responsabilité et de protection, mais certainement pas une abstention d’adhésion.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N259",
+      "date": "2026-06-02"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; pas de déclaration personnelle retrouvée. Proxy indicatif : le groupe LFI-NFP a voté contre (63 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; pas de déclaration retrouvée. Proxy indicatif : le groupe GDR a voté contre (17 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°7260) ; pas d'intervention retrouvée : argument = explication du groupe Écologiste et social, où il siège (Sophie Taillé-Polian).",
+      "argument": "Le groupe écologiste estime que la réduction de l'indemnisation pénalise les salariés, alors qu'une partie des ruptures conventionnelles sont des licenciements déguisés.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N259",
+      "date": "2026-06-02"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; pas de déclaration retrouvée. Proxy indicatif : le groupe Écologiste et social a voté contre (14 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°7260). Proxy indicatif : le groupe Écologiste et social a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste s'est majoritairement abstenu (37 abstentions, 18 contre, 1 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°7260) ; président du groupe EPR ; argument = explication de son groupe (Christophe Mongardien).",
+      "argument": "Le groupe EPR soutient l'accord conclu par les partenaires sociaux, jugés les plus pertinents sur le sujet.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N259",
+      "date": "2026-06-02"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons ; pas de déclaration retrouvée. Proxy indicatif : le groupe Horizons a voté pour (30 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur (LR) ; a voté pour le projet de loi au Sénat en deuxième lecture (scrutin n°270 du 18 mai 2026) comme en première lecture (scrutin n°221 du 1er avril 2026).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-270.html",
+      "date": "2026-05-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; pas de déclaration retrouvée. Proxy indicatif : le groupe Droite républicaine a voté pour (44 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; pas de déclaration retrouvée. Proxy indicatif : le groupe Droite républicaine a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°7260). Proxy indicatif : le groupe RN a voté pour (115 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans groupe ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Le texte avait été rejeté par l'Assemblée en première lecture (16 avril 2026) avant d'être adopté en deuxième lecture le 2 juin 2026 : les positions de certains groupes ont pu évoluer entre les deux votes (non vérifié).",
+    "Les socialistes se sont abstenus majoritairement (37 abstentions) mais 18 ont voté contre.",
+    "Deux organisations syndicales représentatives n'ont pas signé l'avenant (selon Jean-Pierre Bataille, LIOT) ; leur identité n'a pas été vérifiée."
+  ]
+}

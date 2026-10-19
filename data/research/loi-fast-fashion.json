@@ -1,0 +1,204 @@
+{
+  "id": "loi-fast-fashion",
+  "titre": "Loi contre la mode ultra-éphémère (« fast fashion »)",
+  "question": "Faut-il pénaliser la mode ultra-éphémère (malus environnemental, interdiction de la publicité pour des plateformes comme Shein) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposée par la députée Anne-Cécile Violland (Horizons) et adoptée à l'unanimité par l'Assemblée en première lecture le 14 mars 2024, puis à l'unanimité par le Sénat le 10 juin 2025, la proposition de loi vise la mode « ultra-express » incarnée par des plateformes comme Shein ou Temu : malus environnemental progressif via la modulation des éco-contributions, messages de sensibilisation obligatoires, interdiction de la publicité, y compris par les influenceurs. Après un avis circonstancié de la Commission européenne (septembre 2025), le texte a été réajusté ; la gauche reproche au Sénat et au gouvernement d'en avoir restreint le champ à l'« ultra » fast fashion, épargnant les grandes enseignes. Le texte de la commission mixte paritaire a été adopté par l'Assemblée le 24 juin 2026 (338 pour, 0 contre, 151 abstentions) ; loi n° 2026-602 du 8 juillet 2026.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – La loi en clair : proposition de loi visant à réduire l'impact environnemental de l'industrie textile",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-reduire-limpact-environnemental-de-lindustrie-textile.html"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/impact_environnemental_industrie_textile"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°7494",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/impact_environnemental_industrie_textile",
+  "argumentsPour": [
+    {
+      "auteur": "Vincent Thiébaut (Horizons & indépendants)",
+      "resume": "Le texte frappe la fast fashion au portefeuille (malus), sur sa visibilité (fin de la publicité et des influenceurs) et sur son discours commercial.",
+      "citation": "Concrètement, le texte porte un coup aux trois nerfs de la guerre de la fast fashion",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N282",
+      "date": "2026-06-24"
+    },
+    {
+      "auteur": "Julien Guibert (Rassemblement national)",
+      "resume": "Le texte est un premier pas utile qui cible l'ultra fast fashion sans pénaliser les entreprises installées en France.",
+      "citation": "Parce qu’il cible les dérives de l’ ultrafast fashion sans pénaliser les acteurs économiques présents sur le territoire, le groupe Rassemblement national votera ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N282",
+      "date": "2026-06-24"
+    },
+    {
+      "auteur": "Constance de Pélichy (LIOT)",
+      "resume": "Le malus progressif et l'interdiction de la publicité distinguent les entreprises engagées dans la transition de celles qui détruisent emplois et environnement.",
+      "citation": "un malus progressif pouvant aller jusqu’à 50 % du prix hors taxe et l’interdiction de publicité pour les acteurs de l’ ultrafast fashion , y compris via les influenceurs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N282",
+      "date": "2026-06-24"
+    }
+  ],
+  "argumentsContre": [],
+  "argumentsAbstention": [
+    {
+      "auteur": "Charles Fournier (Écologiste et social)",
+      "resume": "Le texte, adopté à l'unanimité au départ, a été vidé de sa substance en ne ciblant que l'ultra fast fashion.",
+      "citation": "Avant qu’il soit vidé de sa substance et donc rendu inefficace, nous avions adopté ce texte à l’unanimité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N282",
+      "date": "2026-06-24"
+    },
+    {
+      "auteur": "Stéphane Delautrette (Socialistes)",
+      "resume": "Le PS salue la régulation de la publicité mais regrette l'absence de seuils de surproduction, de sanctions et de devoir de vigilance.",
+      "citation": "Nous pouvons saluer les avancées du texte, notamment en matière de régulation de la publicité, mais n’oublions pas ce qu’il aurait pu, et aurait dû être !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N282",
+      "date": "2026-06-24"
+    },
+    {
+      "auteur": "Alma Dufour (La France insoumise)",
+      "resume": "Le gouvernement protégerait les enseignes européennes de fast fashion, qui ont elles aussi délocalisé, en ne ciblant que Shein et Temu.",
+      "citation": "Ils ont dit au moins quatre fois que leur intention était de prendre un arrêté qui ne cible que Shein et Temu.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N282",
+      "date": "2026-06-24"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NFP s'est abstenu (0-0-50).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+      "date": "2026-06-24"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR s'est majoritairement abstenu (3-0-12).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+      "date": "2026-06-24"
+    },
+    "ruffin": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°7494 du 24 juin 2026), siégeant au groupe Écologiste et social ; pas d'intervention personnelle, argument = position du groupe (Charles Fournier).",
+      "argument": "Le groupe juge le texte final trop restreint à l'ultra fast fashion et donc peu efficace.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N282",
+      "date": "2026-06-24"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social s'est abstenu (0-0-35).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+      "date": "2026-06-24"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°7494) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste et social s'est abstenu (0-0-35).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+      "date": "2026-06-24"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée s'est abstenu (0-0-54).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+      "date": "2026-06-24"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°7494), président du groupe EPR ; pas d'intervention personnelle, argument = position du groupe (Véronique Riotton).",
+      "argument": "Le groupe soutient un malus spécifique, des messages de sensibilisation et l'interdiction de la publicité pour la fast fashion.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N282",
+      "date": "2026-06-24"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, dont est issue la rapporteure Anne-Cécile Violland ; aucune déclaration personnelle retrouvée. PROXY : le groupe Horizons & indépendants a voté pour (33-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+      "date": "2026-06-24"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président des Républicains ; ministre de l'Intérieur lors de la première lecture au Sénat (juin 2025), puis redevenu sénateur ; aucun scrutin public nominatif retrouvé au Sénat sur le texte final. PROXY : le groupe Droite républicaine de l'Assemblée a voté pour (44-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+      "date": "2026-06-24"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (44-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+      "date": "2026-06-24"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de Nouvelle Énergie ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (44-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+      "date": "2026-06-24"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°7494), présidente du groupe RN ; pas d'intervention personnelle, argument = position du groupe (Julien Guibert).",
+      "argument": "Le groupe soutient un texte qui vise l'ultra fast fashion étrangère sans pénaliser les entreprises françaises.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N282",
+      "date": "2026-06-24"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+      "date": "2026-06-24"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée ; aucun proxy de groupe pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7494",
+      "date": "2026-06-24"
+    }
+  },
+  "alertes": [
+    "Batho : n'a pas pris part au vote ; position inconnu (indication du vote de son groupe à titre indicatif seulement).",
+    "Aucun vote contre : les abstentions de la gauche (LFI, PS, Écologistes, GDR) traduisent une critique d'un texte jugé affaibli, pas une opposition au principe ; le texte initial avait été adopté à l'unanimité en 2024.",
+    "Arguments issus de la discussion générale sur le texte de CMP (pas d'explications de vote séparées) ; aucun argument « contre » disponible.",
+    "Retailleau : aucun vote personnel retrouvé ; proxy de groupe uniquement."
+  ]
+}

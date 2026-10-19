@@ -1,0 +1,212 @@
+{
+  "id": "environnement-constitution",
+  "titre": "Environnement dans l'article 1er de la Constitution",
+  "question": "Faut-il inscrire à l'article 1er de la Constitution que la France « garantit » la préservation de l'environnement et de la biodiversité ?",
+  "ouiSignifie": "pour",
+  "contexte": "Issu d'une proposition de la Convention citoyenne pour le climat, le projet de loi constitutionnelle ajoutait à l'article 1er de la Constitution que la France « garantit la préservation de l'environnement et de la diversité biologique et lutte contre le dérèglement climatique » ; il devait être soumis à référendum après adoption en termes identiques par les deux chambres. Le Sénat refusant le verbe « garantir », l'Assemblée a adopté en deuxième lecture, le 22 juin 2021, une rédaction de compromis (« garantit… et agit contre le dérèglement climatique ») par 331 voix contre 104. Le Sénat ayant maintenu sa propre rédaction le 5 juillet 2021, le Premier ministre a annoncé le 6 juillet 2021 l'abandon de la révision et du référendum.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Projet de loi constitutionnelle environnement (article 1er) : abandon de la réforme",
+      "url": "https://www.vie-publique.fr/loi/278185-loi-environnement-article-1-constitution-referendum-climat"
+    },
+    {
+      "titre": "Sénat – salle de presse, PJLC « Article 1er de la Constitution et préservation de l'environnement »",
+      "url": "https://www.senat.fr/salle-de-presse/202102/climat/pjlc-article-1er-de-la-constitution-et-preservation-de-lenvironnement.html"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/pjlc_environnement"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3837",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/pjlc_environnement",
+  "argumentsPour": [
+    {
+      "auteur": "Émilie Guerel (La République en marche)",
+      "resume": "Le verbe « garantir » donne sa force juridique au texte et ferait de la France l'un des premiers pays à inscrire la lutte climatique dans sa loi fondamentale.",
+      "citation": "nous souhaitons maintenir le verbe « garantir », qui fait la force juridique du texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N314",
+      "date": "2021-06-21"
+    },
+    {
+      "auteur": "Élodie Jacquier-Laforge (MoDem)",
+      "resume": "Le texte rend effective une proposition de la Convention citoyenne et articule démocratie participative et représentative.",
+      "citation": "C’est aussi un pas supplémentaire qui montre qu’il est possible d’articuler démocratie participative et démocratie représentative.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N314",
+      "date": "2021-06-21"
+    },
+    {
+      "auteur": "Cécile Untermaier (Socialistes)",
+      "resume": "« Garantir » engagerait davantage la responsabilité de l'État ; le groupe regrette toutefois l'absence de principe de non-régression.",
+      "citation": "Nous sommes d’accord sur ce point : le verbe « garantir », que l’on retrouve à plusieurs reprises dans la loi fondamentale, impliquerait davantage la responsabilité de l’État dans le domaine de l’environnement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N314",
+      "date": "2021-06-21"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Julien Aubert (Les Républicains)",
+      "resume": "« Garantir » une notion floue renverrait le pouvoir d'appréciation au juge ; LR propose la rédaction du Sénat pour éviter les contentieux.",
+      "citation": "En revanche, votre proposition consistant à garantir la préservation de l’environnement, formulation qui n’est pas très claire, revient à renvoyer le pouvoir d’appréciation au juge.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N314",
+      "date": "2021-06-21"
+    },
+    {
+      "auteur": "Mathilde Panot (La France insoumise)",
+      "resume": "La Charte de l'environnement contient déjà des dispositions plus ambitieuses ; le texte serait mal écrit et pourrait être utilisé par les pollueurs ; il faudrait inscrire la non-régression.",
+      "citation": "Ce projet de loi est mal écrit, donc juridiquement dangereux, si bien qu’il pourrait autoriser les pollueurs à se soustraire aux obligations prévues par la Charte de l’environnement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N314",
+      "date": "2021-06-21"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Emmanuelle Ménard (non inscrite)",
+      "resume": "Le texte relève de l'affichage au regard des politiques menées (CETA, éoliennes) ; elle s'abstient faute de retour à la rédaction du Sénat.",
+      "citation": "Malheureusement, si nous ne revenons pas à la rédaction proposée par le Sénat, je serai dans l’obligation de m’abstenir sur votre amendement, et, plus généralement, sur ce projet de loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N314",
+      "date": "2021-06-21"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°3837 du 22 juin 2021) ; pas d'intervention personnelle retrouvée, argument = position du groupe La France insoumise (Mathilde Panot).",
+      "argument": "Le groupe juge le texte inutile au regard de la Charte de l'environnement, mal rédigé et réclame l'inscription du principe de non-régression.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N314",
+      "date": "2021-06-21"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°3837) ; pas d'intervention personnelle retrouvée. Le groupe GDR (Hubert Wulfranc) a critiqué la méthode tout en votant majoritairement pour (9-0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+      "date": "2021-06-22"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3837) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe La France insoumise a voté contre (0-16).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+      "date": "2021-06-22"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée ; aucun groupe EELV à l'Assemblée ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+      "date": "2021-06-22"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3837) ; aucune déclaration spécifique retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+      "date": "2021-06-22"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (20-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+      "date": "2021-06-22"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a porté le projet de loi constitutionnelle ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/pjlc_environnement",
+      "date": "2021-06-22"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre en 2021, hors du gouvernement ; aucune déclaration spécifique retrouvée. Son parti Horizons n'existait pas encore : pas de proxy de groupe.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+      "date": "2021-06-22"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Il a voté pour la version du Sénat (scrutin n°156 du 5 juillet 2021), qui remplaçait « garantit » par une autre formulation ; position « contre » au sens de la question (inscription du verbe « garantir »).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-156.html",
+      "date": "2021-07-05"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0-82-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+      "date": "2021-06-22"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (0-82-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+      "date": "2021-06-22"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°3837), députée non inscrite ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+      "date": "2021-06-22"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en juin 2021 ; aucune déclaration retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+      "date": "2021-06-22"
+    },
+    "dupontaignan": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°3837), député non inscrit ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3837",
+      "date": "2021-06-22"
+    }
+  },
+  "alertes": [
+    "Le scrutin n°3837 porte sur l'article unique (valant ensemble) du projet de loi constitutionnelle en deuxième lecture ; la rédaction votée était « garantit la préservation de l'environnement et de la diversité biologique et agit contre le dérèglement climatique ».",
+    "La réforme n'a jamais abouti : faute d'accord entre les deux chambres, le référendum a été abandonné le 6 juillet 2021.",
+    "Les arguments proviennent de la discussion générale du 21 juin 2021 (séance précédant le vote solennel du 22 juin), il n'y a pas eu d'explications de vote le jour du scrutin.",
+    "Retailleau : il a voté POUR le texte du Sénat, qui refusait le verbe « garantir » ; codé « contre » au sens de la question. Aucune déclaration personnelle vérifiée.",
+    "Untermaier (Socialistes) a précisé que certains membres de son groupe pourraient s'abstenir ; le groupe a voté pour à 20 contre 1.",
+    "Le groupe LR s'est opposé au verbe « garantir » sans s'opposer au principe d'une référence à l'environnement : un vote « contre » porte sur cette rédaction.",
+    "Mélenchon : argument = position du groupe LFI, sans citation personnelle ; Roussel, Le Pen, Dupont-Aignan : aucune explication retrouvée."
+  ]
+}

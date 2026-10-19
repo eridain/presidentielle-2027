@@ -1,0 +1,212 @@
+{
+  "id": "accord-securite-qatar",
+  "titre": "Accord de sécurité France-Qatar (Mondial 2022)",
+  "question": "Faut-il approuver l'accord de coopération en matière de sécurité avec le Qatar pour la Coupe du monde 2022 ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi autorise l'approbation de l'accord signé à Doha le 5 mars 2021 entre la France et le Qatar, qui encadre juridiquement l'assistance technique et opérationnelle d'experts français de la sécurité (forces de l'ordre) pour la Coupe du monde de football 2022. Le gouvernement le présentait comme le premier instrument juridiquement contraignant entre les deux pays en matière de sécurité intérieure. Le débat a porté sur les droits humains, la mort d'ouvriers sur les chantiers, l'environnement et les soupçons de corruption liés à l'attribution du Mondial. Adopté par le Sénat le 15 février 2022, puis par l'Assemblée le 4 août 2022 (154 pour, 126 contre : RN, LFI, socialistes, écologistes et GDR contre), il a été promulgué (loi n° 2022-1136 du 9 août 2022).",
+  "contexteSources": [
+    {
+      "titre": "Sénat – dossier législatif pjl21-325",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl21-325.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 4 août 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-jeudi-04-aout-2022"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°189",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/pjl21-325.html",
+  "argumentsPour": [
+    {
+      "auteur": "Olivier Becht (ministre délégué, gouvernement)",
+      "resume": "L'accord offre un cadre juridique protecteur aux experts français mobilisés pour la compétition et pose le socle de la coopération de sécurité avec le Qatar.",
+      "citation": "Le présent accord s’inscrit dans la volonté d’offrir un cadre juridique protecteur aux experts français qui pourront être mobilisés pour cette compétition.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-jeudi-04-aout-2022",
+      "date": "2022-08-04"
+    },
+    {
+      "auteur": "Stéphanie Kochert (Horizons)",
+      "resume": "La coopération perfectionne les forces de l'ordre avant la Coupe du monde de rugby 2023 et les JO 2024, sans coût pour la France (frais pris en charge par le Qatar).",
+      "citation": "Grâce à cette coopération, nous pourrons encore améliorer nos compétences dans la perspective des grands événements à venir sur notre territoire",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-jeudi-04-aout-2022",
+      "date": "2022-08-04"
+    },
+    {
+      "auteur": "Vincent Ledoux (Renaissance)",
+      "resume": "Les réserves sur le pays d'accueil (droits, travailleurs migrants, bilan carbone) doivent être retenues comme axes de progrès, sans empêcher la coopération technique.",
+      "citation": "évoquer toutes les préventions que nous pouvons nourrir à l’égard du pays d’accueil",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-jeudi-04-aout-2022",
+      "date": "2022-08-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Caroline Parmentier (Rassemblement national)",
+      "resume": "La France ne devrait pas nouer de partenariat avec un État qui ne respecte pas les droits de l'homme ; elle aurait renoncé à ses exigences envers le Qatar.",
+      "citation": "voulons-nous vraiment nouer un partenariat avec un État qui piétine les droits de l’homme ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-jeudi-04-aout-2022",
+      "date": "2022-08-04"
+    },
+    {
+      "auteur": "Olivier Faure (Socialistes)",
+      "resume": "Des milliers d'ouvriers migrants sont morts sur les chantiers de ce Mondial, une opération de communication pour le pays organisateur.",
+      "citation": "En dix ans, 6 500 ouvriers surexploités sont morts sur les chantiers pharaoniques nécessaires à un tel événement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-jeudi-04-aout-2022",
+      "date": "2022-08-04"
+    },
+    {
+      "auteur": "Louis Boyard (La France insoumise)",
+      "resume": "L'attribution du Mondial au Qatar serait liée à une affaire de corruption impliquant le sommet de l'État français.",
+      "citation": "si cette compétition se tient au Qatar, c’est à la suite d’une affaire de corruption qui a eu lieu au plus haut sommet de l’État français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-jeudi-04-aout-2022",
+      "date": "2022-08-04"
+    },
+    {
+      "auteur": "Jean-Paul Lecoq (GDR)",
+      "resume": "Ce Mondial ne respecte ni les normes du travail ni l'environnement et ne laissera aucun héritage sportif durable.",
+      "citation": "cet événement n’aura respecté ni les normes internationales du travail les plus basiques, ni celles concernant l’environnement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-jeudi-04-aout-2022",
+      "date": "2022-08-04"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2022 ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NUPES a voté contre (0 pour / 41 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°189) ; aucune déclaration retrouvée. Indication : son groupe GDR a voté contre (1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°189) ; aucune déclaration retrouvée. Indication : son groupe LFI-NUPES a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté contre (0 pour / 10 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°189) ; aucune déclaration retrouvée. Indication : le groupe Écologiste-NUPES a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration vérifiée sur cet accord. PROXY : le groupe Socialistes a voté contre (0 pour / 6 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics dans le gouvernement Borne, qui a présenté le texte ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl21-325.html",
+      "date": "2022-08-04"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (23 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; le Sénat a adopté le texte le 15 février 2022 sans scrutin public (pas de vote nominatif) ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté majoritairement pour (7 pour / 1 contre / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl21-325.html",
+      "date": "2022-02-15"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté majoritairement pour (7 pour / 1 contre / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté majoritairement pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°189) ; aucune déclaration personnelle retrouvée. Indication : son groupe RN a voté contre (0 pour / 63 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°189) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/189",
+      "date": "2022-08-04"
+    }
+  },
+  "alertes": [
+    "Le scrutin AN porte sur l'article unique du projet de loi (équivalent à l'ensemble).",
+    "Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote ; leurs positions restent « inconnu » (le vote du groupe n'est qu'indicatif).",
+    "Retailleau : pas de scrutin public au Sénat sur ce texte, donc pas de vote nominatif.",
+    "Le chiffre de 6 500 ouvriers morts est cité par Olivier Faure en séance ; il n'a pas été vérifié par ailleurs.",
+    "Attal : position déduite de l'appartenance au gouvernement."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "taux-minimal-hauts-revenus",
+  "questionSimple": "Faut-il garantir pour toujours que les plus hauts revenus paient au moins 20 % d'impôt ?",
+  "enBref": "Certains foyers très aisés paient peu d'impôt grâce à des montages fiscaux. En 2024, le gouvernement crée un impôt minimal de 20 % au-delà de 250 000 euros de revenus par an. Mais il ne doit durer que quelques années. Les députés votent ici pour le rendre définitif.",
+  "pourquoiPour": "Pour ses défenseurs, un impôt temporaire pousse les plus riches à attendre sa fin pour toucher leurs revenus. Le rendre permanent est plus juste et plus efficace.",
+  "pourquoiContre": "Pour ses opposants, cet impôt avait été promis comme exceptionnel. Le rendre permanent créerait de l'instabilité fiscale et découragerait les investisseurs.",
+  "ceQuiSestPasse": "L'amendement a été adopté, mais le budget voté n'en a pas tenu compte : l'impôt reste temporaire.",
+  "lexique": [
+    {
+      "terme": "Revenu fiscal de référence",
+      "definition": "Montant des revenus d'un foyer calculé par l'administration fiscale, qui figure sur l'avis d'impôt."
+    },
+    {
+      "terme": "Taux moyen d'imposition",
+      "definition": "Part de ses revenus qu'un foyer paie réellement en impôt."
+    }
+  ]
+}

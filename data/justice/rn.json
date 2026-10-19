@@ -1,0 +1,794 @@
+{
+ "partiId": "rn",
+ "nom": "Rassemblement national",
+ "sigle": "RN",
+ "predecesseurs": [
+  "Front national (1972-2018)"
+ ],
+ "fondation": "1972",
+ "direction": [
+  {
+   "nom": "Jordan Bardella",
+   "fonction": "président",
+   "url": "https://rassemblementnational.fr/instances/bureau-executif"
+  },
+  {
+   "nom": "Louis Aliot",
+   "fonction": "premier vice-président",
+   "url": "https://rassemblementnational.fr/instances/bureau-executif"
+  },
+  {
+   "nom": "Hélène Laporte",
+   "fonction": "vice-présidente",
+   "url": "https://rassemblementnational.fr/instances/bureau-executif"
+  },
+  {
+   "nom": "Sébastien Chenu",
+   "fonction": "vice-président",
+   "url": "https://rassemblementnational.fr/instances/bureau-executif"
+  },
+  {
+   "nom": "Edwige Diaz",
+   "fonction": "vice-présidente chargée de la formation",
+   "url": "https://rassemblementnational.fr/instances/bureau-executif"
+  },
+  {
+   "nom": "Julien Sanchez",
+   "fonction": "vice-président (selon Wikipédia) / membre du bureau exécutif",
+   "url": "https://fr.wikipedia.org/wiki/Rassemblement_national"
+  },
+  {
+   "nom": "Kévin Pfeffer",
+   "fonction": "trésorier",
+   "url": "https://rassemblementnational.fr/instances/bureau-executif"
+  },
+  {
+   "nom": "Philippe Ballard",
+   "fonction": "porte-parole",
+   "url": "https://fr.wikipedia.org/wiki/Rassemblement_national"
+  },
+  {
+   "nom": "Alexandra Masson",
+   "fonction": "porte-parole",
+   "url": "https://fr.wikipedia.org/wiki/Rassemblement_national"
+  },
+  {
+   "nom": "Julien Odoul",
+   "fonction": "porte-parole",
+   "url": "https://fr.wikipedia.org/wiki/Rassemblement_national"
+  },
+  {
+   "nom": "Julie Rechagneux",
+   "fonction": "porte-parole",
+   "url": "https://fr.wikipedia.org/wiki/Rassemblement_national"
+  },
+  {
+   "nom": "Gaëtan Dussausaye",
+   "fonction": "porte-parole",
+   "url": "https://fr.wikipedia.org/wiki/Rassemblement_national"
+  },
+  {
+   "nom": "Aleksandar Nikolic",
+   "fonction": "porte-parole",
+   "url": "https://fr.wikipedia.org/wiki/Rassemblement_national"
+  },
+  {
+   "nom": "Andréa Kotarac",
+   "fonction": "porte-parole",
+   "url": "https://fr.wikipedia.org/wiki/Rassemblement_national"
+  }
+ ],
+ "presentation": "Le Rassemblement national est l'ancien Front national, fondé le 5 octobre 1972 et renommé le 1er juin 2018 ; il a été présidé successivement par Jean-Marie Le Pen (1972-2011), Marine Le Pen (2011-2021) et Jordan Bardella (depuis 2021). L'encyclopédie Wikipédia le décrit comme « un parti politique français d'extrême droite ». En octobre 2026, il compte 121 députés à l'Assemblée nationale, 12 sénateurs après les sénatoriales du 27 septembre 2026 et 29 députés européens.",
+ "presentationSources": [
+  {
+   "titre": "Rassemblement national — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Rassemblement_national"
+  },
+  {
+   "titre": "Le RN passe de 3 à 12 sénateurs et obtient son premier groupe au Sénat (NosParlementaires)",
+   "url": "https://nosparlementaires.fr/actualites/rn-sans-groupe-senat-trois-senateurs-seuil-dix-senatoriales"
+  },
+  {
+   "titre": "Eurodéputés français (Civiqo)",
+   "url": "https://www.civiqo.fr/elus/euro-deputes"
+  }
+ ],
+ "effectifs": {
+  "deputes": 121,
+  "senateurs": 12,
+  "eurodeputes": 29,
+  "source": "deputes_par_groupe_2026.json (open data AN, groupe RN incluant les apparentés) ; https://nosparlementaires.fr/actualites/rn-sans-groupe-senat-trois-senateurs-seuil-dix-senatoriales (12 sénateurs RN, groupe commun RN-UDR de 14) ; https://www.civiqo.fr/elus/euro-deputes (29 eurodéputés étiquetés RN au groupe PfE)"
+ },
+ "candidats": [
+  {
+   "id": "lepen",
+   "bio": "Avocate de formation, Marine Le Pen a été députée européenne de 2004 à 2017 et a présidé le Front national puis le Rassemblement national de 2011 à 2021. Députée du Pas-de-Calais depuis 2017, elle préside le groupe RN à l'Assemblée nationale. Elle a été candidate aux élections présidentielles de 2012, 2017 et 2022.",
+   "sources": [
+    {
+     "titre": "Marine Le Pen — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen"
+    },
+    {
+     "titre": "Marine Le Pen, Bruno Gollnisch, Louis Aliot… Voici les 11 condamnations à l'issue du procès en appel des assistants parlementaires du FN (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-bruno-gollnisch-louis-aliot-voici-les-11-condamnations-a-l-issue-du-proces-en-appel-des-assistants-parlementaires-du-fn_8089790.html"
+    }
+   ]
+  }
+ ],
+ "condamnations": [
+  {
+   "personne": "Le Pen Marine",
+   "categorie": "candidat",
+   "roleActuel": "présidente du groupe RN à l'Assemblée nationale, députée du Pas-de-Calais",
+   "infraction": "détournement de fonds publics (en tant que députée européenne) et complicité de détournement de fonds publics (en tant que présidente du parti)",
+   "faits": "Rémunération par le Parlement européen d'assistants parlementaires d'eurodéputés FN/RN travaillant en réalité pour le parti, sur une période de prévention allant de 2004 à 2016.",
+   "juridiction": "cour d'appel de Paris (chambre des appels correctionnels)",
+   "dateDecision": "2026-07-07",
+   "peine": "3 ans d'emprisonnement dont 2 ans avec sursis (partie ferme aménagée en détention à domicile sous surveillance électronique), 100 000 euros d'amende, 45 mois d'inéligibilité dont 30 mois avec sursis ; la cour relève que cette peine est exécutée depuis le 31 mars 2025 (exécution provisoire du jugement de 1re instance)",
+   "statut": "pourvoi_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Marine Le Pen, Bruno Gollnisch, Louis Aliot… Voici les 11 condamnations à l'issue du procès en appel des assistants parlementaires du FN (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-bruno-gollnisch-louis-aliot-voici-les-11-condamnations-a-l-issue-du-proces-en-appel-des-assistants-parlementaires-du-fn_8089790.html",
+     "citation": "L'ancienne députée européenne (2004-2017) a été condamnée à trois ans de prison, dont deux avec sursis et un an ferme aménageable sous bracelet électronique, ainsi qu'à une amende de 100 000 euros.",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Cour d'appel de Paris – Communiqué de presse, décision du 7 juillet 2026, affaire dite « des assistants parlementaires du Front National » (copie PDF hébergée par infodujour.fr)",
+     "url": "https://infodujour.fr/wp-content/uploads/2026/07/Communique-de-la-cour-dappel-de-Paris.pdf",
+     "citation": "Mme Le Pen a été condamnée à une peine d’inéligibilité de 45 mois dont 30 mois avec sursis.",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Cour d'appel de Paris – Communiqué de presse, décision du 7 juillet 2026, affaire dite « des assistants parlementaires du Front National » (copie PDF hébergée par infodujour.fr)",
+     "url": "https://infodujour.fr/wp-content/uploads/2026/07/Communique-de-la-cour-dappel-de-Paris.pdf",
+     "citation": "La cour considère que l’exécution de cette peine depuis le 31mars 2025 a d’ores et déjà réparé l’atteinte à la probité",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Cour de cassation – Communiqué n°3 (calendrier)",
+     "url": "https://www.courdecassation.fr/toutes-les-actualites/2026/10/16/communique-affaire-dite-des-assistants-parlementaires-du-front",
+     "citation": "Les QPC seront examinées lors de l’audience de la chambre criminelle de la Cour de cassation du 16 décembre 2026.",
+     "date": "2026-10-16"
+    },
+    {
+     "titre": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national se pourvoient en cassation (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tous-les-prevenus-dans-l-affaire-des-assistants-d-eurodeputes-du-front-national-se-pourvoient-en-cassation_8115401.html",
+     "citation": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national , puis Rassemblement national, se sont pourvus en cassation, a appris lundi 20 juillet franceinfo auprès de la cour d'appel de Paris.",
+     "date": "2026-07-20"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Rassemblement national (personne morale, ex-Front national)",
+   "categorie": "parti",
+   "roleActuel": "parti politique",
+   "infraction": "complicité de détournement de fonds publics et recel de détournements de fonds publics commis de manière habituelle par personne morale",
+   "faits": "Rémunération par le Parlement européen d'assistants parlementaires d'eurodéputés FN/RN travaillant en réalité pour le parti, sur une période de prévention allant de 2004 à 2016.",
+   "juridiction": "cour d'appel de Paris (chambre des appels correctionnels)",
+   "dateDecision": "2026-07-07",
+   "peine": "2 millions d'euros d'amende dont 1 million avec sursis (confirmation de la peine de première instance)",
+   "statut": "pourvoi_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Marine Le Pen, Bruno Gollnisch, Louis Aliot… Voici les 11 condamnations à l'issue du procès en appel des assistants parlementaires du FN (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-bruno-gollnisch-louis-aliot-voici-les-11-condamnations-a-l-issue-du-proces-en-appel-des-assistants-parlementaires-du-fn_8089790.html",
+     "citation": "Le RN est condamné, comme en première instance, à une amende de 2 millions d'euros, dont 1 million d'euros avec sursis.",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Cour d'appel de Paris – Communiqué de presse, décision du 7 juillet 2026, affaire dite « des assistants parlementaires du Front National » (copie PDF hébergée par infodujour.fr)",
+     "url": "https://infodujour.fr/wp-content/uploads/2026/07/Communique-de-la-cour-dappel-de-Paris.pdf",
+     "citation": "recel de détournements de fonds publics commis de manière habituelle par personne morale pour le Rassemblement National.",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national se pourvoient en cassation (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tous-les-prevenus-dans-l-affaire-des-assistants-d-eurodeputes-du-front-national-se-pourvoient-en-cassation_8115401.html",
+     "citation": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national , puis Rassemblement national, se sont pourvus en cassation, a appris lundi 20 juillet franceinfo auprès de la cour d'appel de Paris.",
+     "date": "2026-07-20"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Aliot Louis",
+   "categorie": "dirigeant",
+   "roleActuel": "premier vice-président du RN, maire de Perpignan",
+   "infraction": "détournement de fonds publics (en tant que député européen)",
+   "faits": "Rémunération par le Parlement européen d'assistants parlementaires d'eurodéputés FN/RN travaillant en réalité pour le parti, sur une période de prévention allant de 2004 à 2016.",
+   "juridiction": "cour d'appel de Paris (chambre des appels correctionnels)",
+   "dateDecision": "2026-07-07",
+   "peine": "1 an d'emprisonnement avec sursis, 5 000 euros d'amende, 2 ans d'inéligibilité avec sursis",
+   "statut": "pourvoi_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Marine Le Pen, Bruno Gollnisch, Louis Aliot… Voici les 11 condamnations à l'issue du procès en appel des assistants parlementaires du FN (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-bruno-gollnisch-louis-aliot-voici-les-11-condamnations-a-l-issue-du-proces-en-appel-des-assistants-parlementaires-du-fn_8089790.html",
+     "citation": "il écope d'une peine d'un an de prison avec sursis, contre dix-huit mois de prison dont douze avec sursis en première instance. Il est également condamné à deux ans d'inéligibilité avec sursis et à 5 000 euros d'amende.",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Cour d'appel de Paris – Communiqué de presse, décision du 7 juillet 2026, affaire dite « des assistants parlementaires du Front National » (copie PDF hébergée par infodujour.fr)",
+     "url": "https://infodujour.fr/wp-content/uploads/2026/07/Communique-de-la-cour-dappel-de-Paris.pdf",
+     "citation": "détournements de fonds publics pour M. Louis Aliot, M. Nicolas Bay, M. Bruno Gollnish, M. Fernand Le Rachinel, Mme Marine Le Pen (alors députés européens)",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national se pourvoient en cassation (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tous-les-prevenus-dans-l-affaire-des-assistants-d-eurodeputes-du-front-national-se-pourvoient-en-cassation_8115401.html",
+     "citation": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national , puis Rassemblement national, se sont pourvus en cassation, a appris lundi 20 juillet franceinfo auprès de la cour d'appel de Paris.",
+     "date": "2026-07-20"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Griset Catherine",
+   "categorie": "eurodepute",
+   "roleActuel": "députée européenne (RN, groupe Patriotes pour l'Europe)",
+   "infraction": "recel de détournements de fonds publics (en tant qu'assistante parlementaire)",
+   "faits": "Rémunération par le Parlement européen d'assistants parlementaires d'eurodéputés FN/RN travaillant en réalité pour le parti, sur une période de prévention allant de 2004 à 2016.",
+   "juridiction": "cour d'appel de Paris (chambre des appels correctionnels)",
+   "dateDecision": "2026-07-07",
+   "peine": "12 mois d'emprisonnement avec sursis, 2 ans d'inéligibilité avec sursis",
+   "statut": "pourvoi_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Marine Le Pen, Bruno Gollnisch, Louis Aliot… Voici les 11 condamnations à l'issue du procès en appel des assistants parlementaires du FN (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-bruno-gollnisch-louis-aliot-voici-les-11-condamnations-a-l-issue-du-proces-en-appel-des-assistants-parlementaires-du-fn_8089790.html",
+     "citation": "Sa peine de douze mois de prison avec sursis est confirmée en appel. Elle est condamnée à une peine d'inéligibilité de deux ans avec sursis, contre deux ans ferme avec exécution provisoire en première instance.",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Cour d'appel de Paris – Communiqué de presse, décision du 7 juillet 2026, affaire dite « des assistants parlementaires du Front National » (copie PDF hébergée par infodujour.fr)",
+     "url": "https://infodujour.fr/wp-content/uploads/2026/07/Communique-de-la-cour-dappel-de-Paris.pdf",
+     "citation": "recel de détournements de fonds publics pour Mme Catherine Griset, M. Timothée Houssin, M. Guillaume L’Huillier, M. Julien Odoul (alors assistants parlementaires)",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national se pourvoient en cassation (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tous-les-prevenus-dans-l-affaire-des-assistants-d-eurodeputes-du-front-national-se-pourvoient-en-cassation_8115401.html",
+     "citation": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national , puis Rassemblement national, se sont pourvus en cassation, a appris lundi 20 juillet franceinfo auprès de la cour d'appel de Paris.",
+     "date": "2026-07-20"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Odoul Julien",
+   "categorie": "depute",
+   "roleActuel": "député de l'Yonne, porte-parole du RN",
+   "infraction": "recel de détournements de fonds publics (en tant qu'assistant parlementaire)",
+   "faits": "Rémunération par le Parlement européen d'assistants parlementaires d'eurodéputés FN/RN travaillant en réalité pour le parti, sur une période de prévention allant de 2004 à 2016.",
+   "juridiction": "cour d'appel de Paris (chambre des appels correctionnels)",
+   "dateDecision": "2026-07-07",
+   "peine": "8 mois d'emprisonnement avec sursis, 1 an d'inéligibilité avec sursis",
+   "statut": "pourvoi_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Marine Le Pen, Bruno Gollnisch, Louis Aliot… Voici les 11 condamnations à l'issue du procès en appel des assistants parlementaires du FN (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-bruno-gollnisch-louis-aliot-voici-les-11-condamnations-a-l-issue-du-proces-en-appel-des-assistants-parlementaires-du-fn_8089790.html",
+     "citation": "La cour d'appel de Paris a condamné l'ex-assistant parlementaire de Marine Le Pen à huit mois de prison avec sursis, comme en première instance, et un an d'inéligibilité avec sursis.",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Cour d'appel de Paris – Communiqué de presse, décision du 7 juillet 2026, affaire dite « des assistants parlementaires du Front National » (copie PDF hébergée par infodujour.fr)",
+     "url": "https://infodujour.fr/wp-content/uploads/2026/07/Communique-de-la-cour-dappel-de-Paris.pdf",
+     "citation": "recel de détournements de fonds publics pour Mme Catherine Griset, M. Timothée Houssin, M. Guillaume L’Huillier, M. Julien Odoul (alors assistants parlementaires)",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national se pourvoient en cassation (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tous-les-prevenus-dans-l-affaire-des-assistants-d-eurodeputes-du-front-national-se-pourvoient-en-cassation_8115401.html",
+     "citation": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national , puis Rassemblement national, se sont pourvus en cassation, a appris lundi 20 juillet franceinfo auprès de la cour d'appel de Paris.",
+     "date": "2026-07-20"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Houssin Timothée",
+   "categorie": "depute",
+   "roleActuel": "député de l'Eure",
+   "infraction": "recel de détournements de fonds publics (en tant qu'assistant parlementaire)",
+   "faits": "Rémunération par le Parlement européen d'assistants parlementaires d'eurodéputés FN/RN travaillant en réalité pour le parti, sur une période de prévention allant de 2004 à 2016.",
+   "juridiction": "cour d'appel de Paris (chambre des appels correctionnels)",
+   "dateDecision": "2026-07-07",
+   "peine": "6 mois d'emprisonnement avec sursis, 1 an d'inéligibilité avec sursis",
+   "statut": "pourvoi_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Marine Le Pen, Bruno Gollnisch, Louis Aliot… Voici les 11 condamnations à l'issue du procès en appel des assistants parlementaires du FN (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-bruno-gollnisch-louis-aliot-voici-les-11-condamnations-a-l-issue-du-proces-en-appel-des-assistants-parlementaires-du-fn_8089790.html",
+     "citation": "Ancien assistant parlementaire de Nicolas Bay, il écope de six mois de prison avec sursis et un an d'inéligibilité avec sursis, comme en première instance.",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Cour d'appel de Paris – Communiqué de presse, décision du 7 juillet 2026, affaire dite « des assistants parlementaires du Front National » (copie PDF hébergée par infodujour.fr)",
+     "url": "https://infodujour.fr/wp-content/uploads/2026/07/Communique-de-la-cour-dappel-de-Paris.pdf",
+     "citation": "recel de détournements de fonds publics pour Mme Catherine Griset, M. Timothée Houssin, M. Guillaume L’Huillier, M. Julien Odoul (alors assistants parlementaires)",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national se pourvoient en cassation (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tous-les-prevenus-dans-l-affaire-des-assistants-d-eurodeputes-du-front-national-se-pourvoient-en-cassation_8115401.html",
+     "citation": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national , puis Rassemblement national, se sont pourvus en cassation, a appris lundi 20 juillet franceinfo auprès de la cour d'appel de Paris.",
+     "date": "2026-07-20"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Le Pen Marine",
+   "categorie": "candidat",
+   "roleActuel": "présidente du groupe RN à l'Assemblée nationale, députée du Pas-de-Calais",
+   "infraction": "diffamation publique envers une association (La Cimade)",
+   "faits": "Propos tenus lors d'un entretien sur BFMTV en janvier 2022 accusant La Cimade d'organiser une filière d'immigration clandestine depuis les Comores vers Mayotte.",
+   "juridiction": "cour d'appel de Paris (arrêt du 11 septembre 2024), pourvoi rejeté par la Cour de cassation le 16 décembre 2025",
+   "dateDecision": "2025-12-16",
+   "peine": "500 euros d'amende avec sursis",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Marine Le Pen définitivement condamnée pour diffamation envers la Cimade (BFMTV avec AFP)",
+     "url": "https://www.bfmtv.com/politique/front-national/marine-le-pen-definitivement-condamnee-pour-diffamation-envers-la-cimade-association-d-aide-au-migrants_AD-202512160695.html",
+     "citation": "la plus haute instance judiciaire française a rejeté le pourvoi de la cheffe de file de l'extrême droite contre sa condamnation à 500 euros d'amende avec sursis par la cour d'appel de Paris le 11 septembre 2024.",
+     "date": "2025-12-16"
+    },
+    {
+     "titre": "Marine Le Pen définitivement condamnée pour diffamation envers la Cimade (Le Club des Juristes)",
+     "url": "https://www.leclubdesjuristes.com/en-bref/marine-le-pen-definitivement-condamnee-pour-diffamation-envers-la-cimade-13397/",
+     "citation": "Mardi 16 décembre, la Cour de cassation a confirmé l’arrêt rendu par la Cour d’appel de Paris le 11 septembre 2024 condamnant Marine Le Pen à 500 euros d’amende avec sursis",
+     "date": "2025-12-17"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Rassemblement national (personne morale, ex-Front national)",
+   "categorie": "parti",
+   "roleActuel": "parti politique",
+   "infraction": "recel d'abus de biens sociaux (qualification rapportée par franceinfo/AFP en 2024 ; voir alertes)",
+   "faits": "Affaire dite des « kits de campagne » (Jeanne-Riwal) : kits électoraux vendus aux candidats FN aux législatives de 2012 via le microparti Jeanne et la société Riwal, à des prix jugés surévalués au détriment de l'État.",
+   "juridiction": "cour d'appel de Paris (arrêt du 15 mars 2023), pourvoi rejeté par la Cour de cassation le 19 juin 2024",
+   "dateDecision": "2024-06-19",
+   "peine": "250 000 euros d'amende",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "La Cour de cassation valide la condamnation du RN dans l'affaire des kits de campagne (franceinfo avec AFP)",
+     "url": "https://www.franceinfo.fr/faits-divers/justice-proces/la-cour-de-cassation-valide-la-condamnation-du-rn-dans-l-affaire-des-kits-de-campagne_6613695.html",
+     "citation": "Jugé en appel pour recel d'abus de biens sociaux en mars 2023, le RN avait été condamné à une amende de 250 000 euros . Cette condamnation est désormais définitive.",
+     "date": "2024-06-19"
+    },
+    {
+     "titre": "La Cour de cassation confirme la condamnation du Rassemblement national dans l'affaire des kits de campagne (Le Monde)",
+     "url": "https://www.lemonde.fr/societe/article/2024/06/19/la-cour-de-cassation-confirme-la-condamnation-du-rassemblement-national-dans-l-affaire-des-kits-de-campagne_6241414_3224.html",
+     "citation": "la Cour de cassation a confirmé, mercredi 19 juin, le jugement d’appel condamnant le Rassemblement national (RN) dans l’affaire « Jeanne-Riwal », dite aussi « affaire des kits de campagne », à une amende de 250 000 euros.",
+     "date": "2024-06-19"
+    },
+    {
+     "titre": "Affaire des kits de campagne : le RN condamné en appel à une amende de 250 000 euros (franceinfo avec AFP)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-kits-de-campagne-le-rassemblement-national-condamne-en-appel-a-une-amende-de-250-000-euros_5712755.html",
+     "citation": "En appel , la cour a infirmé la culpabilité du RN concernant le recel d'abus de biens sociaux et l'a relaxé pour ces faits. Mais elle a, en revanche, confirmé la culpabilité",
+     "date": "2023-03-15"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Le Pen Jean-Marie (décédé le 7 janvier 2025)",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "fondateur et président du FN (1972-2011), décédé",
+   "infraction": "violences volontaires",
+   "faits": "Violences envers la candidate socialiste Annette Peulvast-Bergeal lors d'un déplacement à Mantes-la-Jolie pendant la campagne des législatives de 1997.",
+   "juridiction": "cour d'appel de Versailles (1998), décision confirmée par la Cour de cassation (1999)",
+   "dateDecision": "1998",
+   "peine": "3 mois d'emprisonnement avec sursis et 1 an d'inéligibilité",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Mort de Jean-Marie Le Pen : on a listé ses nombreuses condamnations par la justice (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/jean-marie-le-pen/mort-de-jean-marie-le-pen-on-a-liste-ses-nombreuses-condamnations-par-la-justice_2811103.html",
+     "citation": "Le président du FN est condamné en appel en 1998 à un an d'inéligibilité et trois mois de prison avec sursis pour ces faits de violences. Une décision confirmée en cassation un an plus tard.",
+     "date": "2025-01-08"
+    },
+    {
+     "titre": "Avant Marine Le Pen, d'autres élus ont été condamnés à des peines d'inéligibilité (franceinfo)",
+     "url": "https://franceinfo.fr/societe/justice/avant-marine-le-pen-d-autres-elus-ont-ete-condamnes-a-des-peines-d-ineligibilite_7162779.html",
+     "citation": "En 1998, Jean-Marie Le Pen a été condamné en appel à un an d'inéligibilité et trois mois de prison avec sursis pour violences envers une candidate socialiste à Mantes-la-Jolie",
+     "date": "2025-03-31"
+    }
+   ],
+   "famille": "violences"
+  },
+  {
+   "personne": "Le Pen Jean-Marie (décédé le 7 janvier 2025)",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "fondateur et président du FN (1972-2011), décédé",
+   "infraction": "provocation à la haine raciale (« incitation à la haine raciale »)",
+   "faits": "Propos sur les musulmans publiés dans Le Monde le 19 avril 2003.",
+   "juridiction": "cour d'appel de Paris",
+   "dateDecision": "2005",
+   "peine": "10 000 euros d'amende",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Mort de Jean-Marie Le Pen : on a listé ses nombreuses condamnations par la justice (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/jean-marie-le-pen/mort-de-jean-marie-le-pen-on-a-liste-ses-nombreuses-condamnations-par-la-justice_2811103.html",
+     "citation": "Une interview qui lui vaut deux ans plus tard une condamnation en appel à 10 000 euros d'amende pour incitation à la haine raciale .",
+     "date": "2025-01-08"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Le Pen Jean-Marie (décédé le 7 janvier 2025)",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "fondateur et président du FN (1972-2011), décédé",
+   "infraction": "contestation de crime contre l'humanité",
+   "faits": "Propos sur l'Occupation allemande tenus dans un entretien à Rivarol en 2005.",
+   "juridiction": "cour d'appel de Paris",
+   "dateDecision": "2009",
+   "peine": "non précisée dans la source consultée",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Mort de Jean-Marie Le Pen : on a listé ses nombreuses condamnations par la justice (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/jean-marie-le-pen/mort-de-jean-marie-le-pen-on-a-liste-ses-nombreuses-condamnations-par-la-justice_2811103.html",
+     "citation": "Pour ces propos, il est condamné en appel en 2009 pour \" contestation de crime contre l'humanité \". Jean-Marie Le Pen saisit la Cour européenne des droits de l'homme mais il est débouté",
+     "date": "2025-01-08"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Le Pen Jean-Marie (décédé le 7 janvier 2025)",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "fondateur et président du FN (1972-2011), décédé",
+   "infraction": "injure publique envers un groupe de personnes à raison de leur origine ou appartenance à une ethnie",
+   "faits": "Propos sur les Roms tenus à l'université d'été du FN en 2012.",
+   "juridiction": "tribunal correctionnel de Paris (2013), confirmé en appel puis en cassation",
+   "dateDecision": "2013",
+   "peine": "5 000 euros d'amende",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Mort de Jean-Marie Le Pen : on a listé ses nombreuses condamnations par la justice (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/jean-marie-le-pen/mort-de-jean-marie-le-pen-on-a-liste-ses-nombreuses-condamnations-par-la-justice_2811103.html",
+     "citation": "le tribunal correctionnel de Paris le déclare coupable \"d'injure publique envers un groupe de personnes en raison de son appartenance à une ethnie\" et le condamne à 5 000 euros d'amende. Une décision confirmée en appel puis en cassation.",
+     "date": "2025-01-08"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Le Pen Jean-Marie (décédé le 7 janvier 2025)",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "fondateur et président du FN (1972-2011), décédé",
+   "infraction": "provocation à la haine et à la discrimination ethniques",
+   "faits": "Propos sur les Roms tenus lors d'une conférence de presse à Nice en 2013.",
+   "juridiction": "tribunal correctionnel (2016), confirmé par la cour d'appel (2017)",
+   "dateDecision": "2017",
+   "peine": "5 000 euros d'amende",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Mort de Jean-Marie Le Pen : on a listé ses nombreuses condamnations par la justice (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/jean-marie-le-pen/mort-de-jean-marie-le-pen-on-a-liste-ses-nombreuses-condamnations-par-la-justice_2811103.html",
+     "citation": "le président d'honneur du Front national est condamné en première instance à 5 000 euros d'amende pour \"provocation à la haine et à la discrimination ethniques\"",
+     "date": "2025-01-08"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Le Pen Jean-Marie (décédé le 7 janvier 2025)",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "fondateur et président du FN (1972-2011), décédé",
+   "infraction": "contestation de crime contre l'humanité",
+   "faits": "Propos réitérés en 2015 sur BFMTV qualifiant les chambres à gaz de « détail » de l'histoire de la Seconde Guerre mondiale.",
+   "juridiction": "cour d'appel de Paris (1er mars 2017), pourvoi rejeté par la Cour de cassation le 27 mars 2018",
+   "dateDecision": "2018-03-27",
+   "peine": "30 000 euros d'amende",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Mort de Jean-Marie Le Pen : on a listé ses nombreuses condamnations par la justice (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/jean-marie-le-pen/mort-de-jean-marie-le-pen-on-a-liste-ses-nombreuses-condamnations-par-la-justice_2811103.html",
+     "citation": "En 2017, il est condamné en appel à 30 000 euros d'amende pour \"contestation de crime contre l'humanité\" . Une condamnation confirmée en 2018 en cassation.",
+     "date": "2025-01-08"
+    },
+    {
+     "titre": "Jean-Marie Le Pen définitivement condamné pour ses propos sur les chambres à gaz (Le Monde)",
+     "url": "https://www.lemonde.fr/police-justice/article/2018/03/27/jean-marie-le-pen-definitivement-condamne-pour-ses-propos-sur-les-chambres-a-gaz_5277072_1653578.html",
+     "citation": "La condamnation de Jean-Marie Le Pen pour contestation de crime contre l’humanité est désormais définitive. La Cour de cassation a validé, mardi 27 mars, le jugement en appel qui avait infligé une amende de 30 000 euros",
+     "date": "2018-03-27"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Le Pen Jean-Marie (décédé le 7 janvier 2025)",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "fondateur et président du FN (1972-2011), décédé",
+   "infraction": "injure publique à raison de l'orientation sexuelle",
+   "faits": "Propos visant les homosexuels tenus en 2016 (vidéo) et en 2017 (hommage au policier Xavier Jugelé).",
+   "juridiction": "cour d'appel (2019)",
+   "dateDecision": "2019",
+   "peine": "2 400 euros d'amende",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Mort de Jean-Marie Le Pen : on a listé ses nombreuses condamnations par la justice (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/jean-marie-le-pen/mort-de-jean-marie-le-pen-on-a-liste-ses-nombreuses-condamnations-par-la-justice_2811103.html",
+     "citation": "Pour ces injures publiques visant les homosexuels, il a été condamné en appel à 2 400 euros d'amende en 2019.",
+     "date": "2025-01-08"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Le Pen Jean-Marie (décédé le 7 janvier 2025)",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "fondateur et président du FN (1972-2011), décédé",
+   "infraction": "condamnation civile pour propos sur les chambres à gaz qualifiées de « détail de l'histoire » (responsabilité civile, associations demanderesses)",
+   "faits": "Propos tenus le 13 septembre 1987 dans l'émission « Grand Jury » RTL-Le Monde.",
+   "juridiction": "tribunal de grande instance de Nanterre (mai 1990), peine alourdie en appel (1991)",
+   "dateDecision": "1990-05",
+   "peine": "1 franc symbolique à chacune des dix associations en 1re instance ; près de 1,2 million de francs au total après appel",
+   "statut": "inconnu",
+   "nature": "civile",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Mort de Jean-Marie Le Pen : on a listé ses nombreuses condamnations par la justice (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/jean-marie-le-pen/mort-de-jean-marie-le-pen-on-a-liste-ses-nombreuses-condamnations-par-la-justice_2811103.html",
+     "citation": "En mai 1990, il est condamné à verser un franc symbolique de dommages et intérêts aux dix associations qui ont porté plainte contre lui.",
+     "date": "2025-01-08"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Le Pen Jean-Marie (décédé le 7 janvier 2025)",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "fondateur et président du FN (1972-2011), décédé",
+   "infraction": "contestation de crime contre l'humanité (poursuite) – condamnation à indemniser onze associations",
+   "faits": "Propos tenus le 5 décembre 1997 à Munich sur les chambres à gaz.",
+   "juridiction": "tribunal de Nanterre (26 décembre 1997), confirmé en appel en 1999",
+   "dateDecision": "1997-12-26",
+   "peine": "jusqu'à 5 000 francs à verser à onze associations",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Mort de Jean-Marie Le Pen : on a listé ses nombreuses condamnations par la justice (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/jean-marie-le-pen/mort-de-jean-marie-le-pen-on-a-liste-ses-nombreuses-condamnations-par-la-justice_2811103.html",
+     "citation": "Il est rapidement poursuivi pour contestation de crime contre l'humanité et condamné, le 26 décembre 1997, par le tribunal de Nanterre (Hauts-de-Seine), à verser jusqu'à 5 000 francs (750 euros) à onze associations.",
+     "date": "2025-01-08"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Lorho Marie-France",
+   "categorie": "depute",
+   "roleActuel": "députée de la 4e circonscription de Vaucluse",
+   "infraction": "détournement de fonds publics",
+   "faits": "Emploi jugé fictif de Yann Bompard comme collaborateur parlementaire de la députée entre novembre 2022 et février 2023 (préjudice estimé par l'Assemblée nationale à près de 75 000 euros).",
+   "juridiction": "tribunal correctionnel de Marseille",
+   "dateDecision": "2026-01-26",
+   "peine": "18 mois d'emprisonnement avec sursis, 10 000 euros d'amende, 5 ans d'inéligibilité avec exécution provisoire",
+   "statut": "appel_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Emploi fictif : prison avec sursis et inéligibilité immédiate pour le maire d'Orange, Yann Bompard (Le Monde)",
+     "url": "https://www.lemonde.fr/societe/article/2026/01/26/emploi-fictif-prison-avec-sursis-et-ineligibilite-immediate-pour-le-maire-d-orange-yann-bompard_6664201_3224.html",
+     "citation": "députée (Rassemblement national, RN) de la 4 e circonscription du Vaucluse, condamnée dans cette même affaire à dix-huit mois de prison avec sursis, à une amende de 10 000 euros et à une mesure d’inéligibilité immédiate de cinq ans.",
+     "date": "2026-01-26"
+    },
+    {
+     "titre": "Marie-France Lorho et Yann Bompard font appel de leur condamnation pour détournement de fonds publics (ICI Vaucluse)",
+     "url": "https://www.ici.fr/provence-alpes-cote-d-azur/vaucluse-84/orange/marie-france-lorho-et-yann-bompard-font-appel-de-leur-condamnation-pour-detournement-de-fonds-publics-7110341",
+     "citation": "Le maire d'Orange, Yann Bompard, et la députée Rassemblement national de Vaucluse, Marie-France Lorho, ont fait appel de leur condamnation pour détournement de fonds publics",
+     "date": "2026-02-04"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Jacobelli Laurent",
+   "categorie": "depute",
+   "roleActuel": "député de la 8e circonscription de la Moselle",
+   "infraction": "outrage et diffamation non publique (relaxe pour injure raciste)",
+   "faits": "Propos tenus le 13 octobre 2023 à Hayange envers le député Belkhir Belhaddad, qualifié de « racaille ».",
+   "juridiction": "tribunal correctionnel de Thionville",
+   "dateDecision": "2025-09-02",
+   "peine": "300 euros d'amende avec sursis et 150 euros de dommages et intérêts",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Clash Jacobelli-Belhaddad : le député RN de la Moselle condamné pour outrage et diffamation, relaxé sur l'injure raciste (ICI Moselle)",
+     "url": "https://www.ici.fr/grand-est/moselle-57/hayange/clash-jacobelli-belhaddad-le-depute-rn-de-la-moselle-condamne-pour-outrage-et-diffamation-relaxe-sur-l-injure-raciste-6956250",
+     "citation": "Le tribunal de Thionville a condamné, mardi 2 septembre, le député Rassemblement national de la Moselle Laurent Jacobelli à 300 euros d'amende avec sursis pour outrage et diffamation non publique.",
+     "date": "2025-09-02"
+    },
+    {
+     "titre": "Moselle : le député RN Jacobelli condamné (Le Républicain lorrain, repris par Le Quotidien)",
+     "url": "https://lequotidien.lu/grande-region/moselle-le-depute-rn-jacobelli-condamne/",
+     "citation": "Laurent Jacobelli (RN), a été condamné hier par le tribunal de Thionville, à une peine de 300 euros avec sursis pour outrage et diffamation non publique à l’adresse de son homologue Belkhir Belhaddad.",
+     "date": "2025-09-03"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Boccaletti Frédéric",
+   "categorie": "depute",
+   "roleActuel": "député de la 7e circonscription du Var",
+   "infraction": "violences en réunion avec arme",
+   "faits": "Faits survenus lors d'un collage d'affiches à Six-Fours-les-Plages (date exacte des faits non précisée dans la source).",
+   "juridiction": "non précisée dans la source consultée",
+   "dateDecision": "2000",
+   "peine": "1 an d'emprisonnement dont 6 mois ferme",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Exemplarité des élus : le député RN du Var Frédéric Boccaletti assume son passé judiciaire (France 3 Provence-Alpes-Côte d'Azur)",
+     "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/exemplarite-des-elus-le-depute-rn-du-var-frederic-boccaletti-assume-son-passe-judiciaire-3063949.html",
+     "citation": "Plus de 24 ans après sa condamnation - un an de prison dont six mois ferme -, ce passé judiciaire continue de refaire surface.",
+     "date": "2024-11-21"
+    },
+    {
+     "titre": "Exemplarité des élus : le député RN du Var Frédéric Boccaletti assume son passé judiciaire (France 3 Provence-Alpes-Côte d'Azur)",
+     "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/exemplarite-des-elus-le-depute-rn-du-var-frederic-boccaletti-assume-son-passe-judiciaire-3063949.html",
+     "citation": "Frédéric Boccaletti a été condamné pour \"violences en réunion avec armes\" en 2000.",
+     "date": "2024-11-21"
+    }
+   ],
+   "famille": "violences"
+  },
+  {
+   "personne": "Gillet Yoann",
+   "categorie": "depute",
+   "roleActuel": "député de la 1re circonscription du Gard",
+   "infraction": "injure publique envers un élu (le maire de Nîmes Jean-Paul Fournier)",
+   "faits": "Propos tenus lors d'un conseil municipal de Nîmes en décembre 2014.",
+   "juridiction": "cour d'appel de Nîmes (confirmation du jugement du tribunal correctionnel de Nîmes du 20 octobre 2015)",
+   "dateDecision": "2016-04-29",
+   "peine": "1 500 euros d'amende et 1 500 euros de dommages et intérêts",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Nîmes : la cour d'appel confirme la condamnation de Yoann Gillet (Midi Libre)",
+     "url": "https://www.midilibre.fr/2016/04/29/nimes-la-cour-d-appel-confirme-la-condamnation-de-yoann-gillet-4146779.php",
+     "citation": "La cour d'appel a confirmé la condamnation de Yoann Gillet pour injures publiques envers Jean-Paul Fournier ce vendredi 29 avril en tout début de matinée.",
+     "date": "2016-04-29"
+    },
+    {
+     "titre": "Gard : le secrétaire départemental FN condamné pour injures publiques (France 3 Occitanie)",
+     "url": "https://france3-regions.franceinfo.fr/occitanie/gard-secretaire-departemental-fn-condamne-injures-publiques-834107.html",
+     "citation": "Yoann Gillet, a été condamné mardi par le tribunal correctionnel de Nîmes à 1.500 euros d'amende pour injures publiques à l'encontre du maire de Nîmes, Jean-Paul Fournier (LR).",
+     "date": "2015-10-20"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Sanchez Julien",
+   "categorie": "eurodepute",
+   "roleActuel": "député européen, vice-président du RN",
+   "infraction": "provocation à la haine ou à la violence à raison de l'origine ou de la religion (non-retrait prompt de commentaires de tiers sur son mur Facebook)",
+   "faits": "Commentaires à connotation raciste publiés par deux internautes en octobre 2011 sur le mur Facebook public de l'élu, alors candidat aux législatives à Nîmes.",
+   "juridiction": "cour d'appel de Nîmes (pourvoi rejeté par la Cour de cassation ; requête rejetée par la Grande Chambre de la CEDH le 15 mai 2023)",
+   "dateDecision": "2013-10-18",
+   "peine": "3 000 euros d'amende (4 000 euros dont 1 000 avec sursis en 1re instance)",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Facebook : un élu FN condamné pour des propos écrits par des tiers, une première (HuffPost)",
+     "url": "https://www.huffingtonpost.fr/actualites/article/facebook-un-elu-fn-condamne-pour-des-propos-ecrits-par-des-tiers-une-premiere_25974.html",
+     "citation": "Julien Sanchez, a été condamné par la cour d'appel de Nîmes à 3000 euros d'amende pour avoir laissé deux internautes publier sur son mur Facebook des commentaires à connotation raciste en octobre 2011.",
+     "date": "2013-10-18"
+    },
+    {
+     "titre": "Affaire Sanchez contre France : la Grande chambre confirme que la condamnation de l'élu n'a pas enfreint la Convention (Dalloz Actu Étudiant)",
+     "url": "https://actu.dalloz-etudiant.fr/a-la-une/article/affaire-sanchez-contre-france-la-grande-chambre-confirme-que-la-condamnation-de-lelu-na-pas/h/c721b1e8833910cb398dd87a298f8bcc.html",
+     "citation": "Saisie par l’intéressé, la Cour de cassation estima que l’infraction était bien caractérisée et que sa sanction était permise au titre des limites légitimes pouvant être apportées à la liberté d’expression",
+     "date": "2023-06-22"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Pennelle Gilles",
+   "categorie": "eurodepute",
+   "roleActuel": "député européen, membre du bureau exécutif du RN",
+   "infraction": "affichage électoral illégal (code électoral)",
+   "faits": "Circulation en juin 2021, pendant la campagne des élections régionales en Bretagne, d'un fourgon sérigraphié à l'effigie du candidat tête de liste RN.",
+   "juridiction": "cour d'appel de Rennes (confirmation du jugement du tribunal de Lorient du 15 mars 2024)",
+   "dateDecision": "2026-03-18",
+   "peine": "300 euros d'amende",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Gilles Pennelle, l'eurodéputé RN breton, devra bien payer une amende pour « affichage électoral illégal » (France 3 Bretagne)",
+     "url": "https://france3-regions.franceinfo.fr/bretagne/morbihan/lorient/gilles-pennelle-l-eurodepute-rn-breton-devra-bien-payer-une-amende-pour-affichage-electoral-illegal-a-cause-son-fourgon-de-campagne-de-2021-3319416.html",
+     "citation": "La cour d'Appel de Rennes a confirmé un jugement de mars 2024 par lequel l'actuel eurodéputé RN Gilles Pennelle avait été condamné à 300 euros d'amendes pour affichage électoral illégal",
+     "date": "2026-03-18"
+    }
+   ],
+   "famille": "autres"
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 167,
+  "methode": "Personnes couvertes : la candidate, le parti (FN/RN, personne morale), les présidents successifs (Jean-Marie Le Pen, Marine Le Pen, Jordan Bardella), le bureau exécutif et les porte-parole, les 29 eurodéputés RN, les sénateurs RN (dont les élus du 27 septembre 2026) et les 121 députés du groupe RN (deputes_par_groupe_2026.json). Requêtes web_search : « <nom> condamné tribunal » pour la direction, les eurodéputés et les sénateurs ; « <nom> député condamné » pour chacun des 120 autres députés. Requêtes thématiques : affaire des assistants FN (appel, pourvoi, Cour de cassation), affaire des kits de campagne, Cimade, Jean-Marie Le Pen condamnations, synthèses presse (Le Monde 5 juillet 2024 « Ces candidats RN qui ont été condamnés… », franceinfo législatives 2022, données de l'application Les Jours « députés RN », HuffPost sénatoriales 2026). Sources primaires ouvertes : communiqué de la cour d'appel de Paris du 7 juillet 2026 (PDF), communiqué n°3 de la Cour de cassation du 16 octobre 2026. Chaque citation a été vérifiée mot à mot dans le texte récupéré.",
+  "limites": "Une recherche nominative par personne ne garantit pas l'exhaustivité : les petites condamnations locales anciennes sont souvent absentes du web. Le site Poligraph, qui recense les affaires, a renvoyé une erreur 429 ; La Voix du Nord, Légifrance et Ouest-France ont renvoyé une erreur 403. Les décisions de justice n'ont pas été consultées, à l'exception du communiqué de la cour d'appel de Paris et de celui de la Cour de cassation : peines et statuts proviennent de la presse. Statut au 18 octobre 2026 non confirmé pour les appels de Lorho et Jacobelli. Pour Jean-Marie Le Pen, seule une sélection de condamnations figure (synthèse franceinfo du 8 janvier 2025), avec des dates souvent limitées à l'année. Les condamnations antérieures aux lois d'amnistie (1988, 1995, 2002) n'ont pas été vérifiées sous l'angle de l'amnistie ou de la réhabilitation."
+ },
+ "alertes": [
+  "Affaire des assistants FN : arrêt de la cour d'appel de Paris du 7 juillet 2026. Les 12 condamnés et le Parlement européen se sont pourvus en cassation ; le parquet général ne s'est pas pourvu. Selon le communiqué n°3 de la Cour de cassation (16 octobre 2026), l'audience consacrée aux QPC est fixée au 16 décembre 2026. Si une QPC est renvoyée, le Conseil constitutionnel dispose de 3 mois pour statuer avant l'examen des moyens de cassation. Les condamnations en appel ne sont donc pas définitives.",
+  "Marine Le Pen : franceinfo indique que la peine d'inéligibilité (45 mois dont 30 avec sursis) « sera déjà purgée » au moment de la présidentielle 2027. La cour d'appel tient compte de l'exécution de cette peine depuis le 31 mars 2025. En première instance (31 mars 2025), elle avait été condamnée à 4 ans d'emprisonnement dont 2 avec sursis et à 5 ans d'inéligibilité avec exécution provisoire. Le jugement de première instance est remplacé par l'arrêt d'appel.",
+  "Affaire des assistants : Nicolas Bay (eurodéputé, ancien secrétaire général du FN), Bruno Gollnisch, Wallerand de Saint-Just (ancien trésorier), Fernand Le Rachinel, Nicolas Crochet et Guillaume L'Huillier ont été condamnés en appel. Ils ne figurent pas dans la liste car ils sont hors périmètre (ni dirigeants actuels ni parlementaires RN ; Nicolas Bay a quitté le RN en 2022, appartenance non revérifiée). Jean-Marie Le Pen a été dispensé de procès pour raisons de santé, puis l'action publique s'est éteinte à son décès le 7 janvier 2025 : aucune condamnation dans ce dossier.",
+  "Affaire des kits de campagne (RN personne morale), divergence entre sources sur la qualification : franceinfo du 15 mars 2023 rapporte que la cour d'appel a relaxé le RN du chef de recel d'abus de biens sociaux et confirmé sa culpabilité pour « le surplus des faits », alors que franceinfo/AFP du 19 juin 2024 écrit « jugé en appel pour recel d'abus de biens sociaux ». Le montant (250 000 euros) et le caractère définitif (rejet du pourvoi le 19 juin 2024) concordent. En première instance (2020), l'amende était de 18 750 euros.",
+  "Laurent Jacobelli : la partie civile (Belkhir Belhaddad) a annoncé faire appel. Nous n'avons pas pu vérifier si le parquet ou le prévenu ont aussi fait appel, ni si une décision d'appel a été rendue : statut « inconnu ».",
+  "Marie-France Lorho : appel formé en février 2026 ; aucune décision d'appel trouvée au 18 octobre 2026.",
+  "Frédéric Boccaletti : condamnation de 2000. L'intéressé invoque son « droit à la réhabilitation » ; une réhabilitation de plein droit est possible compte tenu de l'ancienneté, mais elle n'est pas confirmée par la source.",
+  "Thierry d'Aigremont : date et juridiction de la condamnation inconnues. La source (HuffPost) cite Le Monde de février 2023 ; l'article du Monde n'a pas été ouvert.",
+  "Yoann Gillet et Gilles Pennelle : condamnation confirmée en appel ; nous ne savons pas si un pourvoi a été formé (statut « inconnu »).",
+  "Christopher Szczurek (sénateur du Pas-de-Calais) : Wikipédia signale une condamnation en septembre 2021 par la cour d'appel de Douai (1 000 euros d'amende dont 500 avec sursis, refus d'insertion d'un droit de réponse). Elle n'est pas retenue car la source secondaire (La Voix du Nord) n'a pas pu être ouverte (erreur 403).",
+  "Bruno Bilde (député du Pas-de-Calais) : la presse (La Voix du Nord, 2018 et 2019) et Poligraph signalent une condamnation pour diffamation envers Florence Binaisse, confirmée en appel à Douai puis devenue définitive en 2019. Elle n'est pas retenue car aucune de ces sources n'a pu être ouverte (erreurs 403/429). À vérifier.",
+  "Julien Sanchez : la peine prononcée en appel (3 000 euros d'amende selon le HuffPost) diffère de celle du jugement de première instance (4 000 euros dont 1 000 avec sursis selon BFMTV et L'Obs du 28 février 2013). Le HuffPost indique que la cour « a confirmé les peines » : divergence non résolue.",
+  "Jean-Marie Le Pen : d'autres condamnations rapportées par franceinfo (1964 coups et blessures, 1968 apologie de crime de guerre, 1986, 1987, 1991 « Durafour-crématoire », 1992, 1997 « zébu », 1998 Trautmann) ne sont pas listées. Elles sont anciennes et peut-être amnistiées, et franceinfo cite souvent une source tierce (L'Express, Le Monde, Libération) non ouverte.",
+  "Jordan Bardella : aucune condamnation trouvée. Il a perdu en 2025 un procès en diffamation qu'il avait intenté contre Libération ; ce n'est pas une condamnation. Une plainte au PNF et la polémique sur des écrits attribués (Mediapart, septembre 2026) ne constituent pas des condamnations.",
+  "Marine Le Pen : la poursuite pour diffusion d'images violentes (tweets Daech) n'est pas listée ; une relaxe a été rapportée par la presse mais n'a pas été vérifiée dans une source ouverte.",
+  "Les statuts « definitive » attribués à Jean-Marie Le Pen reposent sur la mention par franceinfo d'une confirmation en cassation ou d'une requête rejetée par la CEDH.",
+  "Retiré de l'affichage (date de décision inconnue) : d'Aigremont Thierry — vols en réunion (qualification rapportée par la presse ; jugement non consulté)."
+ ]
+}

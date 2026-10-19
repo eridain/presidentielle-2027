@@ -1,0 +1,10 @@
+{
+  "partiId": "nous-france",
+  "condamnations": [],
+  "perimetre": {
+    "personnesVerifiees": 0,
+    "methode": "Lecture des pages Wikipédia « Nous France » (renvoyant à Xavier Bertrand) et « Xavier Bertrand », recherches « quitte Nous France », « Nous France Bertrand élu condamné ». Mouvement récent fondé par Xavier Bertrand, dont les cadres sont pour la plupart aussi membres de LR.",
+    "limites": "Aucun ancien dirigeant national ou ancien parlementaire de Nous France identifié comme ayant quitté le mouvement dans les sources consultées ; donc aucune condamnation d'ancien membre trouvée. Les anciens de LR/UMP sont traités dans le fichier des anciens LR."
+  },
+  "alertes": []
+}

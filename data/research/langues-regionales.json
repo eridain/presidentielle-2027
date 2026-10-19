@@ -1,0 +1,240 @@
+{
+  "id": "langues-regionales",
+  "titre": "Loi Molac sur les langues régionales (2021)",
+  "question": "Faut-il autoriser l'enseignement immersif en langue régionale dans les écoles publiques (loi Molac, 2021) ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi du député Paul Molac (Libertés et territoires) vise à protéger et promouvoir les langues régionales, classées en grand danger d'extinction par l'Unesco. Le Sénat y avait introduit l'enseignement immersif (enseignement dans la langue régionale pendant une grande partie du temps scolaire) et le financement obligatoire par la commune de résidence de la scolarité en école privée bilingue d'une autre commune (forfait scolaire). Le 8 avril 2021, en deuxième lecture, l'Assemblée a rejeté la suppression de l'article sur l'immersion demandée par le gouvernement (111 pour, 188 contre), puis adopté le texte par 247 voix contre 76 et 19 abstentions, contre l'avis du groupe La République en marche, divisé (100 pour, 57 contre). Saisi par 61 députés de la majorité, le Conseil constitutionnel a censuré le 21 mai 2021 l'enseignement immersif, jugé contraire à l'article 2 de la Constitution (« La langue de la République est le français »), ainsi que l'usage de signes diacritiques comme le tilde dans l'état civil.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi sur les langues régionales, loi Molac",
+      "url": "https://www.vie-publique.fr/loi/278001-loi-sur-les-langues-regionales-loi-molac"
+    },
+    {
+      "titre": "LCP – Langues régionales : le Conseil constitutionnel censure partiellement la proposition de loi",
+      "url": "https://lcp.fr/actualites/langues-regionales-le-conseil-constitutionnel-censure-partiellement-la-proposition-de"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2021-818 DC du 21 mai 2021",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2021/2021818DC.htm"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la première séance du 8 avril 2021 (articles)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N235"
+    },
+    {
+      "titre": "Assemblée nationale – Scrutin n°3567 (suppression de l'article sur l'immersion)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3567"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la deuxième séance du 8 avril 2021 (explications de vote)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N236"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3569",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/protection_patrimoniale_langues_regionales",
+  "argumentsPour": [
+    {
+      "auteur": "Paul Molac (Libertés et territoires, rapporteur)",
+      "resume": "Les langues régionales sont un trésor national en danger ; l'immersion est facultative, choisie par les parents, et ne nuit pas au niveau de français.",
+      "citation": "Nous parlons d'un enseignement facultatif qui reste à la main des parents et des enseignants.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N235",
+      "date": "2021-04-08"
+    },
+    {
+      "auteur": "Yannick Kerlogot (La République en marche)",
+      "resume": "Il faut sortir l'immersion du régime expérimental et l'inscrire comme troisième méthode pédagogique ; les résultats scolaires des élèves concernés sont probants.",
+      "citation": "Les résultats au baccalauréat dans les établissements enseignant les langues régionales sont probants, et même excellents.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N235",
+      "date": "2021-04-08"
+    },
+    {
+      "auteur": "Marc Le Fur (Les Républicains)",
+      "resume": "Le texte fait entrer les langues régionales dans les horaires normaux, valide l'immersion et garantit un financement quel que soit le choix d'école des parents.",
+      "citation": "Les langues régionales ne sont pas un problème ; elles sont une chance !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N236",
+      "date": "2021-04-08"
+    },
+    {
+      "auteur": "Claudia Rouaux (Socialistes)",
+      "resume": "Le texte répare l'histoire de la répression scolaire des langues régionales ; les socialistes votent la version conforme à celle du Sénat.",
+      "citation": "nous réparons l'humiliation de nombreux enfants sur les bancs de l'école, et la honte de leurs parents de parler une langue régionale",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N236",
+      "date": "2021-04-08"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Michel Blanquer (ministre de l'Éducation nationale, gouvernement)",
+      "resume": "Le gouvernement soutient la promotion des langues régionales mais juge que l'immersion va trop loin et risque de priver des enfants d'un enseignement suffisant du français.",
+      "citation": "Nous pouvons promouvoir les langues régionales sans approuver l'immersion que l'article 2 tertend à autoriser.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N235",
+      "date": "2021-04-08"
+    },
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "Sous couvert de langues régionales, le texte transfère de l'argent public vers les écoles privées et aggrave la ségrégation scolaire au détriment de l'école publique.",
+      "citation": "Nous défendons les langues régionales, mais en aucun cas l'immersion.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N235",
+      "date": "2021-04-08"
+    },
+    {
+      "auteur": "Stéphanie Atger (La République en marche)",
+      "resume": "Les articles ajoutés par le Sénat sur l'immersion et le forfait scolaire remettent en cause le principe du financement de l'école privée ; le groupe appelle à voter contre.",
+      "citation": "C'est donc avec regret que le groupe La République en marche appellera à voter contre la proposition de loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N236",
+      "date": "2021-04-08"
+    },
+    {
+      "auteur": "Christophe Euzet (Agir ensemble, favorable avec réserves)",
+      "resume": "Un enseignement immersif sans limite et un financement obligatoire des communes risquent d'être censurés au regard des articles 2 et 72 de la Constitution.",
+      "citation": "Je ne suis pas certain non plus que de telles dispositions soient conformes à l'article 2 de la Constitution, selon lequel la langue de la République est le français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N236",
+      "date": "2021-04-08"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Hubert Wulfranc (Gauche démocrate et républicaine)",
+      "resume": "Le texte frôle la ligne jaune sur l'équilibre avec le français et le financement obligatoire par les communes ; liberté de vote dans le groupe, abstention à titre personnel.",
+      "citation": "En effet, ce dernier frôle la ligne jaune à deux reprises",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N236",
+      "date": "2021-04-08"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre l'ensemble (scrutin n°3569 du 8 avril 2021) ; a aussi voté pour la suppression de l'article sur l'immersion (scrutin n°3567) et contre le rétablissement du forfait scolaire (n°3568).",
+      "argument": "Se dit partisan du multilinguisme, mais au nom de l'unité nationale et du service public de l'éducation ; ironise sur la « ferveur multiculturaliste » de la droite et demande la même considération pour l'arabe ou l'amazigh.",
+      "citation": "il va de soi que cette prise de conscience passe par l'accomplissement des principes auxquels nous croyons, celui de l'unité nationale, que personne ne remet ici en cause, celui du service public de l'éducation",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N236",
+      "date": "2021-04-08"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absent du scrutin n°3569 ; aucune déclaration retrouvée. Pas de proxy fiable : liberté de vote dans le groupe GDR (6 pour / 1 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3569",
+      "date": "2021-04-08"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absent du scrutin final ; est intervenu le matin en séance pour défendre la « biodiversité linguistique » (picard), sans se prononcer clairement sur l'immersion. Son groupe FI a voté contre (1 pour / 12 contre).",
+      "argument": "La principale menace pour le français vient de l'anglais, pas des langues régionales ; il faut préserver la diversité linguistique, notamment le picard.",
+      "citation": "Selon moi, la principale menace pour la langue française vient très clairement de l'anglais et non du picard, du corse ou du breton.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N235",
+      "date": "2021-04-08"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée à cette date : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3569",
+      "date": "2021-04-08"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absente du scrutin n°3569 (non-inscrite) ; aucune déclaration retrouvée, pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3569",
+      "date": "2021-04-08"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (21 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3569",
+      "date": "2021-04-08"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui s'opposait à l'enseignement immersif (amendement de suppression n°305 du gouvernement, rejeté) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3567",
+      "date": "2021-04-08"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "N'était plus Premier ministre (maire du Havre) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3569",
+      "date": "2021-04-08"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat ; a voté pour les amendements créant le financement obligatoire des écoles en langue régionale par les communes (scrutin n°47 du 10 décembre 2020, adopté 253-59) ; le texte n'a pas fait l'objet d'un scrutin public sur l'ensemble au Sénat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-47.html",
+      "date": "2020-12-10"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY indicatif : le groupe LR de l'Assemblée a voté pour (54 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3569",
+      "date": "2021-04-08"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (54 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3569",
+      "date": "2021-04-08"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absente du scrutin n°3569 (non-inscrite) ; aucune déclaration vérifiée retrouvée sur la loi Molac.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3569",
+      "date": "2021-04-08"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2021 ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3569",
+      "date": "2021-04-08"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absent du scrutin n°3569 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3569",
+      "date": "2021-04-08"
+    }
+  },
+  "alertes": [
+    "La question porte sur l'immersion, mais le scrutin n°3569 porte sur l'ensemble de la loi (immersion, forfait scolaire, patrimoine, signalétique…). Le vote le plus ciblé est le scrutin n°3567 (suppression de l'article immersion, rejetée 111-188), où Mélenchon a voté pour la suppression.",
+    "L'immersion a été censurée par le Conseil constitutionnel (décision 2021-818 DC) : la loi promulguée le 21 mai 2021 ne la contient pas.",
+    "Clivage atypique : la majorité LaREM et le MoDem étaient divisés ; le gouvernement s'opposait à l'immersion tout en se disant favorable à une « loi Molac » ; la gauche aussi était partagée (FI contre, PS pour, GDR en liberté de vote).",
+    "Attal : position du gouvernement (amendement de suppression), pas de déclaration personnelle.",
+    "Retailleau : vote au Sénat sur l'amendement du forfait scolaire, pas sur l'immersion ni sur l'ensemble.",
+    "Cinq candidats éligibles au vote AN étaient absents du scrutin final (Roussel, Ruffin, Batho, Le Pen, Dupont-Aignan) ; aucune déclaration vérifiable retrouvée pour la plupart."
+  ]
+}

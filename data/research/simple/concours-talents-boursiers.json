@@ -1,0 +1,22 @@
+{
+  "id": "concours-talents-boursiers",
+  "questionSimple": "Faut-il prolonger les places réservées aux étudiants boursiers dans les grandes écoles qui forment les hauts fonctionnaires ?",
+  "enBref": "Depuis 2021, une part des places dans cinq grandes écoles de l'État, comme l'INSP qui a remplacé l'ENA, est réservée à des étudiants boursiers. Ils suivent une préparation spéciale puis passent les mêmes épreuves que les autres. Le texte prolonge ce test jusqu'en 2028.",
+  "pourquoiPour": "Pour ses défenseurs, les hauts fonctionnaires viennent presque tous de milieux favorisés. Ce dispositif ouvre ces écoles à des jeunes modestes, sans baisser le niveau.",
+  "pourquoiContre": "Pour ses opposants, réserver des places selon des critères sociaux est une discrimination positive contraire au mérite. Ils jugent aussi que les résultats ne sont pas prouvés.",
+  "ceQuiSestPasse": "Adoptée le 18 février 2025 puis par le Sénat, la loi a été promulguée le 24 mars 2025.",
+  "lexique": [
+    {
+      "terme": "Boursier",
+      "definition": "Étudiant qui reçoit une aide de l'État en raison des faibles revenus de sa famille."
+    },
+    {
+      "terme": "INSP",
+      "definition": "Institut national du service public, école héritière de l'ENA qui forme les hauts fonctionnaires."
+    },
+    {
+      "terme": "Discrimination positive",
+      "definition": "Avantage accordé à un groupe défavorisé pour compenser des inégalités."
+    }
+  ]
+}

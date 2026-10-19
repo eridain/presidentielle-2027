@@ -1,0 +1,213 @@
+{
+  "id": "loi-schiappa",
+  "titre": "Loi Schiappa contre les violences sexuelles (2018)",
+  "question": "Faut-il créer une infraction d'outrage sexiste et porter à 30 ans la prescription des crimes sexuels sur mineurs (loi Schiappa, 2018) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi de Marlène Schiappa porte de 20 à 30 ans après la majorité de la victime la prescription des crimes sexuels commis sur des mineurs (article 1er), précise la notion de contrainte morale ou de surprise pour les victimes de moins de 15 ans et alourdit les peines d'atteinte sexuelle (article 2), réprime le cyberharcèlement en meute (article 3) et crée une contravention d'outrage sexiste pour sanctionner le harcèlement de rue (article 4). L'Assemblée l'a adopté en première lecture le 16 mai 2018 (115 pour, 29 contre, 25 abst.) : la gauche a voté contre et LR s'est abstenu, en raison surtout de l'article 2, jugé insuffisant faute d'âge minimal de consentement et accusé de risquer la correctionnalisation des viols. La loi n° 2018-703 a été promulguée le 3 août 2018.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – loi Schiappa du 3 août 2018",
+      "url": "https://www.vie-publique.fr/loi/20794-loi-schiappa-3-aout-2018-lutte-contre-atteintes-sexuelles-et-sexistes"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_violences_sexuelles_sexistes"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 16 mai 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mercredi-16-mai-2018"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_violences_sexuelles_sexistes",
+  "argumentsPour": [
+    {
+      "auteur": "Dimitri Houbron (LaREM)",
+      "resume": "L'article 2 facilite la qualification de viol sur les mineurs de moins de 15 ans ; ne pas voter le texte serait renoncer à une meilleure protection.",
+      "citation": "Avec l’article 2, nous facilitons la qualification de viol sur les mineurs de moins de 15 ans et, ainsi, le fait de criminaliser ces faits.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mercredi-16-mai-2018",
+      "date": "2018-05-16"
+    },
+    {
+      "auteur": "Dimitri Houbron (LaREM)",
+      "resume": "Refuser le texte reviendrait à refuser une avancée pour les enfants et les femmes victimes.",
+      "citation": "Ne pas voter ce projet de loi serait renoncer à une meilleure protection des enfants mineurs et des femmes victimes de violences.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mercredi-16-mai-2018",
+      "date": "2018-05-16"
+    },
+    {
+      "auteur": "Isabelle Florennes (MoDem)",
+      "resume": "Le texte élargit la définition juridique du viol à des situations jusqu'ici mal prises en compte.",
+      "citation": "Enfin, avancée en matière de définition de la notion juridique de viol, avec la modification significative de l’article 222-23 du code pénal, ouvrant la définition initiale à un ensemble de situations difficilement considérées jusqu’ici.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mercredi-16-mai-2018",
+      "date": "2018-05-16"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Luc Mélenchon (La France insoumise)",
+      "resume": "Favorable aux articles 1er et 3, il refuse le texte à cause de l'article 2, qui risquerait de transformer des viols en délits.",
+      "citation": "Au demeurant, les articles 1 er et 3 nous convenaient : l’article 1 er , parce qu’il représente un véritable progrès ; l’article 3, parce qu’il innove utilement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mercredi-16-mai-2018",
+      "date": "2018-05-16"
+    },
+    {
+      "auteur": "Marietta Karamanli (Nouvelle Gauche)",
+      "resume": "Il fallait criminaliser toute relation sexuelle d'un adulte avec un enfant, sans s'interroger sur le consentement de la victime.",
+      "citation": "La solution consistait à ne plus s’interroger sur le consentement de la victime, mais à s’attacher au fait qu’un adulte avait eu en connaissance de cause des relations sexuelles avec un enfant",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mercredi-16-mai-2018",
+      "date": "2018-05-16"
+    },
+    {
+      "auteur": "Huguette Bello (GDR)",
+      "resume": "Faute d'un interdit clairement posé, l'article 2 ne lève pas les ambiguïtés, malgré les avancées sur la prescription et l'outrage sexiste.",
+      "citation": "Mais, faute d’un interdit clairement posé, ces dispositions ne parviennent pas à lever les ambiguïtés et les risques qui sont soulignés et déplorés, à l’intérieur comme à l’extérieur de cet hémicycle.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mercredi-16-mai-2018",
+      "date": "2018-05-16"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Stéphane Viry (Les Républicains)",
+      "resume": "LR, d'abord favorable, s'abstient : l'outrage sexiste relevait du règlement et les réponses sur l'article 2 étaient insuffisantes.",
+      "citation": "Madame la secrétaire d’État, la teneur des débats, le bloc de refus, l’absence d’étaiement des réponses, notamment sur l’article 2, vous a cependant conduite à perdre notre vote.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mercredi-16-mai-2018",
+      "date": "2018-05-16"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°871 du 16 mai 2018) ; il a donné l'explication de vote de son groupe.",
+      "argument": "Il approuve l'allongement de la prescription mais rejette l'article 2, qui risque de faire d'un crime un délit, et regrette une loi trop centrée sur la répression.",
+      "citation": "Voilà pourquoi, avec tristesse, nous ne voterons pas ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mercredi-16-mai-2018",
+      "date": "2018-05-16"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°619) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR a voté : contre (0p/4c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+      "date": "2018-05-16"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°619) ; aucune déclaration retrouvée. À titre indicatif, son groupe FI a voté : contre (0p/14c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+      "date": "2018-05-16"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ni de responsabilité nationale à EELV en 2018 ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+      "date": "2018-05-16"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°871) ; aucune déclaration retrouvée. Les non-inscrits votants se sont partagés (1 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+      "date": "2018-05-16"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat en 2018 ; aucune déclaration retrouvée. PROXY : le groupe Nouvelle Gauche (socialistes) a voté contre (0 pour / 10 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+      "date": "2018-05-16"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°871) ; aucune déclaration retrouvée. À titre indicatif, son groupe LaREM a voté : pour (101 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+      "date": "2018-05-16"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a déposé le projet de loi (Marlène Schiappa et Nicole Belloubet au banc) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_violences_sexuelles_sexistes",
+      "date": "2018-05-16"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour l'ensemble du projet de loi au Sénat en première lecture (scrutin public n°202 du 5 juillet 2018).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-202.html",
+      "date": "2018-07-05"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe LR de l'Assemblée s'est abstenu (19 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+      "date": "2018-05-16"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) s'est abstenu (19 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+      "date": "2018-05-16"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°871) ; aucune déclaration retrouvée. Les non-inscrits votants se sont partagés (1 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+      "date": "2018-05-16"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2018 ; aucune déclaration vérifiable retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+      "date": "2018-05-16"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non-inscrit, n'a pas pris part au vote (scrutin n°871) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/619",
+      "date": "2018-05-16"
+    }
+  },
+  "alertes": [
+    "La question cite les deux mesures les plus consensuelles (outrage sexiste, prescription de 30 ans) ; les votes contre de la gauche et l'abstention de LR visent surtout l'article 2 (mineurs de moins de 15 ans), comme l'ont expliqué Mélenchon, Karamanli et Bello. Un vote « contre » ne signifie donc pas une opposition à ces deux mesures.",
+    "Vote en première lecture ; la loi définitive a été adoptée après commission mixte paritaire (juillet 2018).",
+    "Retailleau : vote au Sénat en première lecture (version Sénat).",
+    "Philippe : position déduite de son rôle de Premier ministre.",
+    "Attal, Le Pen, Batho, Dupont-Aignan, Roussel, Ruffin : n'ont pas pris part au vote."
+  ]
+}

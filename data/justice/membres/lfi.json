@@ -1,0 +1,303 @@
+{
+  "partiId": "lfi",
+  "personnes": [
+    {
+      "personne": "Jean-Luc Mélenchon",
+      "statutMembre": "membre",
+      "depuis": "2016",
+      "detail": "Fondateur de La France insoumise, dont le site officiel appelle en octobre 2026 à soutenir sa candidature à l'élection présidentielle de 2027.",
+      "lienAvecCondamnation": null,
+      "reactionParti": "Le mouvement a pris en charge les dommages et intérêts des dirigeants condamnés dans l'affaire de la perquisition, selon Jean-Luc Mélenchon (La Dépêche, 10/03/2021).",
+      "sources": [
+        {
+          "titre": "Accueil - La France insoumise (site officiel, consulté le 18/10/2026)",
+          "url": "https://lafranceinsoumise.fr/",
+          "citation": "Soutenez la candidature de Jean-Luc Mélenchon pour l'élection présidentielle de 2027!",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Perquisition à LFI : l'enquête sur le paiement des dommages et intérêts par Mélenchon et plusieurs dirigeants classée (La Dépêche)",
+          "url": "https://www.ladepeche.fr/2021/03/10/perquisition-a-lfi-lenquete-sur-le-paiement-des-dommages-et-interets-par-melenchon-et-plusieurs-dirigeants-classee-9419451.php",
+          "citation": "\"ces dommages et intérêts avait été pris en charge par le mouvement insoumis\"",
+          "date": "2021-03-10"
+        }
+      ]
+    },
+    {
+      "personne": "Manuel Bompard",
+      "statutMembre": "membre",
+      "depuis": "2016",
+      "detail": "Coordinateur national de La France insoumise depuis décembre 2022 et député des Bouches-du-Rhône rattaché financièrement à LFI.",
+      "lienAvecCondamnation": null,
+      "reactionParti": "Le mouvement a pris en charge les dommages et intérêts des dirigeants condamnés dans l'affaire de la perquisition, selon Jean-Luc Mélenchon (La Dépêche, 10/03/2021).",
+      "sources": [
+        {
+          "titre": "Fiche député de Manuel Bompard (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA793444",
+          "citation": "Rattachement au titre du financement de la vie politique La France Insoumise",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Manuel Bompard — Wikipédia (consulté le 18/10/2026)",
+          "url": "https://fr.wikipedia.org/wiki/Manuel_Bompard",
+          "citation": "Il est coordinateur du parti de 2017 à 2019 et à nouveau depuis le 10 décembre 2022.",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Perquisition à LFI : l'enquête sur le paiement des dommages et intérêts par Mélenchon et plusieurs dirigeants classée (La Dépêche)",
+          "url": "https://www.ladepeche.fr/2021/03/10/perquisition-a-lfi-lenquete-sur-le-paiement-des-dommages-et-interets-par-melenchon-et-plusieurs-dirigeants-classee-9419451.php",
+          "citation": "\"ces dommages et intérêts avait été pris en charge par le mouvement insoumis\"",
+          "date": "2021-03-10"
+        }
+      ]
+    },
+    {
+      "personne": "Bastien Lachaud",
+      "statutMembre": "membre",
+      "depuis": "2016",
+      "detail": "Député de la Seine-Saint-Denis, membre du groupe LFI-NFP et rattaché financièrement à La France insoumise.",
+      "lienAvecCondamnation": null,
+      "reactionParti": "Le mouvement a pris en charge les dommages et intérêts des dirigeants condamnés dans l'affaire de la perquisition, selon Jean-Luc Mélenchon (La Dépêche, 10/03/2021).",
+      "sources": [
+        {
+          "titre": "Fiche député de Bastien Lachaud (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720846",
+          "citation": "Rattachement au titre du financement de la vie politique La France Insoumise",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Fiche député de Bastien Lachaud (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720846",
+          "citation": "M. Bastien Lachaud La France insoumise - Nouveau Front Populaire Seine-Saint-Denis (6e circonscription) | Mandat en cours",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Perquisition à LFI : l'enquête sur le paiement des dommages et intérêts par Mélenchon et plusieurs dirigeants classée (La Dépêche)",
+          "url": "https://www.ladepeche.fr/2021/03/10/perquisition-a-lfi-lenquete-sur-le-paiement-des-dommages-et-interets-par-melenchon-et-plusieurs-dirigeants-classee-9419451.php",
+          "citation": "\"ces dommages et intérêts avait été pris en charge par le mouvement insoumis\"",
+          "date": "2021-03-10"
+        }
+      ]
+    },
+    {
+      "personne": "Adrien Quatennens",
+      "statutMembre": "retire",
+      "depuis": "2024-06-16",
+      "detail": "Après sa condamnation, suspendu quatre mois du groupe LFI (déc. 2022–avril 2023) puis réintégré ; il renonce le 16 juin 2024 à sa candidature investie par LFI face à la fronde de ses partenaires, puis retourne chez EDF en 2025, « en retrait de la vie politique », sans départ formel de LFI connu.",
+      "lienAvecCondamnation": "oui",
+      "reactionParti": "LFI l'a suspendu quatre mois de son groupe parlementaire avant de voter sa réintégration le 11 avril 2023, puis l'a réinvesti aux législatives de 2024 ; le Parti de gauche (composante de LFI) l'a exclu le 24 janvier 2023.",
+      "sources": [
+        {
+          "titre": "Quatre mois après sa condamnation pour violences conjugales, Adrien Quatennens réintégré par LFI (BFMTV)",
+          "url": "https://www.bfmtv.com/politique/la-france-insoumise/quatre-mois-apres-sa-condamnation-pour-violences-conjugales-adrien-quatennens-reintegre-par-lfi_AN-202304110377.html",
+          "citation": "Les députés La France insoumise ont dit oui ce mardi matin à la réintégration d'Adrien Quatennens, suspendu depuis 4 mois de son groupe.",
+          "date": "2023-04-11"
+        },
+        {
+          "titre": "En retrait de la vie politique, Adrien Quatennens rebondit chez EDF comme attaché commercial (Le JDD)",
+          "url": "https://www.lejdd.fr/politique/en-retrait-de-la-vie-politique-adrien-quatennens-rebondit-chez-edf-comme-attache-commercial-153937",
+          "citation": "L'ancien député La France insoumise (LFI) avait été réinvesti par son parti lors des dernières législatives en dépit de sa condamnation pour violences conjugales.",
+          "date": "2025-01-16"
+        },
+        {
+          "titre": "Après avoir quitté la vie politique, l'ancien député LFI Adrien Quatennens retourne chez EDF (La Dépêche)",
+          "url": "https://www.ladepeche.fr/2025/01/21/apres-avoir-quitte-la-vie-politique-lancien-depute-lfi-adrien-quatennens-retourne-chez-edf-12460533.php",
+          "citation": "L'ancien député insoumis du Nord, condamné pour violences conjugales, avait retiré sa candidature lors des législatives de juin dernier.",
+          "date": "2025-01-21"
+        },
+        {
+          "titre": "Adrien Quatennens — Wikipédia (consulté le 18/10/2026)",
+          "url": "https://fr.wikipedia.org/wiki/Adrien_Quatennens",
+          "citation": "Le Parti de gauche l'exclut le 24 janvier 2023, en raison de sa condamnation judiciaire",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Aurélien Taché",
+      "statutMembre": "membre",
+      "depuis": "2024",
+      "detail": "Condamné en 2022 alors qu'il était député écologiste ; exclu d'EELV en mars 2024 pour son soutien à LFI, il est élu en 2024 comme candidat LFI-NFP et siège au groupe LFI-NFP, rattaché financièrement à LFI.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Fiche député de Aurélien Taché (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720952",
+          "citation": "Rattachement au titre du financement de la vie politique La France Insoumise",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Fiche député de Aurélien Taché (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA720952",
+          "citation": "M. Aurélien Taché La France insoumise - Nouveau Front Populaire Val-d'Oise (10e circonscription) | Mandat en cours",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Aurélien Taché — Wikipédia (consulté le 18/10/2026)",
+          "url": "https://fr.wikipedia.org/wiki/Aur%C3%A9lien_Tach%C3%A9",
+          "citation": "Il est ensuite exclu de EELV en mars 2024 après avoir officialisé son soutien à LFI aux européennes.",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Raphaël Arnault",
+      "statutMembre": "membre",
+      "depuis": "2024",
+      "detail": "Député de Vaucluse siégeant au groupe LFI-NFP et rattaché financièrement à LFI ; LFI l'a maintenu et défendu malgré les appels à l'exclure après la mort de Quentin Deranque (février 2026).",
+      "lienAvecCondamnation": null,
+      "reactionParti": "Le coordinateur Manuel Bompard a défendu publiquement sa condamnation le 17 février 2026, affirmant qu'il « s'est interposé » et qu'« il n'y a eu aucun coup qui a été porté ».",
+      "sources": [
+        {
+          "titre": "Fiche député de Raphaël Arnault (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA842105",
+          "citation": "Rattachement au titre du financement de la vie politique La France Insoumise",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Fiche député de Raphaël Arnault (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA842105",
+          "citation": "M. Raphaël Arnault La France insoumise - Nouveau Front Populaire Vaucluse (1re circonscription) | Mandat en cours",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Vrai ou faux. Le député LFI Raphaël Arnault a-t-il été condamné pour avoir protégé une manifestation ? (franceinfo)",
+          "url": "https://radiofrance.fr/franceinfo/podcasts/le-vrai-ou-faux/le-vrai-ou-faux-du-mercredi-25-fevrier-2026-5120636",
+          "citation": "Le coordinateur de la France insoumise Manuel Bompard a tenu à rappeler le contexte de cette condamnation, mardi 17 février sur France Inter.",
+          "date": "2026-02-25"
+        },
+        {
+          "titre": "Raphaël Arnault — Wikipédia (consulté le 18/10/2026)",
+          "url": "https://fr.wikipedia.org/wiki/Rapha%C3%ABl_Arnault",
+          "citation": "Plusieurs personnalités politiques appellent à exclure Raphaël Arnault de son groupe parlementaire. La France insoumise soutient son député",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Jean-Hugues Ratenon",
+      "statutMembre": "membre",
+      "depuis": "2017",
+      "detail": "Député de La Réunion siégeant au groupe LFI-NFP, élu sous l'étiquette LFI depuis 2017 ; il est toutefois rattaché financièrement à son parti local Rézistans Égalité 974, qu'il a fondé.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Fiche député de Jean-Hugues Ratenon (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA721062",
+          "citation": "M. Jean-Hugues Ratenon La France insoumise - Nouveau Front Populaire Réunion (5e circonscription) | Mandat en cours",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Fiche député de Jean-Hugues Ratenon (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA721062",
+          "citation": "Rattachement au titre du financement de la vie politique Rézistan's Égalité 974",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Sébastien Delogu",
+      "statutMembre": "membre",
+      "depuis": "2017",
+      "detail": "Député des Bouches-du-Rhône siégeant au groupe LFI-NFP, rattaché financièrement à LFI, dont il a été le candidat à la mairie de Marseille en 2026.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Fiche député de Sébastien Delogu (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA793464",
+          "citation": "Rattachement au titre du financement de la vie politique La France Insoumise",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Fiche député de Sébastien Delogu (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA793464",
+          "citation": "M. Sébastien Delogu La France insoumise - Nouveau Front Populaire Bouches-du-Rhône (7e circonscription) | Mandat en cours",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Andrée Taurinya",
+      "statutMembre": "membre",
+      "depuis": "2016",
+      "detail": "Députée de la Loire siégeant au groupe LFI-NFP et rattachée financièrement à La France insoumise.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Fiche député de Andrée Taurinya (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA794106",
+          "citation": "Rattachement au titre du financement de la vie politique La France Insoumise",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Fiche député de Andrée Taurinya (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA794106",
+          "citation": "Mme Andrée Taurinya La France insoumise - Nouveau Front Populaire Loire (2e circonscription) | Mandat en cours",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Sophia Chikirou",
+      "statutMembre": "membre",
+      "depuis": "2016",
+      "detail": "Députée de Paris siégeant au groupe LFI-NFP, rattachée financièrement à LFI, candidate malheureuse de LFI à la mairie de Paris en 2026 ; elle a fait appel de sa condamnation.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Fiche député de Sophia Chikirou (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA791812",
+          "citation": "Rattachement au titre du financement de la vie politique La France Insoumise",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Fiche député de Sophia Chikirou (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA791812",
+          "citation": "Mme Sophia Chikirou La France insoumise - Nouveau Front Populaire Paris (6e circonscription) | Mandat en cours",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "La députée LFI Sophia Chikirou condamnée pour un vol de chèques à 8 000 euros d'amende... (franceinfo)",
+          "url": "https://www.franceinfo.fr/politique/la-france-insoumise/la-deputee-lfi-sophia-chikirou-condamnee-pour-un-vol-de-cheques-a-8-000-euros-d-amende-dont-la-moitie-avec-sursis-mais-relaxee-pour-escroquerie_8050412.html",
+          "citation": "Elle a annoncé sur X faire appel.",
+          "date": "2026-06-08"
+        }
+      ]
+    },
+    {
+      "personne": "Aly Diouara",
+      "statutMembre": "membre",
+      "depuis": "2024",
+      "detail": "Député de la Seine-Saint-Denis siégeant au groupe LFI-NFP, rattaché financièrement à LFI, élu maire de La Courneuve sous l'étiquette LFI en mars 2026.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Fiche député de Aly Diouara (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA842155",
+          "citation": "Rattachement au titre du financement de la vie politique La France Insoumise",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Fiche député de Aly Diouara (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA842155",
+          "citation": "M. Aly Diouara La France insoumise - Nouveau Front Populaire Seine-Saint-Denis (5e circonscription) | Mandat en cours",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  ],
+  "alertes": [
+    "Adrien Quatennens : aucune source ne fait état d'un départ formel de LFI ni d'une exclusion de LFI (seul le Parti de gauche, composante historique, l'a exclu le 24/01/2023 en raison de sa condamnation) ; Wikipédia indique toujours « LFI (depuis 2016) ». Statut « retire » retenu car il a renoncé à sa candidature en juin 2024 et la presse le décrit « en retrait de la vie politique » depuis son retour chez EDF (2025). Lien avec la condamnation : le renoncement de 2024 fait suite à la contestation de sa candidature par les partenaires du NFP en raison de sa condamnation (JDD).",
+    "Jean-Hugues Ratenon : siège au groupe LFI-NFP et élu sous l'étiquette LFI depuis 2017, mais son rattachement financier à l'Assemblée est « Rézistan's Égalité 974 », son parti local. Qualifié « membre » (Wikipédia : LFI depuis 2017) ; la distinction membre/apparenté du groupe n'a pas pu être vérifiée (page de composition du groupe chargée dynamiquement).",
+    "Aurélien Taché : condamnation de 2022 antérieure à son arrivée à LFI (2024), lorsqu'il était député écologiste ; aucune réaction de LFI à cette condamnation trouvée.",
+    "Raphaël Arnault : maintenu au groupe LFI-NFP malgré l'affaire Quentin Deranque (février 2026, collaborateurs impliqués) ; aucune sanction du mouvement trouvée.",
+    "Pour les députés LFI, l'appartenance repose sur la fiche Assemblée nationale consultée le 18/10/2026 (groupe et rattachement financier) ; LFI n'ayant pas d'adhésion formelle à cotisation, « membre » signifie élu/rattaché sous l'étiquette LFI.",
+    "Réactions du parti non trouvées pour Delogu, Taurinya, Chikirou, Diouara et Ratenon (reactionParti = null), ce qui n'établit pas une absence de réaction."
+  ]
+}

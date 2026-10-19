@@ -1,0 +1,73 @@
+{
+  "partiId": "horizons",
+  "condamnations": [
+    {
+      "personne": "Guerriau Joël",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien sénateur de la Loire-Atlantique (2011-2025), démissionnaire en octobre 2025",
+      "infraction": "administration d'une substance nuisible en vue de commettre un viol ou une agression sexuelle",
+      "faits": "A drogué à la MDMA la députée Sandrine Josso lors d'un dîner en tête-à-tête, le 14 novembre 2023.",
+      "juridiction": "tribunal correctionnel de Paris",
+      "dateDecision": "2026-01-27",
+      "peine": "4 ans d'emprisonnement dont 18 mois ferme (mandat de dépôt différé, sans exécution provisoire), 5 ans d'inéligibilité, 5 000 euros de dommages et intérêts, obligation de soins",
+      "statut": "appel_en_cours",
+      "nature": "penale",
+      "famille": "violences",
+      "lieeMandatPolitique": false,
+      "sources": [
+        {
+          "titre": "Joël Guerriau condamné à quatre ans de prison, dont dix-huit mois ferme, pour avoir drogué la députée Sandrine Josso (Le Monde)",
+          "url": "https://www.lemonde.fr/societe/article/2026/01/27/joel-guerriau-condamne-a-quatre-ans-de-prison-dont-dix-huit-mois-ferme-pour-avoir-drogue-la-deputee-sandrine-josso-afin-de-la-violer_6664322_3225.html",
+          "citation": "L’ancien sénateur Joël Guerriau a été condamné, mardi 27 janvier, à une peine de quatre ans de prison, dont dix-huit mois ferme, avec mandat de dépôt différé, pour avoir lourdement drogué, en 2023, la députée Sandrine Josso.",
+          "date": "2026-01-27"
+        },
+        {
+          "titre": "Joël Guerriau condamné… (Le Monde)",
+          "url": "https://www.lemonde.fr/societe/article/2026/01/27/joel-guerriau-condamne-a-quatre-ans-de-prison-dont-dix-huit-mois-ferme-pour-avoir-drogue-la-deputee-sandrine-josso-afin-de-la-violer_6664322_3225.html",
+          "citation": "Le tribunal a retenu le fait que l’administration de drogue à l’élue a été effectuée par M. Guerriau en vue de commettre un viol ou une agression sexuelle.",
+          "date": "2026-01-27"
+        },
+        {
+          "titre": "Soumission chimique : l’ancien sénateur, Joël Guerriau condamné à 4 ans de prison, va faire appel (Public Sénat)",
+          "url": "https://www.publicsenat.fr/actualites/politique/soumission-chimique-lancien-senateur-joel-guerriau-condamne-a-4-ans-de-prison-va-faire-appel",
+          "citation": "L’ancien représentant de Loire-Atlantique au Sénat, dont il a démissionné en octobre 2025, écope également de cinq ans d’inéligibilité.",
+          "date": "2026-01-28"
+        },
+        {
+          "titre": "Soumission chimique. Joël Guerriau fait appel de sa condamnation à 18 mois de prison ferme (France 3 Pays de la Loire)",
+          "url": "https://france3-regions.franceinfo.fr/pays-de-la-loire/loire-atlantique/nantes/soumission-chimique-joel-guerriau-fait-appel-de-sa-condamnation-a-18-mois-de-prison-ferme-3292821.html",
+          "citation": "Le vendredi 30 janvier dernier, l'ancien sénateur de Loire-Atlantique, Joël Guerriau, a décidé de faire appel de sa condamnation à 18 mois de prison ferme."
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "suspendu",
+        "depuis": "2023-11-18",
+        "detail": "Sénateur adhérent d'Horizons depuis 2022, il a été suspendu « immédiatement » par le bureau du parti le 18 novembre 2023, qui a ouvert une procédure disciplinaire pouvant mener à l'exclusion ; Wikipédia le donne membre jusqu'en 2023.",
+        "lienAvecCondamnation": "oui",
+        "reactionParti": "Le bureau d'Horizons s'est dit « profondément choqué » par les faits et l'a suspendu à l'unanimité, avant même le jugement.",
+        "sources": [
+          {
+            "titre": "Joël Guerriau accusé d'avoir drogué Sandrine Josso : le sénateur est exclu de son parti \"Horizons\" (La Dépêche)",
+            "url": "https://www.ladepeche.fr/2023/11/18/joel-guerriau-accuse-davoir-drogue-sandrine-josso-le-senateur-est-exclu-de-son-parti-horizons-11588083.php",
+            "citation": "les membres du bureau d’Horizons ont décidé \"à l’unanimité\" de suspendre \"immédiatement\" le sénateur, samedi matin, avant d’entamer \"une procédure disciplinaire pouvant conduire à une exclusion définitive\""
+          },
+          {
+            "titre": "Joël Guerriau (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Jo%C3%ABl_Guerriau",
+            "citation": "Le 18 novembre 2023, il est suspendu de son parti Horizons[21] et de son groupe parlementaire (Les Indépendants)[18], qui entament aussi des procédures disciplinaires pouvant conduire à son exclusion[22]."
+          }
+        ]
+      }
+    }
+  ],
+  "perimetre": {
+    "personnesVerifiees": 3,
+    "methode": "Export CSV de poligraph.fr (299 affaires) filtré sur le code HOR, parti actuel et parti au moment des faits : aucun ancien membre condamné n'y figure. Recherches web : « ancien député Horizons condamné », « ex-sénateur Horizons condamné », « Joël Guerriau condamné / appel / exclu Horizons ». Sources ouvertes : Le Monde, Public Sénat, France 3 Pays de la Loire, La Dépêche, Wikipédia. Les citations ont été contrôlées automatiquement dans le texte des pages téléchargées. Personnes examinées : Joël Guerriau, Caroline Cayeux, et les membres HOR présents dans Poligraph (déjà traités dans horizons.json ou sans condamnation).",
+    "limites": "Horizons a été fondé en 2021 : le vivier d'anciens parlementaires ou dirigeants est réduit. Aucune liste des départs d'Horizons n'a été trouvée ; d'autres anciens membres condamnés peuvent manquer. Pour Joël Guerriau, le statut d'appartenance retenu est « suspendu » (sources de novembre 2023). Aucune source ne confirme une exclusion définitive, même si Wikipédia borne son appartenance à « 2022-2023 ». Cette valeur sort de l'énumération exclu|depart|decede du brief."
+  },
+  "alertes": [
+    "Joël Guerriau : La Dépêche titre « exclu de son parti Horizons », mais le corps de l'article et Wikipédia parlent d'une suspension le 18 novembre 2023, avec une procédure disciplinaire pouvant mener à l'exclusion. Aucune décision d'exclusion définitive n'a été trouvée ; statut « suspendu ».",
+    "Joël Guerriau : appel formé le 30 janvier 2026 (France 3) ; aucun arrêt d'appel trouvé au 18 octobre 2026. La peine de prison ferme est suspendue jusqu'à l'appel (pas d'exécution provisoire, selon Le Monde).",
+    "Hors périmètre (pas membre d'Horizons) : Caroline Cayeux, ministre déléguée aux Collectivités territoriales en 2022, condamnée le 1er avril 2026 (CRPC) pour fraude fiscale selon Poligraph. Wikipédia la classe DVD depuis 2018 ; aucune adhésion à Horizons n'a été trouvée."
+  ]
+}

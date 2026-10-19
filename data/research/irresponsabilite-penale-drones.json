@@ -1,0 +1,225 @@
+{
+  "id": "irresponsabilite-penale-drones",
+  "titre": "Irresponsabilité pénale et drones policiers",
+  "question": "Faut-il limiter l'irresponsabilité pénale en cas de consommation volontaire de drogues (après l'affaire Sarah Halimi) et autoriser l'usage de drones par les forces de l'ordre ?",
+  "ouiSignifie": "pour",
+  "contexte": "Présenté après l'affaire Sarah Halimi, dont le meurtrier, fort consommateur de cannabis, avait été déclaré pénalement irresponsable en raison d'une « bouffée délirante aiguë » (décision confirmée par la Cour de cassation le 14 avril 2021), le projet de loi relatif à la responsabilité pénale et à la sécurité intérieure exclut l'irresponsabilité lorsque l'abolition du discernement résulte d'une intoxication volontaire dans le but de commettre une infraction et prévoit de réprimer l'intoxication volontaire ayant conduit à des violences ou à un meurtre commis sous l'empire d'un trouble. Son volet sécurité, majoritaire, réintroduit l'usage de drones par les forces de l'ordre (censuré en mai 2021 dans la loi « sécurité globale »), encadre la vidéosurveillance des cellules de garde à vue et crée une réserve opérationnelle de la police nationale. L'Assemblée l'a adopté en première lecture le 23 septembre 2021 (34 pour, 8 contre, 6 abstentions) ; après accord en commission mixte paritaire, le Conseil constitutionnel l'a déclaré partiellement conforme (décision n° 2021-834 DC du 20 janvier 2022) et la loi a été promulguée le 24 janvier 2022 (loi n° 2022-52).",
+  "contexteSources": [
+    {
+      "titre": "Sénat – Dossier législatif (décision 2021-834 DC, loi n° 2022-52)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl20-849.html"
+    },
+    {
+      "titre": "Wikipédia – Affaire Sarah Halimi",
+      "url": "https://fr.wikipedia.org/wiki/Affaire_Sarah_Halimi"
+    },
+    {
+      "titre": "Sénat – Salle de presse : Responsabilité pénale et sécurité intérieure",
+      "url": "https://www.senat.fr/salle-de-presse/202110/responsabilite-penale-et-securite-interieure.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 23 septembre 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E3N005"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/reponsabilite_penale_securite_interieure",
+  "argumentsPour": [
+    {
+      "auteur": "Alexandra Louis (Agir ensemble)",
+      "resume": "L'affaire Halimi a révélé des failles : qui se drogue en sachant risquer de perdre son discernement et de commettre l'irréparable doit être sanctionné, sans renier le principe qu'on ne juge pas les fous.",
+      "citation": "Ainsi, une personne qui prend des psychotropes alors qu’elle sait qu’elle risque de perdre son discernement et de commettre l’irréparable doit être sanctionnée pour cela",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E3N005",
+      "date": "2021-09-23"
+    },
+    {
+      "auteur": "Antoine Savignat (Les Républicains)",
+      "resume": "Malgré un aspect « fourre-tout », le texte comble les lacunes révélées par l'affaire Halimi et apportera des réponses aux victimes.",
+      "citation": "Mais cette affaire a mis en évidence des trous dans la raquette sur le plan législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E3N005",
+      "date": "2021-09-23"
+    },
+    {
+      "auteur": "Blandine Brocard (Mouvement démocrate)",
+      "resume": "Le texte apporte de grandes avancées sur la responsabilité pénale et la protection des forces de l'ordre ; les drones répondent à des besoins du terrain, comme les rodéos urbains.",
+      "citation": "ce texte contient de grandes avancées sur la question de la responsabilité pénale et en ce qui concerne la protection de ceux qui nous protègent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E3N005",
+      "date": "2021-09-23"
+    },
+    {
+      "auteur": "Jean Terlier (La République en marche)",
+      "resume": "Le texte, fruit d'une coconstruction avec l'opposition, s'inscrit dans la priorité donnée à la sécurité et à la justice durant le quinquennat.",
+      "citation": "Il ne s’agit pas d’un texte fourre-tout, comme cela a pu être dit sur certains bancs, mais d’un texte vraiment ambitieux",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E3N005",
+      "date": "2021-09-23"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Ugo Bernalicis (La France insoumise)",
+      "resume": "Les nouvelles règles ne visent que des « cas d'école » qui n'auraient pas changé l'issue de l'affaire Halimi ; le texte ignore la psychiatrie et étend la surveillance.",
+      "citation": "Les vrais problèmes n’ont pas été abordés dans ce texte : il ne contient aucune proposition concernant la psychiatrie, et en particulier les moyens des hôpitaux psychiatriques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E3N005",
+      "date": "2021-09-23"
+    },
+    {
+      "auteur": "Jean-Paul Lecoq (Gauche démocrate et républicaine)",
+      "resume": "Texte « fourre-tout » qui réintroduit des dispositifs censurés de la loi sécurité globale, dont les drones, alors que des experts préconisaient de ne pas toucher à l'irresponsabilité pénale.",
+      "citation": "c’est un texte fourre-tout qui, d’une part, réintroduit des dispositifs sécuritaires issus, pour certains, de la loi pour une sécurité globale préservant les libertés censurée par le Conseil constitutionnel, comme les drones",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E3N005",
+      "date": "2021-09-23"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Lamia El Aaraje (Socialistes)",
+      "resume": "Son groupe approuve l'exclusion de l'irresponsabilité en cas d'intoxication volontaire dans le but de commettre une infraction, mais émet de fortes réserves sur d'autres articles.",
+      "citation": "On salue, dans l’article 1 er , le fait d’exclure du champ de l’irresponsabilité pénale une personne dont le discernement a été aboli",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E3N005",
+      "date": "2021-09-23"
+    },
+    {
+      "auteur": "Michel Castellani (Libertés et territoires)",
+      "resume": "Le texte ne réglerait pas les problèmes : il risque de condamner des personnes déclarées irresponsables et n'aborde pas les moyens de la psychiatrie.",
+      "citation": "nous sommes peu convaincus par son apport et nous ne voyons pas en quoi il pourrait éviter des crimes odieux tels que ceux que nous avons hélas connus.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E3N005",
+      "date": "2021-09-23"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3969) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI a voté contre (0 pour / 4 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3969) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR a voté contre (0 pour / 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3969) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI a voté contre (0 pour / 4 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; pas de groupe EELV à l'Assemblée en 2021.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3969) ; aucune déclaration retrouvée. À titre indicatif, les deux non-inscrits votants se sont partagés (1 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée s'est abstenu (0 pour / 0 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a présenté et défendu le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl20-849.html",
+      "date": "2021-09-23"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, sans mandat parlementaire ; aucune déclaration retrouvée ; Horizons n'existait pas encore (fondé en octobre 2021). À titre indicatif, le groupe Agir ensemble a voté pour (1 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat sur l'ensemble du projet de loi en première lecture (scrutin n°11 du 19 octobre 2021), sur la version modifiée par le Sénat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2021/scr2021-11.html",
+      "date": "2021-10-19"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (5 pour / 0 contre / 1 abst.) ; Bertrand avait quitté LR fin 2017.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (5 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3969) ; aucune déclaration retrouvée. À titre indicatif, les deux non-inscrits votants se sont partagés (1 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti à la date du vote (Reconquête fondé en décembre 2021) ; aucune déclaration vérifiée ; pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3969) ; aucune déclaration retrouvée. À titre indicatif, les deux non-inscrits votants se sont partagés (1 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3969",
+      "date": "2021-09-23"
+    }
+  },
+  "alertes": [
+    "Scrutin de première lecture à très faible participation (48 votants) : aucun des candidats députés n'a pris part au vote ; aucune déclaration vérifiée n'a été retrouvée, positions laissées « inconnu ».",
+    "Le texte est composite : un volet responsabilité pénale (3 articles sur 20 selon Jean-Paul Lecoq) et un volet sécurité intérieure majoritaire (drones, vidéosurveillance en garde à vue, réserve opérationnelle, refus d'obtempérer, rodéos…). La question ne cite que deux mesures.",
+    "Le texte limite l'irresponsabilité dans des cas précis (intoxication volontaire en vue de commettre l'infraction) ; plusieurs orateurs ont souligné qu'il n'aurait pas changé l'issue de l'affaire Halimi.",
+    "La ventilation par groupe indique « UDI-I : None (0p/0c/0a) » ; le groupe LR « pour » (5p/0c/1a).",
+    "Retailleau : vote nominatif sur la version du Sénat en première lecture ; aucun scrutin public retrouvé sur le texte final de CMP au Sénat.",
+    "Attal : position déduite de son appartenance au gouvernement."
+  ]
+}

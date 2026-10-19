@@ -1,0 +1,18 @@
+{
+  "id": "langues-regionales",
+  "questionSimple": "Faut-il permettre d'enseigner surtout en breton, basque ou corse dans les écoles publiques ?",
+  "enBref": "La loi Molac veut protéger les langues régionales comme le breton, l'occitan ou le basque. Elle permet l'« immersion » : faire classe surtout dans la langue régionale. Elle oblige aussi des communes à aider des écoles bilingues privées.",
+  "pourquoiPour": "Pour ses défenseurs, ces langues risquent de disparaître et l'immersion est la méthode la plus efficace. Elle reste un choix des parents, et les élèves concernés réussissent bien en français.",
+  "pourquoiContre": "Pour ses opposants, la langue de la République est le français et l'immersion risque de mal l'enseigner. Certains dénoncent aussi l'argent public versé aux écoles privées.",
+  "ceQuiSestPasse": "Adoptée le 8 avril 2021, la loi a été partiellement censurée : le Conseil constitutionnel a interdit l'immersion dans l'enseignement public.",
+  "lexique": [
+    {
+      "terme": "Enseignement immersif",
+      "definition": "Faire cours la plupart du temps dans une langue régionale, pas en français."
+    },
+    {
+      "terme": "Forfait scolaire",
+      "definition": "Somme versée par une commune pour chaque élève scolarisé dans une école privée sous contrat."
+    }
+  ]
+}

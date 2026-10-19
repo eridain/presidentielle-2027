@@ -1,0 +1,22 @@
+{
+  "id": "retraites-64",
+  "questionSimple": "Êtes-vous pour le recul de l'âge légal de départ à la retraite de 62 à 64 ans ?",
+  "enBref": "La réforme de 2023 recule peu à peu l'âge minimum de départ à la retraite de 62 à 64 ans, atteint en 2030. Elle accélère aussi le passage à 43 années de cotisation. Les députés n'ont pas voté le texte, passé par le 49.3, mais une motion de censure : la voter revenait à dire Non à la réforme.",
+  "pourquoiPour": "Ses défenseurs jugent que le vieillissement de la population impose de travailler plus longtemps. Selon eux, la réforme est nécessaire pour préserver le système de retraite et le pouvoir d'achat des retraités.",
+  "pourquoiContre": "Ses opposants jugent la réforme injuste : elle fait travailler deux ans de plus, y compris les salariés usés, et pèse d'abord sur les femmes. Ils dénoncent aussi le 49.3, qui a privé l'Assemblée de vote.",
+  "ceQuiSestPasse": "Censure rejetée à neuf voix : loi promulguée en 2023 ; le recul de l'âge a ensuite été suspendu par le budget 2026 de la Sécurité sociale.",
+  "lexique": [
+    {
+      "terme": "49.3",
+      "definition": "Article de la Constitution qui permet au gouvernement de faire adopter un texte sans vote, sauf censure."
+    },
+    {
+      "terme": "Motion de censure",
+      "definition": "Vote des députés pour renverser le gouvernement ; si elle avait réussi, la réforme tombait aussi."
+    },
+    {
+      "terme": "Durée de cotisation",
+      "definition": "Nombre d'années travaillées et cotisées demandé pour toucher une retraite sans réduction."
+    }
+  ]
+}

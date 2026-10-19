@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il adopter la loi ELAN de 2018 pour construire plus vite, en assouplissant des normes et regroupant les HLM ?",
+  "enBref": "La loi veut construire plus de logements, plus vite et moins cher. Seuls 20 % des logements neufs doivent être accessibles aux fauteuils roulants dès le départ. Les petits organismes HLM doivent se regrouper et pourront vendre plus de logements.",
+  "pourquoiPour": "Pour ses défenseurs, des règles plus simples permettent de construire davantage. Les ventes de logements sociaux financent la construction de nouveaux logements.",
+  "pourquoiContre": "Pour la gauche, la loi fragilise le logement social et précarise les locataires. Pour une partie de la droite, elle ne va pas assez loin et favorise les grandes villes.",
+  "ceQuiSestPasse": "Adoptée en octobre 2018 et examinée par le Conseil constitutionnel, la loi a été promulguée le 23 novembre 2018.",
+  "lexique": [
+    {
+      "terme": "HLM",
+      "definition": "Habitation à loyer modéré : logement social à loyer plafonné."
+    },
+    {
+      "terme": "Bail mobilité",
+      "definition": "Location meublée de 1 à 10 mois pour étudiants, stagiaires ou salariés en mission."
+    }
+  ],
+  "id": "loi-elan"
+}

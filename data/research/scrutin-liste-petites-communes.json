@@ -1,0 +1,220 @@
+{
+  "id": "scrutin-liste-petites-communes",
+  "titre": "Scrutin de liste paritaire dans les communes de moins de 1 000 habitants (2025)",
+  "question": "Faut-il étendre le scrutin de liste paritaire aux communes de moins de 1 000 habitants ?",
+  "ouiSignifie": "pour",
+  "contexte": "Jusqu'en 2026, les conseillers municipaux des communes de moins de 1 000 habitants (environ 70 % des communes) étaient élus au scrutin majoritaire avec panachage (possibilité de rayer ou d'ajouter des noms), sans obligation de parité. La proposition de loi déposée en octobre 2021 par Élodie Jacquier-Laforge (MoDem), adoptée par l'Assemblée en février 2022 puis par le Sénat le 11 mars 2025, y étend le scrutin de liste paritaire avec alternance femme/homme, supprime le panachage et autorise des listes incomplètes dans certaines limites. Le 7 avril 2025, l'Assemblée a d'abord voté, à une voix près, le report de la réforme à 2032 ; le gouvernement a obtenu une seconde délibération qui a rétabli l'application dès 2026. Le texte a été adopté définitivement par 206 voix contre 181 et 25 abstentions, puis jugé conforme à la Constitution le 15 mai 2025 ; loi du 21 mai 2025, appliquée aux municipales de mars 2026.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 21 mai 2025 : parité et scrutin de liste dans les petites communes",
+      "url": "https://www.vie-publique.fr/loi/283622-petites-communes-parite-scrutin-elections-municipales-loi-21-mai-2025"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 7 avril 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162"
+    },
+    {
+      "titre": "Assemblée nationale – Analyse du scrutin n°1303",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcement_parite_fonctions_electives_communes",
+  "argumentsPour": [
+    {
+      "auteur": "Françoise Gatel (ministre déléguée chargée de la ruralité, gouvernement)",
+      "resume": "Le scrutin de liste protège les maires du « tir aux pigeons » du panachage et facilite l'engagement en équipe autour d'un projet ; les associations d'élus le demandent depuis 2018.",
+      "citation": "Le scrutin de liste n'est pas un frein à l'engagement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162",
+      "date": "2025-04-07"
+    },
+    {
+      "auteur": "Guillaume Gouffier Valente (Ensemble pour la République)",
+      "resume": "Les mêmes règles électorales doivent s'appliquer partout ; la parité dans tous les conseils municipaux doit être une priorité, dès 2026.",
+      "citation": "En la matière, rien ne peut plus justifier aujourd'hui l'exception qui s'applique aux communes de moins de 1 000 habitants.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162",
+      "date": "2025-04-07"
+    },
+    {
+      "auteur": "Laurent Alexandre (La France insoumise)",
+      "resume": "Seuls 37 % des élus des petites communes sont des femmes ; la loi fait progresser l'égalité et favorise les équipes et programmes plutôt que les règlements de comptes individuels.",
+      "citation": "Cette loi fera progresser l'égalité entre les femmes et les hommes dans l'accès aux responsabilités électives.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162",
+      "date": "2025-04-07"
+    },
+    {
+      "auteur": "Hervé Saulignac (Socialistes)",
+      "resume": "Il n'est pas acceptable de laisser les petites communes en marge du principe constitutionnel de parité ; malgré un calendrier tardif, le groupe vote le texte.",
+      "citation": "Comment peut-on valider une sorte de discrimination territoriale quand on évolue dans le registre républicain de l'égalité ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162",
+      "date": "2025-04-07"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Michel Guiniot (Rassemblement national)",
+      "resume": "Supprimer le panachage et les candidats isolés porte atteinte à la liberté de choix des électeurs ; changer les règles à moins d'un an du scrutin est trop rapide.",
+      "citation": "Le groupe RN s'opposera à ce texte, parce que les atteintes à la démocratie qu'il emporte sont plus nombreuses que les apports qu'il permet.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162",
+      "date": "2025-04-07"
+    },
+    {
+      "auteur": "Philippe Gosselin (Droite républicaine)",
+      "resume": "Les maires réclament des moyens et un statut, pas un nouveau mode de scrutin ; le texte est déconnecté des réalités des petites communes.",
+      "citation": "Ce texte ne semble pas prendre en compte ces difficultés et ces attentes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162",
+      "date": "2025-04-07"
+    },
+    {
+      "auteur": "Pierre Cordier (Droite républicaine)",
+      "resume": "Le panachage fonctionnait bien dans les villages où l'on choisit des personnes plutôt que des listes qui risquent de se politiser.",
+      "citation": "Au sujet du panachage, cette proposition de loi vient remettre en cause un dispositif qui fonctionnait plutôt bien",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162",
+      "date": "2025-04-07"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Agnès Firmin Le Bodo (Horizons & indépendants)",
+      "resume": "Favorable à la parité, mais la réforme n'est pas applicable dans les délais pour 2026 ; le groupe voulait un report à 2032 et s'abstient.",
+      "citation": "Nous sommes pour la parité, mais nous souhaitons qu'elle soit effective et, surtout, atteignable dans les délais impartis, ce qui n'est pas le cas pour 2026.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162",
+      "date": "2025-04-07"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2022 ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté pour (57 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté majoritairement pour (6 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1303 du 7 avril 2025) ; pas d'intervention dans ce débat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté pour (20 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1303) ; pas d'intervention dans ce débat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (35 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1303), président du groupe EPR ; pas d'intervention de fond dans ce débat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons, qu'il préside comme parti, s'est abstenu (1 pour / 0 contre / 18 abst.) en réclamant un report à 2032.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou, qui soutenait le texte (seconde délibération demandée par le gouvernement pour maintenir l'application en 2026) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162",
+      "date": "2025-04-07"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY indicatif : le groupe Droite républicaine a voté contre (2 pour / 41 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes et président de l'Association des maires de France ; la ministre a affirmé en séance que l'AMF avait renouvelé son avis favorable sous sa présidence, mais aucune déclaration personnelle de Lisnard n'a été vérifiée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1303), présidente du groupe RN ; pas d'intervention dans ce débat, argument = celui du groupe RN (Michel Guiniot).",
+      "argument": "Groupe RN : atteinte à la liberté de choix des électeurs (fin du panachage et des candidatures isolées) et changement des règles trop proche des municipales.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N162",
+      "date": "2025-04-07"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; pas de groupe Reconquête à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1303",
+      "date": "2025-04-07"
+    }
+  },
+  "alertes": [
+    "Le texte mêle deux sujets : la parité (consensuelle dans le principe) et la fin du panachage. Beaucoup d'opposants (DR, Horizons, GDR en partie) contestaient surtout le calendrier, à moins d'un an des municipales de 2026, et non la parité.",
+    "Le 7 avril 2025, un report à 2032 a d'abord été adopté par 142 voix contre 141 ; le gouvernement a demandé une seconde délibération qui l'a supprimé. Le vote final porte sur le texte sans report.",
+    "Retailleau : position du gouvernement Bayrou dont il était ministre de l'Intérieur ; pas de déclaration personnelle ni de vote retrouvés.",
+    "Lisnard : l'AMF qu'il préside est citée par la ministre comme favorable, mais aucune déclaration personnelle n'a été vérifiée ; position laissée inconnue.",
+    "Ruffin, Batho, Attal et Le Pen ont voté sans intervenir dans la séance."
+  ]
+}

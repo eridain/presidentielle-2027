@@ -1,0 +1,18 @@
+{
+  "id": "fiscalite-ecologique-2018",
+  "questionSimple": "Approuvez-vous que le gouvernement renonce, face aux « gilets jaunes », à augmenter la taxe carbone en 2019 ?",
+  "enBref": "Fin 2018, la hausse prévue des taxes sur l'essence et le gazole déclenche le mouvement des « gilets jaunes ». Le gouvernement suspend puis abandonne cette hausse pour 2019. Les députés votent pour ou contre cette réponse, sans adopter de loi.",
+  "pourquoiPour": "Pour ses soutiens, aucune taxe ne vaut de diviser le pays : on gèle la hausse et on ouvre un grand débat. La transition écologique reste nécessaire, d'où une suspension plutôt qu'une suppression.",
+  "pourquoiContre": "Pour la droite, un simple report ne suffit pas : il faut supprimer les hausses de taxes. Pour la gauche, la réponse oublie la justice fiscale, notamment le retour de l'impôt sur la fortune.",
+  "ceQuiSestPasse": "La déclaration a été approuvée (358 voix contre 194) et la hausse de la taxe carbone a été retirée du budget 2019.",
+  "lexique": [
+    {
+      "terme": "Taxe carbone",
+      "definition": "Part des taxes sur les carburants et le chauffage calculée selon le CO2 émis."
+    },
+    {
+      "terme": "Déclaration du Gouvernement (50-1)",
+      "definition": "Discours suivi d'un débat et d'un vote, sans adoption de loi ni risque de renversement du gouvernement."
+    }
+  ]
+}

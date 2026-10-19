@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il réformer l'apprentissage et la formation, et indemniser certains salariés qui démissionnent pour se reconvertir ?",
+  "enBref": "Le compte formation de chaque salarié est désormais crédité en euros, et non plus en heures. L'apprentissage est ouvert jusqu'à 29 ans et piloté par les branches professionnelles. Certains salariés qui démissionnent pour un projet de reconversion peuvent toucher le chômage.",
+  "pourquoiPour": "Pour ses défenseurs, ce texte développe l'apprentissage, où la France est en retard, et facilite l'accès à la formation. Il protège mieux ceux qui veulent changer de métier.",
+  "pourquoiContre": "Pour la droite, il écarte les régions de l'apprentissage. Pour la gauche, le compte en euros réduit les droits à la formation et creuse les inégalités.",
+  "ceQuiSestPasse": "Adoptée définitivement par l'Assemblée le 1er août 2018, la loi a été en partie validée par le Conseil constitutionnel puis promulguée le 5 septembre 2018.",
+  "lexique": [
+    {
+      "terme": "Compte personnel de formation",
+      "definition": "Somme accumulée par chaque actif pour payer des formations."
+    },
+    {
+      "terme": "Lecture définitive",
+      "definition": "Dernier vote de l'Assemblée, qui tranche quand le Sénat est en désaccord."
+    }
+  ],
+  "id": "avenir-professionnel"
+}

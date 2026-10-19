@@ -1,0 +1,101 @@
+{
+ "partiId": "nous-france",
+ "nom": "Nous France",
+ "sigle": "Nous France !",
+ "predecesseurs": [],
+ "fondation": "2022",
+ "direction": [
+  {
+   "nom": "Xavier Bertrand",
+   "fonction": "président",
+   "url": "https://www.nousfrance.fr/organisation/"
+  },
+  {
+   "nom": "Bernard Deflesselles",
+   "fonction": "secrétaire général",
+   "url": "https://www.nousfrance.fr/organisation/"
+  },
+  {
+   "nom": "Jean-François Rapin",
+   "fonction": "vice-président",
+   "url": "https://www.nousfrance.fr/organisation/"
+  },
+  {
+   "nom": "Dominique Estrosi Sassone",
+   "fonction": "vice-présidente",
+   "url": "https://www.nousfrance.fr/organisation/"
+  },
+  {
+   "nom": "Julien Dive",
+   "fonction": "vice-président",
+   "url": "https://www.nousfrance.fr/organisation/"
+  },
+  {
+   "nom": "Valérie Debord",
+   "fonction": "secrétaire générale adjointe",
+   "url": "https://www.nousfrance.fr/organisation/"
+  },
+  {
+   "nom": "Sophie Gaugain",
+   "fonction": "secrétaire générale adjointe",
+   "url": "https://www.nousfrance.fr/organisation/"
+  },
+  {
+   "nom": "Jean-Didier Berthault",
+   "fonction": "porte-parole",
+   "url": "https://www.nousfrance.fr/organisation/"
+  }
+ ],
+ "presentation": "Nous France est une association politique lancée le 1er octobre 2022 à Saint-Quentin (Aisne) par Xavier Bertrand, président du conseil régional des Hauts-de-France. France 3 la présente comme une « nouvelle formation du centre-droit » destinée à servir de « tremplin d'une candidature à l'élection présidentielle de 2027 ». Ses responsables, dont plusieurs parlementaires, restent membres des Républicains ; parmi eux figurent quatre sénateurs (Jean-François Rapin, Dominique Estrosi Sassone, Olivier Rietmann, Alain Cadec) et un député (Julien Dive) cités dans son organigramme.",
+ "presentationSources": [
+  {
+   "titre": "Xavier Bertrand lance son propre parti politique (France 3 Hauts-de-France, 30/09/2022)",
+   "url": "https://france3-regions.franceinfo.fr/hauts-de-france/aisne/saint-quentin/xavier-bertrand-lance-son-propre-parti-politique-retour-sur-le-parcours-d-un-homme-presse-2622048.html"
+  },
+  {
+   "titre": "L'organisation (Nous France)",
+   "url": "https://www.nousfrance.fr/organisation/"
+  },
+  {
+   "titre": "Mentions légales (Nous France) – Association Nous France, RNA W023001249",
+   "url": "https://www.nousfrance.fr/mentions-legales/"
+  }
+ ],
+ "effectifs": {
+  "deputes": 1,
+  "senateurs": 4,
+  "eurodeputes": 0,
+  "source": "https://www.nousfrance.fr/organisation/ (parlementaires cités dans l'organigramme ; le parti ne publie pas de liste de parlementaires membres) ; mandats vérifiés dans https://www.senat.fr/api-senat/senateurs.json et deputes_par_groupe_2026.json"
+ },
+ "candidats": [
+  {
+   "id": "bertrand",
+   "bio": "Xavier Bertrand, né en 1965, a été député de l'Aisne à partir de 2002, ministre de la Santé (2005-2007) puis du Travail (2007-2009, 2010-2012), maire de Saint-Quentin à partir de 2010 ; il préside le conseil régional des Hauts-de-France depuis 2016. Toujours adhérent des Républicains, dont il a été secrétaire général (2008-2010), il a annoncé vouloir se présenter à l'élection présidentielle de 2027 en candidat indépendant.",
+   "sources": [
+    {
+     "titre": "L'organisation (Nous France)",
+     "url": "https://www.nousfrance.fr/organisation/"
+    },
+    {
+     "titre": "Présidentielle 2027 : Xavier Bertrand avance ses pions et revendique son indépendance (La Dépêche, 05/08/2026)",
+     "url": "https://www.ladepeche.fr/2026/08/05/presidentielle-2027-xavier-bertrand-avance-ses-pions-et-revendique-son-independance-13496784.php"
+    },
+    {
+     "titre": "Union pour un mouvement populaire (Wikipédia), liste des secrétaires généraux",
+     "url": "https://fr.wikipedia.org/wiki/Union_pour_un_mouvement_populaire"
+    }
+   ]
+  }
+ ],
+ "condamnations": [],
+ "perimetre": {
+  "personnesVerifiees": 10,
+  "methode": "Périmètre : Xavier Bertrand, l'association Nous France, la direction publiée sur nousfrance.fr/organisation (président, secrétaire général, vice-présidents, secrétaires généraux adjoints, porte-parole) et les parlementaires cités dans l'organigramme (sénateurs Rapin, Estrosi Sassone, Rietmann, Cadec ; député Dive). Requêtes : « <nom> condamné » pour chaque personne, « Xavier Bertrand condamné tribunal correctionnel », « Xavier Bertrand condamné diffamation », « Nous France Xavier Bertrand » ; lecture de la page Wikipédia de Xavier Bertrand, Bernard Deflesselles, Julien Dive, Jean-François Rapin, Dominique Estrosi Sassone, Valérie Debord, Sophie Gaugain (recherche « condamn »).",
+  "limites": "Aucune condamnation trouvée dans les sources consultées, ce qui ne signifie pas qu'il n'en existe aucune. Nous France ne publie pas la liste de ses parlementaires membres : seuls ceux cités dans l'organigramme ont été retenus ; les délégués régionaux non parlementaires (élus locaux) sont hors périmètre. Poligraph et Légifrance n'ont pas pu être lus."
+ },
+ "alertes": [
+  "Xavier Bertrand et les responsables de Nous France sont membres des Républicains : les condamnations relevées pour les anciens dirigeants et parlementaires LR figurent dans lr.json (non dupliquées ici).",
+  "Jean-Pierre Door, délégué régional Centre-Val de Loire présenté comme député du Loiret dans l'organigramme, ne figure pas parmi les députés en exercice du fichier AN 2026 : non compté.",
+  "Aucune condamnation de Xavier Bertrand trouvée, y compris pour la période où il était secrétaire général de l'UMP (2008-2010)."
+ ]
+}

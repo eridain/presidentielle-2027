@@ -1,0 +1,73 @@
+{
+ "partiId": "generation-ecologie",
+ "nom": "Génération écologie",
+ "sigle": "GE",
+ "predecesseurs": [],
+ "fondation": "1990",
+ "direction": [
+  {
+   "nom": "Delphine Batho",
+   "fonction": "Présidente (depuis 2018)",
+   "url": "https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_%C3%A9cologie"
+  },
+  {
+   "nom": "France Gamerre",
+   "fonction": "Présidente d'honneur",
+   "url": "https://www.generationecologie.fr/a-propos/notre-organisation/lequipe/"
+  },
+  {
+   "nom": "Anaïs Widiez",
+   "fonction": "Secrétaire générale",
+   "url": "https://www.generationecologie.fr/a-propos/notre-organisation/lequipe/"
+  },
+  {
+   "nom": "Stéphane Meriau",
+   "fonction": "Trésorier, chargé des questions statutaires",
+   "url": "https://www.generationecologie.fr/a-propos/notre-organisation/lequipe/"
+  }
+ ],
+ "presentation": "Génération écologie a été créé en mai 1990 par Brice Lalonde, Jean-Louis Borloo, Yves Piétrasanta, Noël Mamère et Corinne Lepage. Wikipédia le décrit comme « un parti politique écologiste français de centre gauche », présidé depuis septembre 2018 par l'ancienne ministre de l'Écologie Delphine Batho. Il est représenté au Parlement par sa seule présidente, députée des Deux-Sèvres, membre du groupe Écologiste et social à l'Assemblée nationale.",
+ "presentationSources": [
+  {
+   "titre": "Génération écologie — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_%C3%A9cologie"
+  },
+  {
+   "titre": "L'équipe — Génération Écologie",
+   "url": "https://www.generationecologie.fr/a-propos/notre-organisation/lequipe/"
+  }
+ ],
+ "effectifs": {
+  "deputes": 1,
+  "senateurs": 0,
+  "eurodeputes": 0,
+  "source": "https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_%C3%A9cologie",
+  "precision": "Une seule parlementaire (Delphine Batho). Aucun sénateur ni eurodéputé identifié ; cette absence n'est pas établie par une source unique."
+ },
+ "candidats": [
+  {
+   "id": "batho",
+   "bio": "Delphine Batho, née en 1973, est députée des Deux-Sèvres depuis 2007, avec une interruption en 2012-2013. Elle a été ministre déléguée à la Justice puis ministre de l'Écologie de 2012 à 2013, et préside Génération écologie depuis 2018.",
+   "sources": [
+    {
+     "titre": "Delphine Batho — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/Delphine_Batho"
+    },
+    {
+     "titre": "Génération écologie — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/G%C3%A9n%C3%A9ration_%C3%A9cologie"
+    }
+   ]
+  }
+ ],
+ "condamnations": [],
+ "perimetre": {
+  "personnesVerifiees": 9,
+  "methode": "Personnes vérifiées : la candidate et présidente Delphine Batho ; le parti ; les présidents successifs (Brice Lalonde 1991-2002, France Gamerre 2002-2008, Jean-Noël Debroise 2008-2011, Yves Piétrasanta 2011-2018) ; une partie de l'équipe nationale affichée sur generationecologie.fr (Anaïs Widiez, Stéphane Meriau, Charlotte Le Provost, Sébastien Pietrasanta). Requêtes : « <nom> condamné(e) », « <nom> condamnée tribunal correctionnel », « Génération écologie condamnée tribunal », « Génération écologie condamné diffamation », « Lalonde diffamation Le Monde 1998 ». Sources ouvertes : Wikipédia (Génération écologie, Batho, Lalonde, Piétrasanta, Gamerre), generationecologie.fr (pages Qui sommes-nous et L'équipe), archive Le Monde de 1998 via la Wayback Machine.",
+  "limites": "Aucune condamnation retenue dans les sources consultées, ce qui ne signifie pas qu'il n'en existe aucune. Les archives de presse des années 1990 sont peu accessibles (paywall Le Monde) ; Judilibre et Légifrance n'ont pas été interrogés nominativement. Les membres de l'équipe nationale autres que la secrétaire générale et le trésorier n'ont été vérifiés que partiellement (une requête chacun). Membres de l'équipe non vérifiés : Anne-Laure Bedu, Laure Haag-Cassaigne, Abel Cuvidad, Cécile Faure, Jean-Luc Cosme, Mathieu Havsali, Vincent Defaud, Nina Géron, Michel Desmier, France Gamerre (présidente d'honneur, vérifiée en tant qu'ancienne présidente)."
+ },
+ "alertes": [
+  "Brice Lalonde (président 1991-2002, non retenu) : Le Monde titre le 22 mai 1998 « DIFFAMATION : Brice Lalonde a été condamné pour « diffamation publique » envers Le Monde. » (https://www.lemonde.fr/archives/article/1998/05/22/diffamation-brice-lalonde-a-ete-condamne-pour-diffamation-publique-envers-le-monde_3647764_1819218.html). Le corps de l'article (réservé aux abonnés) n'a pas pu être lu : juridiction, date, peine et statut sont inconnus. Il s'agit d'un délit de presse antérieur au 17 mai 2002, potentiellement couvert par la loi d'amnistie du 6 août 2002 (non vérifié). Exclu par prudence ; à vérifier sur l'article intégral avant toute publication.",
+  "Delphine Batho : aucune condamnation trouvée. Les résultats portent sur des plaintes qu'elle a déposées (par exemple en 2026, pour des intimidations liées à la loi Duplomb) ou sur des procédures internes au PS en 2018."
+ ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "retention-dublines",
+  "questionSimple": "Faut-il pouvoir enfermer en centre de rétention les demandeurs d'asile qu'un autre pays européen doit prendre en charge ?",
+  "enBref": "Selon les règles européennes, un demandeur d'asile doit souvent être renvoyé dans le premier pays européen où il est passé. Des juges avaient bloqué leur placement en rétention, faute de règles précises en France. Ce texte fixe ces règles et permet la rétention dès le début de la procédure.",
+  "pourquoiPour": "Pour ses partisans, sans rétention possible, les renvois vers le pays européen responsable ne peuvent pas être exécutés. Le texte répond aux juges et reste sous le contrôle d'un juge.",
+  "pourquoiContre": "Pour ses opposants, enfermer des personnes avant même la décision de renvoi crée une rétention « préventive ». Elle pourrait toucher beaucoup de demandeurs d'asile et porte atteinte à leur liberté.",
+  "ceQuiSestPasse": "Le texte a été adopté définitivement en février 2018, jugé conforme par le Conseil constitutionnel et promulgué le 20 mars 2018.",
+  "lexique": [
+    {
+      "terme": "Rétention administrative",
+      "definition": "Enfermement temporaire d'un étranger dans un centre, décidé par l'administration, en attendant son départ."
+    },
+    {
+      "terme": "Dubliné",
+      "definition": "Demandeur d'asile dont la demande relève d'un autre pays européen, selon le règlement Dublin."
+    }
+  ]
+}

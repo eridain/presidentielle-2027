@@ -1,0 +1,213 @@
+{
+  "id": "interdiction-glyphosate",
+  "titre": "Interdiction du glyphosate",
+  "question": "Faut-il interdire le glyphosate ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le 27 novembre 2017, Emmanuel Macron avait annoncé vouloir interdire le glyphosate en France « dès que des alternatives auront été trouvées, et au plus tard dans trois ans » ; l'objectif n'a pas été tenu. Dans sa niche parlementaire, le groupe La France insoumise a présenté une proposition de loi de Loïc Prud'homme dont l'article unique interdisait la vente et l'usage du glyphosate en France, dans la mesure permise par le droit européen. Le gouvernement (Julien Denormandie) et la majorité y ont opposé l'absence d'alternatives pour certains usages, le risque de distorsion de concurrence et la nécessité d'agir au niveau européen, alors que l'autorisation européenne du glyphosate arrivait à échéance fin 2022. Le 13 janvier 2022, l'article unique a été rejeté (17 pour, 43 contre, 2 abstentions), ce qui a entraîné le rejet du texte.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 13 janvier 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/interdire_glyphosate"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°4295",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/interdire_glyphosate",
+  "argumentsPour": [
+    {
+      "auteur": "Loïc Prud'homme (La France insoumise, rapporteur)",
+      "resume": "La stratégie de sortie du glyphosate marque le pas malgré la promesse présidentielle ; des alternatives agronomiques existent.",
+      "citation": "C’est la preuve par l’exemple, par l’évidence, que des solutions alternatives au glyphosate existent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Michel Larive (La France insoumise)",
+      "resume": "Le glyphosate est classé cancérogène probable par l'OMS et le CIRC et menace la santé des agriculteurs.",
+      "citation": "Depuis 2015, l’Organisation mondiale de la santé (OMS) et le Centre international de recherche sur le cancer (CIRC) le reconnaissent comme cancérogène probable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Jean-Félix Acquaviva (Libertés et territoires)",
+      "resume": "Il soutient une sortie progressive mais déterminée et vote le texte pour accélérer le calendrier.",
+      "citation": "Pour ma part, vous l’aurez compris, je voterai pour la proposition de loi, en espérant qu’elle permette d’accélérer le calendrier de sortie du glyphosate.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Baptiste Moreau (La République en marche)",
+      "resume": "Le texte ne prévoit ni accompagnement ni alternatives et mettrait les agriculteurs dans l'impasse ; il faut une interdiction européenne pour éviter une distorsion de concurrence.",
+      "citation": "La proposition de loi, avec son article unique, ne prévoit ni accompagnement, ni solution, ni alternatives.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Pierre-Henri Dumont (Les Républicains)",
+      "resume": "Une interdiction nationale fausserait la concurrence avec les autres agriculteurs européens ; la sortie est déjà engagée.",
+      "citation": "En harmonisant les règles au niveau européen, c’est sûrement possible, mais au seul échelon national, c’est impossible",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Marguerite Deprez-Audebert (Mouvement démocrate)",
+      "resume": "Une sortie immédiate coûterait 50 à 150 euros par hectare et menacerait des exploitations ; la recherche d'alternatives et l'échelon européen priment.",
+      "citation": "En effet, chers collègues, le nerf de la guerre est bien la recherche de solutions alternatives.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "André Chassaigne (Gauche démocrate et républicaine)",
+      "resume": "Le glyphosate ne peut être interdit sans dérogations transitoires pour les pratiques vertueuses (agriculture de conservation) ni sans laisser le temps aux alternatives.",
+      "citation": "En tout état de cause, nous ne saurions interdire le glyphosate sans faire valoir –⁠ même transitoirement – des exceptions ou des dérogations à cette interdiction",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°4295 du 13 janvier 2022), président du groupe La France insoumise, auteur du texte ; pas d'intervention personnelle retrouvée, argument = position du groupe (Loïc Prud'homme, Michel Larive).",
+      "argument": "Le groupe invoque la toxicité du glyphosate, cancérogène probable selon le CIRC, et l'existence d'alternatives agronomiques.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4295) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe GDR s'est abstenu (0-0-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4295) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe La France insoumise a voté pour (14-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration spécifique retrouvée ; aucun groupe EELV à l'Assemblée ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4295) ; aucune déclaration spécifique retrouvée. À titre indicatif, les non-inscrits votants ont voté pour (1-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national en 2022 (eurodéputé) ; aucune déclaration spécifique retrouvée. Le groupe Socialistes de l'Assemblée n'a pas pris part au vote (non-participation revendiquée par Dominique Potier) : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui s'opposait à la proposition de loi (Julien Denormandie) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ancien Premier ministre, maire du Havre et président d'Horizons ; aucune déclaration spécifique retrouvée. PROXY faible : le groupe Agir ensemble s'est partagé (1 pour, 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président du groupe LR au Sénat ; le texte n'a pas été transmis au Sénat ; aucune déclaration spécifique retrouvée. PROXY : le seul député LR votant a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR (un seul votant) a voté contre, position exprimée par Pierre-Henri Dumont.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR (un seul votant) a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4295) ; aucune déclaration spécifique retrouvée. À titre indicatif, le seul non-inscrit votant a voté pour (1-0) ; aucun député RN n'est intervenu dans le débat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Candidat à l'élection présidentielle, sans mandat parlementaire ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4295) ; aucune déclaration spécifique retrouvée. À titre indicatif, le seul non-inscrit votant a voté pour (1-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4295",
+      "date": "2022-01-13"
+    }
+  },
+  "alertes": [
+    "Roussel, Ruffin, Batho, Le Pen, Dupont-Aignan : n'ont pas pris part au vote ; position inconnu (indication du vote de leur groupe à titre indicatif seulement).",
+    "Scrutin à très faible participation (62 votants) lors d'une niche parlementaire ; le vote porte sur l'article unique, dont le rejet a entraîné celui du texte.",
+    "Le groupe socialiste n'a pas pris part au vote, par choix revendiqué : il soutient la sortie des pesticides mais conteste la méthode.",
+    "Un vote « contre » ne traduit pas forcément le refus de toute sortie du glyphosate : la majorité invoquait l'absence d'alternatives et l'échelon européen.",
+    "Le proxy des non-inscrits (1 seul votant) est très peu représentatif."
+  ]
+}

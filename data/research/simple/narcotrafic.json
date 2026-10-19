@@ -1,0 +1,22 @@
+{
+  "id": "narcotrafic",
+  "questionSimple": "Faut-il adopter la loi contre le trafic de drogue : parquet spécialisé, quartiers de prison haute sécurité, nouveaux moyens d'enquête ?",
+  "enBref": "La loi crée un parquet national consacré à la criminalité organisée, dont le grand trafic de drogue. Les détenus liés à ces réseaux peuvent être placés dans des quartiers de prison de haute sécurité. Enquêteurs et services de renseignement obtiennent de nouveaux outils, et la lutte contre le blanchiment est renforcée.",
+  "pourquoiPour": "Pour ses défenseurs, les violences liées au trafic augmentent et le pays est à un point de bascule. Il faut donner vite à la police et à la justice des outils de fermeté et frapper l'argent des trafiquants.",
+  "pourquoiContre": "Pour ses opposants, la répression a déjà échoué ; le texte étend la surveillance et restreint les libertés sans renforcer les moyens de la justice. Ils défendent plutôt la prévention et un cannabis légal encadré.",
+  "ceQuiSestPasse": "Adoptée en avril 2025, la loi a été partiellement censurée par le Conseil constitutionnel, notamment sur le renseignement algorithmique, puis promulguée le 13 juin 2025.",
+  "lexique": [
+    {
+      "terme": "Parquet",
+      "definition": "Magistrats chargés de lancer et diriger les poursuites pénales au nom de la société."
+    },
+    {
+      "terme": "Blanchiment",
+      "definition": "Faire passer de l'argent gagné illégalement pour de l'argent d'origine légale."
+    },
+    {
+      "terme": "Renseignement algorithmique",
+      "definition": "Analyse automatique, par ordinateur, de grandes quantités de données pour repérer des menaces."
+    }
+  ]
+}

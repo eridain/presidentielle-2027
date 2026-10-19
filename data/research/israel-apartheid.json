@@ -1,0 +1,211 @@
+{
+  "id": "israel-apartheid",
+  "titre": "Résolution sur un « apartheid » israélien",
+  "question": "Faut-il condamner l'« institutionnalisation par Israël d'un régime d'apartheid » envers les Palestiniens, tout en réaffirmant la solution à deux États ?",
+  "ouiSignifie": "pour",
+  "contexte": "Proposition de résolution (article 34-1 de la Constitution, sans valeur contraignante) n° 1082, défendue en séance par Jean-Paul Lecoq (GDR), premier orateur. Elle réaffirme la nécessité d'une solution à deux États et condamne la colonisation, ainsi qu'un « régime d'apartheid » qu'Israël aurait institutionnalisé envers les Palestiniens, en s'appuyant notamment sur des rapports d'ONG. Le gouvernement a rejeté l'emploi du terme d'apartheid, jugé « excessif et déplacé ». La résolution a été rejetée le 4 mai 2023 par 199 voix contre 71 : LFI, écologistes et GDR pour ; Renaissance, RN, LR, Démocrates, Horizons et le seul socialiste votant contre.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 4 mai 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-04-mai-2023"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/necessite_solution_deux_etats_condamnation_israel"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°1456",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/necessite_solution_deux_etats_condamnation_israel",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-Paul Lecoq (GDR)",
+      "resume": "Les trois critères juridiques de l'apartheid seraient réunis : un régime institutionnalisé, systématique, visant la domination d'un groupe sur un autre ; il cite l'ONU, des ONG israéliennes et Jean-Yves Le Drian.",
+      "citation": "leur condition relève juridiquement d’une situation d’apartheid, telle que définie par le droit international des droits de l’homme qui est au fondement même des Nations unies.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-04-mai-2023",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Ersilia Soudais (La France insoumise)",
+      "resume": "La définition juridique du crime d'apartheid dépasse le seul cas sud-africain et permet d'ouvrir un débat public sur la situation.",
+      "citation": "La situation en Israël et en Palestine n’est pas tout à fait similaire mais la définition juridique du crime d’apartheid permet de dépasser le cadre sud-africain.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-04-mai-2023",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Sabrina Sebaihi (Écologiste)",
+      "resume": "Les politiques discriminatoires imposées aux Palestiniens constituent un crime d'apartheid au regard du droit international.",
+      "citation": "Les gouvernements israéliens successifs soumettent les Palestiniens à des politiques discriminatoires et d’oppression qui constituent un crime d’apartheid au regard du droit international.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-04-mai-2023",
+      "date": "2023-05-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Laurence Boone (secrétaire d'État, gouvernement)",
+      "resume": "Le gouvernement rejette l'emploi du terme d'apartheid.",
+      "citation": "nous ne pouvons que rejeter l’utilisation du terme d’apartheid, largement excessif et déplacé.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-04-mai-2023",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Jean-Louis Bourlanges (Démocrate)",
+      "resume": "Le terme d'apartheid est jugé réducteur, inapproprié et stigmatisant ; il creuserait le fossé entre les deux populations.",
+      "citation": "nous considérons que ce terme est réducteur et inapproprié, qu’il revient à ignorer la spécificité juridique et géopolitique du pays",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-04-mai-2023",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Olivier Faure (Socialistes)",
+      "resume": "La colonisation menace la solution à deux États, mais la notion d'apartheid transformerait un conflit territorial en conflit entre juifs et musulmans.",
+      "citation": "Nous n’approuverons pas cette proposition de résolution parce que, comme l’a dit Jérôme Guedj, il ne s’agit pas d’apartheid.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-04-mai-2023",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Hélène Laporte (Rassemblement national)",
+      "resume": "Le texte est jugé contraire à la recherche d'une solution de paix.",
+      "citation": "Le groupe Rassemblement national votera contre ce texte, dont l’esprit est diamétralement opposé à toute recherche d’une solution de paix.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-04-mai-2023",
+      "date": "2023-05-04"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2023 ; aucune déclaration spécifique vérifiée sur cette résolution. PROXY : le groupe LFI-NUPES a voté pour (47 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+      "date": "2023-05-04"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°1456), membre du groupe GDR dont Jean-Paul Lecoq a défendu le texte ; pas d'intervention personnelle retrouvée, argument = présentation de Jean-Paul Lecoq.",
+      "argument": "Le groupe GDR estime que la condition des Palestiniens relève juridiquement de l'apartheid au sens du droit international.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-04-mai-2023",
+      "date": "2023-05-04"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1456) ; aucune déclaration retrouvée. Indication : son groupe LFI-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+      "date": "2023-05-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée sur ce texte. PROXY : le groupe Écologiste-NUPES a voté pour (8 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+      "date": "2023-05-04"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1456) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+      "date": "2023-05-04"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration vérifiée sur ce texte. PROXY : le seul député socialiste votant a voté contre (0 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+      "date": "2023-05-04"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics ; le gouvernement Borne a rejeté le terme d'apartheid en séance (Laurence Boone) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-04-mai-2023",
+      "date": "2023-05-04"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté contre (0 pour / 11 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+      "date": "2023-05-04"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte propre à l'Assemblée ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour / 11 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+      "date": "2023-05-04"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+      "date": "2023-05-04"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+      "date": "2023-05-04"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°1456), présidente du groupe RN ; argument = explication du groupe (Hélène Laporte).",
+      "argument": "Le groupe RN juge le texte contraire à la recherche d'une solution de paix.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-04-mai-2023",
+      "date": "2023-05-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+      "date": "2023-05-04"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1456) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1456",
+      "date": "2023-05-04"
+    }
+  },
+  "alertes": [
+    "Question reformulée pour refléter l'intitulé complet de la résolution (qui réaffirme aussi la solution à deux États) ; polarité inchangée (Oui = voter pour la résolution).",
+    "Résolution de l'article 34-1, non contraignante, rejetée.",
+    "Attal : position déduite de l'avis du gouvernement exprimé en séance, sans déclaration personnelle.",
+    "Ruffin, Batho, Dupont-Aignan n'ont pas pris part au vote."
+  ]
+}

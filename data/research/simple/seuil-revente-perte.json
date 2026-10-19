@@ -1,0 +1,18 @@
+{
+  "id": "seuil-revente-perte",
+  "questionSimple": "Faut-il continuer à obliger les supermarchés à vendre l'alimentation au moins 10 % plus cher que leur prix d'achat ?",
+  "enBref": "Depuis 2018, les supermarchés doivent revendre les produits alimentaires au moins 10 % au-dessus de leur prix d'achat, et les promotions sont limitées. Le but était d'éviter la guerre des prix et de mieux payer les agriculteurs. Le texte prolonge ces règles jusqu'en 2028.",
+  "pourquoiPour": "Ses partisans estiment que ces règles évitent une guerre des prix qui finit par écraser les agriculteurs. Le texte renforce aussi les sanctions et la transparence sur les marges.",
+  "pourquoiContre": "Ses opposants jugent que l'argent est resté chez les supermarchés et pas chez les agriculteurs, tandis que les prix montaient. D'autres veulent plus de promotions pour le pouvoir d'achat.",
+  "ceQuiSestPasse": "Adoptée définitivement le 10 avril 2025, la loi du 14 avril 2025 prolonge ces règles jusqu'au 15 avril 2028.",
+  "lexique": [
+    {
+      "terme": "Seuil de revente à perte",
+      "definition": "Prix minimum en dessous duquel un magasin n'a pas le droit de vendre un produit."
+    },
+    {
+      "terme": "Marge",
+      "definition": "Différence entre le prix de vente et le prix d'achat d'un produit."
+    }
+  ]
+}

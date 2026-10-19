@@ -1,0 +1,18 @@
+{
+  "id": "loi-fake-news",
+  "questionSimple": "Faut-il permettre à un juge de faire retirer vite les fausses informations en ligne pendant les campagnes électorales ?",
+  "enBref": "Pendant les trois mois avant une grande élection, un candidat ou un parti peut demander à un juge de bloquer en 48 heures une fausse information diffusée massivement en ligne. Les plateformes doivent aussi dire qui paie les contenus sponsorisés.",
+  "pourquoiPour": "Pour ses défenseurs, les fausses informations diffusées en masse sur internet faussent les élections. La loi donne aux candidats un recours rapide et oblige les plateformes à plus de transparence.",
+  "pourquoiContre": "Pour ses opposants, la loi existante permet déjà de punir les fausses nouvelles. Un juge ne peut pas trancher le vrai du faux en 48 heures, et le texte menace la liberté d'informer.",
+  "ceQuiSestPasse": "Adoptée en novembre 2018 malgré le rejet du Sénat, la loi a été validée sous réserves par le Conseil constitutionnel et promulguée le 22 décembre 2018.",
+  "lexique": [
+    {
+      "terme": "Référé",
+      "definition": "Procédure d'urgence où un juge prend rapidement une décision provisoire."
+    },
+    {
+      "terme": "Question préalable",
+      "definition": "Vote du Sénat qui rejette un texte sans l'examiner article par article."
+    }
+  ]
+}

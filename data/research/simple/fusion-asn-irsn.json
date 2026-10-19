@@ -1,0 +1,18 @@
+{
+  "id": "fusion-asn-irsn",
+  "questionSimple": "Faut-il fusionner le gendarme du nucléaire (ASN) et l'institut public qui l'expertise (IRSN) ?",
+  "enBref": "Jusqu'ici, la sûreté nucléaire reposait sur deux organismes : l'ASN, qui contrôle et décide, et l'IRSN, qui fait les études techniques. La loi les réunit en une seule autorité en 2025, au moment où la France relance la construction de réacteurs.",
+  "pourquoiPour": "Ses partisans veulent une organisation plus simple et plus rapide pour accompagner la relance du nucléaire. Selon eux, les experts restent séparés des décideurs et leurs avis seront publiés.",
+  "pourquoiContre": "Ses opposants estiment que le système en deux organismes a fait ses preuves. Ils craignent moins de transparence et une sûreté affaiblie, contre l'avis de nombreux salariés et experts.",
+  "ceQuiSestPasse": "Adoptée définitivement le 9 avril 2024 et jugée conforme par le Conseil constitutionnel, la loi a créé l'ASNR en 2025.",
+  "lexique": [
+    {
+      "terme": "ASN",
+      "definition": "Autorité de sûreté nucléaire : contrôle les centrales et prend les décisions."
+    },
+    {
+      "terme": "IRSN",
+      "definition": "Institut public d'experts qui analysait les risques nucléaires pour l'ASN."
+    }
+  ]
+}

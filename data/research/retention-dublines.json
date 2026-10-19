@@ -1,0 +1,216 @@
+{
+  "id": "retention-dublines",
+  "titre": "Rétention des demandeurs d'asile « dublinés »",
+  "question": "Faut-il permettre de placer en rétention les demandeurs d'asile relevant d'un autre pays européen (« dublinés ») avant leur transfert ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi de Jean-Luc Warsmann (groupe UDI, Agir et Indépendants) fixe dans la loi les critères d'un « risque non négligeable de fuite » permettant de placer en rétention les demandeurs d'asile relevant d'un autre État européen selon le règlement Dublin III, y compris avant la décision de transfert. Elle répond à un arrêt de la Cour de justice de l'Union européenne (15 mars 2017) et à un arrêt de la Cour de cassation (27 septembre 2017) qui avaient rendu ces placements inapplicables faute de critères légaux. Adoptée en première lecture par l'Assemblée le 7 décembre 2017 (41 voix contre 11), modifiée par le Sénat le 25 janvier 2018 puis adoptée définitivement le 15 février 2018, elle a été déclarée conforme à la Constitution (décision n° 2018-762 DC) et promulguée le 20 mars 2018 (loi n° 2018-187).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 3e séance du 7 décembre 2017",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N089"
+    },
+    {
+      "titre": "Sénat – salle de presse : application du régime d'asile européen (étapes, décision du Conseil constitutionnel)",
+      "url": "https://senat.fr/salle-de-presse/201801/application-du-regime-dasile-europeen.html"
+    },
+    {
+      "titre": "Sénat – dossier législatif ppl17-149 (loi n° 2018-187 du 20 mars 2018)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl17-149.html"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°341",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/ppl17-149.html",
+  "argumentsPour": [
+    {
+      "auteur": "Olivier Becht (UDI, Agir et Indépendants)",
+      "resume": "Le droit français ne fixe pas les critères du risque de fuite exigés par les juges ; le texte rend à nouveau possible la rétention, jugée indispensable pour exécuter les transferts Dublin.",
+      "citation": "Il s’agit donc d’assurer une mise en œuvre efficace de la procédure Dublin en permettant, dans certains cas, le placement en rétention administrative, qui peut s’avérer indispensable d’un point de vue opérationnel.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N089",
+      "date": "2017-12-07"
+    },
+    {
+      "auteur": "Ludovic Mendes (La République en marche)",
+      "resume": "Le règlement Dublin III est un pilier de la politique d'asile européenne et de la libre circulation ; le texte sécurise le placement en rétention, décidé sous contrôle du juge des libertés.",
+      "citation": "Je tiens à vous rappeler que le règlement Dublin III est une pierre angulaire de la politique européenne d’asile et qu’il est un gage du respect du cadre de l’espace de libre circulation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N089",
+      "date": "2017-12-07"
+    },
+    {
+      "auteur": "Laurence Vichnievsky (MoDem)",
+      "resume": "La rétention peut être nécessaire pour garantir le transfert vers l'État responsable de la demande ; le groupe juge le texte ciblé tout en émettant des réserves sur un article.",
+      "citation": "La rétention administrative en vue de s’assurer de la personne de l’étranger peut s’avérer nécessaire pour garantir son transfert vers l’État membre chargé d’examiner la demande d’asile.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N089",
+      "date": "2017-12-07"
+    },
+    {
+      "auteur": "Gérard Collomb (ministre d'État, ministre de l'Intérieur)",
+      "resume": "Les critères retenus visent des situations comme les personnes transférées qui reviennent aussitôt en France ; le ministre conteste toute atteinte aux libertés.",
+      "citation": "Personne ne peut dire que ce que nous proposons est attentatoire aux libertés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N089",
+      "date": "2017-12-07"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Stéphane Peu (Gauche démocrate et républicaine)",
+      "resume": "Autoriser la rétention avant la décision de transfert crée une rétention « préventive » pouvant toucher un très grand nombre de demandeurs d'asile.",
+      "citation": "La rétention pourra donc s’appliquer à un très grand nombre de personnes en procédure Dublin, ce qui peut conduire à un enfermement massif et disproportionné.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N089",
+      "date": "2017-12-07"
+    },
+    {
+      "auteur": "Danièle Obono (La France insoumise)",
+      "resume": "Le texte va au-delà des exigences européennes et étend une mesure privative de liberté qui devrait rester exceptionnelle.",
+      "citation": "Cela nous paraît une extension disproportionnée et inacceptable de la mesure, qui doit rester exceptionnelle, car une mise en rétention est particulièrement attentatoire aux libertés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N089",
+      "date": "2017-12-07"
+    },
+    {
+      "auteur": "Marietta Karamanli (Nouvelle Gauche)",
+      "resume": "Le texte instaure une rétention préventive avant toute décision de transfert, avec des critères larges, sans mise en perspective avec la réforme du règlement Dublin en cours.",
+      "citation": "Le dispositif prévoit ainsi une procédure de « rétention préventive » avant même qu’une décision de transfert n’ait été prononcée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N089",
+      "date": "2017-12-07"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°341) ; aucune déclaration retrouvée. À titre indicatif, le groupe La France insoumise a voté contre (0-4).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°341) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR a voté contre (0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°341) ; aucune déclaration retrouvée. À titre indicatif, le groupe La France insoumise a voté contre (0-4).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°341) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député (La République en marche), n'a pas pris part au vote (scrutin n°341) ; aucune déclaration retrouvée. À titre indicatif, son groupe a voté pour (27-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée (non-inscrite), n'a pas pris part au vote (scrutin n°341) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député (non-inscrit), n'a pas pris part au vote (scrutin n°341) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. Aucun groupe de son parti à l'Assemblée ne peut servir de proxy pour ce scrutin.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2017 ; aucune déclaration retrouvée. Aucun groupe de son mouvement (Place publique, fondé en 2018) ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre ; le gouvernement, représenté par le ministre de l'Intérieur Gérard Collomb, a soutenu le texte en séance. Pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N089",
+      "date": "2017-12-07"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur, président du groupe LR : a voté contre les amendements de suppression de l'article 1er (qui organise ce placement en rétention) au Sénat, scrutin public n°56 du 25 janvier 2018 ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-56.html",
+      "date": "2018-01-25"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) n'a compté qu'une abstention (0-0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) n'a compté qu'une abstention (0-0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2017 (Reconquête fondé en 2021) ; aucune déclaration retrouvée ; aucun groupe ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/341",
+      "date": "2017-12-07"
+    }
+  },
+  "alertes": [
+    "Scrutin à très faible participation (53 votants) : les sept candidats alors députés n'y ont pas pris part ; positions laissées « inconnu » faute de déclaration retrouvée.",
+    "Le groupe LR n'a compté qu'une abstention ; Guillaume Larrivé (LR) a pourtant défendu en séance le principe de la rétention des « dublinés » et critiqué les jurisprudences ; son vote personnel n'a pas été vérifié.",
+    "Le MoDem a voté pour malgré les réserves de Laurence Vichnievsky sur l'article 1er bis.",
+    "Retailleau : position déduite de son vote au Sénat contre la suppression de l'article 1er, et non d'un vote sur l'ensemble du texte.",
+    "Le dossier législatif utilisé est celui du Sénat (la page du scrutin AN ne renvoie pas à un dossier AN) ; la décision 2018-762 DC n'a pas pu être lue directement sur le site du Conseil constitutionnel (page vide), la conformité est attestée par le Sénat."
+  ]
+}

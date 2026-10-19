@@ -1,0 +1,221 @@
+{
+  "id": "budget-2022",
+  "titre": "Dernier budget du premier quinquennat Macron (2022)",
+  "question": "Faut-il adopter le budget de l'État pour 2022, dernier budget du premier quinquennat d'Emmanuel Macron (plan d'investissement France 2030, poursuite de la suppression de la taxe d'habitation, hausse des budgets régaliens) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi de finances pour 2022, présenté par le gouvernement de Jean Castex à la sortie de la crise du covid, est le dernier budget avant l'élection présidentielle. Il poursuit la suppression de la taxe d'habitation sur les résidences principales (achevée en 2023) et la baisse de l'impôt sur les sociétés à 25 %, et augmente les crédits des armées, de l'intérieur, de la justice et de l'éducation. Pendant l'examen, le gouvernement y ajoute par amendements plusieurs mesures majeures, dont le plan d'investissement France 2030 (34 milliards d'euros d'engagements), le contrat d'engagement jeune et des mesures face à la hausse des prix de l'énergie. Les oppositions dénoncent un budget « troué », complété au fil des annonces, et un dérapage des dépenses. Le 16 novembre 2021, l'Assemblée l'adopte en première lecture par 348 voix contre 205 : LaREM, MoDem et Agir ensemble pour ; LR, socialistes, France insoumise, GDR, Libertés et territoires et non-inscrits contre ; UDI divisé. Le Sénat, à majorité de droite, a rejeté la partie recettes le 23 novembre, donc tout le texte ; l'Assemblée a eu le dernier mot et la loi de finances a été promulguée le 30 décembre 2021.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 16 novembre 2021 (vote solennel sur le PLF 2022)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062"
+    },
+    {
+      "titre": "Sénat – Compte rendu de la séance du 23 novembre 2021 (rejet de la première partie du PLF 2022)",
+      "url": "https://www.senat.fr/seances/s202111/s20211123/s20211123_mono.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4150",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+  "argumentsPour": [
+    {
+      "auteur": "Cendra Motin (La République en marche)",
+      "resume": "Le budget tient les engagements de programmation (recherche, armées, justice, intérieur) et prépare la France de 2030.",
+      "citation": "notre pays sortira plus fort de cette crise grâce aux investissements que nous faisons aujourd’hui pour la France de demain.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    },
+    {
+      "auteur": "Jean-Noël Barrot (MoDem)",
+      "resume": "Ce budget clôt un quinquennat de stabilité fiscale : les baisses d'impôts promises en 2017 ont été tenues.",
+      "citation": "nous avons baissé la taxe d’habitation, les cotisations sur le travail et l’impôt sur les sociétés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    },
+    {
+      "auteur": "Olivier Dussopt (ministre délégué aux comptes publics), après le vote",
+      "resume": "Le budget permet de sortir de la crise, de mettre en œuvre la relance et de préparer l'avenir.",
+      "citation": "vous pouvez être fiers d’avoir voté un budget qui tient les engagements du Président de la République, un budget qui permet à la France de sortir de la crise",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Paul Dufrègne (GDR)",
+      "resume": "Le budget prolonge une politique favorable aux plus riches et refuse d'augmenter les salaires (SMIC, point d'indice).",
+      "citation": "ce dernier budget du quinquennat, qui confirme la politique économique à l’œuvre depuis cinq ans : une politique en faveur des riches et des grandes entreprises.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    },
+    {
+      "auteur": "Éric Coquerel (La France insoumise)",
+      "resume": "Les baisses d'impôts (IS, impôts de production, taxe d'habitation des plus aisés) ont profité aux plus riches et aux actionnaires.",
+      "citation": "en mai 2022, le candidat Macron qui s’avancera devant nous sera bien le candidat des riches !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    },
+    {
+      "auteur": "Véronique Louwagie (Les Républicains)",
+      "resume": "Dette et dépenses explosent, avec des dépenses électoralistes ajoutées à quelques mois de la présidentielle.",
+      "citation": "Il consacre surtout la flambée des dépenses électoralistes qui se multiplient de manière totalement irresponsable à quelques semaines de l’élection présidentielle.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    },
+    {
+      "auteur": "Christine Pires Beaune (Socialistes)",
+      "resume": "Un budget insincère, complété par un nombre record d'amendements du gouvernement, dont France 2030 sans aucun détail.",
+      "citation": "Vous avez battu un autre record, celui de l’amendement le plus cher de l’histoire, 34 milliards d’euros",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    },
+    {
+      "auteur": "Charles de Courson (Libertés et territoires)",
+      "resume": "Le déficit structurel et la dette se sont fortement dégradés en cinq ans, hors effets de la crise.",
+      "citation": "Premier constat : en cinq ans, le déficit structurel s’est fortement dégradé, signe d’une gestion défaillante des finances publiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Michel Zumkeller (UDI et indépendants)",
+      "resume": "Le groupe, divisé, regrette un dernier budget sans ambition sur l'environnement et la compétitivité.",
+      "citation": "Ce budget est décevant en matière de développement durable et de compétitivité des entreprises, qui sont pourtant des questions essentielles pour l’avenir du pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°4150) ; président du groupe La France insoumise, pas d'intervention personnelle : argument = explication de vote du groupe (Éric Coquerel).",
+      "argument": "Groupe FI : budget d'un « candidat des riches », pertes de recettes au profit des grandes entreprises, aucune hausse du SMIC ni du point d'indice.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°4150) ; pas d'intervention personnelle dans les explications de vote : argument = intervention du groupe GDR (Jean-Paul Dufrègne).",
+      "argument": "Groupe GDR : un budget qui confirme une politique en faveur des riches et des grandes entreprises et refuse d'augmenter les salaires.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°4150) ; pas d'intervention personnelle retrouvée : argument = explication de vote du groupe FI (Éric Coquerel).",
+      "argument": "Groupe FI : les mesures fiscales du quinquennat ont surtout profité aux 1 % les plus riches.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national en 2021 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°4150), alors députée non inscrite ; aucune explication de vote retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4150",
+      "date": "2021-11-16"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a présenté et défendu ce budget.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N062",
+      "date": "2021-11-16"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, venant de fonder Horizons ; aucune déclaration retrouvée sur ce vote.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat, a voté contre la première partie du budget 2022 (scrutin Sénat n°49 du 23 novembre 2021), ce qui a entraîné le rejet de tout le texte par le Sénat.",
+      "argument": "Le budget sacrifie l'avenir au présent : dérive des dépenses ordinaires, déficits records, annonces en série avant la présidentielle.",
+      "citation": "le budget que vous défendez est indéfendable, car c’est un budget de campagne électorale",
+      "url": "https://www.senat.fr/seances/s202111/s20211123/s20211123_mono.html",
+      "date": "2021-11-23"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de la région Hauts-de-France, candidat à l'investiture LR ; aucune déclaration retrouvée sur ce vote.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. Proxy : le groupe LR de l'Assemblée a voté contre (103 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°4150), alors députée non inscrite ; aucune intervention retrouvée dans les explications de vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4150",
+      "date": "2021-11-16"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Candidat à l'élection présidentielle, sans mandat ; aucune déclaration retrouvée sur ce vote.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°4150), alors député non inscrit ; aucune intervention retrouvée dans les explications de vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4150",
+      "date": "2021-11-16"
+    }
+  },
+  "alertes": [
+    "Plusieurs mesures phares (France 2030, contrat d'engagement jeune) ont été ajoutées par amendements du gouvernement pendant l'examen.",
+    "Le vote de Retailleau porte sur la première partie (recettes) au Sénat, le 23 novembre 2021, et non sur le texte voté par l'Assemblée le 16 novembre.",
+    "Le Pen, Dupont-Aignan et Batho ont voté contre sans explication de vote (non-inscrits)."
+  ]
+}

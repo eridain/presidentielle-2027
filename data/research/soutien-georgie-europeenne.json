@@ -1,0 +1,211 @@
+{
+  "id": "soutien-georgie-europeenne",
+  "titre": "Soutien au destin européen de la Géorgie",
+  "question": "Faut-il condamner la dérive autoritaire du gouvernement géorgien et soutenir l'avenir européen de la Géorgie ?",
+  "ouiSignifie": "pour",
+  "contexte": "La Géorgie a obtenu le statut de pays candidat à l'Union européenne en décembre 2023. Le gouvernement du parti Rêve géorgien a ensuite adopté des lois inspirées de modèles autoritaires et, après les législatives contestées d'octobre 2024, suspendu le processus d'adhésion ; manifestations et répression (arrestations, pressions sur les médias, gel des comptes d'ONG) ont suivi, et l'Union a gelé les négociations et une partie de son aide. La proposition de résolution européenne de Constance Le Grip (EPR), sans valeur contraignante, condamne cette dérive et réaffirme le « destin européen » de la Géorgie, en conditionnant toute reprise des négociations au respect des critères démocratiques. Elle a été adoptée le 11 mai 2026 (68 pour, 28 contre, 1 abstention), contre l'avis du RN, de LFI et de l'UDR.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution européenne",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/condamner_derive_illiberale_autoritaire_gouvernement_georgien_reaffirmer_soutien_destin_europeen_Georgie"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°6525",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 11 mai 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-lundi-11-mai-2026"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/condamner_derive_illiberale_autoritaire_gouvernement_georgien_reaffirmer_soutien_destin_europeen_Georgie",
+  "argumentsPour": [
+    {
+      "auteur": "Constance Le Grip (Ensemble pour la République, rapporteure)",
+      "resume": "Il faut se tenir aux côtés des Géorgiens qui refusent que leur pays bascule dans l'orbite russe ; le texte n'appelle pas à accélérer l'adhésion.",
+      "citation": "Pour les Géorgiens, il importe de savoir qu’ils sont entendus, compris et qu’ils ont droit, comme les autres peuples, au libre choix de leur destin.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-lundi-11-mai-2026",
+      "date": "2026-05-11"
+    },
+    {
+      "auteur": "Alice Rufo (ministre déléguée, gouvernement)",
+      "resume": "Le recul démocratique a gelé l'adhésion, mais la porte de l'Union reste ouverte si la Géorgie reprend ce chemin.",
+      "citation": "La porte de l’Union européenne reste ouverte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-lundi-11-mai-2026",
+      "date": "2026-05-11"
+    },
+    {
+      "auteur": "Pierre Pribetich (Socialistes)",
+      "resume": "Le choix européen est porté par la population : 85 % des Géorgiens soutiennent l'intégration européenne.",
+      "citation": "Surtout, ce choix européen est porté par la population elle-même : 85 % des Géorgiens soutiennent l’intégration européenne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-lundi-11-mai-2026",
+      "date": "2026-05-11"
+    },
+    {
+      "auteur": "Nathalie Coggia (Ensemble pour la République)",
+      "resume": "La dérive géorgienne s'inscrit dans la stratégie russe de contrôle de son voisinage.",
+      "citation": "Depuis lors, la répression s’est intensifiée : arrestations arbitraires d’opposants et de manifestants, pressions sur les médias indépendants, gel des comptes d’ONG, restrictions à la liberté d’expression et de manifestation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-lundi-11-mai-2026",
+      "date": "2026-05-11"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Marine Hamelet (Rassemblement national)",
+      "resume": "Le RN dénonce une ingérence de Bruxelles et refuse tout nouvel élargissement de l'Union.",
+      "citation": "Le Rassemblement national est, et restera, opposé à tout nouvel élargissement de l’Union européenne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-lundi-11-mai-2026",
+      "date": "2026-05-11"
+    },
+    {
+      "auteur": "Nadège Abomangoli (La France insoumise)",
+      "resume": "LFI soutient les peuples en lutte mais voit dans le texte une instrumentalisation et une logique de tension avec la Russie sans plan.",
+      "citation": "Il appartient au peuple géorgien de décider de son destin, avec ou sans nous.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-lundi-11-mai-2026",
+      "date": "2026-05-11"
+    },
+    {
+      "auteur": "Maxime Michelet (Union des droites pour la République)",
+      "resume": "L'UDR refuse la « logique infinie de l'élargissement », rejetée selon lui par le « non » de 2005.",
+      "citation": "Le groupe Union des droites pour la République ne saurait donc souscrire à la logique infinie de l’élargissement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-lundi-11-mai-2026",
+      "date": "2026-05-11"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LFI a voté contre (0 pour / 10 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. Le groupe GDR n'a pas pris part au vote, bien que son oratrice (Soumya Bourouaha) ait jugé les dérives « extrêmement préoccupantes » : pas de proxy de vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°6525) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté pour (6 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°6525) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "vote_pe",
+      "detail": "Eurodéputé : vote pour le rapport du Parlement européen sur la Géorgie du 9 juillet 2025 (A10-0110/2025), qui dénonce le recul démocratique et soutient la perspective européenne du pays ; il avait aussi voté pour la résolution du 9 octobre 2024 sur le recul démocratique en Géorgie.",
+      "argument": null,
+      "citation": null,
+      "url": "https://howtheyvote.eu/votes/177786",
+      "date": "2025-07-09"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député (président du groupe EPR), n'a pas pris part au vote (scrutin n°6525) ; aucune déclaration retrouvée. Pour information, son groupe EPR, auteur du texte, a voté pour (34 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire (maire du Havre, président d'Horizons) ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (5 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, pas de vote sur cette résolution ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (6 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (6 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée ; pas de proxy fiable (Nouvelle Énergie n'a pas de groupe).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°6525) ; aucune déclaration retrouvée. Pour information, son groupe RN a voté contre (0 pour / 13 contre / 1 abst.) et Jordan Bardella a voté contre le rapport du Parlement européen sur la Géorgie du 9 juillet 2025.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Debout la France n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6525",
+      "date": "2026-05-11"
+    }
+  },
+  "alertes": [
+    "Résolution européenne sans valeur contraignante ; les votes contre (RN, UDR, LFI) visent surtout la perspective d'élargissement et l'usage politique du texte, pas un soutien au gouvernement géorgien.",
+    "Nadège Abomangoli (LFI) met en cause en séance le rôle passé de Raphaël Glucksmann en Géorgie (2009-2012) : affirmation d'un adversaire, non utilisée.",
+    "Faible participation (97 votants) : aucun candidat suivi n'a pris part au vote.",
+    "Glucksmann : vote PE sur un texte distinct (rapport annuel sur la Géorgie), antérieur au scrutin de l'Assemblée."
+  ]
+}

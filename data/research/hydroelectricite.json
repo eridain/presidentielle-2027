@@ -1,0 +1,213 @@
+{
+  "id": "hydroelectricite",
+  "titre": "Barrages : sortie du régime des concessions",
+  "question": "Faut-il sortir les barrages hydroélectriques du régime des concessions (mise en concurrence exigée par Bruxelles) au profit d'un régime d'autorisation ?",
+  "ouiSignifie": "pour",
+  "contexte": "Depuis plus de dix ans, la Commission européenne reproche à la France de ne pas remettre en concurrence les concessions hydroélectriques échues et la position dominante d'EDF, ce qui bloquait les investissements dans les barrages. Traduisant l'accord de principe conclu en août 2025 avec la Commission, la proposition de loi (rapporteure Marie-Noëlle Battistel, PS) fait passer les grandes installations (plus de 4,5 MW) du régime de la concession à un régime d'autorisation : les exploitants actuels, au premier rang desquels EDF, reçoivent un droit réel de soixante-dix ans, l'État restant propriétaire des ouvrages. En contrepartie, EDF doit mettre aux enchères, pendant vingt ans et sous le contrôle de la CRE, des capacités hydroélectriques « virtuelles » (environ 6 GW). Adopté par le Sénat le 13 avril 2026, le texte de la commission mixte paritaire a été adopté par l'Assemblée le 17 juin 2026 (290 pour, 59 contre, 116 abstentions) ; selon Vie publique, il est devenu la loi du 29 juin 2026.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 29 juin 2026 sur l'hydroélectricité (barrages, centrales hydrauliques)",
+      "url": "https://www.vie-publique.fr/loi/301971-hydroelectricite-barrages-centrales-hydrauliques-loi-29-juin-2026"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 17 juin 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274"
+    },
+    {
+      "titre": "Sénat – compte rendu de la séance du 13 avril 2026",
+      "url": "https://senat.fr/seances/s202604/s20260413/s20260413015.html"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/relancer_investissements_secteur_hydroelectricite_contribuer_transition_energetique_17e"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°7409",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/relancer_investissements_secteur_hydroelectricite_contribuer_transition_energetique_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Marie-Noëlle Battistel (Socialistes, rapporteure)",
+      "resume": "Le texte lève les précontentieux européens sans mise en concurrence ni privatisation, l'État restant propriétaire, et relance les investissements.",
+      "citation": "Il n’y a donc pas de mise en concurrence, aucune privatisation : la propriété des ouvrages reste à l’État français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274",
+      "date": "2026-06-17"
+    },
+    {
+      "auteur": "Vincent Rolland (Droite républicaine)",
+      "resume": "Le texte referme les précontentieux qui paralysaient le parc hydroélectrique depuis dix ans.",
+      "citation": "Il s’agit de conforter l’hydroélectricité française et de refermer enfin les précontentieux européens sur la mise en concurrence des concessions et sur la position d’EDF qui paralysaient notre parc depuis plus de dix ans.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274",
+      "date": "2026-06-17"
+    },
+    {
+      "auteur": "Julien Brugerolles (Gauche démocrate et républicaine)",
+      "resume": "Le régime d'autorisation est une solution de repli imparfaite mais maintient les opérateurs historiques à la tête des grands ouvrages.",
+      "citation": "C’est déjà beaucoup, me direz-vous, et c’est pourquoi nous voterons en faveur du texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274",
+      "date": "2026-06-17"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Matthias Tavel (La France insoumise)",
+      "resume": "LFI défendait une « quasi-régie » publique ; le texte céderait aux exigences de Bruxelles et obligerait EDF à vendre une part de sa production aux enchères.",
+      "citation": "le texte donne raison aux eurocrates contre le service public.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274",
+      "date": "2026-06-17"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Lionel Tivoli (Rassemblement national)",
+      "resume": "Le RN, favorable à la sortie des concessions, refuse l'article 12 (enchères de capacités d'EDF imposées par la Commission européenne).",
+      "citation": "Notre énergie hydraulique doit être gérée selon les intérêts de la nation, et non selon les exigences d’un marché conçu à Bruxelles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274",
+      "date": "2026-06-17"
+    },
+    {
+      "auteur": "Julie Laernoes (Écologiste et social)",
+      "resume": "Les écologistes craignent la pression des enchères sur EDF et la cession de barrages pour renflouer l'entreprise.",
+      "citation": "Nous ne voulons pas que certains barrages soient cédés pour renflouer EDF et lui permettre de stabiliser une situation financière extrêmement risquée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274",
+      "date": "2026-06-17"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NFP a voté contre (0-59).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR a voté pour (16-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°7409) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste et social s'est abstenu (0-0-32).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social s'est abstenu (0-0-32).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°7409) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste et social s'est abstenu (0-0-32).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée, dont est issue la rapporteure, a voté pour (60-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°7409 du 17 juin 2026), président du groupe EPR ; pas d'intervention personnelle, argument = position du groupe (Jean-Luc Fugit).",
+      "argument": "Le groupe soutient la fin de l'insécurité juridique avec la Commission européenne pour relancer les investissements.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274",
+      "date": "2026-06-17"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons & indépendants a voté pour (34-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président des Républicains ; aucun scrutin public nominatif retrouvé au Sénat sur ce texte (adoption le 13 avril 2026 sans scrutin public identifié). PROXY : le groupe Droite républicaine a voté pour (36-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (36-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de Nouvelle Énergie ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (36-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°7409), présidente du groupe RN ; pas d'intervention personnelle, argument = explication du groupe (Lionel Tivoli).",
+      "argument": "Le groupe, favorable à la sortie des concessions, refuse les enchères de capacités d'EDF imposées par Bruxelles.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N274",
+      "date": "2026-06-17"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée ; aucun proxy de groupe pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7409",
+      "date": "2026-06-17"
+    }
+  },
+  "alertes": [
+    "Ruffin, Batho : n'ont pas pris part au vote ; position inconnu (indication du vote de leur groupe à titre indicatif seulement).",
+    "La date de promulgation (29 juin 2026) provient de l'adresse et du titre de la fiche Vie publique ; le détail de l'adoption définitive par le Sénat n'a pas été vérifié.",
+    "Le RN s'abstient alors qu'il défendait de longue date la sortie des concessions : son abstention vise l'article 12 (enchères de capacités virtuelles d'EDF), pas le régime d'autorisation.",
+    "Arguments issus de la discussion générale sur le texte de CMP (pas d'explications de vote séparées)."
+  ]
+}

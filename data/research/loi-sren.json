@@ -1,0 +1,222 @@
+{
+  "id": "loi-sren",
+  "titre": "Loi SREN de régulation de l'espace numérique (2024)",
+  "question": "Faut-il adopter la loi de régulation de l'espace numérique (vérification d'âge sur les sites pornographiques, filtre anti-arnaques, bannissement des cyberharceleurs) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi visant à sécuriser et réguler l'espace numérique (SREN) a été présenté en Conseil des ministres le 10 mai 2023 par Bruno Le Maire et Jean-Noël Barrot, en procédure accélérée. Il adapte le droit français aux règlements européens sur les services et les marchés numériques (DSA et DMA) et prévoit notamment un référentiel de l'Arcom fixant les exigences techniques de vérification de l'âge sur les sites pornographiques, un filtre anti-arnaque avertissant les internautes avant l'accès à un site malveillant, et une peine de bannissement des réseaux sociaux pour les personnes condamnées pour cyberharcèlement ou haine en ligne. Adopté par le Sénat le 5 juillet 2023 puis par l'Assemblée le 17 octobre 2023 (360 pour, 77 contre, 124 abstentions), le texte de la commission mixte paritaire a été adopté par le Sénat le 2 avril 2024 et par l'Assemblée le 10 avril 2024 (134 pour, 75 contre). Le 17 mai 2024, le Conseil constitutionnel a censuré cinq articles, dont le délit d'outrage en ligne ; loi du 21 mai 2024.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 21 mai 2024 visant à sécuriser et à réguler l'espace numérique",
+      "url": "https://www.vie-publique.fr/loi/289345-loi-sren-du-21-mai-2024-securiser-et-reguler-lespace-numerique"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2024-866 DC du 17 mai 2024",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2024/2024866DC.htm"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 10 avril 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N176"
+    },
+    {
+      "titre": "Assemblée nationale – Scrutin n°2796 (première lecture, 17 octobre 2023)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2796"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3668",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N47884",
+  "argumentsPour": [
+    {
+      "auteur": "Marina Ferrari (secrétaire d'État chargée du numérique, gouvernement)",
+      "resume": "Le texte donne les moyens de peser face aux grandes plateformes, de protéger les enfants de la pornographie et de sanctionner les cyberharceleurs par le bannissement.",
+      "citation": "Le renforcement de notre arsenal judiciaire permettra aux magistrats de prononcer désormais une peine de bannissement numérique, en cas de condamnation pour haine en ligne, cyberharcèlement ou pour d'autres infractions graves.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N176",
+      "date": "2024-04-10"
+    },
+    {
+      "auteur": "Victor Habert-Dassault (Les Républicains)",
+      "resume": "Le texte met la France en conformité avec le droit européen, lutte contre les escroqueries et renforce la souveraineté numérique.",
+      "citation": "Il répond également aux préoccupations réelles de nos citoyens, non seulement en luttant contre les escroqueries, mais aussi en renforçant la souveraineté numérique de notre pays sur ses données les plus sensibles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N176",
+      "date": "2024-04-10"
+    },
+    {
+      "auteur": "Erwan Balanant (Démocrate)",
+      "resume": "Les efforts des plateformes sont insuffisants : la puissance publique doit intervenir pour protéger les utilisateurs, même si certaines dispositions de la CMP posent problème.",
+      "citation": "Il importait donc que la puissance publique intervienne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N176",
+      "date": "2024-04-10"
+    },
+    {
+      "auteur": "Michel Castellani (LIOT)",
+      "resume": "Internet est devenu un accélérateur de violence et de harcèlement, notamment chez les jeunes ; une régulation s'impose dans un cadre respectueux des libertés.",
+      "citation": "Internet est devenu non seulement un lieu de violence mais aussi un accélérateur des incivilités de notre société.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N176",
+      "date": "2024-04-10"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Aurélien Lopez-Liguori (Rassemblement national)",
+      "resume": "Le texte s'attaque à la liberté d'expression et à l'anonymat (outrage en ligne, bannissement) sans renforcer la souveraineté numérique ; il faut plutôt plus de moyens pour la police.",
+      "citation": "Par ce texte, vous inventez un dispositif qui créera une chape de plomb sur la liberté d'expression.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N176",
+      "date": "2024-04-10"
+    },
+    {
+      "auteur": "Sophia Chikirou (La France insoumise)",
+      "resume": "Régulation verticale et brutale, dangereuse pour les droits fondamentaux, et complaisante envers les lobbys de la pornographie et des jeux en ligne.",
+      "citation": "Ce qui me désole, c'est que ce texte reflète un modèle de régulation d'internet vertical, brutal et inadapté.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N176",
+      "date": "2024-04-10"
+    },
+    {
+      "auteur": "Hervé Saulignac (Socialistes)",
+      "resume": "Les socialistes avaient voté le texte en première lecture, mais la CMP a réintroduit le délit d'outrage en ligne et confié à l'Arcom un contrôle de l'âge jugé irréalisable.",
+      "citation": "À l'issue de la commission mixte paritaire, c'est surtout une occasion manquée, et même gâchée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N176",
+      "date": "2024-04-10"
+    },
+    {
+      "auteur": "Aurélien Taché (Écologiste)",
+      "resume": "La vérification d'âge par référentiel technique est inapplicable, potentiellement liberticide et risquée pour les données personnelles.",
+      "citation": "vous avez conservé l'idée farfelue et potentiellement liberticide d'un référentiel technique afin de vérifier l'âge des visiteurs de sites pornographiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N176",
+      "date": "2024-04-10"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2023-2024 ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES a voté contre en première lecture (75 contre) et sur le texte final (20 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3668",
+      "date": "2024-04-10"
+    },
+    "roussel": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Absent du vote final ; s'est abstenu en première lecture (scrutin n°2796 du 17 octobre 2023), comme tout le groupe GDR ; pas d'intervention retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2796",
+      "date": "2023-10-17"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Absent du vote final ; a voté contre en première lecture (scrutin n°2796) ; pas d'intervention retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2796",
+      "date": "2023-10-17"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste s'est abstenu en première lecture puis a voté contre le texte final (5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3668",
+      "date": "2025-04-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absente des scrutins de première lecture et de CMP ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3668",
+      "date": "2025-04-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour en première lecture (31 pour) puis contre le texte de CMP (7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3668",
+      "date": "2025-04-07"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre lors de l'adoption définitive : projet de loi du gouvernement, défendu en séance par sa secrétaire d'État au numérique ; aucune déclaration personnelle retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N176",
+      "date": "2025-04-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (30 pour en première lecture, 15 pour sur le texte final).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3668",
+      "date": "2025-04-07"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat : a voté pour le texte de la commission mixte paritaire (scrutin Sénat n°169 du 2 avril 2024).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-169.html",
+      "date": "2024-04-02"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY indicatif : le groupe LR a voté pour (61 pour en première lecture, 12 pour sur le texte final).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3668",
+      "date": "2025-04-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3668",
+      "date": "2025-04-07"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Absente du vote final ; s'est abstenue en première lecture (scrutin n°2796), comme le groupe RN, qui a ensuite voté contre le texte de CMP (41 contre) ; pas d'intervention retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2796",
+      "date": "2023-10-17"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3668",
+      "date": "2025-04-07"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre le texte de la CMP (scrutin n°3668 du 10 avril 2024), après un vote contre en première lecture (n°2796) ; pas d'intervention retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3668",
+      "date": "2025-04-07"
+    }
+  },
+  "alertes": [
+    "Les positions ont évolué entre la première lecture (360 pour, socialistes pour, RN, écologistes et GDR abstentionnistes) et le texte final (RN, socialistes et écologistes contre), notamment à cause de la réintroduction en CMP du délit d'outrage en ligne, ensuite censuré par le Conseil constitutionnel.",
+    "Le texte est un ensemble large (DSA/DMA, cloud, locations touristiques, jeux à objets numériques monétisables) : la question n'en retient que trois mesures emblématiques.",
+    "Roussel, Ruffin et Le Pen sont positionnés d'après leur vote de première lecture, absents du vote final.",
+    "Attal : position de son gouvernement, sans déclaration personnelle retrouvée."
+  ]
+}

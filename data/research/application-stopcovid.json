@@ -1,0 +1,222 @@
+{
+  "id": "application-stopcovid",
+  "titre": "Application de traçage StopCovid (2020)",
+  "question": "Faut-il déployer l'application de traçage des contacts StopCovid ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le 27 mai 2020, le gouvernement a soumis à l'Assemblée une déclaration sur les « innovations numériques dans la lutte contre l'épidémie de covid-19 », centrée sur l'application StopCovid, suivie d'un vote en application de l'article 50-1 de la Constitution (vote politique, sans valeur législative). L'application, à installer volontairement, utilise le Bluetooth pour prévenir les personnes ayant croisé un utilisateur testé positif, avec des pseudonymes temporaires, sans géolocalisation, et pour une durée limitée ; la CNIL avait rendu un avis favorable. L'Assemblée a approuvé la déclaration par 338 voix contre 215 et 21 abstentions ; le Sénat l'a aussi approuvée le même jour. StopCovid a été lancée début juin 2020, puis rebaptisée « TousAntiCovid ».",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 27 mai 2020 (déclaration et débat)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220"
+    },
+    {
+      "titre": "Assemblée nationale – Analyse du scrutin n°2746",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2746"
+    },
+    {
+      "titre": "Sénat – Scrutin n°105 du 27 mai 2020 sur la déclaration du Gouvernement",
+      "url": "https://www.senat.fr/scrutin-public/2019/scr2019-105.html"
+    },
+    {
+      "titre": "L'Express – L'application « TousAntiCovid », de ses débuts difficiles à son utilisation quotidienne",
+      "url": "https://www.lexpress.fr/societe/l-application-de-tracage-stopcovid_2126855.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2746",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2746",
+  "argumentsPour": [
+    {
+      "auteur": "Nicole Belloubet (garde des Sceaux, gouvernement)",
+      "resume": "L'application respecte le droit des données personnelles (avis favorable de la CNIL), repose sur le volontariat et des pseudonymes, sans géolocalisation, et reste temporaire.",
+      "citation": "Cette application satisfait aux exigences fixées par notre droit et offre les garanties nécessaires au respect de la vie privée et des libertés individuelles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    },
+    {
+      "auteur": "Olivier Véran (ministre de la Santé, gouvernement)",
+      "resume": "Près de la moitié des transmissions viennent de personnes sans symptômes ; prévenir plus tôt les contacts permet de gagner un à deux jours et d'éviter des contaminations.",
+      "citation": "Il n'y a pas de raison de se priver d'un outil qui peut fonctionner.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    },
+    {
+      "auteur": "Marie Lebec (La République en marche)",
+      "resume": "Après auditions et débats, la majorité estime que les garanties juridiques, techniques et éthiques répondent aux inquiétudes ; l'application est utile au déconfinement.",
+      "citation": "Loin des instrumentalisations et caricatures orwelliennes, nous devons rassurer nos concitoyens sur l'utilité sanitaire de ces technologies",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    },
+    {
+      "auteur": "Laure de La Raudière (Agir ensemble)",
+      "resume": "L'application n'est qu'un outil complémentaire des brigades sanitaires dans une stratégie globale pour casser les chaînes de contamination.",
+      "citation": "L'application ne constitue donc pas l'alpha et l'oméga du déconfinement ; elle n'est qu'un élément de cette stratégie globale",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Damien Abad (Les Républicains)",
+      "resume": "L'application ouvre la voie à une société de surveillance et son efficacité n'est pas démontrée ; pour LR, le compte n'y est pas.",
+      "citation": "Ne faisons pas un pas de plus, même prudent, vers une société orwellienne qui pourrait se révéler absolument cauchemardesque.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    },
+    {
+      "auteur": "Stéphane Peu (Gauche démocrate et républicaine)",
+      "resume": "Un pseudonyme ne garantit pas l'anonymat ; les données pourraient être recoupées, piratées ou captées par les géants du numérique.",
+      "citation": "Vous prétendez que les données des usagers resteront anonymes mais un pseudonyme ne préserve pas l'anonymat.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    },
+    {
+      "auteur": "Laurence Dumont (Socialistes)",
+      "resume": "Les Français ont besoin de tests, de masques et de moyens humains de suivi plutôt que d'une application qui pourrait créer un faux sentiment de sécurité.",
+      "citation": "Ils ont besoin de tests, de masques, de gel, de médicaments, d'aides à l'existence, à la reprise de leur emploi et de leur entreprise",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    },
+    {
+      "auteur": "Sacha Houlié (La République en marche, à titre personnel)",
+      "resume": "L'application serait imprécise et inefficace, menacerait le consentement et pourrait être réutilisée après la crise pour d'autres usages.",
+      "citation": "J'ai confiance dans ce gouvernement pour apporter des garanties, mais je n'ai pas de confiance aveugle dans l'avenir et dans ceux qui nous succéderont.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2746 du 27 mai 2020) ; intervention en séance au nom du groupe La France insoumise.",
+      "argument": "Il inscrit l'application dans une série de lois qu'il juge liberticides et la juge dangereuse, notamment parce qu'elle recourt au CAPTCHA de Google, firme soumise aux autorités américaines.",
+      "citation": "Je juge que ce système est dangereux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2746) ; pas d'intervention personnelle, argument = intervention du groupe GDR (Stéphane Peu).",
+      "argument": "Groupe GDR : un pseudonyme ne garantit pas l'anonymat ; risque de recoupement, de piratage et de captation des données.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2746) ; pas d'intervention personnelle sur StopCovid, argument = intervention du groupe La France insoumise (Jean-Luc Mélenchon).",
+      "argument": "Groupe FI : dispositif jugé dangereux et inscrit dans une suite de lois liberticides.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; aucun groupe de son parti à l'Assemblée à cette date : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2746",
+      "date": "2020-05-27"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2746, non-inscrite) ; aucune intervention ni déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2746",
+      "date": "2020-05-27"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 29 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2746",
+      "date": "2020-05-27"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État dans le gouvernement Philippe, auteur de la déclaration soumise au vote ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre ; son gouvernement a fait la déclaration et demandé le vote (article 50-1) ; pas d'intervention personnelle dans ce débat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat ; a voté pour la déclaration du Gouvernement au Sénat (scrutin n°105 du 27 mai 2020), comme 131 des 144 sénateurs LR.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2019/scr2019-105.html",
+      "date": "2020-05-27"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY indicatif : le groupe LR de l'Assemblée a voté contre (3 pour / 98 contre / 2 abst.), mais les sénateurs LR ont voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2746",
+      "date": "2020-05-27"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (3 pour / 98 contre / 2 abst.), mais les sénateurs LR ont voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2746",
+      "date": "2020-05-27"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2746, non-inscrite) ; pas d'intervention dans ce débat ni déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2746",
+      "date": "2020-05-27"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2020 (Reconquête fondé en 2021) ; aucune déclaration vérifiée retrouvée, aucun proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2746",
+      "date": "2020-05-27"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2746) ; intervention en séance le 27 mai 2020.",
+      "argument": "Application jugée inutile (taux d'équipement en smartphones, refus prévisible) et dangereuse : fausse sécurité, stigmatisation des non-utilisateurs et risque qu'elle devienne un jour obligatoire.",
+      "citation": "elle sera d'abord inutile, ensuite dangereuse, et vous le savez très bien.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N220",
+      "date": "2020-05-27"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur une DÉCLARATION du Gouvernement (article 50-1 de la Constitution), sans valeur législative : l'application pouvait être déployée par décret sans vote ; le scrutin a une portée politique.",
+    "Les clivages ne suivent pas exactement les groupes : 5 députés LaREM ont voté contre (Sacha Houlié s'est exprimé contre en séance) et le groupe LR de l'Assemblée a voté contre alors que les sénateurs LR, dont Retailleau, ont majoritairement voté pour.",
+    "Roussel, Ruffin : pas d'intervention personnelle sur StopCovid dans la séance ; argument = celui de leur groupe. Ruffin est intervenu le même jour sur un autre texte (étiquetage alimentaire).",
+    "Le lancement début juin 2020 et le changement de nom en TousAntiCovid sont attestés par une source de presse (L'Express)."
+  ]
+}

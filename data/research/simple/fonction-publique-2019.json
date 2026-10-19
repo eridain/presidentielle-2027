@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il permettre à l'administration d'embaucher davantage de contractuels et créer une rupture conventionnelle pour les fonctionnaires ?",
+  "enBref": "L'État, les collectivités et les hôpitaux peuvent recruter plus souvent des agents sous contrat, et non sous statut de fonctionnaire. Un agent et son employeur peuvent se séparer d'un commun accord, avec une indemnité et le chômage. Deux instances de dialogue social fusionnent.",
+  "pourquoiPour": "Pour ses défenseurs, l'administration gagne en souplesse pour recruter des compétences et s'adapter. Le statut doit évoluer avec les besoins du pays.",
+  "pourquoiContre": "Pour ses opposants, le statut et le concours garantissent un service public neutre et égal pour tous. Multiplier les contrats fragiliserait les agents face aux pressions.",
+  "ceQuiSestPasse": "Adoptée le 18 juillet 2019 puis jugée conforme à la Constitution, la loi a été promulguée le 6 août 2019.",
+  "lexique": [
+    {
+      "terme": "Contractuel",
+      "definition": "Agent public embauché par contrat, sans le statut de fonctionnaire."
+    },
+    {
+      "terme": "Rupture conventionnelle",
+      "definition": "Fin du contrat de travail décidée d'un commun accord, avec indemnité."
+    }
+  ],
+  "id": "fonction-publique-2019"
+}

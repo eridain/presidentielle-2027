@@ -1,0 +1,22 @@
+{
+  "id": "legitime-defense-policiers",
+  "questionSimple": "Faut-il présumer que les policiers et gendarmes qui utilisent leur arme ont respecté la loi, sauf preuve contraire ?",
+  "enBref": "Si un policier ou un gendarme utilise son arme, on supposerait d'abord qu'il l'a fait dans un cas autorisé, nécessaire et proportionné. Cette présomption tombe dès qu'une preuve montre le contraire. Les policiers municipaux ne sont pas concernés.",
+  "pourquoiPour": "Les agents qui tirent dans le cadre légal sont presque toujours soupçonnés, alors que les violences contre eux augmentent. Le texte ne crée pas d'immunité : il cesse de traiter le tir comme suspect d'avance.",
+  "pourquoiContre": "Le texte renverse la charge de la preuve : la justice devrait prouver que le tir était illégal. Les enquêtes immédiates et les recours des familles de victimes deviendraient plus difficiles.",
+  "ceQuiSestPasse": "Adopté en première lecture par les députés le 7 juillet 2026 (313 pour, 199 contre), le texte n'avait pas encore été examiné par le Sénat.",
+  "lexique": [
+    {
+      "terme": "Présomption",
+      "definition": "Ce qu'on tient pour vrai tant que le contraire n'est pas prouvé."
+    },
+    {
+      "terme": "Charge de la preuve",
+      "definition": "Obligation de prouver ce qu'on affirme ; ici, qui doit démontrer que le tir était légal ou non."
+    },
+    {
+      "terme": "Première lecture",
+      "definition": "Premier vote d'une assemblée sur un texte, avant son examen par l'autre assemblée."
+    }
+  ]
+}

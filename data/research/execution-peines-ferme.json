@@ -1,0 +1,242 @@
+{
+  "id": "execution-peines-ferme",
+  "titre": "Exécution des peines de prison ferme",
+  "question": "Faut-il restreindre les aménagements des peines de prison ferme pour qu'elles soient effectivement exécutées ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposée le 15 octobre 2024 par Loïc Kervran et le groupe Horizons & indépendants, la proposition de loi visant à faire exécuter les peines d'emprisonnement ferme revient sur le « bloc-peine » de la loi Belloubet de 2019, applicable depuis 2020, qui favorise l'aménagement (bracelet électronique, semi-liberté, placement à l'extérieur) des peines de prison d'un an ou moins. Elle rétablit la possibilité de prononcer des peines de prison ferme de moins d'un mois, supprime le principe de l'emprisonnement ferme en « dernier recours » et remplace l'incitation à aménager les peines de moins d'un an par une simple faculté du juge pour les peines jusqu'à deux ans ; elle supprime aussi la libération sous contrainte automatique. L'Assemblée l'a adoptée en première lecture le 3 avril 2025, lors de la journée réservée au groupe Horizons (63 pour, 42 contre, 2 abstentions) ; le Sénat l'a adoptée avec modifications le 1er juillet 2025. Au dernier état consulté du dossier, le texte attendait une deuxième lecture à l'Assemblée et n'était pas promulgué.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Exécution des courtes peines de prison : proposition de loi Horizons",
+      "url": "https://www.vie-publique.fr/loi/299287-execution-des-courtes-peines-de-prison-proposition-de-loi-horizons"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/execution_peines_emprisonnement_ferme"
+    },
+    {
+      "titre": "Sénat – Dossier législatif ppl24-519",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-519.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 3 avril 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N159"
+    },
+    {
+      "titre": "TF1 Info – Les courtes peines de prison bientôt exécutées ? (avril 2026)",
+      "url": "https://tf1info.fr/politique/les-courtes-peines-de-prison-peine-bientot-executees-les-deputes-vont-se-prononcer-2434846.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/execution_peines_emprisonnement_ferme",
+  "argumentsPour": [
+    {
+      "auteur": "Anne Le Hénanff (Horizons & indépendants)",
+      "resume": "La politique pénale de limitation des courtes peines n'a fait baisser ni la récidive ni la réitération ; le texte rend de la liberté aux magistrats et garantit l'effectivité des peines.",
+      "citation": "Ce texte constitue un nécessaire premier pas pour rendre de la liberté aux magistrats et garantir l’effectivité des peines prononcées.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N160",
+      "date": "2025-04-03"
+    },
+    {
+      "auteur": "Éric Ciotti (UDR)",
+      "resume": "Les aménagements quasi automatiques ont servi à réguler la population carcérale faute de places de prison, au détriment de la dissuasion.",
+      "citation": "Il y a une immense hypocrisie derrière les aménagements de peine.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N160",
+      "date": "2025-04-03"
+    },
+    {
+      "auteur": "Nicolas Ray (Droite républicaine)",
+      "resume": "Le texte supprime l'automaticité de l'aménagement des peines de moins d'un an et réintroduit les peines de moins d'un mois, tout en maintenant des aménagements motivés.",
+      "citation": "Il supprime d’abord une automaticité aberrante qui obligeait les juges à aménager les peines inférieures à un an",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N160",
+      "date": "2025-04-03"
+    },
+    {
+      "auteur": "Anne Bergantz (Les Démocrates)",
+      "resume": "Le texte promeut l'individualisation des peines ; les courtes peines ne sont qu'une réponse possible, non obligatoire.",
+      "citation": "Je rappelle que cette mesure ne vise pas tous les condamnés et qu’elle n’est pas obligatoire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N160",
+      "date": "2025-04-03"
+    },
+    {
+      "auteur": "Gérald Darmanin (garde des Sceaux, gouvernement)",
+      "resume": "L'aménagement obligatoire a des effets pervers : les juges alourdissent les peines pour y échapper ; il faut y revenir, tout en tenant compte de la surpopulation carcérale.",
+      "citation": "il faut donc revenir sur les aménagements des courtes et très courtes peines, comme le propose votre texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N159",
+      "date": "2025-04-03"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "Le texte ignore la surpopulation des maisons d'arrêt et renoue avec la logique du « tout-carcéral », au détriment de la réinsertion.",
+      "citation": "votre texte renoue non avec la logique du tout-répressif, mais avec celle du tout-carcéral",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N160",
+      "date": "2025-04-03"
+    },
+    {
+      "auteur": "Jean-François Coulomme (La France insoumise)",
+      "resume": "Les courtes incarcérations favorisent la récidive ; le texte entretient de fausses solutions répressives.",
+      "citation": "L’incarcération courte est criminogène ; elle est pire que l’incarcération de moyenne ou longue durée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N160",
+      "date": "2025-04-03"
+    },
+    {
+      "auteur": "Hervé Saulignac (Socialistes)",
+      "resume": "Les personnels pénitentiaires et des Spip attendaient un débat sur les moyens ; l'aménagement des peines a des vertus reconnues par les forces de l'ordre.",
+      "citation": "elles savent que ces peines peuvent être aménagées et que cet aménagement a des vertus.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N160",
+      "date": "2025-04-03"
+    },
+    {
+      "auteur": "Léa Balage El Mariky (Écologiste et social)",
+      "resume": "Aménager une peine n'est pas renoncer à l'exécuter ; le texte ne mise que sur un emprisonnement indigne qui ne lutte pas contre la récidive.",
+      "citation": "l’idée qu’aménager une peine reviendrait à ne pas la faire exécuter. C’est un contresens",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N160",
+      "date": "2025-04-03"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Pierre Cazeneuve (Ensemble pour la République)",
+      "resume": "Faute d'une rédaction évitant d'inverser le mouvement d'aménagement des peines, la majorité de son groupe annonce l'abstention, certains votant pour.",
+      "citation": "Pour cette raison, la majorité du groupe Ensemble pour la République s’abstiendra –⁠ mais certains voteront pour.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N160",
+      "date": "2025-04-03"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 22 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°1262) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel il est apparenté, a voté contre (0 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°1262) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social a voté contre (0 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 8 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°1262) ; aucune déclaration retrouvée. À titre indicatif, le groupe EPR qu'il préside a voté majoritairement pour parmi les présents (4 pour / 1 contre / 2 abst.), alors que son orateur annonçait une abstention majoritaire.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons & indépendants, auteur du texte, a voté pour (29 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ministre d'État, ministre de l'Intérieur du gouvernement Bayrou, sans vote sur ce texte ; aucune déclaration personnelle retrouvée. Le garde des Sceaux Gérald Darmanin a soutenu l'objectif du texte tout en mettant en garde contre une application immédiate, faute de places de prison.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N159",
+      "date": "2025-04-03"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (4 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour (4 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°1262) ; aucune déclaration retrouvée. À titre indicatif, le groupe RN, qu'elle préside, a voté pour (14 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans mandat national ; aucune déclaration retrouvée ; pas de député Reconquête. À titre indicatif, le groupe UDR a voté pour (4 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée ; pas de groupe de son parti à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1262",
+      "date": "2025-04-03"
+    }
+  },
+  "alertes": [
+    "Vote de première lecture en journée réservée (niche Horizons), à faible participation (107 votants) : Ruffin, Batho, Attal et Le Pen n'ont pas pris part au vote ; positions laissées « inconnu ».",
+    "Le texte n'était pas définitivement adopté au dernier état consulté. Le Sénat l'a modifié le 1er juillet 2025 (scrutin n°334). Inscrite en septième position de la niche Horizons du 9 avril 2026 (TF1 Info), la deuxième lecture n'a pas été atteinte : aucune mention dans le compte rendu de la troisième séance.",
+    "Groupe EPR : son orateur Pierre Cazeneuve a annoncé une abstention majoritaire, mais les votants présents du groupe ont voté à 4 pour, 1 contre et 2 abstentions.",
+    "Retailleau : aucune déclaration retrouvée ; la position du gouvernement était nuancée : Gérald Darmanin a salué l'initiative et jugé qu'il fallait « revenir sur les aménagements des courtes et très courtes peines », mais a prévenu que l'application immédiate aggraverait la surpopulation carcérale.",
+    "Le texte a été modifié par le Sénat (suppression de la motivation spéciale des aménagements notamment) : la question porte sur la version de l'Assemblée."
+  ]
+}

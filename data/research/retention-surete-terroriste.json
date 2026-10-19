@@ -1,0 +1,223 @@
+{
+  "id": "retention-surete-terroriste",
+  "titre": "Rétention prolongée et rétention de sûreté terroriste",
+  "question": "Faut-il allonger la rétention administrative des étrangers condamnés jugés dangereux et permettre de placer en centre de sûreté, après leur peine, des condamnés pour terrorisme encore dangereux ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi de Charles Rodwell (EPR) et Michel Barnier, déposée après le meurtre de Philippine en septembre 2024, comporte un volet antiterroriste et un volet sur l'éloignement des étrangers. Elle permet de retenir jusqu'à 210 jours en centre de rétention les étrangers condamnés pour les crimes et délits les plus graves et toujours menaçants (jusqu'à 360 ou 540 jours dans certains cas), et de placer à l'issue de leur peine, dans un centre socio-médico-judiciaire de sûreté, des condamnés pour terrorisme présentant un risque élevé de récidive ; elle prévoit aussi des injonctions d'examen psychiatrique pour des personnes radicalisées. Soutenu par le gouvernement (ministre de l'Intérieur Laurent Nuñez), le texte de la commission mixte paritaire a été adopté par le Sénat le 15 juin puis par l'Assemblée le 16 juin 2026 (345 voix contre 177). Le Conseil constitutionnel l'a déclaré conforme avec réserve (décision n° 2026-906 DC du 23 juillet 2026) et la loi a été promulguée le 27 juillet 2026.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif (étapes, décision 2026-906 DC, promulgation)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retention_admin_prevention_attentats_17e"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 16 juin 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272"
+    },
+    {
+      "titre": "Sénat – scrutin n°308 du 15 juin 2026 (texte de la CMP)",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-308.html"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°7405",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/retention_admin_prevention_attentats_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Laurent Nuñez (ministre de l'Intérieur)",
+      "resume": "Le texte comble des failles révélées par des drames : des étrangers condamnés pour crimes graves pouvaient sortir de rétention au 91e jour ; il reste respectueux de l'État de droit.",
+      "citation": "Il permet d’aboutir à un texte à la hauteur des menaces opérationnelles et respectueux de l’État de droit.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272",
+      "date": "2026-06-16"
+    },
+    {
+      "auteur": "Charles Rodwell (Ensemble pour la République, rapporteur)",
+      "resume": "Le texte, défendu en mémoire de Philippine, renforce l'arsenal antiterroriste avec une rétention de sûreté judiciaire pour les terroristes.",
+      "citation": "Oui, nous renforcerons massivement notre arsenal de lutte contre le terrorisme en créant notamment la rétention de sûreté judiciaire pour les terroristes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272",
+      "date": "2026-06-16"
+    },
+    {
+      "auteur": "Anne Bergantz (Les Démocrates)",
+      "resume": "Face à une menace terroriste élevée et changeante, il serait irresponsable de refuser d'adapter l'arsenal juridique à des difficultés bien identifiées.",
+      "citation": "Face à une menace terroriste qui demeure élevée et dont les formes évoluent constamment, il serait irresponsable de refuser, par principe, d’examiner les adaptations nécessaires de notre arsenal juridique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272",
+      "date": "2026-06-16"
+    },
+    {
+      "auteur": "Matthieu Bloch (UDR)",
+      "resume": "Des vies auraient pu être sauvées si l'éloignement et la rétention qui le précède avaient été effectifs.",
+      "citation": "Qu’on mesure l’insulte aux familles dont un proche aurait pu être sauvé si cet éloignement et la rétention qui le précède avaient pu être effectifs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272",
+      "date": "2026-06-16"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Andy Kerbrat (La France insoumise)",
+      "resume": "Allonger la rétention n'aurait pas empêché le drame invoqué ; la rétention de sûreté revient à enfermer des personnes ayant purgé leur peine.",
+      "citation": "Cet article étend la rétention de sûreté à des individus ayant purgé leur peine : c’est la prison après la prison.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272",
+      "date": "2026-06-16"
+    },
+    {
+      "auteur": "Céline Hervieu (Socialistes)",
+      "resume": "Le texte a été préparé sans étude d'impact ni concertation avec les magistrats et les professionnels de santé mentale.",
+      "citation": "Nous l’avons dit à maintes reprises, cette proposition de loi est bâclée : il n’y a ni étude d’impact ni étude de faisabilité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272",
+      "date": "2026-06-16"
+    },
+    {
+      "auteur": "Marcellin Nadeau (Gauche démocrate et républicaine)",
+      "resume": "Porter la rétention jusqu'à 540 jours ne réglera pas les difficultés de la politique migratoire mais portera atteinte aux libertés.",
+      "citation": "Allonger encore les durées d’enfermement ne résoudra donc pas les difficultés structurelles de la politique migratoire, mais accroîtra de façon certaine les atteintes aux libertés fondamentales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272",
+      "date": "2026-06-16"
+    },
+    {
+      "auteur": "Léa Balage El Mariky (Écologiste et social)",
+      "resume": "L'allongement de la rétention serait inefficace : les durées n'ont jamais été aussi longues sans hausse des éloignements.",
+      "citation": "Il prévoit également d’allonger la durée de rétention des personnes considérées comme très dangereuses : mesure inefficace, puisque nous n’avons jamais connu de durées de rétention aussi longues sans augmenter le niveau d’éloignement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272",
+      "date": "2026-06-16"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°7405 du 16 juin 2026) ; aucune intervention personnelle retrouvée : argument = position de son groupe Écologiste et social (Léa Balage El Mariky).",
+      "argument": "Le groupe juge l'allongement de la rétention inefficace, les durées n'ayant jamais été aussi longues sans hausse des éloignements, et critique des mesures d'exception devenues droit commun.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272",
+      "date": "2026-06-16"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°7405) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel elle appartient, a voté contre (0-35).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "date": "2026-06-16"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°7405) ; président du groupe EPR, dont le député Charles Rodwell est l'auteur et le rapporteur du texte ; aucune intervention personnelle retrouvée.",
+      "argument": "Le groupe EPR, porteur du texte, met en avant la rétention de sûreté judiciaire pour les terroristes et la correction des failles révélées par le meurtre de Philippine.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272",
+      "date": "2026-06-16"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°7405) ; aucune intervention personnelle retrouvée : son groupe RN (Gabriel Tomatis) a voté le texte tout en le jugeant insuffisant.",
+      "argument": "Le RN soutient le texte, qui reconnaît selon lui l'urgence de la situation, sans en être « dupe » ; il impute l'insécurité à la politique migratoire des gouvernements.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N272",
+      "date": "2026-06-16"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NFP a voté contre (0-67).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "date": "2026-06-16"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR (communistes) a voté contre (0-12-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "date": "2026-06-16"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social a voté contre (0-35).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "date": "2026-06-16"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes, allié de Place publique, a voté contre (0-62).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "date": "2026-06-16"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons & indépendants (son parti) a voté pour (33-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "date": "2026-06-16"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur LR : vote nominatif pour le texte de la commission mixte paritaire au Sénat (scrutin public n°308 du 15 juin 2026) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-308.html",
+      "date": "2026-06-15"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine (LR) a voté pour (47-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "date": "2026-06-16"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine (LR, son ancien parti) a voté pour (47-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "date": "2026-06-16"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration spécifique retrouvée ; Reconquête n'a pas de groupe à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "date": "2026-06-16"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration spécifique retrouvée ; Debout la France n'a pas de groupe à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7405",
+      "date": "2026-06-16"
+    }
+  },
+  "alertes": [
+    "Question reformulée pour coller au texte : la « rétention de sûreté » prend la forme d'un placement, décidé par un juge, dans un centre socio-médico-judiciaire de sûreté ; l'allongement de la rétention administrative vise les étrangers définitivement condamnés pour les infractions les plus graves.",
+    "Le texte comprend d'autres mesures (examen psychiatrique de personnes radicalisées, contrôle des changements d'état civil) non couvertes par la question.",
+    "Plusieurs arguments proviennent du débat sur la motion de rejet préalable (LFI) qui a précédé le vote, et non des seules explications de vote.",
+    "Lisnard : rattachement à LR jusqu'en 2026 selon les repères du brief ; la date exacte de son départ n'a pas été vérifiée.",
+    "Le contenu de la décision 2026-906 DC (réserve) n'a pas été lu ; seule la mention « conforme avec réserve » du dossier AN est reprise."
+  ]
+}

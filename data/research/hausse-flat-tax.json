@@ -1,0 +1,209 @@
+{
+  "id": "hausse-flat-tax",
+  "titre": "Relever la flat tax sur le capital",
+  "question": "Faut-il relever de 3 points (de 30 % à 33 %) le prélèvement forfaitaire unique (« flat tax ») sur les revenus du capital ?",
+  "ouiSignifie": "pour",
+  "contexte": "Créé par la loi de finances pour 2018, le prélèvement forfaitaire unique (PFU) taxe dividendes, intérêts et plus-values à 30 % (12,8 % d'impôt sur le revenu et 17,2 % de prélèvements sociaux), avec la possibilité d'opter pour le barème progressif. Lors de l'examen du budget 2025, la gauche propose de le relever de 10, 5 puis 3 points ; la commission des finances avait adopté la hausse de 3 points. L'amendement n° 1837 d'Éric Coquerel (LFI), qui porte le taux à 33 %, est rejeté le 23 octobre 2024 par 130 voix contre 160, avec l'opposition du gouvernement Barnier, du bloc central, de la Droite républicaine et du RN. La veille, l'Assemblée avait pérennisé la contribution différentielle sur les hauts revenus (taux minimal de 20 %).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 23 octobre 2024 (PLF 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/35",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+  "argumentsPour": [
+    {
+      "auteur": "Stella Dupont (collectif social-démocrate)",
+      "resume": "Hausse « justifiée, modérée et équitable », rapportant 1 à 1,5 milliard d'euros, alors que 1 % des foyers perçoivent 96 % des dividendes.",
+      "citation": "Le présent amendement vise à augmenter de 3 points la taxation des revenus du capital, actuellement fixée à 30 %. Cette hausse apparaît justifiée, modérée et équitable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+      "date": "2024-10-23"
+    },
+    {
+      "auteur": "Éric Coquerel (LFI, président de la commission des finances)",
+      "resume": "Le PFU a créé un déséquilibre entre travail et capital et favorisé les dividendes ; il faut trouver des recettes pour réduire les déficits.",
+      "citation": "L’augmentation du taux de la flat tax constitue un moyen excellent et très juste de le faire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+      "date": "2024-10-23"
+    },
+    {
+      "auteur": "Manuel Bompard (LFI-NFP)",
+      "resume": "Les dividendes sont très concentrés ; les petits épargnants peuvent opter pour le barème et ne sont pas concernés.",
+      "citation": "Les petits investisseurs ne sont donc pas concernés par cette augmentation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+      "date": "2024-10-23"
+    },
+    {
+      "auteur": "Eva Sas (Écologiste et social)",
+      "resume": "Aucun lien n'a été démontré entre la flat tax et la relance de l'investissement productif depuis 2018.",
+      "citation": "La flat tax est un vieux rêve d’économiste libéral, persuadé que la baisse des taux stimulera, par sa simplicité, les prélèvements obligatoires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+      "date": "2024-10-23"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Laurent Saint-Martin (ministre du budget)",
+      "resume": "La flat tax a augmenté le rendement de la fiscalité du capital et l'attractivité ; la relever ferait double emploi avec la contribution sur les hauts revenus.",
+      "citation": "cela enverrait un signal qui porterait préjudice à l’attractivité de la France.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+      "date": "2024-10-23"
+    },
+    {
+      "auteur": "Charles de Courson (rapporteur général, LIOT)",
+      "resume": "Le taux français est déjà dans le haut de la fourchette européenne ; mieux vaut ne pas s'écarter des voisins (la commission avait toutefois adopté la hausse de 3 points).",
+      "citation": "Il ne conviendrait pas que notre système s’écarte trop des autres.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+      "date": "2024-10-23"
+    },
+    {
+      "auteur": "Vincent Thiébaut (Horizons)",
+      "resume": "La hausse frapperait aussi les patrons de PME qui se rémunèrent en dividendes et les retraités épargnants.",
+      "citation": "Voilà pourquoi les députés du groupe Horizons ne voteront aucun de ces amendements.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+      "date": "2024-10-23"
+    },
+    {
+      "auteur": "Jean-Philippe Tanguy (RN)",
+      "resume": "La mesure a inquiété petits porteurs et chefs d'entreprise ; la gauche divise classes moyennes épargnantes et classes populaires.",
+      "citation": "les petits porteurs et les chefs d’entreprise, comme l’a dit notre collègue Thiébaut, se sont sentis concernés injustement par cette mesure.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+      "date": "2024-10-23"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée sur ce vote. Proxy : le groupe LFI-NFP a voté pour (55 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée. Proxy : le groupe GDR a voté pour (9 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté pour (scrutin AN n°35) ; est intervenu en séance dans la discussion commune sur le PFU.",
+      "argument": "Le travail est plus taxé que les dividendes des actionnaires, qui échappent en partie à l'impôt : « les petits payent gros et les gros payent petit ».",
+      "citation": "comment oser encore en parler quand on accepte ainsi que le travail soit plus taxé que ne le sont les dividendes des actionnaires !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+      "date": "2024-10-23"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Écologiste et social a voté pour (23 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°35) ; aucune déclaration retrouvée. Proxy : le groupe Écologiste et social a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. Proxy : le groupe Socialistes a voté pour (37 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°35) ; président du groupe EPR, pas d'intervention personnelle retrouvée : argument = intervention du groupe (Daniel Labaronne).",
+      "argument": "Groupe EPR : le capital est déjà taxé (impôts de production, IS puis PFU) et la flat tax a orienté l'épargne vers l'investissement productif.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+      "date": "2024-10-23"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Horizons a voté contre (17 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Barnier, qui a donné un avis défavorable par la voix du ministre du budget Laurent Saint-Martin ; aucun désaccord public retrouvé.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N012",
+      "date": "2024-10-23"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. Proxy : le groupe Droite républicaine a voté contre (14 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°35) ; aucune déclaration retrouvée. Proxy : le groupe RN a voté contre (94 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête ; aucune déclaration retrouvée. Proxy : le groupe UDR (alliés ciottistes) a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Vote sur un amendement « de repli » à +3 points, après le rejet des hausses de 10 et 5 points ; la première partie du PLF 2025 a ensuite été rejetée dans son ensemble le 12 novembre 2024.",
+    "Le RN, qui défend la taxation des « superdividendes », a voté contre la hausse générale du PFU.",
+    "Zemmour : le proxy UDR (groupe d'Éric Ciotti) ne correspond pas à son parti Reconquête, sans député ; à utiliser avec prudence."
+  ]
+}

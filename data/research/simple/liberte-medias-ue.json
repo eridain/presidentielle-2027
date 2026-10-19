@@ -1,0 +1,18 @@
+{
+  "id": "liberte-medias-ue",
+  "questionSimple": "Faut-il soutenir la loi européenne qui protège la liberté et l'indépendance des médias ?",
+  "enBref": "L'Union européenne a proposé des règles communes pour protéger les journalistes et les médias. Elles protègent leurs sources, interdisent de les espionner et rendent publics les propriétaires des médias. Les députés français donnaient leur avis sur ce projet.",
+  "pourquoiPour": "Pour ses partisans, les journalistes subissent des pressions de gouvernements et de grands groupes. Des règles européennes communes protègent la démocratie dans tous les pays.",
+  "pourquoiContre": "Pour ses opposants, les médias relèvent des États et non de l'Union européenne. À gauche, certains se sont abstenus pour protester contre la suppression de la redevance télé.",
+  "ceQuiSestPasse": "L'Assemblée a soutenu le projet en janvier 2023 ; le règlement européen a été définitivement adopté en 2024.",
+  "lexique": [
+    {
+      "terme": "Règlement européen",
+      "definition": "Loi de l'Union européenne qui s'applique directement dans tous les pays membres."
+    },
+    {
+      "terme": "Subsidiarité",
+      "definition": "Principe selon lequel l'Union n'agit que si cela est plus efficace qu'au niveau national."
+    }
+  ]
+}

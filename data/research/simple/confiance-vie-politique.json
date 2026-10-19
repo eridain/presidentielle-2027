@@ -1,0 +1,18 @@
+{
+  "id": "confiance-vie-politique",
+  "questionSimple": "Faut-il supprimer la « réserve parlementaire » et encadrer les activités de conseil des parlementaires (loi de 2017) ?",
+  "enBref": "Avant 2017, chaque député ou sénateur pouvait faire attribuer des subventions à des communes ou associations : c'était la « réserve parlementaire ». La loi la supprime. Elle encadre aussi les activités de conseil des parlementaires et le remboursement de leurs frais.",
+  "pourquoiPour": "Pour ses défenseurs, la réserve était distribuée de façon opaque et clientéliste. Supprimer cette pratique et mieux encadrer les élus tient une promesse de campagne et aide à rétablir la confiance.",
+  "pourquoiContre": "Pour ses opposants, la réserve aidait de petits projets locaux de façon transparente. La supprimer prive les communes et associations d'argent, et le texte traite les élus avec défiance.",
+  "ceQuiSestPasse": "Adoptée en août 2017, la loi a été validée par le Conseil constitutionnel, sauf la suppression de la réserve du gouvernement, puis promulguée le 15 septembre 2017.",
+  "lexique": [
+    {
+      "terme": "Réserve parlementaire",
+      "definition": "Enveloppe d'argent public que chaque parlementaire pouvait faire attribuer à des communes ou associations."
+    },
+    {
+      "terme": "Loi organique",
+      "definition": "Loi qui précise le fonctionnement des institutions, par exemple le statut des parlementaires."
+    }
+  ]
+}

@@ -1,0 +1,439 @@
+{
+  "partiId": "renaissance",
+  "condamnations": [
+    {
+      "personne": "Laabid Mustapha",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien député LREM de la 1re circonscription d'Ille-et-Vilaine (2017-2021)",
+      "infraction": "abus de confiance",
+      "faits": "Utilisation de fonds de l'association rennaise Collectif Intermède, qu'il présidait, à des fins personnelles (21 545 euros selon Le Monde).",
+      "juridiction": "cour d'appel de Rennes (pourvoi rejeté par la Cour de cassation le 16 juin 2021)",
+      "dateDecision": "2020-11-05",
+      "peine": "8 mois d'emprisonnement avec sursis, 10 000 euros d'amende, 3 ans d'inéligibilité",
+      "statut": "definitive",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": false,
+      "sources": [
+        {
+          "titre": "Abus de confiance : huit mois de prison avec sursis en appel pour le député LREM de Rennes Mustapha Laabid (France Bleu)",
+          "url": "https://www.francebleu.fr/infos/faits-divers-justice/abus-de-confiance-huit-mois-de-prison-avec-sursis-en-appel-pour-le-depute-lrem-de-rennes-mustapha-1604582950",
+          "citation": "Le député La République en marche de la première circonscription d’Ille-et-Vilaine a été condamné ce jeudi à huit mois de prison avec sursis et trois ans d’inéligibilité par le tribunal correctionnel de Rennes.",
+          "date": "2020-11-05"
+        },
+        {
+          "titre": "Abus de confiance : le pourvoi en cassation du député d’Ille-et-Vilaine Mustapha Laabid rejeté (Ouest-France)",
+          "url": "https://www.ouest-france.fr/bretagne/rennes-35000/abus-de-confiance-le-pourvoi-en-cassation-du-depute-d-ille-et-vilaine-mustapha-laabid-rejete-2df900f8-ceba-11eb-b861-c68adfb2de53",
+          "citation": "La Cour de cassation a rejeté, ce mercredi 16 juin, le recours du député LREM de la première circonscription d’Ille-et-Vilaine, Mustapha Laabid, rendant définitive sa condamnation à huit mois de prison avec sursis, pour abus de confiance.",
+          "date": "2021-06-16"
+        },
+        {
+          "titre": "Le député LRM Mustapha Laabid, condamné pour abus de confiance, démissionne (Le Monde)",
+          "url": "https://www.lemonde.fr/politique/article/2021/09/06/le-depute-lrm-mustapha-laabid-condamne-pour-abus-de-confiance-demissionne_6093589_823448.html",
+          "citation": "avait été condamné en novembre 2020, par la cour d’appel de Rennes, à huit mois de prison avec sursis, 10 000 euros d’amende et trois ans d’inéligibilité.",
+          "date": "2021-09-06"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "inconnu",
+        "depuis": null,
+        "detail": "Élu député sous l'étiquette LREM en 2017, il a démissionné de son mandat en septembre 2021 après sa condamnation définitive ; aucune source trouvée sur son départ ou son maintien au parti.",
+        "lienAvecCondamnation": "inconnu",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Le député LRM Mustapha Laabid, condamné pour abus de confiance, démissionne (Le Monde)",
+            "url": "https://www.lemonde.fr/politique/article/2021/09/06/le-depute-lrm-mustapha-laabid-condamne-pour-abus-de-confiance-demissionne_6093589_823448.html",
+            "citation": "Le député La République en marche (LRM) Mustapha Laabid, condamné à trois ans d’inéligibilité pour abus de confiance, a démissionné de son mandat de député."
+          }
+        ]
+      }
+    },
+    {
+      "personne": "El Guerrab M'jid",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien député des Français établis hors de France (9e circonscription, 2017-2022), élu sous l'étiquette LREM",
+      "infraction": "violences volontaires avec arme (coups de casque)",
+      "faits": "Agression de Boris Faure, responsable socialiste, frappé à coups de casque devant un café parisien en août 2017.",
+      "juridiction": "cour d'appel de Paris (confirmation du jugement du tribunal judiciaire de Paris du 12 mai 2022)",
+      "dateDecision": "2023-10-18",
+      "peine": "3 ans d'emprisonnement dont 1 an ferme (aménagé sous bracelet électronique), 2 ans d'inéligibilité",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "violences",
+      "lieeMandatPolitique": false,
+      "sources": [
+        {
+          "titre": "Agression d’un ancien responsable PS : peine confirmée en appel pour M’jid El Guerrab (Le Monde avec AFP)",
+          "url": "https://www.lemonde.fr/politique/article/2023/10/18/agression-d-un-ancien-responsable-ps-peine-confirmee-en-appel-pour-m-jid-el-guerrab_6195146_823448.html",
+          "citation": "La cour d’appel de Paris a confirmé la peine prononcée en mai 2022 par le tribunal judiciaire à l’encontre de l’ancien élu de la majorité : trois ans d’emprisonnement dont un ferme, aménagé en détention à domicile sous bracelet électronique",
+          "date": "2023-10-18"
+        },
+        {
+          "titre": "Législatives : le député ex-LREM M'jid El Guerrab condamné à trois ans de prison et deux ans d'inéligibilité (Le Figaro)",
+          "url": "https://www.lefigaro.fr/politique/legislatives-le-depute-ex-lrem-m-jid-el-guerrab-condamne-a-trois-ans-de-prison-et-deux-ans-d-ineligibilite-20220512",
+          "citation": "vient d'être condamné ce jeudi à Paris à trois ans de prison dont un ferme, et à deux ans d'inéligibilité",
+          "date": "2022-05-12"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2017-09-05",
+        "detail": "Élu député LREM en 2017, il a présenté sa démission du parti le 5 septembre 2017, après l'agression qui lui valait une mise en examen.",
+        "lienAvecCondamnation": "oui",
+        "reactionParti": "LREM a « accepté sa démission » en 2017 ; en février 2023, le groupe Renaissance a annoncé qu'il ne pourrait pas siéger avec lui s'il était réélu.",
+        "sources": [
+          {
+            "titre": "Agression du socialiste Boris Faure : le député M'jid El Guerrab démissionne de La République en marche (franceinfo)",
+            "url": "https://www.franceinfo.fr/politique/la-republique-en-marche/agression-du-socialiste-boris-faure-le-depute-m-jid-el-guerrab-demissionne-de-la-republique-en-marche_2357997.html",
+            "citation": "Le député M'jid El Guerrab a annoncé mardi 5 septembre à l'AFP qu'il avait présenté sa démission du parti La République en marche"
+          },
+          {
+            "titre": "Agression du socialiste Boris Faure : le député M'jid El Guerrab démissionne de La République en marche (franceinfo)",
+            "url": "https://www.franceinfo.fr/politique/la-republique-en-marche/agression-du-socialiste-boris-faure-le-depute-m-jid-el-guerrab-demissionne-de-la-republique-en-marche_2357997.html",
+            "citation": "La République en marche \"a accepté sa démission\", a réagi le parti dans un communiqué"
+          },
+          {
+            "titre": "L'ex-député M'jid El Guerrab, condamné pour violences, ne pourra pas siéger avec les macronistes (BFMTV)",
+            "url": "https://www.bfmtv.com/politique/la-republique-en-marche/l-ex-depute-m-jid-el-guerrab-condamne-pour-violences-ne-pourra-pas-sieger-avec-les-macronistes_AD-202302260209.html",
+            "citation": "Le groupe Renaissance à l'Assemblée nationale ne souhaite pas que l'ex-député M'jid El Guerrab, condamné pour des faits de violences, siège sur ses bancs"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Simian Benoît",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien député de la 5e circonscription de la Gironde (2017-2022), élu sous l'étiquette LREM",
+      "infraction": "harcèlement sur conjoint (ex-compagne)",
+      "faits": "Harcèlement de son ex-compagne pendant leur instance de divorce, alors qu'il était député (41 faits relevés par le parquet).",
+      "juridiction": "tribunal correctionnel de Bordeaux",
+      "dateDecision": "2022-06-23",
+      "peine": "8 mois d'emprisonnement avec sursis, interdiction de contact d'un an, 5 000 euros de dommages et intérêts (inéligibilité requise mais non prononcée)",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "violences",
+      "lieeMandatPolitique": false,
+      "sources": [
+        {
+          "titre": "L’ancien député Benoît Simian condamné pour harcèlement sur son ex-compagne (Le Monde)",
+          "url": "https://www.lemonde.fr/politique/article/2022/06/23/l-ancien-depute-benoit-simian-condamne-pour-harcelement-sur-son-ex-compagne_6131770_823448.html",
+          "citation": "L’ancien député du Médoc Benoît Simian (La République en marche puis Libertés et territoires) a été condamné, jeudi 23 juin, à huit mois de prison avec sursis pour harcèlement sur son ex-compagne",
+          "date": "2022-06-23"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2020-10",
+        "detail": "Élu député LREM en 2017, il a quitté le groupe LREM pour Libertés et territoires en 2020 ; en septembre 2022, Renaissance a refusé sa nouvelle demande d'adhésion.",
+        "lienAvecCondamnation": "inconnu",
+        "reactionParti": "Renaissance a refusé son adhésion en septembre 2022 : selon son porte-parole, il « n’est naturellement pas le bienvenu ».",
+        "sources": [
+          {
+            "titre": "Renaissance refuse l’adhésion de Benoît Simian, ex-député condamné pour harcèlement (HuffPost)",
+            "url": "https://www.huffingtonpost.fr/politique/article/renaissance-refuse-l-adhesion-de-benoit-simian-ex-depute-condamne-pour-harcelement_208418.html",
+            "citation": "Élu sous l’étiquette LREM en 2017, Benoît Simian a été condamné en juin 2022 à huit mois de prison avec sursis pour harcèlement à l’encontre de son ex-épouse."
+          },
+          {
+            "titre": "Renaissance refuse l’adhésion de Benoît Simian, ex-député condamné pour harcèlement (HuffPost)",
+            "url": "https://www.huffingtonpost.fr/politique/article/renaissance-refuse-l-adhesion-de-benoit-simian-ex-depute-condamne-pour-harcelement_208418.html",
+            "citation": "« Benoît Simian n’est naturellement pas le bienvenu chez Renaissance et recevra dans les prochains jours un courrier l’informant du refus de son statut d’adhérent ainsi que le remboursement de sa cotisation »"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Son-Forget Eva (élue sous le prénom Joachim)",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancienne députée des Français établis hors de France (6e circonscription, 2017-2022), élue sous l'étiquette LREM",
+      "infraction": "refus d'obtempérer et conduite après usage de stupéfiants",
+      "faits": "Rodéo urbain à Paris en juin 2024, avec refus d'obtempérer, au volant après avoir consommé de la cocaïne.",
+      "juridiction": "tribunal correctionnel de Paris",
+      "dateDecision": "2025-10-08",
+      "peine": "8 mois d'emprisonnement avec sursis ; environ 6 000 euros à verser aux victimes (préjudices matériel, immatériel et moral)",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "autres",
+      "lieeMandatPolitique": false,
+      "sources": [
+        {
+          "titre": "Rodéo urbain sous cocaïne à Paris : huit mois de prison avec sursis pour l’ex-députée Eva Son-Forget (Le Parisien)",
+          "url": "https://www.leparisien.fr/faits-divers/rodeo-urbain-sous-cocaine-a-paris-huit-mois-de-prison-avec-sursis-pour-lex-deputee-eva-son-forget-08-10-2025-5NFEOKANCRCBNORP2MUJWQ3BFI.php",
+          "citation": "L’ex-députée Eva Son-Forget a été condamnée à huit mois d’emprisonnement avec sursis, ce mercredi matin, par le tribunal correctionnel de Paris, après un rodéo urbain avec refus d’obtempérer sous cocaïne",
+          "date": "2025-10-08"
+        },
+        {
+          "titre": "L’ancienne députée Eva Son-Forget condamnée pour conduite sous cocaïne et refus d’obtempérer (Ouest-France)",
+          "url": "https://www.ouest-france.fr/societe/justice/lancienne-deputee-eva-son-forget-condamnee-pour-conduite-sous-cocaine-et-refus-dobtemperer-224d9c18-a517-11f0-88d6-c86b2eb1402b",
+          "citation": "Eva Son-Forget, ancienne députée, a été condamnée mercredi 8 octobre 2025 pour conduite sous cocaïne et refus d’obtempérer.",
+          "date": "2025-10-08"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2018-12-29",
+        "detail": "Élue députée LREM en 2017 (sous le prénom Joachim), elle a quitté le parti et son groupe le 29 décembre 2018, alors que le bureau du groupe devait examiner ses tweets sexistes visant une sénatrice.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Le député Joachim Son-Forget, auteur de dérapages sur Twitter, quitte La République en marche (Le Monde)",
+            "url": "https://www.lemonde.fr/politique/article/2018/12/29/le-depute-joachim-son-forget-auteur-de-derapages-sur-twitter-quitte-la-republique-en-marche_5403510_823448.html",
+            "citation": "a annoncé au magazine Valeurs actuelles puis à l’Agence France-Presse, samedi 29 décembre, qu’il avait quitté le parti présidentiel et son groupe parlementaire."
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Avia Laetitia",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancienne députée LREM de Paris (8e circonscription, 2017-2022), redevenue avocate",
+      "infraction": "harcèlement moral",
+      "faits": "Harcèlement moral de cinq de ses assistants parlementaires pendant son mandat de députée.",
+      "juridiction": "cour d'appel de Paris (confirmation du jugement du tribunal correctionnel de Paris du 5 juillet 2023)",
+      "dateDecision": "2025-07-04",
+      "peine": "6 mois d'emprisonnement avec sursis, 2 ans d'inéligibilité",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "autres",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Laetitia Avia condamnée en appel à six mois de prison avec sursis et deux ans d’inéligibilité pour harcèlement moral (Le Monde)",
+          "url": "https://www.lemonde.fr/politique/article/2025/07/04/laetitia-avia-condamnee-en-appel-a-six-mois-de-prison-avec-sursis-et-deux-ans-d-ineligibilite-pour-harcelement-moral_6618139_823448.html",
+          "citation": "La cour d’appel de Paris a confirmé, vendredi 4 juillet, la peine prononcée en première instance contre l’ancienne députée (La République en marche, LRM) Laetitia Avia de six mois d’emprisonnement avec sursis et deux ans d’inéligibilité",
+          "date": "2025-07-04"
+        },
+        {
+          "titre": "L'ex-députée LREM Laetitia Avia voit sa condamnation pour harcèlement moral confirmée en appel (franceinfo)",
+          "url": "https://www.franceinfo.fr/politique/l-ex-deputee-lrem-laetitia-avia-voit-sa-condamnation-pour-harcelement-moral-confirmee-en-appel_7355475.html",
+          "citation": "La cour d'appel de Paris a confirmé vendredi la peine de six mois d'emprisonnement avec sursis et deux ans d'inéligibilité, pour le harcèlement moral de cinq assistants parlementaires.",
+          "date": "2025-07-04"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "inconnu",
+        "depuis": null,
+        "detail": "Élue députée LREM en 2017 et battue en 2022, elle est redevenue avocate ; aucune source trouvée sur un départ ou une exclusion du parti.",
+        "lienAvecCondamnation": "inconnu",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Laetitia Avia condamnée en appel… (Le Monde)",
+            "url": "https://www.lemonde.fr/politique/article/2025/07/04/laetitia-avia-condamnee-en-appel-a-six-mois-de-prison-avec-sursis-et-deux-ans-d-ineligibilite-pour-harcelement-moral_6618139_823448.html",
+            "citation": "La cour d’appel a estimé que l’ancienne députée de Paris, redevenue avocate après sa défaite aux légis"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Lang Anne-Christine",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancienne députée de Paris (10e circonscription, 2012-2022), PS puis LREM ; retirée de la vie politique",
+      "infraction": "détournement de fonds publics",
+      "faits": "Utilisation d'une partie de son indemnité représentative de frais de mandat à des fins personnelles entre 2015 et 2017 (plus de 44 000 euros, remboursés).",
+      "juridiction": "tribunal correctionnel de Paris (homologation d'une CRPC)",
+      "dateDecision": "2023-05-09",
+      "peine": "60 000 euros d'amende, 3 ans d'inéligibilité ; dispense d'inscription au casier judiciaire",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Détournement de frais de mandat : l'ex-députée LREM Anne-Christine Lang condamnée à 60 000 euros d'amende (franceinfo avec AFP)",
+          "url": "https://www.franceinfo.fr/politique/moralisation-de-la-vie-politique/detournement-de-frais-de-mandat-l-ex-deputee-lrem-anne-christine-lang-condamnee-a-60-000-euros-d-amende_5815967.html",
+          "citation": "L'ex-députée Anne-Christine Lang a été condamnée, mardi 9 mai, à une amende de 60 000 euros et à une peine de trois ans d'inéligibilité après avoir reconnu, devant le tribunal de Paris, un détournement",
+          "date": "2023-05-09"
+        },
+        {
+          "titre": "Frais de mandat : l’ex-députée Anne-Christine Lang condamnée pour détournement de fonds publics (Le Monde)",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2023/05/09/frais-de-mandat-l-ex-deputee-anne-christine-lang-condamnee-pour-detournement-de-fonds-publics_6172690_4355770.html",
+          "citation": "Cette comparution sur reconnaissance préalable de culpabilité, version française du plaider-coupable américain, a été homologuée par le tribunal correctionnel de Paris mardi 9 mai.",
+          "date": "2023-05-09"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "retire",
+        "depuis": "2022",
+        "detail": "Députée PS puis LREM, elle a quitté la politique et réintégré l'Éducation nationale en septembre 2022 ; aucune source sur un départ formel du parti.",
+        "lienAvecCondamnation": "inconnu",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Détournement de frais de mandat… (franceinfo avec AFP)",
+            "url": "https://www.franceinfo.fr/politique/moralisation-de-la-vie-politique/detournement-de-frais-de-mandat-l-ex-deputee-lrem-anne-christine-lang-condamnee-a-60-000-euros-d-amende_5815967.html",
+            "citation": "L'ancienne élue socialiste puis LREM, qui a quitté la politique et réintégré depuis septembre 2022 l'Education nationale"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Sylla Sira",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancienne députée LREM de la 4e circonscription de Seine-Maritime (2017-2022) ; retirée de la vie politique",
+      "infraction": "diffamation",
+      "faits": "Série de neuf messages publiés sur X à l'été 2023, visant un de ses anciens assistants parlementaires.",
+      "juridiction": "tribunal judiciaire de Rouen",
+      "dateDecision": "2025-12-02",
+      "peine": "1 500 euros d'amende avec sursis ; 4 000 euros à verser à la partie civile",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "diffamation",
+      "lieeMandatPolitique": false,
+      "sources": [
+        {
+          "titre": "Pourquoi Sira Sylla, ancienne députée de Seine-Maritime a été condamnée pour diffamation (France 3 Normandie)",
+          "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/pourquoi-sira-sylla-ancienne-deputee-de-seine-maritime-a-ete-condamnee-pour-diffamation-3259979.html",
+          "citation": "Sira Sylla a en effet été condamnée par le tribunal judiciaire de Rouen pour des faits de diffamation visant l'un de ses anciens assistants parlementaires.",
+          "date": "2025-12-02"
+        },
+        {
+          "titre": "Pourquoi Sira Sylla, ancienne députée de Seine-Maritime a été condamnée pour diffamation (France 3 Normandie)",
+          "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/pourquoi-sira-sylla-ancienne-deputee-de-seine-maritime-a-ete-condamnee-pour-diffamation-3259979.html",
+          "citation": "Elle a été condamnée à 1 500 euros d’amende avec sursis.",
+          "date": "2025-12-02"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "retire",
+        "depuis": "2022-12-21",
+        "detail": "Élue députée LREM en 2017 et éliminée au premier tour en 2022, elle a annoncé le 21 décembre 2022 mettre fin à sa carrière politique ; aucune source sur un départ formel du parti.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "L'ancienne députée Sira Sylla met fin à sa carrière politique (France 3 Normandie)",
+            "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/l-ancienne-deputee-sira-sylla-met-fin-a-sa-carriere-politique-2680232.html",
+            "citation": "Sira Sylla, députée sortante de la 4e circonscription de Seine-Maritime, a annoncé ce mercredi 21 décembre 2022 mettre fin à sa carrière politique."
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Cabaré Pierre",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien député LREM de la 1re circonscription de la Haute-Garonne (2017-2022)",
+      "infraction": "agression sexuelle, harcèlement sexuel et harcèlement moral",
+      "faits": "Faits commis sur son ancienne suppléante et collaboratrice parlementaire, qui a porté plainte en 2019.",
+      "juridiction": "tribunal correctionnel de Montauban (procès dépaysé)",
+      "dateDecision": "2024-06-25",
+      "peine": "15 mois d'emprisonnement avec sursis, 10 000 euros d'amende, 5 ans d'inéligibilité",
+      "statut": "appel_en_cours",
+      "nature": "penale",
+      "famille": "violences",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Un ancien député macroniste reconnu coupable d'agression sexuelle : Pierre Cabaré écope de 15 mois de prison avec sursis (France 3 Occitanie)",
+          "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/un-ancien-depute-macroniste-reconnu-coupable-d-agression-sexuelle-pierre-cabare-ecope-de-15-mois-de-prison-avec-sursis-2992988.html",
+          "citation": "Pierre Cabaré a été condamné, ce mardi, 25 juin 2024, par le tribunal correctionnel de Montauban où le procès de l'ancien député de Haute-Garonne avait été délocalisé.",
+          "date": "2024-06-25"
+        },
+        {
+          "titre": "Condamné à 15 mois de prison avec sursis pour violences sexuelles, l’ex-député toulousain Pierre Cabaré fait appel (Mediacités)",
+          "url": "https://www.mediacites.fr/breve/toulouse/2024/06/26/condamne-a-15-mois-de-prison-avec-sursis-pour-violences-sexuelles-lex-depute-toulousain-pierre-cabare-fait-appel/",
+          "citation": "L'ancien député LREM a été reconnu coupable d'agression sexuelle et de harcèlements moral et sexuel sur son ancienne suppléante et collaboratrice Lucie Schmitz.",
+          "date": "2024-06-26"
+        },
+        {
+          "titre": "Condamné, l’ancien député Pierre Cabaré rattrapé par ses excès (La Dépêche)",
+          "url": "https://www.ladepeche.fr/2024/06/25/condamne-lancien-depute-pierre-cabare-rattrape-par-ses-exces-12039847.php",
+          "citation": "Une allusion à un appel \"qui va être relevé, bien évidemment\", confirme Me Laurent de Caunes, avocat de Pierre Cabaré.",
+          "date": "2024-06-25"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "retire",
+        "depuis": "2024",
+        "detail": "Élu député LREM en 2017, rallié en 2020 au parti En commun (majorité présidentielle), non réinvesti en 2022 ; à son procès (mai 2024), il a déclaré s'être mis en retrait de la politique. Aucune source sur un départ formel du parti.",
+        "lienAvecCondamnation": "inconnu",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Violences sexuelles : l’ex-député macroniste Pierre Cabaré condamné à quinze mois de prison avec sursis (Le Monde)",
+            "url": "https://www.lemonde.fr/societe/article/2024/06/25/violences-sexuelles-l-ex-depute-macroniste-pierre-cabare-condamne-a-15-mois-avec-sursis_6243652_3224.html",
+            "citation": "Il a expliqué s’être désormais mis en retrait de la politique, s’être investi dans le monde associatif et s’occuper de ses petits-enfants."
+          },
+          {
+            "titre": "Pierre Cabaré (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Pierre_Cabar%C3%A9",
+            "citation": "Il n'est pas reconduit pour un second mandat par LREM, au profit de Pierre Baudis"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Bridey Jean-Jacques",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien député du Val-de-Marne (PS puis LREM, 2012-2022), ancien maire de Fresnes",
+      "infraction": "détournement de fonds publics et concussion",
+      "faits": "Utilisation de ses frais de mandat de député à des fins personnelles (spas, vêtements, chèques déposés sur son compte personnel, selon Le Monde) et indemnités d'élu perçues au-delà du plafond légal.",
+      "juridiction": "tribunal judiciaire de Paris (32e chambre correctionnelle)",
+      "dateDecision": "2026-06-04",
+      "peine": "2 ans d'emprisonnement avec sursis, 75 000 euros d'amende, 5 ans d'inéligibilité avec exécution provisoire",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "L’ex-député Jean-Jacques Bridey condamné à deux ans avec sursis pour le détournement de ses frais de mandat (Le Monde)",
+          "url": "https://www.lemonde.fr/societe/article/2026/06/04/l-ex-depute-jean-jacques-bridey-condamne-a-deux-ans-avec-sursis-pour-le-detournement-de-ses-frais-de-mandat_6697438_3224.html",
+          "citation": "a été reconnu coupable de « détournement de fonds publics » et de « concussion » par les juges du tribunal judiciaire de Paris, jeudi 4 juin.",
+          "date": "2026-06-04"
+        },
+        {
+          "titre": "Condamné pour détournement de fonds publics, l’ex-maire de Fresnes Jean-Jacques Bridey va perdre son dernier mandat (Le Parisien)",
+          "url": "https://www.leparisien.fr/val-de-marne-94/condamne-pour-detournement-de-fonds-publics-lex-maire-de-fresnes-jean-jacques-bridey-va-perdre-son-dernier-mandat-04-06-2026-L3PUD22565AUXGQWPOHWNCFBNM.php",
+          "citation": "L’ex-député macroniste, de 2017 à 2022, a été condamné à deux ans de prison avec sursis, 75 000 euros d’amende et surtout à cinq ans d’inéligibilité assortie de l’exécution provisoire.",
+          "date": "2026-06-04"
+        },
+        {
+          "titre": "Détournement de fonds : l’ex-député LREM Jean-Jacques Bridey condamné à deux ans avec sursis (Sud Ouest)",
+          "url": "https://www.sudouest.fr/politique/detournement-de-fonds-l-ex-depute-lrem-jean-jacques-bridey-condamne-a-deux-ans-avec-sursis-29349063.php",
+          "citation": "Jean-Jacques Bridey va donc être démissionné d’office de son mandat de conseiller municipal d’opposition de Fresnes.",
+          "date": "2026-06-04"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "inconnu",
+        "depuis": null,
+        "detail": "Député PS puis LREM (2017-2022), conseiller municipal d'opposition à Fresnes réélu en mars 2026 (liste « Fresnes, je m'engage », sans étiquette de parti indiquée sur la page de candidature du ministère de l'Intérieur), démis d'office après la condamnation. Aucune source sur son appartenance actuelle à Renaissance.",
+        "lienAvecCondamnation": "inconnu",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Condamné pour détournement de fonds publics… (Le Parisien)",
+            "url": "https://www.leparisien.fr/val-de-marne-94/condamne-pour-detournement-de-fonds-publics-lex-maire-de-fresnes-jean-jacques-bridey-va-perdre-son-dernier-mandat-04-06-2026-L3PUD22565AUXGQWPOHWNCFBNM.php",
+            "citation": "L'ex-maire (PS) de Fresnes et ancien député (PS puis LREM) du Val-de-Marne, Jean-Jacques Bridey (ici le 2 avril 2026), envisage de faire appel de sa condamnation."
+          }
+        ]
+      }
+    }
+  ],
+  "perimetre": {
+    "personnesVerifiees": 22,
+    "methode": "Export CSV des affaires de poligraph.fr (https://poligraph.fr/api/export/affaires?limit=10000, 299 affaires), filtré sur « Parti au moment » / « Parti actuel » (RE, HOR, vide, NI, MoDem, UDI) et sur les statuts de condamnation, pour repérer les noms. Ensuite, recherches web « <nom> condamné », « ex-député LREM condamné », « ancienne députée LREM condamnée », « ex-ministre macroniste condamné », « <nom> quitte LREM », « <nom> appel / cassation ». Chaque condamnation a été vérifiée dans des articles ouverts : Le Monde, franceinfo, France 3 régions, Ouest-France, France Bleu, Le Parisien, Le Figaro, BFMTV, HuffPost, Mediacités, Public Sénat, et Wikipédia pour le contexte. Les citations ont été contrôlées automatiquement dans le texte des pages téléchargées. Personnes examinées : Mustapha Laabid, M'jid El Guerrab, Benoît Simian, Eva (Joachim) Son-Forget, Laetitia Avia, Anne-Christine Lang, Sira Sylla, Pierre Cabaré, Jean-Jacques Bridey, Olivier Dussopt, Alain Griset, Jean-Paul Delevoye, Éric Dupond-Moretti, Caroline Cayeux, Jacques Krabal, Jérôme Peyrat, Thierry Solère, Agnès Thill, Martine Wonner, Max Mathiasin, Ary Chalus, Nathalie Élimas. Vérification complémentaire (18/10/2026) : fiches Poligraph par personne (via r.jina.ai), La Dépêche, Le Monde (25/06/2024), Sud Ouest, Mediapart, résultats municipales 2026 (ministère de l'Intérieur), Wikidata.",
+    "limites": "Périmètre retenu : anciens parlementaires et ministres élus ou nommés sous l'étiquette LREM/Renaissance depuis 2017 (le parti a été fondé en 2016), absents de data/justice/renaissance.json. Pour plusieurs personnes (Laabid, Avia, Bridey, Cabaré), aucune source n'établit si elles ont quitté le parti. Pour d'autres (Lang, Sylla), les sources disent seulement qu'elles se sont retirées de la vie politique. Les valeurs « inconnu » et « retire » sortent donc de l'énumération exclu|depart|decede du brief et sont signalées comme telles. La recherche repose sur un moteur de recherche web et sur Poligraph : les jugements peu relayés, notamment ceux visant d'anciens députés LREM de 2017-2022 restés peu connus, peuvent manquer. L'issue des recours (appel, pourvoi) postérieure aux articles cités n'a souvent pas été retrouvée, d'où les statuts « inconnu »."
+  },
+  "alertes": [
+    "Statut d'appartenance hors énumération du brief : « inconnu » (Laabid, Avia, Bridey) et « retire » (Lang, Sylla, Cabaré). Élus sous l'étiquette LREM, sans source établissant un départ du parti. Vérification complémentaire du 18/10/2026 : aucune source de départ trouvée. Laabid : Wikipédia anglophone le dit « formerly of La République En Marche! », sans source secondaire. Avia : Wikidata/OpenSanctions la rattachent à Renaissance, mais par import d'une révision Wikipédia de 2018 (non probant) ; Wikidata la mentionne aussi comme porte-parole d'En Marche (2021), ce qui la placerait dans le périmètre « dirigeant national ».",
+    "Mustapha Laabid : France Bleu (5 novembre 2020) attribue la décision au « tribunal correctionnel de Rennes ». Le Monde (6 septembre 2021) et Ouest-France parlent d'une condamnation en appel par la cour d'appel de Rennes ; c'est la juridiction retenue. Statut définitif après le rejet du pourvoi le 16 juin 2021.",
+    "M'jid El Guerrab : aucune information trouvée sur un pourvoi en cassation contre l'arrêt du 18 octobre 2023 ; statut inconnu. Les faits (août 2017) ont eu lieu alors qu'il était membre de LREM, qu'il a quittée le 5 septembre 2017.",
+    "Benoît Simian : il disposait de dix jours pour faire appel (Le Monde) ; aucun appel n'a été trouvé, statut inconnu. La date de son départ de LREM (« 2017-2021 » selon l'infobox Wikipédia) n'a pas été recoupée ; la date retenue (octobre 2020) est celle de son passage au groupe Libertés et territoires selon Wikipédia.",
+    "Eva Son-Forget : condamnée en son absence (Ouest-France) ; aucune information sur un appel. Le Figaro (« Alcool, vol et polémiques », 1er octobre 2025) évoque d'autres affaires, qui n'ont pas été vérifiées et ne sont pas retenues.",
+    "Laetitia Avia : aucun pourvoi en cassation trouvé contre l'arrêt du 4 juillet 2025 (recherches presse et Poligraph) ; statut inconnu.",
+    "Anne-Christine Lang : condamnation par CRPC (peine acceptée par l'intéressée). Aucune source ne la dit définitive ; statut laissé à inconnu. Les faits (2015-2017) couvrent en majorité son mandat de députée PS ; elle a siégé sous l'étiquette LREM à partir de 2017.",
+    "Sira Sylla : seule la condamnation pénale pour diffamation (Rouen, 2 décembre 2025) est retenue. Sa condamnation par le conseil de prud'hommes de Rouen (septembre 2022) pour harcèlement moral et licenciement abusif d'un collaborateur, confirmée en appel selon France 3, est une décision prud'homale : elle est exclue conformément au brief.",
+    "Pierre Cabaré : appel annoncé par son avocat (La Dépêche, 25/06/2024 ; Mediacités, 26/06/2024). Aucun arrêt de la cour d'appel trouvé ; Poligraph (mise à jour du 7 octobre 2026) le classe toujours en « condamnation non définitive ». Statut appel_en_cours au dernier état connu. Il a été relaxé pour l'exhibition sexuelle (La Dépêche). Exclue (non pénale) : son inéligibilité d'un an prononcée par le Conseil constitutionnel le 6 février 2003 (comptes de campagne 2002, Cap21), selon Wikipédia.",
+    "Jean-Jacques Bridey : Le Parisien (4/06/2026) indique qu'il « envisage de faire appel » ; aucun appel confirmé trouvé, et Poligraph (octobre 2026) mentionne seulement une décision « non définitive ». Statut inconnu. L'inéligibilité avec exécution provisoire l'a démis d'office de son mandat municipal (Sud Ouest). Les frais de mandat en cause couvrent aussi sa période de député PS (2012-2017).",
+    "Exclu (condamnation annulée) : Olivier Dussopt, ancien ministre. Condamné pour favoritisme par la cour d'appel de Paris le 7 février 2025 (Mediapart, 15 avril 2026), il a vu cet arrêt annulé par la Cour de cassation, avec renvoi pour un nouveau procès (L'Informé, 16 juin 2026). Son appartenance actuelle à Renaissance n'a pas été vérifiée.",
+    "Non retenus (appartenance au parti non établie) : Alain Griset, ministre délégué aux PME (2020-2021), condamné en appel le 4 janvier 2023 à 4 mois d'emprisonnement avec sursis et 3 ans d'inéligibilité avec sursis pour déclaration de patrimoine incomplète (franceinfo, Ouest-France). Seule l'infobox Wikipédia le rattache à « En Marche ».",
+    "Non retenus (probablement toujours membre, donc pas « ancien ») : Jean-Paul Delevoye, haut-commissaire aux retraites (2019) et ancien président de la commission d'investiture de LREM selon Wikipédia, condamné le 2 décembre 2021 (CRPC, tribunal correctionnel de Paris) à 4 mois d'emprisonnement avec sursis et 15 000 euros d'amende pour déclaration d'intérêts incomplète (franceinfo, La Croix). Wikipédia le donne membre de LREM/RE « depuis 2017 ». À arbitrer.",
+    "Hors périmètre (pas membre du parti) : Éric Dupond-Moretti, garde des Sceaux de 2020 à 2024, condamné pour diffamation d'un magistrat (franceinfo, appel en cours) ; Wikipédia ne lui connaît aucun parti avant « Bâtissons ensemble » (2026). Caroline Cayeux, ministre en 2022, condamnée le 1er avril 2026 (CRPC) pour fraude fiscale et déclaration de patrimoine incomplète selon Poligraph, est classée DVD par Wikipédia, ni LREM ni Horizons.",
+    "Exclu (décision civile/prud'homale, faits antérieurs à LREM) : Jacques Krabal, ancien député LREM de l'Aisne. Selon Oise Hebdo (22 janvier 2026), la cour d'appel de Paris a retenu le 18 décembre 2025 un harcèlement moral envers son ancien chef de cabinet et assistant parlementaire (faits de 2012 à 2015). Il s'agit d'une décision sociale, non pénale.",
+    "Hors périmètre (ni parlementaire, ni ministre, ni dirigeant national) : Jérôme Peyrat, ancien conseiller à l'Élysée et candidat investi par LREM en 2022, condamné le 18 septembre 2020 à 3 000 euros d'amende avec sursis pour violences sur son ex-compagne (Poligraph, citant Europe 1 ; non revérifié).",
+    "Aucune condamnation trouvée : Thierry Solère (mis en examen en 2019 ; Wikipédia le donne membre de LREM « depuis 2017 »), Agnès Thill (exclue de LREM en juin 2019), Martine Wonner (exclue du groupe en 2020). Max Mathiasin (groupe Libertés et territoires, condamné en première instance le 19 novembre 2024 selon Poligraph), Ary Chalus (député DVG de 2012 à 2017) et Nathalie Élimas (MoDem) n'ont pas été élus sous l'étiquette LREM : hors périmètre."
+  ]
+}

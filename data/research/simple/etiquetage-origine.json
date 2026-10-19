@@ -1,0 +1,18 @@
+{
+  "id": "etiquetage-origine",
+  "questionSimple": "Faut-il obliger à indiquer sur l'étiquette le pays d'origine de tous les aliments ?",
+  "enBref": "Le texte voulait rendre obligatoire l'indication du pays d'origine sur tous les produits alimentaires vendus en France. Il voulait aussi signaler les produits fabriqués avec des pesticides ou des pratiques interdits en Europe.",
+  "pourquoiPour": "Ses partisans veulent que chacun puisse acheter français en connaissance de cause et soutenir les agriculteurs. Selon eux, voter la loi enverrait un message à l'Union européenne.",
+  "pourquoiContre": "Ses opposants rappellent que les règles d'étiquetage sont fixées au niveau européen. Une loi française serait donc inapplicable et ne serait qu'un coup de communication.",
+  "ceQuiSestPasse": "L'Assemblée a rejeté le texte le 30 octobre 2025, par 174 voix contre 149.",
+  "lexique": [
+    {
+      "terme": "Règlement Inco",
+      "definition": "Loi européenne qui fixe les mentions obligatoires sur l'étiquette des aliments."
+    },
+    {
+      "terme": "Niche parlementaire",
+      "definition": "Journée où un groupe d'opposition choisit les textes examinés à l'Assemblée."
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "id": "double-dette-haiti",
+  "titre": "« Double dette » d'Haïti",
+  "question": "Faut-il que la France reconnaisse et rembourse la « double dette » imposée à Haïti en échange de son indépendance ?",
+  "ouiSignifie": "pour",
+  "contexte": "En 1825, Charles X a reconnu l'indépendance d'Haïti (proclamée en 1804) en échange d'une indemnité de 150 millions de francs-or destinée aux anciens colons propriétaires d'esclaves, imposée sous la menace d'une flotte de guerre. Pour la payer, Haïti a dû emprunter auprès de banques françaises : d'où l'expression de « double dette ». Le 17 avril 2025, pour le bicentenaire, Emmanuel Macron a évoqué « la force injuste de l'Histoire » et créé une commission mixte franco-haïtienne d'historiens. La proposition de résolution n° 1267 (groupe GDR, Marcellin Nadeau), sans valeur contraignante, invite le gouvernement à reconnaître officiellement l'injustice, à prendre en considération les demandes de remboursement et à étudier un processus de restitution. Elle a été adoptée le 5 juin 2025 par 53 voix contre 9 (RN et UDR contre, Ensemble pour la République majoritairement abstentionniste).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution n° 1267",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaissance_remboursement_reparation_double_dette_haiti"
+    },
+    {
+      "titre": "France-Guyane – L'Assemblée nationale vote le remboursement de la « double dette » d'Haïti",
+      "url": "https://www.franceguyane.fr/actualite/politique/lassemblee-nationale-vote-le-remboursement-de-la-double-dette-dhaiti-1038620.php"
+    },
+    {
+      "titre": "Élysée – Déclaration du président de la République sur la relation entre la France et Haïti (17 avril 2025)",
+      "url": "https://www.elysee.fr/emmanuel-macron/2025/04/17/declaration-du-president-de-la-republique-sur-la-relation-entre-la-france-et-haiti"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 3e séance du 5 juin 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-jeudi-05-juin-2025"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reconnaissance_remboursement_reparation_double_dette_haiti",
+  "argumentsPour": [
+    {
+      "auteur": "Marcellin Nadeau (GDR, auteur)",
+      "resume": "L'indemnité de 1825, imposée sous la menace d'un blocus et sans accord haïtien, fut une rançon qui a durablement asphyxié le pays ; la France doit la reconnaître et la réparer.",
+      "citation": "Sans aucun accord avec les autorités haïtiennes, c’est ainsi une rançon qui est demandée, une rançon qu’Haïti ne peut payer à moins de s’endetter",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-jeudi-05-juin-2025",
+      "date": "2025-06-05"
+    },
+    {
+      "auteur": "Gabrielle Cathala (La France insoumise)",
+      "resume": "Il faut écouter les demandes haïtiennes de reconnaissance, de réparation et de remboursement, alors qu'Haïti traverse une catastrophe humanitaire.",
+      "citation": "Nous devons écouter nos amis haïtiens quand ils nous parlent de reconnaissance, de coopération, de réparation, d’initiatives mémorielles communes, voire, comme aujourd’hui, de remboursement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-jeudi-05-juin-2025",
+      "date": "2025-06-05"
+    },
+    {
+      "auteur": "Sabrina Sebaihi (Écologiste et social)",
+      "resume": "Le groupe soutient le texte au nom de l'honneur de la France et de l'avenir d'Haïti.",
+      "citation": "Nous voterons pour ce texte, pour l’honneur de la France et pour l’avenir d’Haïti.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-jeudi-05-juin-2025",
+      "date": "2025-06-05"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Emeric Salmon (Rassemblement national)",
+      "resume": "Le RN refuse une obligation de réparation financière et dénonce l'anachronisme moral ; il prône la coopération présente plutôt qu'une compensation rétroactive.",
+      "citation": "il nous faut éviter l’anachronisme moral.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-jeudi-05-juin-2025",
+      "date": "2025-06-05"
+    },
+    {
+      "auteur": "Emeric Salmon (Rassemblement national)",
+      "resume": "La solidarité actuelle (développement, stabilité, éducation) serait une réparation morale plus efficace qu'une compensation financière.",
+      "citation": "C’est dans la solidarité d’aujourd’hui que se construit une réparation morale bien plus concrète et efficace que toute compensation financière rétroactive.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-jeudi-05-juin-2025",
+      "date": "2025-06-05"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Daniel Labaronne (Ensemble pour la République)",
+      "resume": "Le groupe salue la démarche du président (commission mixte d'historiens) : il s'agit d'assumer l'histoire, sans la rejuger, et d'aider Haïti dans la crise actuelle.",
+      "citation": "Il ne s’agit pas de rejuger l’histoire, mais de l’assumer.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-jeudi-05-juin-2025",
+      "date": "2025-06-05"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NFP a voté pour (12 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration retrouvée. PROXY : le groupe GDR, auteur du texte, a voté pour (16 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°2274) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté pour (10 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°2274) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (6 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°2274) ; aucune déclaration retrouvée. Indication : son groupe EPR s'est majoritairement abstenu (1 pour / 3 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (3 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ministre de l'Intérieur ; le gouvernement (Thani Mohamed Soilihi) a rappelé la démarche présidentielle sans consigne de vote retrouvée ; aucune déclaration de Retailleau retrouvée. Aucun député Droite républicaine n'a voté.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée ; aucun député Droite républicaine n'a voté.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée ; aucun député Droite républicaine n'a voté.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°2274) ; aucune déclaration retrouvée. Indication : son groupe RN a voté contre (0 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2274",
+      "date": "2025-06-05"
+    }
+  },
+  "alertes": [
+    "Scrutin à très faible participation (65 votants), un jeudi soir de niche GDR : tous les candidats députés (Ruffin, Batho, Attal, Le Pen) étaient absents ; aucun candidat n'a de position vérifiée.",
+    "Daniel Labaronne (EPR) ne dit pas explicitement s'abstenir ; son intervention est classée en abstention parce que son groupe s'est majoritairement abstenu.",
+    "Le chiffre de 300 % du PIB attribué à Thomas Piketty est cité en séance par Marcellin Nadeau, non vérifié par ailleurs.",
+    "Résolution sans valeur contraignante : elle ne décide d'aucun remboursement."
+  ]
+}

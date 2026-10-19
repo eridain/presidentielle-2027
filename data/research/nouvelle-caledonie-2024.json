@@ -1,0 +1,226 @@
+{
+  "id": "nouvelle-caledonie-2024",
+  "titre": "Dégel du corps électoral calédonien",
+  "question": "Faut-il ouvrir le corps électoral des élections provinciales de Nouvelle-Calédonie, gelé depuis 1998, aux natifs et aux personnes domiciliées depuis au moins dix ans (révision constitutionnelle de 2024) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le corps électoral des élections provinciales calédoniennes, restreint par les accords de Matignon et de Nouméa, est gelé à 1998 ; près de 20 % des électeurs inscrits en étaient exclus en 2023. Le projet de loi constitutionnelle le rendait « glissant » en l'ouvrant aux natifs et aux personnes domiciliées depuis au moins dix ans. Adopté par le Sénat le 2 avril 2024 (233 voix contre 99) puis sans modification par l'Assemblée dans la nuit du 14 au 15 mai 2024 (351 contre 153), alors qu'éclataient des émeutes meurtrières dans l'archipel, il n'a jamais été soumis au Congrès : suspendu en juin 2024, il a été abandonné par Michel Barnier le 1er octobre 2024. En mai 2026, une loi organique distincte a intégré les natifs au corps électoral.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – La loi en clair : projet de loi constitutionnelle portant modification du corps électoral",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-constitutionnelle-portant-modification-du-corps-electoral-pour-les-elections-au-congres-et-aux-assemblees-de-province-de-la-nouvelle-caledonie.html"
+    },
+    {
+      "titre": "Outre-mer La 1ère (AFP) – Retour sur quatre mois de crise en Nouvelle-Calédonie",
+      "url": "https://la1ere.franceinfo.fr/nouvelle-caledonie-retour-en-arriere-et-decryptage-des-troubles-qui-perdurent-depuis-quatre-mois-1522856.html"
+    },
+    {
+      "titre": "Maire info – Une nouvelle proposition de loi pour « dégeler » le corps électoral (2026)",
+      "url": "https://www.maire-info.com/une-nouvelle-proposition-de-loi-pour-degeler-le-corps-electoral-en-nouvelle-caledonie-examinee-en-urgence-par-le-parlement-article2-30792"
+    },
+    {
+      "titre": "Assemblée nationale – Scrutin n°6753 du 20 mai 2026 (loi organique sur les natifs)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3725",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N49373",
+  "argumentsPour": [
+    {
+      "auteur": "Félicie Gérard (Horizons)",
+      "resume": "Près de 20 % des citoyens calédoniens sont privés du droit de vote aux provinciales ; le texte fixe une durée de résidence raisonnable et reste subsidiaire à un accord local.",
+      "citation": "Je rappelle que près de 20 % de la population calédonienne, des citoyens français nés en Nouvelle-Calédonie, petits-enfants de Kanaks ou de loyalistes, sont privés du droit de vote à ces élections.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N192",
+      "date": "2024-05-14"
+    },
+    {
+      "auteur": "Yoann Gillet (RN)",
+      "resume": "Permettre à des Français de voter en France ; le RN vote le texte tout en critiquant la méthode du gouvernement et en espérant un accord global.",
+      "citation": "Le groupe Rassemblement national votera pour ce texte, qui vise simplement à permettre à des Français de voter en France.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N192",
+      "date": "2024-05-14"
+    },
+    {
+      "auteur": "Philippe Gosselin (LR)",
+      "resume": "Il n'est plus acceptable d'exclure près de 20 % des électeurs ; pas de nouvelles provinciales sans dégel, le texte du Sénat laissant du temps à un accord.",
+      "citation": "Disons-le sans détour : il n’est plus acceptable que la proportion des électeurs privés du droit de vote aux élections provinciales et au Congrès de Nouvelle-Calédonie s’élève à presque 20 %.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N192",
+      "date": "2024-05-14"
+    },
+    {
+      "auteur": "Aude Luquet (Démocrate)",
+      "resume": "Le groupe vote le texte pour répondre à la « question démocratique » tout en appelant au dialogue et à l'apaisement.",
+      "citation": "Pour retrouver l’apaisement, le chemin du dialogue et la confiance en nos institutions, mais aussi pour répondre à la question démocratique, le groupe Démocrate votera en faveur de ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N192",
+      "date": "2024-05-14"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Danièle Obono (LFI)",
+      "resume": "Le gel est un compromis historique de décolonisation ; l'ouvrir unilatéralement risque de minoriser les Kanaks.",
+      "citation": "Créer de manière unilatérale, comme ce texte vise à le faire, un corps électoral ouvert, équivaut à rouvrir les colonies de peuplement",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N192",
+      "date": "2024-05-14"
+    },
+    {
+      "auteur": "Sabrina Sebaihi (Écologiste)",
+      "resume": "Le gel est un compromis qui garantit la représentativité des Kanaks ; il ne peut être levé sans accord global, au risque de fermer les issues ouvertes par l'accord de Nouméa.",
+      "citation": "Garant de la représentativité de ces scrutins, il ne peut disparaître sans un accord global au sein de la population locale, au risque de refermer toutes les portes de sortie ouvertes par l’accord de Nouméa.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N192",
+      "date": "2024-05-14"
+    },
+    {
+      "auteur": "Jean-Victor Castor (GDR)",
+      "resume": "Les accords de Matignon et de Nouméa, tripartites et irréversibles, ont été bafoués par une démarche à marche forcée.",
+      "citation": "Vous avez bafoué tout cela en avançant à marche forcée, vous appuyant sur un référendum, que vous le vouliez ou non, totalement illégitime.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N192",
+      "date": "2024-05-14"
+    },
+    {
+      "auteur": "Arthur Delaporte (Socialistes)",
+      "resume": "Le texte complique un futur accord ; il faut une réforme constitutionnelle globale bâtie par le consensus plutôt qu'une modification limitée de la liste électorale.",
+      "citation": "Ses conclusions posent plus de problèmes au futur accord éventuel qu’elles n’en facilitent la concrétisation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N192",
+      "date": "2024-05-14"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Non député en 2024 ; a réclamé le retrait du texte lors d'une prise de parole le 20 mai 2024, rapportée par L'Insoumission (média du mouvement).",
+      "argument": "Le gouvernement aurait méprisé les Kanaks et l'histoire coloniale de l'archipel ; il faut retirer le texte et créer une commission du dialogue.",
+      "citation": "Il faut retirer le texte. Il faut mettre en place une commission du dialogue",
+      "url": "https://linsoumission.fr/2024/05/21/paix-caledonie-melenchon/",
+      "date": "2024-05-20"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°3725) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe GDR (Jean-Victor Castor).",
+      "argument": "Groupe GDR : les accords de Matignon et de Nouméa, fondés sur l'irréversibilité, ont été bafoués par une réforme menée à marche forcée.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N192",
+      "date": "2024-05-14"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°3725) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe LFI (Danièle Obono).",
+      "argument": "Groupe LFI : le gel du corps électoral est un compromis de décolonisation ; l'ouvrir unilatéralement ferait craindre la minorisation des Kanaks.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N192",
+      "date": "2024-05-14"
+    },
+    "tondelier": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; déclaration sur franceinfo le 14 mai 2024, rapportée par TF1 Info.",
+      "argument": "La réforme réduirait le poids électoral des Kanaks : elle y voit une « humiliation » de « l'État colonial ».",
+      "citation": "L'orientation de cette réforme, c'est que les Kanaks aient moins de poids électoral",
+      "url": "https://www.tf1info.fr/politique/nouvelle-caledonie-pourquoi-la-gauche-s-oppose-a-la-reforme-du-corps-electoral-2299422.html",
+      "date": "2024-05-14"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration retrouvée. PROXY : le groupe Écologiste a voté contre (0 pour, 18 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3725",
+      "date": "2024-05-14"
+    },
+    "glucksmann": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Tête de liste PS-Place publique aux européennes ; a demandé de « repousser » la réforme sur France 2 le 22 mai 2024 (pas de rejet de principe exprimé).",
+      "argument": "Reproche au gouvernement d'avoir tout hâté sans consensus local, en rupture avec l'esprit de Michel Rocard ; il faut repartir vers un consensus global.",
+      "citation": "Le fait de tout hâter sans attendre un consensus local, ça a été une rupture majeure avec l'esprit qui avait prédominé jusqu'ici.",
+      "url": "https://www.franceinfo.fr/france/nouvelle-caledonie/crise-en-nouvelle-caledonie-raphael-glucksmann-ps-place-publique-appelle-a-repousser-la-reforme-du-corps-electoral_6559154.html",
+      "date": "2024-05-22"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a porté le projet de loi ; l'a défendu en séance aux questions au gouvernement le 14 mai 2024.",
+      "argument": "Des personnes nées en Nouvelle-Calédonie ou y résidant de longue date sont privées du vote local ; le dégel serait un enjeu démocratique, sans remettre en cause l'accord de Nouméa.",
+      "citation": "Le dégel du corps électoral est donc un enjeu démocratique incontournable et demandé par le Conseil d’État.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-mardi-14-mai-2024",
+      "date": "2024-05-14"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration de fond retrouvée ; PROXY : le groupe Horizons a voté pour (30 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3725",
+      "date": "2024-05-14"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat (scrutin n°168 du 2 avril 2024, https://www.senat.fr/scrutin-public/2023/scr2023-168.html) ; président du groupe LR, qui a voté pour (129 sur 133).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-168.html",
+      "date": "2024-04-02"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration sur la réforme retrouvée (il s'est exprimé sur les ingérences azerbaïdjanaises) ; PROXY : le groupe LR a voté pour (53 pour, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3725",
+      "date": "2024-05-14"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "A seulement estimé que la réforme « ne passera même pas le Congrès » (France 2, 20 mai 2024) ; PROXY : le groupe LR a voté pour (53 pour, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.franceinfo.fr/france/nouvelle-caledonie/emeutes-en-nouvelle-caledonie-l-ordre-tout-court-doit-etre-retabli-affirme-david-lisnard-lr_6555410.html",
+      "date": "2024-05-20"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°3725) ; a ensuite critiqué le calendrier sur France 2 le 16 mai 2024, selon Le Parisien.",
+      "argument": "A voté le texte mais estime après les émeutes qu'il aurait fallu reporter le vote et décaler de six mois les élections provinciales.",
+      "citation": "Je pense que le calendrier n’était pas le bon. Il fallait repousser le vote de la loi sur le dégel électoral et repousser de six mois les élections provinciales",
+      "url": "https://www.leparisien.fr/politique/nouvelle-caledonie-les-contradictions-du-rn-18-05-2024-QD6IRZ2TVRAKDGRVUHA5WKBAZE.php",
+      "date": "2024-05-16"
+    },
+    "zemmour": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Sans mandat ; déclaration sur BFMTV le 15 mai 2024.",
+      "argument": "Souhaite l'adoption du texte et une répression sévère des émeutiers.",
+      "citation": "Il faut adopter ce texte",
+      "url": "https://www.bfmtv.com/politique/elections/europeennes/nouvelle-caledonie-il-faut-adopter-ce-texte-et-reprimer-severement-les-emeutiers-estime-eric-zemmour_VN-202405150278.html",
+      "date": "2024-05-15"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée. PROXY : les non-inscrits ont voté pour (2 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3725",
+      "date": "2024-05-14"
+    }
+  },
+  "alertes": [
+    "Texte jamais entré en vigueur : l'adoption définitive d'une révision constitutionnelle requiert le Congrès, qui n'a pas été convoqué ; projet suspendu en juin 2024 puis abandonné (déclaration de politique générale de Michel Barnier, 1er octobre 2024).",
+    "Votes ultérieurs distincts : le scrutin AN n°6753 du 20 mai 2026 (loi organique intégrant environ 10 500 natifs) a été voté pour par Gabriel Attal et Marine Le Pen ; Delphine Batho s'est abstenue. Ce texte est plus restreint que la réforme de 2024 et n'est pas utilisé pour coder les positions.",
+    "Mélenchon : citation issue de L'Insoumission (média de LFI) ; TF1 Info rapporte aussi un message sur X du 14 mai 2024 : « Des gouvernants sans compréhension de l'histoire des peuples de la Grande Terre et des îles Loyauté ont joué avec les allumettes en méprisant les Kanaks ».",
+    "Glucksmann et Le Pen : positions nuancées. Glucksmann demande de « repousser » la réforme (codé contre) ; Le Pen a voté pour mais critique ensuite le calendrier (Le Parisien relève la contradiction).",
+    "Zemmour : la citation correspond au titre de la vidéo BFMTV (propos rapportés), le contenu vidéo n'a pas été transcrit.",
+    "Retailleau : pas de déclaration personnelle vérifiée ; un article de La Dépêche de Nouvelle-Calédonie (20 mai 2026) le présente comme favorable à un dégel élargi aux conjoints, mais la page n'a pas pu être ouverte (erreur 403).",
+    "Philippe : selon Arthur Delaporte en séance, É. Philippe aurait dit lors d'une audition que « ce texte ne permettra malheureusement pas de répondre à l'urgence de la situation » ; propos non vérifiés à la source.",
+    "tasks.json signale une ventilation LIOT « contre (5p/9c) » et Dem « 39p/1c/2a » : le groupe Dem n'est pas unanime ; aucune contradiction avec les votes nominatifs."
+  ]
+}

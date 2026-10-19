@@ -1,0 +1,218 @@
+{
+  "id": "ame-aide-urgence",
+  "titre": "Recentrer l'AME sur les soins urgents (résolution)",
+  "question": "Faut-il demander au gouvernement de restreindre l'aide médicale de l'État (AME) aux seuls soins urgents ?",
+  "ouiSignifie": "pour",
+  "contexte": "Cette proposition de résolution (article 34-1 de la Constitution, sans portée contraignante), présentée par Véronique Louwagie (LR), invitait le gouvernement à recentrer l'aide médicale de l'État, qui couvre les soins des étrangers en situation irrégulière sous conditions de ressources, sur les seuls soins urgents, et à revoir l'accès aux soins des demandeurs d'asile de pays sûrs, l'admission au séjour pour soins et le maintien des droits expirés. Le gouvernement Borne s'y est opposé. Elle a été rejetée le 7 juin 2023 (77 voix pour, 120 contre). En novembre 2023, le Sénat a voté la transformation de l'AME en aide médicale d'urgence dans le projet de loi immigration, une mesure ensuite supprimée par l'Assemblée.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 7 juin 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/cout_couverture_sante_etrangers"
+    },
+    {
+      "titre": "BFMTV – Loi immigration : le Sénat adopte la suppression de l'AME pour les sans-papiers (7 novembre 2023)",
+      "url": "https://www.bfmtv.com/politique/parlement/loi-immigration-le-senat-adopte-la-suppression-de-l-aide-medicale-d-etat-pour-les-sans-papiers_AD-202311070929.html"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°1780",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/cout_couverture_sante_etrangers",
+  "argumentsPour": [
+    {
+      "auteur": "Véronique Louwagie (Les Républicains, autrice)",
+      "resume": "Le coût de l'AME et des dispositifs voisins augmente fortement ; ils inciteraient à l'immigration illégale. La résolution ne supprime pas l'AME mais la recentre sur l'urgence, comme ailleurs en Europe.",
+      "citation": "Par ailleurs, ne nous en cachons pas, l’AME et la Puma – protection universelle maladie – sont devenues une véritable incitation à l’immigration illégale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259",
+      "date": "2023-06-07"
+    },
+    {
+      "auteur": "Edwige Diaz (Rassemblement national)",
+      "resume": "Une majorité de Français souhaiterait réduire l'AME aux soins d'urgence ; les sommes économisées pourraient financer les hôpitaux.",
+      "citation": "Chers collègues, imaginez combien d’hôpitaux nous pourrions désengorger, ouvrir ou rouvrir avec les milliards dépensés pour offrir la gratuité des soins aux clandestins !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259",
+      "date": "2023-06-07"
+    },
+    {
+      "auteur": "Nicolas Dupont-Aignan (non-inscrit, Debout la France)",
+      "resume": "Il dénonce des fraudes à l'AME et une immigration de prestations sociales, et réclame le rétablissement des frontières nationales.",
+      "citation": "Selon la CPAM, la caisse primaire d’assurance maladie, l’aide médicale de l’État repose à 50 % sur de fausses déclarations de revenus.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259",
+      "date": "2023-06-07"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Agnès Firmin Le Bodo (ministre déléguée, gouvernement)",
+      "resume": "Au-delà de l'évaluation, la résolution remet en cause les fondements de l'AME en la limitant aux soins urgents.",
+      "citation": "C’est bien une remise en question des fondements de l’AME que vous défendez.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259",
+      "date": "2023-06-07"
+    },
+    {
+      "auteur": "Stéphanie Rist (Renaissance)",
+      "resume": "Réduire l'AME aux soins d'urgence serait une erreur sanitaire, pour les bénéficiaires comme pour la population, et une erreur économique.",
+      "citation": "Prévenir l’urgence est évidemment bien moins coûteux que de la soigner.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259",
+      "date": "2023-06-07"
+    },
+    {
+      "auteur": "Christophe Plassard (Horizons)",
+      "resume": "Le recentrage sur l'urgence reviendrait à supprimer l'AME et aggraverait des pathologies bénignes ; la priorité est de réduire l'immigration illégale.",
+      "citation": "Mais il nous semble que le recentrage du dispositif sur les seuls soins urgents, tel que proposé par la proposition de résolution, n’est pas souhaitable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259",
+      "date": "2023-06-07"
+    },
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "Restreindre la couverture aux urgences serait dangereux pour la santé publique, comme l'a montré l'exemple espagnol.",
+      "citation": "En Espagne, la restriction de la couverture santé aux urgences avait provoqué une hausse de 15 % de la mortalité des personnes migrantes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259",
+      "date": "2023-06-07"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1780 du 7 juin 2023) ; intervention en séance.",
+      "argument": "Il dénonce des fraudes à l'AME et une immigration de prestations sociales ; selon lui, maîtriser l'immigration suppose de rétablir les frontières nationales et la primauté du droit national.",
+      "citation": "Selon la CPAM, la caisse primaire d’assurance maladie, l’aide médicale de l’État repose à 50 % sur de fausses déclarations de revenus.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259",
+      "date": "2023-06-07"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°1780) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR-NUPES, auquel il appartient, a voté contre (0-8).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780",
+      "date": "2023-06-07"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°1780) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI-NUPES, auquel il appartenait, a voté contre (0-44).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780",
+      "date": "2023-06-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°1780) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste-NUPES, auquel elle appartenait, a voté contre (0-7).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780",
+      "date": "2023-06-07"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°1780) ; aucune déclaration datée et vérifiable retrouvée. À titre indicatif, le groupe RN, qu'elle présidait, a voté pour (43-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780",
+      "date": "2023-06-07"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2023 ; aucune déclaration vérifiable retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0-44).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780",
+      "date": "2023-06-07"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté contre (0-7).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780",
+      "date": "2023-06-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, allié de Place publique, a voté contre (0-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780",
+      "date": "2023-06-07"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics dans le gouvernement Borne, qui s'est opposé à la résolution en séance (Agnès Firmin Le Bodo) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N259",
+      "date": "2023-06-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons (son parti) s'est partagé (0 pour, 3 contre, 3 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780",
+      "date": "2023-06-07"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur, président du groupe LR : vote nominatif pour l'article transformant l'AME en aide médicale d'urgence dans le projet de loi immigration (Sénat, scrutin n°24 du 7 novembre 2023).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-24.html",
+      "date": "2023-11-07"
+    },
+    "bertrand": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; candidat à l'investiture LR fin 2021, il proposait de supprimer l'AME (Le Quotidien du médecin, 3 décembre 2021). Déclaration antérieure au vote, allant au-delà de la résolution.",
+      "argument": "Propose de supprimer l'aide médicale d'État.",
+      "citation": "Supprimer l'aide médicale d'État",
+      "url": "https://www.lequotidiendumedecin.fr/actus-medicales/politique-de-sante/xavier-bertrand-supprimer-laide-medicale-detat",
+      "date": "2021-12-03"
+    },
+    "lisnard": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; candidat en 2026, il propose de supprimer l'AME (site de son parti Nouvelle Énergie), ce qui va au-delà de la résolution.",
+      "argument": "Propose de supprimer l'aide médicale d'État dans un ensemble de mesures sur les prestations non contributives.",
+      "citation": "David Lisnard propose de supprimer l’aide médicale d’État.",
+      "url": "https://www.unenouvelleenergie.fr/questions/quel-candidat-propose-de-supprimer-l-aide-medicale-d-etat/",
+      "date": "2026-08-18"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration vérifiable retrouvée (page de l'Institut Montaigne sur son programme 2022 inaccessible) ; aucun groupe de Reconquête à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1780",
+      "date": "2023-06-07"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur une proposition de résolution (article 34-1), sans effet juridique : question reformulée en « demander au gouvernement » pour refléter ce caractère non contraignant.",
+    "La résolution allait au-delà de l'AME (demandeurs d'asile de pays sûrs, séjour pour soins, maintien des droits) ; la question se concentre sur l'AME.",
+    "Retailleau : position tirée d'un vote au Sénat sur le même sujet (transformation de l'AME en aide médicale d'urgence, novembre 2023), et non d'un vote sur cette résolution.",
+    "Bertrand : source = titre et chapeau d'un article du Quotidien du médecin (2021) dont la suite est réservée aux abonnés ; la citation est le titre attribué à Xavier Bertrand. Il propose une suppression, plus radicale que la résolution.",
+    "Lisnard : source partisane (site de Nouvelle Énergie, 2026) ; la citation est une phrase du site, pas ses propres mots.",
+    "Le Pen, Zemmour, Mélenchon : aucune déclaration primaire vérifiable retrouvée rapidement (seuls des agrégateurs de programmes, non retenus).",
+    "Attal : position déduite de son appartenance au gouvernement qui s'opposait à la résolution."
+  ]
+}

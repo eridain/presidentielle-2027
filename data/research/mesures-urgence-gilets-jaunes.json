@@ -1,0 +1,216 @@
+{
+  "id": "mesures-urgence-gilets-jaunes",
+  "titre": "Mesures d'urgence « gilets jaunes » (déc. 2018)",
+  "question": "Faut-il adopter les mesures d'urgence de décembre 2018 (heures supplémentaires défiscalisées, prime exceptionnelle défiscalisée, annulation de la hausse de CSG pour une partie des retraités) ?",
+  "ouiSignifie": "pour",
+  "contexte": "En réponse au mouvement des « gilets jaunes », le président de la République a annoncé le 10 décembre 2018 un « état d'urgence économique et sociale ». Le projet de loi de quatre articles qui en découle permet une prime exceptionnelle exonérée de cotisations et d'impôt jusqu'à 1 000 euros (salariés payés jusqu'à 3 600 euros par mois), exonère les heures supplémentaires de cotisations salariales et d'impôt sur le revenu dès le 1er janvier 2019, et ramène la CSG à 6,6 % pour les retraités dont le revenu fiscal de référence est inférieur à 22 580 euros (environ 2 000 euros de pension pour une personne seule) ; la hausse de la prime d'activité passe par voie réglementaire. L'Assemblée l'a adopté dans la nuit du 20 au 21 décembre 2018 (153 voix contre 9, 58 abstentions), le Sénat le 21 décembre sans modification, et la loi a été promulguée le 24 décembre 2018.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Dossier législatif (exposé des motifs)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/mesures_urgence_economiques_sociales"
+    },
+    {
+      "titre": "vie-publique.fr – Les annonces du président de la République (11 décembre 2018)",
+      "url": "https://www.vie-publique.fr/en-bref/20065-mouvement-des-gilets-jaunes-les-annonces-du-president-de-la-republique"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1613",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/mesures_urgence_economiques_sociales",
+  "argumentsPour": [
+    {
+      "auteur": "Patrick Mignola (MoDem)",
+      "resume": "La crise des gilets jaunes révèle des décennies de renoncements ; la responsabilité commande de voter rapidement ces mesures d'urgence.",
+      "citation": "Cette responsabilité commande aujourd’hui de voter des mesures d’urgence.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N115",
+      "date": "2018-12-21"
+    },
+    {
+      "auteur": "Gilles Le Gendre (LaREM)",
+      "resume": "Le texte répond à l'urgence et recueille un large assentiment sur tous les bancs, « une forme d'union nationale ».",
+      "citation": "En définitive, ces quatre grands articles recueillent un large assentiment.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N115",
+      "date": "2018-12-21"
+    },
+    {
+      "auteur": "Paul Christophe (UDI, Agir et indépendants)",
+      "resume": "Le groupe soutient ces mesures qu'il réclamait (heures supplémentaires défiscalisées, retour sur la CSG), tout en jugeant qu'elles ne suffiront pas.",
+      "citation": "Heures supplémentaires défiscalisées, retour sur la hausse de la CSG : autant de mesures sur lesquelles nous vous avions déjà interpellés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N115",
+      "date": "2018-12-21"
+    },
+    {
+      "auteur": "Paul Molac (Libertés et territoires)",
+      "resume": "Les mesures marquent une inflexion et un pas dans la bonne direction pour les difficultés des citoyens.",
+      "citation": "C’était une nécessité, je pense en particulier à la modification du taux de CSG pour les retraités modestes, à la prime d’activité et aux heures supplémentaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N115",
+      "date": "2018-12-21"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Clémentine Autain (La France insoumise)",
+      "resume": "Le texte ne contient que des « miettes » et des « rustines » au lieu de vraies mesures d'urgence sociale.",
+      "citation": "Ce projet de loi ne contient que des miettes, il n’appose que des rustines.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N115",
+      "date": "2018-12-21"
+    },
+    {
+      "auteur": "Pierre Dharréville (GDR)",
+      "resume": "Le gouvernement contourne la nécessaire augmentation du SMIC et des salaires ; la seule concession réelle concerne la CSG d'une partie des retraités.",
+      "citation": "Avec ce projet de loi, au fond, vous faites tout pour contourner la nécessaire augmentation du SMIC et des salaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N115",
+      "date": "2018-12-21"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Christian Jacob (LR)",
+      "resume": "Les engagements présidentiels ne sont pas tenus : les heures supplémentaires restent soumises à CSG et CRDS et le seuil de CSG est plus bas pour les couples.",
+      "citation": "À la lumière de ce débat, on peut dire que c’est faux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N115",
+      "date": "2018-12-21"
+    },
+    {
+      "auteur": "Joël Aviragnet (Socialistes)",
+      "resume": "La suppression de la hausse de CSG est un premier pas mais tardif et insuffisant, alors que l'ISF a été supprimé.",
+      "citation": "Quand on soulage les plus riches de l’ISF et que, à côté, on prend de la CSG à ceux qui ont le moins, ça rend les gens fous !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N115",
+      "date": "2018-12-21"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote final (scrutin AN n°1613), bien que présent dans la séance (interjections). Proxy indicatif : le groupe FI a voté contre (Clémentine Autain : « des miettes »).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1613). Proxy indicatif : le groupe GDR a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1613). Proxy indicatif : le groupe FI a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national en 2018 ; pas de déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1613).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste s'est abstenu (8 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'éducation nationale ; membre du gouvernement qui a porté le texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/mesures_urgence_economiques_sociales",
+      "date": "2018-12-21"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a présenté le projet de loi mettant en œuvre les annonces du 10 décembre 2018.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/mesures_urgence_economiques_sociales",
+      "date": "2018-12-21"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président du groupe LR au Sénat ; le texte y a été adopté le 21 décembre 2018 sans scrutin public retrouvé dans la liste des scrutins du Sénat. Proxy indicatif : le groupe LR de l'Assemblée s'est abstenu (1 pour, 48 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région (ex-LR) ; pas de déclaration retrouvée. Proxy indicatif : abstention du groupe LR de l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; pas de déclaration retrouvée. Proxy indicatif : abstention du groupe LR de l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°1613) ; non-inscrite, pas d'intervention retrouvée dans la séance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N115",
+      "date": "2018-12-21"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2018 ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote final (scrutin AN n°1613) ; intervenu sur l'article 2, il saluait les heures supplémentaires défiscalisées tout en réclamant la réindexation des pensions sur l'inflation.",
+      "argument": "Juge l'article 2 « une bonne nouvelle et une mauvaise » : bonne pour les heures supplémentaires, insuffisante faute de réindexation des pensions de retraite.",
+      "citation": "L’article 2 constitue une bonne nouvelle et une mauvaise.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N115",
+      "date": "2018-12-20"
+    }
+  },
+  "alertes": [
+    "Scrutin nocturne (vers 4 h 30) à faible participation : Mélenchon, Roussel, Ruffin, Batho, Dupont-Aignan n'ont pas pris part au vote final.",
+    "LR (48 abstentions) et les socialistes (8 abstentions) se sont abstenus : arguments classés dans argumentsAbstention.",
+    "La hausse de 100 euros pour un salarié au SMIC passe par la prime d'activité, revalorisée par décret : elle ne figure pas dans les mesures votées ici (le texte prévoit seulement un rapport).",
+    "Retailleau : aucun scrutin public au Sénat retrouvé pour ce texte (adopté conforme le 21 décembre 2018) ; position inconnue.",
+    "Dupont-Aignan : citation de son intervention sur l'article 2 (et non sur l'ensemble) ; il n'a pas voté l'ensemble."
+  ]
+}

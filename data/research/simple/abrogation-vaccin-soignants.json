@@ -1,0 +1,18 @@
+{
+  "id": "abrogation-vaccin-soignants",
+  "questionSimple": "Faut-il supprimer l'obligation pour les soignants d'être vaccinés contre le Covid et réintégrer ceux qui ont été suspendus ?",
+  "enBref": "Depuis 2021, les soignants non vaccinés contre le Covid étaient suspendus, sans salaire. En 2023, des députés ont voulu supprimer cette obligation par la loi et réintégrer ces soignants.",
+  "pourquoiPour": "Ceux qui ont voté pour estiment que l'urgence sanitaire est finie. Pour eux, c'est au Parlement, et non au gouvernement seul, de décider d'une telle obligation.",
+  "pourquoiContre": "Ceux qui ont voté contre veulent pouvoir rétablir l'obligation en cas de nouvelle vague. Ils préféraient une simple suspension par décret.",
+  "ceQuiSestPasse": "Adoptée par les députés (157 pour, 137 contre), la loi n'a jamais été votée au Sénat ; l'obligation a été suspendue par décret le 13 mai 2023.",
+  "lexique": [
+    {
+      "terme": "Obligation vaccinale",
+      "definition": "Règle qui impose un vaccin pour exercer certains métiers."
+    },
+    {
+      "terme": "Décret",
+      "definition": "Texte pris par le gouvernement seul, sans vote du Parlement."
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+{
+  "id": "salaires-plus-10",
+  "titre": "Hausse des salaires de 10 % exonérée de cotisations (proposition RN, 2023)",
+  "question": "Faut-il exonérer de cotisations patronales les hausses de salaire jusqu'à 10 % pour inciter les entreprises à augmenter les salaires nets ?",
+  "ouiSignifie": "contre",
+  "contexte": "Lors de sa première journée réservée, le 12 janvier 2023, le groupe RN a présenté une proposition de loi de Jean-Philippe Tanguy (rapporteur Christophe Bentz) visant à inciter les entreprises à augmenter de 10 % les salaires nets : pendant trois ans, les hausses de salaire jusqu'à 10 % accordées aux salariés payés jusqu'à trois fois le SMIC auraient été exonérées de cotisations patronales, sur la base du volontariat. Le scrutin retenu porte sur les amendements de suppression de l'article 1er (déposés notamment par le socialiste Jérôme Guedj) : voter pour ces amendements revenait à refuser la mesure. Ils ont été adoptés par 124 voix contre 85 (6 abstentions), la majorité présidentielle et la gauche votant pour la suppression, le RN contre, LR s'abstenant. L'article 2 (gage financier) ayant aussi été supprimé, la proposition de loi a été rejetée dans son ensemble.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 12 janvier 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/favoriser_inciter_entreprises_augmenter_salaires_nets"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/824",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/favoriser_inciter_entreprises_augmenter_salaires_nets",
+  "argumentsPour": [
+    {
+      "auteur": "Jérôme Guedj (Socialistes)",
+      "resume": "Les exonérations privent la Sécurité sociale de ressources et nient le principe du salaire différé.",
+      "citation": "Si vous procédez ainsi à des exonérations systématiques, quelles seront alors les ressources de la sécurité sociale et de la protection sociale ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    },
+    {
+      "auteur": "François Ruffin (LFI-NUPES)",
+      "resume": "Alléger les charges, c'est « du Macron » : augmenter les salaires suppose de toucher aux profits et aux dividendes, pas de priver la protection sociale de recettes.",
+      "citation": "Comment faire, sans toucher aux bénéfices, aux dividendes et aux profits ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    },
+    {
+      "auteur": "Marc Ferracci (Renaissance)",
+      "resume": "Mesure coûteuse et source d'effets d'aubaine ; près du SMIC, les employeurs ne paient déjà presque plus de cotisations.",
+      "citation": "Je ne reviendrai pas sur les arguments que j’ai déjà développés contre cette mesure inapplicable, coûteuse et inefficace.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    },
+    {
+      "auteur": "Olivier Dussopt (ministre du travail)",
+      "resume": "L'indexation du SMIC est déjà particulièrement protectrice.",
+      "citation": "En premier lieu, notre système d’indexation du Smic est particulièrement protecteur, pour trois raisons au moins.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Christophe Bentz (RN, rapporteur)",
+      "resume": "Mesure sociale urgente qui soutient les salariés sans pénaliser les entreprises ; elle concerne près de 90 % des salariés.",
+      "citation": "C’est une mesure sociale urgente qui soutient les salariés sans pénaliser les entreprises et sans rien coûter à l’État.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    },
+    {
+      "auteur": "Marine Le Pen (RN)",
+      "resume": "Contrairement à une hausse du SMIC, le dispositif est volontaire et ne met pas en difficulté les entreprises qui n'en ont pas les moyens.",
+      "citation": "Nous proposons un dispositif limité à trois ans, qui ne coûtera rien.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    },
+    {
+      "auteur": "Marine Le Pen (RN)",
+      "resume": "Une hausse de salaire, contrairement à une prime, compte pour louer un logement ou obtenir un crédit.",
+      "citation": "Avec notre mesure, les salariés auraient pu demander à la banque un crédit sur la base d’un salaire augmenté de 10 % et non sur la base d’une prime",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    },
+    {
+      "auteur": "Nicolas Dupont-Aignan (non inscrit)",
+      "resume": "Face à la chute du pouvoir d'achat, la mesure est imparfaite mais concrète et immédiate ; il faut l'adopter.",
+      "citation": "La proposition de loi n’est pas suffisante, mais il faut quand même l’adopter",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Josiane Corneloup (LR)",
+      "resume": "Les allègements de cotisations visent l'emploi plus que les salaires ; leur effet sur les salaires est douteux et le coût considérable.",
+      "citation": "Il est douteux que l’allégement des cotisations sociales que vous prônez ait une incidence sur le niveau des salaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2022 ; pas de déclaration retrouvée. Proxy indicatif : le groupe LFI-NUPES a voté pour les amendements de suppression (16 pour la suppression).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°824). Proxy indicatif : le groupe GDR-NUPES a voté pour les amendements de suppression de la mesure (5 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté pour l'amendement de suppression de l'article 1er (scrutin AN n°824), donc contre l'exonération ; intervenu en discussion générale.",
+      "argument": "Juge que des exonérations de cotisations patronales reviennent à la politique d'Emmanuel Macron et priveraient la protection sociale de recettes, au lieu de toucher aux profits et dividendes.",
+      "citation": "Vous répondez : avec des exonérations de cotisations patronales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; pas de déclaration retrouvée. Proxy indicatif : le groupe Écologiste-NUPES a voté pour les amendements de suppression (8 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°824). Proxy indicatif : le groupe Écologiste-NUPES a voté pour les amendements de suppression.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste a voté pour les amendements de suppression (9 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des comptes publics du gouvernement Borne, qui s'opposait à la mesure et soutenait donc sa suppression (ministre du travail Olivier Dussopt).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons ; pas de déclaration retrouvée. Proxy indicatif : le groupe Horizons a voté pour les amendements de suppression (6 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte rejeté à l'Assemblée, jamais examiné au Sénat. Pas de déclaration retrouvée. Proxy indicatif : le groupe LR de l'Assemblée s'est abstenu (5 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; pas de déclaration retrouvée. Proxy indicatif : abstention du groupe LR de l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; pas de déclaration retrouvée. Proxy indicatif : abstention du groupe LR de l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre l'amendement de suppression de l'article 1er (scrutin AN n°824), donc pour la mesure de son groupe ; intervenue dans la discussion.",
+      "argument": "Défend un dispositif volontaire, limité à trois ans, qui permet d'augmenter les salaires de 90 % des Français sans mettre les entreprises en difficulté.",
+      "citation": "Nous proposons un dispositif limité à trois ans, qui ne coûtera rien.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député en 2023 ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre l'amendement de suppression (scrutin AN n°824), donc pour la mesure ; intervenu dans la discussion.",
+      "argument": "Juge la proposition imparfaite mais concrète face à la baisse du pouvoir d'achat ; il avait lui-même proposé d'augmenter les salaires nets de 10 % pendant la présidentielle.",
+      "citation": "La proposition de loi n’est pas suffisante, mais il faut quand même l’adopter",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N113",
+      "date": "2023-01-12"
+    }
+  },
+  "alertes": [
+    "Sens inversé (sens contre=oui, ouiSignifie = « contre ») : le scrutin porte sur des amendements de SUPPRESSION de la mesure. Position « pour » = pour la suppression, donc Non à l'exonération ; « contre » = Oui à l'exonération. Les argumentsPour sont ceux des partisans de la suppression.",
+    "Opposition venue de bords opposés : la gauche (défense des cotisations et de la Sécurité sociale) et la majorité présidentielle (coût, effets d'aubaine).",
+    "Proposition de loi du RN examinée lors de sa journée réservée : plusieurs groupes revendiquaient de ne pas voter un texte du RN, ce qui a pesé sur le vote selon Dupont-Aignan (non vérifiable).",
+    "Attal : position déduite de son appartenance au gouvernement, qui s'opposait au texte."
+  ]
+}

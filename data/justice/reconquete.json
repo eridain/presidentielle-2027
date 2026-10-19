@@ -1,0 +1,386 @@
+{
+ "partiId": "reconquete",
+ "nom": "Reconquête",
+ "sigle": "R!",
+ "predecesseurs": [
+  "Les Amis d'Éric Zemmour (association, 2021)"
+ ],
+ "fondation": "2021",
+ "direction": [
+  {
+   "nom": "Éric Zemmour",
+   "fonction": "président",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  },
+  {
+   "nom": "Sarah Knafo",
+   "fonction": "secrétaire générale ; députée européenne",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  },
+  {
+   "nom": "Gilbert Payet",
+   "fonction": "trésorier",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  },
+  {
+   "nom": "Samuel Lafont",
+   "fonction": "membre du comité opérationnel",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  },
+  {
+   "nom": "Thomas Culerrier",
+   "fonction": "membre du comité opérationnel (chargé des fédérations)",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  },
+  {
+   "nom": "Hilaire Bouyé",
+   "fonction": "membre du comité opérationnel",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  },
+  {
+   "nom": "Éléonore Lhéritier",
+   "fonction": "membre du comité opérationnel",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  },
+  {
+   "nom": "Sophie Calvel",
+   "fonction": "membre du comité opérationnel",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  },
+  {
+   "nom": "Mondane Langlois",
+   "fonction": "membre du comité opérationnel",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  },
+  {
+   "nom": "Diane Ouvry",
+   "fonction": "membre du comité opérationnel",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  },
+  {
+   "nom": "Matthieu Louves",
+   "fonction": "membre du comité opérationnel",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  },
+  {
+   "nom": "Johanna Humphrey",
+   "fonction": "membre du comité opérationnel",
+   "url": "https://www.parti-reconquete.fr/equipe"
+  }
+ ],
+ "presentation": "Reconquête est un parti politique français fondé le 5 décembre 2021 par Éric Zemmour, qui le préside depuis. Wikipédia le classe à l'« extrême droite » et lui attribue comme idéologies le nationalisme, l'identitarisme et l'opposition à l'immigration. Après avoir obtenu cinq sièges aux européennes de 2024 (5,47 %), le parti ne compte plus qu'une députée européenne, Sarah Knafo, et aucun député ni sénateur.",
+ "presentationSources": [
+  {
+   "titre": "Reconquête (parti politique) — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Reconqu%C3%AAte_(parti_politique)"
+  },
+  {
+   "titre": "Reconquête au Parlement européen — parti-reconquete.fr",
+   "url": "https://www.parti-reconquete.fr/parlement-europeen"
+  }
+ ],
+ "effectifs": {
+  "deputes": 0,
+  "senateurs": 0,
+  "eurodeputes": 1,
+  "source": "https://fr.wikipedia.org/wiki/Reconqu%C3%AAte_(parti_politique)"
+ },
+ "candidats": [
+  {
+   "id": "zemmour",
+   "bio": "Éric Zemmour, né en 1958 à Montreuil, a été journaliste au Quotidien de Paris puis au Figaro, ainsi que chroniqueur de radio et de télévision. Il fonde Reconquête en 2021 et obtient 7,07 % des voix au premier tour de la présidentielle de 2022. Le 17 septembre 2026, il a confirmé sur BFMTV qu'il serait candidat à la présidentielle de 2027.",
+   "sources": [
+    {
+     "titre": "Éric Zemmour — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89ric_Zemmour"
+    },
+    {
+     "titre": "Éric Zemmour officialise sa candidature à la présidentielle 2027 — Public Sénat, 18/09/2026",
+     "url": "https://www.publicsenat.fr/actualites/politique/eric-zemmour-officialise-sa-candidature-a-la-presidentielle-2027"
+    },
+    {
+     "titre": "Présidentielle 2027 : Éric Zemmour confirme qu'il sera candidat — La Croix, 18/09/2026",
+     "url": "https://www.la-croix.com/politique/presidentielle-2027-eric-zemmour-confirme-qu-il-sera-candidat-20260918"
+    }
+   ]
+  }
+ ],
+ "condamnations": [
+  {
+   "personne": "Zemmour Éric",
+   "categorie": "candidat",
+   "roleActuel": "président de Reconquête, candidat à l'élection présidentielle de 2027",
+   "infraction": "provocation à la discrimination raciale",
+   "faits": "Propos tenus le 6 mars 2010 sur Canal+ (« Salut les terriens ») et France Ô, dont « la plupart des trafiquants sont noirs et arabes ».",
+   "juridiction": "tribunal correctionnel de Paris (17e chambre)",
+   "dateDecision": "2011-02-18",
+   "peine": "2 000 euros d'amende avec sursis au total (deux jugements de 1 000 euros avec sursis chacun selon Wikipédia), plus dommages et intérêts ; relaxe pour diffamation",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Eric Zemmour reconnu coupable de provocation à la discrimination raciale — 20 Minutes (AFP)",
+     "url": "https://www.20minutes.fr/societe/672603-20110218-societe-eric-zemmour-reconnu-coupable-provocation-discrimination-raciale",
+     "citation": "Le tribunal correctionnel de Paris a condamné ce vendredi Eric Zemmour à 2.000 euros d'amende avec sursis pour provocation à la haine raciale pour ses propos controversés sur «les Noirs et les Arabes»",
+     "date": "2011-02-18"
+    },
+    {
+     "titre": "Eric Zemmour ne fait pas appel de sa condamnation — BFMTV (Reuters)",
+     "url": "https://www.bfmtv.com/societe/eric-zemmour-ne-fait-pas-appel-de-sa-condamnation_AN-201103010003.html",
+     "citation": "Eric Zemmour ne fera pas appel de sa condamnation par le tribunal correctionnel de Paris pour provocation à la discrimination raciale.",
+     "date": "2011-03-01"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Zemmour Éric",
+   "categorie": "candidat",
+   "roleActuel": "président de Reconquête, candidat à l'élection présidentielle de 2027",
+   "infraction": "provocation à la haine religieuse (envers les musulmans)",
+   "faits": "Propos tenus le 6 septembre 2016 dans l'émission « C à vous » (France 5), dont donner aux musulmans « le choix entre l'islam et la France ».",
+   "juridiction": "cour d'appel de Paris (pourvoi rejeté par la Cour de cassation le 2019-09-17)",
+   "dateDecision": "2018-05-03",
+   "peine": "3 000 euros d'amende selon l'AFP (L'Obs, L'Express), plus un euro de dommages et intérêts et 1 000 euros de frais de justice",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Zemmour définitivement condamné pour « provocation à la haine religieuse » — L'Obs (AFP)",
+     "url": "https://www.nouvelobs.com/teleobs/20190919.OBS18672/zemmour-definitivement-condamne-pour-provocation-a-la-haine-religieuse.html",
+     "citation": "Le polémiste Éric Zemmour est définitivement condamné à 3 000 euros d’amende pour provocation à la haine religieuse après des propos anti-musulmans tenus en 2016, après le rejet de son pourvoi en cassation",
+     "date": "2019-09-19"
+    },
+    {
+     "titre": "Zemmour saisit la CEDH après sa condamnation pour provocation à la haine religieuse — L'Express (AFP)",
+     "url": "https://www.lexpress.fr/societe/zemmour-saisit-la-cedh-apres-sa-condamnation-pour-provocation-a-la-haine-religieuse_2104062.html",
+     "citation": "En septembre, la Cour de cassation avait rejeté son recours contre un arrêt de la cour d'appel de Paris de mai 2018 qui condamnait le chroniqueur et polémiste à une amende de 3.000 euros",
+     "date": "2019-10-18"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Zemmour Éric",
+   "categorie": "candidat",
+   "roleActuel": "président de Reconquête, candidat à l'élection présidentielle de 2027",
+   "infraction": "injure publique et provocation publique à la haine en raison de l'origine (« provocation à la haine raciale et injures racistes »)",
+   "faits": "Discours prononcé le 28 septembre 2019 à la « convention de la droite » à Paris (immigrés « colonisateurs », voile et djellaba « uniformes d'une armée d'occupation »).",
+   "juridiction": "cour d'appel de Paris, sur renvoi après cassation (pourvoi rejeté par la Cour de cassation le 2025-09-16)",
+   "dateDecision": "2024-02-22",
+   "peine": "15 000 euros d'amende, plus 1 000 euros de dommages et intérêts et 2 000 euros de frais de procédure (selon Wikipédia)",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Éric Zemmour définitivement condamné pour des propos racistes en 2019 — franceinfo",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-definitivement-condamne-pour-des-propos-racistes-en-2019_7497130.html",
+     "citation": "Éric Zemmour a été définitivement condamné mardi 16 septembre pour provocation à la haine raciale et injures racistes pour des propos tenus en 2019",
+     "date": "2025-09-17"
+    },
+    {
+     "titre": "Éric Zemmour condamné à son deuxième procès en appel pour sa diatribe anti-islam et anti-immigration — HuffPost (AFP)",
+     "url": "https://www.huffingtonpost.fr/justice/article/eric-zemmour-condamne-a-son-deuxieme-proces-en-appel-pour-sa-diatribe-anti-islam-et-anti-immigration_230199.html",
+     "citation": "Éric Zemmour a été condamné ce jeudi 22 février à 15 000 euros d’amende pour sa virulente diatribe contre l’islam et l’immigration en 2019 lors de la « convention de la droite »",
+     "date": "2024-02-22"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Zemmour Éric",
+   "categorie": "candidat",
+   "roleActuel": "président de Reconquête, candidat à l'élection présidentielle de 2027",
+   "infraction": "complicité d'injure publique et de provocation publique à la haine en raison de l'origine",
+   "faits": "Propos tenus en septembre 2020 sur CNews au sujet des mineurs étrangers isolés (« voleurs », « assassins », « violeurs »).",
+   "juridiction": "cour d'appel de Paris (pourvoi rejeté par la Cour de cassation le 2025-12-02)",
+   "dateDecision": "2024-09-12",
+   "peine": "100 jours-amende à 100 euros (soit 10 000 euros), confirmation du jugement du tribunal correctionnel de Paris du 17 janvier 2022",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Éric Zemmour a été définitivement condamné pour complicité de provocation à la haine après ses propos tenus sur des mineurs isolés — franceinfo (AFP)",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-a-ete-definitivement-condamne-pour-complicite-de-provocation-a-la-haine-apres-ses-propos-tenus-sur-des-mineurs-isoles_7653920.html",
+     "citation": "La Cour de cassation a rejeté le pourvoi d'Eric Zemmour contre sa condamnation pour complicité d'injure publique et de provocation à la haine après ses propos sur les mineurs isolés tenus en 2020 sur CNews",
+     "date": "2025-12-02"
+    },
+    {
+     "titre": "Mineurs isolés, injures homophobes… Éric Zemmour condamné et relaxé en appel dans deux affaires distinctes — Le Parisien (AFP)",
+     "url": "https://www.leparisien.fr/faits-divers/mineurs-isoles-injures-homophobes-eric-zemmour-condamne-et-relaxe-en-appel-dans-deux-affaires-distinctes-12-09-2024-N6I6A5WENBHBDKNOQC6JFVBK4E.php",
+     "citation": "La cour d’appel de Paris a confirmé le jugement du 17 janvier 2022 qui avait infligé à l’ex-candidat à la présidentielle une peine de 100 jours-amende à 100 euros",
+     "date": "2024-09-12"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Zemmour Éric",
+   "categorie": "candidat",
+   "roleActuel": "président de Reconquête, candidat à l'élection présidentielle de 2027",
+   "infraction": "injure publique en raison de l'origine, l'ethnie, la nation, la race ou la religion",
+   "faits": "Propos tenus en 2018 qualifiant d'« insulte à la France » le prénom de la chroniqueuse Hapsatou Sy.",
+   "juridiction": "cour d'appel de Paris (pourvoi rejeté par la Cour de cassation le 2025-09-02)",
+   "dateDecision": "2024-03-28",
+   "peine": "4 000 euros d'amende (jugement du tribunal correctionnel de janvier 2023 confirmé), 3 000 euros de dommages et intérêts, frais de justice",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Confirmation en appel de la condamnation d'Eric Zemmour pour injure raciste envers Hapsatou Sy — franceinfo (AFP)",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/confirmation-en-appel-de-la-condamnation-d-eric-zemmour-pour-injure-raciste-envers-hapsatou-sy_6453914.html",
+     "citation": "Le tribunal correctionnel avait reconnu le polémiste d'extrême droite coupable \"d'insulte publique en raison de l'origine, l'ethnie, la nation, la race ou la religion\" et lui avait infligé une amende de 4 000 euros.",
+     "date": "2024-03-28"
+    },
+    {
+     "titre": "Le prénom d’Hapsatou Sy, « insulte à la France » : la Cour de cassation confirme la condamnation d’Éric Zemmour — Le Parisien",
+     "url": "https://www.leparisien.fr/politique/le-prenom-dhapsatou-sy-insulte-a-la-france-la-cour-de-cassation-confirme-la-condamnation-deric-zemmour-03-09-2025-DWAHRZ6GFNFTXH7ZVRMEGYZJPU.php",
+     "citation": "La Cour de cassation a rejeté ce mardi le pourvoi formé par Éric Zemmour, confirmant sa condamnation pour injure à caractère raciste.",
+     "date": "2025-09-03"
+    }
+   ],
+   "famille": "haine"
+  },
+  {
+   "personne": "Zemmour Éric",
+   "categorie": "candidat",
+   "roleActuel": "président de Reconquête, candidat à l'élection présidentielle de 2027",
+   "infraction": "diffamation publique envers un particulier (l'avocat Patrick Klugman)",
+   "faits": "Propos tenus le 5 avril 2022 sur France 2, pendant la campagne présidentielle, accusant l'avocat d'avoir voulu « étouffer » l'affaire Jérémie Cohen.",
+   "juridiction": "tribunal correctionnel de Paris ; condamnation confirmée par la cour d'appel de Paris le 2024-12-05 (pourvoi rejeté par la Cour de cassation le 2025-12-02)",
+   "dateDecision": "2024-12-05",
+   "peine": "1 000 euros d'amende, 2 000 euros de dommages et intérêts et 2 000 euros de frais d'avocat (première instance)",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Mort de Jérémie Cohen en 2022 : Eric Zemmour condamné à 1 000 euros d'amende pour diffamation — franceinfo (AFP)",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/mort-de-jeremie-cohen-en-2022-eric-zemmour-condamne-a-1-000-euros-d-amende-pour-diffamation_6312012.html",
+     "citation": "a été déclaré coupable de \"diffamation publique\" envers Patrick Klugman, et condamné à 1 000 euros d'amende, jeudi 18 janvier.",
+     "date": "2024-01-18"
+    },
+    {
+     "titre": "La Cour de cassation confirme deux condamnations d’Éric Zemmour… — Le Club des Juristes",
+     "url": "https://www.leclubdesjuristes.com/en-bref/la-cour-de-cassation-confirme-deux-condamnations-deric-zemmour-pour-complicite-dinjure-publique-provocation-a-la-haine-et-pour-diffamation-13229/",
+     "citation": "Les juges rejettent ainsi les deux pourvois du président de Reconquête !, rendant les condamnations à cent jours-amende de 100 euros (pour complicité d’injure publique et provocation à la haine) et 1000 euros d’amende (pour diffamation) définitives.",
+     "date": "2025-12-03"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Zemmour Éric",
+   "categorie": "candidat",
+   "roleActuel": "président de Reconquête, candidat à l'élection présidentielle de 2027",
+   "infraction": "complicité de diffamation publique envers une administration publique (Ined)",
+   "faits": "Propos tenus en avril 2021 sur CNews (« Face à l'info ») accusant l'Institut national d'études démographiques de « trafiquer » les chiffres de l'immigration.",
+   "juridiction": "cour d'appel de Paris (pourvoi rejeté par la Cour de cassation le 2026-01-27)",
+   "dateDecision": "2024-12-11",
+   "peine": "1 500 euros d'amende avec sursis (tribunal correctionnel de Paris, 29 janvier 2024), condamnation confirmée en appel avec un euro de dommages et intérêts et 2 000 euros de frais d'avocat",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Cour de cassation : Zemmour et CNews définitivement condamnés dans l'affaire Ined — ActuaLitté",
+     "url": "https://actualitte.com/article/129048/droit-justice/cour-de-cassation-zemmour-et-cnews-definitivement-condamnes-dans-l-affaire-ined",
+     "citation": "La 17ᵉ chambre correctionnelle du tribunal judiciaire de Paris reconnaît Éric Zemmour coupable de complicité de diffamation publique envers une administration publique.",
+     "date": "2026-02-01"
+    },
+    {
+     "titre": "Éric Zemmour et CNews définitivement condamnés pour diffamation sur les chiffres de l’immigration — Télérama",
+     "url": "https://www.telerama.fr/television/eric-zemmour-et-cnews-definitivement-condamnes-pour-diffamation-sur-les-chiffres-de-l-immigration-7029554.php",
+     "citation": "La Cour de cassation a rejeté fin janvier les recours de CNews et d’Éric Zemmour après leur condamnation en décembre 2024 pour diffamation envers l’Institut national d’études démographiques (Ined).",
+     "date": "2026-02-03"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Zemmour Éric",
+   "categorie": "candidat",
+   "roleActuel": "président de Reconquête, candidat à l'élection présidentielle de 2027",
+   "infraction": "complicité de diffamation publique envers un citoyen chargé d'un mandat public (la députée Danièle Obono)",
+   "faits": "Propos tenus en août 2020 dans l'émission « Face à l'info » (CNews) attribuant notamment à la députée de « dire tout son amour pour Mohammed Merah ».",
+   "juridiction": "tribunal correctionnel de Paris (condamnation confirmée en appel puis, selon les sources ci-dessous, par la Cour de cassation en juin 2026)",
+   "dateDecision": "2024-02-07",
+   "peine": "1 000 euros d'amende avec sursis et 1 000 euros de dommages et intérêts (première instance)",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Eric Zemmour condamné pour complicité de diffamation à l'encontre de Danièle Obono — franceinfo (AFP)",
+     "url": "https://www.franceinfo.fr/politique/eric-zemmour/eric-zemmour-condamne-pour-complicite-de-diffamation-a-l-encontre-de-daniele-obono_6351307.html",
+     "citation": "Eric Zemmour a été reconnu coupable par le tribunal correctionnel de Paris, mercredi 7 février, de complicité de diffamation publique à l'encontre de la députée Danièle Obono",
+     "date": "2024-02-07"
+    },
+    {
+     "titre": "France : L'élue LFI Danièle Obono annonce la condamnation définitive de CNews et d'Éric Zemmour pour diffamation — Anadolu",
+     "url": "https://www.aa.com.tr/fr/monde/france-l%C3%A9lue-lfi-dani%C3%A8le-obono-annonce-la-condamnation-d%C3%A9finitive-de-cnews-et-d%C3%A9ric-zemmour-pour-diffamation/3977867",
+     "citation": "La députée de La France insoumise (LFI) Danièle Obono a annoncé, jeudi, que la Cour de cassation avait définitivement condamné la chaîne CNews et Éric Zemmour pour diffamation dans une affaire remontant à 2020.",
+     "date": "2026-06-25"
+    },
+    {
+     "titre": "CNews définitivement condamnée pour les propos diffamatoires d’Éric Zemmour contre Danièle Obono — Mediapart",
+     "url": "https://www.mediapart.fr/journal/politique/260626/cnews-definitivement-condamnee-pour-les-propos-diffamatoires-d-eric-zemmour-contre-daniele-obono",
+     "citation": "la chaîne de Vincent Bolloré a été définitivement condamnée, mardi 23 juin, pour diffamation envers la députée La France insoumise (LFI) Danièle Obono.",
+     "date": "2026-06-26"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Zemmour Éric",
+   "categorie": "candidat",
+   "roleActuel": "président de Reconquête, candidat à l'élection présidentielle de 2027",
+   "infraction": "contestation de crime contre l'humanité",
+   "faits": "Propos tenus le 21 octobre 2019 sur CNews (« Face à l'info ») affirmant que le maréchal Pétain avait « sauvé » les juifs français.",
+   "juridiction": "cour d'appel de Paris, sur renvoi après cassation de la relaxe",
+   "dateDecision": "2025-04-02",
+   "peine": "10 000 euros d'amende, un euro de dommages et intérêts et 1 200 euros de frais de justice à chacune des cinq associations parties civiles",
+   "statut": "pourvoi_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Éric Zemmour condamné à 10.000 euros d'amende pour avoir affirmé que Pétain avait \"sauvé\" les juifs français — TF1 Info (AFP)",
+     "url": "https://www.tf1info.fr/justice-faits-divers/eric-zemmour-condamne-a-10-000-euros-d-amende-pour-avoir-affirme-que-petain-avait-sauve-les-juifs-francais-2362813.html",
+     "citation": "Éric Zemmour a été condamné mercredi par la cour d'appel de Paris à 10.000 euros d'amende pour contestation de crime contre l'humanité.",
+     "date": "2025-04-02"
+    },
+    {
+     "titre": "Pétain « sauveur » des juifs : Éric Zemmour condamné pour contestation de crime contre l’humanité — 20 Minutes (AFP)",
+     "url": "https://www.20minutes.fr/justice/4146630-20250402-petain-sauveur-juifs-eric-zemmour-condamne-contestation-crime-contre-humanite",
+     "citation": "Éric Zemmour a affirmé qu’il n’a « à aucun moment souhaité \"défendre Pétain\" », et annoncé qu’il formerait un pourvoi en cassation.",
+     "date": "2025-04-02"
+    }
+   ],
+   "famille": "haine"
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 13,
+  "methode": "Personnes vérifiées : Éric Zemmour (candidat, seul président du parti depuis 2021) ; le parti en tant que personne morale ; direction nationale listée sur parti-reconquete.fr/equipe (Sarah Knafo, Gilbert Payet, Samuel Lafont, Thomas Culerrier, Hilaire Bouyé, Éléonore Lhéritier, Sophie Calvel, Mondane Langlois, Diane Ouvry, Matthieu Louves, Johanna Humphrey) ; parlementaires : Sarah Knafo (seule eurodéputée). Aucun député Reconquête dans deputes_par_groupe_2026.json, aucun sénateur depuis le départ de Stéphane Ravier (septembre 2024). Requêtes : « Éric Zemmour condamné », « Zemmour condamnation définitive Cour de cassation », « Zemmour condamné 2024/2025/2026 », requêtes par affaire (mineurs isolés, Pétain, convention de la droite, Hapsatou Sy, Obono, Klugman, Ined, Crépol, Sénégalais/crack, contrefaçon), « Reconquête parti condamné tribunal », « Sarah Knafo condamnée », « <nom> condamné tribunal » pour chaque membre de la direction. Sources ouvertes : Wikipédia (Éric Zemmour, Reconquête, Sarah Knafo) puis franceinfo, 20 Minutes, L'Obs, L'Express, BFMTV, HuffPost, Le Parisien, TF1 Info, Le Club des Juristes, ActuaLitté, Télérama, Anadolu, Mediapart, Légipresse, Public Sénat, La Croix.",
+  "limites": "Le décompte de L'Obs (25 juin 2026, article réservé aux abonnés) fait état de 11 condamnations définitives, en comptant probablement les deux jugements de 2011 séparément ainsi que les condamnations civiles pour contrefaçon, exclues ici par le brief. L'affaire des propos sur des « trafiquants de crack sénégalais » n'a pas pu être vérifiée (Poligraph inaccessible). Nous n'avons pas trouvé l'issue du pourvoi dans l'affaire Pétain, ni l'arrêt de la Cour de cassation de juin 2026 dans l'affaire Obono (Légifrance inaccessible). Plusieurs articles du Monde, de Libération, d'Ouest-France, du Figaro et de Poligraph n'ont pas pu être ouverts. Rôles de la direction : la page « Équipe » telle que récupérée ne les affichait pas, ils proviennent de l'extrait de cette page indexé par le moteur de recherche (« Comité opérationnel : Éric Zemmour Président, Sarah Knafo Secrétaire générale, Gilbert Payet Trésorier… »)."
+ },
+ "alertes": [
+  "Affaire de Crépol (injure raciale) : condamnation à 9 000 euros d'amende par le tribunal correctionnel de Paris le 2025-03-26, EXCLUE car infirmée en appel. Légipresse rapporte un arrêt de la cour d'appel de Paris (pôle 2, ch. 7) du 2025-12-18 jugeant que les propos « ne constituent pas une injure à caractère racial ». Le texte intégral (réservé aux abonnés) n'a pas été lu ; il faut vérifier qu'aucun pourvoi n'a été formé contre cette relaxe.",
+  "Injure homophobe (CNews, octobre 2019) : 4 000 euros d'amende en première instance le 2023-09-28, EXCLUE car relaxe prononcée par la cour d'appel de Paris en septembre 2024 (Le Parisien, 12/09/2024).",
+  "Propos sur les musulmans (Corriere della Sera, 2014) : 3 000 euros d'amende le 2015-12-17, confirmés en appel en 2016, EXCLUS car la Cour de cassation a annulé la condamnation en janvier 2018 et la cour d'appel a relaxé en novembre 2018 (Wikipédia).",
+  "Convention de la droite (2019) : condamné en première instance le 2020-09-25 (10 000 euros), relaxé en appel le 2021-09-08, relaxe cassée, puis condamné par la cour d'appel de renvoi le 2024-02-22. Seule la dernière décision, rendue définitive le 2025-09-16, est retenue.",
+  "Affaire « C à vous » (2016) : les sources divergent sur la peine d'appel du 2018-05-03. L'AFP (L'Obs, L'Express) donne 3 000 euros d'amende ; Wikipédia et la description du Monde donnent 5 000 euros (article du Monde non ouvert).",
+  "Affaire Obono : Anadolu rapporte la déclaration de Danièle Obono selon laquelle la Cour de cassation a condamné définitivement « CNews et Éric Zemmour » ; Mediapart (23 juin 2026) ne mentionne explicitement que la chaîne. Wikipédia indique une confirmation en appel en janvier 2025, non vérifiée dans une source de presse ouverte. Le statut « definitive » est donc à confirmer par l'arrêt de la Cour de cassation. Autre divergence : Anadolu date le jugement de première instance du « 7 janvier 2024 », franceinfo du 7 février 2024.",
+  "Affaire Klugman : Le Club des Juristes date le rejet du pourvoi du 2 décembre 2025, Wikipédia du 5 décembre 2025 ; Le Club des Juristes date l'arrêt d'appel du 5 décembre 2024.",
+  "Affaire Ined : ActuaLitté date l'émission du 2 avril 2021, la légende de Télérama du 21 avril 2021. La peine précise prononcée en appel n'est pas détaillée dans les sources ouvertes.",
+  "2011 : 20 Minutes qualifie l'infraction de « provocation à la haine raciale » dans le corps de l'article et de « provocation à la discrimination raciale » dans son titre ; BFMTV et Wikipédia retiennent « provocation à la discrimination raciale ».",
+  "Exclusions (décisions non pénales) : condamnations civiles pour contrefaçon de droits d'auteur (Reconquête et Éric Zemmour, tribunal judiciaire de Paris, 2022-03-04, 165 000 euros ; Éric Zemmour, 2026-01-16, documentaire « Le Collège d'à côté ») et sanction administrative de la CNIL contre le parti (20 000 euros, 2024-01-25).",
+  "Hors périmètre : Stéphane Ravier, condamné le 2024-02-23 par le tribunal correctionnel de Marseille pour diffamation envers SOS Méditerranée (3 000 euros, appel annoncé) alors qu'il était sénateur Reconquête, a quitté le parti en septembre 2024. Anciens vice-présidents exclus en juin 2024 (Marion Maréchal, Nicolas Bay, Guillaume Peltier) : non vérifiés, car ils ne font plus partie de la direction. Candidats locaux condamnés (Jérémie Piano, Anthony Thoma) : hors périmètre."
+ ]
+}

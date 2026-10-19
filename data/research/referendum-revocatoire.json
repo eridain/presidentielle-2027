@@ -1,0 +1,211 @@
+{
+  "id": "referendum-revocatoire",
+  "titre": "Référendum révocatoire des élus (2022)",
+  "question": "Faut-il permettre aux citoyens de révoquer leurs élus en cours de mandat par référendum ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi constitutionnelle n° 4751, déposée le 1er décembre 2021 par le groupe La France insoumise (rapporteur Alexis Corbière), visait à permettre la révocation par référendum, en cours de mandat, de tout élu : président de la République, parlementaires et élus locaux. Le texte posait le principe d'un déclenchement à l'initiative des citoyens, après approbation par un pourcentage du corps électoral, en renvoyant ses modalités (seuil de signatures, quorum, motifs) à des dispositions ultérieures. Examiné lors de la journée réservée du groupe le 13 janvier 2022, l'article unique a été rejeté par 73 voix contre 16 : seuls les insoumis et un député GDR ont voté pour, LaREM, le MoDem, les socialistes, Agir ensemble, LR et Libertés et territoires contre. La mesure figure dans le programme présidentiel de Jean-Luc Mélenchon depuis 2017.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Dossier législatif : droit de révocation des élus",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/revocation_elus"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 13 janvier 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122"
+    },
+    {
+      "titre": "France Info – La révocation des élus, une proposition de la France insoumise",
+      "url": "https://www.franceinfo.fr/politique/melenchon/politique-la-revocation-des-elus-une-proposition-de-la-france-insoumise_4952340.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/revocation_elus",
+  "argumentsPour": [
+    {
+      "auteur": "Alexis Corbière (La France insoumise, rapporteur)",
+      "resume": "Les élus sont souvent désignés par une minorité d'inscrits ; donner aux citoyens le droit de contrôler et révoquer leurs élus ramènerait les abstentionnistes vers les urnes.",
+      "citation": "Il s'agit donc moins de prétendre rétablir la confiance que de savoir quels droits nouveaux nous donnons aux citoyens pour qu'ils puissent contrôler les élus.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Sabine Rubin (La France insoumise)",
+      "resume": "Le pouvoir de révocation met l'élu sous le contrôle de l'électeur, ce qui est précisément la vertu recherchée face à la défiance.",
+      "citation": "Il a été dit du pouvoir de révocation que cela revenait à mettre l'élu dans la main du citoyen-électeur. Eh bien oui, en effet, et c'est justement là une des vertus de notre proposition.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Jean-Hugues Ratenon (La France insoumise)",
+      "resume": "Le peuple, titulaire de la souveraineté, doit pouvoir révoquer ses représentants pour retrouver le goût de la politique.",
+      "citation": "En effet, le peuple est titulaire de la souveraineté et doit pouvoir révoquer les représentants qu'il a élus dans des conditions à définir.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Camille Galliard-Minier (La République en marche)",
+      "resume": "Le dispositif est juridiquement imprécis (initiative, seuil, quorum, motifs inconnus) et contraire aux fondements de la démocratie représentative.",
+      "citation": "Le système proposé apparaît cependant juridiquement imprécis, inopérant au regard des objectifs visés et contraire à nos fondements démocratiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Erwan Balanant (Mouvement démocrate)",
+      "resume": "Les élus doivent parfois prendre des décisions impopulaires, comme le passe sanitaire ; la menace permanente de révocation les en empêcherait.",
+      "citation": "Ce n'est décidément pas ainsi que l'on apaise une démocratie !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Pascal Brindeau (UDI et indépendants)",
+      "resume": "La révocation concurrencerait le choix souverain des électeurs par celui de quelques-uns, au détriment de la représentation.",
+      "citation": "Avec cette proposition, vous mettez en cause le principe de représentativité, et donc la suprématie du suffrage universel.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Cécile Untermaier (Socialistes)",
+      "resume": "Fonder un dispositif sur le doute à l'égard de l'engagement des élus n'est pas le bon moyen de restaurer la confiance.",
+      "citation": "Fonder un dispositif sur le doute à l'égard de l'engagement des élus est-il le meilleur moyen de redonner confiance dans les politiques et dans la politique ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Absent du scrutin n°4291 ; la révocation des élus par référendum figure dans son programme présidentiel (2017 et 2022), selon France Info.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.franceinfo.fr/politique/melenchon/politique-la-revocation-des-elus-une-proposition-de-la-france-insoumise_4952340.html",
+      "date": "2022-02-09"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absent du scrutin n°4291 ; aucune déclaration retrouvée. Le groupe GDR était partagé (1 pour, 2 contre) : pas de proxy fiable.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°4291 du 13 janvier 2022) ; pas d'intervention sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2022-01-13"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absente du scrutin n°4291 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté contre (4 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Porte-parole du gouvernement Castex ; aucune déclaration retrouvée. Le groupe LaREM a voté contre (42 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Agir ensemble, proche d'Horizons, a voté contre (2 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte non examiné au Sénat ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absente du scrutin n°4291 (aucun député RN présent) ; aucune déclaration retrouvée sur la révocation des élus.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absent du scrutin n°4291 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4291",
+      "date": "2025-04-07"
+    }
+  },
+  "alertes": [
+    "Faible participation (89 votants), vote en journée réservée de l'opposition.",
+    "Le texte posait un principe sans fixer les modalités (seuil de déclenchement, quorum) : plusieurs opposants ont visé son imprécision autant que le principe.",
+    "Mélenchon : position tirée de son programme (France Info), pas d'un vote ni d'une citation directe vérifiée.",
+    "Peu de données pour les autres candidats : la plupart des positions restent inconnues."
+  ]
+}

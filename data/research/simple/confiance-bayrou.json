@@ -1,0 +1,18 @@
+{
+  "id": "confiance-bayrou",
+  "questionSimple": "Fallait-il garder le gouvernement de François Bayrou en lui votant la confiance en septembre 2025 ?",
+  "enBref": "En septembre 2025, le Premier ministre François Bayrou a demandé aux députés s'ils lui faisaient confiance pour réduire la dette du pays. Une majorité a voté non. Son gouvernement a dû démissionner.",
+  "pourquoiPour": "Pour ses défenseurs, la dette de la France est un danger grave. Faire tomber le gouvernement ajoute du désordre et retarde le budget.",
+  "pourquoiContre": "Pour ses opposants, ce gouvernement n'avait pas de majorité et menait une politique injuste. Ils voulaient changer de gouvernement ou retourner aux urnes.",
+  "ceQuiSestPasse": "La confiance a été refusée le 8 septembre 2025, une première sous la Ve République. François Bayrou a démissionné le lendemain.",
+  "lexique": [
+    {
+      "terme": "Vote de confiance",
+      "definition": "Vote où les députés disent s'ils soutiennent le gouvernement. S'ils refusent, il doit partir."
+    },
+    {
+      "terme": "Déclaration de politique générale",
+      "definition": "Discours du Premier ministre qui présente ses priorités devant les députés."
+    }
+  ]
+}

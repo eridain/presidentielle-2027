@@ -1,0 +1,217 @@
+{
+  "id": "pensions-inflation-2022",
+  "titre": "Revaloriser les pensions au niveau de l'inflation (2022)",
+  "question": "Faut-il ajouter 500 millions d'euros pour revaloriser les pensions de retraite au niveau réel de l'inflation (5,5 % en 2022), au-delà de la hausse proposée par le gouvernement ?",
+  "ouiSignifie": "pour",
+  "contexte": "Lors de l'examen du projet de loi de finances rectificative pour 2022 (1re lecture), Charles de Courson (LIOT) a présenté un amendement de crédits (n°194) ouvrant 500 millions d'euros pour compléter la revalorisation des pensions : le gouvernement prévoyait 5,1 % sur l'année (1,1 % en janvier puis 4 % en juillet), contre une inflation estimée à 5,5 %. Pour respecter les règles budgétaires, la somme était prise sur les crédits des pensions civiles et militaires de l'État ; son auteur le présentait comme un amendement d'appel. Adopté le 26 juillet 2022 contre l'avis du gouvernement (186 pour, 181 contre), il a été annulé dans la nuit lors d'une seconde délibération demandée par le gouvernement (amendement n°21 adopté par 224 voix contre 121). Les pensions de base ont ensuite été revalorisées au 1er janvier 2023 selon la règle d'indexation.",
+  "contexteSources": [
+    {
+      "titre": "LCP – Pensions de retraite : les députés annulent la revalorisation supplémentaire de 500 millions",
+      "url": "https://lcp.fr/actualites/pensions-de-retraite-les-deputes-annulent-la-revalorisation-supplementaire-de-500"
+    },
+    {
+      "titre": "Assemblée nationale – amendement n°194 (exposé sommaire)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/amendements/0017/AN/194"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°153",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°177 (seconde délibération)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/177"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/loi_finances_rectificative_2022",
+  "argumentsPour": [
+    {
+      "auteur": "Charles de Courson (LIOT, auteur)",
+      "resume": "La hausse cumulée de 5,1 % reste inférieure à l'inflation ; il demande au gouvernement de compenser l'écart.",
+      "citation": "Il existe donc, entre l’inflation et la hausse des retraites, un écart de 1,7 %.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "David Guiraud (La France insoumise)",
+      "resume": "Les aides du paquet « pouvoir d'achat » ne compensent pas l'inflation : les retraités, notamment les femmes aux carrières hachées, perdraient du pouvoir d'achat.",
+      "citation": "au regard de l’inflation, les aides décidées dans le paquet « pouvoir d’achat » ne suffiront pas, car elles ne la compensent pas.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "Kévin Mauvieux (Rassemblement national)",
+      "resume": "Le RN vote toutes les mesures qui augmentent le pouvoir d'achat des retraités, après des années de hausse de la CSG.",
+      "citation": "Les députés du groupe Rassemblement national voteront en faveur des amendements que nous sommes en train d’examiner parce que ces mesures sont favorables à l’augmentation du pouvoir d’achat des retraités.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "Julien Bayou (Écologiste – NUPES)",
+      "resume": "Il dénonce le retour en arrière du gouvernement, en moins de 24 heures, sur une victoire pour les retraités.",
+      "citation": "alors que nous avions enfin arraché une victoire pour les retraités, qui allaient voir leurs pensions revalorisées à hauteur de l’inflation, vous revenez sur cette mesure en moins de vingt-quatre heures.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-27"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Bruno Le Maire (ministre de l'Économie, gouvernement)",
+      "resume": "L'amendement finance une hausse des retraites du privé en prenant sur les pensions des fonctionnaires civils et militaires ; une nouvelle revalorisation interviendra en janvier 2023.",
+      "citation": "cet amendement finance l’augmentation des retraites du privé en prélevant des sommes sur les pensions de retraite civiles et militaires de l’État. Cela ne me paraît pas juste",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-27"
+    },
+    {
+      "auteur": "Jean-René Cazeneuve (Renaissance, rapporteur général)",
+      "resume": "Les pensions ont déjà été relevées de 4 % après 1,1 % ; la clause de revoyure de janvier 2023 permettra d'ajuster à l'inflation réelle.",
+      "citation": "La clause de revoyure, qui renvoie à janvier 2023, permettra d’adapter les pensions à l’inflation réelle effective constatée cette année.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+      "date": "2022-07-26"
+    },
+    {
+      "auteur": "Mathieu Lefèvre (Renaissance)",
+      "resume": "Amendement d'appel mal financé : il amputait de 500 millions les retraites des fonctionnaires civils et militaires.",
+      "citation": "L’amendement présenté par M. de Courson, qui était un amendement d’appel, prévoyait d’amputer de 500 millions d’euros les retraites des fonctionnaires civils et militaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-27"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis juin 2022 ; aucune déclaration retrouvée sur cet amendement. PROXY : le groupe LFI-NUPES a voté pour (50 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+      "date": "2022-07-26"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe GDR-NUPES a voté pour (2 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+      "date": "2022-07-26"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe LFI-NUPES a voté pour (50 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+      "date": "2022-07-26"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté pour (16 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+      "date": "2022-07-26"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe Écologiste-NUPES a voté pour (16 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+      "date": "2022-07-26"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (14 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+      "date": "2022-07-26"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics, au banc du gouvernement qui a émis un avis défavorable puis obtenu l'annulation de l'amendement en seconde délibération ; pas de déclaration personnelle retrouvée sur l'amendement.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N024",
+      "date": "2022-07-27"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, président d'Horizons, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté contre (0 pour, 17 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+      "date": "2022-07-26"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; le texte voté au Sénat ne contenait plus cette mesure, aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté majoritairement pour (9 pour, 1 contre, 4 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+      "date": "2022-07-26"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté majoritairement pour (9 pour, 1 contre, 4 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+      "date": "2022-07-26"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté majoritairement pour (9 pour, 1 contre, 4 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+      "date": "2022-07-26"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°153) ; pas d'intervention personnelle retrouvée : argument = explication du groupe RN (Kévin Mauvieux).",
+      "argument": "Le groupe RN soutient toute mesure augmentant le pouvoir d'achat des retraités.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N023",
+      "date": "2022-07-26"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée. Reconquête n'a pas de groupe à l'Assemblée : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/153",
+      "date": "2022-07-26"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "N'a pas pris part au scrutin n°153, mais a voté contre l'amendement du gouvernement qui annulait la revalorisation en seconde délibération (scrutin n°177) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/177",
+      "date": "2022-07-27"
+    }
+  },
+  "alertes": [
+    "Question précisée : l'amendement n°194 est un amendement de crédits de 500 millions d'euros, financé par redéploiement depuis les crédits des pensions civiles et militaires de l'État ; son auteur l'a présenté comme un amendement d'appel. Il ne fixait pas lui-même un taux de revalorisation dans la loi.",
+    "Désaccord sur le champ : le rapporteur général (Cazeneuve) dit que l'amendement « ne vise que les retraités de la fonction publique », tandis que Bruno Le Maire et LCP indiquent qu'il finançait la hausse des retraites du privé. Le texte de l'amendement ne tranche pas.",
+    "Amendement adopté puis annulé le soir même en seconde délibération (scrutin n°177, 224 pour, 121 contre) : il n'a jamais figuré dans la loi.",
+    "Dupont-Aignan : position déduite de son vote contre l'annulation (scrutin n°177), pas d'un vote sur l'amendement lui-même.",
+    "Attal : position déduite de son appartenance au gouvernement opposé à l'amendement.",
+    "Le Pen : pas d'intervention personnelle ; argument = explication du groupe RN, sans citation attribuée."
+  ]
+}

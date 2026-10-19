@@ -1,0 +1,216 @@
+{
+  "id": "animaux-sauvages-cirques",
+  "titre": "Fin des animaux sauvages dans les cirques itinérants",
+  "question": "Faut-il interdire progressivement les animaux sauvages dans les cirques itinérants et les spectacles de cétacés (delphinariums) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le vote porte sur l'article 12 de la proposition de loi visant à renforcer la lutte contre la maltraitance animale (Loïc Dombreval, Laëtitia Romeiro Dias et d'autres députés LaREM), adopté en première lecture le 29 janvier 2021 par 63 voix contre 14. Cet article interdit l'acquisition, la reproduction puis la détention et la présentation au public d'animaux d'espèces non domestiques dans les établissements itinérants, et met fin à la détention de cétacés et à leurs spectacles, hors programmes scientifiques. Les débats ont surtout porté sur les delphinariums, contestés par une partie de LR et de l'UDI. La loi n° 2021-1539 du 30 novembre 2021 prévoit la fin des delphinariums en 2026 et des animaux sauvages dans les cirques itinérants en 2028.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – loi du 30 novembre 2021 visant à lutter contre la maltraitance animale",
+      "url": "https://www.vie-publique.fr/loi/278249-loi-2021-lutte-contre-la-maltraitance-animale"
+    },
+    {
+      "titre": "Assemblée nationale – dossier « Maltraitance animale »",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/maltraitance_animale"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 29 janvier 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-vendredi-29-janvier-2021"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la deuxième séance du 29 janvier 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-vendredi-29-janvier-2021"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/maltraitance_animale",
+  "argumentsPour": [
+    {
+      "auteur": "Laëtitia Romeiro Dias (LaREM, rapporteure)",
+      "resume": "L'itinérance ne permet pas de respecter les besoins des animaux sauvages ; de nombreux pays les ont déjà interdits dans les cirques.",
+      "citation": "Nous ne pouvons plus considérer de la même manière l’enfermement des animaux non domestiques dans le cadre particulier qui est celui de l’itinérance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-vendredi-29-janvier-2021",
+      "date": "2021-01-29"
+    },
+    {
+      "auteur": "Laëtitia Romeiro Dias (LaREM, rapporteure)",
+      "resume": "Ce n'est pas la mort du cirque : de nombreux cirques montent déjà des spectacles sans animaux.",
+      "citation": "Cela ne signifie évidemment pas la mort du cirque : les cirques se multiplient qui renoncent aux animaux pour monter des spectacles dont la qualité artistique ne fait aucun doute.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-vendredi-29-janvier-2021",
+      "date": "2021-01-29"
+    },
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "Les nouveaux arts du cirque fonctionnent très bien sans animaux.",
+      "citation": "Il y aujourd’hui des cirques sans animaux – c’est le cas de tous les nouveaux arts du cirque – et cela fonctionne très bien.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-vendredi-29-janvier-2021",
+      "date": "2021-01-29"
+    },
+    {
+      "auteur": "Bérangère Abba (secrétaire d'État, gouvernement)",
+      "resume": "Les connaissances scientifiques montrent que la captivité des cétacés et l'itinérance de certaines espèces ne respectent pas leurs besoins biologiques.",
+      "citation": "Les études scientifiques ont effectivement révélé que la détention des cétacés en captivité ne permettait pas de respecter certains impératifs biologiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-vendredi-29-janvier-2021",
+      "date": "2021-01-29"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Pascal Brindeau (UDI et indépendants)",
+      "resume": "L'article empêcherait les parcs zoologiques détenant des dauphins d'exercer leur mission de conservation et de recherche.",
+      "citation": "Surtout, il les empêchera d’exercer leur mission, pourtant d’intérêt public, qui consiste à protéger ces espèces et à conduire des recherches pour mieux les connaître.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-vendredi-29-janvier-2021",
+      "date": "2021-01-29"
+    },
+    {
+      "auteur": "Jean-Christophe Lagarde (UDI et indépendants)",
+      "resume": "La mesure sur les cétacés serait un « cheval de Troie » conduisant à terme à la fermeture des parcs zoologiques.",
+      "citation": "En réalité, vous voulez introduire dans la loi un cheval de Troie – et non un cétacé –, qui aboutirait à terme à la fermeture de l’ensemble des parcs zoologiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-vendredi-29-janvier-2021",
+      "date": "2021-01-29"
+    },
+    {
+      "auteur": "Fabien Di Filippo (Les Républicains)",
+      "resume": "Les parcs zoologiques et aquatiques soignent bien leurs animaux et financent des programmes de réintroduction ; l'interdiction des cétacés serait contre-productive.",
+      "citation": "Nous en arrivons effectivement à ce qui est peut-être le seul point réellement contreproductif du texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-vendredi-29-janvier-2021",
+      "date": "2021-01-29"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour l'article 12 à l'Assemblée nationale (scrutin n°3326 du 29 janvier 2021) ; il est intervenu en séance.",
+      "argument": "Un être vivant doué de sensibilité ne doit pas être à la disposition des humains pour les amuser ; il faut en finir progressivement avec l'asservissement des animaux.",
+      "citation": "Un jour viendra où la société se libérera totalement de la nécessité d’asservir les animaux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-vendredi-29-janvier-2021",
+      "date": "2021-01-29"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3341) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR a voté : None (0p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+      "date": "2021-01-29"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3341) ; aucune déclaration retrouvée. À titre indicatif, son groupe FI a voté : pour (2p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+      "date": "2021-01-29"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ni de responsabilité nationale à EELV en janvier 2021 ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+      "date": "2021-01-29"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3341) ; aucune déclaration retrouvée. À titre indicatif, son groupe NI a voté : pour (4p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+      "date": "2021-01-29"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (2 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+      "date": "2021-01-29"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui soutenait l'article (secrétaire d'État Bérangère Abba au banc) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-vendredi-29-janvier-2021",
+      "date": "2021-01-29"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ni fonction gouvernementale en janvier 2021 ; aucune déclaration retrouvée. PROXY : le groupe Agir ensemble, proche de lui, a voté pour (4 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+      "date": "2021-01-29"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour l'ensemble du texte de la commission mixte paritaire au Sénat (scrutin public n°44 du 18 novembre 2021), qui inclut la fin des animaux sauvages dans les cirques itinérants et des delphinariums.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2021/scr2021-44.html",
+      "date": "2021-11-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe LR de l'Assemblée a voté majoritairement contre l'article (1 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+      "date": "2021-01-29"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté majoritairement contre l'article (1 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+      "date": "2021-01-29"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3341) ; aucune déclaration retrouvée. À titre indicatif, son groupe NI a voté : pour (4p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+      "date": "2021-01-29"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2021 ; aucune déclaration vérifiable retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+      "date": "2021-01-29"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3341) ; aucune déclaration retrouvée. À titre indicatif, son groupe NI a voté : pour (4p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3341",
+      "date": "2021-01-29"
+    }
+  },
+  "alertes": [
+    "Question reformulée : l'article 12 vise à la fois les animaux sauvages dans les cirques itinérants et les cétacés (delphinariums), et c'est surtout ce second volet qui a été contesté par LR et l'UDI. La polarité (Oui = pour) est inchangée.",
+    "Le vote porte sur l'article 12 en première lecture, non sur l'ensemble du texte ; la rédaction finale (loi du 30 novembre 2021) fixe des délais de transition (2026 pour les delphinariums, 2028 pour les cirques itinérants).",
+    "Retailleau : vote au Sénat sur l'ensemble du texte de la CMP (adopté par 332 voix contre 1), non sur l'article 12 isolé.",
+    "Attal : position déduite de son appartenance au gouvernement Castex.",
+    "Le Pen, Batho, Dupont-Aignan (non-inscrits) : n'ont pas pris part au vote ; les non-inscrits votants ont voté pour (4 pour / 0 contre)."
+  ]
+}

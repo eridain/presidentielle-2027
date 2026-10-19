@@ -1,0 +1,226 @@
+{
+  "id": "collectivite-unique",
+  "titre": "Collectivité unique d'Alsace et sortie du Grand Est (2026)",
+  "question": "Faut-il que l'Alsace quitte la région Grand Est et devienne une collectivité unique exerçant à la fois les compétences du département et de la région ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi transpartisane de Brigitte Klinkert (EPR), déposée en septembre 2025, prévoyait initialement de simplifier le « millefeuille territorial » en revenant sur la carte des régions de 2015. Telle qu'amendée par les députés, elle remplace la Collectivité européenne d'Alsace par une collectivité à statut particulier exerçant à la fois les compétences départementales et régionales, ce qui fait sortir l'Alsace de la région Grand Est ; le projet devra être approuvé par un référendum local. L'Assemblée a rejeté la proposition du gouvernement de légiférer par ordonnance, puis adopté le texte en première lecture le 8 avril 2026 par 131 voix contre 100 et 12 abstentions, avec les voix d'EPR, du RN et de l'UDR. Le texte doit encore être examiné par le Sénat.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Proposition de loi visant à faire sortir la Collectivité européenne d'Alsace de la région Grand Est",
+      "url": "https://www.vie-publique.fr/loi/302752-alsace-sortie-de-la-region-grand-est-proposition-de-loi"
+    },
+    {
+      "titre": "LCP – L'Alsace peut-elle sortir du Grand Est après le vote de la proposition de loi ?",
+      "url": "https://lcp.fr/actualites/l-alsace-peut-elle-sortir-du-grand-est-apres-le-vote-de-la-proposition-de-loi-a-l"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 8 avril 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/simplifier_millefeuille_territorial_collectivite_unique_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Gabriel Attal (Ensemble pour la République)",
+      "resume": "La fusion des régions de 2015 a été décidée d'en haut ; le texte répond à une demande ancienne des Alsaciens et rapproche les institutions des citoyens.",
+      "citation": "Il faut assumer de déparisianiser la France et de rendre nos institutions plus locales, plus proches.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195",
+      "date": "2026-04-08"
+    },
+    {
+      "auteur": "Théo Bernhardt (Rassemblement national)",
+      "resume": "La loi de 2015 a nié l'identité alsacienne ; sortir l'Alsace du Grand Est répare une blessure et tient une promesse de campagne.",
+      "citation": "La loi de 2015 n'a pas simplement redessiné une carte, elle a nié une identité",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195",
+      "date": "2026-04-08"
+    },
+    {
+      "auteur": "Patrick Hetzel (Droite républicaine)",
+      "resume": "Doter l'Alsace des compétences d'une région et d'un département permet d'adapter les politiques publiques, de simplifier l'action publique et de renforcer sa vocation transfrontalière.",
+      "citation": "L'objectif est clair : adapter les politiques publiques aux réalités locales",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195",
+      "date": "2026-04-08"
+    },
+    {
+      "auteur": "Maxime Michelet (UDR)",
+      "resume": "Le texte enfonce un coin dans le redécoupage « insensé » des régions de 2015 et dans la loi NOTRe ; il faudrait aller plus loin pour toutes les régions.",
+      "citation": "Nous souhaitons modifier toutes les régions issues du redécoupage insensé de 2015",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195",
+      "date": "2026-04-08"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Emmanuel Fernandes (La France insoumise)",
+      "resume": "Créer une collectivité à statut particulier ouvre la voie à un pays illisible et asymétrique ; texte d'affichage, sans étude d'impact ni avis du Conseil d'État.",
+      "citation": "Ce texte est un texte d'affichage. Il est inopérant.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195",
+      "date": "2026-04-08"
+    },
+    {
+      "auteur": "Jérémie Iordanoff (Écologiste et social)",
+      "resume": "Une réforme de l'organisation d'une région ne peut se faire isolément, sans penser les conséquences pour l'ensemble du territoire.",
+      "citation": "Ma conclusion demeure inchangée : ce texte relève du bricolage et n'est fondé sur aucune raison valable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195",
+      "date": "2026-04-08"
+    },
+    {
+      "auteur": "Thierry Sother (Socialistes)",
+      "resume": "Le texte, fragile juridiquement, règle par le petit bout de la lorgnette une question institutionnelle ; il fallait consulter largement les citoyens et les parties prenantes.",
+      "citation": "La proposition de loi a été totalement remaniée en commission, puis en séance. Elle n'a plus d'efficacité réelle",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195",
+      "date": "2026-04-08"
+    },
+    {
+      "auteur": "Éric Martineau (Les Démocrates)",
+      "resume": "Sans étude d'impact ni avis de la région Grand Est, la réforme risque de désorganiser plutôt que de simplifier, et de faire de fausses promesses aux Alsaciens.",
+      "citation": "Nous ne pouvons légiférer à l'aveugle",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195",
+      "date": "2026-04-08"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Xavier Albertini (Horizons & indépendants)",
+      "resume": "Objectif légitime mais texte fragile, méthode et concertation insuffisantes ; liberté de vote dans le groupe.",
+      "citation": "la différenciation ne peut réussir que si elle emporte l'adhésion de tous les territoires qu'elle transforme et si elle repose sur une méthode claire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195",
+      "date": "2026-04-08"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration personnelle retrouvée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 28 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 2 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absent du scrutin n°6045 ; aucune déclaration retrouvée. Son groupe Écologiste et social a voté contre (0 / 13).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration personnelle retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour / 13 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absente du scrutin n°6045 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté contre (1 pour / 32 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°6045 du 8 avril 2026) ; a porté l'explication de vote du groupe EPR, dont sont issus les auteurs du texte.",
+      "argument": "La fusion de 2015 a été décidée depuis Paris ; le texte répond à une demande ancienne des Alsaciens et ne vise ni la Lorraine ni la Champagne-Ardenne ; il faut rendre les institutions plus locales.",
+      "citation": "Il faut assumer de déparisianiser la France et de rendre nos institutions plus locales, plus proches.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195",
+      "date": "2025-04-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. Le groupe Horizons était partagé (5 pour / 8 contre / 1 abst., liberté de vote) : pas de proxy fiable.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; le Sénat n'a pas encore examiné le texte ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. Le groupe Droite républicaine a voté majoritairement pour (9 pour / 4 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absente du scrutin n°6045 ; aucune déclaration personnelle vérifiée retrouvée. PROXY : le groupe RN, qu'elle préside, a voté pour à l'unanimité (64 pour) ; l'orateur RN a présenté la sortie du Grand Est comme une promesse de Marine Le Pen en 2017.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N195",
+      "date": "2026-04-08"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6045",
+      "date": "2026-04-08"
+    }
+  },
+  "alertes": [
+    "Question reformulée : la proposition de loi visait au départ la carte des régions en général ; le texte voté ne concerne plus que l'Alsace (collectivité à statut particulier, sortie du Grand Est).",
+    "Texte adopté en première lecture seulement, non encore examiné par le Sénat ; il prévoit un référendum local.",
+    "Clivage atypique : EPR, RN, UDR et majorité de la DR pour ; gauche contre ; MoDem et Horizons partagés.",
+    "Seul Attal a voté parmi les candidats ; les autres positions sont des proxys ou inconnues."
+  ]
+}

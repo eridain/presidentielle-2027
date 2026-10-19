@@ -1,0 +1,205 @@
+{
+  "id": "loi-orientation-agricole",
+  "titre": "Loi d'orientation agricole (2025)",
+  "question": "Faut-il adopter la loi d'orientation agricole de 2025 (agriculture reconnue d'« intérêt général majeur », sanctions allégées pour certaines atteintes à l'environnement) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposé en avril 2024 par le gouvernement Attal après la crise agricole, interrompu par la dissolution puis par la censure du gouvernement Barnier, le projet de loi a été repris par la ministre Annie Genevard. Il qualifie l'agriculture et la pêche d'« intérêt général majeur » et la souveraineté alimentaire d'« intérêt fondamental de la nation », crée un guichet unique pour l'installation et la transmission, un diplôme « bachelor agro », allège les procédures pour les haies et remplace, pour les atteintes non intentionnelles à l'environnement (espèces protégées, habitats), les sanctions pénales par une amende administrative de 450 euros maximum. Il demande à l'État de ne pas interdire des pesticides autorisés par l'Union européenne sans alternative. Le texte de la commission mixte paritaire a été adopté le 19 février 2025 à l'Assemblée (369 pour, 160 contre) et le 20 février au Sénat. Le Conseil constitutionnel a censuré 18 articles ; loi n° 2025-268 du 24 mars 2025.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 24 mars 2025 d'orientation pour la souveraineté alimentaire et agricole",
+      "url": "https://www.vie-publique.fr/loi/293610-agriculture-loi-24-mars-2025-dorientation-souverainete-agricole"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/souverainete_agricole_renouvellement_generations"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°844",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/souverainete_agricole_renouvellement_generations",
+  "argumentsPour": [
+    {
+      "auteur": "Julien Dive (Droite républicaine)",
+      "resume": "Le texte, enrichi d'avancées contre la financiarisation du foncier et la décapitalisation de l'élevage, répond à la colère agricole.",
+      "citation": "je dis qu’il s’agit de la loi Genevard, et le groupe Droite républicaine n’aura donc aucune difficulté à voter ce texte issu de la CMP.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N109",
+      "date": "2025-02-19"
+    },
+    {
+      "auteur": "Thierry Benoit (Horizons & indépendants)",
+      "resume": "La reconnaissance d'intérêt général majeur et la fin des poursuites pénales pour des atteintes involontaires à l'environnement sont attendues par les agriculteurs.",
+      "citation": "La dépénalisation des atteintes à l’environnement non intentionnelles va dans le bon sens : il était scandaleux que des agriculteurs soient sanctionnés pénalement à la suite d’atteintes involontaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N109",
+      "date": "2025-02-19"
+    },
+    {
+      "auteur": "Hélène Laporte (Rassemblement national)",
+      "resume": "Le texte est jugé insuffisant mais nécessaire, notamment pour consacrer la souveraineté alimentaire.",
+      "citation": "nous voterons ce texte car, aussi insuffisant et imparfait soit-il, il est nécessaire pour aider nos filières à relever la tête.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N109",
+      "date": "2025-02-19"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Marie Pochon (Écologiste et social)",
+      "resume": "La dépénalisation des atteintes non intentionnelles revient à un permis de détruire la biodiversité, sanctionné d'une simple amende.",
+      "citation": "Je pourrais citer également la dépénalisation tout à fait inconstitutionnelle des atteintes « non intentionnelles » à la biodiversité, donnant tout simplement un permis de la détruire",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N109",
+      "date": "2025-02-19"
+    },
+    {
+      "auteur": "Mathilde Hignet (La France insoumise)",
+      "resume": "Le texte ne fait rien pour le revenu agricole et détricote le droit de l'environnement au profit de l'agro-industrie.",
+      "citation": "Il ne faut pas tout confondre : la simplification administrative, ce n’est pas le détricotage du droit de l’environnement",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N109",
+      "date": "2025-02-19"
+    },
+    {
+      "auteur": "Mélanie Thomin (Socialistes)",
+      "resume": "Le texte oppose agriculture et environnement, supprime l'agroécologie et traite de l'installation sans aborder le foncier.",
+      "citation": "Ce texte condamne notre modèle agricole à l’immobilisme en dépénalisant les atteintes à l’environnement, en supprimant les références à l’agroécologie",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N109",
+      "date": "2025-02-19"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2025 ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NFP a voté contre (0-68).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "date": "2025-02-19"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis juin 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR a voté contre (0-12).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "date": "2025-02-19"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°844 du 19 février 2025), siégeant au groupe Écologiste et social ; pas d'intervention personnelle retrouvée dans ce débat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "date": "2025-02-19"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social a voté contre (0-32).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "date": "2025-02-19"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°844) ; oratrice du groupe Écologiste et social sur la motion de rejet préalable.",
+      "argument": "Elle dénonce la dépénalisation des atteintes à la biodiversité, le maintien des pesticides et l'atteinte au droit de recours des citoyens.",
+      "citation": "Il faut voter pour cette motion de rejet, puisque notre République ne peut même plus compter sur la garantie ultime que le Conseil constitutionnel veillera au respect de la Constitution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N109",
+      "date": "2025-02-19"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (1-48).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "date": "2025-02-19"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°844), président du groupe EPR ; le projet de loi avait été déposé par son gouvernement en avril 2024. Argument = position du groupe EPR (Françoise Buffet, Charles Sitzenstuhl).",
+      "argument": "Le groupe soutient la reconnaissance de l'agriculture comme intérêt général majeur et la souveraineté alimentaire comme intérêt fondamental de la nation.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N109",
+      "date": "2025-02-19"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons & indépendants a voté pour (33-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "date": "2025-02-19"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou, qui a porté le texte (Annie Genevard) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/souverainete_agricole_renouvellement_generations",
+      "date": "2025-02-19"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (44-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "date": "2025-02-19"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de Nouvelle Énergie ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (44-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "date": "2025-02-19"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°844) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe RN a voté pour (121-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "date": "2025-02-19"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "date": "2025-02-19"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée. Les non-inscrits de l'Assemblée ont voté pour (9-0), proxy faible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/844",
+      "date": "2025-02-19"
+    }
+  },
+  "alertes": [
+    "Le Pen : n'a pas pris part au vote ; position inconnu (indication du vote de son groupe à titre indicatif seulement).",
+    "Le Conseil constitutionnel a censuré 18 articles (dont la présomption de bonne foi lors des contrôles et le principe de non-régression de la souveraineté alimentaire) ; l'amende administrative de 450 euros pour les atteintes non intentionnelles figure dans la loi promulguée selon Vie publique.",
+    "Arguments issus de la motion de rejet préalable et de la discussion générale du 19 février 2025 (pas d'explications de vote séparées).",
+    "Attal : vote pour, mais le texte final diffère sensiblement de celui déposé par son gouvernement.",
+    "Retailleau : position déduite de l'appartenance au gouvernement Bayrou."
+  ]
+}

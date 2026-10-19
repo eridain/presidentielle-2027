@@ -1,0 +1,22 @@
+{
+  "id": "securite-globale",
+  "questionSimple": "Faut-il adopter la loi « sécurité globale » (polices municipales renforcées, drones, diffusion d'images de policiers punie) ?",
+  "enBref": "La loi donne plus de pouvoirs aux polices municipales et encadre les agents de sécurité privée. Elle fixe des règles pour l'usage de drones et de caméras portées par les policiers. Son article le plus débattu punit la diffusion d'images de policiers faite dans le but de leur nuire.",
+  "pourquoiPour": "Face au terrorisme, aux trafics et aux agressions contre les forces de l'ordre, il faut leur donner plus de moyens et mieux les protéger. Le texte n'interdit pas de filmer la police, seulement de diffuser des images pour nuire.",
+  "pourquoiContre": "Drones, caméras sur les policiers et vidéosurveillance reliée installeraient une surveillance généralisée. Punir la diffusion d'images de policiers gênerait la presse et le contrôle des citoyens sur la police.",
+  "ceQuiSestPasse": "Adoptée en 2021 après réécriture, la loi a perdu sept articles censurés par le Conseil constitutionnel, dont le délit sur les images de policiers.",
+  "lexique": [
+    {
+      "terme": "Police municipale",
+      "definition": "Police qui dépend du maire de la commune, et non de l'État."
+    },
+    {
+      "terme": "Première lecture",
+      "definition": "Premier vote d'une assemblée sur un texte, qui peut ensuite être modifié par l'autre assemblée."
+    },
+    {
+      "terme": "Conseil constitutionnel",
+      "definition": "Juges qui vérifient qu'une loi respecte la Constitution et peuvent en supprimer des articles."
+    }
+  ]
+}

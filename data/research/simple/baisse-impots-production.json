@@ -1,0 +1,12 @@
+{
+  "id": "baisse-impots-production",
+  "questionSimple": "Faut-il baisser de 10 milliards d'euros par an les impôts payés par les entreprises sur leur production ?",
+  "enBref": "Dans le plan de relance de 2020, l'État réduit des impôts que les entreprises paient quels que soient leurs bénéfices. Un impôt sur la richesse qu'elles créent est divisé par deux, et les usines paient moins de taxe foncière. Les régions reçoivent une part de TVA en compensation.",
+  "pourquoiPour": "Pour ses défenseurs, ces impôts pèsent sur les salaires, l'investissement et l'emploi. Les alléger aide les entreprises à rester compétitives, à embaucher et à relocaliser.",
+  "pourquoiContre": "Pour la gauche, cette baisse est accordée sans contrepartie sur l'emploi ou les dividendes. Elle profite aux grandes entreprises au lieu d'aider les ménages. La droite a voté contre le budget mais approuvait cette baisse.",
+  "ceQuiSestPasse": "La partie recettes du budget a été adoptée (349 voix contre 199) et la baisse s'applique depuis 2021.",
+  "lexique": [
+    {"terme": "Impôts de production", "definition": "Impôts payés par les entreprises même sans bénéfice, par exemple sur leur activité ou leurs bâtiments."},
+    {"terme": "CVAE", "definition": "Cotisation sur la valeur ajoutée des entreprises : impôt local sur la richesse produite par l'entreprise."}
+  ]
+}

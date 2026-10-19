@@ -1,0 +1,235 @@
+{
+  "id": "programmation-justice-2027",
+  "titre": "Programmation de la justice 2023-2027",
+  "question": "Faut-il porter le budget de la justice à près de 11 milliards d'euros en 2027 et recruter 10 000 agents (loi de programmation 2023-2027) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Issu des états généraux de la justice, le projet de loi d'orientation et de programmation du ministère de la Justice 2023-2027, porté par Éric Dupond-Moretti, fait passer le budget de la justice de 9,6 à 10,7 milliards d'euros sur la période et prévoit 10 000 recrutements, dont 1 500 magistrats supplémentaires d'ici 2027. Il comporte aussi des mesures de procédure pénale contestées, dont l'activation à distance d'appareils connectés (géolocalisation, captation) pour certaines enquêtes et l'extension des perquisitions de nuit. Le texte de la commission mixte paritaire a été adopté par l'Assemblée le 10 octobre 2023 (260 pour, 58 contre, 24 abstentions) puis définitivement par le Sénat le 11 octobre. Le Conseil constitutionnel l'a déclaré partiellement conforme (décision n° 2023-855 DC du 16 novembre 2023) ; la loi a été promulguée le 20 novembre 2023 (loi n° 2023-1059).",
+  "contexteSources": [
+    {
+      "titre": "Sénat – Dossier législatif (décision 2023-855 DC, loi n° 2023-1059)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl22-569.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 10 octobre 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2719",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N47779",
+  "argumentsPour": [
+    {
+      "auteur": "Sarah Tanzilli (Renaissance)",
+      "resume": "Après des années de « justice clochardisée », la réforme donne enfin à la justice et à ses agents les moyens de fonctionner normalement.",
+      "citation": "nous donnons à la justice et à ses agents les moyens de fonctionner normalement, dans la France du XXI e siècle.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Philippe Gosselin (Les Républicains)",
+      "resume": "Les moyens vont dans le bon sens : vote favorable mais « vigilant et exigeant », à vérifier à chaque loi de finances.",
+      "citation": "C’est un vote favorable qui s’annonce de la part des députés Les Républicains, un vote de confiance, mais pas de confiance absolue",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Pascale Bordes (Rassemblement national)",
+      "resume": "Le texte contient quelques mesures allant dans le bon sens, même si la réponse pénale et l'exécution des peines restent jugées insuffisantes.",
+      "citation": "Néanmoins, le Rassemblement national votera ces deux textes, car ils contiennent quelques mesures qui vont dans le bon sens",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Blandine Brocard (Démocrate)",
+      "resume": "Rejeter le texte reviendrait à refuser un budget sans précédent pour l'institution judiciaire.",
+      "citation": "Mais vous rejetez ici un budget sans précédent : 11 milliards d’euros en faveur de nos institutions judiciaires",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Mathilde Panot (La France insoumise)",
+      "resume": "Le texte constituerait un recul des libertés publiques, notamment avec l'activation à distance des objets connectés qui en ferait des « mouchards ».",
+      "citation": "Votre but est de transformer ces appareils en mouchards.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Andrée Taurinya (La France insoumise)",
+      "resume": "L'exécutif renonce à traiter la surpopulation carcérale, dont l'indignité coûte cher selon la Cour des comptes.",
+      "citation": "Quatre milliards, c’est le coût de la lâcheté de l’exécutif, qui renonce une fois de plus à prendre à bras-le-corps le problème de la surpopulation carcérale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Jérémie Iordanoff (Écologiste)",
+      "resume": "Les moyens sont réels, mais le texte omet l'indépendance de la justice et comporte des dérives sur les pouvoirs du parquet et d'enquête.",
+      "citation": "Des moyens financiers sont mis sur la table –⁠ c’est indéniable –, mais il y a aussi des oublis et des dérives.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Cécile Untermaier (Socialistes)",
+      "resume": "Tout ne se résume pas aux moyens et les orientations ne conviennent pas totalement ; abstention en considération de la priorité budgétaire.",
+      "citation": "mais en considération de la priorité budgétaire, le groupe Socialistes et apparentés s’abstiendra sur le vote du projet de loi ordinaire",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Emeline K/Bidi (Gauche démocrate et républicaine)",
+      "resume": "Le texte est jugé insuffisant, avec des inquiétudes sur l'activation à distance d'appareils et les perquisitions de nuit ; son groupe ne le vote pas.",
+      "citation": "Nous faisons le choix de ne pas voter vos deux projets de loi, aussi bien le projet de loi organique que le projet de loi ordinaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    },
+    {
+      "auteur": "Jean-Félix Acquaviva (LIOT)",
+      "resume": "Le groupe salue la hausse du budget mais estime qu'elle ne saurait clore le débat sur la justice.",
+      "citation": "Notre groupe salue l’augmentation du budget de 9,6 à 10,7 milliards d’euros durant la période 2023-2027.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N012",
+      "date": "2023-10-10"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour / 49 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°2719) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR s'est majoritairement abstenu (0 pour / 1 contre / 5 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°2719) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI-NUPES a voté contre (0 pour / 49 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté contre (0 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°2719) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste-NUPES a voté contre (0 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée s'est abstenu (0 pour / 0 contre / 12 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Éducation nationale dans le gouvernement Borne, qui a porté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl22-569.html",
+      "date": "2023-10-10"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (18 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat sur l'ensemble du projet de loi en première lecture (scrutin n°300 du 13 juin 2023), sur la version du Sénat ; aucun scrutin public retrouvé sur le texte de CMP au Sénat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-300.html",
+      "date": "2023-06-13"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (31 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (31 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°2719) ; aucune déclaration retrouvée. À titre indicatif, le groupe RN, qu'elle préside, a voté pour (61 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans mandat ; aucune déclaration retrouvée ; pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°2719) ; aucune déclaration retrouvée. À titre indicatif, le seul non-inscrit votant a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2719",
+      "date": "2023-10-10"
+    }
+  },
+  "alertes": [
+    "Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote (342 votants) ; aucune déclaration vérifiée retrouvée, positions laissées « inconnu ». Le Pen est intervenue dans la même séance mais sur l'attaque du Hamas contre Israël (questions au gouvernement).",
+    "Le projet de loi organique associé (statut des magistrats) a fait l'objet d'un vote distinct ; le PS l'a soutenu tout en s'abstenant sur la loi ordinaire.",
+    "Montants : 10,7 milliards d'euros en 2027 selon Jean-Félix Acquaviva (LIOT) ; Blandine Brocard évoque « 11 milliards ». La question parle de « près de 11 milliards ».",
+    "Le groupe GDR, codé « abstention » (0p/1c/5a), a annoncé par la voix d'Emeline K/Bidi qu'il ne voterait pas les textes ; il est classé ici en abstention selon les votes exprimés.",
+    "Retailleau : vote nominatif sur la version du Sénat en première lecture.",
+    "Attal : position déduite de son appartenance au gouvernement."
+  ]
+}

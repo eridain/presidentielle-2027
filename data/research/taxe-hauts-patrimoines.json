@@ -1,0 +1,209 @@
+{
+  "id": "taxe-hauts-patrimoines",
+  "titre": "Taxe exceptionnelle sur les hauts patrimoines",
+  "question": "Faut-il créer une taxe exceptionnelle sur les hauts patrimoines (au-delà de 3 millions d'euros), sur le modèle espagnol ?",
+  "ouiSignifie": "pour",
+  "contexte": "Lors de l'examen du budget 2023, la NUPES (amendements identiques LFI et socialiste) propose, à l'image de l'Espagne, une contribution exceptionnelle pour 2022 et 2023 sur les patrimoines nets supérieurs à 3 millions d'euros : 1,7 % entre 3 et 5 millions, 2,1 % entre 5 et 10 millions et 3,5 % au-delà, soit selon ses auteurs environ 0,5 % des Français. L'ISF a été remplacé en 2018 par l'impôt sur la fortune immobilière (IFI). Le 17 octobre 2022, les amendements sont rejetés par 95 voix contre 173 : majorité et LR contre, RN abstenu (63 abstentions).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 17 octobre 2022 (PLF 2023)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N023"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/332",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N023",
+  "argumentsPour": [
+    {
+      "auteur": "Maxime Laisney (LFI-NUPES)",
+      "resume": "Face à l'inflation, l'État doit organiser la solidarité des plus riches envers les plus modestes, comme l'a fait l'Espagne.",
+      "citation": "il est vraiment urgent que l’État organise la solidarité entre les plus riches de nos concitoyens et les plus modestes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N023",
+      "date": "2022-10-17"
+    },
+    {
+      "auteur": "Mickaël Bouloux (Socialistes)",
+      "resume": "Une taxe temporaire et modeste, jusqu'à fin 2023, pour corriger l'absence de rétablissement de l'ISF.",
+      "citation": "Tout à l’heure, nous n’avons pas su rétablir l’impôt sur la fortune alors que c’est nécessaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N023",
+      "date": "2022-10-17"
+    },
+    {
+      "auteur": "Éric Coquerel (LFI, président de la commission des finances)",
+      "resume": "La mesure ne vise que les « très très riches » (0,5 % des Français) et seulement pour deux ans.",
+      "citation": "ils ne touchent ni les petits riches, ni les moyennement riches, ni même les très riches, mais les très très riches",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N023",
+      "date": "2022-10-17"
+    },
+    {
+      "auteur": "Nicolas Sansu (GDR-NUPES)",
+      "resume": "Chacun doit contribuer selon ses facultés, comme le prévoit la Déclaration des droits de l'homme, alors que les factures explosent.",
+      "citation": "Selon l’article 13 de la Déclaration des droits de l’homme et du citoyen, chacun doit contribuer à hauteur de ses facultés à la charge commune",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N023",
+      "date": "2022-10-17"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Gabriel Attal (ministre délégué aux Comptes publics)",
+      "resume": "Taxe jugée confiscatoire et sans plafonnement, donc probablement inconstitutionnelle ; l'Espagne n'est pas comparable car ses régions avaient supprimé leur impôt sur la fortune.",
+      "citation": "Ces amendements seraient très certainement jugés non conformes à la Constitution par le Conseil constitutionnel",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N023",
+      "date": "2022-10-17"
+    },
+    {
+      "auteur": "Jean-René Cazeneuve (rapporteur général, Renaissance)",
+      "resume": "L'assiette inclut les biens professionnels : des PME seraient touchées et leur transmission compromise.",
+      "citation": "Toutes les PME seraient ainsi touchées",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N023",
+      "date": "2022-10-17"
+    },
+    {
+      "auteur": "Mathieu Lefèvre (Renaissance)",
+      "resume": "La gauche multiplie les taxes au mépris de la Constitution : « ébriété fiscale ».",
+      "citation": "À la sobriété énergétique, vous répondez par l’ébriété fiscale",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N023",
+      "date": "2022-10-17"
+    },
+    {
+      "auteur": "Louis Margueritte (Renaissance)",
+      "resume": "Les réformes de 2017-2018 visaient à orienter l'épargne vers les fonds propres des entreprises, dont elles ont besoin pour investir.",
+      "citation": "Non, « fonds propres » et « capital » ne sont pas des gros mots !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N023",
+      "date": "2022-10-17"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2022 ; aucune déclaration retrouvée sur cet amendement. Proxy : le groupe LFI-NUPES a voté pour (59 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°332) ; aucune déclaration retrouvée. Proxy : le groupe GDR-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°332) ; aucune déclaration retrouvée. Proxy : le groupe LFI-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Écologiste-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°332) ; aucune déclaration retrouvée. Proxy : le groupe Écologiste-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. Proxy : le groupe Socialistes a voté pour (14 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics : avis défavorable du gouvernement en séance.",
+      "argument": "Juge la taxe confiscatoire, sans plafonnement et probablement inconstitutionnelle ; rappelle que la France est déjà le deuxième pays européen pour les prélèvements obligatoires.",
+      "citation": "Ces amendements seraient très certainement jugés non conformes à la Constitution par le Conseil constitutionnel",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N023",
+      "date": "2022-10-17"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Horizons a voté contre (20 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur : pas de scrutin au Sénat sur cette mesure ; aucune déclaration retrouvée. Proxy : le groupe LR de l'Assemblée a voté contre (16 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; aucune déclaration retrouvée. Proxy : le groupe LR a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°332) ; aucune déclaration retrouvée. Proxy : le groupe RN s'est abstenu (63 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°332) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Amendement « d'appel » selon son auteur LFI : taxe exceptionnelle limitée à 2022-2023, distincte d'un rétablissement de l'ISF (rejeté plus tôt dans la même séance).",
+    "Le RN s'est abstenu sans expliquer son vote en séance.",
+    "Aucun des candidats députés (Roussel, Ruffin, Batho, Le Pen, Dupont-Aignan) n'a pris part au vote."
+  ]
+}

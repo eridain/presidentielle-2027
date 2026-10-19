@@ -1,0 +1,18 @@
+{
+  "id": "parcoursup",
+  "questionSimple": "Faut-il remplacer le tirage au sort d'APB par Parcoursup, où les formations classent les candidats selon leurs attentes ?",
+  "enBref": "Avant 2018, quand une licence avait trop de candidats, on tirait au sort. La loi crée Parcoursup : chaque formation publie ce qu'elle attend des candidats et peut les classer. Un élève peut être admis à condition de suivre un soutien.",
+  "pourquoiPour": "Pour ses défenseurs, la loi met fin au tirage au sort et aide les lycéens à mieux s'orienter. L'accompagnement en licence doit réduire les échecs en première année.",
+  "pourquoiContre": "Pour ses opposants, c'est une sélection à l'université qui ne dit pas son nom et défavorise les jeunes de milieux modestes. Il fallait plutôt ouvrir des places.",
+  "ceQuiSestPasse": "Adoptée le 15 février 2018 et validée par le Conseil constitutionnel, la loi a été promulguée le 8 mars 2018 ; Parcoursup s'applique depuis.",
+  "lexique": [
+    {
+      "terme": "APB",
+      "definition": "Admission post-bac : ancienne plateforme d'inscription dans le supérieur, remplacée par Parcoursup."
+    },
+    {
+      "terme": "Attendus",
+      "definition": "Connaissances et qualités qu'une formation demande aux candidats."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "edf-demembrement",
+  "questionSimple": "Faut-il protéger EDF contre un découpage et rendre l'électricité à tarif réglementé accessible aux petites entreprises et communes ?",
+  "enBref": "Le texte inscrit dans la loi qu'EDF appartient entièrement à l'État, pour empêcher qu'elle soit découpée et vendue par morceaux. Il permet aussi aux très petites entreprises et aux petites communes de payer l'électricité au tarif fixé par l'État.",
+  "pourquoiPour": "Ses partisans veulent garder EDF unie et publique pour garantir la souveraineté énergétique. Ils veulent protéger boulangers, artisans et communes de la flambée des factures.",
+  "pourquoiContre": "Ses opposants assurent que le découpage d'EDF est abandonné. Selon eux, le texte bloquerait des ventes utiles à l'entreprise et désorganiserait les contrats d'électricité des entreprises.",
+  "ceQuiSestPasse": "Adopté contre l'avis du gouvernement en 2023, le texte est devenu la loi du 11 avril 2024 après une troisième lecture.",
+  "lexique": [
+    {
+      "terme": "Tarif réglementé",
+      "definition": "Prix de l'électricité fixé par l'État plutôt que par le marché."
+    },
+    {
+      "terme": "Projet Hercule",
+      "definition": "Projet abandonné de réorganisation d'EDF en plusieurs entités séparées."
+    }
+  ]
+}

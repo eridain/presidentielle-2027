@@ -1,0 +1,225 @@
+{
+  "id": "loi-fake-news",
+  "titre": "Loi contre la manipulation de l'information",
+  "question": "Faut-il permettre à un juge des référés de faire retirer en urgence les fausses informations diffusées en période électorale (loi de 2018) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Issue d'une proposition de loi du groupe La République en marche voulue par le président de la République, la loi crée une procédure de référé permettant à un juge de faire cesser sous 48 heures, dans les trois mois précédant un scrutin national, la diffusion « artificielle ou automatisée » et « massive » de fausses informations en ligne ; elle impose aussi aux plateformes des obligations de transparence sur les contenus sponsorisés et un devoir de coopération, et permet au CSA de suspendre une chaîne contrôlée par un État étranger en période électorale. Le Sénat l'a rejetée deux fois par une question préalable ; l'Assemblée l'a adoptée en lecture définitive le 20 novembre 2018 (183 pour, 111 contre). Le Conseil constitutionnel l'a jugée conforme sous réserves (décision n° 2018-773 DC du 20 décembre 2018) : le juge ne peut agir que si le caractère inexact ou trompeur de l'information et le risque d'altération du scrutin sont manifestes. La loi n° 2018-1202 a été promulguée le 22 décembre 2018.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi manipulation de l'information, loi fake news",
+      "url": "https://www.vie-publique.fr/loi/21026-loi-manipulation-de-linformation-loi-fake-news"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2018-773 DC du 20 décembre 2018, communiqué de presse",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2018-773-dc-du-20-decembre-2018-communique-de-presse"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif Lutte contre la manipulation de l'information",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/fausses_informations_lutte"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 20 novembre 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N071"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1431",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/fausses_informations_lutte",
+  "argumentsPour": [
+    {
+      "auteur": "Franck Riester (ministre de la Culture, gouvernement)",
+      "resume": "Les fausses informations diffusées massivement à chaque élection altèrent la sincérité des scrutins ; l'autorégulation des plateformes ne suffit pas, la transparence doit être inscrite dans la loi.",
+      "citation": "La manipulation de l'information n'est pas seulement une menace : c'est une réalité, une réalité bien installée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N071",
+      "date": "2018-11-20"
+    },
+    {
+      "auteur": "Bruno Studer (LaREM, rapporteur)",
+      "resume": "Le texte, retravaillé après l'avis du Conseil d'État, est équilibré : il préserve la liberté d'expression tout en permettant d'agir contre la diffusion des fausses informations.",
+      "citation": "un dispositif équilibré, précis, qui préserve les libertés, notamment la liberté d'expression, tout en permettant d'agir plus efficacement contre la diffusion des fausses informations.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N071",
+      "date": "2018-11-20"
+    },
+    {
+      "auteur": "Fabienne Colboc (La République en marche)",
+      "resume": "Les fausses informations se propagent plus vite que les vraies ; le texte donne aux candidats un recours au juge et impose transparence et coopération aux plateformes dès les européennes.",
+      "citation": "Ils pourront saisir le juge des référés lorsqu'une fausse information, diffusée de manière délibérée, massive et artificielle, sera susceptible d'altérer le bon déroulement du scrutin.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N071",
+      "date": "2018-11-20"
+    },
+    {
+      "auteur": "Laurent Garcia (MoDem)",
+      "resume": "Les « infox » de la présidentielle 2017 montrent le risque pour la démocratie ; la loi de 1881 ne suffit plus face aux nouveaux modes de diffusion.",
+      "citation": "nous avons le devoir d'agir pour ne pas compromettre l'un des droits essentiels de tout citoyen : l'accès à une information de qualité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N071",
+      "date": "2018-11-20"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "Le droit existant (loi de 1881, code électoral, diffamation) permet déjà d'agir ; un juge ne peut établir la vérité en 48 heures et le texte menace la diffusion d'informations légitimes.",
+      "citation": "Cette réforme sera au mieux inutile car le droit français permet déjà de lutter contre les fausses informations en ligne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N071",
+      "date": "2018-11-20"
+    },
+    {
+      "auteur": "Constance Le Grip (Les Républicains)",
+      "resume": "Texte mené à la hâte, à l'efficacité discutable, avec des risques pour la liberté de la presse ; LR préfère une régulation européenne des plateformes.",
+      "citation": "Nous sommes sceptiques et plus que réservés sur ces textes, à l'efficacité discutable mais dont les risques réels de dévoiement sont réels.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N071",
+      "date": "2018-11-20"
+    },
+    {
+      "auteur": "Hervé Saulignac (Socialistes)",
+      "resume": "Définition « fumeuse » de la fausse information, risque d'instrumentalisation du juge par les candidats, pouvoirs nouveaux du CSA : le texte crée plus de risques que de droits.",
+      "citation": "Elles présentent des risques pour nos libertés fondamentales et susciteront du contentieux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N071",
+      "date": "2018-11-20"
+    },
+    {
+      "auteur": "Jean-Luc Mélenchon (La France insoumise)",
+      "resume": "Personne ne peut définir la vérité ; le texte confie la régulation à des plateformes et à leurs algorithmes et permettrait au CSA de suspendre des chaînes en période électorale.",
+      "citation": "Ensuite, nous allons donner le pouvoir aux GAFA d'organiser eux-mêmes la censure.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N071",
+      "date": "2018-11-20"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1431 du 20 novembre 2018) ; intervention en séance le même jour.",
+      "argument": "Le texte renonce à définir la vérité mais confie aux plateformes et à leurs algorithmes le soin de trier l'information, et expose des chaînes militantes à une suspension par le CSA.",
+      "citation": "Ensuite, nous allons donner le pouvoir aux GAFA d'organiser eux-mêmes la censure.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N071",
+      "date": "2018-11-20"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "N'a pas pris part au scrutin n°1431 (loi ordinaire), mais a voté contre la loi organique jumelle le même jour (scrutin n°1432) ; argument = explication du groupe GDR (Elsa Faucillon).",
+      "argument": "Groupe GDR : le droit existant suffit déjà contre les fausses informations, et un juge ne peut trancher le vrai du faux en 48 heures.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1432",
+      "date": "2018-11-20"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "N'a pas pris part au scrutin n°1431 (loi ordinaire), mais a voté contre la loi organique jumelle le même jour (scrutin n°1432) ; argument = position du groupe La France insoumise.",
+      "argument": "Groupe FI : le texte confie aux plateformes le tri de l'information et ne traite pas la concentration des médias.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1432",
+      "date": "2018-11-20"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. EELV n'avait pas de groupe à l'Assemblée en 2018 : aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1431",
+      "date": "2018-11-20"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (ni au scrutin n°1431 ni au scrutin n°1432 sur la loi organique) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1431",
+      "date": "2018-11-20"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2018 ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 14 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1431",
+      "date": "2018-11-20"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Secrétaire d'État dans le gouvernement Philippe à la date du vote ; comme député LaREM, il avait voté pour le texte en première lecture (scrutin n°998) et en nouvelle lecture (scrutin n°1214 du 9 octobre 2018).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1214",
+      "date": "2018-10-09"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a soutenu la proposition de loi (défendue en séance par le ministre de la Culture Franck Riester) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N071",
+      "date": "2018-11-20"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat ; a voté pour la question préalable rejetant la proposition de loi en nouvelle lecture (scrutin n°8 du 6 novembre 2018).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-8.html",
+      "date": "2018-11-06"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire, ayant quitté LR fin 2017 ; aucune déclaration retrouvée. PROXY indicatif : le groupe LR de l'Assemblée a voté contre (0 pour / 56 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1431",
+      "date": "2018-11-20"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (0 pour / 56 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1431",
+      "date": "2018-11-20"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "N'a pas pris part au scrutin n°1431 (loi ordinaire), mais a voté contre la loi organique jumelle le même jour (scrutin n°1432) et contre la loi ordinaire en première lecture (scrutin n°998) ; pas de déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1432",
+      "date": "2018-11-20"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2018 (Reconquête fondé en 2021) ; aucune déclaration retrouvée, aucun groupe ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1431",
+      "date": "2018-11-20"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1431) ; pas d'intervention personnelle retrouvée dans le compte rendu de la lecture définitive.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1431",
+      "date": "2018-11-20"
+    }
+  },
+  "alertes": [
+    "Le scrutin n°1431 porte sur la loi ORDINAIRE ; la loi organique jumelle (application à l'élection présidentielle) a été votée le même jour (scrutin n°1432, 347 pour / 204 contre).",
+    "Roussel, Ruffin, Le Pen n'ont pas pris part au scrutin n°1431 : leur position est tirée de leur vote nominatif contre la loi organique jumelle (scrutin n°1432, même jour, même sujet), d'après l'open data AN — ce n'est pas un vote sur le scrutin de référence.",
+    "Attal était secrétaire d'État à la date du vote : sa position repose sur ses votes de député en première lecture (n°998, 3 juillet 2018) et en nouvelle lecture (n°1214, 9 octobre 2018), d'après l'open data AN, et sur la position du gouvernement.",
+    "Retailleau : position déduite de son vote pour la question préalable (rejet du texte sans examen) au Sénat ; il avait aussi voté la question préalable en première lecture (scrutin n°227 du 26 juillet 2018).",
+    "Mélenchon : son intervention du 20 novembre 2018 reconnaît aussi des avancées du débat (abandon de l'idée d'établir la vérité) avant de critiquer le rôle confié aux plateformes et au CSA.",
+    "Dupont-Aignan, Le Pen, Ruffin, Roussel : aucune déclaration personnelle vérifiée retrouvée dans le temps imparti.",
+    "La question proposée met l'accent sur le référé ; la loi comporte aussi des obligations de transparence des plateformes et des pouvoirs nouveaux du CSA (voir contexte)."
+  ]
+}

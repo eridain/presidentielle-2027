@@ -1,0 +1,221 @@
+{
+  "id": "pass-vaccinal",
+  "titre": "Transformation du passe sanitaire en passe vaccinal",
+  "question": "Faut-il remplacer le passe sanitaire par un passe vaccinal, où un test négatif ne suffit plus pour accéder aux restaurants, loisirs et transports interrégionaux (Covid-19, janvier 2022) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Présenté en Conseil des ministres le 27 décembre 2021 par le gouvernement de Jean Castex, le projet de loi transforme le passe sanitaire en passe vaccinal pour les plus de 16 ans : seule une vaccination (ou, dans certains cas, un certificat de rétablissement) permet d'accéder aux bars, restaurants, lieux de loisirs et transports interrégionaux ; il durcit aussi les sanctions contre la fraude et élargit les contrôles. Adopté en première lecture par l'Assemblée le 5 janvier 2022 (214 pour, 93 contre, 27 abstentions) puis par le Sénat le 12 janvier, le texte est définitivement adopté par l'Assemblée le 16 janvier après l'échec de la commission mixte paritaire. Saisi par des députés et des sénateurs, le Conseil constitutionnel l'a jugé partiellement non conforme le 21 janvier 2022 ; la loi n° 2022-46 est promulguée le 22 janvier et le passe vaccinal s'applique dès le 24 janvier 2022.",
+  "contexteSources": [
+    {
+      "titre": "Vie-publique.fr – Loi du 22 janvier 2022 renforçant les outils de gestion de la crise sanitaire",
+      "url": "https://www.vie-publique.fr/loi/283068-loi-22-janvier-2022-pass-vaccinal-gestion-de-la-crise-sanitaire"
+    },
+    {
+      "titre": "Sénat – Dossier législatif « Gestion de la crise sanitaire »",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl21-327.html"
+    },
+    {
+      "titre": "LCP – Le passe vaccinal définitivement adopté par l'Assemblée nationale",
+      "url": "https://lcp.fr/actualites/le-passe-vaccinal-definitivement-adopte-par-l-assemblee-nationale-98563"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4279",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/projetdeloirenforcantlesoutilsdegestiondelacrisesanitaire",
+  "argumentsPour": [
+    {
+      "auteur": "Guillaume Gouffier-Cha (La République en marche)",
+      "resume": "Face à plus de 300 000 contaminations quotidiennes et à la saturation hospitalière, le texte vise à accélérer la vaccination pour protéger la santé et permettre à la vie de continuer.",
+      "citation": "Avec ce texte, nous renforçons les outils de la gestion de la crise sanitaire, notamment en cherchant à accélérer la campagne de vaccination",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N111",
+      "date": "2022-01-05"
+    },
+    {
+      "auteur": "Laurence Vichnievsky (Mouvement démocrate)",
+      "resume": "Le passe vaccinal vise la vaccination la plus large possible pour éviter les formes graves et freiner le virus, tout en évitant des mesures plus restrictives de libertés.",
+      "citation": "La mesure essentielle de ce texte est la transformation du passe sanitaire en passe vaccinal ; elle traduit l’objectif d’une vaccination la plus large possible de la population.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N111",
+      "date": "2022-01-05"
+    },
+    {
+      "auteur": "Olivier Becht (Agir ensemble)",
+      "resume": "Mesure restrictive mais jugée préférable aux confinements et couvre-feux, alors que les services de réanimation accueillent majoritairement des non-vaccinés.",
+      "citation": "Ce passe vaccinal, nous le votons en responsabilité, mais nous le votons aussi un peu à contrecœur lorsqu’il est restrictif de libertés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N111",
+      "date": "2022-01-05"
+    },
+    {
+      "auteur": "Ian Boucard (Les Républicains)",
+      "resume": "Défenseur de la vaccination, le groupe LR ne s'oppose majoritairement pas au texte, après avoir obtenu l'exemption des 12-16 ans pour les activités sportives et culturelles, sans soutenir la gestion gouvernementale.",
+      "citation": "C’est un choix de responsabilité qui n’est en aucun cas un blanc-seing pour votre gouvernement et pour sa gestion chaotique et manquant d’anticipation de la crise sanitaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N111",
+      "date": "2022-01-05"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Ugo Bernalicis (La France insoumise)",
+      "resume": "La vaccination protège des formes graves, mais il faut convaincre plutôt que contraindre ; le texte n'offre qu'un seul outil et ne freinera pas l'épidémie.",
+      "citation": "C’est pourquoi nous restons sur la position de l’Organisation mondiale de la santé : convaincre plutôt que contraindre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N111",
+      "date": "2022-01-05"
+    },
+    {
+      "auteur": "Pierre Dharréville (Gauche démocrate et républicaine)",
+      "resume": "Le passe vaccinal instaure une logique de contrôle et de sanction qui divise, au lieu de rassembler pour faire progresser la vaccination.",
+      "citation": "En créant ce passe vaccinal, vous installez une logique de contrôle et de sanction qui ne nous semble pas la meilleure façon de continuer à faire progresser la vaccination",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N111",
+      "date": "2022-01-05"
+    },
+    {
+      "auteur": "Pascal Brindeau (UDI et indépendants)",
+      "resume": "Les propos du président de la République ont, selon lui, disqualifié un outil qui aurait pu convaincre les non-vaccinés ; la majorité du groupe vote contre.",
+      "citation": "Pire, les déclarations du Président de la République ont absolument disqualifié le passe vaccinal qui aurait pu être un instrument supplémentaire",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N111",
+      "date": "2022-01-05"
+    },
+    {
+      "auteur": "Marine Le Pen (Rassemblement national, non-inscrite)",
+      "resume": "Le passe vaccinal ne garantit pas l'arrêt de la circulation du virus ; son objectif réel serait de contraindre les non-vaccinés plutôt que la sécurité sanitaire.",
+      "citation": "il s’agit non de viser un objectif de sécurité sanitaire mais d’inciter des personnes à se faire vacciner en leur pourrissant la vie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N110",
+      "date": "2022-01-05"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°4279) ; intervention en séance le 3 janvier 2022.",
+      "argument": "Il faut convaincre plutôt que contraindre, comme le recommande l'OMS ; il refuse que des personnels de bars et restaurants contrôlent l'identité des clients.",
+      "citation": "s’il ne faut pas rendre le vaccin obligatoire, c’est parce qu’il faut convaincre plutôt que contraindre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N106",
+      "date": "2022-01-03"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Député (GDR), n'a pas pris part au scrutin n°4279 ; il avait défendu le 3 janvier un amendement de suppression de l'article 1er et déclare sur franceinfo qu'il retirerait le passe vaccinal.",
+      "argument": "Refuse une vaccination imposée par le passe ; préconise d'aller vers les non-vaccinés (porte-à-porte des médecins avec la liste des non-vaccinés).",
+      "citation": "Je ne partage pas le choix qui a été fait par le gouvernement d'imposer par le pass vaccinal cette vaccination sous la contrainte",
+      "url": "https://www.franceinfo.fr/elections/presidentielle/nationalisations-fin-du-pass-vaccinal-referendum-sur-l-ue-ce-qu-il-faut-retenir-de-l-interview-de-fabien-roussel-sur-franceinfo_4930023.html",
+      "date": "2022-01-26"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°4279) ; intervention en séance le 5 janvier 2022.",
+      "argument": "Les plus de 80 ans et les personnes fragiles restent moins vaccinés ; le passe contraindra d'autres générations sans les convaincre, faute de politique d'« aller vers ».",
+      "citation": "D’autres générations qui, elles, voudront continuer de vivre plus ou moins normalement, se résoudront à se faire vacciner, mais en étant davantage contraintes que convaincues.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N110",
+      "date": "2022-01-05"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat national en 2022 et aucune déclaration trouvée ; EELV n'avait pas de groupe à l'Assemblée (pour information, le candidat EELV Yannick Jadot se disait « plutôt contre » selon le HuffPost).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.huffingtonpost.fr/politique/article/le-pass-vaccinal-qui-est-pour-et-qui-est-contre_190798.html",
+      "date": "2022-01-03"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°4279) comme députée non-inscrite ; aucune intervention personnelle ni explication de groupe trouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4279",
+      "date": "2022-01-05"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote sur ce texte ; aucune déclaration trouvée sur le passe vaccinal (il avait défendu le passe sanitaire en juillet 2021) ; PROXY : le groupe Socialistes a voté majoritairement contre (7/10/3), en liberté de vote.",
+      "argument": "Sur le passe sanitaire (juillet 2021), il défendait la contrainte au nom d'une liberté qui ne nie pas celle des autres.",
+      "citation": "on comprend qu’il y a un immense malentendu dans notre pays sur la liberté et la contrainte en démocratie.",
+      "url": "https://fr.linkedin.com/posts/raphaelglucksmann_en-voyant-la-r%C3%A9volte-contre-le-pass-sanitaire-activity-6820800296835461120-XYhD",
+      "date": "2021-07-13"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du Gouvernement qui a porté le texte ; il l'a défendu en séance en nouvelle lecture le 14 janvier 2022.",
+      "argument": "Faire peser la contrainte sur les non-vaccinés plutôt que sur ceux qui se sont fait vacciner ; le passe a déjà fait remonter les primo-injections.",
+      "citation": "nous refusons de faire peser la contrainte sur ceux qui ont pris leurs responsabilités, sur ceux qui ont fait le choix du collectif",
+      "url": "https://www.vie-publique.fr/discours/283524-gabriel-attal-14012022-projet-de-loi-passe-vaccinal",
+      "date": "2022-01-14"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Hors du gouvernement depuis 2020, maire du Havre et président d'Horizons ; aucune déclaration trouvée ; Horizons n'avait pas de groupe propre (pour information, les groupes de la majorité LaREM, MoDem et Agir ensemble ont voté pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif « pour » au Sénat, scrutin n°74 du 12 janvier 2022 (https://www.senat.fr/scrutin-public/2021/scr2021-74.html), et à nouveau scrutin n°78 du 15 janvier, sur le texte modifié par le Sénat.",
+      "argument": "Le Sénat a soutenu le passe vaccinal ; il reproche à la majorité d'avoir fait échouer la commission mixte paritaire pour un tweet.",
+      "citation": "On a voté le pass sanitaire. On a voté le pass vaccinal.",
+      "url": "https://rmc.bfmtv.com/actualites/c-est-totalement-disproportionne-bruno-retailleau-s-explique-sur-son-tweet-en-pleine-cmp_AV-202201150334.html",
+      "date": "2022-01-15"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région (LR) ; aucune déclaration trouvée ; PROXY : le groupe LR de l'Assemblée a voté majoritairement pour (28 pour / 24 contre / 22 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Président de l'AMF et maire de Cannes, il a exprimé son opposition au vote du passe vaccinal au Grand rendez-vous Europe 1-CNews-Les Echos.",
+      "argument": "Mesure jugée tardive et utilisée comme arme politique qui divise ; il privilégie une vaccination ciblée des personnes âgées et fragiles.",
+      "citation": "Le passe vaccinal n'est pas seulement une mesure sanitaire, il est utilisé comme une arme politique",
+      "url": "https://www.lesechos.fr/politique-societe/politique/david-lisnard-estime-que-le-passe-vaccinal-est-utilise-comme-une-arme-politique-1379499",
+      "date": "2022-01-16"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°4279) ; interventions en séance les 3 et 5 janvier 2022.",
+      "argument": "Le passe ne garantit pas l'arrêt de la circulation du virus ; le vrai problème est le manque de lits hospitaliers ; l'objectif serait de contraindre les non-vaccinés.",
+      "citation": "il s’agit non de viser un objectif de sécurité sanitaire mais d’inciter des personnes à se faire vacciner en leur pourrissant la vie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N110",
+      "date": "2022-01-05"
+    },
+    "zemmour": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Candidat à la présidentielle, déclaration sur BFMTV-RMC.",
+      "argument": "Juge le passe vaccinal inutile sur le plan sanitaire et destiné à « emmerder » les non-vaccinés.",
+      "citation": "Emmanuel Macron a voulu emmerder les non-vaccinés avec ce pass vaccinal qui ne servira à rien",
+      "url": "https://www.bfmtv.com/politique/elections/presidentielle/eric-zemmour-emmanuel-macron-a-voulu-emmerder-les-non-vaccines-avec-ce-pass-vaccinal-qui-ne-servira-a-rien_VN-202201180135.html",
+      "date": "2022-01-18"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°4279) ; interventions en séance du 3 au 5 janvier 2022.",
+      "argument": "Un vacciné peut transmettre le virus ; le passe porte une atteinte disproportionnée aux libertés en conditionnant leur exercice à un schéma vaccinal évolutif.",
+      "citation": "ce projet de loi porte une atteinte disproportionnée à nos libertés car, sous forme de crédit social à la chinoise, il conditionne leur exercice à un comportement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N106",
+      "date": "2022-01-03"
+    }
+  },
+  "alertes": [
+    "Le scrutin n°4279 est daté du 5 janvier 2022 (deuxième séance) mais le vote est intervenu vers 5 h 30 le 6 janvier.",
+    "Retailleau a voté au Sénat un texte modifié par la majorité sénatoriale : selon Maire-info (11 janvier 2022, https://www.maire-info.com/crise-sanitaire/en-commission-des-lois-les-senateurs-valident-le-pass-vaccinal-mais-sous-conditions-article-25986), la commission des lois conditionnait le passe vaccinal au nombre d'hospitalisations ; ce n'est donc pas exactement le texte voté par l'Assemblée le 5 janvier.",
+    "Roussel n'a pas pris part au vote ; sa position « contre » repose sur son amendement de suppression du 3 janvier et sa déclaration du 26 janvier 2022.",
+    "Glucksmann : la citation porte sur le passe sanitaire (juillet 2021), pas sur le passe vaccinal ; position laissée « inconnu ».",
+    "Tondelier : l'URL renvoie à un article sur la position de Yannick Jadot (EELV), pas d'elle ; aucune déclaration personnelle trouvée.",
+    "Les pages vie-publique.fr et Les Echos ont été consultées via leur copie Web Archive (accès direct bloqué) ; citations vérifiées sur ces copies.",
+    "Lisnard : la citation est rapportée par Les Echos (propos tenus sur Europe 1/CNews), non issue d'une transcription intégrale."
+  ]
+}

@@ -1,0 +1,194 @@
+{
+ "partiId": "ecologistes",
+ "nom": "Les Écologistes",
+ "sigle": "LE",
+ "predecesseurs": [
+  "Les Verts (1984-2010)",
+  "Europe Écologie Les Verts (EELV, 2010-2023)"
+ ],
+ "fondation": "2010",
+ "direction": [
+  {
+   "nom": "Marine Tondelier",
+   "fonction": "Secrétaire nationale",
+   "url": "https://lesecologistes.fr/trombinoscope"
+  },
+  {
+   "nom": "Aïssa Ghalmi",
+   "fonction": "Secrétaire national adjoint au projet",
+   "url": "https://lesecologistes.fr/trombinoscope"
+  },
+  {
+   "nom": "François Thiollet",
+   "fonction": "Secrétaire national adjoint à la vie interne",
+   "url": "https://lesecologistes.fr/trombinoscope"
+  },
+  {
+   "nom": "Aminata Niakaté",
+   "fonction": "Porte-parole",
+   "url": "https://lesecologistes.fr/trombinoscope"
+  },
+  {
+   "nom": "Samia Lakehal",
+   "fonction": "Trésorière",
+   "url": "https://lesecologistes.fr/trombinoscope"
+  }
+ ],
+ "presentation": "Les Écologistes, dénommé Europe Écologie Les Verts (EELV) jusqu'en 2023, est issu en 2010 du changement de nom du parti Les Verts, fondé en 1984. Wikipédia le décrit comme « un parti politique écologiste et eurofédéraliste français », membre de la NUPES (2022-2024) puis du Nouveau Front populaire. Le parti a obtenu 5,5 % des voix et 5 sièges aux élections européennes de 2024 ; ses députés siègent dans le groupe Écologiste et social (38 membres, dont des élus d'autres formations) et ses sénateurs dans le groupe Écologiste - Solidarité et Territoires.",
+ "presentationSources": [
+  {
+   "titre": "Les Écologistes — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Les_%C3%89cologistes"
+  },
+  {
+   "titre": "France – European elections 2024 (résultats)",
+   "url": "https://2024.electionseuropeennes.eu/en/france"
+  },
+  {
+   "titre": "Groupe Écologiste - Solidarité et Territoires — Sénat",
+   "url": "https://www.senat.fr/senateurs/gest.html"
+  }
+ ],
+ "effectifs": {
+  "deputes": 27,
+  "senateurs": 15,
+  "eurodeputes": 5,
+  "source": "https://fr.wikipedia.org/wiki/Les_%C3%89cologistes ; https://www.senat.fr/senateurs/gest.html ; https://2024.electionseuropeennes.eu/en/france",
+  "precision": "Députés : estimation (28 élus de 2024 recensés par Wikipédia dont 1 Génération.s) ; le groupe EcoS compte 38 membres. Sénateurs : effectif du groupe GEST au 18/10/2026 (inclut d'éventuels apparentés non membres du parti). Eurodéputés : 5 sièges obtenus en 2024 (Toussaint, Cormand, Satouri, Sbai, Camara)."
+ },
+ "candidats": [
+  {
+   "id": "tondelier",
+   "bio": "Marine Tondelier, née en 1986, est conseillère municipale d'opposition à Hénin-Beaumont depuis 2014 et conseillère régionale des Hauts-de-France depuis 2021. Elle est secrétaire nationale d'EELV, devenu Les Écologistes, depuis 2022, réélue en 2025.",
+   "sources": [
+    {
+     "titre": "Marine Tondelier — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/Marine_Tondelier"
+    },
+    {
+     "titre": "Trombinoscope — Les Écologistes",
+     "url": "https://lesecologistes.fr/trombinoscope"
+    }
+   ]
+  }
+ ],
+ "condamnations": [
+  {
+   "personne": "Gilles Lemaire",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien secrétaire national des Verts (2003-2005)",
+   "infraction": "destruction de biens en réunion (fauchage d'un essai de maïs transgénique)",
+   "faits": "Participation, le 14 août 2004 à Marsat (Puy-de-Dôme), à la destruction d'une parcelle d'essai de maïs transgénique de la société Biogemma.",
+   "juridiction": "cour d'appel de Riom (chambre correctionnelle)",
+   "dateDecision": "2005-11-24",
+   "peine": "4 mois d'emprisonnement avec sursis ; condamnation solidaire des faucheurs à verser à Biogemma 196 805 € au titre du préjudice matériel, 1 000 € de préjudice moral et 1 000 € de frais de justice",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Faucheurs volontaires : Gilles Lemaire condamné",
+     "url": "https://www.nouvelobs.com/societe/20051124.OBS6437/faucheurs-volontaires-gilles-lemaire-condamne.html",
+     "citation": "Cinq d’entre eux, dont Gilles Lemaire, ont été condamnés à quatre mois de prison avec sursis par la cour d'appel.",
+     "date": "2005-11-25"
+    },
+    {
+     "titre": "Les ennuis judiciaires continuent (Le Parisien)",
+     "url": "https://www.leparisien.fr/politique/les-ennuis-judiciaires-continuent-17-09-2005-2006302106.php",
+     "citation": "L'ex-secrétaire national des Verts a comparu devant la cour d'appel de Riom (Puy-de-Dôme) pour « destruction de biens en réunion » après le fauchage collectif d'un champ d'OGM le 14 août 2004 à Marsat.",
+     "date": "2005-09-17"
+    },
+    {
+     "titre": "France : l’histoire des procès des faucheurs volontaires d’OGM de Marsat (Inf'OGM)",
+     "url": "https://infogm.org/france-lhistoire-des-proces-des-faucheurs-volontaires-dogm-de-marsat/",
+     "citation": "La Cour a aussi condamné solidairement les faucheurs à payer à Biogemma au titre du préjudice matériel la somme de 196 805 euros, plus 1000 euros de préjudice moral et 1000 euros de frais de justice.",
+     "date": ""
+    }
+   ],
+   "famille": "autres"
+  },
+  {
+   "personne": "Jean-Luc Bennahmias",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien secrétaire national des Verts (1997-2001), ancien député européen (MoDem, 2009-2014)",
+   "infraction": "détournement de fonds publics",
+   "faits": "Assistant parlementaire rémunéré sur les fonds du Parlement européen pour effectuer des tâches au profit du MoDem, alors qu'il était député européen MoDem (2009-2014).",
+   "juridiction": "tribunal correctionnel de Paris",
+   "dateDecision": "2024-02-05",
+   "peine": "12 mois d'emprisonnement avec sursis et 30 000 € d'amende (peine rapportée par Marsactu d'après l'AFP ; d'éventuelles peines complémentaires non vérifiées)",
+   "statut": "appel_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "L’ancien député européen Jean-Luc Bennahmias condamné pour détournement de fonds publics (Marsactu)",
+     "url": "https://marsactu.fr/bref/lancien-depute-europeen-jean-luc-bennahmias-condamne-pour-detournement-de-fonds-publics/",
+     "citation": "Le tribunal correctionnel de Paris a condamné l’ex-eurodéputé marseillais Jean-Luc Bennahmias à 12 mois de prison avec sursis et 30 000 euros d’amende dans l’affaire des assistants d’eurodéputés Modem",
+     "date": "2024-02-05"
+    },
+    {
+     "titre": "Le naufrage de Jean-Luc Bennahmias au procès en appel des assistants du MoDem (Mediapart)",
+     "url": "https://www.mediapart.fr/journal/france/210926/le-naufrage-de-jean-luc-bennahmias-au-proces-en-appel-des-assistants-du-modem",
+     "citation": "L’ancien député européen a donné lundi 21 septembre des explications confuses à la cour d’appel sur l’embauche par ses soins en tant qu’assistants de deux permanents du MoDem.",
+     "date": "2026-09-21"
+    },
+    {
+     "titre": "8.000 euros d'amende requis contre Bennahmias (Le Nouvel Obs)",
+     "url": "https://www.nouvelobs.com/politique/20020930.OBS0698/8-000-euros-d-amende-requis-contre-bennahmias.html",
+     "citation": "Jean-Luc Bennahmias, l'ancien secrétaire national des Verts, a comparu ce lundi à Lorient",
+     "date": "2002-09-30"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Yannick Jadot",
+   "categorie": "senateur",
+   "roleActuel": "sénateur de Paris (groupe Écologiste - Solidarité et Territoires) ; suspendu à titre conservatoire des Écologistes en septembre 2026",
+   "infraction": "« atteinte aux intérêts supérieurs de la nation » selon la presse (qualification exacte du jugement non consultée)",
+   "faits": "Tentative d'intrusion, avec des militants de Greenpeace, dans la base de sous-marins nucléaires de l'île Longue (Finistère) le 15 mai 2005, alors qu'il était directeur des campagnes de Greenpeace France.",
+   "juridiction": "tribunal correctionnel de Rennes (chambre spécialisée en matière militaire) — juridiction de citation, décision elle-même non consultée",
+   "dateDecision": "2006",
+   "peine": "2 mois d'emprisonnement avec sursis et 2 000 € d'amende",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Affaires en cours et condamnations : où en sont les candidats à la présidentielle avec la justice ? (France Inter)",
+     "url": "https://radiofrance.fr/franceinter/affaires-en-cours-et-condamnations-ou-en-sont-les-candidats-a-la-presidentielle-avec-la-justice-9223367",
+     "citation": "Alors membre de Greenpeace, Yannick Jadot a écopé en 2006 de deux mois de prison avec sursis et 2000 euros d'amende pour avoir tenté de s'introduire, avec d'autres militants, dans la base de sous-marins nucléaires de l'île Longue (Finistère).",
+     "date": "2022-03-23"
+    },
+    {
+     "titre": "Enquête. Entre coups d'éclat et lobbying, plongée dans les années Greenpeace de Yannick Jadot (Le JDD)",
+     "url": "https://www.lejdd.fr/Politique/enquete-entre-coups-declat-et-lobbying-plongee-dans-les-annees-greenpeace-de-yannick-jadot-4063101",
+     "citation": "Pour cette virée aquatique, il écopera de deux mois d'emprisonnement avec sursis et de 2.000 euros d'amende. Parmi les motifs, \"atteinte aux intérêts supérieurs de la nation\".",
+     "date": ""
+    },
+    {
+     "titre": "La France dans l'illégalité, Greenpeace devant les tribunaux à Rennes (communiqué Greenpeace, ABP)",
+     "url": "https://abp.bzh/la-france-dans-l-illegalite-greenpeace-devant-les-tribunaux-a-rennes-3300",
+     "citation": "trois militants de Greenpeace, dont Yannick Jadot, le directeur des campagnes de Greenpeace France, sont cités à comparaître devant le tribunal correctionnel de Rennes (chambre spécialisée Militaire)",
+     "date": "2006-03-13"
+    }
+   ],
+   "famille": "autres"
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 70,
+  "methode": "Personnes vérifiées : la candidate ; le parti (Les Verts/EELV/Les Écologistes) ; les secrétaires nationaux successifs (Bennahmias, Voynet, Lemaire, Wehrling, Duflot, Durand, Cosse, Cormand, Bayou, Tondelier) ; la direction actuelle selon le trombinoscope officiel (Ghalmi, Thiollet, Niakaté, Lakehal) et l'ex-porte-parole Éric Piolle ; les 32 députés du groupe EcoS hors L'Après, Debout! et GE ; les 15 sénateurs du groupe GEST ; les 5 eurodéputés élus en 2024. Requêtes web : « <nom> condamné », « <nom> condamnée tribunal », « <nom> condamné tribunal », plus des requêtes ciblées (« EELV condamné tribunal », « Les Écologistes parti condamné justice », « Tondelier diffamation Briois », « Piolle favoritisme pourvoi », « Bennahmias assistants MoDem appel », « faucheurs Marsat Riom cassation », « Greenpeace île Longue Jadot tribunal »). Sources ouvertes : pages Wikipédia (Les Écologistes, Les Verts, Tondelier, Jadot, Piolle, Lemaire, Plancke, Bennahmias), Nouvel Obs, Le Parisien, Inf'OGM, Marsactu, Mediapart, France Inter, Le JDD, France 3, Alpes 1, ICI, Le Canard enchaîné, Sénat, trombinoscope lesecologistes.fr. Poligraph (filtres certainty=etabli/prononcee) n'a pas pu être exploité (contenu rendu en JavaScript).",
+  "limites": "Recherche fondée sur la presse en ligne et Wikipédia ; Judilibre/Légifrance n'ont pas été interrogés nominativement et aucun jugement original n'a été consulté. Les dates exactes et le caractère définitif des décisions Lemaire (2005) et Jadot (2006) n'ont pas pu être établis. L'appartenance partisane individuelle des députés EcoS et des sénateurs GEST n'a pas été vérifiée une par une. Les secrétaires/porte-parole des Verts antérieurs à 1997 n'ont été vérifiés que partiellement. « Aucune condamnation » pour une personne signifie « aucune trouvée dans les sources consultées »."
+ },
+ "alertes": [
+  "Jean-Luc Bennahmias : procès en appel (cour d'appel de Paris) tenu du 9 septembre au 5 octobre 2026 ; décision annoncée pour le 17 décembre 2026 (https://pollar.news/en/event/bayrou-appeal-verdict-scheduled). À mettre à jour à cette date. La condamnation de 2024 concerne sa période MoDem, postérieure à son départ des Verts.",
+  "Jean-Luc Bennahmias (non retenu) : Le Parisien (17/09/2005) rapporte qu'il a été « condamné mardi à 1 500 € d'amende pour avoir organisé les journées d'été des Verts en 1999 » où des produits au chanvre étaient vendus (poursuites pour « provocation à l'usage de stupéfiants », tribunal correctionnel de Lorient en 1re instance selon Le Nouvel Obs du 30/09/2002). Juridiction de la décision de 2005, statut et éventuelle amnistie (faits de 1999, loi d'amnistie du 6 août 2002) non établis : exclu par prudence. Sources : https://www.leparisien.fr/politique/les-ennuis-judiciaires-continuent-17-09-2005-2006302106.php ; https://www.nouvelobs.com/politique/20020930.OBS0698/8-000-euros-d-amende-requis-contre-bennahmias.html",
+  "Gilles Lemaire : statut indiqué « inconnu ». La chronologie d'Inf'OGM contient un intertitre « La Cour de Cassation rejette le recours des Faucheurs » sans préciser la date ni l'objet du pourvoi. Divergence sur le nombre de condamnés : Le Nouvel Obs cite six faucheurs condamnés par la cour d'appel de Riom, Wikipédia parle de « 8 faucheurs condamnés ».",
+  "Yannick Jadot : date exacte, juridiction ayant statué, qualification juridique précise et caractère définitif non établis (le site lescasseroles.fr, non retenu comme source, indique « juillet 2006 »). Il a été suspendu à titre conservatoire des Écologistes en septembre 2026 pour son soutien à Raphaël Glucksmann (https://www.lemonde.fr/politique/article/2026/09/25/presidentielle-2027-yannick-jadot-suspendu-a-titre-conservatoire-par-les-ecologistes-en-raison-de-son-soutien-a-la-candidature-de-raphael-glucksmann_6782601_823448.html) ; il est maintenu ici comme sénateur du groupe GEST, et son appartenance au parti est à réévaluer.",
+  "Éric Piolle (hors périmètre, non retenu) : élu porte-parole des Écologistes en avril 2025, suspendu en septembre 2025 (« n'est plus porte-parole des Écologistes », ICI Isère, 16/09/2025). Il a été condamné définitivement le 6 septembre 2023 par la cour d'appel de Grenoble à 8 000 € d'amende avec sursis pour favoritisme (Fête des Tuiles, 2015-2016), après une relaxe en 1re instance ; il ne s'est pas pourvu en cassation. Sources : https://france3-regions.franceinfo.fr/auvergne-rhone-alpes/isere/grenoble/affaire-de-la-fete-des-tuiles-le-maire-de-grenoble-eric-piolle-condamne-en-appel-a-8000-euros-d-amende-avec-sursis-2834930.html ; https://grandgrenoble.alpes1.com/news/locales/26776/fete-des-tuiles-eric-piolle-ne-se-pourvoit-pas-en-cassation ; https://www.ici.fr/auvergne-rhone-alpes/isere-38/grenoble/eric-piolle-suspendu-de-son-poste-de-porte-parole-des-ecologistes-9065887. Une enquête pour « concussion » le vise par ailleurs (enquête uniquement, exclue). À inclure si le site retient les anciens porte-parole.",
+  "Marine Tondelier : poursuivie en diffamation par Steeve Briois, Bruno Bilde et Laurent Morel pour son livre « Nouvelles du Front ». Relaxée en 1re instance par le tribunal correctionnel de Paris « au bénéfice de la bonne foi » ; la cour d'appel de Paris a débouté les parties civiles (France 3, 19/01/2022). Aucune condamnation : exclu. Une plainte pour diffamation du président de la chambre d'agriculture du Gers, Lionel Candelon, est en cours (La Dépêche, 08/09/2026) : plainte seulement, exclue.",
+  "Parti (personne morale) : la CNIL a infligé aux Écologistes une amende de 5 000 € (décision notifiée le 8 décembre 2025) pour défaut de sécurité des données recueillies lors d'une enquête interne visant Julien Bayou (Le Canard enchaîné, 25/12/2025, https://www.lecanardenchaine.fr/politique/52722-les-ecologistes-vertement-condamnes). C'est une sanction administrative : exclue du périmètre.",
+  "Julien Bayou : selon Le Canard enchaîné, il a été « totalement blanchi par la justice » dans la procédure pour abus de faiblesse visée par une plainte de son ex-compagne : aucune condamnation."
+ ]
+}

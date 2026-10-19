@@ -1,0 +1,18 @@
+{
+  "id": "contribution-budget-ue",
+  "questionSimple": "Faut-il que la France verse environ 25 milliards d'euros au budget de l'Union européenne en 2023 ?",
+  "enBref": "Chaque année, la France verse une partie de ses recettes au budget européen. Les députés votaient sur ce versement, prévu dans le budget 2023. Cet argent finance les politiques européennes, comme l'aide à l'Ukraine ou le plan de relance.",
+  "pourquoiPour": "Pour ses partisans, l'Europe aide à affronter les grandes crises : guerre en Ukraine, énergie, relance. C'est à ce niveau que se jouent la souveraineté et la sécurité de la France.",
+  "pourquoiContre": "Pour ses opposants, cet argent serait mal dépensé ou servirait une Europe du libre-échange qui nuit aux agriculteurs. Certains voulaient réduire la somme, d'autres changer les traités.",
+  "ceQuiSestPasse": "L'article a été adopté (212 voix contre 146) ; le budget 2023 a ensuite été adopté sans vote final, grâce au 49.3.",
+  "lexique": [
+    {
+      "terme": "Prélèvement sur recettes",
+      "definition": "Somme retirée des recettes de l'État pour être versée directement à l'Union européenne."
+    },
+    {
+      "terme": "49.3",
+      "definition": "Article de la Constitution permettant au gouvernement de faire adopter un texte sans vote, sauf motion de censure."
+    }
+  ]
+}

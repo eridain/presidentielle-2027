@@ -1,0 +1,221 @@
+{
+  "id": "otan-finlande-suede",
+  "titre": "Adhésion de la Finlande et de la Suède à l'OTAN",
+  "question": "Faut-il autoriser la ratification de l'adhésion de la Finlande et de la Suède à l'OTAN ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi autorise la ratification par la France des deux protocoles d'accession de la Finlande et de la Suède au traité de l'Atlantique Nord, signés le 5 juillet 2022 après la levée du veto turc. Ces deux pays, longtemps neutres ou non alignés, ont demandé leur adhésion après l'invasion de l'Ukraine par la Russie le 24 février 2022. Le Sénat l'a adopté le 21 juillet 2022 (323 pour, 17 contre), puis l'Assemblée le 2 août 2022 (209 pour, 46 contre, 53 abstentions) ; la loi n° 2022-1124 du 5 août 2022 a été promulguée. La Finlande est devenue membre de l'OTAN le 4 avril 2023 et la Suède le 7 mars 2024.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – dossier législatif pjl21-782",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl21-782.html"
+    },
+    {
+      "titre": "Sénat – scrutin public n°124 du 21 juillet 2022",
+      "url": "https://www.senat.fr/scrutin-public/2021/scr2021-124.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 2 août 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-mardi-02-aout-2022"
+    },
+    {
+      "titre": "OTAN – Relations avec la Finlande",
+      "url": "https://www.nato.int/fr/what-we-do/partnerships-and-cooperation/relations-with-finland"
+    },
+    {
+      "titre": "OTAN – Relations avec la Suède",
+      "url": "https://www.nato.int/fr/what-we-do/partnerships-and-cooperation/relations-with-sweden"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/pjl21-782.html",
+  "argumentsPour": [
+    {
+      "auteur": "Mireille Clapot (Renaissance)",
+      "resume": "Après l'invasion de l'Ukraine, la Finlande et la Suède quittent la « zone grise » pour bénéficier d'une sécurité collective, avec un soutien de leurs opinions publiques.",
+      "citation": "Ainsi, Finlande et Suède sortiront de la zone grise et se placeront sous la protection d’une sécurité collective.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-mardi-02-aout-2022",
+      "date": "2022-08-02"
+    },
+    {
+      "auteur": "Jean-Louis Thiériot (Les Républicains)",
+      "resume": "La protection de l'Europe repose dans les faits sur les nations et sur le « parapluie américain » de l'OTAN.",
+      "citation": "la réalité, c’est que, sans l’OTAN, nous ne pouvons pas nous protéger.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-mardi-02-aout-2022",
+      "date": "2022-08-02"
+    },
+    {
+      "auteur": "Guillaume Garot (Socialistes)",
+      "resume": "La demande des deux pays face à la menace russe est respectable ; le vote marque la solidarité avec des peuples libres, tout en rejetant les pressions turques.",
+      "citation": "Notre vote témoignera d’abord de notre solidarité avec ces peuples libres, souverains.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-mardi-02-aout-2022",
+      "date": "2022-08-02"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Nadège Abomangoli (La France insoumise)",
+      "resume": "Membres de l'UE, la Finlande et la Suède bénéficient déjà de la clause d'assistance mutuelle européenne et coopèrent avec l'OTAN depuis vingt-huit ans.",
+      "citation": "En vertu des traités européens, les vingt-sept membres ont un devoir d’aide et d’assistance mutuelles qui assure déjà une protection à ces deux pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-mardi-02-aout-2022",
+      "date": "2022-08-02"
+    },
+    {
+      "auteur": "Jean-Paul Lecoq (GDR)",
+      "resume": "Tout en respectant le choix des deux peuples, le groupe juge l'OTAN inadaptée et aurait préféré une réponse de solidarité militaire européenne.",
+      "citation": "Nous persistons néanmoins à penser que l’OTAN n’est pas la réponse.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-mardi-02-aout-2022",
+      "date": "2022-08-02"
+    },
+    {
+      "auteur": "Aurélien Saintoul (La France insoumise)",
+      "resume": "Le non-alignement a garanti la paix de ces deux pays ; leur sécurité ne serait pas nécessairement mieux assurée dans l'Alliance.",
+      "citation": "il n’est pas certain que la Suède et la Finlande seront mieux protégées après leur adhésion.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-mardi-02-aout-2022",
+      "date": "2022-08-02"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Laurent Jacobelli (Rassemblement national)",
+      "resume": "Le RN prend acte du choix des deux nations mais juge l'adhésion précipitée en pleine guerre et contraire à une démarche de paix ; il s'abstient.",
+      "citation": "leur adhésion obéirait à un calendrier précipité et, s’inscrivant dans une logique de préparation à la guerre, irait à l’encontre de la démarche de paix que nous appelons de nos vœux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-mardi-02-aout-2022",
+      "date": "2022-08-02"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2022 ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NUPES qu'il a fondé a voté contre (0 pour / 43 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+      "date": "2022-08-02"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°184) ; aucune déclaration retrouvée. Indication : son groupe GDR a voté majoritairement contre (0 pour / 3 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+      "date": "2022-08-02"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°184) ; aucune déclaration retrouvée. Indication : son groupe LFI-NUPES a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+      "date": "2022-08-02"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté pour (11 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+      "date": "2022-08-02"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°184) ; aucune déclaration retrouvée. Indication : le groupe Écologiste-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+      "date": "2022-08-02"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte national ; aucune déclaration vérifiée. PROXY : le groupe Socialistes a voté pour (14 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+      "date": "2022-08-02"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics dans le gouvernement Borne, qui a présenté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl21-782.html",
+      "date": "2022-08-02"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (maire du Havre, président d'Horizons) ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (18 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+      "date": "2022-08-02"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat, président du groupe LR (scrutin n°124 du 21 juillet 2022 sur l'ensemble du projet de loi) ; pas de déclaration personnelle vérifiée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2021/scr2021-124.html",
+      "date": "2022-07-21"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (28 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+      "date": "2022-08-02"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (28 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+      "date": "2022-08-02"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°184) ; son groupe RN s'est abstenu (51 abst.). En mai 2022, elle estimait que l'élargissement de l'OTAN ne favorisait pas la paix (France Inter, rapporté par Le Figaro).",
+      "argument": "Juge que les annonces d'élargissement de l'OTAN et de l'UE n'aident pas à trouver une solution de paix en Ukraine.",
+      "citation": "les annonces d'élargissement de l'Otan, les annonces d'élargissement de l'Union européenne n'ont pas vocation, à mon sens, à permettre de trouver les solutions de la paix",
+      "url": "https://www.lefigaro.fr/flash-actu/un-elargissement-de-l-otan-ne-favorise-pas-la-paix-selon-marine-le-pen-20220518",
+      "date": "2022-05-18"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée ; Reconquête n'avait pas de groupe à l'Assemblée : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+      "date": "2022-08-02"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°184) ; aucune déclaration retrouvée. Indication : les non-inscrits ont voté pour (4 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/184",
+      "date": "2022-08-02"
+    }
+  },
+  "alertes": [
+    "Scrutin de faible participation pour les candidats : Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote ; leurs positions restent « inconnu » (le vote du groupe est indiqué à titre indicatif, ce n'est pas leur vote).",
+    "Le Pen : la déclaration de mai 2022 critique l'élargissement de l'OTAN mais ne dit pas comment elle aurait voté ; son groupe s'est abstenu. Position laissée « inconnu ».",
+    "Mélenchon, Glucksmann, Tondelier, Philippe, Bertrand, Lisnard, Zemmour : aucune déclaration spécifique vérifiée en recherche rapide ; proxys de groupe indiqués quand ils existent.",
+    "Retailleau : vote déduit de la liste nominative du Sénat (groupe LR : 142 pour, 3 abstentions).",
+    "La question a été légèrement reformulée (« autoriser la ratification ») pour coller à l'objet exact du projet de loi ; polarité inchangée."
+  ]
+}

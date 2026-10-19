@@ -1,0 +1,18 @@
+{
+  "id": "mariage-sejour-irregulier",
+  "questionSimple": "Faut-il que les étrangers qui veulent se marier montrent au maire s'ils sont en règle ?",
+  "enBref": "Une loi en discussion voulait interdire le mariage aux étrangers sans papiers. L'Assemblée a seulement voté un article qui oblige les futurs mariés étrangers à donner au maire des informations sur leur droit de séjour. Le maire peut alors alerter la justice s'il soupçonne un faux mariage.",
+  "pourquoiPour": "Pour ses partisans, certains mariages servent surtout à obtenir des papiers. Les maires, qui célèbrent les mariages, doivent savoir à qui ils ont affaire pour repérer les fraudes.",
+  "pourquoiContre": "Pour ses opposants, le texte rend suspects tous les couples franco-étrangers alors que la fraude est rare. Se marier est une liberté fondamentale, même sans papiers.",
+  "ceQuiSestPasse": "L'article a été adopté le 26 juin 2025, mais l'examen du texte n'a pas pu être terminé ce jour-là.",
+  "lexique": [
+    {
+      "terme": "Mariage blanc",
+      "definition": "Mariage arrangé sans réelle vie de couple, souvent pour obtenir des papiers."
+    },
+    {
+      "terme": "Officier d'état civil",
+      "definition": "Maire ou adjoint qui enregistre et célèbre les mariages au nom de l'État."
+    }
+  ]
+}

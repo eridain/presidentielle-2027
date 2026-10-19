@@ -1,0 +1,222 @@
+{
+  "id": "taxe-gafa",
+  "titre": "Taxe sur les géants du numérique",
+  "question": "Faut-il créer une taxe de 3 % sur le chiffre d'affaires réalisé en France par les géants du numérique (taxe « GAFA ») ?",
+  "ouiSignifie": "pour",
+  "contexte": "Faute d'accord européen, le projet de loi porté par Bruno Le Maire crée une taxe de 3 % sur le chiffre d'affaires tiré en France de la publicité ciblée, de la vente de données et des plateformes d'intermédiation, pour les entreprises réalisant au moins 750 millions d'euros de chiffre d'affaires numérique mondial et 25 millions en France. Son article 2 suspend pour 2019 la baisse de l'impôt sur les sociétés des très grandes entreprises (taux de 33,33 %) afin de financer les mesures d'urgence de décembre 2018. Le scrutin du 9 avril 2019 porte sur l'ensemble du texte en première lecture à l'Assemblée (81 pour, 7 contre, 43 abstentions) ; la loi a été promulguée le 24 juillet 2019 (loi n° 2019-759).",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 24 juillet 2019 portant création d'une taxe sur les services numériques",
+      "url": "https://www.vie-publique.fr/loi/24181-loi-24-juillet-2019-creation-taxe-sur-les-services-numeriques-taxe-gafa"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 9 avril 2019",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N211"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1833",
+  "urlDossier": "https://www.vie-publique.fr/loi/24181-loi-24-juillet-2019-creation-taxe-sur-les-services-numeriques-taxe-gafa",
+  "argumentsPour": [
+    {
+      "auteur": "Émilie Cariou (LaREM)",
+      "resume": "La taxe complète les travaux de l'OCDE et les directives européennes contre l'optimisation fiscale, en attendant une fiscalité harmonisée du numérique.",
+      "citation": "Oui, nous soutenons cette taxe travaillée avec l’OCDE et la Commission européenne, et soutenue par les commissaires européens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N211",
+      "date": "2019-04-09"
+    },
+    {
+      "auteur": "Mohamed Laqhila (MoDem)",
+      "resume": "Une étape vers plus de justice fiscale en attendant un accord international à l'OCDE ; la France montre la voie.",
+      "citation": "Son premier article instaurant une taxe sur les services numériques est une étape vers plus de justice fiscale, en attendant un accord international sous l’égide de l’OCDE.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N211",
+      "date": "2019-04-09"
+    },
+    {
+      "auteur": "Valérie Rabault (Socialistes)",
+      "resume": "Le groupe vote pour : mieux vaut avancer à petits pas que renoncer à taxer les géants du numérique, faute d'accord européen.",
+      "citation": "nous préférions la stratégie des petits pas qui permettent d’avancer plutôt que de renoncer à mettre en place cette taxe",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N211",
+      "date": "2019-04-09"
+    },
+    {
+      "auteur": "Michel Castellani (Libertés et Territoires)",
+      "resume": "Les bénéfices des multinationales du numérique sont bien moins imposés que ceux des entreprises traditionnelles : le texte rétablit un peu de justice.",
+      "citation": "Prenant appui sur le fait que les bénéfices des multinationales du numérique sont largement moins imposés que ceux des entreprises traditionnelles, ce projet de loi ambitionne de rétablir une once de justice.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N211",
+      "date": "2019-04-09"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Lise Magnier (UDI, Agir et indépendants)",
+      "resume": "Taxe nationale complexe, juridiquement risquée, frappant le chiffre d'affaires même d'entreprises déficitaires et exposant la France à des représailles ; groupe partagé entre contre et abstention.",
+      "citation": "Cette taxe fait courir à notre pays des risques économiques non négligeables, véritable double peine pour les entreprises qui payent l’impôt sur les sociétés sur notre territoire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N211",
+      "date": "2019-04-09"
+    },
+    {
+      "auteur": "Constance Le Grip (LR, groupe abstentionniste)",
+      "resume": "Crainte que la taxe soit en grande partie répercutée sur les consommateurs ; plusieurs pays européens y ont renoncé après études d'impact.",
+      "citation": "plusieurs pays européens avaient renoncé à instaurer une telle taxe, au vu d’études d’impact très précises qui font apparaître une forte répercussion sur le pouvoir d’achat des consommateurs",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N211",
+      "date": "2019-04-09"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Véronique Louwagie (LR)",
+      "resume": "LR a voté la taxe (article 1er) au nom de la justice fiscale mais refuse la hausse de l'impôt sur les sociétés (article 2), d'où l'abstention.",
+      "citation": "ayant voté pour l’article 1er mais contre l’article 2, notre choix pour le projet de loi ne peut être que l’abstention.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N211",
+      "date": "2019-04-09"
+    },
+    {
+      "auteur": "Jean-Paul Dufrègne (GDR)",
+      "resume": "Taux de 3 % trop faible et assiette trop étroite, loin de répondre à l'évasion fiscale ; le groupe salue l'initiative nationale mais s'abstient.",
+      "citation": "Cette taxe GAFA n’est en fait qu’une taxe peanuts : elle ne rapportera que des cacahuètes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N211",
+      "date": "2019-04-09"
+    },
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "Une taxation nationale jugée médiocre ; l'article 2 ne fait que réduire la baisse d'impôt sur les sociétés accordée l'année précédente.",
+      "citation": "Un an et demi après, nous voici réunis pour voter une médiocre taxation nationale des GAFA.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N211",
+      "date": "2019-04-09"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1833) ; aucune déclaration retrouvée. Proxy : le groupe LFI s'est abstenu (4 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1833) ; aucune déclaration retrouvée. Proxy : le groupe GDR s'est abstenu (7 abstentions, 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1833) ; aucune déclaration retrouvée. Proxy : le groupe LFI s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; EELV sans groupe à l'Assemblée en 2019 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1833) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas encore eurodéputé (élu en mai 2019) ; aucune déclaration retrouvée. Proxy : le groupe Socialistes a voté pour à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'Éducation nationale, membre du gouvernement qui a présenté le projet de loi ; aucune prise de position personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.vie-publique.fr/loi/24181-loi-24-juillet-2019-creation-taxe-sur-les-services-numeriques-taxe-gafa",
+      "date": "2019-04-09"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a présenté le projet de loi (porté par Bruno Le Maire).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.vie-publique.fr/loi/24181-loi-24-juillet-2019-creation-taxe-sur-les-services-numeriques-taxe-gafa",
+      "date": "2019-04-09"
+    },
+    "retailleau": {
+      "position": "abstention",
+      "type": "vote_senat",
+      "detail": "S'est abstenu sur l'ensemble du projet de loi au Sénat (scrutin n°122 du 21 mai 2019), comme la majorité du groupe LR qu'il présidait.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-122.html",
+      "date": "2019-05-21"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans groupe parlementaire de référence ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; aucune déclaration retrouvée. Proxy : le groupe LR à l'Assemblée s'est abstenu (21 abstentions, 3 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1833) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Journaliste en 2019, sans mandat ni parti ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1833) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Scrutin à faible participation (131 votants) : les six candidats alors députés (Mélenchon, Roussel, Ruffin, Batho, Le Pen, Dupont-Aignan) n'ont pas pris part au vote ; aucune déclaration publique retrouvée, positions laissées « inconnu ».",
+    "Le texte comporte aussi un article 2 relevant temporairement l'impôt sur les sociétés des grandes entreprises : l'abstention de LR vise cet article, pas la taxe numérique, que LR a votée (article 1er).",
+    "Les abstentions de LFI et GDR expriment une critique de la taxe jugée trop faible, non une opposition au principe.",
+    "Retailleau : vote au Sénat sur l'ensemble du texte en première lecture (version modifiée par le Sénat)."
+  ]
+}

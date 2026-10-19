@@ -1,0 +1,228 @@
+{
+  "id": "securite-globale",
+  "titre": "Loi « sécurité globale »",
+  "question": "Faut-il adopter la loi « sécurité globale » (polices municipales, drones et caméras, délit visant la diffusion d'images de policiers) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposée en octobre 2020 par les députés LaREM Jean-Michel Fauvergue et Alice Thourot, la proposition de loi étendait les pouvoirs des polices municipales, encadrait la sécurité privée et l'usage des drones et caméras-piétons ; son article 24, réprimant la diffusion malveillante d'images de policiers, a suscité des manifestations. Adoptée en première lecture à l'Assemblée le 24 novembre 2020 (388 pour, 104 contre), elle a été réécrite au Sénat (article 24 devenu délit de « provocation à l'identification »), puis définitivement adoptée après accord en CMP (Sénat 7 avril, Assemblée 15 avril 2021). Le 20 mai 2021, le Conseil constitutionnel a censuré totalement ou partiellement sept articles, dont ce délit, une large part du régime des drones et l'expérimentation sur les polices municipales ; la loi n° 2021-646 a été promulguée le 25 mai 2021.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Dossier législatif Sécurité globale",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/securite_globale1"
+    },
+    {
+      "titre": "Sénat – Sécurité globale préservant les libertés (étapes, CMP, décision du Conseil constitutionnel, promulgation)",
+      "url": "https://www.senat.fr/salle-de-presse/202012/securite-globale-preservant-les-libertes.html"
+    },
+    {
+      "titre": "TF1 Info – Le Conseil constitutionnel censure l'ex-article 24 (20/05/2021)",
+      "url": "https://www.tf1info.fr/politique/loi-securite-globale-le-conseil-constitutionnel-censure-l-ex-article-24-2186602.html"
+    },
+    {
+      "titre": "Maires de France – Les principales dispositions de la loi « sécurité globale »",
+      "url": "https://mairesdefrance.com/loi-securite-globale-principales-dispositions-article-904-0"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la 2e séance du 24 novembre 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-24-novembre-2020"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/securite_globale1",
+  "argumentsPour": [
+    {
+      "auteur": "Thomas Rudigoz (LaREM)",
+      "resume": "Le texte étend les compétences des polices municipales, encadre la sécurité privée et crée un cadre pour les drones et la vidéoprotection, face au terrorisme, aux trafics et à la délinquance.",
+      "citation": "Ces mesures de renforcement de la capacité d’intervention de nos forces de police sont nécessaires face aux nombreuses menaces que connaît notre pays",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-24-novembre-2020",
+      "date": "2020-11-24"
+    },
+    {
+      "auteur": "Éric Diard (LR)",
+      "resume": "L'article 24 vise à empêcher la diffusion d'images identifiant des policiers dans l'intention de leur nuire, sans interdire de filmer ; le groupe exprime des réserves sur sa rédaction et sur les drones.",
+      "citation": "L’objectif de l’article 24 n’est pas de museler la presse, mais bien d’empêcher la diffusion d’éléments permettant d’identifier des policiers dans l’intention, je le répète, de leur nuire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-24-novembre-2020",
+      "date": "2020-11-24"
+    },
+    {
+      "auteur": "Dimitri Houbron (Agir ensemble)",
+      "resume": "Le texte protège les forces de l'ordre, régulièrement agressées, et améliore l'encadrement de la sécurité privée et le rôle des polices municipales dans le continuum de sécurité.",
+      "citation": "Ne rien faire aujourd’hui, c’est lâcher celles et ceux qui risquent quotidiennement leur vie pour nous.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-24-novembre-2020",
+      "date": "2020-11-24"
+    },
+    {
+      "auteur": "Marine Le Pen (non inscrite, RN)",
+      "resume": "L'article 24 protège policiers et gendarmes et n'interdit pas de filmer, seulement de diffuser dans l'intention de nuire ; elle souhaite une rédaction plus claire.",
+      "citation": "Évidemment, un article dont le but est de protéger les gendarmes et les policiers va dans le bon sens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-vendredi-20-novembre-2020",
+      "date": "2020-11-20"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Luc Mélenchon (FI)",
+      "resume": "Le texte, avec caméras-piétons, drones et interconnexion de la vidéosurveillance, installerait une surveillance généralisée, et l'article 24 entraverait le contrôle citoyen de la police.",
+      "citation": "un régime autoritaire se met en place afin de contrôler tout le monde, tout le temps, partout",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-24-novembre-2020",
+      "date": "2020-11-24"
+    },
+    {
+      "auteur": "Stéphane Peu (GDR)",
+      "resume": "Le texte superposerait les forces de sécurité et favoriserait le transfert vers les polices municipales et le privé ; l'article 24 restreindrait les libertés d'expression et de la presse.",
+      "citation": "Il en est ainsi avec l’article 24, qui n’est d’aucune utilité pour protéger les policiers, question pourtant en soi très sérieuse.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-24-novembre-2020",
+      "date": "2020-11-24"
+    },
+    {
+      "auteur": "Hervé Saulignac (SOC)",
+      "resume": "Le texte porterait atteinte aux libertés publiques (drones, armes, images exploitables) et l'article 24, juridiquement fragile, ne tiendrait pas les promesses faites aux forces de l'ordre.",
+      "citation": "l’article 24 est inopérant et va produire du contentieux à l’infini.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-24-novembre-2020",
+      "date": "2020-11-24"
+    },
+    {
+      "auteur": "Paul Molac (Libertés et territoires)",
+      "resume": "Le groupe aurait voté les titres sur les polices municipales et la sécurité privée, mais refuse l'article 24, l'absence d'interdiction de la reconnaissance faciale et l'encadrement des drones.",
+      "citation": "Il est toutefois une valeur sur laquelle notre groupe ne peut transiger : la défense des libertés fondamentales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-24-novembre-2020",
+      "date": "2020-11-24"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre au scrutin n°3254 ; il a porté l'explication de vote du groupe FI.",
+      "argument": "Il juge que le texte organise une surveillance de masse (drones, caméras, reconnaissance faciale) et que l'interdiction de diffuser des images empêcherait de contrôler l'action de la police.",
+      "citation": "un régime autoritaire se met en place afin de contrôler tout le monde, tout le temps, partout",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-24-novembre-2020",
+      "date": "2020-11-24"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre au scrutin n°3254 ; pas d'intervention personnelle trouvée : argument = explication de vote du groupe GDR (Stéphane Peu).",
+      "argument": "Position du groupe GDR : désorganisation du service public de sécurité au profit des polices municipales et du privé ; article 24 jugé inutile et attentatoire à la liberté de la presse.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+      "date": "2020-11-24"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre au scrutin n°3254 ; pas d'intervention personnelle trouvée : argument = explication de vote du groupe FI (Jean-Luc Mélenchon).",
+      "argument": "Position du groupe FI : texte jugé liberticide (drones, caméras, restriction de la diffusion d'images de policiers).",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+      "date": "2020-11-24"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de vote ni de déclaration retrouvés (elle n'était pas encore secrétaire nationale). PROXY : EELV n'avait pas de groupe à l'Assemblée ; au Sénat, le groupe Écologiste – Solidarité et Territoires a voté contre (0-12, scrutin n°95).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-95.html",
+      "date": "2021-03-18"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre au scrutin n°3254 (non inscrite) ; aucune intervention ni déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+      "date": "2020-11-24"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration vérifiée trouvée. PROXY : le groupe Socialistes et apparentés (allié de Place publique) a voté contre (0-29).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+      "date": "2020-11-24"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État, porte-parole du gouvernement Castex (juillet 2020 - mai 2022), qui soutenait cette proposition de loi de la majorité ; aucune déclaration personnelle vérifiée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2020-11-24"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ni parlementaire ni ministre en novembre 2020 (maire du Havre), sans groupe parlementaire (Horizons n'existait pas) ; aucune déclaration vérifiée trouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+      "date": "2020-11-24"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat : vote nominatif pour au scrutin n°95 (18 mars 2021, première lecture) et au scrutin n°103 (7 avril 2021, texte de la CMP) ; explication de vote sur l'article 24 réécrit par le Sénat.",
+      "argument": "La réécriture sénatoriale de l'article 24 protégerait policiers et gendarmes contre le ciblage sur les réseaux sociaux sans modifier la loi de 1881 sur la liberté de la presse.",
+      "citation": "Selon moi, nous sommes parvenus à trouver un point d’équilibre entre la nécessaire protection des forces de l’ordre et une liberté d’information qui aurait été bridée.",
+      "url": "https://www.senat.fr/seances/s202103/s20210318/s20210318010.html",
+      "date": "2021-03-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans parti à l'époque (ancien LR) ; aucune déclaration vérifiée trouvée. À titre indicatif, le groupe LR a voté pour (99-0, 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+      "date": "2020-11-24"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire LR de Cannes ; aucune déclaration vérifiée trouvée. PROXY : le groupe LR a voté pour (99-0, 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+      "date": "2020-11-24"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour au scrutin n°3254 ; interventions en séance le 20 novembre 2020 sur l'article 24 et sur les caméras-piétons.",
+      "argument": "Elle soutient l'objectif de protéger les forces de l'ordre et la généralisation des caméras-piétons, tout en souhaitant une rédaction plus claire de l'article 24.",
+      "citation": "Évidemment, un article dont le but est de protéger les gendarmes et les policiers va dans le bon sens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-vendredi-20-novembre-2020",
+      "date": "2020-11-20"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Journaliste en 2020 (Reconquête n'existait pas) ; aucune déclaration vérifiée trouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+      "date": "2020-11-24"
+    },
+    "dupontaignan": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention au scrutin n°3254 (non inscrit) ; aucune intervention ni déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+      "date": "2020-11-24"
+    }
+  },
+  "alertes": [
+    "Vote de première lecture (24/11/2020) sur un texte ensuite modifié par le Sénat et partiellement censuré (article 24/52, drones, polices municipales) : la loi promulguée diffère du texte voté.",
+    "Marine Le Pen : citation issue de la discussion de l'article 24 (20/11/2020), pas d'une explication de vote ; aucun député RN/NI ne s'est exprimé en explication de vote le 24/11.",
+    "Attal : position déduite de son appartenance au gouvernement (porte-parole), qui soutenait le texte. Il s'agit d'une proposition de loi et non d'un projet du gouvernement. Source du poste : Wikipédia (info.gouv.fr inaccessible).",
+    "Groupe MoDem : 33 pour / 5 contre / 18 abstentions. L'explication de vote de Patrick Mignola est favorable et aucune argumentation d'abstention n'a été retrouvée, d'où argumentsAbstention vide.",
+    "Décision 2021-817 DC : le site du Conseil constitutionnel et Légifrance n'étaient pas accessibles ; le contenu de la censure provient du Sénat, de TF1 Info et de Maires de France.",
+    "Tondelier, Glucksmann, Philippe, Bertrand, Lisnard, Zemmour : aucune déclaration vérifiable trouvée ; Philippe, Bertrand et Zemmour n'ont pas de proxy de groupe pertinent en 2020."
+  ]
+}

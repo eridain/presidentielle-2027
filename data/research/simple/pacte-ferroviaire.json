@@ -1,0 +1,22 @@
+{
+  "questionSimple": "Faut-il réformer la SNCF : fin des embauches au statut de cheminot, société anonyme, ouverture à la concurrence ?",
+  "enBref": "La SNCF devient une société anonyme, mais l'État reste propriétaire de tout son capital, qui ne peut pas être vendu. Les cheminots embauchés à partir de 2020 n'ont plus le statut spécial. D'autres compagnies peuvent faire rouler des trains de voyageurs en France.",
+  "pourquoiPour": "Pour ses défenseurs, la SNCF devait devenir plus souple et plus efficace pour affronter la concurrence voulue par l'Europe. Des garanties ont été ajoutées pour les cheminots actuels.",
+  "pourquoiContre": "Pour ses opposants, la réforme prépare une privatisation qui ferait monter les prix, comme ailleurs en Europe. Elle supprime le statut des cheminots sans étude sérieuse de ses effets.",
+  "ceQuiSestPasse": "Adoptée par l'Assemblée (452 voix contre 80) puis par le Sénat, la loi a été promulguée le 27 juin 2018.",
+  "lexique": [
+    {
+      "terme": "Statut de cheminot",
+      "definition": "Règles d'emploi propres à la SNCF : garantie de l'emploi, retraite et carrière spécifiques."
+    },
+    {
+      "terme": "Société anonyme",
+      "definition": "Forme d'entreprise à actions ; ici, toutes les actions restent à l'État."
+    },
+    {
+      "terme": "Ouverture à la concurrence",
+      "definition": "Fin du monopole : d'autres opérateurs peuvent exploiter des lignes."
+    }
+  ],
+  "id": "pacte-ferroviaire"
+}

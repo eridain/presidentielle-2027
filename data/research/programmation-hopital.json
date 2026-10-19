@@ -1,0 +1,224 @@
+{
+  "id": "programmation-hopital",
+  "titre": "Loi de programmation pour l'hôpital public et les EHPAD (2020)",
+  "question": "Faut-il imposer une loi de programmation tous les cinq ans fixant les moyens de l'hôpital public et des EHPAD : lits, recrutements, salaires et formation des soignants ?",
+  "ouiSignifie": "pour",
+  "contexte": "Juste après la première vague de Covid-19 et pendant le « Ségur de la santé », le groupe communiste (GDR) a inscrit dans sa journée réservée une proposition de loi d'Alain Bruneel et Pierre Dharréville. Son article unique prévoyait, avant le 1er octobre 2020 puis tous les cinq ans, une loi de programmation pluriannuelle pour l'hôpital public et les EHPAD publics. Celle-ci fixerait les objectifs et les moyens : nombre d'établissements, dépenses de fonctionnement et d'investissement, créations de lits, recrutements par métier, revalorisation des salaires, titularisation des contractuels, nombre d'étudiants en santé. Les règles de recevabilité financière (article 40) empêchant les députés de créer eux-mêmes des dépenses, le texte renvoyait ces chiffres à une future loi. L'article unique a été rejeté le 18 juin 2020 (102 pour, 430 contre, 41 abstentions), la majorité et LR votant contre. Le « Ségur de la santé » s'est conclu en juillet 2020 par des revalorisations salariales décidées par le gouvernement.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – proposition de loi n°3004 (texte et exposé des motifs)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L15B3004.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 18 juin 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 18 juin 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N240"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2760",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2760"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2760",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_programmation_hopital_public_ehpad",
+  "argumentsPour": [
+    {
+      "auteur": "Alain Bruneel (Gauche démocrate et républicaine, rapporteur)",
+      "resume": "Les soignants attendent des actes ; faute de pouvoir créer eux-mêmes des dépenses, les députés imposent au gouvernement une loi de programmation.",
+      "citation": "Les règles édictées par l’article 40 de notre Constitution empêchent malheureusement les députés de proposer directement une loi qui augmenterait massivement les salaires et les effectifs à l’hôpital public et dans les EHPAD.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N240",
+      "date": "2020-06-18"
+    },
+    {
+      "auteur": "Caroline Fiat (La France insoumise)",
+      "resume": "Il faut planifier lits, établissements et dépenses pour être prêts à une nouvelle crise.",
+      "citation": "Eh bien, dans ce cas, ne planifiez pas, mais ne venez pas vous plaindre quand il y a une crise !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    {
+      "auteur": "Philippe Vigier (Libertés et territoires)",
+      "resume": "L'hôpital ne doit plus être la variable d'ajustement annuelle du budget de la Sécurité sociale ; une programmation pluriannuelle s'impose.",
+      "citation": "Que l’hôpital dispose d’une telle loi me semble la moindre des choses",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    {
+      "auteur": "Annie Chapelier (Écologie démocratie solidarité)",
+      "resume": "Le texte traduit des propositions des soignants et fournit un cadre, même incomplet.",
+      "citation": "Ce texte ne se contente pas d’ouvrir des pistes de réflexion ; il fournit un cadre sensé, à défaut d’être exhaustif.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Monique Iborra (La République en marche)",
+      "resume": "Une planification centralisée limitée au secteur public, alors que le gouvernement prépare ses réponses avec le Ségur de la santé.",
+      "citation": "Il s’agit en réalité d’un exercice de planification, qui ne tient compte que du secteur public.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    {
+      "auteur": "Michèle de Vaucouleurs (Mouvement démocrate)",
+      "resume": "Le texte ignore la santé publique, la prévention et les établissements privés.",
+      "citation": "si elle traite de l’hôpital public, ce qu’il faut assurément faire, à aucun moment il n’y est question de la santé publique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    {
+      "auteur": "Alain Ramadier (Les Républicains)",
+      "resume": "LR partage le constat mais regrette l'absence de prévention et veut une stratégie construite avec tous les acteurs.",
+      "citation": "la refondation de notre système de santé impose de mener une stratégie de long terme, cohérente et définie avec l’ensemble des acteurs du secteur.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Paul Christophe (Agir ensemble)",
+      "resume": "D'accord sur l'objectif, mais il préfère attendre le Ségur et le prochain budget de la Sécurité sociale.",
+      "citation": "si nous en approuvons la finalité, la méthode ne nous donne pas entièrement satisfaction.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2760) ; pas d'intervention personnelle retrouvée : argument = explication du groupe FI (Caroline Fiat).",
+      "argument": "Le groupe FI veut programmer lits, établissements et dépenses hospitalières pour anticiper les crises.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2760) ; cosignataire de la proposition de loi, il est intervenu par des interjections pendant le débat.",
+      "argument": "Coauteur du texte, il réclame une action immédiate pour l'hôpital public.",
+      "citation": "Il est temps d’agir !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2760) ; pas d'intervention retrouvée : argument = explication du groupe FI (Caroline Fiat).",
+      "argument": "Le groupe FI veut programmer lits, établissements et dépenses hospitalières pour anticiper les crises.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Pas de groupe écologiste à l'Assemblée ; le groupe EDS, proche, a voté pour (17 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2760",
+      "date": "2020-06-18"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2760), membre du groupe EDS ; pas d'intervention retrouvée : argument = explication du groupe EDS (Annie Chapelier).",
+      "argument": "Le groupe EDS juge que le texte traduit des demandes des soignants et donne un cadre utile.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (29 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2760",
+      "date": "2020-06-18"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État du gouvernement Philippe, opposé au texte (la secrétaire d'État Christelle Dubos a défendu le Ségur de la santé comme méthode) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "philippe": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement opposé au texte ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte non examiné au Sénat, aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour, 103 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2760",
+      "date": "2020-06-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté contre (0 pour, 103 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2760",
+      "date": "2020-06-18"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté contre (0 pour, 103 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2760",
+      "date": "2020-06-18"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2760), députée non inscrite ; pas de déclaration retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2760",
+      "date": "2020-06-18"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2020 ; aucune déclaration retrouvée. Pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2760",
+      "date": "2020-06-18"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2760), député non inscrit ; pas de déclaration retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2760",
+      "date": "2020-06-18"
+    }
+  },
+  "alertes": [
+    "Question précisée : la proposition ne créait pas elle-même de postes ni de revalorisations (article 40). Elle obligeait seulement à voter une loi de programmation fixant ces objectifs. La questionProposee laissait penser à des créations directes.",
+    "Les votes contre (LaREM, LR, MoDem) visaient surtout la méthode (secteur public seul, Ségur en cours), pas l'objectif de renforcer l'hôpital.",
+    "Roussel : sa citation est une interjection en séance ; il est cosignataire du texte.",
+    "Attal et Philippe : position déduite de leur appartenance au gouvernement, opposé au texte.",
+    "Mélenchon, Ruffin, Batho : pas d'intervention personnelle ; argument = explication de vote de leur groupe, sans citation attribuée. Le Pen et Dupont-Aignan : vote sans déclaration retrouvée."
+  ]
+}

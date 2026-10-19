@@ -1,0 +1,18 @@
+{
+  "id": "revenu-etudiant",
+  "questionSimple": "Faut-il donner un revenu à chaque étudiant pour qu'il puisse étudier sans dépendre de ses parents ?",
+  "enBref": "En 2020, après le premier confinement, les députés communistes ont demandé au gouvernement de créer un revenu pour tous les étudiants. Il serait calculé selon la situation de l'étudiant, pas celle de ses parents. Coût estimé : environ 10 milliards d'euros par an.",
+  "pourquoiPour": "Ceux qui ont voté pour rappellent qu'un étudiant sur cinq vit sous le seuil de pauvreté et que près de la moitié travaillent à côté, ce qui nuit à leurs études.",
+  "pourquoiContre": "Ceux qui ont voté contre jugent qu'aider tous les étudiants, même ceux de familles aisées, est injuste et coûteux. Ils préfèrent les bourses et la construction de logements étudiants.",
+  "ceQuiSestPasse": "Le texte, qui n'était qu'une invitation au gouvernement, a été rejeté le 18 juin 2020 (82 pour, 469 contre).",
+  "lexique": [
+    {
+      "terme": "Proposition de résolution",
+      "definition": "Texte par lequel les députés expriment un souhait ; il n'oblige pas le gouvernement."
+    },
+    {
+      "terme": "Bourse",
+      "definition": "Aide versée par l'État aux étudiants dont les parents ont de faibles revenus."
+    }
+  ]
+}

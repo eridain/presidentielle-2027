@@ -1,0 +1,219 @@
+{
+  "id": "defense-democraties",
+  "titre": "Défense des démocraties face aux menaces (2023)",
+  "question": "Faut-il renforcer la défense des démocraties face aux ingérences et aux tentatives de déstabilisation étrangères ?",
+  "ouiSignifie": "pour",
+  "contexte": "Proposition de résolution n° 1923 du groupe Renaissance (orateur Hadrien Ghomi), déposée au titre de l'article 34-1 de la Constitution, sans valeur contraignante. Dans un contexte d'agression russe en Ukraine, d'attaque du Hamas contre Israël, de coups d'État au Sahel et d'ingérences iraniennes, elle invite le gouvernement à renforcer la résilience collective, à protéger les institutions et processus démocratiques (ingérences, désinformation) et à poursuivre la construction de l'autonomie stratégique européenne. Le gouvernement (Laurence Boone) l'a soutenue. Elle a été adoptée le 4 décembre 2023 par 52 voix contre 35 : LFI, écologistes et GDR contre, RN abstention, aucun député LR votant.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution n° 1923",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/defendre_democraties_multiples_menaces"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 4 décembre 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-04-decembre-2023"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°3117",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/defendre_democraties_multiples_menaces",
+  "argumentsPour": [
+    {
+      "auteur": "Hadrien Ghomi (Renaissance)",
+      "resume": "Face à la montée des régimes autoritaires (54 % de la population mondiale), il faut renforcer la résilience des démocraties et l'autonomie stratégique de l'Europe.",
+      "citation": "Par cette proposition de résolution, nous invitons le Gouvernement à renforcer notre résilience collective, à réarmer nos institutions et processus démocratiques et à poursuivre la construction de l’autonomie stratégique de l’Europe.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-04-decembre-2023",
+      "date": "2023-12-04"
+    },
+    {
+      "auteur": "Laurence Boone (secrétaire d'État chargée de l'Europe, gouvernement)",
+      "resume": "Les relations internationales se brutalisent ; le gouvernement soutient le texte au nom des intérêts et des valeurs de la France.",
+      "citation": "le Gouvernement apporte tout son soutien à la proposition de résolution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-04-decembre-2023",
+      "date": "2023-12-04"
+    },
+    {
+      "auteur": "Jean-François Portarrieu (Horizons)",
+      "resume": "Il faut condamner les régimes autoritaires et leurs menaces contre les démocraties.",
+      "citation": "Parce qu’il faut condamner aujourd’hui les régimes autoritaires et leurs menaces sur les démocraties, le groupe Horizons votera en faveur de cette proposition de résolution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-04-decembre-2023",
+      "date": "2023-12-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sébastien Delogu (La France insoumise)",
+      "resume": "LFI dénonce l'hypocrisie de la majorité, qui laisse les médias aux milliardaires et minimise la menace de l'ultradroite.",
+      "citation": "Nos convictions valent bien mieux que ce texte : nous voterons donc contre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-04-decembre-2023",
+      "date": "2023-12-04"
+    },
+    {
+      "auteur": "Jean-Paul Lecoq (GDR)",
+      "resume": "Le texte serait une « farce » aux indignations à géométrie variable, notamment entre la Russie et Israël.",
+      "citation": "Cette résolution internationale et politique est donc bien une farce, qui met en scène des personnages parfaitement caricaturaux et ne laisse aucune place à la nuance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-04-decembre-2023",
+      "date": "2023-12-04"
+    },
+    {
+      "auteur": "Julie Laernoes (Écologiste)",
+      "resume": "Le texte ne remet pas en cause une approche ancienne et militarisée et ne reconnaît pas la pluralité des voies de développement.",
+      "citation": "Le « en même temps » si cher à Emmanuel Macron n’a aucun sens à l’échelle internationale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-04-decembre-2023",
+      "date": "2023-12-04"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Antoine Villedieu (Rassemblement national)",
+      "resume": "Le RN refuse de diluer l'indépendance diplomatique et sécuritaire de la France dans une défense européenne commune.",
+      "citation": "Abandonner notre voix singulière dans le concert des nations est un renoncement inacceptable",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-04-decembre-2023",
+      "date": "2023-12-04"
+    },
+    {
+      "auteur": "Xavier Breton (Les Républicains)",
+      "resume": "LR s'inquiète de la volonté de « combattre la propagation de discours clivants », jugée moralisatrice.",
+      "citation": "Est-ce vous qui allez définir ce qui est clivant et ce qui ne l’est pas ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-04-decembre-2023",
+      "date": "2023-12-04"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2023 ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour / 25 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°3117) ; aucune déclaration retrouvée. Indication : son groupe GDR a voté contre (0 pour / 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°3117) ; aucune déclaration retrouvée. Indication : son groupe LFI-NUPES a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté contre (0 pour / 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°3117) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (4 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Éducation nationale du gouvernement Borne, qui a apporté « tout son soutien » au texte (Laurence Boone) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/deuxieme-seance-du-lundi-04-decembre-2023",
+      "date": "2023-12-04"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (5 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte propre à l'Assemblée ; aucune déclaration retrouvée. Aucun député LR n'a voté ; leur orateur a exprimé des réserves.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée ; aucun député LR n'a voté.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée ; aucun député LR n'a voté.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°3117) ; aucune déclaration retrouvée. Indication : son groupe RN s'est abstenu (20 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°3117) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3117",
+      "date": "2023-12-04"
+    }
+  },
+  "alertes": [
+    "Résolution générale et non contraignante : la question « renforcer la défense des démocraties » est très consensuelle dans sa formulation, alors que le vote a surtout porté sur l'orientation diplomatique et européenne du gouvernement. À formuler avec prudence.",
+    "Faible participation (108 votants) : Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote.",
+    "Xavier Breton (LR) : classé en abstention car aucun député LR n'a voté ; il n'annonce pas explicitement son vote dans les extraits relus.",
+    "Attal : position déduite du soutien du gouvernement."
+  ]
+}

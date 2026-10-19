@@ -1,0 +1,221 @@
+{
+  "id": "taux-minimal-hauts-revenus",
+  "titre": "Taux minimal d'impôt pour les très hauts revenus",
+  "question": "Faut-il rendre permanente la contribution qui garantit un taux minimal d'imposition de 20 % aux très hauts revenus ?",
+  "ouiSignifie": "pour",
+  "contexte": "L'article 3 du projet de loi de finances pour 2025 du gouvernement Barnier crée une contribution différentielle sur les hauts revenus (CDHR) : les foyers dont le revenu fiscal de référence dépasse 250 000 euros (personne seule) ou 500 000 euros (couple) doivent acquitter au moins 20 % d'impôt en moyenne ; elle visait environ 24 000 foyers pour 2 milliards d'euros. Le gouvernement la voulait exceptionnelle et temporaire (revenus 2024 à 2026). Le 22 octobre 2024, les amendements identiques du socialiste Philippe Brun, de LFI, des écologistes et du MoDem Jean-Paul Mattei la rendent permanente, par 138 voix contre 56, contre l'avis du gouvernement ; le RN s'abstient. La première partie du PLF a ensuite été rejetée ; la loi de finances pour 2025 a créé la CDHR à titre temporaire et la loi de finances pour 2026 l'a reconduite.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la deuxième séance du 22 octobre 2024 (PLF 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011"
+    },
+    {
+      "titre": "economie.gouv.fr – Tout savoir sur la contribution différentielle sur les hauts revenus (CDHR)",
+      "url": "https://www.economie.gouv.fr/particuliers/impots-et-fiscalite/gerer-mon-impot-sur-le-revenu/tout-savoir-sur-la-contribution-differentielle-sur-les-hauts-revenus-cdhr"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/20",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+  "argumentsPour": [
+    {
+      "auteur": "Philippe Brun (Socialistes)",
+      "resume": "Une contribution temporaire pousse les contribuables visés à différer leurs revenus pour y échapper : seule la pérennisation évite l'érosion de l'assiette.",
+      "citation": "Pour éviter de tels effets de bord, une solution existe : il faut pérenniser la mesure",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    },
+    {
+      "auteur": "Jean-Paul Mattei (Démocrate)",
+      "resume": "Le pays a besoin de recettes maintenant ; si la situation s'améliore, la loi pourra toujours revenir en arrière.",
+      "citation": "Si la situation financière de notre pays venait à s’améliorer, rien ne nous empêcherait de revenir en arrière.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    },
+    {
+      "auteur": "Éric Coquerel (LFI, président de la commission des finances)",
+      "resume": "Seules les mesures visant les plus riches et les grandes entreprises sont temporaires dans le budget, alors que les efforts demandés aux autres sont durables.",
+      "citation": "les seuls auprès de qui vous vous voulez rassurants en leur promettant que leur contribution sera temporaire, ce sont ceux qui ont largement de quoi vivre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    },
+    {
+      "auteur": "Danielle Simonnet (Écologiste et social)",
+      "resume": "Ces 24 300 foyers échappent par optimisation au taux de 45 % ; il est normal de les mettre durablement à contribution.",
+      "citation": "Faites au moins en sorte que cette taxation des hauts revenus soit pérenne !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Laurent Saint-Martin (ministre du budget)",
+      "resume": "Le gouvernement veut un impôt temporaire ; ce sont les réformes structurelles qui doivent réduire durablement les déficits.",
+      "citation": "Je suis défavorable à la pérennisation de cette contribution. L’impôt temporaire, cela existe, et il faut savoir en conserver le caractère.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    },
+    {
+      "auteur": "Véronique Louwagie (Droite républicaine)",
+      "resume": "La contribution a été présentée comme exceptionnelle et ciblée : la pérenniser envoie un message d'instabilité fiscale.",
+      "citation": "La volonté manifeste de pérenniser cette contribution, telle qu’elle ressort des débats de ce soir, est un très mauvais message envoyé à nos concitoyens",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    },
+    {
+      "auteur": "Mathieu Lefèvre (EPR)",
+      "resume": "Les contributions « exceptionnelles » finissent par durer, comme la CEHR de 2011 ; il propose de la limiter à 2025.",
+      "citation": "Pour ma part, je pense que ce qui est exceptionnel doit le rester.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    },
+    {
+      "auteur": "Éric Woerth (EPR)",
+      "resume": "Les hauts revenus paient déjà beaucoup d'impôts et créent emplois et entreprises ; il ne faut pas en faire des cibles.",
+      "citation": "Il ne faudrait pas non plus que, parce que l’on cible certains contribuables, ceux-ci deviennent des cibles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Jean-Philippe Tanguy (RN)",
+      "resume": "Le RN propose un compromis : appliquer la contribution jusqu'en 2028 pour laisser les électeurs trancher.",
+      "citation": "appliquer la contribution jusqu’en 2028 afin de permettre au nouveau gouvernement qui sera choisi par les Français",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée sur ce vote. Proxy : le groupe LFI-NFP a voté pour (54 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée. Proxy : le groupe GDR a voté pour (9 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté pour (scrutin AN n°20) ; pas d'intervention personnelle retrouvée : argument = intervention du groupe Écologiste et social (Danielle Simonnet).",
+      "argument": "Groupe écologiste et social : les très hauts revenus qui échappent au barème par optimisation doivent être durablement mis à contribution.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Écologiste et social a voté pour (20 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°20) ; aucune déclaration retrouvée. Proxy : le groupe Écologiste et social a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. Proxy : le groupe Socialistes, auteur de l'amendement, a voté pour (44 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°20) ; président du groupe EPR, pas d'intervention personnelle retrouvée : argument = interventions du groupe (Mathieu Lefèvre, Éric Woerth).",
+      "argument": "Groupe EPR : une contribution exceptionnelle doit le rester ; la pérenniser crée de l'instabilité fiscale et fait des hauts revenus des cibles.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Horizons a voté contre (6 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Barnier, qui a donné un avis défavorable à la pérennisation par la voix du ministre du budget ; aucun désaccord public retrouvé.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N011",
+      "date": "2024-10-22"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. Proxy : le groupe Droite républicaine a voté contre (9 contre, 1 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°20) ; aucune déclaration retrouvée. Proxy : le groupe RN s'est abstenu (65 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Le vote ne porte pas sur la création de la contribution (proposée par le gouvernement) mais sur sa pérennisation, contre l'avis du gouvernement.",
+    "Le vote a été rendu caduc par le rejet de la première partie du PLF 2025 ; la CDHR finalement adoptée est temporaire, reconduite en 2026.",
+    "Le RN s'est abstenu en proposant une application jusqu'en 2028."
+  ]
+}

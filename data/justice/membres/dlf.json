@@ -1,0 +1,42 @@
+{
+  "partiId": "dlf",
+  "personnes": [
+    {
+      "personne": "Grenon Daniel",
+      "statutMembre": "membre",
+      "depuis": "2026-01",
+      "detail": "Député non inscrit de l'Yonne, membre de Debout la France depuis janvier 2026 et rattaché financièrement à DLF ; il avait été définitivement exclu du RN le 18 octobre 2024 à la suite des propos racistes pour lesquels il a ensuite été condamné, et dit avoir rejoint DLF « par défaut ».",
+      "lienAvecCondamnation": null,
+      "reactionParti": "DLF l'a accueilli en janvier 2026, alors qu'il avait déjà été condamné en première instance (mai 2025) pour ces propos ; aucune réaction de DLF à l'arrêt d'appel du 16 avril 2026 trouvée.",
+      "sources": [
+        {
+          "titre": "Yonne : le député Daniel Grenon, ex-RN, condamné en appel pour propos racistes",
+          "url": "https://www.franceinfo.fr/societe/racisme/yonne-le-depute-daniel-grenon-ex-rn-condamne-en-appel-pour-propos-racistes_7943489.html",
+          "citation": "Le député de la première circonscription de l’Yonne, exclu du Rassemblement national, est désormais membre du parti Debout La France de Nicolas Dupont-Aignan.",
+          "date": "2026-04-16"
+        },
+        {
+          "titre": "Exclu du RN, il dit \"partir par défaut\" chez Nicolas Dupont-Aignant : les propos étonnants du député Daniel Grenon",
+          "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/yonne/auxerre/exclu-du-rn-il-dit-partir-par-defaut-chez-nicolas-dupont-aignant-les-propos-etonnants-du-depute-daniel-grenon-3283280.html",
+          "citation": "Il admet avoir rejoint ce mouvement \"par défaut\", après avoir été exclu du Rassemblement National.",
+          "date": "2026-01-16"
+        },
+        {
+          "titre": "Daniel Grenon — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Daniel_Grenon",
+          "citation": "Il est définitivement exclu du RN le 18 octobre 2024",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Daniel Grenon — Datan",
+          "url": "https://datan.fr/deputes/yonne-89/depute_daniel-grenon",
+          "citation": "Daniel Grenon est rattaché financièrement au parti politique Debout la France (DEBOU).",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  ],
+  "alertes": [
+    "Daniel Grenon : son exclusion du RN (18/10/2024) est directement liée aux propos ensuite sanctionnés ; elle concerne le RN, pas DLF, et est mentionnée pour contexte."
+  ]
+}

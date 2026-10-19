@@ -1,0 +1,225 @@
+{
+  "id": "ukraine-accord",
+  "titre": "Accord de sécurité France-Ukraine (2024)",
+  "question": "Faut-il approuver l'accord bilatéral de sécurité signé entre la France et l'Ukraine pour dix ans, qui prévoit jusqu'à 3 milliards d'euros d'aide militaire supplémentaire en 2024 ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le 16 février 2024, Emmanuel Macron et Volodymyr Zelensky ont signé un accord de coopération en matière de sécurité, valable dix ans, qui prévoit jusqu'à 3 milliards d'euros de soutien militaire supplémentaire en 2024. Le gouvernement de Gabriel Attal a présenté une déclaration sur cet accord, suivie d'un débat et d'un vote au titre de l'article 50-1 de la Constitution. Ce vote n'est pas contraignant et ne vaut pas ratification. L'Assemblée nationale l'a approuvée le 12 mars 2024 par 372 voix contre 99, avec 101 abstentions, puis le Sénat le 13 mars par 293 voix contre 22.",
+  "contexteSources": [
+    {
+      "titre": "Élysée – Accord de coopération en matière de sécurité entre la France et l'Ukraine",
+      "url": "https://www.elysee.fr/emmanuel-macron/2024/02/16/accord-de-cooperation-en-matiere-de-securite-entre-la-france-et-lukraine"
+    },
+    {
+      "titre": "Public Sénat – Que contient l'accord de sécurité signé entre la France et l'Ukraine",
+      "url": "https://publicsenat.fr/actualites/international/que-contient-laccord-de-securite-signe-entre-la-france-et-lukraine-et-debattu-au-parlement"
+    },
+    {
+      "titre": "LCP – L'Assemblée nationale soutient largement l'accord avec l'Ukraine",
+      "url": "https://lcp.fr/actualites/l-assemblee-nationale-soutient-largement-l-accord-avec-l-ukraine-sans-le-rn-qui-s"
+    },
+    {
+      "titre": "Sénat – Scrutin public n°155 du 13 mars 2024",
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-155.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3461",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+  "argumentsPour": [
+    {
+      "auteur": "Gabriel Attal (Premier ministre)",
+      "resume": "Le vote doit montrer que la France est un partenaire militaire fiable de l'Ukraine, capable de prendre l'initiative et de livrer des capacités décisives (chars légers, Caesar, Scalp).",
+      "citation": "Par votre vote, nous vous demandons d’affirmer que la France est un partenaire militaire fiable de l’Ukraine",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+      "date": "2024-03-12"
+    },
+    {
+      "auteur": "Boris Vallaud (Socialistes)",
+      "resume": "Cet accord n'est pas une entrée en guerre contre la Russie : soutenir la résistance ukrainienne serait la meilleure garantie de la sécurité et de la paix.",
+      "citation": "Il faut dire à nos concitoyens que cet accord n’est pas – ne peut pas être –, de quelque manière que ce soit, une entrée en guerre contre la Russie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+      "date": "2024-03-12"
+    },
+    {
+      "auteur": "Laurent Marcangeli (Horizons)",
+      "resume": "La chute de l'Ukraine serait un drame pour toute l'Europe ; sans prôner l'escalade, il faut que la Russie ne gagne pas la guerre.",
+      "citation": "Nous ne prônons pas l’escalade et ne sommes pas en guerre contre le peuple russe, mais la Russie ne doit pas gagner cette guerre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+      "date": "2024-03-12"
+    },
+    {
+      "auteur": "Cyrielle Chatelain (Écologiste-NUPES)",
+      "resume": "Le vote exprime le soutien à l'Ukraine, sans valoir blanc-seing au président de la République ; le groupe regrette que le Parlement n'ait pas été consulté avant la signature.",
+      "citation": "Ce vote, pour les députés du groupe Écologiste-NUPES, est l’affirmation de notre soutien à l’Ukraine.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+      "date": "2024-03-12"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Arnaud Le Gall (LFI-NUPES)",
+      "resume": "L'accord a été signé sans débat parlementaire ; voter reviendrait à donner un chèque en blanc après des déclarations présidentielles qualifiées de va-t-en-guerre.",
+      "citation": "Vous nous demandez de signer un chèque en blanc après les déclarations va-t-en-guerre irresponsables du chef de l’État, chef des armées ; nous ne pouvons l’accepter.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+      "date": "2024-03-12"
+    },
+    {
+      "auteur": "Fabien Roussel (GDR-NUPES)",
+      "resume": "L'accord engagerait la France pour dix ans, avec des objectifs imprécis, sans ligne rouge ni perspective de paix, et participerait à l'escalade militaire.",
+      "citation": "Cet accord ne trace aucune ligne rouge ni aucune perspective de paix, et participe à l’escalade militaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+      "date": "2024-03-12"
+    },
+    {
+      "auteur": "Nicolas Dupont-Aignan (non-inscrit, Debout la France)",
+      "resume": "Il faut mettre fin à une guerre présentée comme une tragédie pour les Ukrainiens, les Russes et les Européens, plutôt que d'en prolonger le soutien.",
+      "citation": "Je vote contre parce qu’il est temps de siffler la fin d’une tragédie.",
+      "url": "https://www.publicsenat.fr/actualites/politique/soutien-a-lukraine-on-entraine-la-france-dans-un-engrenage-terrible-juge-nicolas-dupont-aignan",
+      "date": "2024-03-13"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Marine Le Pen (Rassemblement national)",
+      "resume": "Le RN refuse les conditions posées par l'accord au nom de la sécurité des Français, mais s'abstient pour marquer son soutien à l'Ukraine.",
+      "citation": "nous ne pouvons adhérer aux conditions que vous posez dans cet accord ; mais pour manifester notre soutien à l’Ukraine – et uniquement pour cela –, nous nous contenterons d’une abstention.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+      "date": "2024-03-12"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat de député en 2024. PROXY : le groupe LFI-NUPES a voté contre à l'unanimité (0 pour / 75 contre). Il s'est exprimé le 17 mars 2024 sur France 3.",
+      "argument": "Selon lui, la France n'est pas en mesure d'affronter la Russie et il faut chercher un chemin vers la paix plutôt qu'entrer dans la guerre.",
+      "citation": "Nous ne sommes pas en état d’affronter la Russie.",
+      "url": "https://www.nouvelobs.com/politique/20240317.OBS85859/guerre-en-ukraine-en-defendant-un-cessez-le-feu-souhaite-par-les-russes-les-insoumis-s-estiment-dans-le-camp-de-la-paix.html",
+      "date": "2024-03-17"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3461). Il a lui-même porté l'explication de vote du groupe GDR-NUPES en séance.",
+      "argument": "L'accord engagerait la France pour dix ans en des termes flous, sans ligne rouge ni perspective de paix, et risquerait de l'entraîner dans la guerre.",
+      "citation": "Voilà pourquoi notre groupe votera à l’unanimité contre cet accord qui nous engage pour dix ans, avec des objectifs imprécis et en des termes flous.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+      "date": "2024-03-12"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3461). Il s'en est expliqué dans un entretien au Monde rapporté par le HuffPost.",
+      "argument": "Il reproche au Premier ministre de ne pas avoir présenté le rôle de l'Otan dans l'accord, notamment l'adhésion de l'Ukraine, tout en demandant d'armer davantage l'Ukraine.",
+      "citation": "Il faut armer l’Ukraine, lui donner la priorité dans nos livraisons, et relever notre production",
+      "url": "https://www.huffingtonpost.fr/politique/article/guerre-en-ukraine-francois-ruffin-s-explique-sur-son-vote-contre-l-accord-de-securite-avec-kiev_231309.html",
+      "date": "2024-03-16"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire. Aucune déclaration sur le vote lui-même n'a été vérifiée. PROXY : le groupe Écologiste-NUPES a voté pour (20 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3461",
+      "date": "2024-03-12"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3461). Aucune intervention personnelle n'a été retrouvée : l'argument retenu est l'explication de vote de son groupe Écologiste-NUPES, portée par Cyrielle Chatelain.",
+      "argument": "Soutien à l'Ukraine, à son peuple et à son armée (armes, munitions, formation), sans blanc-seing à la rhétorique présidentielle.",
+      "citation": "Depuis février 2022, le positionnement du groupe Écologiste est clair et n’a jamais varié : nous soutenons l’Ukraine, son peuple et son armée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+      "date": "2024-03-12"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, il ne vote pas sur ce texte national. Aucune déclaration spécifique n'a été vérifiée. PROXY : le groupe Socialistes de l'Assemblée a voté pour à l'unanimité (31 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3461",
+      "date": "2024-03-12"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre, il a fait la déclaration du gouvernement soumise au vote (article 50-1).",
+      "argument": "L'accord prévoit jusqu'à 3 milliards d'euros de soutien militaire en 2024 ; voter pour affirme que la France est un partenaire militaire fiable de l'Ukraine.",
+      "citation": "Par votre vote, nous vous demandons d’affirmer que la France est un partenaire militaire fiable de l’Ukraine",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+      "date": "2024-03-12"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (président d'Horizons). Aucune déclaration spécifique n'a été vérifiée. PROXY : le groupe Horizons a voté pour à l'unanimité (30 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3461",
+      "date": "2024-03-12"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat (scrutin public n°155 du 13 mars 2024). Il est intervenu au nom du groupe LR.",
+      "argument": "Il faut tout faire pour que la Russie ne gagne pas, sans entraîner la France dans la guerre. Il critique les « déclarations intempestives » du président et s'interroge sur l'adhésion à l'UE et à l'Otan.",
+      "citation": "tout faire pour que la Russie ne remporte pas ce conflit, ne rien faire qui nous entraîne dans une guerre que nous ne voulons pas.",
+      "url": "https://www.senat.fr/seances/s202403/s20240313/s20240313_mono.html",
+      "date": "2024-03-13"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire. Aucune déclaration spécifique n'a été vérifiée. PROXY : le groupe LR de l'Assemblée a voté pour (49 pour / 11 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3461",
+      "date": "2024-03-12"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire. Aucune déclaration spécifique n'a été vérifiée. PROXY : le groupe LR de l'Assemblée, son parti à l'époque, a voté pour (49 pour / 11 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3461",
+      "date": "2024-03-12"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention, vote nominatif (scrutin n°3461). Elle a porté l'explication de vote du groupe RN.",
+      "argument": "Elle refuse les conditions de l'accord au nom de la sécurité des Français et s'abstient uniquement pour marquer son soutien à l'Ukraine.",
+      "citation": "nous ne pouvons adhérer aux conditions que vous posez dans cet accord ; mais pour manifester notre soutien à l’Ukraine – et uniquement pour cela –, nous nous contenterons d’une abstention.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N144",
+      "date": "2024-03-12"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national. Reconquête n'a pas de groupe à l'Assemblée, il n'y a donc pas de proxy. Aucune déclaration spécifique n'a été vérifiée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3461",
+      "date": "2024-03-12"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3461), expliqué le 13 mars 2024 sur Public Sénat.",
+      "argument": "Il veut arrêter de soutenir le pouvoir ukrainien et mettre fin à une guerre qu'il qualifie de tragédie pour tous ; il estime que la France est entraînée dans un engrenage.",
+      "citation": "Je vote contre parce qu’il est temps de siffler la fin d’une tragédie. C’est une tragédie pour le peuple ukrainien, pour les Russes et pour les Européens",
+      "url": "https://www.publicsenat.fr/actualites/politique/soutien-a-lukraine-on-entraine-la-france-dans-un-engrenage-terrible-juge-nicolas-dupont-aignan",
+      "date": "2024-03-13"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur une déclaration du gouvernement (article 50-1), non contraignante : ce n'est pas une ratification de l'accord, signé le 16 février 2024 sans autorisation parlementaire. La question a été reformulée en conséquence.",
+    "Le scrutin n'a pas de dossier législatif. urlDossier pointe vers le compte rendu de la 2e séance du 12 mars 2024.",
+    "Mélenchon : la déclaration retenue (17 mars 2024) porte sur la guerre et la paix, pas explicitement sur l'accord. Sa position reste donc « inconnu », avec le proxy de groupe.",
+    "Ruffin : la citation exprime son soutien à l'armement de l'Ukraine. Les raisons de son vote contre (rôle de l'Otan, « mensonge par omission ») sont rapportées par le HuffPost à partir d'un entretien au Monde, et la formule « mensonge par omission » est une reformulation du journaliste.",
+    "Tondelier, Glucksmann, Philippe, Bertrand, Lisnard, Zemmour : aucune déclaration vérifiée sur ce vote ; leur position est « inconnu » (proxy de groupe quand il existe). La déclaration de Tondelier du 7 mars 2024 (réunion à l'Élysée) porte sur les propos d'E. Macron, pas sur l'accord.",
+    "Retailleau : la position « pour » est déduite de la place de son nom dans la liste « Pour » du groupe LR sur la page du scrutin n°155 (105 pour, 6 contre, 4 abstentions au sein du groupe)."
+  ]
+}

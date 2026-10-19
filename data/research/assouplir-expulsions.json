@@ -1,0 +1,216 @@
+{
+  "id": "assouplir-expulsions",
+  "titre": "Faciliter l'expulsion des étrangers dangereux en situation régulière",
+  "question": "Faut-il faciliter l'expulsion des étrangers en situation régulière qui constituent une menace grave pour l'ordre public, en levant les protections liées à leur situation personnelle ?",
+  "ouiSignifie": "contre",
+  "contexte": "La proposition de loi d'Olivier Marleix (LR), rapportée par Mansour Kamardine, visait à lever plusieurs protections légales contre l'expulsion pour menace grave à l'ordre public : résidence régulière de longue durée, mariage avec un Français, parent d'enfant français, rente d'accident du travail ou invalidité. Elle maintenait celles des mineurs et des étrangers arrivés avant 13 ans. Le vote porte sur deux amendements identiques de suppression de l'article unique : le n° 117 (Fatiha Keloua Hachi, Socialistes, défendu par Inaki Echaniz) et le n° 138 (écologistes, Sandra Regol). Le gouvernement y était favorable, non sur le fond (il jugeait « temps de revoir ce régime de protection ») mais parce qu'un projet de loi immigration était en préparation. Les amendements ont été adoptés le 1er décembre 2022 (120 voix contre 61), ce qui a supprimé l'article unique et entraîné le rejet du texte. La loi immigration du 26 janvier 2024 a ensuite facilité l'expulsion d'étrangers réguliers condamnés pour des crimes ou délits passibles d'au moins 3 ou 5 ans de prison.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 1er décembre 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N077"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de loi n° 354",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/expulsion_etrangers_ordre_public_assouplir"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°655",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655"
+    },
+    {
+      "titre": "Vie publique – Loi immigration, intégration, asile du 26 janvier 2024",
+      "url": "https://www.vie-publique.fr/loi/287993-loi-immigration-integration-asile-du-26-janvier-2024"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/expulsion_etrangers_ordre_public_assouplir",
+  "argumentsPour": [
+    {
+      "auteur": "Inaki Echaniz (Socialistes, amendement n° 117)",
+      "resume": "Il faut conserver les rares cas prévus par la loi qui protègent de l'expulsion les étrangers réguliers ayant de fortes attaches en France.",
+      "citation": "Il vise à supprimer l’article unique et à conserver en l’état les cas peu nombreux, énumérés par la loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N077",
+      "date": "2022-12-01"
+    },
+    {
+      "auteur": "Mathilde Desjonquères (Démocrate)",
+      "resume": "Le texte est prématuré et disproportionné, présente des risques au regard de l'article 8 de la CEDH et compliquerait le contentieux.",
+      "citation": "Si la proposition de loi que nous examinons aujourd’hui participe aux réflexions menées, elle nous semble trop précoce et disproportionnée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N077",
+      "date": "2022-12-01"
+    },
+    {
+      "auteur": "Andrée Taurinya (La France insoumise)",
+      "resume": "Faciliter les expulsions ne changerait rien à l'exécution des OQTF ; le texte permettrait d'expulser un travailleur devenu invalide après un accident du travail.",
+      "citation": "faciliter les conditions d’expulsion des étrangers n’aura aucun effet sur le taux d’exécution des OQTF",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N077",
+      "date": "2022-12-01"
+    },
+    {
+      "auteur": "Jean-Louis Bricout (LIOT)",
+      "resume": "Le texte porterait une atteinte disproportionnée au droit au respect de la vie privée et familiale protégé par la CEDH.",
+      "citation": "Ce texte, s’il était adopté, serait d’ailleurs jugé contraire à la Convention de sauvegarde des droits de l’homme et des libertés fondamentales",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N077",
+      "date": "2022-12-01"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Mansour Kamardine (Les Républicains, rapporteur)",
+      "resume": "Le texte vise uniquement des délinquants et des criminels ; supprimer l'article revient à protéger des criminels au détriment des « braves gens ».",
+      "citation": "Pour ceux qui s’apprêteraient à voter les amendements de suppression, je rappelle que cela conduira à protéger des criminels au détriment des braves gens, Français comme étrangers.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N077",
+      "date": "2022-12-01"
+    },
+    {
+      "auteur": "Éric Pauget (Les Républicains)",
+      "resume": "Trop de catégories échappent à l'expulsion ; il faut lever les protections automatiques des étrangers représentant une menace grave.",
+      "citation": "nous devons faire évoluer notre législation en ce qui concerne les étrangers protégés, comme l’Allemagne l’a fait, afin de faciliter l’expulsion des criminels de nationalité étrangère.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N077",
+      "date": "2022-12-01"
+    },
+    {
+      "auteur": "Laurent Jacobelli (Rassemblement national)",
+      "resume": "Il existe un lien entre immigration et insécurité ; il faut généraliser, faciliter et accélérer l'expulsion des étrangers dangereux.",
+      "citation": "Soyons clairs : nous voulons généraliser, faciliter et accélérer l’expulsion de ceux qui mettent nos vies en danger.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N077",
+      "date": "2022-12-01"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics du gouvernement Borne, qui a donné un avis favorable aux amendements de suppression (Dominique Faure), en renvoyant au futur projet de loi immigration ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N077",
+      "date": "2022-12-01"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Sénateur, président du groupe LR : vote pour le texte de CMP de la loi immigration (Sénat, scrutin n°109 du 19 décembre 2023), qui facilite l'expulsion d'étrangers réguliers condamnés. Il s'oppose donc à la logique des amendements de suppression.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-109.html",
+      "date": "2023-12-19"
+    },
+    "zemmour": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Pas de mandat ; pendant la campagne de 2022, son porte-parole Antoine Diers (franceinfo, 22 mars 2022) annonçait un « ministère de la remigration » chargé d'expulser tous les étrangers délinquants et criminels.",
+      "argument": "Son programme prévoit d'expulser tous les étrangers délinquants et criminels (propos de son porte-parole).",
+      "citation": null,
+      "url": "https://www.radiofrance.fr/franceinfo/podcasts/18h50-franceinfo/18h50-franceinfo-du-mardi-22-mars-2022-1136184",
+      "date": "2022-03-22"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°655) ; aucune déclaration retrouvée sur ce texte. À titre indicatif, le groupe RN, qu'elle présidait, a voté contre la suppression (0-31).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+      "date": "2022-12-01"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°655) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI-NUPES, auquel il appartenait, a voté pour la suppression (20-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+      "date": "2022-12-01"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°655) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR-NUPES, auquel il appartient, a voté pour la suppression (1-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+      "date": "2022-12-01"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°655) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste-NUPES, auquel elle appartenait, a voté pour la suppression (8-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+      "date": "2022-12-01"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non inscrit, n'a pas pris part au vote (scrutin n°655) ; aucune déclaration retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+      "date": "2022-12-01"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES a voté pour la suppression (20-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+      "date": "2022-12-01"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté pour la suppression (8-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+      "date": "2022-12-01"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, allié de Place publique et auteur de l'amendement n° 117, a voté pour la suppression (7-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+      "date": "2022-12-01"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons (son parti) a voté pour la suppression (8-0), suivant l'avis du gouvernement.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+      "date": "2022-12-01"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR, auteur du texte, a voté contre la suppression (0-29).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+      "date": "2022-12-01"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR (son parti à l'époque), auteur du texte, a voté contre la suppression (0-29).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/655",
+      "date": "2022-12-01"
+    }
+  },
+  "alertes": [
+    "Vote sur des amendements de SUPPRESSION de l'article unique (codé contre=oui) : voter « pour » les amendements = Non à la question ; voter « contre » = Oui. Les positions sont exprimées par rapport au scrutin.",
+    "Le gouvernement et la majorité ont soutenu la suppression pour des raisons de calendrier (projet de loi immigration annoncé), tout en se disant favorables à une révision des protections. La loi du 26 janvier 2024 l'a fait en partie : le vote ne reflète donc pas une opposition de fond du camp présidentiel.",
+    "Retailleau : position tirée de son vote sur un autre texte, la loi immigration de 2023, qui contient une mesure proche.",
+    "Zemmour : propos de son porte-parole Antoine Diers, pas de lui-même ; pas de citation retenue.",
+    "Le Pen, Ruffin, Roussel, Batho, Dupont-Aignan : n'ont pas pris part au vote (181 votants)."
+  ]
+}

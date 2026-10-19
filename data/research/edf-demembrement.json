@@ -1,0 +1,213 @@
+{
+  "id": "edf-demembrement",
+  "titre": "Protéger EDF d'un démembrement",
+  "question": "Faut-il empêcher le démembrement d'EDF et étendre les tarifs réglementés d'électricité aux petites entreprises et aux collectivités ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposée par le député socialiste Philippe Brun, la proposition de loi visait d'abord à nationaliser EDF pour empêcher son démembrement (projet « Hercule ») ; au fil de la navette, elle a acté la détention de 100 % du capital par l'État et étendu le tarif réglementé de vente d'électricité aux très petites entreprises et aux petites communes, quelle que soit la puissance de leur compteur. L'Assemblée l'a adoptée en deuxième lecture le 4 mai 2023 (127 pour, 89 contre) contre l'avis du gouvernement et des groupes de la majorité. Après une troisième lecture, le Sénat l'a définitivement votée le 3 avril 2024 ; loi du 11 avril 2024, avec une extension des tarifs réglementés au 1er février 2025.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 11 avril 2024 visant à protéger le groupe EDF d'un démembrement",
+      "url": "https://www.vie-publique.fr/loi/288132-edf-loi-du-11-avril-2024-visant-proteger-le-groupe-dun-demembrement"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/nationalisation_EDF"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°1482",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/nationalisation_EDF",
+  "argumentsPour": [
+    {
+      "auteur": "Mickaël Bouloux (Socialistes)",
+      "resume": "Le texte assure à l'État le contrôle exclusif d'EDF et des tarifs abordables pour les particuliers, les TPE et les PME en pleine crise des prix.",
+      "citation": "Encore une fois, il serait digne de nous que la classe politique dépasse ses clivages afin d’assurer à l’État le contrôle exclusif d’EDF et aux particuliers, aux TPE, aux PME des tarifs abordables.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N223",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Patrick Hetzel (Les Républicains)",
+      "resume": "LR soutient la défense d'EDF comme groupe public unifié et la fin du seuil de 36 kVA qui privait boulangers et TPE du tarif réglementé.",
+      "citation": "C’est la raison pour laquelle nous devons tous voter cette proposition de loi, dont l’objectif est la défense d’EDF comme groupe public unifié.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N223",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Alexandre Sabatou (Rassemblement national)",
+      "resume": "Le texte rejoint la souveraineté énergétique et la maîtrise des prix défendues par le RN pour les entreprises, TPE et PME.",
+      "citation": "redonner à la France sa souveraineté énergétique, contrer l’inflation galopante par des prix de l’énergie maîtrisés et garantir à nos entreprises, nos industries, nos TPE et PME des tarifs compétitifs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N223",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Christine Arrighi (Écologiste)",
+      "resume": "Les écologistes soutiennent la protection d'EDF contre un démembrement au profit d'intérêts privés et l'accès des artisans, PME et collectivités au tarif réglementé.",
+      "citation": "Les Écologistes soutiennent cette mesure de protection, qui empêchera tout démembrement du groupe EDF au profit d’intérêts privés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N223",
+      "date": "2023-05-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Roland Lescure (ministre délégué chargé de l'industrie, gouvernement)",
+      "resume": "Le projet Hercule est abandonné ; le texte empêcherait des cessions d'actifs utiles à EDF et la tarification proposée renchérirait l'électricité.",
+      "citation": "Non, nous ne souhaitons pas démembrer EDF ; Hercule est mort et enterré.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N223",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Emmanuel Lacresse (Renaissance)",
+      "resume": "L'extension du tarif réglementé désorganiserait les contrats des entreprises et ferait monter les prix pour tous ; le texte fragiliserait EDF.",
+      "citation": "Cela va entraîner une hausse des primes sur ces contrats et, au final, une augmentation des tarifs pour tous les consommateurs, comme vous le savez.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N223",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Pascal Lecamp (Démocrate)",
+      "resume": "La renationalisation à 100 % est déjà en cours ; EDF doit garder sa liberté stratégique et la révision des contrats demanderait des mois.",
+      "citation": "Pour cela, des investissements d’EDF sont nécessaires, et elle doit avoir les coudées franches pour mettre en œuvre ses orientations stratégiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N223",
+      "date": "2023-05-04"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2023 ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NUPES a voté pour (51-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+      "date": "2023-05-04"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°1482 du 4 mai 2023) ; intervention dans la discussion générale de la deuxième lecture (texte inscrit dans la niche du groupe GDR).",
+      "argument": "Il veut une entreprise publique intégrée maîtrisant production, distribution et tarifs, et critique la vente d'électricité nucléaire à bas prix à des fournisseurs privés.",
+      "citation": "Je suis heureux de la possibilité qui nous est offerte aujourd’hui de réparer en partie cette situation et de rétablir une entreprise unifiée qui ne sera pas démembrée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N223",
+      "date": "2023-05-04"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°1482) ; pas d'intervention personnelle retrouvée, argument = position du groupe LFI-NUPES (Alma Dufour).",
+      "argument": "Le groupe défend le retour au tarif réglementé pour les PME et boulangeries frappées par la flambée des factures.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N223",
+      "date": "2023-05-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste-NUPES a voté pour (11-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+      "date": "2023-05-04"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°1482) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste-NUPES a voté pour (11-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+      "date": "2023-05-04"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée, auteur du texte, a voté pour (16-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+      "date": "2023-05-04"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics dans le gouvernement Borne, qui appelait à voter contre la proposition de loi ; pas de déclaration personnelle retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N223",
+      "date": "2023-05-04"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre et président d'Horizons ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons a voté contre (0-3).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+      "date": "2023-05-04"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président du groupe LR au Sénat ; aucun scrutin public sur l'ensemble du texte au Sénat retrouvé (adoption définitive le 3 avril 2024). PROXY : le groupe LR de l'Assemblée a voté pour (2-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+      "date": "2023-05-04"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (2-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+      "date": "2023-05-04"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (2-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+      "date": "2023-05-04"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°1482) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe RN a voté pour (22-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+      "date": "2023-05-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député en 2023 ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+      "date": "2023-05-04"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°1482) ; aucune déclaration spécifique retrouvée. À titre indicatif, les deux non-inscrits votants ont voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1482",
+      "date": "2023-05-04"
+    }
+  },
+  "alertes": [
+    "Scrutin de deuxième lecture (4 mai 2023) à participation limitée (217 votants) ; la loi n'a été définitivement adoptée qu'en avril 2024, après une troisième lecture.",
+    "Les explications de vote ont été réparties sur deux séances ; plusieurs arguments proviennent de la discussion générale de la deuxième séance du 4 mai 2023 (CRSANR5L16S2023O1N223), le vote ayant eu lieu lors de la troisième séance.",
+    "Le texte final ne « nationalise » pas EDF au sens initial : il acte la détention à 100 % du capital par l'État (rachat des parts déjà engagé par le gouvernement, selon les débats) et étend les tarifs réglementés.",
+    "Retailleau : il a voté au Sénat, le 24 janvier 2024, contre des amendements identiques (Lurel, Bilhac) à l'article 2 (scrutin n°112, https://www.senat.fr/scrutin-public/2023/scr2023-112.html), dont le contenu n'a pas été vérifié ; aucun vote sur l'ensemble retrouvé, position laissée « inconnu ».",
+    "Attal : position déduite de l'appartenance au gouvernement, qui a appelé à voter contre (Roland Lescure).",
+    "Ruffin : argument = position du groupe LFI-NUPES, sans citation personnelle."
+  ]
+}

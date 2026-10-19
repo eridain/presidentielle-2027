@@ -1,0 +1,44 @@
+{
+  "partiId": "pcf",
+  "personnes": [
+    {
+      "personne": "Nicolas Sansu",
+      "statutMembre": "suspendu",
+      "depuis": "2026-01-09",
+      "detail": "Adhérent PCF depuis 1988 ; en janvier 2026, la fédération PCF du Cher a suspendu ses droits d'adhérent et lui a demandé de se retirer de toutes ses responsabilités politiques après une plainte pour harcèlement ; il reste député du Cher au groupe GDR, rattaché financièrement au PCF.",
+      "lienAvecCondamnation": "non",
+      "reactionParti": "En 2026, la fédération du Cher, tout en le suspendant pour la plainte pour harcèlement, l'a encouragé à soigner son « addiction à l'alcool », rappelant des « faits répétés » liés à celle-ci (dont les faits de 2023).",
+      "sources": [
+        {
+          "titre": "Plainte contre Nicolas Sansu : le PCF du Cher demande au député \"de se mettre en retrait total\" de ses responsabilités (ICI)",
+          "url": "https://www.ici.fr/centre-val-de-loire/cher-18/vierzon/plainte-contre-nicolas-sansu-le-pcf-du-cher-demande-au-depute-de-se-mettre-en-retrait-total-de-ses-responsabilites-8817547",
+          "citation": "\"Compte tenu de la gravité des faits, Il est demandé à Nicolas Sansu de se mettre en retrait total de toutes ses responsabilités politiques. Ses droits d'adhérent sont suspendus\"",
+          "date": "2026-01-09"
+        },
+        {
+          "titre": "Plainte contre Nicolas Sansu : le PCF du Cher demande au député \"de se mettre en retrait total\" de ses responsabilités (ICI)",
+          "url": "https://www.ici.fr/centre-val-de-loire/cher-18/vierzon/plainte-contre-nicolas-sansu-le-pcf-du-cher-demande-au-depute-de-se-mettre-en-retrait-total-de-ses-responsabilites-8817547",
+          "citation": "\"nous l'encourageons aussi à avoir une démarche de soins concernant son addiction à l'alcool, puisque des faits répétés sont liés à cette addiction\"",
+          "date": "2026-01-09"
+        },
+        {
+          "titre": "Fiche député de Nicolas Sansu (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA605745",
+          "citation": "Rattachement au titre du financement de la vie politique Parti communiste français",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Fiche député de Nicolas Sansu (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA605745",
+          "citation": "M. Nicolas Sansu Gauche Démocrate et Républicaine Cher (2e circonscription) | Mandat en cours",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  ],
+  "alertes": [
+    "Nicolas Sansu : suspension des droits d'adhérent décidée en janvier 2026 (fédération du Cher, commission des conflits nationale saisie) ; aucune source trouvée sur l'issue (levée, prolongation ou exclusion) au 18/10/2026. Statut « suspendu » retenu par prudence.",
+    "Nicolas Sansu : la suspension est motivée par une plainte pour harcèlement (décembre 2025), non par la condamnation de 2023 ; la fédération évoque toutefois des « faits répétés » liés à l'alcool, ce qui renvoie aussi aux faits de 2023. Lien « non » retenu au sens strict.",
+    "Aucune réaction du PCF à la condamnation de mai 2023 elle-même n'a été trouvée."
+  ]
+}

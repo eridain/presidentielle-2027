@@ -1,0 +1,361 @@
+{
+ "partiId": "rn",
+ "personnes": [
+  {
+   "personne": "Le Pen Marine",
+   "statutMembre": "membre",
+   "depuis": "1986",
+   "detail": "Membre du FN/RN depuis 1986, présidente du parti de 2011 à 2021, elle préside le groupe RN à l'Assemblée nationale et reste la candidate du RN à la présidentielle 2027, candidature confirmée après sa condamnation en appel du 7 juillet 2026.",
+   "lienAvecCondamnation": null,
+   "reactionParti": "Le président du RN Jordan Bardella a déclaré après l'arrêt d'appel : « Je me réjouis que Marine puisse porter nos couleurs ».",
+   "sources": [
+    {
+     "titre": "Marine Le Pen condamnée en appel : retrouvez les dernières informations… (Le Monde, direct)",
+     "url": "https://www.lemonde.fr/politique/live/2026/07/08/en-direct-marine-le-pen-condamnee-en-appel-je-me-rejouis-que-marine-puisse-porter-nos-couleurs-declare-jordan-bardella-au-lancement-de-la-campagne-du-rn-dans-la-sarthe_6721429_823448.html",
+     "citation": "«Je me réjouis que Marine puisse porter nos couleurs», a déclaré Jordan Bardella dans la Sarthe.",
+     "date": "2026-07-08"
+    },
+    {
+     "titre": "« Il va accepter sans problème la décision de Marine Le Pen » : comment Jordan Bardella et la candidate du RN vont-ils faire campagne en binôme en 2027 ? (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/il-va-accepter-sans-probleme-la-decision-de-marine-le-pen-comment-jordan-bardella-et-la-candidate-du-rn-vont-ils-faire-campagne-en-binome-en-2027_8098388.html",
+     "citation": "Marine Le Pen s'avance comme la candidate du Rassemblement national à la prochaine élection présidentielle, et Jordan Bardella n'aura pas besoin de la suppléer.",
+     "date": "2026-07-08"
+    },
+    {
+     "titre": "Marine Le Pen — Wikipédia (consulté le 18/10/2026)",
+     "url": "https://fr.wikipedia.org/wiki/Marine_Le_Pen",
+     "citation": "Parti politique FN/RN (depuis 1986)",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  {
+   "personne": "Rassemblement national (personne morale, ex-Front national)",
+   "statutMembre": "personne_morale",
+   "depuis": null,
+   "detail": "Le parti lui-même (Front national renommé Rassemblement national en 2018), condamné comme personne morale dans l'affaire des kits de campagne (définitive) et dans l'affaire des assistants parlementaires (pourvoi en cours).",
+   "lienAvecCondamnation": null,
+   "reactionParti": "Le RN, comme tous les prévenus de l'affaire des assistants, s'est pourvu en cassation contre l'arrêt du 7 juillet 2026.",
+   "sources": [
+    {
+     "titre": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national se pourvoient en cassation (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/tous-les-prevenus-dans-l-affaire-des-assistants-d-eurodeputes-du-front-national-se-pourvoient-en-cassation_8115401.html",
+     "citation": "Tous les prévenus dans l'affaire des assistants d'eurodéputés du Front national, puis Rassemblement national, se sont pourvus en cassation, a appris lundi 20 juillet franceinfo auprès de la cour d'appel de Paris.",
+     "date": "2026-07-20"
+    }
+   ]
+  },
+  {
+   "personne": "Aliot Louis",
+   "statutMembre": "membre",
+   "depuis": "1990",
+   "detail": "Membre du FN/RN depuis 1990, il est vice-président du RN (premier vice-président selon le bureau exécutif) et maire de Perpignan.",
+   "lienAvecCondamnation": null,
+   "reactionParti": null,
+   "sources": [
+    {
+     "titre": "« Nous ne sommes pour rien dans l'état de la France actuelle », affirme Louis Aliot, vice-président du RN (BFMTV)",
+     "url": "https://www.bfmtv.com/politique/front-national/video-nous-ne-sommes-pour-rien-dans-l-etat-de-la-france-actuelle-affirme-louis-aliot-vice-president-du-rn_VN-202609300833.html",
+     "citation": "Louis Aliot, vice-président du RN et maire de Perpignan, était invité sur le plateau de BFMTV, ce mercredi 30 septembre.",
+     "date": "2026-09-30"
+    },
+    {
+     "titre": "Louis Aliot — Wikipédia (consulté le 18/10/2026)",
+     "url": "https://fr.wikipedia.org/wiki/Louis_Aliot",
+     "citation": "Parti politique FN/RN (depuis 1990)",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  {
+   "personne": "Griset Catherine",
+   "statutMembre": "membre",
+   "depuis": null,
+   "detail": "Ancienne assistante puis cheffe de cabinet de Marine Le Pen, elle est députée européenne depuis 2019 (réélue en 2024), inscrite au titre du Rassemblement national au groupe Patriotes pour l'Europe.",
+   "lienAvecCondamnation": null,
+   "reactionParti": null,
+   "sources": [
+    {
+     "titre": "Catherine GRISET — Parlement européen, fiche officielle (consultée le 18/10/2026)",
+     "url": "https://www.europarl.europa.eu/meps/fr/94649/CATHERINE_GRISET/home",
+     "citation": "Groupe Patriotes pour l'Europe Membre France - Rassemblement national (France)",
+     "date": "2026-10-18"
+    },
+    {
+     "titre": "Marine Le Pen, Bruno Gollnisch, Louis Aliot… Voici les 11 condamnations à l'issue du procès en appel des assistants parlementaires du FN (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-bruno-gollnisch-louis-aliot-voici-les-11-condamnations-a-l-issue-du-proces-en-appel-des-assistants-parlementaires-du-fn_8089790.html",
+     "citation": "Ancienne assistante parlementaire, elle a elle-même été élue députée européenne en 2019, puis réélue en 2024, trois mois avant le premier procès.",
+     "date": "2026-07-07"
+    }
+   ]
+  },
+  {
+   "personne": "Odoul Julien",
+   "statutMembre": "membre",
+   "depuis": "2014",
+   "detail": "Membre du FN/RN depuis 2014, député de l'Yonne, il est toujours porte-parole du RN après sa condamnation en appel du 7 juillet 2026.",
+   "lienAvecCondamnation": null,
+   "reactionParti": null,
+   "sources": [
+    {
+     "titre": "Procès en appel des assistants FN : Julien Odoul, porte-parole du RN, condamné à un an d'inéligibilité avec sursis (ICI)",
+     "url": "https://www.ici.fr/bourgogne-franche-comte/yonne-89/sens/proces-en-appel-des-assistants-fn-julien-odoul-porte-parole-du-rn-condamne-a-un-an-d-ineligibilite-avec-sursis-6675472",
+     "citation": "Procès en appel des assistants FN : Julien Odoul, porte-parole du RN, condamné à un an d'inéligibilité avec sursis",
+     "date": "2026-07-07"
+    },
+    {
+     "titre": "Racisme : le porte-parole du RN visé par une plainte après ses propos reliant les étrangers aux agressions (20 Minutes)",
+     "url": "https://www.20minutes.fr/politique/4232422-20260702-racisme-porte-parole-rn-vise-plainte-apres-propos-reliant-etrangers-agressions",
+     "citation": "Racisme : Le porte-parole du RN visé par une plainte après ses propos reliant les étrangers aux agressions",
+     "date": "2026-07-02"
+    },
+    {
+     "titre": "Julien Odoul — Wikipédia (consulté le 18/10/2026)",
+     "url": "https://fr.wikipedia.org/wiki/Julien_Odoul",
+     "citation": "FN/RN (depuis 2014)",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  {
+   "personne": "Houssin Timothée",
+   "statutMembre": "membre",
+   "depuis": null,
+   "detail": "Député RN de l'Eure, rattaché au Rassemblement national pour le financement de la vie politique ; il s'est pourvu en cassation après sa condamnation en appel.",
+   "lienAvecCondamnation": null,
+   "reactionParti": null,
+   "sources": [
+    {
+     "titre": "Procès des assistants parlementaires du FN : le député de l'Eure Timothée Houssin se pourvoit en cassation (ICI)",
+     "url": "https://www.ici.fr/normandie/eure-27/les-andelys/proces-des-assistants-parlementaires-du-fn-le-depute-de-l-eure-timothee-houssin-se-pourvoit-en-cassation-5371042",
+     "citation": "le député Rassemblement national de l'Eure Timothée Houssin a annoncé ce mercredi qu'il allait se pourvoir en cassation",
+     "date": "2026-07-08"
+    },
+    {
+     "titre": "M. Timothée Houssin — Assemblée nationale, fiche député (consultée le 18/10/2026)",
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA793632",
+     "citation": "Rattachement au titre du financement de la vie politique Rassemblement national",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  {
+   "personne": "Le Pen Jean-Marie (décédé le 7 janvier 2025)",
+   "statutMembre": "decede",
+   "depuis": "2025-01-07",
+   "detail": "Exclu du FN le 20 août 2015 par le bureau exécutif à cause de ses propos (chambres à gaz « détail », défense de Pétain), exclusion validée en justice et présidence d'honneur supprimée en mars 2018 ; il est mort le 7 janvier 2025 sans avoir réintégré le parti.",
+   "lienAvecCondamnation": "oui",
+   "reactionParti": "Le bureau exécutif du FN l'a exclu le 20 août 2015 en raison de ses propos, dont la réitération en 2015 des propos sur le « détail » qui lui a valu une condamnation définitive en 2018.",
+   "sources": [
+    {
+     "titre": "L'exclusion de Jean-Marie Le Pen du FN (L'Express, mis à jour le 13/12/2016)",
+     "url": "https://www.lexpress.fr/politique/rn/jean-marie-le-pen-suspendu-du-fn_1677175.html",
+     "citation": "Jean-Marie Le Pen a été exclu le 20 août 2015 du parti qu'il a contribué à fonder. En cause: ses propos polémiques -sur les chambres à gaz \"détail\" de la Seconde Guerre mondiale ou sa défense du maréchal Pétain-",
+     "date": "2016-12-13"
+    },
+    {
+     "titre": "Jean-Marie Le Pen — Wikipédia (consulté le 18/10/2026)",
+     "url": "https://fr.wikipedia.org/wiki/Jean-Marie_Le_Pen",
+     "citation": "Il en est exclu en 2015. Il crée le parti Comités Jeanne en 2016 et reste président d'honneur du FN jusqu'en 2018.",
+     "date": "2026-10-18"
+    },
+    {
+     "titre": "Jean-Marie Le Pen, cofondateur et figure emblématique du Front national, est mort (LCP)",
+     "url": "https://lcp.fr/actualites/jean-marie-le-pen-cofondateur-et-figure-emblematique-du-front-national-est-mort-182012",
+     "citation": "Sa fonction de président d'honneur du Front national est supprimée en mars 2018",
+     "date": "2025-01-07"
+    },
+    {
+     "titre": "Jean-Marie Le Pen, cofondateur et figure emblématique du Front national, est mort (LCP)",
+     "url": "https://lcp.fr/actualites/jean-marie-le-pen-cofondateur-et-figure-emblematique-du-front-national-est-mort-182012",
+     "citation": "Le cofondateur du Front national, Jean-Marie Le Pen, est mort à l'âge de 96 ans, ce mardi 7 janvier.",
+     "date": "2025-01-07"
+    },
+    {
+     "titre": "Jean-Marie Le Pen, cofondateur et figure emblématique du Front national, est mort (LCP)",
+     "url": "https://lcp.fr/actualites/jean-marie-le-pen-cofondateur-et-figure-emblematique-du-front-national-est-mort-182012",
+     "citation": "C'est donc de l'extérieur que Jean-Marie Le Pen assiste aux transformations de la structure qu'il a lancée et popularisée",
+     "date": "2025-01-07"
+    }
+   ]
+  },
+  {
+   "personne": "Lorho Marie-France",
+   "statutMembre": "membre",
+   "depuis": "2023",
+   "detail": "Ancienne de la Ligue du Sud (exclue fin 2022 par Jacques Bompard), réélue en 2022 avec le soutien du RN puis membre du RN ; toujours députée RN du Vaucluse et rattachée au RN après sa condamnation de janvier 2026, dont elle a fait appel.",
+   "lienAvecCondamnation": null,
+   "reactionParti": null,
+   "sources": [
+    {
+     "titre": "Marie-France Lorho et Yann Bompard font appel de leur condamnation pour détournement de fonds publics (ICI Vaucluse)",
+     "url": "https://www.ici.fr/provence-alpes-cote-d-azur/vaucluse-84/orange/marie-france-lorho-et-yann-bompard-font-appel-de-leur-condamnation-pour-detournement-de-fonds-publics-7110341",
+     "citation": "Le maire d'Orange, Yann Bompard, et la députée Rassemblement national de Vaucluse, Marie-France Lorho, ont fait appel de leur condamnation pour détournement de fonds publics",
+     "date": "2026-02-04"
+    },
+    {
+     "titre": "Mme Marie-France Lorho — Assemblée nationale, fiche députée (consultée le 18/10/2026)",
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA721932",
+     "citation": "Rattachement au titre du financement de la vie politique Rassemblement national",
+     "date": "2026-10-18"
+    },
+    {
+     "titre": "Marie-France Lorho — Wikipédia (consulté le 18/10/2026)",
+     "url": "https://fr.wikipedia.org/wiki/Marie-France_Lorho",
+     "citation": "Parti politique LS (jusqu'en 2022) RN (depuis 2023)",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  {
+   "personne": "Jacobelli Laurent",
+   "statutMembre": "membre",
+   "depuis": "2017",
+   "detail": "Membre du FN/RN depuis 2017 (après Debout la France), député de la Moselle et vice-président du groupe RN à l'Assemblée ; il était porte-parole du RN lors de sa condamnation de septembre 2025.",
+   "lienAvecCondamnation": null,
+   "reactionParti": null,
+   "sources": [
+    {
+     "titre": "Le 6/9 du samedi 19 septembre 2026 (France Inter)",
+     "url": "https://www.radiofrance.fr/franceinter/podcasts/le-6-9/le-6-9-du-samedi-19-septembre-2026-5751502",
+     "citation": "Laurent Jacobelli, député de la Moselle, vice-président du groupe RN à l'Assemblée nationale",
+     "date": "2026-09-19"
+    },
+    {
+     "titre": "Le porte-parole du Rassemblement national Laurent Jacobelli condamné à 300 euros d'amende avec sursis pour outrage et diffamation (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/front-national/le-porte-parole-du-rassemblement-national-laurent-jacobelli-condamne-a-300-euros-d-amende-avec-sursis-pour-outrage-et-diffamation_7468933.html",
+     "citation": "Le porte-parole du Rassemblement national Laurent Jacobelli condamné à 300 euros d'amende avec sursis pour outrage et diffamation",
+     "date": "2025-09-02"
+    },
+    {
+     "titre": "Laurent Jacobelli — Wikipédia (consulté le 18/10/2026)",
+     "url": "https://fr.wikipedia.org/wiki/Laurent_Jacobelli",
+     "citation": "Parti politique DLF (2014-2017) FN/RN (depuis 2017)",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  {
+   "personne": "Boccaletti Frédéric",
+   "statutMembre": "membre",
+   "depuis": "2008",
+   "detail": "Revenu au FN en 2008 après un passage au MNR, il est maire RN de Six-Fours-les-Plages depuis mars 2026 et figure toujours comme député RN du Var (mandat en cours) sur le site de l'Assemblée.",
+   "lienAvecCondamnation": null,
+   "reactionParti": "Selon l'intéressé, le FN l'avait sanctionné après sa condamnation de 2000 en ne l'autorisant à reprendre sa carte qu'au bout de dix ans ; le RN l'a depuis investi aux législatives de 2022 et 2024.",
+   "sources": [
+    {
+     "titre": "Élections municipales 2026 : condamnés par la justice, ils ont tout de même été élus maires au deuxième tour (20 Minutes)",
+     "url": "https://20minutes.fr/politique/4214879-20260325-elections-municipales-2026-condamnes-justice-elus-maires-deuxieme-tour",
+     "citation": "Le maire de Six-Fours-les-Plages, dans le Var, est membre du Rassemblement national",
+     "date": "2026-03-25"
+    },
+    {
+     "titre": "M. Frédéric Boccaletti — Assemblée nationale, fiche député (consultée le 18/10/2026)",
+     "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA796042",
+     "citation": "M. Frédéric Boccaletti Rassemblement National Var (7e circonscription) | Mandat en cours",
+     "date": "2026-10-18"
+    },
+    {
+     "titre": "Propos de Jordan Bardella sur le casier judiciaire des élus : un député RN du Var assume son passé (France 3 PACA)",
+     "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/var/exemplarite-des-elus-le-depute-rn-du-var-frederic-boccaletti-assume-son-passe-judiciaire-3063949.html",
+     "citation": "À la suite de cette condamnation, Frédéric Boccaletti avait été sanctionné par le Front national (l'ancien nom du Rassemblement national) : \"le FN ne m'a autorisé à reprendre ma carte qu'après 10 ans\".",
+     "date": "2024-11-21"
+    },
+    {
+     "titre": "Frédéric Boccaletti — Wikipédia (consulté le 18/10/2026)",
+     "url": "https://fr.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Boccaletti",
+     "citation": "Parti politique FN (1994-1999) MNR (1999-?) Parti populiste (?-2008) FN/RN (depuis 2008)",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  {
+   "personne": "Gillet Yoann",
+   "statutMembre": "membre",
+   "depuis": "2008",
+   "detail": "Membre du FN/RN depuis 2008, député du Gard et porte-parole du Rassemblement national.",
+   "lienAvecCondamnation": null,
+   "reactionParti": null,
+   "sources": [
+    {
+     "titre": "Immigration : « Nous voulons proposer aux Français un grand référendum », indique Yoann Gillet, porte-parole du Rassemblement national (franceinfo)",
+     "url": "https://www.franceinfo.fr/replay-magazine/franceinfo/l-invite-politique/immigration-nous-voulons-proposer-aux-francais-un-grand-referendum-indique-yoann-gillet-porte-parole-du-rassemblement-national_7983896.html",
+     "citation": "Immigration : \"Nous voulons proposer aux Français un grand référendum\", indique Yoann Gillet, porte-parole du Rassemblement national",
+     "date": "2026-05-25"
+    },
+    {
+     "titre": "Yoann Gillet — Wikipédia (consulté le 18/10/2026)",
+     "url": "https://fr.wikipedia.org/wiki/Yoann_Gillet",
+     "citation": "Parti politique UMP (2002-2007) FN/RN (depuis 2008)",
+     "date": "2026-10-18"
+    }
+   ]
+  },
+  {
+   "personne": "Sanchez Julien",
+   "statutMembre": "membre",
+   "depuis": "2000",
+   "detail": "Membre du FN/RN depuis 2000, vice-président du RN et député européen ; directeur de campagne du RN aux municipales 2026, il a été battu à Nîmes.",
+   "lienAvecCondamnation": null,
+   "reactionParti": null,
+   "sources": [
+    {
+     "titre": "Présidentielle 2027 : qui est Julien Sanchez, chargé de diriger la future campagne de Marine Le Pen ou Jordan Bardella ? (CNews)",
+     "url": "https://www.cnews.fr/france/2026-05-27/presidentielle-2027-qui-est-julien-sanchez-charge-de-diriger-la-future-campagne",
+     "citation": "Julien Sanchez est un des vice-présidents du Rassemblement national.",
+     "date": "2026-07-06"
+    },
+    {
+     "titre": "Julien SANCHEZ — Parlement européen, fiche officielle (consultée le 18/10/2026)",
+     "url": "https://www.europarl.europa.eu/meps/fr/88552/JULIEN_SANCHEZ/home",
+     "citation": "Groupe Patriotes pour l'Europe Membre France - Rassemblement national (France)",
+     "date": "2026-10-18"
+    },
+    {
+     "titre": "Le RN réalise une progression inédite mais inégale lors du second tour des municipales (Le Monde)",
+     "url": "https://www.lemonde.fr/politique/article/2026/03/23/le-rn-realise-une-progression-inedite-mais-inegale-lors-du-second-tour-des-municipales_6673842_823448.html",
+     "citation": "Julien Sanchez, eurodéputé et directeur de campagne du RN pour les municipales, a perdu son pari de rallier à sa cause les électeurs de droite",
+     "date": "2026-03-23"
+    }
+   ]
+  },
+  {
+   "personne": "Pennelle Gilles",
+   "statutMembre": "membre",
+   "depuis": "2013",
+   "detail": "Revenu au FN en 2013 (après le MNR), député européen RN et président du groupe RN au conseil régional de Bretagne ; tête de liste RN aux sénatoriales 2026 en Ille-et-Vilaine. Il a quitté en juillet 2024 la direction générale du parti après les législatives.",
+   "lienAvecCondamnation": null,
+   "reactionParti": null,
+   "sources": [
+    {
+     "titre": "Sénatoriales en Ille-et-Vilaine : Gilles Pennelle (RN) présente sa liste (actu.fr)",
+     "url": "https://actu.fr/bretagne/fougeres_35115/senatoriales-en-ille-et-vilaine-gilles-pennelle-rn-presente-sa-liste_64768768.html",
+     "citation": "le Rassemblement national annonce présenter en Ille-et-Vilaine une liste menée par Gilles Pennelle, député européen et président du groupe RN au Conseil régional de Bretagne.",
+     "date": "2026-09-12"
+    },
+    {
+     "titre": "Gilles PENNELLE — Parlement européen, fiche officielle (consultée le 18/10/2026)",
+     "url": "https://www.europarl.europa.eu/meps/fr/126699/GILLES_PENNELLE/home",
+     "citation": "France - Rassemblement national (France)",
+     "date": "2026-10-18"
+    },
+    {
+     "titre": "Gilles Pennelle — Wikipédia (consulté le 18/10/2026)",
+     "url": "https://fr.wikipedia.org/wiki/Gilles_Pennelle",
+     "citation": "FN/RN (depuis 2013)",
+     "date": "2026-10-18"
+    }
+   ]
+  }
+ ],
+ "alertes": [
+  "Aucune sanction (suspension, exclusion) ni mise en retrait prononcée par le RN n'a été trouvée contre ses condamnés actuels, y compris après l'arrêt d'appel du 7 juillet 2026 dans l'affaire des assistants : Le Pen, Aliot, Griset, Odoul et Houssin conservent leurs fonctions. Le champ reactionParti vaut null quand aucune réaction publique sourcée n'a été trouvée ; cela ne prouve pas l'absence de réaction.",
+  "Jean-Marie Le Pen : lienAvecCondamnation = « oui » parce que l'exclusion d'août 2015 vise ses propos de 2015 sur le « détail », qui ont conduit à sa condamnation pour contestation de crime contre l'humanité (définitive en 2018). L'exclusion est antérieure à cette condamnation. Ses condamnations plus anciennes (1987-2013) n'avaient entraîné aucune sanction du parti, qu'il présidait jusqu'en 2011. Il est mort hors du parti.",
+  "Marie-France Lorho : son adhésion au RN « depuis 2023 » repose sur Wikipédia (infobox et phrase « Elle rejoint ensuite le RN »). La date d'adhésion n'a pas été confirmée par une source primaire. Wikipédia indique qu'elle est passée du statut d'apparentée au groupe RN (2022-2023) à celui de membre (depuis 2023). La fiche de l'Assemblée affiche le groupe RN et un rattachement financier au RN, et la presse de 2026 la présente comme « députée RN ». Aucune réaction du RN à sa condamnation (inéligibilité de 5 ans avec exécution provisoire) n'a été trouvée.",
+  "Frédéric Boccaletti : Le Parisien (23/03/2026) écrivait qu'il « va devoir céder son siège de député à sa suppléante » après son élection comme maire. Or le 18/10/2026, la fiche de l'Assemblée nationale indique toujours « Mandat en cours », et nosparlementaires.fr le présente encore comme député-maire en septembre 2026. Un recours de l'opposition contre l'élection municipale (Info83) pourrait expliquer ce maintien ; ce point n'est pas vérifié. L'appartenance au RN, elle, est certaine. La sanction du FN après sa condamnation de 2000 n'est rapportée que par lui-même (France 3) : elle n'est pas vérifiée et la chronologie est floue (Wikipédia : FN 1994-1999, puis MNR, retour au FN en 2008).",
+  "Gilles Pennelle : rn.json le décrit comme « membre du bureau exécutif du RN ». Ce point n'est pas confirmé : la page du bureau exécutif sur rassemblementnational.fr ne se lit pas sans JavaScript, et seule sa bio X le mentionne. L'appartenance au RN est confirmée par le Parlement européen et actu.fr (sept. 2026).",
+  "Louis Aliot : BFMTV (30/09/2026) le présente comme « vice-président du RN ». La mention « premier vice-président » vient de rn.json (page du bureau exécutif du RN, non relue ici).",
+  "Timothée Houssin et Catherine Griset : date d'adhésion au FN/RN non trouvée (depuis = null). Leur appartenance actuelle est sourcée par la fiche AN et la presse pour Houssin, par la fiche du Parlement européen et franceinfo pour Griset.",
+  "Les pages Wikipédia et les fiches officielles (AN, Parlement européen) ont été consultées le 18/10/2026 ; le champ date de ces sources indique la date de consultation."
+ ]
+}

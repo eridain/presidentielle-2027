@@ -1,0 +1,18 @@
+{
+  "id": "acceleration-renouvelables",
+  "questionSimple": "Faut-il accélérer l'installation d'éoliennes et de panneaux solaires en simplifiant les règles ?",
+  "enBref": "La loi raccourcit les démarches pour construire des éoliennes et des panneaux solaires. Les communes peuvent choisir des zones où ces projets sont favorisés, ou au contraire exclus. Les panneaux solaires sont encouragés sur les parkings et les terrains déjà bétonnés.",
+  "pourquoiPour": "Ses partisans veulent rattraper le retard de la France pour le climat et réduire la dépendance aux énergies fossiles importées. Les élus locaux gardent la main sur l'emplacement des projets.",
+  "pourquoiContre": "Ses opposants jugent l'éolien et le solaire chers, intermittents et nuisibles aux paysages et aux riverains. Certains préfèrent miser sur le nucléaire, d'autres craignent une logique de marché.",
+  "ceQuiSestPasse": "Adoptée définitivement en février 2023, la loi a été promulguée le 10 mars 2023 après la censure de onze articles par le Conseil constitutionnel.",
+  "lexique": [
+    {
+      "terme": "Zone d'accélération",
+      "definition": "Secteur choisi par la commune où les projets d'énergie renouvelable sont facilités."
+    },
+    {
+      "terme": "Énergie intermittente",
+      "definition": "Énergie qui dépend du vent ou du soleil et ne produit pas en continu."
+    }
+  ]
+}

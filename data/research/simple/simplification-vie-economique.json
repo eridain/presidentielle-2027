@@ -1,0 +1,22 @@
+{
+  "questionSimple": "Faut-il adopter la loi de 2026 qui simplifie les démarches des entreprises et accélère les grands projets industriels ?",
+  "enBref": "La loi réduit des formalités pour les entreprises et facilite leur accès aux marchés publics. Elle accélère l'installation de centres de données et d'usines. Le texte voté supprimait aussi les zones à faibles émissions, mais cette mesure a été annulée par le Conseil constitutionnel.",
+  "pourquoiPour": "Pour ses défenseurs, les petites entreprises étouffent sous les règles. Une centaine de mesures concrètes doivent les aider à se développer et à créer des emplois.",
+  "pourquoiContre": "Pour ses opposants, ce texte fourre-tout affaiblit des règles qui protègent l'environnement et les droits sociaux. Il sert d'abord, selon eux, les intérêts des grandes entreprises.",
+  "ceQuiSestPasse": "Adoptée le 14 avril 2026, la loi a été en partie censurée par le Conseil constitutionnel, dont la suppression des ZFE, puis promulguée le 26 mai 2026.",
+  "lexique": [
+    {
+      "terme": "ZFE",
+      "definition": "Zone à faibles émissions : zone urbaine interdite aux véhicules les plus polluants."
+    },
+    {
+      "terme": "Cavalier législatif",
+      "definition": "Article sans lien avec le texte, que le Conseil constitutionnel annule pour cette raison."
+    },
+    {
+      "terme": "CMP",
+      "definition": "Commission mixte paritaire : députés et sénateurs cherchent un texte commun."
+    }
+  ],
+  "id": "simplification-vie-economique"
+}

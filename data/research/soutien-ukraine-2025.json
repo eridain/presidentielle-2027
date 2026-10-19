@@ -1,0 +1,225 @@
+{
+  "id": "soutien-ukraine-2025",
+  "titre": "Renforcement du soutien à l'Ukraine (2025)",
+  "question": "Faut-il renforcer le soutien militaire et financier à l'Ukraine, y compris par l'utilisation des avoirs russes gelés (résolution européenne de mars 2025) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Proposition de résolution européenne (rapporteur Laurent Mazaury, LIOT), sans valeur contraignante pour le gouvernement. Elle réaffirme le soutien à l'Ukraine face à l'agression russe, invite à saisir les avoirs russes gelés pour les mettre au service de la résistance ukrainienne et soutient le processus d'adhésion de l'Ukraine à l'Union européenne. Elle a été débattue alors que se dessinaient des négociations de cessez-le-feu sous l'égide des États-Unis. Adoptée le 12 mars 2025 par 288 voix contre 54 et 132 abstentions : LFI et la plupart des députés GDR ont voté contre, RN et UDR se sont abstenus.",
+  "contexteSources": [
+    {
+      "titre": "LCP – L'Assemblée nationale adopte une résolution de soutien à l'Ukraine appelant à saisir les avoirs russes",
+      "url": "https://lcp.fr/actualites/l-assemblee-nationale-adopte-une-resolution-de-soutien-a-l-ukraine-appelant-a-saisir-les"
+    },
+    {
+      "titre": "Assemblée nationale – actualité : adoption de la PPRE",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/adoption-de-la-proposition-de-resolution-europeenne-appelant-au-renforcement-du-soutien-a-l-ukraine"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcement_soutien_ukraine"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 12 mars 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcement_soutien_ukraine",
+  "argumentsPour": [
+    {
+      "auteur": "Constance Le Grip (Ensemble pour la République)",
+      "resume": "Le groupe soutient l'Ukraine et ses dirigeants jusqu'à l'obtention d'un cessez-le-feu et d'une paix juste et durable.",
+      "citation": "jusqu’à ce qu’un cessez-le-feu et une paix juste, durable, solide, loyale soit assurée à l’Ukraine, nous soutenons ce pays et ses dirigeants",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025",
+      "date": "2025-03-12"
+    },
+    {
+      "auteur": "Cyrielle Chatelain (Écologiste et social)",
+      "resume": "Alors que l'Europe est absente des négociations, l'Assemblée doit affirmer le soutien de la France à la souveraineté ukrainienne.",
+      "citation": "Laisser l’Ukraine seule face à la Russie et aux États-Unis n’est pas possible.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025",
+      "date": "2025-03-12"
+    },
+    {
+      "auteur": "Michel Castellani (LIOT)",
+      "resume": "La Russie apparaît comme une menace pour des pays de l'Union et donc pour la France ; soutenir le texte relève du réalisme.",
+      "citation": "Nous soutenons cette proposition de résolution dans un esprit de réalisme et de responsabilité. C’est notre avenir démocratique même qui est en danger.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025",
+      "date": "2025-03-12"
+    },
+    {
+      "auteur": "Jean-Louis Thiériot (Droite républicaine)",
+      "resume": "Ne pas voter la résolution serait un mauvais signal adressé aux puissances tentées par l'agression ; c'est une « petite pierre » européenne.",
+      "citation": "Nous ne pouvons pas ne pas voter cette proposition de résolution. C’est un signal.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025",
+      "date": "2025-03-12"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "Le soutien à l'Ukraine n'a de sens qu'avec une issue diplomatique ; la reconquête militaire totale est jugée irréaliste face à une puissance nucléaire.",
+      "citation": "Un conflit face à une puissance nucléaire comme la Russie ne peut être gagné seulement par les armes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025",
+      "date": "2025-03-12"
+    },
+    {
+      "auteur": "Jean-Paul Lecoq (GDR)",
+      "resume": "Le groupe aurait voté un texte centré sur la paix et le cessez-le-feu, mais refuse l'adhésion à l'UE, l'Europe fédérale et la mobilisation de l'OTAN.",
+      "citation": "Si vous aviez fait figurer uniquement cela dans la résolution, nous l’aurions votée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025",
+      "date": "2025-03-12"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Marc de Fleurian (Rassemblement national)",
+      "resume": "Le RN refuse l'adhésion de l'Ukraine à l'UE (agriculteurs), la saisie des avoirs russes (droit international) et des garanties de sécurité jugées floues.",
+      "citation": "Vous avez fait de la proposition de résolution un outil politicien et partisan.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025",
+      "date": "2025-03-12"
+    },
+    {
+      "auteur": "Maxime Michelet (UDR)",
+      "resume": "Soutien au peuple ukrainien, mais refus de l'alinéa sur l'adhésion à l'UE : abstention.",
+      "citation": "puisque nous soutenons résolument le peuple ukrainien sans faillir et que nous refusons ce piège grossier, nous nous abstiendrons.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025",
+      "date": "2025-03-12"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 45 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "date": "2025-03-12"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration retrouvée. PROXY : le groupe GDR (communistes) a voté majoritairement contre (0 pour / 9 contre / 3 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "date": "2025-03-12"
+    },
+    "ruffin": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif abstention (scrutin AN n°988), apparenté au groupe EcoS qui a voté pour (34 pour / 2 abst.) ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "date": "2025-03-12"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social a voté pour (34 pour / 0 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "date": "2025-03-12"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°988) ; intervention en séance pendant la discussion des articles.",
+      "argument": "Appelle à adopter la résolution et à ne pas laisser certains groupes faire durer les débats.",
+      "citation": "Or nous avons besoin que cette résolution soit adoptée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025",
+      "date": "2025-03-12"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "vote_pe",
+      "detail": "Vote pour au Parlement européen, le même jour, la résolution « Poursuivre le soutien sans faille de l'Union à l'Ukraine » (442 pour / 98 contre / 126 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://howtheyvote.eu/votes/172663",
+      "date": "2025-03-12"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°988), président du groupe EPR ; argument = explication de vote du groupe (Constance Le Grip).",
+      "argument": "Le groupe EPR soutient l'Ukraine et ses dirigeants jusqu'à une paix juste et durable.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025",
+      "date": "2025-03-12"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons a voté pour (33 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "date": "2025-03-12"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ministre de l'Intérieur ; le texte est une initiative parlementaire (LIOT), le gouvernement n'en était pas porteur ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (28 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "date": "2025-03-12"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (28 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "date": "2025-03-12"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "date": "2025-03-12"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif abstention (scrutin AN n°988), présidente du groupe RN ; argument = explication de vote du groupe (Marc de Fleurian).",
+      "argument": "Le RN refuse l'adhésion de l'Ukraine à l'UE, la saisie des avoirs russes et des garanties de sécurité jugées floues.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mercredi-12-mars-2025",
+      "date": "2025-03-12"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée. Indication : l'eurodéputée Reconquête Sarah Knafo s'est abstenue sur la résolution du Parlement européen du même jour (ce n'est pas un vote de Zemmour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://howtheyvote.eu/votes/172663",
+      "date": "2025-03-12"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025, aucun groupe parlementaire pour son parti ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/988",
+      "date": "2025-03-12"
+    }
+  },
+  "alertes": [
+    "Résolution européenne (article 151-5 du règlement AN) sans valeur contraignante ; elle ne décide d'aucune aide concrète. La question a été précisée (mention des avoirs russes gelés) pour refléter le contenu réel ; polarité inchangée.",
+    "Glucksmann : vote au Parlement européen sur une résolution distincte mais de même objet (12 mars 2025), relevé via l'API de HowTheyVote.eu (https://howtheyvote.eu/api/votes/172663) ; la page web liste les votes par députés de façon dynamique.",
+    "Batho : la citation est extraite d'une intervention de procédure pendant la discussion des articles, pas d'une explication de vote.",
+    "Ruffin : abstention sans explication retrouvée, alors que son groupe EcoS a voté pour.",
+    "Attal et Le Pen : arguments repris de l'explication de vote de leur groupe.",
+    "Retailleau : membre du gouvernement Bayrou ; le gouvernement (Benjamin Haddad) a donné des avis sur les amendements mais n'était pas l'auteur du texte : position non déduite."
+  ]
+}

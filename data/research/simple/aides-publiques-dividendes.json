@@ -1,0 +1,18 @@
+{
+  "id": "aides-publiques-dividendes",
+  "questionSimple": "Faut-il retirer les aides de l'État aux entreprises qui versent des dividendes sans augmenter les salaires ?",
+  "enBref": "En 2022, les prix augmentent fortement et beaucoup de salaires ne suivent pas. Pourtant, les grandes entreprises versent des dividendes records et reçoivent des aides de l'État. Cet amendement veut supprimer ces aides si les salaires n'ont pas augmenté autant que les prix.",
+  "pourquoiPour": "Pour ses défenseurs, l'argent public ne doit pas aider des entreprises qui enrichissent leurs actionnaires sans protéger le pouvoir d'achat de leurs salariés.",
+  "pourquoiContre": "Pour ses opposants, la mesure est trop large et difficile à appliquer. Les aides servent aussi à garder les entreprises et les usines en France.",
+  "ceQuiSestPasse": "L'amendement a été rejeté (90 voix pour, 217 contre).",
+  "lexique": [
+    {
+      "terme": "Dividende",
+      "definition": "Part des bénéfices d'une entreprise versée à ses actionnaires."
+    },
+    {
+      "terme": "Conditionnalité des aides",
+      "definition": "Principe selon lequel une aide publique n'est versée qu'en échange d'engagements de l'entreprise."
+    }
+  ]
+}

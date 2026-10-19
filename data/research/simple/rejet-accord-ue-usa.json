@@ -1,0 +1,18 @@
+{
+  "id": "rejet-accord-ue-usa",
+  "questionSimple": "Faut-il rejeter l'accord de juillet 2025 où l'Europe accepte que les États-Unis taxent ses produits à 15 % ?",
+  "enBref": "En juillet 2025, l'Europe et Donald Trump ont conclu un accord commercial. Les produits européens sont taxés à 15 % aux États-Unis, tandis que l'Europe supprime ses taxes sur de nombreux produits américains. Les députés ont voté un texte demandant son rejet, sans effet obligatoire.",
+  "pourquoiPour": "Pour ses partisans, l'accord est déséquilibré : l'Europe accepte des taxes sans rien obtenir en échange, et promet d'acheter du gaz et du pétrole américains. Ce serait une soumission à Trump.",
+  "pourquoiContre": "Pour le gouvernement et ses alliés, cet accord limite les dégâts d'une guerre commerciale. Le rejeter affaiblirait la Commission européenne face à Washington.",
+  "ceQuiSestPasse": "L'Assemblée a demandé le rejet le 4 février 2026 ; le Parlement européen a malgré tout approuvé l'accord en juin 2026.",
+  "lexique": [
+    {
+      "terme": "Droits de douane",
+      "definition": "Taxes payées sur les produits importés d'un autre pays."
+    },
+    {
+      "terme": "Accord mixte",
+      "definition": "Accord européen qui doit aussi être approuvé par chaque pays membre, pas seulement par l'Union."
+    }
+  ]
+}

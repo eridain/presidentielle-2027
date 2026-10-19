@@ -1,0 +1,283 @@
+{
+ "partiId": "ps",
+ "nom": "Parti socialiste",
+ "sigle": "PS",
+ "predecesseurs": [
+  "Section française de l'Internationale ouvrière (SFIO, 1905-1969)"
+ ],
+ "fondation": "1969",
+ "direction": [
+  {
+   "nom": "Olivier Faure",
+   "fonction": "Premier secrétaire",
+   "url": "https://parti-socialiste.fr/le-premier-secretaire/"
+  },
+  {
+   "nom": "Johanna Rolland",
+   "fonction": "Première secrétaire déléguée (coordination du secrétariat national)",
+   "url": "https://fr.wikipedia.org/wiki/Parti_socialiste_(France)"
+  },
+  {
+   "nom": "Pierre Jouvet",
+   "fonction": "Secrétaire général",
+   "url": "https://fr.wikipedia.org/wiki/Parti_socialiste_(France)"
+  },
+  {
+   "nom": "Corinne Narassiguin",
+   "fonction": "Secrétaire nationale à la stratégie opérationnelle chargée de la trésorerie et des moyens",
+   "url": "https://fr.wikipedia.org/wiki/Parti_socialiste_(France)"
+  },
+  {
+   "nom": "Rémi Branco, Arthur Delaporte, Stéphane Delpeyrat, Dieynaba Diop, Fatiha Keloua-Hachi, Julie Martinez, Yannick Ohanessian, Alexandre Ouizille, Emma Rafowicz, Mélanie Thomin, Stéphane Troussel",
+   "fonction": "Porte-parole",
+   "url": "https://parti-socialiste.fr/nos-porte-parole/"
+  }
+ ],
+ "presentation": "Le Parti socialiste a été créé en 1969, à la suite de la SFIO fondée en 1905. Wikipédia le décrit comme « un parti politique français classé à gauche et au centre gauche sur l'échiquier politique ». Son groupe compte 68 députés (Socialistes et apparentés) et 62 sénateurs (groupe SER). Pour la présidentielle 2027, il ne présente pas de candidat issu de ses rangs et soutient Raphaël Glucksmann (Place publique), vainqueur le 11 octobre 2026 de la primaire qu'il a co-organisée.",
+ "presentationSources": [
+  {
+   "titre": "Parti socialiste (France) — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Parti_socialiste_(France)"
+  },
+  {
+   "titre": "LCP — Raphaël Glucksmann candidat en 2027 : une première historique pour le Parti socialiste depuis 1969 (11/10/2026)",
+   "url": "https://lcp.fr/actualites/raphael-glucksmann-candidat-en-2027-une-premiere-historique-pour-le-parti-socialiste"
+  },
+  {
+   "titre": "Toute l'Europe — Raphaël Glucksmann remporte largement la primaire de la gauche sociale-démocrate",
+   "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-l-eurodepute-raphael-glucksmann-remporte-largement-la-primaire-de-la-gauche-sociale-democrate/"
+  }
+ ],
+ "effectifs": {
+  "deputes": 68,
+  "senateurs": 62,
+  "eurodeputes": 10,
+  "source": "https://www.senat.fr/senateurs/soc.html ; data/research/deputes_par_groupe_2026.json (groupe SOC) ; https://touteleurope.eu/institutions/elections-europeennes-2024-qui-sont-les-nouveaux-deputes-europeens-du-parti-socialiste-ps"
+ },
+ "candidats": [],
+ "soutienCandidat": {
+  "id": "glucksmann",
+  "note": "Le PS ne présente pas de candidat issu de ses rangs. Il soutient Raphaël Glucksmann (Place publique), désigné le 11 octobre 2026 à l'issue de la primaire organisée par le PS, Place publique et la GRS (66,13 % des voix ; Olivier Faure deuxième avec 14,46 %). Condamnations du candidat : voir place-publique.json.",
+  "sources": [
+   {
+    "titre": "LCP (11/10/2026)",
+    "url": "https://lcp.fr/actualites/raphael-glucksmann-candidat-en-2027-une-premiere-historique-pour-le-parti-socialiste",
+    "citation": "le Parti socialiste apporte son soutien au candidat représentant de Place publique. Olivier Faure, premier secrétaire du PS, est arrivé en deuxième position avec 14% des voix."
+   },
+   {
+    "titre": "Toute l'Europe",
+    "url": "https://www.touteleurope.eu/vie-politique-des-etats-membres/presidentielle-2027-l-eurodepute-raphael-glucksmann-remporte-largement-la-primaire-de-la-gauche-sociale-democrate/",
+    "citation": "Raphaël Glucksmann s'est largement imposé ce dimanche 11 octobre au terme de la primaire organisée par le Parti socialiste, Place Publique et la Gauche républicaine et socialiste (GRS)."
+   }
+  ]
+ },
+ "condamnations": [
+  {
+   "personne": "Henri Emmanuelli",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien premier secrétaire du PS et ancien trésorier du PS (décédé en mars 2017)",
+   "infraction": "recel et complicité de trafic d'influence (affaire Urba, financement du PS)",
+   "faits": "En tant que trésorier du PS, faits liés au financement occulte du parti par le bureau d'études Urba, à la fin des années 1980.",
+   "juridiction": "cour d'appel de Rennes (pourvoi rejeté par la chambre criminelle de la Cour de cassation le 16 décembre 1997)",
+   "dateDecision": "1996-03-13",
+   "peine": "18 mois d'emprisonnement avec sursis et deux ans de privation des droits civiques",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Le Parisien — Juppé, Cahuzac, Balkany, Emmanuelli… ces responsables politiques condamnés à une peine d'inéligibilité",
+     "url": "https://leparisien.fr/politique/juppe-cahuzac-balkany-emmanuelli-avant-le-pen-ces-responsables-politiques-condamnes-a-une-peine-dineligibilite-31-03-2025-HTWXT5N33ZEWXDRHXPSVMQFRHU.php",
+     "citation": "Le 13 mars 1996, le député des Landes écope en appel de 18 mois avec sursis. Surtout, l'ancien cadre du PS est condamné à deux ans de privation de ses droits civiques",
+     "date": "2025-03-31"
+    },
+    {
+     "titre": "Universalis — Chronologie France 1997",
+     "url": "https://www.universalis.fr/chronologie/france/1997/1",
+     "citation": "Le 16, la chambre criminelle de la Cour de cassation rejette le pourvoi formé par Henri Emmanuelli, ancien premier secrétaire du Parti socialiste (P.S.), contre le jugement de la cour d'appel de Rennes de mars 1996.",
+     "date": "1997-12-16"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Pierre Mauroy",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien premier secrétaire du PS (jusqu'en 1992), ancien Premier ministre",
+   "infraction": "abus de confiance",
+   "faits": "Emploi de complaisance accordé en 1992 à Lyne Cohen-Solal comme attachée de presse à la communauté urbaine de Lille, qu'il présidait.",
+   "juridiction": "tribunal correctionnel de Lille",
+   "dateDecision": "2011-02-04",
+   "peine": "20 000 euros d'amende avec sursis",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "20 Minutes / AFP — Pierre Mauroy condamné pour un emploi fictif à la mairie de Lille en 1992",
+     "url": "https://www.20minutes.fr/politique/664704-20110204-politique-pierre-mauroy-condamne-emploi-fictif-mairie-lille-1992",
+     "citation": "M. Mauroy et Mme Cohen-Solal, qui ont accueilli le jugement avec stupéfaction, écopent chacun de 20.000 euros d'amende avec sursis pour \"abus de confiance\" et \"recel d'abus de confiance\".",
+     "date": "2011-02-04"
+    },
+    {
+     "titre": "Le Parisien — Condamnation surprise pour Lyne Cohen-Solal",
+     "url": "https://www.leparisien.fr/paris-75/paris-75005/condamnation-surprise-pour-lyne-cohen-solal-05-02-2011-1300463.php",
+     "citation": "l'ancien Premier ministre PS Pierre Mauroy, coprévenu pour abus de confiance, qui a été condamné à la même peine.",
+     "date": "2011-02-05"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Harlem Désir",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien premier secrétaire du PS (2012-2014)",
+   "infraction": "recel d'abus de biens sociaux",
+   "faits": "Rémunération de 1986 à 1987 par une association lilloise de formation des migrants (emploi fictif) alors qu'il présidait SOS Racisme.",
+   "juridiction": "tribunal correctionnel de Lille",
+   "dateDecision": "1998-12-17",
+   "peine": "18 mois d'emprisonnement avec sursis et 30 000 francs d'amende",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Nouvel Obs — Harlem Désir, condamné pour emploi fictifs",
+     "url": "https://www.nouvelobs.com/politique/le-congres-du-ps/20120912.OBS2032/harlem-desir-condamne-pour-emploi-fictifs.html",
+     "citation": "Cet emploi fictif lui vaut une condamnation, le 17 décembre 1998, à 18 mois de prison avec sursis et 30.000 francs d'amende pour recel d'abus de bien sociaux.",
+     "date": "2012-09-12"
+    },
+    {
+     "titre": "France 3 Hauts-de-France — Harlem Désir condamné il y a 14 ans à Lille",
+     "url": "https://france3-regions.franceinfo.fr/hauts-de-france/info/harlem-desir-condamne-il-y-a-14-ans-a-lille-116073.html",
+     "citation": "L'actuel numéro deux du PS a été condamné en 1998 , par le tribunal de Lille à à dix-huit mois de prison avec sursis et 30.000 francs d'amende (4.573 euros).",
+     "date": "2012-09-12"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Jean-Christophe Cambadélis",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien premier secrétaire du PS (2014-2017), ancien député de Paris",
+   "infraction": "recel d'abus de biens sociaux (affaire Agos)",
+   "faits": "Salaires perçus de 1993 à 1995 de l'AGOS, société gestionnaire de foyers, pour des prestations fictives de « conseiller en communication ».",
+   "juridiction": "tribunal correctionnel de Paris",
+   "dateDecision": "2000-01-28",
+   "peine": "5 mois d'emprisonnement avec sursis et 100 000 francs d'amende",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Nouvel Obs — Cinq mois avec sursis pour J-C Cambadélis",
+     "url": "https://www.nouvelobs.com/politique/20000128.OBS1629/cinq-mois-avec-sursis-pour-j-c-cambadelis.html",
+     "citation": "Jean-Christophe Cambadélis, 48 ans, ex-secrétaire national du parti socialiste, a été condamné vendredi par la Tribunal correctionnel de Paris à 5 mois de prison avec sursis et 100.000 francs d'amende.",
+     "date": "2000-01-28"
+    },
+    {
+     "titre": "Jean-Christophe Cambadélis — Wikipédia (section Affaires judiciaires)",
+     "url": "https://fr.wikipedia.org/wiki/Jean-Christophe_Cambad%C3%A9lis",
+     "citation": "condamné en janvier 2000 à cinq mois de prison avec sursis et 100 000 francs (environ 15 244 euros) d'amende par le tribunal correctionnel de Paris, pour recel d'abus de biens sociaux , dans l'affaire Agos",
+     "date": "2026-10-18"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Jean-Christophe Cambadélis",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien premier secrétaire du PS (2014-2017), ancien député de Paris",
+   "infraction": "recel d'abus de confiance (affaire de la MNEF)",
+   "faits": "Emploi de complaisance au sein de la mutuelle étudiante MNEF et d'une filiale entre 1991 et 1995.",
+   "juridiction": "tribunal correctionnel de Paris (11e chambre)",
+   "dateDecision": "2006-06-02",
+   "peine": "6 mois d'emprisonnement avec sursis et 20 000 euros d'amende",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Nouvel Obs — Mnef : 6 mois avec sursis pour Cambadélis",
+     "url": "https://www.nouvelobs.com/politique/20060602.OBS0156/mnef-6-mois-avec-sursis-pour-cambadelis.html",
+     "citation": "Le tribunal correctionnel de Paris a condamné vendredi 2 juin le député socialiste Jean-Christophe Cambadélis à six mois de prison avec sursis et 20.000 euros d'amende pour avoir bénéficié d'un emploi de complaisance au sein de la MNEF.",
+     "date": "2006-06-02"
+    },
+    {
+     "titre": "Jean-Christophe Cambadélis — Wikipédia (section Affaires judiciaires)",
+     "url": "https://fr.wikipedia.org/wiki/Jean-Christophe_Cambad%C3%A9lis",
+     "citation": "Le 2 juin 2006, reconnu « coupable de recel d'abus de confiance », il est condamné à six mois de prison avec sursis et 20 000 euros d'amende par la 11e chambre correctionnelle",
+     "date": "2026-10-18"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Jean-Christophe Cambadélis",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien premier secrétaire du PS (2014-2017), ancien député de Paris",
+   "infraction": "détournement de fonds publics",
+   "faits": "Utilisation à des fins personnelles de 114 057 euros de son indemnité représentative de frais de mandat (IRFM) lors de ses deux dernières années de mandat de député (jusqu'en 2017).",
+   "juridiction": "cour d'appel de Paris (homologation d'une comparution sur reconnaissance préalable de culpabilité)",
+   "dateDecision": "2025-05-20",
+   "peine": "8 mois d'emprisonnement avec sursis, 60 000 euros d'amende avec sursis et 5 ans d'inéligibilité",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Nouvel Obs / AFP — Détournement de frais de mandat : l'ex-chef du PS Jean-Christophe Cambadélis condamné en appel",
+     "url": "https://www.nouvelobs.com/politique/20250527.OBS104356/detournement-de-frais-de-mandat-l-ex-chef-du-ps-jean-christophe-cambadelis-condamne-en-appel.html",
+     "citation": "L'ancien patron du PS Jean-Christophe Cambadélis a été condamné en appel le 20 mai à 8 mois de prison avec sursis pour avoir utilisé à des fins personnelles 114 057 euros issus de ses frais de mandat parlementaire",
+     "date": "2025-05-27"
+    },
+    {
+     "titre": "franceinfo / AFP — Cambadélis condamné à huit mois de prison avec sursis (1re instance)",
+     "url": "https://www.franceinfo.fr/politique/ps/detournement-de-frais-de-mandat-l-ex-numero-un-du-ps-jean-christophe-cambadelis-condamne-a-huit-mois-de-prison-avec-sursis_6762874.html",
+     "citation": "Le tribunal correctionnel a jugé l'ex-député de Paris, aujourd'hui âgé de 73 ans, coupable de détournement de fonds publics",
+     "date": "2024-09-04"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "François Hollande",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien premier secrétaire du PS (1997-2008), ancien président de la République, député de Corrèze",
+   "infraction": "diffamation publique envers un particulier (Jean-Marie Le Pen)",
+   "faits": "Propos qualifiant Jean-Marie Le Pen de candidat « le plus corrompu de tous » dans une interview aux Inrockuptibles publiée en mai 2002.",
+   "juridiction": "tribunal de grande instance de Paris",
+   "dateDecision": "2004-02-09",
+   "peine": "3 000 euros d'amende",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Nouvel Obs — Justice : Hollande a diffamé Le Pen",
+     "url": "https://www.nouvelobs.com/politique/20040212.OBS4177/justice-hollande-a-diffame-le-pen.html",
+     "citation": "Le tribunal de grande instance de Paris a condamné lundi François Hollande, premier secrétaire du Parti socialiste, à 3000 euros d'amende pour avoir diffamé Jean-Marie Le Pen",
+     "date": "2004-02-12"
+    }
+   ],
+   "famille": "diffamation"
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 164,
+  "methode": "Requêtes web_search « \"<nom>\" condamné OR condamnée tribunal » pour 164 personnes (68 députés du groupe SOC selon deputes_par_groupe_2026.json, 62 sénateurs listés sur senat.fr/senateurs/soc.html, 13 eurodéputés élus sur la liste PS-Place publique 2024, direction nationale PS issue du congrès de Nancy, anciens premiers secrétaires, direction et élus de Place publique), puis requêtes ciblées : « Harlem Désir condamné 1998 », « Cambadélis condamné MNEF 2006 », « Cambadélis Agos 2000 », « Cambadélis frais de mandat appel 2025 », « Emmanuelli Urba Cour de cassation 1997 », « Pierre Mauroy condamné emploi fictif », « François Hollande diffamation Le Pen 2004 », « Laurent Fabius Cour de justice de la République 1999 », « Raphaël Glucksmann condamné diffamation », « Parti socialiste condamné personne morale », « député socialiste condamné 2025 », « sénateur socialiste condamné », etc. Vérification sur les sources ouvertes : Nouvel Obs, franceinfo, 20 Minutes, Le Parisien, France 3 Régions, Universalis, Le Journal de Mayotte, Wikipédia (sections « Affaires judiciaires », API texte brut). Tentative de consultation de poligraph.fr (bloquée : HTTP 429).",
+  "limites": "Recherche par moteur et presse en ligne, sans accès aux casiers judiciaires ni à Judilibre de façon systématique ; poligraph.fr inaccessible (HTTP 429). Une seule requête générique par parlementaire : des condamnations peu médiatisées (notamment pour diffamation ou antérieures à l'archivage en ligne) ont pu échapper. Statut définitif non confirmé pour plusieurs décisions anciennes (absence d'information sur un éventuel appel). Les secrétaires généraux de la SFIO (prédécesseur) et les membres du secrétariat national hors fonctions listées n'ont pas été vérifiés. Effectifs : 68 = groupe Socialistes et apparentés (inclut des apparentés non membres du PS, dont 2 députés Place publique) ; 62 = sénateurs listés sur la page du groupe SER (inclut des apparentés) ; 10 = eurodéputés PS de la liste commune PS-Place publique (13 élus dont 3 Place publique). « Aucune autre condamnation trouvée » signifie : aucune trouvée dans les sources consultées."
+ },
+ "alertes": [
+  "Réhabilitation/amnistie : les condamnations de Harlem Désir (1998), Jean-Christophe Cambadélis (2000, 2006), Henri Emmanuelli (1996-1997) et François Hollande (2004) sont anciennes et assorties de sursis ou d'amendes ; une réhabilitation de plein droit ou le caractère non avenu des peines avec sursis (art. 132-35 et 133-13 du code pénal) est juridiquement possible mais n'a pas été vérifiée. À faire valider juridiquement avant publication.",
+  "Pierre Mauroy (2011) : l'avocate de la coprévenue Lyne Cohen-Solal affirmait que la condamnation était « amnistiée automatiquement en raison de la loi d'amnistie de 1995 » (Le Parisien, 05/02/2011) ; non confirmé par une décision. Appel non documenté.",
+  "Cambadélis MNEF (2006) : le Nouvel Obs indique « Cette peine est amnistiable » ; amnistie effective non vérifiée.",
+  "Cambadélis frais de mandat (2025) : condamnation homologuée en appel par CRPC (« plaider-coupable ») ; en 1re instance (tribunal correctionnel de Paris, 04/09/2024), 8 mois avec sursis, 60 000 € d'amende dont 30 000 € avec sursis et 5 ans d'inéligibilité. Aucun pourvoi trouvé, statut laissé « inconnu ».",
+  "Henri Emmanuelli : qualification variable selon les sources (Le Parisien : « recel et complicité de trafic d'influence » ; Nouvel Obs 2012 : « trafic d'influence ») ; Wikipédia (affaire Urba) mentionne aussi 30 000 francs d'amende, non repris par les sources ouvertes.",
+  "François Hollande (2004) : aucune information trouvée sur un appel ; statut inconnu.",
+  "Saïd Omar Oili : apparenté au groupe SER au Sénat mais fondateur et membre du parti Nouvel Élan pour Mayotte, non membre du PS d'après les sources consultées ; inclusion à valider. Date exacte de l'arrêt d'appel non trouvée (octobre 2011). Une source (Habari za Comores) est un site d'information comorien, non une presse de référence.",
+  "Exclus (non pénal ou relaxe) : Laurent Fabius, relaxé par la Cour de justice de la République en 1999 (sang contaminé) ; Frédérique Espagnac, sénatrice, condamnée en appel (septembre 2025, selon Wikipédia) à verser des indemnités à une ex-collaboratrice pour harcèlement moral — décision prud'homale/civile, hors périmètre ; Arnaud Marthey, sénateur, relaxé de harcèlement moral par le tribunal de Besançon en 2022.",
+  "Parti socialiste personne morale : aucune condamnation trouvée (l'affaire Urba a visé des dirigeants, pas le parti en tant que personne morale).",
+  "Retiré de l'affichage (membre de Nouvel Élan pour Mayotte, apparenté au groupe socialiste, hors périmètre parti) : Saïd Omar Oili — prise illégale d'intérêts (2011-10)."
+ ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": "immigration-2023",
+  "titre": "Loi immigration de décembre 2023 (loi Darmanin)",
+  "question": "Faut-il adopter la loi immigration de décembre 2023 (expulsions facilitées, régularisation encadrée dans les métiers en tension, durcissement du regroupement familial et de l'accès des étrangers aux prestations sociales) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposé au Sénat le 1er février 2023 par le gouvernement d'Élisabeth Borne et porté par Gérald Darmanin, le projet de loi « pour contrôler l'immigration, améliorer l'intégration » a été durci par le Sénat, puis rejeté sans débat par l'Assemblée le 11 décembre 2023 (motion de rejet préalable). La commission mixte paritaire a retenu un texte proche de la version sénatoriale (simplification des recours et des expulsions, régularisation au cas par cas dans les métiers en tension, conditions de résidence pour certaines prestations sociales, regroupement familial durci), adopté le 19 décembre 2023 par le Sénat (214 pour, 114 contre) et l'Assemblée (349 pour, 186 contre). Le Conseil constitutionnel (décision 2023-863 DC du 25 janvier 2024) a censuré 32 articles comme « cavaliers législatifs » et 3 autres sur le fond, partiellement ou totalement ; la loi n° 2024-42 a été promulguée le 26 janvier 2024.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Adoption du projet de loi après accord de la commission mixte paritaire",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/controler-l-immigration-ameliorer-l-integration-adoption-du-projet-de-loi-apres-accord-de-la-commission-mixte-paritaire"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N47118"
+    },
+    {
+      "titre": "Conseil constitutionnel – Communiqué de presse, décision n° 2023-863 DC du 25 janvier 2024",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2023-863-dc-du-25-janvier-2024-communique-de-presse"
+    },
+    {
+      "titre": "Sénat – Scrutin n°109 du 19 décembre 2023",
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-109.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3213",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N47118",
+  "argumentsPour": [
+    {
+      "auteur": "Sylvain Maillard (Renaissance)",
+      "resume": "Le texte simplifie les recours pour accélérer les départs, permet d'expulser des étrangers délinquants et conditionne l'intégration à la langue et au travail ; il maintient la régularisation dans les métiers en tension.",
+      "citation": "la France a besoin des dispositions de ce projet de loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N089",
+      "date": "2023-12-19"
+    },
+    {
+      "auteur": "Olivier Marleix (Les Républicains)",
+      "resume": "Avec les quotas, les mesures sur la nationalité et le reste du texte, la France se dote enfin d'une politique migratoire ; le texte marque un tournant.",
+      "citation": "Ce texte vous donne les moyens d’avoir enfin une vraie politique migratoire",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N089",
+      "date": "2023-12-19"
+    },
+    {
+      "auteur": "Yoann Gillet (Rassemblement national)",
+      "resume": "Jugé d'abord insuffisant, le texte a évolué : sans droit automatique à la régularisation et avec des mesures durcies, il comporte des avancées contre l'immigration.",
+      "citation": "Expurgé du droit automatique à la régularisation, le texte comporte des avancées en matière de lutte contre l’immigration.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N089",
+      "date": "2023-12-19"
+    },
+    {
+      "auteur": "Philippe Pradal (Horizons)",
+      "resume": "Le texte donne à l'administration et à la justice les moyens d'éloigner les étrangers auteurs de délits graves et place la langue, le travail et les valeurs républicaines au cœur de l'intégration.",
+      "citation": "Le présent projet de loi apporte une pierre indispensable à l’édifice de la réconciliation",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N089",
+      "date": "2023-12-19"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Boris Vallaud (Socialistes)",
+      "resume": "Le texte reprend des mesures portées par la droite et l'extrême droite (quotas, préférence nationale pour certaines prestations) ; le débat a porté selon lui sur une politique anti-immigrés.",
+      "citation": "Nous n’avons pas débattu de politique migratoire, mais de politique anti-immigrés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N089",
+      "date": "2023-12-19"
+    },
+    {
+      "auteur": "Élisa Martin (La France insoumise)",
+      "resume": "Restriction de l'aide médicale d'État, du regroupement familial et des prestations sociales : le texte aurait des conséquences sociales et sanitaires et introduit la préférence nationale.",
+      "citation": "Ce texte, c’est l’annonce d’une catastrophe sociale et sanitaire",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N089",
+      "date": "2023-12-19"
+    },
+    {
+      "auteur": "Benjamin Lucas (Écologiste)",
+      "resume": "Un texte voté avec l'extrême droite qui, pour la première fois sous la Ve République, porte atteinte au droit du sol ; le gouvernement aurait dû le retirer après la motion de rejet.",
+      "citation": "vous avez porté atteinte au droit du sol.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N089",
+      "date": "2023-12-19"
+    },
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "Le texte reprendrait le programme du Front national ; les difficultés des services publics relèvent de choix politiques et non d'un solde migratoire stable.",
+      "citation": "N’ajoutez pas le déshonneur à la compromission et rejetez ce texte de la honte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N089",
+      "date": "2023-12-19"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Nicolas Dupont-Aignan (Debout la France, non-inscrit)",
+      "resume": "Le texte de la CMP comporte de petites avancées mais ne règle pas le problème migratoire, faute de contrôle des frontières nationales et de primauté du droit national sur le droit européen.",
+      "citation": "je m’abstiendrai car les demi-mesures, qui sont certes de petites avancées, ne résoudront en rien le problème migratoire français",
+      "url": "https://www.debout-la-france.fr/actualite/projet-de-loi-immigration-pourquoi-je-mabstiens/",
+      "date": "2023-12-19"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Sans mandat parlementaire en 2023 ; déclaration dans une vidéo YouTube rapportée par l'AFP (La Provence).",
+      "argument": "La loi reprend des revendications historiques du Front national et « défigure l'image de la France ».",
+      "citation": "Ce qui est dans cette loi c'est ce que réclame depuis 50 ans le Front National",
+      "url": "https://www.laprovence.com/article/politique/83694541764372/la-loi-immigration-defigure-limage-de-la-france-accuse-melenchon",
+      "date": "2023-12-19"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°3213) ; il avait déposé avec Mathilde Panot la motion de rejet préalable sur le texte de la CMP.",
+      "argument": "Un texte reprenant les propositions du RN et de la droite la plus dure signifierait que « les digues ont sauté ».",
+      "citation": "Si le texte reprend ce que l’on pouvait trouver dans les tracts du Rassemblement national ou de la droite extrême la plus dure, ça veut dire que les digues ont sauté",
+      "url": "https://www.publicsenat.fr/actualites/politique/direct-projet-de-loi-immigration-le-2e-jour-des-negociations-entre-deputes-et-senateurs",
+      "date": "2023-12-19"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°3213) ; pas d'intervention personnelle trouvée, argument = explication de vote du groupe LFI-NUPES (Élisa Martin).",
+      "argument": "Selon son groupe : restriction de l'AME, du regroupement familial et des prestations sociales, introduction de la préférence nationale.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N089",
+      "date": "2023-12-19"
+    },
+    "tondelier": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Secrétaire nationale d'EELV, tribune publiée par L'Humanité appelant à ne pas promulguer la loi.",
+      "argument": "Loi jugée injuste et stigmatisante, qui précarise des personnes démunies et restreint l'accès à la santé, à l'éducation et au logement.",
+      "citation": "une loi inutile dont l’objet est mensonger, dangereux et xénophobe",
+      "url": "https://www.humanite.fr/politique/ils-disent-non-a-la-loi-immigration/marine-tondelier-nous-entrons-en-resistance-contre-cette-loi",
+      "date": "2024-01-18"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°3213) ; le 11 décembre, elle avait été la seule élue de gauche à voter contre la motion de rejet, tout en se déclarant opposée au texte.",
+      "argument": "Opposée au texte, elle refuse de voter avec l'extrême droite et craignait un retour à la version du Sénat (suppression de l'AME, remise en cause du droit du sol).",
+      "citation": "Je refuse de mêler ma voix à celles de l’extrême droite sur l’immigration.",
+      "url": "https://www.nouvelobs.com/politique/20231212.OBS82022/delphine-batho-defaire-le-gouvernement-oui-s-allier-avec-le-diable-non.html",
+      "date": "2023-12-12"
+    },
+    "glucksmann": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Eurodéputé, sans vote sur ce texte national ; lettre publique aux députés de la majorité publiée sur LinkedIn quelques heures avant le vote.",
+      "argument": "Le texte restreint l'accès des étrangers à des droits fondamentaux (soins, logement, handicap) et inscrit selon lui la préférence nationale dans la loi.",
+      "citation": "Êtes-vous vraiment prêts à inscrire dans la loi la préférence nationale qui est le cœur du programme de cette extrême-droite que vous dites combattre?",
+      "url": "https://fr.linkedin.com/posts/raphaelglucksmann_ma-lettre-aux-d%C3%A9put%C3%A9s-de-la-majorit%C3%A9-pr%C3%A9sidentielle-activity-7142909708176150528-kT2q",
+      "date": "2023-12-19"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Éducation nationale du gouvernement Borne qui a porté le texte ; aucun désaccord public trouvé.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/controler-l-immigration-ameliorer-l-integration-adoption-du-projet-de-loi-apres-accord-de-la-commission-mixte-paritaire",
+      "date": "2023-12-19"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Président d'Horizons, déclaration dans l'émission Quotidien (TMC) rapportée par Les Echos ; le groupe Horizons a voté pour (28 pour, 2 contre).",
+      "argument": "Texte de compromis entre la majorité et LR, qui ne modifie pas l'essentiel du pacte républicain et crée des instruments jugés nécessaires.",
+      "citation": "ce texte de compromis ne vient pas modifier les éléments essentiels à mes yeux du pacte républicain",
+      "url": "https://www.lesechos.fr/politique-societe/politique/direct-loi-immigration-les-actualites-et-reactions-de-ce-mercredi-20-decembre-2023-2042580",
+      "date": "2023-12-20"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif « pour » au Sénat sur le texte de la CMP (scrutin n°109 du 19 décembre 2023, https://www.senat.fr/scrutin-public/2023/scr2023-109.html) ; il a négocié la CMP pour la droite sénatoriale.",
+      "argument": "Le texte de la CMP, largement issu du Sénat, permet selon lui de reprendre le contrôle de la politique migratoire ; régularisations limitées et contrôlées.",
+      "citation": "Pour la première fois depuis longtemps, la France se donne les moyens de reprendre le contrôle de sa politique migratoire",
+      "url": "https://www.publicsenat.fr/actualites/politique/macron-ciotti-retailleau-le-pen-comment-ils-ont-change-de-pied-sur-le-texte-immigration",
+      "date": "2023-12-22"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration trouvée sur le texte final de la CMP ; le 13 décembre, il disait sur RMC qu'il aurait voté la motion de rejet et appelait à s'appuyer sur le texte du Sénat. PROXY : groupe LR de l'Assemblée pour (62/0/0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.bfmtv.com/replay-emissions/l-interview/bertrand-j-aurais-vote-la-motion-de-rejet_VN-202312130251.html",
+      "date": "2023-12-13"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration trouvée sur le texte final ; le 15 décembre, il appelait LR à « tenir bon » sur la version durcie du Sénat en CMP. PROXY : groupe LR de l'Assemblée pour (62/0/0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.nicematin.com/societe/politique/projet-de-loi-immigration-david-lisnard-appelle-les-republicains-a-tenir-bon-891725",
+      "date": "2023-12-15"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif « pour » (scrutin n°3213) ; présidente du groupe RN, elle a annoncé le vote du RN le jour même.",
+      "argument": "Le texte, qui introduit des conditions sur les aides sociales et revient partiellement sur l'automaticité du droit du sol, constitue selon elle « un petit pas » mais une victoire idéologique.",
+      "citation": "une incontestable victoire idéologique du RN",
+      "url": "https://www.radiofrance.fr/franceinter/l-assemblee-nationale-adopte-le-projet-de-loi-immigration-avec-une-large-majorite-5851070",
+      "date": "2023-12-19"
+    },
+    "zemmour": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Président de Reconquête, sans mandat parlementaire ; déclaration sur X après la décision du Conseil constitutionnel (rapportée par franceinfo). Le seul sénateur Reconquête, Stéphane Ravier, a voté contre au Sénat (scrutin n°109).",
+      "argument": "La loi ne contiendrait plus que des régularisations, sans réduire l'immigration ; il attribue cette issue à Macron, Darmanin, Le Pen et Ciotti.",
+      "citation": "il ne restera rien d'autre dans cette loi que la régularisation de 10 000 clandestins de plus par an, sans compter le regroupement familial",
+      "url": "https://www.franceinfo.fr/societe/immigration/le-gouvernement-prend-acte-une-satisfaction-un-coup-de-force-les-reactions-politiques-apres-la-decision-du-conseil-constitutionnel-sur-la-loi-immigration_6325668.html",
+      "date": "2024-01-25"
+    },
+    "dupontaignan": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention nominative (scrutin n°3213), expliquée dans un communiqué de Debout la France.",
+      "argument": "De petites avancées, mais le texte ne règle pas le problème migratoire : pas de rétablissement des frontières nationales, accord franco-algérien de 1968 maintenu, primauté du droit européen.",
+      "citation": "je m’abstiendrai car les demi-mesures, qui sont certes de petites avancées, ne résoudront en rien le problème migratoire français",
+      "url": "https://www.debout-la-france.fr/actualite/projet-de-loi-immigration-pourquoi-je-mabstiens/",
+      "date": "2023-12-19"
+    }
+  },
+  "alertes": [
+    "Zemmour : la position « contre » est déduite d'une déclaration du 25 janvier 2024, postérieure à la censure partielle du Conseil constitutionnel ; aucune déclaration datée du 19 décembre 2023 n'a été trouvée. Le sénateur Reconquête Stéphane Ravier a voté contre au Sénat (scrutin n°109).",
+    "Retailleau : la citation provient d'un message sur X reproduit par Public Sénat dans un article du 22 décembre 2023 ; la date exacte du message (vraisemblablement le 19 décembre) n'est pas indiquée.",
+    "Philippe : citation rapportée par Les Echos (propos sur TMC), consultée via la copie Web Archive (lesechos.fr bloque l'accès automatisé).",
+    "Mélenchon : propos tenus dans une vidéo YouTube, cités par La Provence (avec AFP) ; vidéo non consultée directement.",
+    "Batho : la citation porte sur son vote contre la motion de rejet du 11 décembre ; elle s'y dit opposée au texte. Aucune déclaration personnelle trouvée sur le vote final du 19 décembre.",
+    "Tondelier : tribune du 18 janvier 2024, après l'adoption ; le texte mentionne aussi un « 49.3 » qui n'a pas été utilisé pour cette loi (adoptée par scrutin public). Citation reproduite telle quelle.",
+    "Attal : membre du gouvernement à la date du vote (Éducation nationale), aucune déclaration personnelle vérifiée ; la page info.gouv.fr de sa déclaration de politique générale (janvier 2024), qui mentionne la loi, n'a pas pu être ouverte (403).",
+    "Bertrand et Lisnard : déclarations antérieures à la CMP (soutien à la version du Sénat, dont le texte final est proche) ; position laissée « inconnu » faute de déclaration sur le texte adopté.",
+    "Le communiqué du Conseil constitutionnel a été consulté via sa copie Web Archive (accès direct bloqué)."
+  ]
+}

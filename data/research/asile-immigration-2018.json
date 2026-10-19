@@ -1,0 +1,217 @@
+{
+  "id": "asile-immigration-2018",
+  "titre": "Loi asile-immigration 2018 (loi Collomb)",
+  "question": "Faut-il raccourcir les délais de demande d'asile et doubler la durée maximale de rétention administrative des étrangers (de 45 à 90 jours) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Porté par le ministre de l'Intérieur Gérard Collomb, le projet de loi ramène de 120 à 90 jours le délai pour déposer une demande d'asile, vise une instruction en six mois en moyenne, porte la durée maximale de rétention de 45 à 90 jours et facilite les éloignements ; il comporte aussi des mesures d'accueil (titre de séjour de quatre ans pour la protection subsidiaire, « passeport talent » élargi). Adopté en première lecture par l'Assemblée le 22 avril 2018 (228 pour, 139 contre, 24 abstentions), puis réécrit par le Sénat, il est définitivement adopté par l'Assemblée le 1er août 2018. Saisi par des députés et sénateurs de gauche, le Conseil constitutionnel (décision 2018-770 DC du 6 septembre 2018) censure quatre dispositions et valide la rétention de 90 jours sous réserve ; la loi n° 2018-778 est promulguée le 10 septembre 2018.",
+  "contexteSources": [
+    {
+      "titre": "Vie-publique.fr – Loi du 10 septembre 2018 pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie",
+      "url": "https://www.vie-publique.fr/loi/20792-loi-10-septemmbre-2018-immigration-droit-dasile-et-integration"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/immigration_maitrisee_droit_asile_effectif"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2018-770 DC du 6 septembre 2018",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2018/2018770DC.htm"
+    },
+    {
+      "titre": "Public Sénat – Le projet de loi asile-immigration voté à l'Assemblée par 228 voix contre 139",
+      "url": "https://publicsenat.fr/actualites/politique/le-projet-de-loi-asile-immigration-vote-a-l-assemblee-par-228-voix-contre-139"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/578",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/immigration_maitrisee_droit_asile_effectif",
+  "argumentsPour": [
+    {
+      "auteur": "Richard Ferrand (président du groupe La République en marche)",
+      "resume": "Le texte régule l'immigration en rendant les reconduites des déboutés effectives, condition pour mieux accueillir ceux qui obtiennent l'asile ; la rétention à 90 jours est encadrée par le juge.",
+      "citation": "Avec ce texte, nous démontrons notre détermination à réguler l’immigration, à promouvoir efficacement l’intégration et à garantir le droit d’asile, dans la continuité des engagements pris par le Président de la République.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N206",
+      "date": "2018-04-22"
+    },
+    {
+      "auteur": "Marc Fesneau (MoDem)",
+      "resume": "Le texte rend le droit d'asile plus effectif en réduisant les délais de réponse, ce qui facilite l'intégration de ceux qui en bénéficient.",
+      "citation": "Ce texte vise d’abord et avant tout à appliquer mieux et plus effectivement le droit d’asile, en réduisant les délais pour répondre rapidement à ceux qui doivent en bénéficier",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N206",
+      "date": "2018-04-22"
+    },
+    {
+      "auteur": "Agnès Firmin Le Bodo (UDI, Agir et indépendants)",
+      "resume": "Le texte trouve un équilibre entre humanité et fermeté : mieux maîtriser les flux, lutter contre l'immigration illégale et améliorer l'intégration.",
+      "citation": "ses dispositions permettront de maîtriser davantage les flux migratoires et de mieux lutter contre l’immigration illégale, de rendre plus effectif le droit d’asile et d’améliorer l’intégration des étrangers en France",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N206",
+      "date": "2018-04-22"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Éric Ciotti (Les Républicains)",
+      "resume": "Le texte se limite à des « mesurettes » et ne réduit pas l'immigration : la droite le juge insuffisant face aux enjeux migratoires.",
+      "citation": "Nous attendions des réponses fortes pour réduire l’immigration, pour que l’asile ne soit plus dévoyé, pour lutter contre l’immigration illégale, pour refonder notre code de la nationalité. Au bout du compte, rien de tout cela.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N206",
+      "date": "2018-04-22"
+    },
+    {
+      "auteur": "Jean-Luc Mélenchon (La France insoumise)",
+      "resume": "Une loi de plus sur les étrangers qui ne réglera rien ; la rétention portée à 90 jours devient une détention de fait.",
+      "citation": "Il vient d’être décidé que la rétention administrative se transforme en une détention de fait, puisque l’on conservera des gens enfermés et privés de liberté pendant quatre-vingt-dix jours",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N206",
+      "date": "2018-04-22"
+    },
+    {
+      "auteur": "Marietta Karamanli (Nouvelle Gauche)",
+      "resume": "Texte jugé inutile et régressif : rétention doublée, délais de recours réduits contre l'avis du Défenseur des droits, procédures accélérées au détriment de l'examen au fond.",
+      "citation": "Il est inutile, car il ne réglera aucun des sujets qu’il est censé traiter.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N206",
+      "date": "2018-04-22"
+    },
+    {
+      "auteur": "Marine Le Pen (Front national, non-inscrite)",
+      "resume": "La France subit des flux migratoires incontrôlés et l'asile est détourné ; elle propose que les demandes d'asile soient déposées depuis l'étranger, dans les consulats.",
+      "citation": "La France est submergée par des flux migratoires incontrôlés",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N201",
+      "date": "2018-04-20"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°578) ; il a porté l'explication de vote du groupe La France insoumise.",
+      "argument": "Une loi de plus sur les étrangers qui ne réglera rien ; la rétention à 90 jours devient une détention de fait.",
+      "citation": "Nous ne voterons pas cette loi, qui est la triste reprise d’un rite dorénavant constant dans l’histoire politique de notre pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N206",
+      "date": "2018-04-22"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Député (GDR), n'a pas pris part au scrutin n°578 ; cosignataire de la saisine du Conseil constitutionnel contre la loi définitivement adoptée (août 2018).",
+      "argument": null,
+      "citation": "Stéphane PEU, Fabien ROUSSEL et Hubert WULFRANC, députés",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2018/2018770DC.htm",
+      "date": "2018-08-06"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°578) ; pas d'intervention personnelle trouvée, argument = explication de vote du groupe La France insoumise (J.-L. Mélenchon).",
+      "argument": "Selon son groupe, la loi ne réglera rien et transforme la rétention de 90 jours en détention de fait.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N206",
+      "date": "2018-04-22"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat national en 2018 et aucune déclaration trouvée ; EELV n'avait pas de groupe à l'Assemblée (proxy indisponible).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°578), alors membre du groupe Nouvelle Gauche ; pas d'intervention personnelle trouvée, argument = explication de vote du groupe (M. Karamanli).",
+      "argument": "Selon son groupe, texte inutile et régressif : rétention doublée, délais de recours réduits, procédures accélérées au détriment de l'examen au fond.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N206",
+      "date": "2018-04-22"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Essayiste sans mandat ni parti en avril 2018 (Place publique fondée fin 2018) ; aucune déclaration trouvée. PROXY indicatif : le groupe Nouvelle Gauche (PS) a voté contre (0 pour / 31 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif « pour » (scrutin n°578) comme député LaREM (pas encore au gouvernement) ; argument = explication de vote du groupe LaREM (R. Ferrand).",
+      "argument": "Selon son groupe, réguler l'immigration en rendant les reconduites effectives est la condition d'un meilleur accueil des réfugiés ; rétention à 90 jours encadrée par le juge.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N206",
+      "date": "2018-04-22"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre : le projet de loi a été déposé en son nom par Gérard Collomb, ministre de l'Intérieur.",
+      "argument": "Exposé des motifs du Gouvernement : délais d'examen de l'asile trop longs, campements illégaux, retours contraints insuffisants.",
+      "citation": "nos délais d’examen des demandes d’asile demeurent trop longs (autour de onze mois en moyenne)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PRJLANR5L15B0714.html",
+      "date": "2018-02-21"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif « pour » au Sénat (scrutin n°171 du 26 juin 2018, https://www.senat.fr/scrutin-public/2017/scr2017-171.html) sur le texte réécrit et durci par la majorité sénatoriale, après avoir jugé le texte du Gouvernement « laxiste ».",
+      "argument": "Juge le texte initial laxiste et le droit d'asile « dévoyé » ; veut le durcir au Sénat (AME transformée en aide médicale d'urgence).",
+      "citation": "Elle est laxiste, et elle ne changera rien",
+      "url": "https://www.publicsenat.fr/actualites/politique/une-loi-asile-et-immigration-laxiste-estime-bruno-retailleau-86696",
+      "date": "2018-06-07"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, ayant quitté LR fin 2017, sans parti représenté à l'Assemblée ; aucune déclaration trouvée (proxy indisponible ; pour information le groupe LR a voté contre, 0/68/0).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; aucune déclaration trouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour / 68 contre), le jugeant insuffisant.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°578) ; intervention en séance du 20 avril 2018 en défense d'un amendement.",
+      "argument": "La France subit des flux migratoires incontrôlés et l'asile est détourné ; elle propose que les demandes d'asile soient déposées dans les consulats français à l'étranger.",
+      "citation": "cet amendement tend à imposer aux demandeurs d’asile de déposer leur dossier dans leur pays d’origine, auprès d’un poste consulaire français",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N201",
+      "date": "2018-04-20"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Journaliste sans mandat ni parti en 2018 (Reconquête créé en 2021) ; aucune déclaration sourcée trouvée (proxy indisponible).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°578) ; intervention en séance du 17 avril 2018.",
+      "argument": "Le texte se limite à des « mesurettes » sans contrôle des frontières, quotas ni délai de carence pour les prestations ; il propose un référendum sur l'immigration.",
+      "citation": "Ainsi, une fois ce projet de loi voté, nous serons dans la plus totale incapacité nationale à maîtriser les flux migratoires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N192",
+      "date": "2018-04-17"
+    }
+  },
+  "alertes": [
+    "Retailleau a voté « pour » au Sénat le 26 juin 2018 un texte profondément réécrit par la majorité sénatoriale LR (AME remplacée par une aide médicale d'urgence, etc.) ; en nouvelle lecture le Sénat a ensuite adopté une question préalable (scrutin n°231). Ce vote n'équivaut donc pas à un soutien au texte voté par l'Assemblée, que le groupe LR des députés a rejeté.",
+    "Roussel : la position « contre » repose sur sa cosignature de la saisine du Conseil constitutionnel (août 2018) contre la loi définitive, non sur une déclaration orale ; il n'a pas pris part au scrutin n°578.",
+    "Attal était député LaREM et porte-parole de LREM en avril 2018, pas membre du gouvernement (entrée au gouvernement en octobre 2018).",
+    "La décision 2018-770 DC et la page vie-publique.fr ont été consultées via leur copie Web Archive (web.archive.org), les sites renvoyant une erreur à l'accès automatisé ; les citations ont été vérifiées sur ces copies.",
+    "Aucune déclaration datée trouvée pour Tondelier, Glucksmann, Bertrand, Lisnard et Zemmour sur ce texte ; recherches non exhaustives (presse payante non consultée).",
+    "La « questionProposee » mentionnait l'allongement à 90 jours : exact (45 à 90 jours) ; question reformulée pour préciser le point de départ."
+  ]
+}

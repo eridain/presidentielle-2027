@@ -1,0 +1,232 @@
+{
+  "id": "corse-autonome",
+  "titre": "Statut d'autonomie de la Corse",
+  "question": "Faut-il inscrire dans la Constitution un statut d'autonomie de la Corse permettant à sa collectivité, sur habilitation par loi organique, d'adapter les lois et de fixer des normes dans ses compétences ?",
+  "ouiSignifie": "pour",
+  "contexte": "Issu du « processus de Beauvau » ouvert en 2022 et d'un accord de mars 2024 avec les élus corses, le projet de loi constitutionnelle crée un article 72-5 : statut d'autonomie tenant compte d'une « communauté insulaire, historique, linguistique, culturelle », possibilité pour la Collectivité de Corse d'être habilitée par loi organique à adapter les lois et règlements et à fixer des normes dans ses compétences (hors domaines régaliens), et consultation des électeurs corses. L'Assemblée l'a adopté en première lecture le 23 juin 2026 (271 pour, 202 contre, 64 abstentions). Le texte est transmis au Sénat, qui doit l'examiner à partir du 21 octobre 2026 ; une révision constitutionnelle exige un vote conforme des deux assemblées puis les trois cinquièmes au Congrès (ou un référendum).",
+  "contexteSources": [
+    {
+      "titre": "Sénat – Texte n° 782 (2025-2026) adopté par l'Assemblée nationale",
+      "url": "https://www.senat.fr/leg/pjl25-782.html"
+    },
+    {
+      "titre": "LCP – L'Assemblée nationale vote en faveur de l'autonomie de la Corse",
+      "url": "https://lcp.fr/actualites/l-assemblee-nationale-vote-en-faveur-de-l-autonomie-de-la-corse-437977"
+    },
+    {
+      "titre": "Maire info – Projet de loi adopté en première lecture, incertitudes sur son avenir",
+      "url": "https://www.maire-info.com/corse/autonomie-de-la-corse-le-projet-de-loi-adopte-en-premiere-lecture-mais-les-incertitudes-demeurent-sur-son-avenir-article-30919"
+    },
+    {
+      "titre": "ICI Corse – Le texte au Sénat à partir du 21 octobre",
+      "url": "https://www.ici.fr/corse/autonomie-de-la-corse-le-texte-au-senat-des-le-21-octobre-prochain-3267648"
+    },
+    {
+      "titre": "Public Sénat – Accord de mars 2024 et réserves de la droite sénatoriale",
+      "url": "https://publicsenat.fr/actualites/parlementaire/autonomie-de-la-corse-bruno-retailleau-denonce-des-difficultes-absolument-majeures"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_constitutionnelle_pour_Corse_autonome_au_sein_Republique",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-Paul Mattei (Les Démocrates)",
+      "resume": "Reconnaissance attendue depuis quarante ans de la singularité corse, issue du processus de Beauvau, sans remettre en cause l'unité de la République ni l'égalité des citoyens.",
+      "citation": "en conférant à la Corse une autonomie qui ne remet en cause ni l’unité de la République ni l’égalité entre ses citoyens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N280",
+      "date": "2026-06-23"
+    },
+    {
+      "auteur": "Pierre Cazeneuve (Ensemble pour la République)",
+      "resume": "Texte de compromis issu de quatre années de dialogue et voté à la quasi-unanimité de l'Assemblée de Corse ; faire confiance à la Corse renforcerait son lien avec la République.",
+      "citation": "Je crois que la confiance que la République peut témoigner à la Corse en votant ce texte, c’est la garantie de la confiance durable, par la suite, de la Corse envers la République.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N280",
+      "date": "2026-06-23"
+    },
+    {
+      "auteur": "Éric Coquerel (LFI)",
+      "resume": "LFI a évolué au contact des autonomistes : l'indivisibilité n'est pas l'uniformité ; vote favorable après l'adoption d'un principe de non-régression sociale et environnementale.",
+      "citation": "Il ne suffit pas d’appeler au respect d’une République une et indivisible pour lui donner sens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N280",
+      "date": "2026-06-23"
+    },
+    {
+      "auteur": "Sandra Regol (Écologiste et Social)",
+      "resume": "Les Corses votent depuis dix ans pour l'autonomie ; le passage de la lutte armée au dialogue permet ce vote, et l'unité de la République n'est pas l'uniformité.",
+      "citation": "Depuis quelques années, la lutte armée a laissé la place à la négociation, et c’est grâce à cette transition de la violence vers le dialogue que nous pouvons voter ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N280",
+      "date": "2026-06-23"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Stéphane Rambaud (RN)",
+      "resume": "Texte d'affichage qui ne répond pas aux difficultés de l'île ; la mention de « communauté » est floue, et la priorité régionale proposée par le RN a été rejetée.",
+      "citation": "Le texte soumis à notre vote ne permettra nullement à la Corse de répondre aux difficultés particulières qui sont les siennes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N280",
+      "date": "2026-06-23"
+    },
+    {
+      "auteur": "François-Xavier Ceccoli (Droite républicaine)",
+      "resume": "Autonomie décidée sans consulter d'abord les Corses, qui risque de concentrer les pouvoirs entre les mains de la majorité territoriale.",
+      "citation": "l’autonomie de la Corse oui, mais sans consulter les Corses, ni directement ni en premier lieu.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N280",
+      "date": "2026-06-23"
+    },
+    {
+      "auteur": "Olivier Fayssat (UDR)",
+      "resume": "Inscrire une « communauté » corse dans la Constitution reviendrait sur la censure de la notion de peuple corse par le Conseil constitutionnel en 1991.",
+      "citation": "Inscrire de notre plein gré dans la Constitution ce que le juge avait écarté, ce n’est pas une garantie de plus, c’est un renoncement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N280",
+      "date": "2026-06-23"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Elsa Faucillon (GDR)",
+      "resume": "Statut inédit voté sans consultation directe des Corses ni connaissance de la loi organique, avec un risque de dumping social ou environnemental ; groupe partagé.",
+      "citation": "Voter une révision constitutionnelle sans connaître le texte qui en fixera les contours est une forme de saut dans l’inconnu.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N280",
+      "date": "2026-06-23"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Non député ; déclaration lors de son meeting de Saint-Denis le 7 juin 2026, rapportée par France 3 Corse ViaStella.",
+      "argument": "Promet d'accompagner la Corse vers une « autonomie étendue », position qu'il dit avoir adoptée après trois votes massifs des Corses pour les autonomistes, sous condition de non-régression sociale et écologique.",
+      "citation": "Nous accompagnerons spécifiquement la Corse vers l'autonomie étendue que demande ce peuple",
+      "url": "https://france3-regions.franceinfo.fr/corse/autonomie-de-la-corse-quelle-est-la-position-des-candidats-a-la-presidentielle-2027-3365797.html",
+      "date": "2026-06-07"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2026 ; aucune déclaration retrouvée. PROXY : le groupe GDR (communistes et ultramarins) s'est divisé (6 pour, 6 contre, 2 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+      "date": "2026-06-23"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif enregistré « pour » (scrutin AN n°7454) ; il a toutefois fait une mise au point indiquant avoir voulu « s'abstenir volontairement ». Aucune déclaration personnelle retrouvée.",
+      "argument": "Groupe Écologiste et Social (Sandra Regol) : les Corses votent depuis dix ans pour l'autonomie, et le passage de la violence au dialogue justifie le texte.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+      "date": "2026-06-23"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et Social a voté majoritairement pour (27 pour, 5 contre, 4 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+      "date": "2026-06-23"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°7454) ; déclaration à France 3 Corse ViaStella avant l'examen du texte.",
+      "argument": "Se dit attachée personnellement à la Corse et favorable de longue date à un statut d'autonomie au sein de la République.",
+      "citation": "Je suis favorable de longue date à un statut d'autonomie de la Corse dans la République",
+      "url": "https://france3-regions.franceinfo.fr/corse/autonomie-de-la-corse-quelle-est-la-position-des-candidats-a-la-presidentielle-2027-3365797.html",
+      "date": "2026-06-18"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes (allié de Place publique) a voté majoritairement pour (41 pour, 5 contre, 19 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+      "date": "2026-06-23"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°7454) ; président du groupe EPR, dont l'explication de vote a été portée par Pierre Cazeneuve. Pas de citation personnelle vérifiée.",
+      "argument": "Groupe EPR : texte de compromis issu de quatre ans de dialogue ; faire confiance à la Corse garantirait sa confiance durable envers la République.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N280",
+      "date": "2026-06-23"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration sur le projet de 2026 retrouvée ; en 2022 il évoquait une « spécificité » sans prononcer le mot autonomie. PROXY : le groupe Horizons a voté pour (22 pour, 6 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.corsenetinfos.corsica/Edouard-Philippe-a-Ajaccio-Prendre-en-compte-la-specificite-de-la-Corse-oui-mais-jusqu-ou_a63031.html",
+      "date": "2022-02-16"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Pas encore de vote au Sénat ; président du groupe LR au Sénat lors de l'accord de mars 2024, il a dénoncé l'écriture constitutionnelle (Public Sénat).",
+      "argument": "Refuse la reconnaissance d'une communauté corse, qu'il assimile à une constitutionnalisation du communautarisme, et le pouvoir d'écrire des normes sans habilitation par le Parlement.",
+      "citation": "Ce serait la constitutionnalisation du communautarisme. La Constitution ne reconnaît qu’une seule communauté : c’est la communauté nationale",
+      "url": "https://publicsenat.fr/actualites/parlementaire/autonomie-de-la-corse-bruno-retailleau-denonce-des-difficultes-absolument-majeures",
+      "date": "2024-03-12"
+    },
+    "bertrand": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Président de région ; entretien à Corse Net Infos le 5 août 2026.",
+      "argument": "Aurait voté le texte, mais regrette que les Corses n'aient pas été consultés par référendum ; défend plus largement une « République des territoires ».",
+      "citation": "Je l’aurais voté.",
+      "url": "https://www.corsenetinfos.corsica/Xavier-Bertrand-a-Bastia-Je-regrette-que-dans-tout-ce-processus-d-autonomie-on-n-ait-pas-pose-la-question-aux-Corses_a92045.html",
+      "date": "2026-08-05"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Maire de Cannes (Nouvelle Énergie) ; refuse de se prononcer sur le projet de loi (France 3 Corse ViaStella, 9 août 2026).",
+      "argument": "Favorable à la liberté d'action locale, mais attentif à ce que l'autonomie n'écrase pas les communes ; y voit le signe de l'échec d'un État trop centralisé.",
+      "citation": "Concernant le projet de loi, je ne veux pas le commenter, c'est aux parlementaires de décider.",
+      "url": "https://france3-regions.franceinfo.fr/corse/l-etat-centralisateur-ne-fonctionne-plus-autonomie-insularite-role-des-communes-david-lisnard-livre-sa-vision-pour-la-corse-3398806.html",
+      "date": "2026-08-09"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°7454) ; présidente du groupe RN, elle a défendu en séance un amendement de réécriture (contre-projet) rejeté.",
+      "argument": "Favorable à une forme d'autonomie, mais refuse le terme « communauté » et le transfert direct de pouvoirs législatifs ; propose des adaptations soumises à habilitation par le Parlement ou le gouvernement.",
+      "citation": "Il est vrai que nous sommes en désaccord avec le transfert direct de pouvoirs législatifs à la collectivité de Corse, d’autant qu’il n’existe pas de contre-pouvoirs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/troisieme-seance-du-mardi-16-juin-2026",
+      "date": "2026-06-16"
+    },
+    "zemmour": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Communiqué de campagne présidentielle du 7 avril 2022, antérieur au projet de loi, dans lequel il refuse l'autonomie institutionnelle (Corse Net Infos).",
+      "argument": "Juge l'autonomie institutionnelle secondaire face au manque d'autonomie alimentaire et économique ; prône des aménagements juridiques ciblés (foncier, successions).",
+      "citation": "L’autonomie institutionnelle est une préoccupation de salon quand l’autonomie alimentaire et économique sont inexistantes",
+      "url": "https://www.corsenetinfos.corsica/Eric-Zemmour-aux-Corses-Notre-victoire-est-la-derniere-chance-d-eviter-votre-disparition_a63955.html",
+      "date": "2022-04-07"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2026 ; aucune déclaration retrouvée. Son parti n'a pas de groupe à l'Assemblée : aucun proxy pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+      "date": "2026-06-23"
+    }
+  },
+  "alertes": [
+    "Processus en cours : le texte n'est adopté qu'en première lecture à l'Assemblée ; examen au Sénat à partir du 21 octobre 2026 (commission), puis du 26 octobre en séance. Le Congrès doit ensuite réunir les trois cinquièmes.",
+    "Ruffin : le vote nominatif officiel est « pour », mais la page du scrutin mentionne sa mise au point : il « a indiqué avoir voulu s'abstenir volontairement ». Position laissée à « pour » conformément aux données officielles ; à signaler à l'utilisateur.",
+    "tasks.json : plusieurs libellés de groupes sont incohérents avec les chiffres (SOC « contre » avec 41 pour, EcoS « contre » avec 27 pour, HOR « abstention » avec 22 pour, DR « contre » avec 1 pour, 34 contre) ; les proxys ci-dessus utilisent les chiffres de la page officielle du scrutin.",
+    "Retailleau : citation de mars 2024 (accord de Beauvau), pas sur le texte de 2026. France 3 (18 juin 2026) rapporte, citant Le Figaro, qu'il estimerait que l'autonomie « percute des piliers de la République, notamment son indivisibilité » (source secondaire).",
+    "Zemmour : position de 2022, antérieure au projet de loi ; aucune déclaration de 2026 retrouvée.",
+    "Mélenchon : Corse-Matin (17 juin 2026, AFP) rapporte aussi : « J'ai changé d'avis, je ne suis pas borné », et la condition « pas de régression sociale ou écologique ».",
+    "Attal : un agrégateur (pollar.news) mentionne une tribune dans Corse-Matin (« reconnaître la singularité de la Corse n'affaiblit pas la République », traduction) ; texte original non consulté, donc non cité.",
+    "Le Pen : en 2022, elle avait jugé catastrophique la « promesse d'autonomie » (tweet cité par France 3) ; en 2026, elle se dit favorable à une autonomie sous habilitation tout en votant contre ce texte.",
+    "Bertrand : position déclarative a posteriori (« Je l'aurais voté »), assortie d'un regret sur l'absence de référendum ; en avril 2026, selon France 3, il posait un référendum comme préalable."
+  ]
+}

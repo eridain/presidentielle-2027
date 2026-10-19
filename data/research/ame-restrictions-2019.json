@@ -1,0 +1,215 @@
+{
+  "id": "ame-restrictions-2019",
+  "titre": "Durcissement de l'accès à l'AME (budget 2020)",
+  "question": "Faut-il durcir les conditions d'accès à l'aide médicale de l'État (délai avant certains soins non urgents, accord préalable, contrôles renforcés) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Lors de l'examen du budget 2020 et après un rapport IGAS-IGF pointant des abus, le gouvernement d'Édouard Philippe a fait adopter un amendement (n° 2155, ministre Agnès Buzyn) qui, sans toucher au panier de soins, conditionne l'AME à trois mois de séjour irrégulier (pour viser les personnes entrées avec un visa touristique), soumet certains soins programmés et non urgents (prothèses de hanche, cataracte…) à un délai d'ancienneté dans l'AME, sauf accord du contrôle médical de l'assurance maladie en cas de risque grave, et renforce les contrôles à l'ouverture des droits (dépôt en caisse d'assurance maladie). Il a été adopté le 7 novembre 2019 (65 voix contre 14). Le décret n° 2020-1325 du 30 octobre 2020 a fixé ce délai à neuf mois après la première admission à l'AME.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 7 novembre 2019 (PLF 2020, mission Santé)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2276",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276"
+    },
+    {
+      "titre": "Le Média social – Aide médicale d'État : la loi de finances durcit le dispositif",
+      "url": "https://www.lemediasocial.fr/aide-medicale-d-etat-la-loi-de-finances-durcit-le-dispositif_y2jUHZ"
+    },
+    {
+      "titre": "ODSE – Que prévoit le décret du 30 octobre 2020 relatif à l'AME ?",
+      "url": "https://www.odse.eu.org/spip.php?article213"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/amendements/2272C/AN/2155",
+  "argumentsPour": [
+    {
+      "auteur": "Agnès Buzyn (ministre des Solidarités et de la Santé)",
+      "resume": "Le gouvernement veut préserver l'AME, sans réduire le panier de soins, tout en luttant contre les détournements comme l'accès aux soins dès l'expiration d'un visa touristique.",
+      "citation": "afin de préserver l’AME et de soigner ces personnes au meilleur coût pour la société, nous proposons de renforcer les contrôles à l’ouverture des droits",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    {
+      "auteur": "Raphaël Gauvain (La République en marche)",
+      "resume": "L'amendement reprend le rapport IGAS-IGF, selon lequel les abus ne sont pas marginaux et confortent l'hypothèse d'une migration pour soins.",
+      "citation": "L’amendement déposé par le Gouvernement s’inscrit dans le prolongement du rapport que lui ont remis, le 5 novembre dernier, l’IGAS et l’IGF, qui relève plusieurs abus dans le fonctionnement de l’AME.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    {
+      "auteur": "Paul Christophe (UDI, Agir et indépendants)",
+      "resume": "Il ne s'agit pas de revoir l'AME mais de l'ajuster pour lutter contre une forme de tourisme médical.",
+      "citation": "nous ne sommes pas en train de revisiter le dispositif de l’AME, mais simplement de l’ajuster, pour lutter contre une forme de tourisme médical.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "François Ruffin (La France insoumise)",
+      "resume": "Seule une minorité des ayants droit recourt à l'AME ; le gouvernement ajoute des obstacles (délais, contrôles médicaux) pour envoyer un message politique.",
+      "citation": "Nous sommes hostiles au désir du Gouvernement de réduire l’accès à l’aide médicale d’État.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    {
+      "auteur": "Joël Aviragnet (Socialistes)",
+      "resume": "Réduire l'accès à l'AME risque d'augmenter la morbidité et la mortalité des étrangers en situation irrégulière.",
+      "citation": "Réduire l’AME risque d’augmenter la morbidité et la mortalité chez les étrangers en situation irrégulière.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    {
+      "auteur": "Stéphane Peu (Gauche démocrate et républicaine)",
+      "resume": "L'AME représente une part infime des dépenses d'assurance maladie et l'économie attendue est négligeable.",
+      "citation": "L’AME représente 0,4 % des dépenses de l’assurance maladie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    {
+      "auteur": "Claude Goasguen (Les Républicains)",
+      "resume": "À l'inverse, pour une partie de la droite, la mesure est trop timide : sans contrôles ni sanctions, ce n'est pas une vraie réforme de l'AME.",
+      "citation": "Pas de contrôle, pas de sanction, des mesures censées s’appliquer à des personnes dont on ne sait rien : je suis bien obligé de vous dire que vous ne faites aucune réforme de l’AME.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2276 du 7 novembre 2019) ; il a défendu en séance des sous-amendements contre le dispositif.",
+      "argument": "Il dénonce de nouveaux obstacles (délais, contrôles médicaux préalables) alors qu'une minorité des ayants droit recourt à l'AME, et y voit un message adressé à l'extrême droite.",
+      "citation": "Nous sommes hostiles au désir du Gouvernement de réduire l’accès à l’aide médicale d’État.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°2276) ; aucune déclaration retrouvée. À titre indicatif, le groupe La France insoumise, qu'il présidait, a voté contre (0-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+      "date": "2019-11-07"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°2276) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR, auquel il appartenait, a voté contre (0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+      "date": "2019-11-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée non inscrite, n'a pas pris part au vote (scrutin n°2276) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+      "date": "2019-11-07"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée non inscrite, n'a pas pris part au vote (scrutin n°2276) ; aucune déclaration datée retrouvée sur cet amendement.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+      "date": "2019-11-07"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non inscrit, n'a pas pris part au vote (scrutin n°2276) ; aucune déclaration retrouvée sur cet amendement.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+      "date": "2019-11-07"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre : son gouvernement a déposé et défendu l'amendement (ministre Agnès Buzyn) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État dans le gouvernement Philippe, auteur de l'amendement ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; les écologistes n'avaient pas de groupe à l'Assemblée en 2019.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+      "date": "2019-11-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté contre (0-3).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+      "date": "2019-11-07"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, président du groupe LR au Sénat ; aucune déclaration ni vote retrouvé sur cette mesure. PROXY : le groupe LR de l'Assemblée a voté pour (9-0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+      "date": "2019-11-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire (maire de Cannes) ; aucune déclaration retrouvée. PROXY : le groupe LR (son parti à l'époque) a voté pour (9-0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+      "date": "2019-11-07"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; il avait quitté LR fin 2017, donc pas de groupe servant de proxy ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+      "date": "2019-11-07"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2019 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2276",
+      "date": "2019-11-07"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur un amendement du gouvernement au projet de loi de finances pour 2020, et non sur une loi spécifique. Ce scrutin a été précédé du rejet d'amendements LR et RN qui voulaient restreindre l'AME aux soins urgents.",
+    "Paradoxe de lecture : la droite (LR) a voté pour tout en jugeant la mesure insuffisante ; la gauche a voté contre.",
+    "Philippe et Attal : position déduite de leur appartenance au gouvernement auteur de l'amendement.",
+    "La mise en œuvre (délai de neuf mois fixé par le décret n° 2020-1325) est postérieure au vote ; la référence exacte de l'article dans la loi de finances n'a pas été vérifiée."
+  ]
+}

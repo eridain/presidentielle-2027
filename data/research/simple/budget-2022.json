@@ -1,0 +1,18 @@
+{
+  "id": "budget-2022",
+  "questionSimple": "Faut-il adopter le budget 2022, le dernier du premier quinquennat d'Emmanuel Macron ?",
+  "enBref": "Ce budget est voté à quelques mois de l'élection présidentielle, à la sortie de la crise du covid. Il poursuit la suppression de la taxe d'habitation et augmente les moyens de l'armée, de la police et de la justice. Le gouvernement y ajoute un grand plan d'investissement, France 2030.",
+  "pourquoiPour": "Pour ses défenseurs, ce budget tient les promesses de baisse d'impôts et prépare l'avenir avec des investissements dans l'industrie et l'innovation.",
+  "pourquoiContre": "Pour la gauche, c'est un budget pour les riches qui oublie les salaires. Pour la droite, il creuse la dette avec des dépenses électoralistes.",
+  "ceQuiSestPasse": "Le budget a été adopté (348 voix pour, 205 contre).",
+  "lexique": [
+    {
+      "terme": "France 2030",
+      "definition": "Plan d'investissement de l'État dans l'industrie, l'énergie et l'innovation, annoncé en octobre 2021."
+    },
+    {
+      "terme": "Taxe d'habitation",
+      "definition": "Impôt local payé par les occupants d'un logement, supprimé pour les résidences principales."
+    }
+  ]
+}

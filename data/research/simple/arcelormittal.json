@@ -1,0 +1,18 @@
+{
+  "id": "arcelormittal",
+  "questionSimple": "Faut-il nationaliser ArcelorMittal France pour préserver la production d'acier dans le pays ?",
+  "enBref": "Le texte transfère à l'État l'entreprise ArcelorMittal France, qui produit de l'acier. Une commission fixerait la valeur de l'entreprise. Il répond à l'annonce par le groupe, au printemps 2025, de plus de 600 suppressions de postes en France.",
+  "pourquoiPour": "Pour ses défenseurs, la France doit continuer à produire son acier, indispensable à l'industrie et à la défense. Le groupe verse des dividendes tout en supprimant des emplois : l'État doit choisir les salariés plutôt que les actionnaires.",
+  "pourquoiContre": "Pour ses opposants, la crise vient du prix de l'énergie et de la concurrence mondiale, pas des actionnaires. Nationaliser coûterait 3 à 4 milliards d'euros ; il faut plutôt une réponse européenne et des usines plus compétitives.",
+  "ceQuiSestPasse": "Adopté par l'Assemblée (le RN s'abstenant), rejeté par le Sénat, puis réadopté par l'Assemblée, le texte n'était toujours pas définitif en juin 2026.",
+  "lexique": [
+    {
+      "terme": "Nationaliser",
+      "definition": "Faire passer une entreprise privée sous la propriété de l'État."
+    },
+    {
+      "terme": "Dividendes",
+      "definition": "Part des bénéfices d'une entreprise versée à ses actionnaires."
+    }
+  ]
+}

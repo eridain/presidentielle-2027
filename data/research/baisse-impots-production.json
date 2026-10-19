@@ -1,0 +1,211 @@
+{
+  "id": "baisse-impots-production",
+  "titre": "Baisse de 10 milliards des impôts de production",
+  "question": "Faut-il baisser les impôts de production des entreprises de 10 milliards d'euros par an (CVAE divisée par deux, taxe foncière industrielle réduite) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le vote du 20 octobre 2020 porte sur l'ensemble de la première partie (recettes) du projet de loi de finances pour 2021, en première lecture, qui porte le volet fiscal du plan France Relance. Sa mesure principale est une baisse pérenne de 10 milliards d'euros par an des impôts de production : l'article 8 de la loi divise par deux la cotisation sur la valeur ajoutée des entreprises (CVAE) en supprimant la part régionale, compensée aux régions par une fraction de TVA, et réduit les impôts fonciers des établissements industriels. La première partie a été adoptée par 349 voix contre 199 ; la loi de finances a été promulguée le 29 décembre 2020.",
+  "contexteSources": [
+    {
+      "titre": "BOFiP – Baisse des impôts de production : réduction de moitié du taux de CVAE (article 8 de la loi de finances pour 2021)",
+      "url": "https://bofip.impots.gouv.fr/bofip/12914-PGP.html/ACTU-2021-00116"
+    },
+    {
+      "titre": "Sénat – Question écrite n°18629 et réponse du ministre sur la baisse des impôts de production",
+      "url": "https://www.senat.fr/questions/base/2020/qSEQ201118629.html"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 20 octobre 2020 (explications de vote)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2991",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/loi_de_finances_pour_2021",
+  "argumentsPour": [
+    {
+      "auteur": "Alexandre Holroyd (LaREM)",
+      "resume": "Les impôts de production pèsent sur les salaires, l'investissement et l'emploi ; leur baisse dès janvier concerne 290 000 entreprises et soutient la relance.",
+      "citation": "En effet, les impôts de production pèsent sur les salaires, sur les investissements, donc sur les emplois de demain.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028",
+      "date": "2020-10-20"
+    },
+    {
+      "auteur": "Jean-Noël Barrot (MoDem)",
+      "resume": "Après le sauvetage, la relance : baisse des impôts de production, aides aux fonds propres et primes à l'embauche doivent permettre d'investir, recruter et relocaliser.",
+      "citation": "les entreprises pourront s’appuyer sur la baisse des impôts de production, sur les aides au renforcement des fonds propres et sur les primes à l’embauche pour investir, recruter et relocaliser",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028",
+      "date": "2020-10-20"
+    },
+    {
+      "auteur": "Christophe Naegelen (UDI et indépendants)",
+      "resume": "La baisse de 10 milliards est un point central : une relance n'est pas possible sans améliorer la compétitivité des entreprises et l'attractivité du territoire.",
+      "citation": "Je m’étonne de ceux qui considèrent que la diminuer n’est pas une priorité : comment imaginer mener une politique de relance sans améliorer la compétitivité des entreprises ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028",
+      "date": "2020-10-20"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Christine Pires Beaune (Socialistes)",
+      "resume": "Baisse pérenne accordée sans contrepartie (emploi, dividendes, paradis fiscaux) ; un plan de relance tourné vers l'offre au détriment des ménages et de la consommation.",
+      "citation": "Aucune contrepartie n’est demandée à cette baisse pérenne de 10 milliards d’euros.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028",
+      "date": "2020-10-20"
+    },
+    {
+      "auteur": "Sabine Rubin (La France insoumise)",
+      "resume": "Trente ans d'allègements pour les entreprises n'ont pas tenu leurs promesses ; la suppression d'impôts de production est un nouveau « cadeau » de 10 milliards.",
+      "citation": "En l’occurrence, les 10 balles dans la machine, ce sont les 10 milliards de nouveaux cadeaux aux entreprises, c’est-à-dire la suppression des impôts de production inscrite dans le budget.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028",
+      "date": "2020-10-20"
+    },
+    {
+      "auteur": "Jean-Paul Dufrègne (GDR)",
+      "resume": "Le Gouvernement refuse de taxer dividendes et GAFAM au nom de la stabilité, mais dépense sans contrôle ni contrepartie pour les grandes entreprises.",
+      "citation": "Mais lorsqu’il s’agit de dépenser pour les grandes entreprises ou pour les plus riches, sans contrôle et sans contreparties, la dette n’est soudainement plus un problème.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028",
+      "date": "2020-10-20"
+    },
+    {
+      "auteur": "Véronique Louwagie (LR)",
+      "resume": "LR vote contre une première partie financée à crédit et comportant des hausses de taxes, tout en saluant la baisse des impôts de production qu'il réclamait depuis 2017.",
+      "citation": "Au rayon des rares satisfactions, nous notons quand même la réduction des impôts de production, que les députés Les Républicains réclamaient sans discontinuer depuis 2017, et que vous nous aviez toujours refusée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028",
+      "date": "2020-10-20"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre la première partie du PLF 2021 (scrutin AN n°2991) ; son intervention du jour portait sur l'assassinat de Samuel Paty : argument = explication de vote du groupe LFI (Sabine Rubin).",
+      "argument": "Groupe LFI : trente ans d'allègements n'ont pas tenu leurs promesses ; la baisse des impôts de production est un nouveau cadeau de 10 milliards aux entreprises.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028",
+      "date": "2020-10-20"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°2991) ; pas d'intervention personnelle retrouvée : argument = explication de vote du groupe GDR (Jean-Paul Dufrègne).",
+      "argument": "Groupe GDR : des milliards pour les grandes entreprises sans contrôle ni contreparties, quand les propositions de la gauche pour les plus fragiles sont refusées.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028",
+      "date": "2020-10-20"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°2991) ; pas d'intervention personnelle retrouvée : argument = explication de vote du groupe LFI.",
+      "argument": "Groupe LFI : la baisse des impôts de production est un nouveau cadeau de 10 milliards aux entreprises.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028",
+      "date": "2020-10-20"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; EELV sans groupe à l'Assemblée en 2020, aucun proxy de groupe ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°2991) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2991",
+      "date": "2020-10-20"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. Proxy : le groupe Socialistes a voté contre à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a présenté le PLF 2021 et le plan de relance ; aucune prise de position personnelle retrouvée sur la mesure.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/questions/base/2020/qSEQ201118629.html",
+      "date": "2020-10-20"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "N'est plus Premier ministre depuis juillet 2020 (maire du Havre) ; aucune déclaration retrouvée sur ce vote.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "A voté pour l'ensemble de la première partie du PLF 2021 au Sénat (scrutin n°35 du 25 novembre 2020), dans la version modifiée par le Sénat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-35.html",
+      "date": "2020-11-25"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de la région Hauts-de-France (régions concernées par la suppression de la part régionale de CVAE) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; aucune déclaration retrouvée. Proxy : le groupe LR à l'Assemblée a voté contre la première partie tout en approuvant la baisse des impôts de production.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Députée non inscrite (RN), a voté contre (scrutin AN n°2991) ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2991",
+      "date": "2020-10-20"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Journaliste en 2020, sans mandat ni parti ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Député non inscrit (Debout la France), a voté contre (scrutin AN n°2991) ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2991",
+      "date": "2020-10-20"
+    }
+  },
+  "alertes": [
+    "Le scrutin porte sur l'ensemble de la première partie du PLF 2021, pas sur la seule baisse des impôts de production : le groupe LR a voté contre tout en saluant cette baisse, qu'il réclamait depuis 2017 ; un vote « contre » ne signifie donc pas toujours une opposition à la mesure.",
+    "Retailleau : vote au Sénat sur la première partie modifiée par la majorité sénatoriale, texte différent de celui de l'Assemblée.",
+    "Pour plusieurs députés (Le Pen, Dupont-Aignan, Batho), aucune explication personnelle n'a été retrouvée.",
+    "Philippe, Bertrand, Lisnard, Zemmour, Tondelier, Glucksmann : position non documentée ; les proxies de groupe mentionnés ne valent pas position."
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "reforme-paris-lyon-marseille",
+  "titre": "Réforme du mode d'élection à Paris, Lyon et Marseille (loi PLM, 2025)",
+  "question": "Faut-il réformer le mode d'élection municipale à Paris, Lyon et Marseille (élection directe du conseil municipal, fin du scrutin par secteurs) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Depuis la loi « PLM » de 1982, les électeurs de Paris, Lyon et Marseille votent par arrondissement ou secteur ; les élus de secteur désignent ensuite le conseil municipal, qui élit le maire, si bien qu'une liste peut l'emporter en étant minoritaire en voix. La proposition de loi de Sylvain Maillard (EPR), déposée en octobre 2024, instaure deux scrutins distincts et simultanés, l'un pour les conseillers d'arrondissement ou de secteur, l'autre pour les conseillers municipaux, et abaisse à 25 % la prime majoritaire de la liste arrivée en tête (contre 50 % ailleurs). Adoptée par l'Assemblée en première lecture le 9 avril 2025 (183 pour, 53 contre), rejetée deux fois par le Sénat, sans accord en commission mixte paritaire, elle a été adoptée en lecture définitive par l'Assemblée le 10 juillet 2025 (112 pour, 28 contre, 2 abstentions). Le Conseil constitutionnel l'a jugée conforme le 7 août 2025 ; loi du 11 août 2025, appliquée aux municipales de mars 2026.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 11 août 2025 réformant le mode de scrutin à Paris, Lyon et Marseille",
+      "url": "https://www.vie-publique.fr/loi/298090-loi-reforme-plm-mode-de-scrutin-municipales-paris-lyon-marseille"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 10 juillet 2025 (lecture définitive)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N013"
+    },
+    {
+      "titre": "Assemblée nationale – Scrutin n°1330 (première lecture, 9 avril 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1330"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/reformer_mode_election_membres_Conseil_Paris",
+  "argumentsPour": [
+    {
+      "auteur": "Sylvain Maillard (Ensemble pour la République, auteur)",
+      "resume": "Le mode de scrutin de 1982 est opaque et inégalitaire ; les habitants de ces trois villes pourront voter plus directement pour leur maire, comme partout en France.",
+      "citation": "en permettant aux électeurs de ces trois villes de voter plus directement pour leur maire, comme c'est le cas dans n'importe quelle autre commune de France, nous respectons davantage leur vote",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N013",
+      "date": "2025-07-10"
+    },
+    {
+      "auteur": "Gisèle Lelouis (Rassemblement national)",
+      "resume": "Le mode de scrutin créé sur mesure par Gaston Defferre est illisible et propice aux arrangements ; il a permis d'élire un maire minoritaire en voix.",
+      "citation": "Imaginé et créé sur mesure par Gaston Defferre en décembre 1982, ce mode de scrutin demeure une anomalie démocratique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N013",
+      "date": "2025-07-10"
+    },
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "Abaisser la prime majoritaire de 50 à 25 % rapproche de la proportionnelle et met fin à l'élection indirecte du conseil municipal.",
+      "citation": "En abaissant la prime majoritaire de 50 à 25 %, ce qui est considérable, nous faisons un pas vers la représentation proportionnelle.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N013",
+      "date": "2025-07-10"
+    },
+    {
+      "auteur": "Patrick Mignola (ministre chargé des relations avec le Parlement, gouvernement)",
+      "resume": "Le gouvernement veut rapprocher ces villes du droit commun et permettre de choisir à la fois le maire d'arrondissement et le maire central.",
+      "citation": "la volonté constante du gouvernement a été d'octroyer de nouveaux droits aux habitants de ces trois grandes villes de France.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N013",
+      "date": "2025-07-10"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Léa Balage El Mariky (Écologiste et social)",
+      "resume": "Réforme mal préparée, aux conséquences non mesurées, qui servirait des intérêts électoraux, notamment à Paris.",
+      "citation": "Depuis plusieurs mois, nous vous expliquons que cette réforme du mode de scrutin n'est ni faite ni à faire",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N013",
+      "date": "2025-07-10"
+    },
+    {
+      "auteur": "Marcellin Nadeau (Gauche démocrate et républicaine)",
+      "resume": "Réforme adoptée sans étude d'impact ni avis du Conseil d'État, à moins d'un an des élections, qui coupe le lien entre le maire central et les arrondissements.",
+      "citation": "Surtout, ce texte contrevient à une règle républicaine simple : on ne modifie pas les règles d'un scrutin à moins d'un an de l'élection.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N013",
+      "date": "2025-07-10"
+    },
+    {
+      "auteur": "Stéphane Delautrette (Socialistes)",
+      "resume": "Le texte crée des insécurités juridiques : un arrondissement pourrait n'avoir aucun élu au conseil central, et la prime majoritaire varie selon les échelons.",
+      "citation": "loin de répondre aux doutes et aux insécurités juridiques soulevées par nombre de collègues, a même réussi à en susciter de nouvelles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N013",
+      "date": "2025-07-10"
+    },
+    {
+      "auteur": "Stéphane Lenormand (LIOT)",
+      "resume": "Modifier le mode de scrutin dans l'année qui précède l'élection contredit le code électoral ; la réforme est déséquilibrée et centrée sur Paris.",
+      "citation": "Ces derniers mois, le Parlement a pris la mauvaise habitude de réformer dans la précipitation les règles de notre jeu démocratique moins d'un an avant des élections.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N013",
+      "date": "2025-07-10"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2022 ; aucune déclaration personnelle retrouvée. PROXY : le groupe LFI-NFP a voté pour (37 pour / 0 contre en lecture définitive).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "date": "2025-07-10"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 6 contre en première lecture ; 1 contre en lecture définitive).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "date": "2025-07-10"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absent des scrutins de première lecture et de lecture définitive ; aucune déclaration retrouvée. Son groupe Écologiste et social a voté contre (0 / 12).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "date": "2025-07-10"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration personnelle retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour / 12 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "date": "2025-07-10"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Absente en lecture définitive ; a voté contre en première lecture (scrutin n°1330 du 9 avril 2025) ; pas d'intervention retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1330",
+      "date": "2025-04-09"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté majoritairement contre (2 pour / 5 contre ; 2 / 22 en première lecture).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "date": "2025-07-10"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Absent en lecture définitive ; a voté pour en première lecture (scrutin n°1330) et contre la motion de rejet préalable (n°1309), président du groupe EPR dont est issu le texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1330",
+      "date": "2025-04-09"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons s'est abstenu en première lecture (0 / 0 / 12) puis a voté contre en lecture définitive (0 / 6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "date": "2025-07-10"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou, qui soutenait le texte (procédure accélérée, lecture définitive demandée) ; aucune déclaration personnelle retrouvée ; le Sénat, à majorité LR, a rejeté le texte deux fois.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.vie-publique.fr/loi/298090-loi-reforme-plm-mode-de-scrutin-municipales-paris-lyon-marseille",
+      "date": "2025-07-10"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. Le groupe Droite républicaine était partagé (14 pour / 1 contre / 2 abst. en première lecture).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "date": "2025-07-10"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "date": "2025-07-10"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absente des scrutins de première lecture et de lecture définitive ; aucune déclaration personnelle retrouvée. PROXY : le groupe RN a voté pour (57 / 0 en première lecture ; 32 / 0 en lecture définitive).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "date": "2025-07-10"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "date": "2025-07-10"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3018",
+      "date": "2025-07-10"
+    }
+  },
+  "alertes": [
+    "Majorité atypique : EPR, MoDem, RN, LFI et UDR pour ; PS, écologistes, GDR, Horizons et LIOT contre ; Droite républicaine partagée. Plusieurs opposants dénonçaient un calendrier à moins d'un an des municipales et des arrière-pensées électorales à Paris.",
+    "Faible participation en lecture définitive (142 votants) : la plupart des candidats députés étaient absents ; Attal et Batho sont positionnés d'après leur vote de première lecture.",
+    "Retailleau : position du gouvernement dont il était ministre de l'Intérieur, pas de déclaration personnelle ; les sénateurs LR ont rejeté le texte.",
+    "Bertrand/Lisnard : pas de proxy fiable, le groupe DR étant divisé."
+  ]
+}

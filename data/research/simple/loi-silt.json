@@ -1,0 +1,18 @@
+{
+  "id": "loi-silt",
+  "questionSimple": "Faut-il garder dans la loi ordinaire des pouvoirs antiterroristes créés pour l'état d'urgence ?",
+  "enBref": "Depuis les attentats de 2015, la France vivait sous l'état d'urgence, un régime d'exception. Cette loi y met fin mais garde plusieurs de ses outils. Exemples : zones de sécurité autour d'événements, fermeture de lieux de culte, surveillance de personnes jugées dangereuses.",
+  "pourquoiPour": "Pour ses défenseurs, il fallait sortir d'un régime d'exception devenu durable sans désarmer l'État. Le texte garde des outils utiles, limités dans le temps et contrôlés par le Parlement.",
+  "pourquoiContre": "À gauche, on y voit des pouvoirs d'exception rendus permanents, peu efficaces et contraires à la présomption d'innocence. À droite, on juge au contraire le texte trop faible face à la menace.",
+  "ceQuiSestPasse": "La loi a été promulguée le 30 octobre 2017. En 2018, le Conseil constitutionnel en a censuré une partie, sur les saisies lors des visites.",
+  "lexique": [
+    {
+      "terme": "État d'urgence",
+      "definition": "Régime d'exception qui donne temporairement des pouvoirs renforcés au gouvernement et aux préfets."
+    },
+    {
+      "terme": "Présomption d'innocence",
+      "definition": "Principe selon lequel une personne est considérée innocente tant qu'elle n'a pas été condamnée."
+    }
+  ]
+}

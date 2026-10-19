@@ -1,0 +1,18 @@
+{
+  "id": "enseignement-defense-ecole",
+  "questionSimple": "Faut-il renforcer l'enseignement de la défense nationale à l'école ?",
+  "enBref": "L'école enseigne déjà un peu la défense du pays. Ce texte crée un programme national précis, par âge, intégré aux cours d'histoire, de géographie et d'éducation civique. Les professeurs le donnent et peuvent inviter des réservistes de l'armée.",
+  "pourquoiPour": "Pour ses partisans, la Russie multiplie cyberattaques, sabotages et désinformation contre la France. Les jeunes doivent comprendre ces menaces et le rôle de chacun pour défendre le pays.",
+  "pourquoiContre": "Pour ses opposants, cet enseignement existe déjà mais manque de moyens, alors que des postes de professeurs sont supprimés. Ce ne serait pas la priorité d'une école en difficulté.",
+  "ceQuiSestPasse": "Adoptée en première lecture le 26 mars 2026 (39 voix contre 17), la proposition a été transmise au Sénat.",
+  "lexique": [
+    {
+      "terme": "Réserviste",
+      "definition": "Civil qui s'engage à servir dans l'armée quelques jours par an, en plus de son métier."
+    },
+    {
+      "terme": "Référentiel",
+      "definition": "Liste officielle des connaissances que les élèves doivent acquérir."
+    }
+  ]
+}

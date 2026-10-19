@@ -1,0 +1,18 @@
+{
+  "id": "budget-2025-recettes",
+  "questionSimple": "Faut-il adopter les recettes du budget 2025 réécrites par la gauche, avec beaucoup d'impôts nouveaux ?",
+  "enBref": "À l'automne 2024, les députés examinent la partie « recettes » du budget 2025 proposé par le gouvernement Barnier. Pendant les débats, la gauche a fait voter beaucoup d'impôts nouveaux, surtout sur les plus riches et les grandes entreprises. Le texte final n'était donc plus celui du gouvernement, qui s'y opposait.",
+  "pourquoiPour": "Pour ses défenseurs, ce texte faisait payer les plus riches et les grandes entreprises. Il permettait de réduire le déficit sans couper dans les services publics.",
+  "pourquoiContre": "Pour ses opposants, ce texte augmentait trop les impôts et contenait des mesures contraires à la Constitution ou aux règles européennes.",
+  "ceQuiSestPasse": "Le texte a été rejeté (192 voix pour, 362 contre). Le budget initial a été envoyé au Sénat.",
+  "lexique": [
+    {
+      "terme": "Première partie du budget",
+      "definition": "Partie du projet de loi de finances qui fixe les impôts et les recettes de l'État."
+    },
+    {
+      "terme": "Amendement",
+      "definition": "Modification d'un texte de loi proposée et votée par les parlementaires."
+    }
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "lopmi",
+  "titre": "LOPMI : programmation du ministère de l'Intérieur",
+  "question": "Faut-il consacrer 15 milliards d'euros supplémentaires au ministère de l'Intérieur sur 2023-2027 (LOPMI : policiers et gendarmes supplémentaires, amendes forfaitaires étendues) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi d'orientation et de programmation du ministère de l'Intérieur (LOPMI), porté par Gérald Darmanin, prévoit 15 milliards d'euros de crédits supplémentaires sur cinq ans (2023-2027), dont une part importante pour la modernisation numérique et la lutte contre la cybercriminalité, et la création de 8 500 postes de policiers et gendarmes. Il étend l'amende forfaitaire délictuelle (limitée à 29 délits par la commission mixte paritaire), durcit les peines pour refus d'obtempérer et crée un délit d'outrage sexiste et sexuel aggravé. Adopté en première lecture par le Sénat (octobre 2022) puis par l'Assemblée, le texte de la commission mixte paritaire a été voté par l'Assemblée le 7 décembre 2022 (365 pour, 102 contre, 28 abstentions) et définitivement par le Sénat le 14 décembre. Le Conseil constitutionnel l'a déclaré partiellement conforme (décision n° 2022-846 DC du 19 janvier 2023) ; la loi a été promulguée le 24 janvier 2023 (loi n° 2023-22).",
+  "contexteSources": [
+    {
+      "titre": "Sénat – Dossier législatif (décision 2022-846 DC, loi n° 2023-22)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl21-876.html"
+    },
+    {
+      "titre": "Public Sénat – LOPMI : la loi sécurité définitivement adoptée, que contient le texte ?",
+      "url": "https://www.publicsenat.fr/actualites/politique/la-loi-lopmi-definitivement-adoptee-que-contient-le-texte-231233"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°671",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/671"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/671",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/pjl21-876.html",
+  "argumentsPour": [
+    {
+      "auteur": "Marie Lebec (Renaissance)",
+      "resume": "Le compromis entre les deux chambres engage 15 milliards d'euros sur cinq ans au service des forces de sécurité et des personnels du ministère.",
+      "citation": "Ce que le Parlement s’apprête à approuver, c’est l’engagement de 15 milliards de crédits cumulés sur cinq ans",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    },
+    {
+      "auteur": "Ian Boucard (Les Républicains)",
+      "resume": "Le texte apporte des moyens et des effectifs supplémentaires aux forces de l'ordre et crée de nouvelles brigades de gendarmerie.",
+      "citation": "D’abord, 15 milliards d’euros supplémentaires seront alloués à nos forces de l’ordre, et plus largement au fonctionnement du ministère de l’intérieur",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    },
+    {
+      "auteur": "Jordan Guitton (Rassemblement national)",
+      "resume": "Le RN vote toute mesure améliorant le quotidien des forces de l'ordre, tout en jugeant nécessaires une réponse pénale forte et une politique migratoire ferme.",
+      "citation": "Ce texte est une petite avancée pour les forces de l’ordre et les Français, c’est pourquoi nous le voterons.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    },
+    {
+      "auteur": "Erwan Balanant (Démocrate)",
+      "resume": "Pour la première fois, une loi de programmation donne une vision globale sur cinq ans à l'ensemble du ministère de l'Intérieur.",
+      "citation": "Le présent projet de loi traduit le soutien de la puissance publique à nos forces de sécurité intérieure.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Élisa Martin (La France insoumise)",
+      "resume": "Les moyens peuvent être bienvenus, mais le texte ne repense ni les missions ni l'organisation de la police, ni le rapport à la population.",
+      "citation": "Pourtant, nous sommes passés à côté de l’essentiel.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    },
+    {
+      "auteur": "Davy Rimane (Gauche démocrate et républicaine)",
+      "resume": "Le groupe aurait préféré une police de proximité plutôt que des gardes mobiles et refuse l'extension des amendes forfaitaires aux blocages, faute de garanties.",
+      "citation": "Nous craignons des dérives –⁠ nous les observons d’ailleurs déjà : sur quels critères les policiers s’appuieront-ils pour infliger les amendes ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    },
+    {
+      "auteur": "Sandra Regol (Écologiste)",
+      "resume": "L'urgence tient au mal-être des agents (suicides, démissions) ; le texte ne prévoit pas le soutien psychologique et la formation réclamés.",
+      "citation": "Leur mal-être représente un danger, pour eux comme pour les citoyens –⁠ pour toute la République.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Roger Vicot (Socialistes)",
+      "resume": "La trajectoire budgétaire et la modernisation sont bienvenues, mais des désaccords demeurent (police judiciaire, formation, accueil des victimes) : le groupe s'abstient.",
+      "citation": "Par conséquent, comme en première lecture, les membres du groupe Socialistes et apparentés s’abstiendront.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis juin 2022 ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour / 65 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/671",
+      "date": "2022-12-07"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°671 du 7 décembre 2022) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe GDR (Davy Rimane).",
+      "argument": "Groupe GDR : priorité à une police de proximité plutôt qu'aux forces de maintien de l'ordre ; refus de l'extension des amendes forfaitaires faute de garanties contre les dérives.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°671) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe LFI-NUPES (Élisa Martin).",
+      "argument": "Groupe LFI : le texte passe à côté de l'essentiel, la refonte des missions et de l'organisation de la police.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale d'EELV, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté contre (0 pour / 16 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/671",
+      "date": "2022-12-07"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°671), membre du groupe Écologiste-NUPES ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe (Sandra Regol).",
+      "argument": "Groupe Écologiste : l'urgence est le mal-être des agents, et le texte ne prévoit pas le soutien psychologique ni les formations demandés.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée s'est abstenu (0 pour / 0 contre / 26 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/671",
+      "date": "2022-12-07"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics dans le gouvernement Borne, qui a porté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl21-876.html",
+      "date": "2022-12-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (23 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/671",
+      "date": "2022-12-07"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat sur le texte de la commission mixte paritaire (scrutin n°107 du 14 décembre 2022, liste « Pour » du groupe LR).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-107.html",
+      "date": "2022-12-14"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (54 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/671",
+      "date": "2022-12-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (54 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/671",
+      "date": "2022-12-07"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°671), présidente du groupe RN ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe (Jordan Guitton).",
+      "argument": "Groupe RN : une « petite avancée » pour les forces de l'ordre, insuffisante sans réponse pénale forte et politique migratoire ferme.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N087",
+      "date": "2022-12-07"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans mandat ; aucune déclaration retrouvée ; Reconquête n'avait pas de député.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/671",
+      "date": "2022-12-07"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°671), non-inscrit ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/671",
+      "date": "2022-12-07"
+    }
+  },
+  "alertes": [
+    "Mélenchon, non député depuis juin 2022 : aucune déclaration retrouvée, proxy de groupe uniquement.",
+    "Le texte a été largement soutenu par la majorité, LR et le RN ; le PS s'est abstenu en reconnaissant l'intérêt de la trajectoire budgétaire. Les 15 milliards sont des crédits cumulés supplémentaires sur cinq ans.",
+    "Chiffres d'effectifs : la question mentionne des « policiers et gendarmes supplémentaires » ; Public Sénat indique 8 500 postes en cinq ans, Ian Boucard (LR) évoque 8 000 policiers, gendarmes et douaniers.",
+    "Roussel, Ruffin, Batho, Le Pen : arguments tirés de l'explication de vote de leur groupe. Dupont-Aignan : aucune explication retrouvée.",
+    "Attal : position déduite de son appartenance au gouvernement. Retailleau : vote au Sénat sur le même texte de CMP."
+  ]
+}

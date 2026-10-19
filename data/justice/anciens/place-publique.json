@@ -1,0 +1,13 @@
+{
+ "partiId": "place-publique",
+ "condamnations": [],
+ "perimetre": {
+  "personnesVerifiees": 7,
+  "methode": "Liste des anciens dirigeants et cofondateurs ayant quitté Place publique établie d'après Wikipédia (section « Défections de cofondateurs du parti ») et BFMTV (13/04/2019) : Thomas Porcher (parti le 16/03/2019), Claire Nouvian (partie après juin 2019), Jo Spiegel (ancien coprésident), Diana Filippova, Lucas Chancel, Olivier Dubuquoy, Farid Benlagha. Recherches web « <nom> condamné / condamnation / diffamation », export Poligraph et données casier-politique/crapulopedia filtrés sur « Place publique » : aucune entrée.",
+  "limites": "Aucune condamnation trouvée dans les sources consultées, ce qui ne prouve pas l'absence de condamnation. Le parti a été fondé en novembre 2018. Aucun ancien parlementaire Place publique ayant quitté le parti n'a été identifié (les eurodéputés élus en 2019 et 2024 sous l'étiquette PP sont toujours membres). Cofondateurs sans fonction nationale formalisée (Nayla Ajaltouni, Vincent Carry, Thierry Kuhn) non vérifiés individuellement. Judilibre non consulté."
+ },
+ "alertes": [
+  "Jo Spiegel (ancien coprésident) est déjà traité dans place-publique.json (aucune condamnation trouvée). Son statut actuel de membre n'a pas été vérifié.",
+  "Les anciens membres du PS qui soutiennent le candidat Glucksmann sont traités dans anciens/ps.json."
+ ]
+}

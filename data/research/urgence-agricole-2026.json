@@ -1,0 +1,216 @@
+{
+  "id": "urgence-agricole-2026",
+  "titre": "Loi d'urgence agricole (2026)",
+  "question": "Faut-il adopter la loi d'urgence agricole de 2026 (retenues d'eau et projets d'élevage facilités, possibilité de suspendre les importations traitées avec des pesticides interdits en France) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Présenté par la ministre Annie Genevard dans le gouvernement Lecornu, le projet de loi d'urgence pour la protection et la souveraineté agricoles facilite le stockage de l'eau pour l'irrigation (retenues), la construction de bâtiments d'élevage, renforce la protection des troupeaux contre le loup et permet de suspendre l'importation de produits traités avec des substances interdites en France. Au Sénat, un article 2 quater a été ajouté pour autoriser par dérogation deux néonicotinoïdes interdits (acétamipride et flupyradifurone) pour certaines filières, mesure déjà censurée en 2025 dans la loi « Duplomb » ; l'Assemblée n'a pas pu voter sa suppression lors de la lecture des conclusions de la commission mixte paritaire. Le texte de CMP a été adopté le 20 juillet 2026 à l'Assemblée (296 pour, 224 contre, 41 abstentions), malgré des votes contre dans les groupes du socle commun, puis le 21 juillet au Sénat. Le Conseil constitutionnel (décision 2026-914 DC du 14 août 2026) a validé la dérogation sur les néonicotinoïdes avec réserves et censuré huit dispositions ; loi n° 2026-796 du 18 août 2026.",
+  "contexteSources": [
+    {
+      "titre": "Conseil constitutionnel – communiqué de la décision n° 2026-914 DC du 14 août 2026",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-914-dc-du-14-aout-2026-communique-de-presse"
+    },
+    {
+      "titre": "Légifrance – Loi n° 2026-796 du 18 août 2026 d'urgence pour la protection et la souveraineté agricoles",
+      "url": "http://legifrance.gouv.fr/jorf/id/JORFTEXT000054707007"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°8427",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/projet_loi_urgence_pour_protection_et_souverainete_agricoles",
+  "argumentsPour": [
+    {
+      "auteur": "Anne-Sophie Ronceret (Ensemble pour la République)",
+      "resume": "Rejeter le texte n'aboutirait qu'à davantage d'importations et à moins de souveraineté alimentaire ; le groupe vote majoritairement pour malgré ses divisions.",
+      "citation": "Le seul résultat garanti sera la hausse des importations et la dégradation de la souveraineté alimentaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N022",
+      "date": "2026-07-20"
+    },
+    {
+      "auteur": "David Magnier (Rassemblement national)",
+      "resume": "Le RN dit avoir amélioré le texte en CMP (stockage de l'eau, protection face à la concurrence) pour répondre à la détresse agricole.",
+      "citation": "Ces dispositions ne régleront pas toutes les difficultés, mais elles répondent à des attentes anciennes du monde agricole.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N022",
+      "date": "2026-07-20"
+    },
+    {
+      "auteur": "Vincent Descoeur (Droite républicaine)",
+      "resume": "Les retenues d'eau sont des retenues collinaires de bon sens face au dérèglement climatique, pas des mégabassines.",
+      "citation": "il s’agit bien de retenues collinaires, et en aucun cas de mégabassines.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N022",
+      "date": "2026-07-20"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Aurélie Trouvé (La France insoumise)",
+      "resume": "Le texte réintroduit des pesticides dangereux et organise un accaparement de l'eau au profit de l'irrigation intensive.",
+      "citation": "Car quand on décide d’exposer des millions de nos concitoyens à des pesticides dangereux, de détruire le partage de l’eau, alors la CMP ne doit pas rester un conclave.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N022",
+      "date": "2026-07-20"
+    },
+    {
+      "auteur": "Mélanie Thomin (Socialistes)",
+      "resume": "Le gouvernement a laissé réintroduire les pesticides malgré ses engagements ; le texte ne répond ni à l'urgence du revenu ni à celle du climat.",
+      "citation": "Parce que ce texte ne répond ni à l’urgence du revenu ni à celle du climat, le groupe Socialistes et apparentés votera contre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N022",
+      "date": "2026-07-20"
+    },
+    {
+      "auteur": "Julien Brugerolles (Gauche démocrate et républicaine)",
+      "resume": "La réintroduction de deux substances interdites est un déni de dangerosité, et la gestion partagée de l'eau est remise en cause.",
+      "citation": "Après la censure de la loi Duplomb, la réintroduction dérogatoire de deux substances interdites en France, l’acétamipride et le flupyradifurone, apparaît comme un flagrant déni de dangerosité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N022",
+      "date": "2026-07-20"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "David Taupiac (LIOT)",
+      "resume": "L'article 2 quater sur les néonicotinoïdes est une ligne rouge pour une majorité du groupe, qui se partage entre pour, contre et abstention.",
+      "citation": "Mais la ligne rouge, pour une majorité des députés de notre groupe, reste l’article 2 quater",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N022",
+      "date": "2026-07-20"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NFP a voté contre (0-71).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "date": "2026-07-20"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR a voté contre (0-15).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "date": "2026-07-20"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°8427 du 20 juillet 2026), siégeant au groupe Écologiste et social ; pas d'intervention personnelle retrouvée dans ce débat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "date": "2026-07-20"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social a voté contre (0-38).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "date": "2026-07-20"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°8427) ; intervenue lors de la séance contre l'article 2 quater.",
+      "argument": "Elle dénonce le retour forcé des néonicotinoïdes, interdits en France depuis dix ans, sans que l'Assemblée puisse voter leur suppression.",
+      "citation": "il faut rejeter l’ensemble du texte !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N022",
+      "date": "2026-07-20"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0-66-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "date": "2026-07-20"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°8427), président du groupe EPR (divisé : 51 pour, 15 contre, 16 abstentions) ; intervenu en séance pour dénoncer l'impossibilité de voter sur les amendements de suppression de l'article 2 quater.",
+      "argument": "Il juge le texte porteur de mesures attendues (prédation, eau, bâtiments d'élevage) mais regrette le refus de mettre en discussion la suppression de la dérogation sur les pesticides.",
+      "citation": "Ce texte contient des mesures importantes et attendues par nos agriculteurs concernant la prédation, l’eau, la capacité à construire des bâtiments agricoles ou des bâtiments d’élevage",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N022",
+      "date": "2026-07-20"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons & indépendants a voté majoritairement pour (24-3-4).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "date": "2026-07-20"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote pour le texte de la commission mixte paritaire au Sénat (scrutin n°340 du 21 juillet 2026) ; il avait aussi voté pour l'ensemble en première lecture (scrutin n°327 du 2 juillet 2026) et pour l'article 2 quater sur les néonicotinoïdes (scrutin n°322 du 29 juin 2026).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-340.html",
+      "date": "2026-07-21"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (48-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "date": "2026-07-20"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de Nouvelle Énergie ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (48-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "date": "2026-07-20"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°8427), présidente du groupe RN ; pas d'intervention personnelle, argument = position du groupe (David Magnier, Hélène Laporte).",
+      "argument": "Le groupe revendique des avancées obtenues en CMP sur le stockage de l'eau et la protection face à la concurrence déloyale.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N022",
+      "date": "2026-07-20"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "date": "2026-07-20"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée ; aucun proxy de groupe pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8427",
+      "date": "2026-07-20"
+    }
+  },
+  "alertes": [
+    "Le vote a porté sur le texte de CMP comprenant l'article 2 quater (dérogations pour l'acétamipride et le flupyradifurone), que l'Assemblée n'a pas pu supprimer : plusieurs votes, au centre comme à gauche, ont été déterminés par cette disposition plus que par les mesures sur l'eau ou l'élevage.",
+    "Votes divisés au sein du socle commun (EPR 51-15-16, Dem 19-11-6, Horizons 24-3-4) et de LIOT.",
+    "Attal : vote pour, tout en ayant protesté en séance contre l'impossibilité de voter la suppression de l'article 2 quater.",
+    "La décision 2026-914 DC est connue par le communiqué de presse du Conseil constitutionnel (commentaire à venir)."
+  ]
+}

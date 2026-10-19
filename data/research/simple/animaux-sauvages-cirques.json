@@ -1,0 +1,18 @@
+{
+  "id": "animaux-sauvages-cirques",
+  "questionSimple": "Faut-il interdire peu à peu les animaux sauvages dans les cirques qui voyagent et les spectacles de dauphins ?",
+  "enBref": "Les députés votent un article qui interdit progressivement les lions, tigres ou éléphants dans les cirques qui se déplacent. Il met aussi fin aux spectacles de dauphins et d'orques. Des délais sont prévus pour laisser le temps aux professionnels de s'adapter.",
+  "pourquoiPour": "Pour ses défenseurs, ces animaux souffrent d'être enfermés et transportés sans cesse. Beaucoup de pays les ont déjà interdits, et de nombreux cirques fonctionnent bien sans animaux.",
+  "pourquoiContre": "Pour ses opposants, surtout au sujet des dauphins, les parcs soignent bien leurs animaux et participent à la recherche et à la protection des espèces. Ils craignent qu'on finisse par fermer les zoos.",
+  "ceQuiSestPasse": "L'article a été adopté le 29 janvier 2021 ; la loi du 30 novembre 2021 prévoit la fin des delphinariums en 2026 et des animaux sauvages dans les cirques itinérants en 2028.",
+  "lexique": [
+    {
+      "terme": "Cirque itinérant",
+      "definition": "Cirque qui se déplace de ville en ville, par opposition à un cirque installé en un lieu fixe."
+    },
+    {
+      "terme": "Delphinarium",
+      "definition": "Bassin où des dauphins ou des orques sont présentés au public lors de spectacles."
+    }
+  ]
+}

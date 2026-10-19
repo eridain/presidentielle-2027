@@ -1,0 +1,71 @@
+{
+  "partiId": "ecologistes",
+  "personnes": [
+    {
+      "personne": "Gilles Lemaire",
+      "statutMembre": "depart",
+      "depuis": "2016-02-17",
+      "detail": "Ancien secrétaire national des Verts (2003-2005), il a démissionné d'EELV en février 2016 pour protester contre l'élection de David Cormand à la tête du parti, après plus de 16 ans d'adhésion.",
+      "lienAvecCondamnation": "non",
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "L'ancien patron des Verts Gilles Lemaire démissionne d'EELV (Le JDD)",
+          "url": "https://www.lejdd.fr/Politique/L-ancien-patron-des-Verts-Gilles-Lemaire-demissionne-d-EELV-773407",
+          "citation": "INFO JDD - L'ancien secrétaire national des Verts, Gilles Lemaire, a démissionné d'Europe Ecologie - Les Verts. Il dénonce notamment les conditions de l'élection de David Cormand à la tête du parti",
+          "date": "2016-02-17"
+        }
+      ]
+    },
+    {
+      "personne": "Jean-Luc Bennahmias",
+      "statutMembre": "depart",
+      "depuis": "2007",
+      "detail": "Ancien secrétaire national des Verts, il quitte le parti en 2007 pour devenir vice-président du MoDem (2007-2014), puis fonde le Front démocrate ; sa condamnation de 2024 concerne sa période MoDem.",
+      "lienAvecCondamnation": "non",
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Jean-Luc Bennahmias — Wikipédia (consulté le 18/10/2026)",
+          "url": "https://fr.wikipedia.org/wiki/Jean-Luc_Bennahmias",
+          "citation": "Après le scrutin, il annonce son départ pour le Mouvement démocrate de François Bayrou",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Jean-Luc Bennahmias — Wikipédia (consulté le 18/10/2026)",
+          "url": "https://fr.wikipedia.org/wiki/Jean-Luc_Bennahmias",
+          "citation": "Il quitte le MoDem en 2014 pour fonder son propre parti de centre-gauche, le Front démocrate.",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Yannick Jadot",
+      "statutMembre": "suspendu",
+      "depuis": "2026-09-25",
+      "detail": "Sénateur de Paris, suspendu à titre conservatoire de son statut d'adhérent des Écologistes le 25 septembre 2026, pour trois mois, en raison de son soutien à Raphaël Glucksmann pour la présidentielle de 2027.",
+      "lienAvecCondamnation": "non",
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : Yannick Jadot suspendu à titre conservatoire par Les Ecologistes en raison de son soutien à la candidature de Raphaël Glucksmann (Le Monde)",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/25/presidentielle-2027-yannick-jadot-suspendu-a-titre-conservatoire-par-les-ecologistes-en-raison-de-son-soutien-a-la-candidature-de-raphael-glucksmann_6782601_823448.html",
+          "citation": "\"Le secrétariat exécutif a décidé de te suspendre de ton statut d'adhérent à titre conservatoire. Cette suspension commence à ce jour et est d'une durée de trois mois\"",
+          "date": "2026-09-25"
+        },
+        {
+          "titre": "Yannick Jadot suspendu temporairement des Ecologistes après avoir soutenu Raphaël Glucksmann pour la présidentielle (franceinfo)",
+          "url": "https://www.franceinfo.fr/politique/ps/primaire-a-gauche/yannick-jadot-suspendu-temporairement-des-ecologistes-pour-son-soutien-a-raphael-glucksmann_8209919.html",
+          "citation": "Cette décision a été prise \"en raison de son soutien officiel à un autre candidat que la personne désignée par le parti\"",
+          "date": "2026-09-25"
+        }
+      ]
+    }
+  ],
+  "alertes": [
+    "Gilles Lemaire : l'infobox Wikipédia indique toujours « EELV (depuis 2010) », contredite par le JDD (démission en février 2016) ; aucune réadhésion trouvée. Statut « depart » retenu sur la foi du JDD.",
+    "Jean-Luc Bennahmias : Wikipédia mentionne une appartenance « PP (2021-) » sans précision ; parti actuel non vérifié. Procès en appel (affaire des assistants du MoDem) : décision attendue le 17/12/2026.",
+    "Yannick Jadot : suspension conservatoire de trois mois (jusqu'à fin décembre 2026 environ), sans lien avec sa condamnation de 2006 (antérieure à son adhésion, quand il était à Greenpeace) ; aucune exclusion ni départ trouvé au 18/10/2026. Il se dit « écologiste » et reste sénateur du groupe écologiste.",
+    "Aucune réaction des Verts/Écologistes aux condamnations elles-mêmes n'a été trouvée pour ces trois personnes."
+  ]
+}

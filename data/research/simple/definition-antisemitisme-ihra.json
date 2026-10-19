@@ -1,0 +1,22 @@
+{
+  "id": "definition-antisemitisme-ihra",
+  "questionSimple": "Faut-il que les députés approuvent, sans effet juridique, la définition de l'antisémitisme proposée par l'IHRA ?",
+  "enBref": "Les députés votent une résolution, c'est-à-dire un avis sans effet obligatoire. Elle reprend une définition de l'antisémitisme écrite par une organisation internationale de mémoire de la Shoah. Le débat porte surtout sur le lien avec l'antisionisme.",
+  "pourquoiPour": "Pour ses défenseurs, cette définition aide à reconnaître la haine des juifs quand elle se cache derrière l'antisionisme. Elle n'empêche pas de critiquer la politique du gouvernement israélien.",
+  "pourquoiContre": "Pour ses opposants, elle mélange antisionisme et antisémitisme et pourrait faire passer des critiques d'Israël pour de l'antisémitisme. Toutes les haines devraient être combattues de la même façon.",
+  "ceQuiSestPasse": "La résolution a été adoptée le 3 décembre 2019 par 154 voix contre 72 ; elle n'a pas d'effet juridique contraignant.",
+  "lexique": [
+    {
+      "terme": "IHRA",
+      "definition": "Alliance internationale pour la mémoire de l'Holocauste, qui a adopté cette définition en 2016."
+    },
+    {
+      "terme": "Résolution",
+      "definition": "Texte voté par une assemblée pour exprimer un avis, sans valeur de loi."
+    },
+    {
+      "terme": "Antisionisme",
+      "definition": "Opposition au sionisme, projet d'un État pour le peuple juif, ou à l'État d'Israël."
+    }
+  ]
+}

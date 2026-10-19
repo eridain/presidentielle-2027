@@ -1,0 +1,221 @@
+{
+  "id": "assurance-chomage-2022",
+  "titre": "Réforme de l'assurance chômage (2022)",
+  "question": "Faut-il permettre au gouvernement de moduler les règles de l'assurance chômage selon la conjoncture et priver d'indemnisation les salariés qui abandonnent leur poste ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi « marché du travail » prolonge les règles d'assurance chômage issues de la réforme de 2019-2021 et autorise le gouvernement à les fixer par décret jusqu'à fin 2023, ouvrant la voie à une modulation de l'indemnisation selon la situation du marché du travail. Lors de l'examen à l'Assemblée, des amendements de la majorité et de LR ont assimilé l'abandon de poste à une démission, ce qui prive de l'allocation chômage ; le texte comporte aussi un volet sur la validation des acquis de l'expérience (VAE). Le Sénat y a ajouté la perte d'indemnisation après deux refus de CDI en un an à l'issue d'un CDD ou d'un intérim. Saisi par plus de soixante députés, le Conseil constitutionnel a jugé la loi conforme (décision n° 2022-844 DC du 15 décembre 2022) ; elle a été promulguée le 21 décembre 2022 (loi n° 2022-1598).",
+  "contexteSources": [
+    {
+      "titre": "Franceinfo – Réforme de l'assurance-chômage : ce que contient le texte adopté par le Parlement",
+      "url": "https://www.franceinfo.fr/economie/emploi/chomage/reforme-de-l-assurance-chomage-ce-que-contient-le-texte-adopte-par-le-parlement_5482383.html"
+    },
+    {
+      "titre": "Sénat – Fonctionnement du marché du travail en vue du plein emploi (étapes, décision du Conseil constitutionnel, promulgation)",
+      "url": "https://www.senat.fr/salle-de-presse/202210/fonctionnement-du-marche-du-travail-en-vue-du-plein-emploi.html"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/mesures_urgence_fonctionnement_marche_travail"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/236",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/mesures_urgence_fonctionnement_marche_travail",
+  "argumentsPour": [
+    {
+      "auteur": "Astrid Panosyan-Bouvet (Renaissance)",
+      "resume": "Le texte vise l'emploi stable et l'équilibre : malus pour les entreprises abusant des CDD, lutte contre les abandons de poste injustifiés, simplification de la VAE.",
+      "citation": "grâce au malus appliqué aux entreprises qui abusent des CDD, ou à l’égard de l’employeur, en luttant contre les abandons de poste injustifiés",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N012",
+      "date": "2022-10-11"
+    },
+    {
+      "auteur": "Philippe Vigier (Démocrate)",
+      "resume": "Le texte garantit la continuité de l'indemnisation et prépare des règles contracycliques : moins généreuses quand l'emploi va bien, plus quand la situation se dégrade.",
+      "citation": "Ce texte mettra en place de nouvelles règles contracycliques : il faut indemniser moins lorsque tout va bien et davantage lorsque la situation est mauvaise.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N012",
+      "date": "2022-10-11"
+    },
+    {
+      "auteur": "Stéphane Viry (Les Républicains)",
+      "resume": "Texte jugé décevant mais nécessaire pour continuer à indemniser les chômeurs ; LR a fait adopter la disposition sur l'abandon de poste et souhaite une réforme plus ambitieuse.",
+      "citation": "Contraints par la nécessité de continuer à indemniser les chômeurs, nous le voterons par esprit de responsabilité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N012",
+      "date": "2022-10-11"
+    },
+    {
+      "auteur": "Frédéric Valletoux (Horizons)",
+      "resume": "Le texte est présenté comme un équilibre, privilégiant le dialogue social pour fixer les nouvelles règles et renforçant la validation des acquis de l'expérience.",
+      "citation": "Le texte qui nous est soumis traduit une position d’équilibre",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N012",
+      "date": "2022-10-11"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Mathilde Panot (LFI-NUPES)",
+      "resume": "Le texte rendrait les chômeurs responsables du chômage, après une précédente réforme ayant réduit les droits de nombreux allocataires.",
+      "citation": "Le chômage, c’est la faute des chômeurs, au boulot, les fainéants : voilà comment résumer, en substance, les propos que vous jetez à la figure des six millions de chômeurs du pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N012",
+      "date": "2022-10-11"
+    },
+    {
+      "auteur": "Laure Lavalette (Rassemblement national)",
+      "resume": "Durcir l'indemnisation ne ramènerait pas les chômeurs vers l'emploi ; il faudrait plutôt revaloriser les métiers et les salaires.",
+      "citation": "Nul n’a besoin d’une boule de cristal pour affirmer que ce n’est pas en durcissant les règles d’indemnisation qu’on ramènera les chômeurs sur le chemin du travail !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N012",
+      "date": "2022-10-11"
+    },
+    {
+      "auteur": "Arthur Delaporte (Socialistes)",
+      "resume": "Le gouvernement contourne la négociation entre partenaires sociaux et demande au Parlement un « chèque en blanc » pour réformer par décret.",
+      "citation": "Vous refusez la négociation, vous mettez fin à soixante-quatre ans de paritarisme et vous nous demandez aujourd’hui de voter un chèque en blanc pour réformer sans contrainte et par décret.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N012",
+      "date": "2022-10-11"
+    },
+    {
+      "auteur": "Olivier Serva (LIOT)",
+      "resume": "Le lien entre règles d'indemnisation et conjoncture n'est pas démontré, et les indicateurs retenus restent inconnus ; une prorogation temporaire aurait suffi.",
+      "citation": "les débats qui ont eu lieu ces dernières semaines ne nous ont pas convaincus de la pertinence de lier les règles d’indemnisation à la conjoncture économique",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N012",
+      "date": "2022-10-11"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas député en octobre 2022 ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NUPES a voté contre à l'unanimité (0 pour / 73 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/236",
+      "date": "2022-10-11"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°236) ; aucune intervention personnelle retrouvée, argument = explication de vote de son groupe GDR-NUPES (Pierre Dharréville).",
+      "argument": "L'assurance chômage est un droit lié au travail, qui ne doit pas varier selon la conjoncture ; la réforme est jugée injuste et inefficace face aux difficultés de recrutement.",
+      "citation": "L’assurance chômage n’est pas un levier de la politique de l’emploi ; c’est un droit. Ce droit ne doit pas être flou et flottant, variable au gré de la conjoncture, il doit être stable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N012",
+      "date": "2022-10-11"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°236) ; intervention en séance le 3 octobre 2022.",
+      "argument": "La réforme pénaliserait des travailleurs précaires de « deuxième ligne » (assistantes maternelles, aides à domicile, saisonniers) déjà touchés par la réforme précédente.",
+      "citation": "Notre pays tout entier repose aujourd’hui sur ces femmes et ces hommes que nos économies reconnaissent et rémunèrent si mal.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-lundi-03-octobre-2022",
+      "date": "2022-10-03"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire (secrétaire nationale d'EELV à partir de décembre 2022) ; aucune déclaration spécifique vérifiée. PROXY : le groupe Écologiste-NUPES a voté contre à l'unanimité (0 pour / 23 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/236",
+      "date": "2022-10-11"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°236) ; aucune intervention personnelle retrouvée, argument = explication de vote de son groupe Écologiste-NUPES (Marie-Charlotte Garin).",
+      "argument": "La réforme viserait surtout des économies au prix d'une précarité accrue ; la présomption de démission en cas d'abandon de poste est critiquée.",
+      "citation": "Avec ce texte, vous cherchez surtout à faire des économies, peu importe le prix !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N012",
+      "date": "2022-10-11"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte national ; aucune déclaration spécifique vérifiée. PROXY : le groupe Socialistes de l'Assemblée, allié de Place publique, a voté contre (0 pour / 31 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/236",
+      "date": "2022-10-11"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics dans le gouvernement Borne, qui a présenté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/mesures_urgence_fonctionnement_marche_travail",
+      "date": "2022-10-11"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire en 2022 (président d'Horizons) ; aucune déclaration spécifique vérifiée. PROXY : le groupe Horizons a voté pour à l'unanimité (30 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/236",
+      "date": "2022-10-11"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour le texte issu de la commission mixte paritaire au Sénat (scrutin public n°56 du 17 novembre 2022) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-56.html",
+      "date": "2022-11-17"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique vérifiée. PROXY : le groupe LR de l'Assemblée a voté pour (58 pour / 3 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/236",
+      "date": "2022-10-11"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique vérifiée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (58 pour / 3 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/236",
+      "date": "2022-10-11"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°236) ; intervention en séance le 5 octobre 2022.",
+      "argument": "Elle rejette une « philosophie » rendant les chômeurs responsables de leur situation et attribue le déficit aux charges imposées par l'État, tout en soutenant des mesures contre le refus de CDI après un CDD.",
+      "citation": "Cette philosophie, je la connais : elle consiste à dire que si les gens sont au chômage, c’est de leur faute.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-05-octobre-2022",
+      "date": "2022-10-05"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; Reconquête n'avait aucun député en octobre 2022, donc pas de proxy de groupe ; aucune déclaration spécifique vérifiée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/236",
+      "date": "2022-10-11"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°236) en tant que non-inscrit ; aucune intervention ni déclaration personnelle retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/236",
+      "date": "2022-10-11"
+    }
+  },
+  "alertes": [
+    "La question proposée a été précisée : le texte voté le 11 octobre 2022 ne fixe pas lui-même la modulation de la durée d'indemnisation ; il habilite le gouvernement à fixer les règles par décret (modulation mise en œuvre ensuite par décret). La disposition sur l'abandon de poste figurait déjà dans le texte voté par l'Assemblée ; celle sur le refus de CDI a été ajoutée au Sénat.",
+    "Le Pen a voté contre l'ensemble mais a défendu en séance des amendements durcissant l'accès à l'indemnisation après refus d'un CDI ; sa position est donc nuancée.",
+    "Retailleau : vote retenu = scrutin final du Sénat sur les conclusions de la CMP (17 novembre 2022), il figure dans la liste « Pour » du groupe LR ; le vote de première lecture au Sénat (25 octobre 2022) n'a pas été vérifié.",
+    "La page de la décision du Conseil constitutionnel n'a pas pu être ouverte (erreur de connexion) ; la conformité est sourcée par la page du Sénat.",
+    "Tondelier : une interview de 2024 (actu.fr) évoque l'« abrogation de la réforme de l'assurance chômage » dans le programme du Nouveau Front populaire, mais sans préciser laquelle des réformes ; non retenue comme position sur ce texte.",
+    "Mélenchon, Glucksmann, Philippe, Bertrand, Lisnard, Zemmour : aucune déclaration spécifique trouvée et vérifiée ; positions « inconnu » avec proxy de groupe quand il existe.",
+    "Attal : position déduite de son appartenance au gouvernement (donnée tasks.json), sans déclaration personnelle vérifiée ; la page citée (dossier AN) ne le nomme pas."
+  ]
+}

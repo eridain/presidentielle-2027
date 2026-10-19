@@ -1,0 +1,212 @@
+{
+  "id": "acceleration-renouvelables",
+  "titre": "Accélération des énergies renouvelables (2023)",
+  "question": "Faut-il accélérer l'installation des énergies renouvelables (zones d'accélération, procédures simplifiées pour l'éolien et le solaire) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi vise à rattraper le retard de la France sur ses objectifs d'énergies renouvelables : les communes peuvent définir des zones d'accélération (et d'exclusion) des projets, les procédures sont simplifiées et raccourcies, certains projets peuvent être reconnus d'« intérêt public majeur », et le photovoltaïque est encouragé sur les parkings et terrains déjà artificialisés. L'Assemblée l'a adopté en première lecture le 10 janvier 2023 (286 pour, 238 contre, 35 abstentions) ; le texte de la commission mixte paritaire a été adopté le 31 janvier par l'Assemblée et le 7 février 2023 par le Sénat. Le Conseil constitutionnel a censuré onze articles pour défaut de portée normative ou comme cavaliers (décision 2023-848 DC) ; loi n° 2023-175 du 10 mars 2023.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 10 mars 2023 relative à l'accélération de la production d'énergies renouvelables",
+      "url": "https://www.vie-publique.fr/loi/286391-energies-renouvelables-loi-du-10-mars-2023"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N46539"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°823",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N46539",
+  "argumentsPour": [
+    {
+      "auteur": "Bruno Millienne (Démocrate)",
+      "resume": "Le texte réduit les délais des projets renouvelables par la simplification des procédures, pour le climat et pour réduire la dépendance aux fossiles importées.",
+      "citation": "Ce texte est crucial aussi au regard de notre souveraineté, car nous ne pouvons pas accepter que notre consommation d’énergie finale dépende toujours plus",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N109",
+      "date": "2023-01-10"
+    },
+    {
+      "auteur": "Vincent Thiébaut (Horizons)",
+      "resume": "Les élus locaux pourront définir des zones d'accélération et d'exclusion, avec un référent préfectoral et un soutien économique aux projets.",
+      "citation": "Désormais, ces derniers pourront instaurer des zones d’accélération et d’exclusion de projets d’énergies renouvelables.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N109",
+      "date": "2023-01-10"
+    },
+    {
+      "auteur": "Stéphane Delautrette (Socialistes)",
+      "resume": "Après négociation avec le gouvernement, le groupe estime avoir levé ses « lignes rouges » et enrichi le texte, tout en gardant des réserves.",
+      "citation": "car nous avons non seulement pu lever nos lignes rouges, mais aussi ajouter au texte des dispositions importantes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N109",
+      "date": "2023-01-10"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Nicolas Meizonnet (Rassemblement national)",
+      "resume": "Le texte multiplierait éoliennes et panneaux solaires au détriment des paysages, de la biodiversité, de la valeur des biens des riverains et du modèle électrique nucléaire.",
+      "citation": "Des milliers de personnes, souvent issues de milieux modestes, verront la valeur foncière de leur bien s’effondrer.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N109",
+      "date": "2023-01-10"
+    },
+    {
+      "auteur": "Emmanuel Maquet (Les Républicains)",
+      "resume": "Les renouvelables intermittentes coûteraient cher au réseau et au pouvoir d'achat ; LR privilégie le nucléaire, électricité bas-carbone pilotable.",
+      "citation": "Une énergie ni efficace, ni pilotable, ni abondante, ni prévisible.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N109",
+      "date": "2023-01-10"
+    },
+    {
+      "auteur": "Maxime Laisney (La France insoumise)",
+      "resume": "Le texte organiserait la marchandisation des renouvelables au lieu d'une planification publique et d'une structuration des filières.",
+      "citation": "ce n’est pas une loi d’accélération de la production d’énergies renouvelables qui est soumise à notre vote mais une loi d’accélération de la marchandisation des énergies renouvelables.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N109",
+      "date": "2023-01-10"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Charles Fournier (Écologiste)",
+      "resume": "Les écologistes soutiennent l'objectif mais refusent des projets au détriment de la biodiversité et des terres agricoles (raison impérative d'intérêt public majeur, photovoltaïque au sol).",
+      "citation": "Madame la ministre, nous l’avons dit et répété : pour les écologistes, le climat, la biodiversité et la souveraineté alimentaire sont des combats de même importance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N109",
+      "date": "2023-01-10"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2023 ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0-70).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823",
+      "date": "2023-01-10"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°823) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe GDR-NUPES a voté contre (0-21).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823",
+      "date": "2023-01-10"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°823 du 10 janvier 2023) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe LFI-NUPES (Maxime Laisney).",
+      "argument": "Le groupe dénonce une logique de marché plutôt qu'une planification publique des renouvelables.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N109",
+      "date": "2023-01-10"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale d'EELV, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste-NUPES s'est abstenu (0-0-22).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823",
+      "date": "2023-01-10"
+    },
+    "batho": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°823) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe Écologiste-NUPES (Charles Fournier).",
+      "argument": "Le groupe soutient le développement des renouvelables mais refuse qu'il se fasse au détriment de la biodiversité et des terres agricoles.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N109",
+      "date": "2023-01-10"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (28-0-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823",
+      "date": "2023-01-10"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics dans le gouvernement Borne, qui a porté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N46539",
+      "date": "2023-01-10"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre et président d'Horizons, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons a voté pour (23-0-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823",
+      "date": "2023-01-10"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Vote contre le texte de la commission mixte paritaire au Sénat (scrutin n°125 du 7 février 2023) ; il avait voté pour la version du Sénat en première lecture (scrutin n°29 du 4 novembre 2022, https://www.senat.fr/scrutin-public/2022/scr2022-29.html).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-125.html",
+      "date": "2023-02-07"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (1-56-4).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823",
+      "date": "2023-01-10"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (1-56-4).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823",
+      "date": "2023-01-10"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°823), présidente du groupe RN ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe RN (Nicolas Meizonnet).",
+      "argument": "Le groupe refuse la multiplication des éoliennes et panneaux solaires, au nom des paysages, de la biodiversité, des riverains et du modèle électrique nucléaire.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N109",
+      "date": "2023-01-10"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député en 2023 ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823",
+      "date": "2023-01-10"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°823), député non inscrit ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/823",
+      "date": "2023-01-10"
+    }
+  },
+  "alertes": [
+    "Le scrutin n°823 est le vote de première lecture (10 janvier 2023) ; le texte de CMP a ensuite été adopté le 31 janvier 2023 à l'Assemblée.",
+    "Retailleau : vote pour en première lecture au Sénat, puis contre le texte de CMP ; la position retenue est celle du vote final.",
+    "Ruffin, Batho, Le Pen : aucune intervention personnelle retrouvée ; arguments = explications de leur groupe, sans citation personnelle.",
+    "Mélenchon, Tondelier, Glucksmann, Philippe, Bertrand, Lisnard : aucune déclaration retrouvée, positions « inconnu » avec proxy de groupe ; Zemmour sans proxy."
+  ]
+}

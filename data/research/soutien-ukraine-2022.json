@@ -1,0 +1,212 @@
+{
+  "id": "soutien-ukraine-2022",
+  "titre": "Soutien à l'Ukraine, condamnation de la Russie (2022)",
+  "question": "Faut-il affirmer le soutien de l'Assemblée à l'Ukraine et condamner la guerre menée par la Russie (résolution de novembre 2022) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Proposition de résolution n° 390, déposée le 28 octobre 2022 au titre de l'article 34-1 de la Constitution, sans valeur contraignante ; le gouvernement a réaffirmé en séance son « soutien indéfectible » à l'Ukraine. Première résolution de l'Assemblée depuis le début de l'invasion russe, elle affirme le soutien au peuple ukrainien et à sa résistance, condamne la guerre menée par la Russie et appelle à ce que les responsables des crimes commis rendent des comptes devant la justice internationale. Elle a été adoptée le 30 novembre 2022 par 303 voix contre 1 et 95 abstentions : les groupes RN et LFI-NUPES se sont abstenus, tous les autres groupes ont voté pour.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 30 novembre 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-30-novembre-2022"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/soutien_ukraine"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°652",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/soutien_ukraine",
+  "argumentsPour": [
+    {
+      "auteur": "Pieyre-Alexandre Anglade (Renaissance)",
+      "resume": "Pour la première fois depuis l'invasion, l'Assemblée affirme son soutien à la résistance ukrainienne et condamne sans ambiguïté la guerre russe ; les crimes devront être jugés.",
+      "citation": "Pour la première fois depuis le début de la guerre en Ukraine, l’Assemblée nationale entend, avec cette résolution, apporter son soutien au peuple ukrainien et à sa résistance face à l’agresseur russe",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-30-novembre-2022",
+      "date": "2022-11-30"
+    },
+    {
+      "auteur": "Benjamin Haddad (Renaissance)",
+      "resume": "Il ne peut y avoir de paix sans le rétablissement de la souveraineté ukrainienne : il faut soutenir l'Ukraine jusqu'à la reconquête de son territoire.",
+      "citation": "À travers cette proposition de résolution, nous appelons à soutenir les Ukrainiens jusqu’à la victoire et jusqu’à la reconquête de leur territoire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-30-novembre-2022",
+      "date": "2022-11-30"
+    },
+    {
+      "auteur": "André Chassaigne (GDR)",
+      "resume": "Malgré des lacunes (paix, solidarité avec les Russes opposés à la guerre), le groupe vote pour en signe de solidarité avec le peuple ukrainien.",
+      "citation": "Notre vote positif sur cette résolution est un signal de solidarité au peuple ukrainien.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-30-novembre-2022",
+      "date": "2022-11-30"
+    },
+    {
+      "auteur": "Nathalie Serre (Les Républicains)",
+      "resume": "Vote symbolique mais utile pour marquer à nouveau le soutien à l'Ukraine ; LR soutient l'appel à encourager la fin du conflit dans le respect de la souveraineté ukrainienne.",
+      "citation": "Ce vote reste bien entendu symbolique, mais il permet à l’Assemblée nationale de marquer une nouvelle fois son soutien à l’Ukraine.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-30-novembre-2022",
+      "date": "2022-11-30"
+    }
+  ],
+  "argumentsContre": [],
+  "argumentsAbstention": [
+    {
+      "auteur": "Nathalie Oziol (La France insoumise)",
+      "resume": "LFI soutient le peuple ukrainien et approuve le principe du texte, mais le juge insatisfaisant faute de priorité donnée au retour à la table des négociations.",
+      "citation": "Nous approuvons le principe d’une proposition de résolution réaffirmant le soutien de l’Assemblée nationale à l’Ukraine et condamnant la guerre menée par Poutine. Toutefois, nous jugeons que ce texte n’est pas pleinement satisfaisant.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-30-novembre-2022",
+      "date": "2022-11-30"
+    },
+    {
+      "auteur": "Laurence Robert-Dehault (Rassemblement national)",
+      "resume": "Le RN soutient le droit international et des livraisons d'armes défensives, mais critique des sanctions qui pèsent sur les Français et refuse d'aller plus loin dans les armes offensives.",
+      "citation": "Ce qui importe, ce n’est pas de multiplier les sanctions d’affichage mais bien d’exercer des pressions qui obligent le gouvernement russe à revenir à la table des négociations de paix",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-30-novembre-2022",
+      "date": "2022-11-30"
+    },
+    {
+      "auteur": "Jean-Philippe Tanguy (Rassemblement national)",
+      "resume": "Le RN reproche à la majorité un texte de division et juge que certains mots, comme « État promoteur du terrorisme », compliquent la paix.",
+      "citation": "De tels mots ne facilitent ni la paix ni la démocratie. Ils mettent de l’huile sur le feu d’une guerre déjà dévastatrice.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-30-novembre-2022",
+      "date": "2022-11-30"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2022 ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NUPES s'est abstenu (0 pour / 1 contre / 28 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+      "date": "2022-11-30"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°652) ; pas d'intervention personnelle retrouvée, argument = position du groupe GDR (André Chassaigne).",
+      "argument": "Le groupe GDR vote le texte en signe de solidarité avec le peuple ukrainien, tout en demandant de construire la paix.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-30-novembre-2022",
+      "date": "2022-11-30"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°652) ; aucune déclaration retrouvée. Indication : son groupe LFI-NUPES s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+      "date": "2022-11-30"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste-NUPES a voté pour (11 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+      "date": "2022-11-30"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°652) ; aucune déclaration retrouvée. Indication : le groupe Écologiste-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+      "date": "2022-11-30"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "vote_pe",
+      "detail": "Vote pour au Parlement européen la résolution du 23 novembre 2022 reconnaissant la Russie comme État soutenant le terrorisme (494 pour / 58 contre / 44 abst.) — texte distinct, de même orientation.",
+      "argument": null,
+      "citation": null,
+      "url": "https://howtheyvote.eu/votes/150459",
+      "date": "2022-11-23"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics ; le gouvernement Borne a soutenu la résolution (intervention de la secrétaire d'État Chrysoula Zacharopoulou) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-30-novembre-2022",
+      "date": "2022-11-30"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons a voté pour (25 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+      "date": "2022-11-30"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte propre à l'Assemblée, aucun vote du Sénat ni déclaration retrouvés. PROXY : le groupe LR de l'Assemblée a voté pour (43 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+      "date": "2022-11-30"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (43 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+      "date": "2022-11-30"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+      "date": "2022-11-30"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif abstention (scrutin AN n°652), présidente du groupe RN ; argument = explications du groupe (L. Robert-Dehault, J.-P. Tanguy).",
+      "argument": "Le RN soutient l'Ukraine et le droit international, mais critique les sanctions et refuse d'aller plus loin dans les livraisons d'armes offensives.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-30-novembre-2022",
+      "date": "2022-11-30"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat, Reconquête sans groupe parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+      "date": "2022-11-30"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°652) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/652",
+      "date": "2022-11-30"
+    }
+  },
+  "alertes": [
+    "Résolution de l'article 34-1, sans valeur contraignante.",
+    "Un seul vote contre (un député LFI) : aucun argument « contre » n'a été exprimé en séance ; les réserves figurent dans argumentsAbstention (LFI, RN).",
+    "Glucksmann : vote au Parlement européen sur une résolution différente (Russie État soutenant le terrorisme, 23 novembre 2022), relevé via l'API HowTheyVote.eu (https://howtheyvote.eu/api/votes/150459).",
+    "Attal : position déduite du soutien du gouvernement au texte en séance (avis de la secrétaire d'État), sans déclaration personnelle.",
+    "Ruffin, Batho, Dupont-Aignan : n'ont pas pris part au vote."
+  ]
+}

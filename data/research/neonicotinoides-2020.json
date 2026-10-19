@@ -1,0 +1,218 @@
+{
+  "id": "neonicotinoides-2020",
+  "titre": "Dérogation néonicotinoïdes pour la betterave sucrière",
+  "question": "Faut-il permettre, par dérogation temporaire (jusqu'en 2023), l'usage de semences de betteraves sucrières traitées aux néonicotinoïdes pour faire face à la jaunisse ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi permet au gouvernement d'accorder, jusqu'au 1er juillet 2023 au plus, des dérogations à l'interdiction des néonicotinoïdes (en vigueur depuis 2018), limitées aux semences de betteraves sucrières, face au virus de la jaunisse transmis par le puceron vert. L'Assemblée l'a adopté le 6 octobre 2020 (313 pour, 158 contre, 56 abstentions), avec des votes partagés au sein de la majorité. Définitivement adopté le 4 novembre 2020, le texte a été jugé conforme par le Conseil constitutionnel (décision n° 2020-809 DC) et promulgué le 14 décembre 2020 (loi n° 2020-1578). Après un arrêt de la Cour de justice de l'UE du 19 janvier 2023, le gouvernement a renoncé à une dérogation pour 2023.",
+  "contexteSources": [
+    {
+      "titre": "LCP – L'Assemblée vote un retour temporaire des néonicotinoïdes pour la betterave sucrière",
+      "url": "https://lcp.fr/actualites/l-assemblee-vote-un-retour-temporaire-des-neonicotinoides-pour-la-betterave-sucriere"
+    },
+    {
+      "titre": "Sénat – Dossier législatif (procédure, décision 2020-809 DC, promulgation)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl20-007.html"
+    },
+    {
+      "titre": "Conseil d'État – Néonicotinoïdes pour les betteraves sucrières",
+      "url": "https://www.conseil-etat.fr/actualites/neonicotinoides-pour-les-betteraves-sucrieres-leur-autorisation-temporaire-pour-2021-decoule-de-la-loi"
+    },
+    {
+      "titre": "Ministère de l'Agriculture – Communiqué après la décision de la CJUE (23 janvier 2023)",
+      "url": "https://agriculture.gouv.fr/decision-de-la-cour-de-justice-de-lunion-europeenne-relatif-lutilisation-des-neonicotinoides-pour-0"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2940",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/mise_sur_le_marche_de_certains_produits_phytopharmaceutiques_en_cas_de_danger_sanitaire",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-Baptiste Moreau (LaREM)",
+      "resume": "Le texte n'est pas une réautorisation générale mais une réponse limitée et encadrée (semences, trois ans, accord de trois ministres) pour éviter la disparition d'une filière d'environ 40 000 emplois.",
+      "citation": "ce projet de loi ne constitue pas une réautorisation pure et simple des néonicotinoïdes, mais une réponse pragmatique à la situation catastrophique dans laquelle se trouve la filière de la betterave sucrière française",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N008",
+      "date": "2020-10-06"
+    },
+    {
+      "auteur": "Julien Dive (LR)",
+      "resume": "Sauver les sucreries, l'emploi et la souveraineté alimentaire, avec une période transitoire bornée à 2023 et un conseil de surveillance des alternatives.",
+      "citation": "Ce projet de loi établit l’interdiction des néonicotinoïdes pour toutes les cultures mellifères et le fait que la filière de la betterave à sucre n’aura plus droit à une chance supplémentaire après 2023.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N008",
+      "date": "2020-10-06"
+    },
+    {
+      "auteur": "Bruno Millienne (MoDem)",
+      "resume": "L'interdiction de 2016 sans alternative a conduit à pulvériser des insecticides jugés plus nocifs (pyréthrinoïdes) ; il faut une solution de court terme le temps que la recherche aboutisse.",
+      "citation": "En tant que législateurs, nous devons nous en tenir à une ligne claire : pas d’interdiction sans solution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N008",
+      "date": "2020-10-06"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Delphine Batho (EDS)",
+      "resume": "Les néonicotinoïdes tuent abeilles, oiseaux et insectes, persistent des années dans les sols et les eaux ; il fallait plutôt indemniser les planteurs et accompagner l'agro-écologie.",
+      "citation": "Nous appelons chaque député à s’émanciper des camps, à faire le choix de la survie du vivant, à voter pour les abeilles, les papillons et les oiseaux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N008",
+      "date": "2020-10-06"
+    },
+    {
+      "auteur": "Dominique Potier (Socialistes)",
+      "resume": "Quatre ans ont été perdus depuis la loi de 2016 ; le groupe propose un « plan B » : assurance collective, indemnisation des pertes et innovation agro-écologique plutôt que la dérogation.",
+      "citation": "nous avons conçu un « plan B » comme un processus associant des innovations de marché",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N008",
+      "date": "2020-10-06"
+    },
+    {
+      "auteur": "Hubert Wulfranc (GDR)",
+      "resume": "Les difficultés de la filière viennent surtout de la fin des quotas sucriers en 2017 ; le texte est un recul environnemental et sanitaire, il faut plutôt compenser financièrement les pertes.",
+      "citation": "nous pensons quant à nous qu’il y a lieu de compenser les pertes de récolte en accordant un soutien financier aux planteurs",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N008",
+      "date": "2020-10-06"
+    },
+    {
+      "auteur": "Jean-Luc Mélenchon (LFI)",
+      "resume": "Décision dangereuse : l'essentiel du produit finit dans le sol et dans l'alimentation ; la filière souffre du libre-échange et de la fin des quotas, non d'un manque de pesticides.",
+      "citation": "Plus qu'une erreur, c'est une faute qui va se commettre",
+      "url": "https://lcp.fr/actualites/l-assemblee-vote-un-retour-temporaire-des-neonicotinoides-pour-la-betterave-sucriere",
+      "date": "2020-10-05"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°2940) ; président du groupe LFI, il a défendu la motion de rejet préalable.",
+      "argument": "Décision jugée dangereuse : 80 % du produit irait dans le sol, le reste dans l'alimentation ; la betterave serait « malade du libre-échange » et de la fin des quotas.",
+      "citation": "Plus qu'une erreur, c'est une faute qui va se commettre",
+      "url": "https://lcp.fr/actualites/l-assemblee-vote-un-retour-temporaire-des-neonicotinoides-pour-la-betterave-sucriere",
+      "date": "2020-10-05"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°2940) ; pas d'intervention personnelle trouvée, argument = explication de vote du groupe GDR (Hubert Wulfranc).",
+      "argument": "Groupe GDR : la crise vient de la libéralisation du marché du sucre ; la dérogation est un recul dangereux pour la biodiversité et la santé, il faut indemniser les planteurs.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N008",
+      "date": "2020-10-06"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°2940) ; position expliquée aux organisations agricoles de la Somme le 28 septembre 2020.",
+      "argument": "Plaide pour un autre modèle industriel, une indemnisation des pertes des betteraviers dans le budget, et regrette l'absence de contestation à Bruxelles des dérogations accordées ailleurs.",
+      "citation": "On doit étudier la possibilité de mettre en place un autre modèle industriel que celui qu'on connait aujourd'hui",
+      "url": "https://www.action-agricole-picarde.com/nni-ce-quont-vote-les-deputes-de-la-somme",
+      "date": "2020-09-28"
+    },
+    "tondelier": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire en 2020 ; position déclarée en 2026 contre l'acétamipride (autre néonicotinoïde réintroduit par dérogation), signataire de la pétition contre la loi Duplomb.",
+      "argument": "S'oppose à la réintroduction dérogatoire de l'acétamipride, jugé cancérigène, mutagène et reprotoxique ; défendra son interdiction dans son programme.",
+      "citation": null,
+      "url": "https://www.franceinfo.fr/environnement/loi-duplomb/autoriser-ou-interdire-l-acetamipride-on-a-demande-aux-principaux-candidats-a-la-presidentielle-leur-avis-sur-son-utilisation_8170565.html",
+      "date": "2026-09-03"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°2940) ; elle a porté l'explication de vote du groupe EDS en séance.",
+      "argument": "Remise en cause de 26 ans de combat contre des « poisons » qui tuent pollinisateurs et oiseaux, pour des enjeux économiques de court terme ; préférait indemniser les agriculteurs.",
+      "citation": "ce sont vingt-six ans d’efforts pour faire reconnaître les vérités scientifiques sur les impacts monstrueux de ces poisons qui seront remis en question par ce projet de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N008",
+      "date": "2020-10-06"
+    },
+    "glucksmann": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Eurodéputé, pas de vote sur ce texte national ; a dénoncé en juillet 2026 la réintroduction dérogatoire de l'acétamipride (loi d'urgence agricole).",
+      "argument": "Juge que la protection du vivant et de la santé devrait primer ; soutiendrait l'interdiction de l'acétamipride s'il était élu, selon son entourage.",
+      "citation": "la protection du vivant et de la santé ne sont pas des urgences apparemment",
+      "url": "https://www.franceinfo.fr/environnement/loi-duplomb/autoriser-ou-interdire-l-acetamipride-on-a-demande-aux-principaux-candidats-a-la-presidentielle-leur-avis-sur-son-utilisation_8170565.html",
+      "date": "2026-09-03"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État porte-parole du gouvernement qui a porté le projet de loi ; l'a défendu publiquement au lendemain du vote.",
+      "argument": "Dérogation « extraordinairement limitée et encadrée » pour préserver l'emploi de la filière ; pas de renoncement écologique compte tenu des 30 milliards du plan de relance.",
+      "citation": "Il me semble difficile aujourd'hui de parler de renoncement sur la question environnementale quand nous défendons le plan de relance qui prévoit plus de 30 milliards d'euros pour la transition écologique",
+      "url": "https://www.bfmtv.com/politique/neonicotinoides-pas-de-renoncement-du-gouvernement-sur-l-ecologie-selon-attal_AD-202010070203.html",
+      "date": "2020-10-07"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "N'était plus Premier ministre au moment du texte (gouvernement Castex) ; en 2026 son entourage soutient le maintien de la réintroduction dérogatoire de l'acétamipride (position indirecte, voir alertes).",
+      "argument": "Selon son entourage, « on maintient l'état du droit » permettant des dérogations, dans la ligne du vote d'Horizons sur la loi d'urgence agricole ; à Matignon il avait défendu l'interdiction.",
+      "citation": null,
+      "url": "https://www.franceinfo.fr/environnement/loi-duplomb/autoriser-ou-interdire-l-acetamipride-on-a-demande-aux-principaux-candidats-a-la-presidentielle-leur-avis-sur-son-utilisation_8170565.html",
+      "date": "2026-09-03"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat sur le texte final (scrutin n°15 du 4 novembre 2020), comme sur le texte en première lecture (scrutin n°8 du 27 octobre 2020).",
+      "argument": "Co-signataire en juillet 2020 d'une lettre ouverte au président demandant de rétablir les moyens de protection de la filière betteravière contre la jaunisse, au nom de la souveraineté alimentaire.",
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-15.html",
+      "date": "2020-11-04"
+    },
+    "bertrand": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Président de la région Hauts-de-France, co-signataire de la lettre ouverte de 103 élus « Halte au sabordage de la filière betteravière » (L'Opinion, 29 juillet 2020).",
+      "argument": "Sans protection contre le puceron, la filière (sucreries, 45 000 emplois) disparaîtrait alors que les pays voisins ont obtenu des dérogations ; il faut rétablir les moyens de protection.",
+      "citation": "Rétablissez les moyens de protection indispensables à cette filière !",
+      "url": "https://lopinion.fr/edition/economie/halte-sabordage-filiere-betteraviere-tribune-d-centaine-d-elus-221370",
+      "date": "2020-07-29"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration trouvée ; PROXY : le groupe LR (son parti en 2020) a voté majoritairement pour (67 pour, 21 contre, 9 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2940",
+      "date": "2020-10-06"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°2940) ; députée non-inscrite, aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2940",
+      "date": "2020-10-06"
+    },
+    "zemmour": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de mandat en 2020 ; en 2026 son parti Reconquête déclare préférer une autorisation de l'acétamipride sans dérogation (déclaration du parti, pas de propos personnels).",
+      "argument": "Reconquête juge que l'interdiction française a placé les agriculteurs en concurrence déloyale avec les voisins européens ; les dérogations sont « un moindre mal ».",
+      "citation": null,
+      "url": "https://www.franceinfo.fr/environnement/loi-duplomb/autoriser-ou-interdire-l-acetamipride-on-a-demande-aux-principaux-candidats-a-la-presidentielle-leur-avis-sur-son-utilisation_8170565.html",
+      "date": "2026-09-03"
+    },
+    "dupontaignan": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention lors du scrutin AN n°2940 ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2940",
+      "date": "2020-10-06"
+    }
+  },
+  "alertes": [
+    "Aucun orateur RN en explication de vote : les députés RN étaient non-inscrits en 2020 ; Marine Le Pen a voté pour sans explication personnelle retrouvée.",
+    "Tondelier, Glucksmann, Philippe et Zemmour : positions tirées de déclarations de 2026 sur l'acétamipride (néonicotinoïde réintroduit par dérogation par la loi d'urgence agricole), sujet proche mais distinct de la loi betteraves de 2020 (franceinfo, 3 septembre 2026). Pour Philippe et Zemmour, il s'agit de propos de l'entourage / du parti.",
+    "Philippe : selon franceinfo, à Matignon (2017-2020) il avait défendu « l'interdiction de l'usage des néonicotinoïdes qui attaquent le système nerveux des abeilles » ; sa position actuelle (maintien des dérogations) est rapportée par son entourage. Position 'pour' à prendre avec prudence.",
+    "Retailleau et Bertrand ont co-signé la lettre ouverte du 29 juillet 2020 (https://lopinion.fr/edition/economie/halte-sabordage-filiere-betteraviere-tribune-d-centaine-d-elus-221370) ; texte collectif, qui réclame des « moyens de protection » et cite les dérogations obtenues par les voisins sans nommer explicitement les néonicotinoïdes.",
+    "Retailleau a aussi déclaré en juin 2026 au sujet de l'acétamipride : « A partir du moment où c'est autorisé dans les autres pays, je ne vois pas pourquoi on handicaperait la production et les agriculteurs français » (franceinfo, 3 septembre 2026).",
+    "Lisnard : aucune déclaration retrouvée ; le proxy LR est fragile (maire, sans mandat parlementaire ; aujourd'hui Nouvelle Énergie).",
+    "La page de la décision 2020-809 DC sur conseil-constitutionnel.fr n'a pas pu être ouverte (erreur SSL) ; la conformité et la promulgation sont attestées par le dossier du Sénat et par le Conseil d'État."
+  ]
+}

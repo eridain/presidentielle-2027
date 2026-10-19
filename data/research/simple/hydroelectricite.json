@@ -1,0 +1,18 @@
+{
+  "id": "hydroelectricite",
+  "questionSimple": "Faut-il changer le statut des grands barrages pour éviter de les ouvrir à la concurrence comme le demande Bruxelles ?",
+  "enBref": "La Commission européenne demandait à la France de mettre en concurrence l'exploitation de ses grands barrages, ce qui bloquait les investissements. Le texte remplace les concessions par des autorisations : EDF et les exploitants actuels gardent les barrages 70 ans, l'État reste propriétaire, mais EDF doit vendre une partie de son électricité aux enchères.",
+  "pourquoiPour": "Ses partisans veulent mettre fin à dix ans de conflit avec Bruxelles sans privatiser les barrages, et relancer les investissements dans cette énergie propre.",
+  "pourquoiContre": "Ses opposants jugent que le texte cède à Bruxelles et affaiblit EDF en l'obligeant à vendre son électricité aux enchères. Certains préféraient une gestion entièrement publique.",
+  "ceQuiSestPasse": "L'Assemblée a adopté le texte final le 17 juin 2026 ; il est devenu la loi du 29 juin 2026.",
+  "lexique": [
+    {
+      "terme": "Concession",
+      "definition": "Contrat par lequel l'État confie pour une durée limitée l'exploitation d'un ouvrage public à une entreprise."
+    },
+    {
+      "terme": "Enchères",
+      "definition": "Vente au plus offrant ; ici, une part de l'électricité des barrages vendue aux fournisseurs concurrents d'EDF."
+    }
+  ]
+}

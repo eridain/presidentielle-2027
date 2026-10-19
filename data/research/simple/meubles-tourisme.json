@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il réduire l'avantage fiscal des locations touristiques type Airbnb et permettre aux maires d'en limiter le nombre ?",
+  "enBref": "Les propriétaires qui louent aux touristes paient plus d'impôts qu'avant. Les maires peuvent fixer un nombre maximum de locations touristiques. Ils peuvent aussi limiter à 90 jours par an la location de sa résidence principale.",
+  "pourquoiPour": "Pour ses défenseurs, les locations touristiques retirent des logements aux habitants à l'année. Il n'est pas juste qu'elles rapportent plus et soient moins taxées que les locations classiques.",
+  "pourquoiContre": "Pour ses opposants, la loi frappe les petits propriétaires qui arrondissent leurs fins de mois. Elle ajoute des règles et des impôts sans toucher les grandes plateformes.",
+  "ceQuiSestPasse": "Adoptée le 7 novembre 2024, la loi a été promulguée le 19 novembre 2024 ; les nouvelles règles fiscales s'appliquent depuis 2025.",
+  "lexique": [
+    {
+      "terme": "Meublé de tourisme",
+      "definition": "Logement meublé loué pour de courts séjours à des vacanciers."
+    },
+    {
+      "terme": "Abattement fiscal",
+      "definition": "Part des revenus retirée avant le calcul de l'impôt."
+    }
+  ],
+  "id": "meubles-tourisme"
+}

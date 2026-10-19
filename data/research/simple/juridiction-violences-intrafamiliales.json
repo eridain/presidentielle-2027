@@ -1,0 +1,18 @@
+{
+  "id": "juridiction-violences-intrafamiliales",
+  "questionSimple": "Faut-il créer des tribunaux spécialisés dans les violences conjugales et familiales ?",
+  "enBref": "Sur le modèle de l'Espagne, le texte crée des tribunaux réservés aux violences dans le couple et la famille. Leurs juges pourraient à la fois punir l'auteur et trancher les questions familiales, comme la garde des enfants.",
+  "pourquoiPour": "Pour ses défenseurs, des femmes sont tuées chaque semaine par leur conjoint. L'Espagne a fait baisser ces meurtres avec des tribunaux spécialisés, plus rapides et mieux formés.",
+  "pourquoiContre": "Pour ses opposants, ces tribunaux seraient trop loin des victimes et le texte n'a pas été étudié. Mieux valait attendre une mission parlementaire en cours.",
+  "ceQuiSestPasse": "Adopté à une voix près par l'Assemblée en 2022, le texte n'a jamais été examiné par le Sénat. Le gouvernement a créé fin 2023 des pôles spécialisés dans les tribunaux.",
+  "lexique": [
+    {
+      "terme": "Violences intrafamiliales",
+      "definition": "Violences commises au sein du couple ou de la famille, y compris envers les enfants."
+    },
+    {
+      "terme": "Niche parlementaire",
+      "definition": "Journée où un groupe d'opposition ou minoritaire choisit les textes examinés à l'Assemblée."
+    }
+  ]
+}

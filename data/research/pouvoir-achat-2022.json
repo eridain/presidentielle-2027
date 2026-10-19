@@ -1,0 +1,237 @@
+{
+  "id": "pouvoir-achat-2022",
+  "titre": "Loi « pouvoir d'achat » de l'été 2022",
+  "question": "Faut-il adopter la loi d'urgence « pouvoir d'achat » de 2022 (revalorisation de 4 % des retraites et prestations, prime défiscalisée, plafonnement des loyers, mesures de sécurité énergétique) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Présenté par le gouvernement Borne en juillet 2022, le projet de loi revalorise de 4 % les retraites et plusieurs prestations (RSA, allocations familiales, AAH), pérennise une prime de partage de la valeur exonérée, plafonne à 3,5 % la hausse des loyers pendant un an et déconjugalise l'AAH. Il comporte aussi un volet énergie : réquisition de centrales au gaz, terminal méthanier flottant au Havre, possible reprise des centrales à charbon. Le texte issu de la commission mixte paritaire a été adopté le 3 août 2022 par l'Assemblée (395 pour, 112 contre, 36 abstentions) puis par le Sénat. Après une décision du Conseil constitutionnel partiellement conforme (2022-843 DC), la loi n° 2022-1158 a été promulguée le 16 août 2022.",
+  "contexteSources": [
+    {
+      "titre": "Analyse du scrutin n°186 – Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/186"
+    },
+    {
+      "titre": "Dossier législatif – Mesures d'urgence pour la protection du pouvoir d'achat (Assemblée nationale)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/mesures_urgence_pouvoir_achat"
+    },
+    {
+      "titre": "Dossier législatif pjl21-817 – Sénat (loi n° 2022-1158, décision 2022-843 DC)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl21-817.html"
+    },
+    {
+      "titre": "Loi du 16 août 2022 portant mesures d'urgence pour la protection du pouvoir d'achat – Service-Public.fr / vie-publique",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A15803"
+    },
+    {
+      "titre": "Pouvoir d'achat : ce que contiennent les projets de loi définitivement adoptés – franceinfo",
+      "url": "https://www.franceinfo.fr/economie/pouvoir-achat/pouvoir-d-achat-retraites-loyers-rachat-des-rtt-ce-que-contiennent-les-projets-de-loi-definitivement-adoptes-par-le-parlement_5294530.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/186",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/mesures_urgence_pouvoir_achat",
+  "argumentsPour": [
+    {
+      "auteur": "Christine Le Nabour (Renaissance)",
+      "resume": "Le texte répond à l'urgence de l'inflation par des revalorisations, des baisses de cotisations et des dispositifs d'intéressement ; le voter, c'est protéger les Français.",
+      "citation": "ceux qui, en toute responsabilité, voteront ce texte, dans le seul objectif de faire face à l’urgence de la situation et de protéger leurs concitoyens contre les conséquences de l’inflation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N030",
+      "date": "2022-08-03"
+    },
+    {
+      "auteur": "Thomas Mesnier (Horizons)",
+      "resume": "Face à une inflation supérieure à 6 %, il fallait agir vite ; le groupe salue l'équilibre trouvé et ses apports (heures supplémentaires, RTT, titres-restaurant).",
+      "citation": "notre responsabilité était d’agir, résolument, fort et vite, pour le pouvoir d’achat mais surtout pour la liberté des Français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N030",
+      "date": "2022-08-03"
+    },
+    {
+      "auteur": "Thibault Bazin (Les Républicains)",
+      "resume": "Le groupe vote le texte pour aider les Français face à l'inflation, tout en jugeant les mesures insuffisantes et en précisant que ce n'est pas un chèque en blanc.",
+      "citation": "Avec responsabilité, les députés du groupe Les Républicains voteront ce texte",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N030",
+      "date": "2022-08-03"
+    },
+    {
+      "auteur": "Victor Catteau (Rassemblement national)",
+      "resume": "Le RN soutient des avancées dont plusieurs reprennent ses propositions (déconjugalisation de l'AAH, titres-restaurant, épargne salariale), tout en estimant qu'il reste beaucoup à faire.",
+      "citation": "Si la gauche, ayant perdu sa boussole, a préféré rejeter en bloc ce texte, nous assumons quant à nous de soutenir ces petits pas.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N030",
+      "date": "2022-08-03"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Adrien Quatennens (La France insoumise)",
+      "resume": "Le gouvernement refuse le blocage des prix des carburants et des produits de première nécessité et ne s'attaque pas aux causes de la hausse des prix.",
+      "citation": "En refusant le blocage des prix du carburant et des produits de première nécessité, vous avez choisi de protéger la rente privée et de faire payer les Français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N030",
+      "date": "2022-08-03"
+    },
+    {
+      "auteur": "Sandrine Rousseau (Écologiste)",
+      "resume": "Refus de la hausse du SMIC, de l'indexation des salaires et du gel des loyers ; le volet énergie va à l'encontre des objectifs climatiques.",
+      "citation": "Ce texte restera dans l’histoire comme le texte emblématique d’un double déni : social et écologique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N030",
+      "date": "2022-08-03"
+    },
+    {
+      "auteur": "Pierre Dharréville (GDR, communistes)",
+      "resume": "Le compromis avec la droite sénatoriale privilégie les primes au détriment des salaires et affaiblit la protection sociale ; le volet gaz est contesté.",
+      "citation": "Ce devait être une loi pour le pouvoir d’achat, c’est une nouvelle loi de régression sociale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N030",
+      "date": "2022-08-03"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Gérard Leseul (Socialistes)",
+      "resume": "Les revalorisations ne couvrent pas l'inflation et les primes défiscalisées remplacent les hausses de salaire ; le groupe ne soutient pas le texte (abstention lors du scrutin).",
+      "citation": "vous préférez les primes défiscalisées et désocialisées à une augmentation des salaires et à un vrai coup de pouce au SMIC",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N030",
+      "date": "2022-08-03"
+    },
+    {
+      "auteur": "Paul-André Colombani (LIOT)",
+      "resume": "Le texte comporte quelques avancées mais repose sur des dispositifs facultatifs et ne traite pas des salaires ; le groupe se partage entre vote pour et abstention.",
+      "citation": "Malgré les critiques, nous reconnaissons au texte quelques avancées et nous ne nous y opposerons pas. Une partie des députés de mon groupe le soutiendra, une autre s’abstiendra.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N030",
+      "date": "2022-08-03"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis juin 2022 ; aucune déclaration retrouvée sur ce texte. PROXY : le groupe LFI-NUPES a voté contre (0 pour, 75 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/186",
+      "date": "2022-08-03"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°186) ; argument tiré de sa propre explication de vote, au nom du groupe GDR, sur l'article 1er (prime de partage de la valeur) en première lecture.",
+      "argument": "Le texte privilégie les primes plutôt que les hausses de salaires, ce qui installe selon lui une politique de bas salaires.",
+      "citation": "votre politique, c’est la France des primes ; le résultat, c’est que la France déprime.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-mardi-19-juillet-2022",
+      "date": "2022-07-19"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°186) ; il est intervenu le même jour, sur ce texte, lors du vote sur la motion de rejet préalable.",
+      "argument": "Rien n'est prévu pour les salaires, le SMIC ni l'indexation sur l'inflation ; avec une inflation de 6 %, le texte organiserait la baisse du pouvoir d'achat.",
+      "citation": "La réalité de votre projet, c’est l’organisation de la baisse du pouvoir d’achat.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2022E1N030",
+      "date": "2022-08-03"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat national (élue secrétaire nationale d'EELV en décembre 2022) ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté contre (0 pour, 21 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/186",
+      "date": "2022-08-03"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°186), alors membre du groupe Écologiste-NUPES ; argument tiré de son intervention en première lecture contre l'article 13 (terminal méthanier).",
+      "argument": "Augmenter les capacités d'importation de gaz, dont du gaz de schiste, irait à l'encontre de la lutte contre le changement climatique ; le sort de ces articles déterminait le vote de son groupe.",
+      "citation": "L’organisation que l’article 13 vise à instaurer est une bombe écologique ! Il s’agit de rendre la France complice d’un écocide.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/troisieme-seance-du-jeudi-21-juillet-2022",
+      "date": "2022-07-21"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote sur ce texte national ; aucune déclaration retrouvée. PROXY : le groupe Socialistes et apparentés s'est abstenu (29 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/186",
+      "date": "2022-08-03"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics dans le gouvernement Borne qui a porté le texte ; selon Le Parisien (9 juillet 2022), il « défend le paquet pouvoir d'achat ».",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.leparisien.fr/politique/gabriel-attal-nous-sommes-passes-du-quoi-quil-en-coute-au-combien-ca-coute-09-07-2022-L27M42SBHFAT3ICVABB4O7SK4Y.php",
+      "date": "2022-07-09"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons, parti qu'il préside, a voté pour (26 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/186",
+      "date": "2022-08-03"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat sur le texte de la CMP (scrutin n°152 du 3 août 2022, https://www.senat.fr/scrutin-public/2021/scr2021-152.html) ; pas d'intervention personnelle retrouvée : argument = explication de vote du groupe LR qu'il présidait (Philippe Mouiller).",
+      "argument": "Le texte, enrichi par le Sénat, soutient le travail (prime de partage de la valeur, heures supplémentaires, déblocage de l'épargne salariale) et les ménages modestes.",
+      "citation": "En premier lieu, c’est d’abord et surtout le travail qui permet d’améliorer le pouvoir d’achat des Français.",
+      "url": "https://www.senat.fr/seances/s202208/s20220803/s20220803_mono.html",
+      "date": "2022-08-03"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté pour (61 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/186",
+      "date": "2022-08-03"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR à l'époque), sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté pour (61 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/186",
+      "date": "2022-08-03"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°186) ; argument tiré de son intervention en discussion générale en première lecture (18 juillet 2022).",
+      "argument": "Le RN soutient l'essentiel des mesures au nom d'une opposition « constructive », tout en jugeant le texte insuffisant et en proposant des amendements.",
+      "citation": "nous avons clairement entendu le message des Français : ils ne veulent pas de l’obstruction, mais d’un travail constructif ; ils ne veulent pas de posture, mais de résultats.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/premiere-seance-du-lundi-18-juillet-2022",
+      "date": "2022-07-18"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; Reconquête n'avait aucun député en 2022, donc pas de proxy de groupe ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°186), en tant que non-inscrit ; aucune explication personnelle retrouvée sur ce texte (ses interventions de juillet 2022 portent sur le collectif budgétaire).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/186",
+      "date": "2022-08-03"
+    }
+  },
+  "alertes": [
+    "Le scrutin n°186 porte sur le texte de la commission mixte paritaire (lecture définitive à l'Assemblée) ; plusieurs mesures souvent associées au « paquet pouvoir d'achat » (bouclier tarifaire, remise carburant, rachat de RTT, heures supplémentaires défiscalisées) relevaient du projet de loi de finances rectificative, voté séparément.",
+    "La « réquisition de centrales » de la question proposée a été reformulée en « mesures de sécurité énergétique » (réquisition d'installations au gaz, terminal méthanier, reprise possible des centrales à charbon), conformément au dossier de l'Assemblée.",
+    "Roussel et Batho : citations prononcées en première lecture (19 et 21 juillet 2022) sur des articles précis (prime ; terminal méthanier), pas sur l'ensemble du texte final.",
+    "Le Pen : citation tirée de la discussion générale en première lecture (18 juillet 2022).",
+    "Attal : rôle gouvernemental documenté par Le Parisien (article payant, chapeau seul lisible) ; pas de citation verbatim retenue. Le texte était présenté au Parlement par d'autres ministres (Olivier Dussopt au banc lors du vote final).",
+    "Retailleau : argument = explication de vote du groupe LR au Sénat (Philippe Mouiller), pas une déclaration personnelle.",
+    "Légifrance (loi n° 2022-1158) et le site du Conseil constitutionnel n'ont pas pu être ouverts (403 / délai) ; promulgation et décision 2022-843 DC sourcées via le dossier du Sénat."
+  ]
+}

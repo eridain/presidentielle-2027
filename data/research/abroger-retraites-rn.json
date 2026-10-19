@@ -1,0 +1,213 @@
+{
+  "id": "abroger-retraites-rn",
+  "titre": "Proposition RN d'abrogation des réformes des retraites",
+  "question": "Faut-il adopter la proposition de loi du RN visant à annuler les réformes des retraites de 2014 et 2023, dont l'article de retour à 62 ans avait été supprimé en commission ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi du groupe Rassemblement national, examinée lors de sa journée réservée du 31 octobre 2024, visait à ramener l'âge légal de départ à 62 ans et la durée de cotisation à 42 annuités, en annulant les réformes de 2014 (Touraine) et 2023 (Borne). Ses deux articles principaux ont été supprimés en commission des affaires sociales le 23 octobre par les voix du Nouveau Front populaire et du socle gouvernemental ; les amendements RN pour les rétablir ont été jugés irrecevables (article 40 de la Constitution). Le texte soumis au vote final ne permettait donc plus d'abroger la réforme : il a été rejeté (119 pour, 197 contre). Les députés LFI n'ont pas pris part au vote.",
+  "contexteSources": [
+    {
+      "titre": "LCP – Abrogation de la réforme des retraites : après avoir été vidé de sa substance en commission, le texte du RN rejeté",
+      "url": "https://lcp.fr/actualites/abrogation-de-la-reforme-des-retraites-apres-avoir-ete-vide-de-sa-substance-en"
+    },
+    {
+      "titre": "Le Monde – La proposition du RN jugée irrecevable par Yaël Braun-Pivet",
+      "url": "https://lemonde.fr/politique/article/2024/10/30/abrogation-de-la-reforme-des-retraites-la-proposition-rn-juge-irrecevable-par-yael-braun-pivet_6367616_823448.html"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°217",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/217"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/217",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/restaurer_systeme_retraite_juste_annulation_dernieres_reformes",
+  "argumentsPour": [
+    {
+      "auteur": "Thomas Ménagé (RN, rapporteur)",
+      "resume": "La réforme de 2023 pénalise les Français usés par le travail, les carrières incomplètes et les femmes ; il défend un texte présenté comme transpartisan.",
+      "citation": "Je pense à tous les Français abîmés par des années de labeur qui n’ont pas tous les trimestres nécessaires pour prétendre à une pension de retraite digne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N029",
+      "date": "2024-10-31"
+    },
+    {
+      "auteur": "Thomas Ménagé (RN, rapporteur)",
+      "resume": "Le RN propose un départ à 60 ans avec 40 annuités pour les carrières commencées avant 20 ans, et un système progressif jusqu'à 62 ans et 42 annuités pour les autres.",
+      "citation": "Pour ceux qui ont commencé avant 20 ans et qui exercent un métier difficile, nous proposons un départ à la retraite à 60 ans avec quarante annuités.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N029",
+      "date": "2024-10-31"
+    },
+    {
+      "auteur": "Gaëtan Dussausaye (RN)",
+      "resume": "La réforme impose deux ans de travail supplémentaires malgré la dureté des conditions de travail ; la gauche est accusée de sectarisme pour avoir refusé le texte.",
+      "citation": "Depuis un an, nos compatriotes devront travailler deux années supplémentaires, en dépit de la dureté des conditions dans lesquelles ils bossent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N030",
+      "date": "2024-10-31"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Charles Sitzenstuhl (Ensemble pour la République)",
+      "resume": "L'allongement de l'espérance de vie impose de travailler plus longtemps ; les finances publiques ne peuvent supporter le coût d'une abrogation, que le RN ne finance pas.",
+      "citation": "nos finances publiques ne peuvent pas supporter le coût délirant d’une abrogation de la réforme de 2023.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N030",
+      "date": "2024-10-31"
+    },
+    {
+      "auteur": "Thibault Bazin (Droite républicaine)",
+      "resume": "Le texte initial aurait creusé le déficit des retraites, au prix d'une baisse des pensions ou d'une hausse des cotisations.",
+      "citation": "si votre proposition de loi, dans sa rédaction initiale, était adoptée, nous aurions 3,4 milliards supplémentaires de déficit dès 2025, et près de 16 milliards par an à long terme.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N030",
+      "date": "2024-10-31"
+    },
+    {
+      "auteur": "Boris Vallaud (Socialistes et apparentés)",
+      "resume": "Opposé à la réforme de 2023, il juge le texte RN sans financement ni portée, le vrai moyen d'abroger étant la censure du gouvernement.",
+      "citation": "Au lieu de votre escroquerie politique, il y avait, pour abroger la réforme, un rendez-vous, que vous avez manqué : la motion de censure !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N030",
+      "date": "2024-10-31"
+    },
+    {
+      "auteur": "Benjamin Lucas-Lundy (Écologiste et social)",
+      "resume": "Le texte, vidé de ses articles, n'abroge rien ; la gauche défend sa propre proposition d'abrogation.",
+      "citation": "Votre non-texte est vide ; il n’abroge rien.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N030",
+      "date": "2024-10-31"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée sur ce texte. PROXY : le groupe LFI-NFP n'a pas pris part au vote (il défendait sa propre proposition d'abrogation le 28 novembre 2024).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/217",
+      "date": "2024-10-31"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée sur ce texte. PROXY : le groupe GDR a voté contre (0 pour, 9 contre), tout en étant favorable à l'abrogation de la réforme de 2023.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/217",
+      "date": "2024-10-31"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée sur ce texte. Son groupe Écologiste et social a voté contre (0 pour, 26 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/217",
+      "date": "2024-10-31"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour, 26 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/217",
+      "date": "2024-10-31"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°217) ; pas de déclaration personnelle retrouvée : argument = explication de vote du groupe Écologiste et social (Benjamin Lucas-Lundy).",
+      "argument": "Le groupe juge le texte vidé de sa substance, sans effet d'abrogation, et oppose au RN ses votes passés sur les retraites.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N030",
+      "date": "2024-10-31"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée sur ce texte. PROXY : le groupe Socialistes et apparentés a voté contre (1 pour, 51 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/217",
+      "date": "2024-10-31"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°217) ; président du groupe EPR : argument = explication de vote du groupe (Charles Sitzenstuhl).",
+      "argument": "L'allongement de l'espérance de vie impose de travailler plus longtemps ; une abrogation non financée serait insoutenable pour les finances publiques.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N030",
+      "date": "2024-10-31"
+    },
+    "philippe": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Maire du Havre, président d'Horizons, sans vote ; soutien public à la réforme de 2023 (janvier 2023). Le groupe Horizons a voté contre (0 pour, 19 contre).",
+      "argument": "Juge la réforme des retraites nécessaire et souhaitait qu'elle soit faite vite.",
+      "citation": "la réforme est nécessaire et mieux vaut la faire vite que lentement",
+      "url": "https://www.europe1.fr/politique/retraites-edouard-philippe-soutient-une-reforme-necessaire-et-a-faire-vite-4160428",
+      "date": "2023-01-11"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Barnier, qui s'opposait au texte (la ministre du Travail Astrid Panosyan-Bouvet l'a combattu en séance) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N029",
+      "date": "2024-10-31"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée sur ce texte. PROXY : le groupe Droite républicaine a voté contre (0 pour, 13 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/217",
+      "date": "2024-10-31"
+    },
+    "lisnard": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Maire de Cannes, sans vote ; le site de son parti Nouvelle Énergie indique qu'il refuse de revenir sur la réforme de 2023 et juge l'allongement de la durée de travail nécessaire.",
+      "argument": "Juge l'augmentation de la durée de travail nécessaire mais insuffisante, et défend une part de capitalisation.",
+      "citation": "Cette augmentation de la durée de vie au travail est nécessaire mais pas suffisante",
+      "url": "https://www.unenouvelleenergie.fr/questions/quel-age-de-depart-a-la-retraite-david-lisnard-defend-il/",
+      "date": "2023-01-05"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°217) ; présidente du groupe RN, intervention en séance le 31 octobre 2024.",
+      "argument": "Elle défend un départ à 60 ans pour ceux qui ont commencé avant 20 ans, progressif jusqu'à 62 ans, et impute l'échec du retour à 62 ans à l'abstention de la gauche.",
+      "citation": "Si nous ne votons pas le retour à 62 ans et à 42 annuités, c’est à cause de votre abstention.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N029",
+      "date": "2024-10-31"
+    },
+    "zemmour": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Président de Reconquête, sans mandat ; déclarait en 2023 qu'il aurait voté la réforme Borne, qu'il revendique (pas de déclaration retrouvée sur le texte du RN).",
+      "argument": "Revendique le report à 64 ans, issu de son programme de 2022, jugé nécessaire pour sauver la répartition.",
+      "citation": "Je la voterais, d’abord, parce que c’est ma réforme.",
+      "url": "https://www.huffingtonpost.fr/politique/article/eric-zemmour-soutient-la-reforme-des-retraites-du-gouvernement_213848.html",
+      "date": "2023-02-09"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Plus député depuis 2024 ; opposé à la réforme de 2023, qu'il qualifiait d'« inutile et injuste » (pas de déclaration retrouvée sur le texte du RN).",
+      "argument": "Juge la réforme de 2023 inutile et injuste face à la hausse des prix.",
+      "citation": "cette réforme des retraites est abominable, elle est inutile et injuste, elle ne sert à rien",
+      "url": "https://www.publicsenat.fr/actualites/politique/retraites-une-reforme-abominable-inutile-et-injuste-pour-nicolas-dupont-aignan",
+      "date": "2023-01-16"
+    }
+  },
+  "alertes": [
+    "Question corrigée : la questionProposee (« ramener progressivement l'âge légal à 62 ans ») ne correspondait plus au texte voté. Les articles 1er (âge légal) et 2 (annuités) avaient été supprimés en commission et leur rétablissement déclaré irrecevable (article 40) ; le texte final ne contenait plus que des demandes de rapports et un gage sur le tabac. Polarité inchangée (Oui = pour).",
+    "Une partie de la gauche (PS, écologistes, GDR) a voté contre ce texte tout en étant favorable à l'abrogation de la réforme de 2023 : un vote « contre » ne signifie pas ici soutien à la réforme Borne. LFI-NFP n'a pas pris part au vote.",
+    "Philippe, Lisnard, Zemmour, Dupont-Aignan : positions déduites de déclarations de 2023 sur la réforme Borne, pas sur ce texte précis (sources déjà utilisées dans la fiche retraites-64, rouvertes et vérifiées).",
+    "Retailleau : position déduite de l'appartenance au gouvernement Barnier, qui s'opposait au texte.",
+    "Mélenchon, Roussel, Tondelier, Glucksmann, Bertrand : aucune déclaration retrouvée sur ce texte ; positions « inconnu » avec proxy de groupe. Leur opposition à la réforme de 2023 ne vaut pas soutien à ce texte du RN.",
+    "Batho et Attal : pas de déclaration personnelle retrouvée ; argument = explication de vote de leur groupe, sans citation attribuée."
+  ]
+}

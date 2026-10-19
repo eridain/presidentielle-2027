@@ -1,0 +1,215 @@
+{
+  "id": "ceta",
+  "titre": "Ratification du CETA (accord UE-Canada)",
+  "question": "Faut-il autoriser la ratification du CETA, l'accord de libre-échange entre l'Union européenne et le Canada ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi autorise la ratification de l'accord économique et commercial global UE-Canada (CETA/AECG), qui prévoit l'élimination progressive d'environ 99 % des droits de douane, et de l'accord de partenariat stratégique UE-Canada. Signé en 2016, le CETA est appliqué à titre provisoire depuis 2017 pour ses volets de compétence européenne. L'Assemblée nationale a adopté le texte le 23 juillet 2019 (266 pour, 213 contre). Le Sénat, saisi en mars 2024 à l'initiative du groupe communiste, a supprimé l'article autorisant la ratification du CETA (211 voix contre 44) ; la procédure de ratification n'était pas achevée à cette date.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif CETA et accord de partenariat stratégique UE-Canada",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/aecg_partenariat_strategique_ue-canada"
+    },
+    {
+      "titre": "Sénat – La loi en clair : projet de loi autorisant la ratification du CETA/AECG",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-autorisant-la-ratification-du-ceta/aecg.html"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2059",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2059"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2059",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/aecg_partenariat_strategique_ue-canada",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-Baptiste Lemoyne (secrétaire d'État, gouvernement)",
+      "resume": "L'accord a été complété par un volet environnemental et climatique, dont un « veto climatique » empêchant les entreprises d'attaquer les normes environnementales et sociales.",
+      "citation": "Nous y avons notamment intégré un volet environnemental et climatique qui constitue une avancée considérable, tout simplement parce que nous avons obtenu que le veto climatique soit inscrit noir sur blanc.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-23-juillet-2019",
+      "date": "2019-07-23"
+    },
+    {
+      "auteur": "Jean-Baptiste Moreau (LaREM)",
+      "resume": "Les échanges avec le Canada existent déjà sous les seules règles de l'OMC ; l'accord permet d'y ajouter des clauses environnementales et des normes de production.",
+      "citation": "La réalité, c’est qu’un accord comme le CETA est la seule solution pour imposer des clauses environnementales et le respect des normes de production dans le cadre d’un libre-échange déjà mondialisé.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-23-juillet-2019",
+      "date": "2019-07-23"
+    },
+    {
+      "auteur": "Jacques Maire (LaREM, rapporteur)",
+      "resume": "Le Parlement a obtenu un suivi trimestriel, des études d'impact par filière, une évaluation carbone et un renforcement des contrôles sanitaires avant de se prononcer.",
+      "citation": "nous avons demandé un suivi trimestriel de l’application du CETA : nous l’avons ; nous avons demandé des études d’impact pour l’ensemble des filières sensibles : nous les avons",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-23-juillet-2019",
+      "date": "2019-07-23"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Mathilde Panot (La France insoumise)",
+      "resume": "Le libre-échange avec le Canada est jugé incompatible avec l'urgence écologique et climatique, et importerait des produits issus de pratiques interdites en Europe.",
+      "citation": "Comment osez-vous applaudir le mouvement des jeunes pour le climat et, le même jour, voter cet accord de libre-échange avec le Canada ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-23-juillet-2019",
+      "date": "2019-07-23"
+    },
+    {
+      "auteur": "Jean-Yves Bony (Les Républicains)",
+      "resume": "L'accord est jugé dangereux sur les plans sanitaire et environnemental et pénalisant pour les éleveurs français.",
+      "citation": "Avec la ratification du CETA, vous portez aux éleveurs un coup dur, un coup fatal, et vous le faites avec mépris !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-23-juillet-2019",
+      "date": "2019-07-23"
+    },
+    {
+      "auteur": "Dominique Potier (Socialistes)",
+      "resume": "Il faudrait exclure les échanges agricoles des accords commerciaux ; le CETA créerait un déséquilibre entre agricultures.",
+      "citation": "C’est pourquoi nous devons refuser aujourd’hui de voter le CETA, qui crée – en particulier les articles 26 et 30 – un déséquilibre susceptible de mener à l’appauvrissement de la planète",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mardi-23-juillet-2019",
+      "date": "2019-07-23"
+    },
+    {
+      "auteur": "Marine Le Pen (non-inscrits, Rassemblement national)",
+      "resume": "Le traité, négocié dans l'opacité et appliqué avant ratification, affaiblirait la souveraineté, exposerait l'agriculture à une concurrence déloyale ; elle prône le « juste échange » et un référendum.",
+      "citation": "Négocié dans la plus totale opacité, entré en vigueur pour partie avant même sa ratification, défendant le recours aux tribunaux privés à la place de la justice rendue au nom du peuple",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mercredi-17-juillet-2019",
+      "date": "2019-07-17"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°2059 du 23 juillet 2019) ; argument tiré de son blog.",
+      "argument": "Le CETA ouvre le marché européen à un pays qui autorise un animal génétiquement modifié et n'étiquette pas les OGM, et a accru les importations d'hydrocarbures de schiste.",
+      "citation": "Le seul pays au monde qui met sur le marché un animal génétiquement modifié et qui ne mentionne pas l’origine OGM de ses végétaux obtient le droit de commercer librement avec le marché européen.",
+      "url": "https://melenchon.fr/2019/07/10/et-maintenant-mercosur-en-plus/",
+      "date": "2019-07-10"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°2059 du 23 juillet 2019) ; argument tiré d'une interview sur franceinfo en 2024.",
+      "argument": "Après le rejet du Sénat, il réclame un vote de l'Assemblée et, à défaut, un référendum pour rejeter un accord qu'il juge néfaste aux éleveurs.",
+      "citation": "Une autre manière de rejeter ce Ceta, c'est ou par la voie du Parlement ou par la voie du référendum",
+      "url": "https://www.franceinfo.fr/politique/fabien-roussel/ceta-s-il-le-faut-nous-lancerons-un-processus-de-referendum-d-initiative-parlementaire-declare-le-communiste-fabien-roussel_6476096.html",
+      "date": "2024-04-09"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°2059) ; intervention en séance le 17 juillet 2019.",
+      "argument": "Le CETA permettrait l'importation de produits traités avec des pesticides interdits en Europe et d'animaux nourris aux farines animales ; il y voit une harmonisation des normes par le bas.",
+      "citation": "Cette harmonisation par le bas n’est pas un dommage collatéral du libre-échange ; elle en est l’essence et le cœur, et le but recherché par les firmes multinationales et par leurs lobbies.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/deuxieme-seance-du-mercredi-17-juillet-2019",
+      "date": "2019-07-17"
+    },
+    "tondelier": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; déclaration sur franceinfo après le rejet du CETA par le Sénat.",
+      "argument": "Elle juge le traité néfaste pour l'environnement, notamment par la hausse des importations de pétrole issu des sables bitumineux, et critique l'idée de l'appliquer malgré un vote contraire du Parlement.",
+      "citation": "Cela a contribué à multiplier les importations de pétrole de schiste bitumeux qui est beaucoup plus polluant que le pétrole conventionnel",
+      "url": "https://www.radiofrance.fr/franceinfo/podcasts/8h30-franceinfo/deficit-public-lutte-contre-le-trafic-de-drogue-et-accord-du-ceta-le-8h30-franceinfo-de-marine-tondelier-8774784",
+      "date": "2024-03-26"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°2059) ; intervention en séance le 17 juillet 2019.",
+      "argument": "L'intensification des échanges commerciaux internationaux serait incompatible avec la lutte contre le changement climatique ; elle cite les sables bitumineux, les OGM et le glyphosate.",
+      "citation": "Le développement des échanges commerciaux à l’échelle internationale est tout simplement incompatible avec la lutte contre le changement climatique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/deuxieme-seance-du-mercredi-17-juillet-2019",
+      "date": "2019-07-17"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de vote sur ce texte (eurodéputé à partir de juillet 2019) ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée, allié de Place publique, a voté contre (0 pour / 29 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2059",
+      "date": "2019-07-23"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'Éducation nationale dans le gouvernement Philippe, qui a déposé le projet de loi (3 juillet 2019) et en a demandé l'adoption ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/aecg_partenariat_strategique_ue-canada",
+      "date": "2019-07-23"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a présenté le projet de loi de ratification et l'a fait adopter à l'Assemblée ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/aecg_partenariat_strategique_ue-canada",
+      "date": "2019-07-23"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Vote nominatif contre l'article 1er autorisant la ratification du CETA au Sénat (scrutin public n°159 du 21 mars 2024, https://www.senat.fr/scrutin-public/2023/scr2023-159.html) ; déclaration à Public Sénat.",
+      "argument": "Le vote vise à adresser un signal politique à la Commission européenne alors qu'elle négocie l'accord avec le Mercosur ; le Sénat demandait depuis cinq ans à examiner le texte.",
+      "citation": "Nous venons d’adresser un signal à la Commission européenne, au moment où elle négocie le Mercosur",
+      "url": "https://www.publicsenat.fr/actualites/politique/ceta-recit-dune-folle-journee-qui-a-vu-le-senat-rejeter-laccord-de-libre-echange-entre-la-france-et-le-canada",
+      "date": "2024-03-21"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (1 pour / 96 contre / 5 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2059",
+      "date": "2019-07-23"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée sur le CETA. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (1 pour / 96 contre / 5 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2059",
+      "date": "2019-07-23"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°2059) ; intervention en séance le 17 juillet 2019.",
+      "argument": "Elle oppose au libre-échange un « juste échange », dénonce une atteinte à la souveraineté et une concurrence déloyale pour l'agriculture, et estime qu'un référendum aurait dû être organisé.",
+      "citation": "Il n’est évidemment pas question de ne plus commercer avec le reste du monde, mais nous croyons que le modèle du libre-échange doit laisser la place à celui du juste échange",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mercredi-17-juillet-2019",
+      "date": "2019-07-17"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2019 (Reconquête fondé en 2021), aucune déclaration vérifiable retrouvée ; aucun groupe parlementaire de son parti ne peut servir de proxy pour ce scrutin.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2059",
+      "date": "2019-07-23"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°2059) ; intervention en séance le 17 juillet 2019.",
+      "argument": "Le traité porterait atteinte à la souveraineté de la France et de l'Europe en donnant du pouvoir aux multinationales, en contradiction avec l'idée d'une « Europe qui protège ».",
+      "citation": "Elle est en contradiction avec l’exigence démocratique, car ce traité inocule un virus dans la souveraineté non seulement de la France, mais de l’Europe.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/deuxieme-seance-du-mercredi-17-juillet-2019",
+      "date": "2019-07-17"
+    }
+  },
+  "alertes": [
+    "Le scrutin AN n°2059 porte sur l'ensemble du projet de loi, qui couvre aussi l'accord de partenariat stratégique UE-Canada (non commercial) ; la question est centrée sur le CETA, objet du débat.",
+    "Au 21 mars 2024, le Sénat a supprimé l'article 1er (CETA) et adopté l'article 2 (partenariat stratégique) ; la navette n'était pas achevée à cette date. L'état ultérieur de la procédure n'a pas été vérifié.",
+    "Retailleau : la page du scrutin Sénat n°159 précise que les résultats ont fait l'objet d'une mise au point en séance ; il figure dans la liste « Contre » du groupe LR.",
+    "Les explications de vote des groupes ont eu lieu le 17 juillet 2019 ; plusieurs arguments proviennent des questions au gouvernement du 23 juillet 2019 (séance du vote), non des explications de vote formelles.",
+    "Mélenchon : la citation provient d'un billet de blog du 10 juillet 2019, antérieur au vote.",
+    "Roussel : aucune intervention personnelle en séance retrouvée en 2019 ; l'argument provient d'une interview de 2024. Un article France 24/Ouest-France d'août 2019 (« la bataille contre le Ceta n'est pas terminée ») n'a pas pu être ouvert (403).",
+    "Glucksmann, Bertrand, Lisnard, Zemmour : aucune déclaration spécifique au CETA trouvée et vérifiée ; positions laissées « inconnu » (proxy de groupe indiqué quand pertinent). Lisnard a pris position contre l'accord UE-Mercosur, ce qui ne vaut pas position sur le CETA.",
+    "Attal et Philippe : position déduite de l'appartenance au gouvernement qui a porté le texte, sans déclaration personnelle vérifiée."
+  ]
+}

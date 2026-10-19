@@ -1,0 +1,18 @@
+{
+  "id": "cours-criminelles",
+  "questionSimple": "Faut-il juger certains crimes sans jurés populaires et supprimer les réductions de peine automatiques ?",
+  "enBref": "Certains crimes, comme beaucoup de viols, seront jugés par cinq juges professionnels au lieu d'un jury de citoyens. Les détenus n'auront plus de réduction de peine automatique : le juge l'accordera selon leur conduite et leurs efforts.",
+  "pourquoiPour": "Pour ses défenseurs, ces cours sans jurés ont fait leurs preuves pendant l'essai et jugent plus vite. Lier les réductions de peine aux efforts du détenu rend la peine plus juste.",
+  "pourquoiContre": "Pour ses opposants, supprimer les jurés éloigne les citoyens de la justice rendue en leur nom. La fin des réductions automatiques risquerait d'aggraver la surpopulation des prisons.",
+  "ceQuiSestPasse": "Adoptée définitivement le 18 novembre 2021, la loi a été promulguée le 22 décembre 2021 ; les cours criminelles sont généralisées depuis 2023.",
+  "lexique": [
+    {
+      "terme": "Cour criminelle départementale",
+      "definition": "Tribunal de cinq magistrats professionnels, sans jurés, qui juge certains crimes punis de 15 ou 20 ans."
+    },
+    {
+      "terme": "Réduction de peine",
+      "definition": "Diminution de la durée de prison accordée à un détenu pendant l'exécution de sa peine."
+    }
+  ]
+}

@@ -1,0 +1,235 @@
+{
+  "id": "anticasseurs",
+  "titre": "Loi « anticasseurs » de 2019",
+  "question": "Faut-il adopter la loi « anticasseurs » (interdiction de manifester prononcée par le préfet, délit de dissimulation du visage, fouilles aux abords des manifestations) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Proposition de loi déposée au Sénat en juin 2018 par Bruno Retailleau (LR), reprise par le gouvernement Philippe en janvier 2019 pendant le mouvement des « gilets jaunes ». Le texte permettait des fouilles aux abords des manifestations, créait une interdiction administrative de manifester décidée par le préfet et un délit de dissimulation du visage en manifestation. Adopté à l'Assemblée le 5 février 2019 (387 pour, 92 contre, 74 abstentions, dont 50 députés LaREM), puis définitivement par le Sénat le 12 mars 2019. Saisi notamment par le président de la République, le Conseil constitutionnel a censuré l'interdiction administrative de manifester (article 3) le 4 avril 2019 ; la loi n° 2019-290 a été promulguée le 10 avril 2019.",
+  "contexteSources": [
+    {
+      "titre": "Analyse du scrutin n°1662 – Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1662"
+    },
+    {
+      "titre": "Compte rendu de la première séance du 5 février 2019 – Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N137"
+    },
+    {
+      "titre": "Dossier législatif ppl17-575 – Sénat (étapes, loi n° 2019-290, décision 2019-780 DC)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl17-575.html"
+    },
+    {
+      "titre": "Scrutin n°65 du 12 mars 2019 – Sénat",
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-65.html"
+    },
+    {
+      "titre": "Le Conseil constitutionnel censure l'article 3 de la loi « anti-casseurs » – CNB",
+      "url": "https://cnb.avocat.fr/actualite/le-conseil-constitutionnel-censure-larticle-3-de-la-loi-anti-casseurs"
+    },
+    {
+      "titre": "Bruno Retailleau : « Je ne confonds pas 'gilets jaunes' et cagoules noires » – Sud Radio",
+      "url": "https://www.sudradio.fr/politique/bruno-retailleau-je-ne-confonds-pas-gilets-jaunes-et-cagoules-noires"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1662",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/prevention_sanction_violences_manifestations",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-François Eliaou (LaREM)",
+      "resume": "Le texte préserve le droit de manifester tout en donnant aux forces de l'ordre davantage de moyens juridiques contre les casseurs ; il a été rééquilibré par les députés.",
+      "citation": "Ce texte équilibré, qui préserve le droit de manifester, vise donc à donner aux forces de l’ordre plus de moyens juridiques pour maintenir l’ordre public et à lutter contre les casseurs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N137",
+      "date": "2019-02-05"
+    },
+    {
+      "auteur": "Éric Ciotti (LR)",
+      "resume": "Il faut répondre aux violences commises en manifestation ; le groupe soutient notamment l'interdiction administrative de manifester et le délit de dissimulation du visage, tout en jugeant le texte insuffisant.",
+      "citation": "Mais si manifester est un droit, casser sera toujours un délit.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N137",
+      "date": "2019-02-05"
+    },
+    {
+      "auteur": "Laurence Vichnievsky (MoDem)",
+      "resume": "Le groupe vote le texte, en souhaitant que l'interdiction de manifester soit conditionnée à une condamnation judiciaire préalable.",
+      "citation": "Le groupe du Mouvement démocrate et apparentés n’a aucune complaisance pour les auteurs de violences et de dégradations lors des manifestations.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N137",
+      "date": "2019-02-05"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Marietta Karamanli (Socialistes)",
+      "resume": "Le texte n'est pas nécessaire pour maintenir l'ordre public et risque de dissuader les manifestants pacifiques ; l'interdiction de manifester devrait relever du juge.",
+      "citation": "Non, elle n’est pas indispensable pour préserver et maintenir l’ordre public. « C’est le citoyen qu’on intimide, et pas le délinquant », comme l’a justement souligné François Sureau.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N137",
+      "date": "2019-02-05"
+    },
+    {
+      "auteur": "Alexis Corbière (La France insoumise)",
+      "resume": "L'interdiction de manifester deviendrait une décision du préfet, représentant du gouvernement, et non plus d'un juge, ce qui menace le droit de manifester des opposants.",
+      "citation": "Désormais, une mesure aussi grave que l’interdiction de manifester ne sera plus une décision de justice, rendue par un juge, mais une décision prise par un préfet.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N137",
+      "date": "2019-02-05"
+    },
+    {
+      "auteur": "Stéphane Peu (GDR, communistes)",
+      "resume": "Le droit existant suffit à sanctionner les casseurs ; les mesures sont jugées disproportionnées, avec une interdiction préfectorale sans contrôle du juge et un fichage des personnes interdites.",
+      "citation": "Elle est inutile, car des dispositions législatives existent déjà pour interpeller et condamner les personnes commettant des infractions lors de manifestations.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N137",
+      "date": "2019-02-05"
+    },
+    {
+      "auteur": "Marine Le Pen (Rassemblement national)",
+      "resume": "Le texte permet aux préfets d'interdire de manifester sur des fondements jugés vagues ; il viserait les « gilets jaunes » plus que les casseurs.",
+      "citation": "aujourd'hui, les préfets peuvent interdire, sur des fondements vagues, des manifestations. C'est un texte éminemment dangereux avec l'ajout de l'article 2",
+      "url": "https://www.bfmtv.com/politique/loi-anti-casseurs-marine-le-pen-denonce-une-atteinte-a-nos-grandes-libertes-individuelles_AN-201902060036.html",
+      "date": "2019-02-06"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Michel Zumkeller (UDI, Agir et indépendants)",
+      "resume": "Le groupe approuve l'objectif mais doute de l'applicabilité du texte et de l'équilibre de l'interdiction administrative ; ses membres se sont partagés.",
+      "citation": "Cependant, le juste équilibre entre maintien de l’ordre public et respect des libertés ne semble pas encore trouvé.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N137",
+      "date": "2019-02-05"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée (scrutin n°1662) ; argument tiré de son tweet réagissant à l'annonce de la loi par Édouard Philippe le 7 janvier 2019.",
+      "argument": "Il présente l'annonce du gouvernement comme une restriction du droit de manifester assortie d'un fichage des manifestants.",
+      "citation": "#EdouardPhilippe autorise les manifestants à ne plus manifester, sinon ils seront fichés.",
+      "url": "https://www.20minutes.fr/politique/2410131-20190107-edouard-philippe-jt-20h-direct-apres-violences-premier-ministre-va-faire-annonces-ordre-public",
+      "date": "2019-01-07"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée (scrutin n°1662) ; aucune explication personnelle retrouvée : argument = explication de vote du groupe GDR (Stéphane Peu).",
+      "argument": "Texte jugé inutile car le droit existant permet déjà de sanctionner les casseurs, et dangereux pour les libertés (interdiction préfectorale, fichage).",
+      "citation": "Les députés communistes voteront résolument contre cette proposition de loi inutile, contre-productive et dangereuse pour les libertés publiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N137",
+      "date": "2019-02-05"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée (scrutin n°1662) ; aucune explication personnelle retrouvée : argument = explication de vote du groupe La France insoumise (Alexis Corbière).",
+      "argument": "L'interdiction de manifester ne serait plus décidée par un juge mais par le préfet, représentant du pouvoir politique.",
+      "citation": "Le droit de manifester peut être restreint, mais seulement à l’occasion d’une décision de justice, et certainement pas du fait d’une décision politique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N137",
+      "date": "2019-02-05"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2019 et aucune déclaration retrouvée ; aucun groupe écologiste n'existait alors à l'Assemblée, donc pas de proxy de groupe disponible.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée (scrutin n°1662), en tant que non-inscrite ; aucune explication personnelle retrouvée et pas d'explication de vote des non-inscrits en séance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://france3-regions.franceinfo.fr/nouvelle-aquitaine/loi-anti-casseurs-cinq-deputes-poitou-charentes-ont-vote-contre-se-sont-abstenus-1619505.html",
+      "date": "2019-02-05"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2019 ; aucune déclaration retrouvée. PROXY : le groupe Socialistes et apparentés a voté contre (0 pour, 29 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1662",
+      "date": "2019-02-05"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'Éducation nationale, membre du gouvernement Philippe qui a repris et soutenu le texte ; aucune déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.20minutes.fr/politique/2410131-20190107-edouard-philippe-jt-20h-direct-apres-violences-premier-ministre-va-faire-annonces-ordre-public",
+      "date": "2019-01-07"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre ; a annoncé le 7 janvier 2019 sur TF1 une « loi nouvelle » contre les casseurs, le gouvernement reprenant ensuite la proposition de loi sénatoriale.",
+      "argument": "Il faut adapter le droit pour défendre la liberté de manifester face à ceux qui profitent des manifestations pour casser.",
+      "citation": "Nous ne pouvons pas accepter que certains profitent de ces manifestations pour casser, pour brûler",
+      "url": "https://www.20minutes.fr/politique/2410131-20190107-edouard-philippe-jt-20h-direct-apres-violences-premier-ministre-va-faire-annonces-ordre-public",
+      "date": "2019-01-07"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Auteur de la proposition de loi ; vote nominatif pour au Sénat lors de l'adoption définitive (scrutin n°65 du 12 mars 2019, https://www.senat.fr/scrutin-public/2018/scr2018-65.html).",
+      "argument": "Garantir le droit de manifester pacifiquement en écartant les individus violents, « black blocs », qu'il distingue des « gilets jaunes ».",
+      "citation": "pour garantir le droit de manifester pacifiquement et pour essayer d'extirper les ultra-violents, les black-blocs",
+      "url": "https://www.sudradio.fr/politique/bruno-retailleau-je-ne-confonds-pas-gilets-jaunes-et-cagoules-noires",
+      "date": "2019-03-12"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune prise de position explicite sur le texte retrouvée. PROXY : le groupe LR a voté pour (97 pour, 2 contre, 4 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1662",
+      "date": "2019-02-05"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR en 2019), sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté pour (97 pour, 2 contre, 4 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1662",
+      "date": "2019-02-05"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée (scrutin n°1662) ; explication donnée le lendemain sur franceinfo.",
+      "argument": "L'interdiction de manifester confiée aux préfets porte atteinte aux libertés individuelles ; selon elle, le texte vise davantage les « gilets jaunes » que les casseurs.",
+      "citation": "C'est un texte éminemment dangereux avec l'ajout de l'article 2, nous avons voté contre",
+      "url": "https://www.bfmtv.com/politique/loi-anti-casseurs-marine-le-pen-denonce-une-atteinte-a-nos-grandes-libertes-individuelles_AN-201902060036.html",
+      "date": "2019-02-06"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Journaliste et essayiste en 2019, sans mandat ni parti (Reconquête créé en 2021) ; aucune déclaration retrouvée ; aucun proxy de groupe disponible.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée (scrutin n°1662) ; argument tiré d'un communiqué de Debout la France, parti qu'il préside (24 janvier 2019).",
+      "argument": "Favorable au délit de dissimulation du visage, mais opposé à l'interdiction de manifester décidée par le préfet, jugée dangereuse.",
+      "citation": "La mesure utile est de punir d’emprisonnement le fait de masquer son visage lors d’une manifestation",
+      "url": "https://www.debout-la-france.fr/actualite/loi-anti-casseurs-les-fouilles-pourquoi-pas-mais-non-larbitraire-politique/",
+      "date": "2019-01-24"
+    }
+  },
+  "alertes": [
+    "Le texte voté le 5 février 2019 est la première lecture à l'Assemblée ; le Sénat l'a adopté conforme le 12 mars 2019. L'article sur l'interdiction administrative de manifester (devenu article 3) a ensuite été censuré par le Conseil constitutionnel (décision 2019-780 DC) : la question porte sur le texte voté, pas sur la loi promulguée.",
+    "Mélenchon : la citation date du 7 janvier 2019 et réagit à l'annonce d'Édouard Philippe, pas au texte final voté.",
+    "Dupont-Aignan : la citation provient d'un communiqué non signé nominativement de Debout la France (parti qu'il préside), daté du 24 janvier 2019, avant les modifications en séance.",
+    "Batho : aucune explication de vote personnelle trouvée ; l'URL (France 3 Régions) confirme seulement son vote contre.",
+    "Bertrand : le 17 mars 2019 sur France Inter, il estimait qu'il existait déjà des dispositifs contre les débordements (rapporté par ici.fr), sans se prononcer explicitement sur la loi ; position laissée « inconnu ».",
+    "Tondelier, Zemmour : aucun proxy de groupe pertinent n'existait en 2019 (pas de groupe écologiste à l'Assemblée, Reconquête pas encore créé).",
+    "Retailleau : citation Sud Radio du 12 mars 2019 (jour du vote définitif), recueillie lors d'un entretien sur la saisine du Conseil constitutionnel.",
+    "Légifrance (loi n° 2019-290) et le site du Conseil constitutionnel n'ont pas pu être ouverts (403 / délai dépassé) : la censure est sourcée par le dossier du Sénat et le CNB."
+  ]
+}

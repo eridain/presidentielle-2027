@@ -1,0 +1,22 @@
+{
+  "id": "ivg-constitution",
+  "questionSimple": "Faut-il inscrire dans la Constitution la liberté garantie aux femmes d'avoir recours à l'avortement ?",
+  "enBref": "La Constitution, le texte au sommet du droit français, indique désormais que la loi fixe les conditions de la liberté garantie aux femmes d'avorter. Les règles concrètes restent décidées par la loi. Le but est de protéger cette liberté contre un éventuel retour en arrière.",
+  "pourquoiPour": "La liberté d'avorter pourrait un jour être remise en cause. L'inscrire dans la Constitution, au plus haut niveau du droit, protège les femmes contre un retour en arrière.",
+  "pourquoiContre": "L'avortement n'est pas menacé en France, et la Constitution n'a pas à devenir une liste de droits. Le mot « garantie » pourrait pousser les juges à en faire un droit exigible devant les tribunaux.",
+  "ceQuiSestPasse": "Le Parlement réuni en Congrès l'a approuvé le 4 mars 2024 (780 voix contre 72) ; il est entré dans la Constitution le 8 mars.",
+  "lexique": [
+    {
+      "terme": "IVG",
+      "definition": "Interruption volontaire de grossesse : avortement demandé par la femme."
+    },
+    {
+      "terme": "Constitution",
+      "definition": "Texte fondamental qui fixe l'organisation de l'État et les droits ; toutes les lois doivent la respecter."
+    },
+    {
+      "terme": "Congrès",
+      "definition": "Réunion des députés et sénateurs à Versailles pour modifier la Constitution ; il faut trois cinquièmes des voix."
+    }
+  ]
+}

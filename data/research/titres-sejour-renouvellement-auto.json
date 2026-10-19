@@ -1,0 +1,234 @@
+{
+  "id": "titres-sejour-renouvellement-auto",
+  "titre": "Renouvellement automatique des titres de séjour longs",
+  "question": "Faut-il rendre automatique le renouvellement des cartes de séjour pluriannuelles et des cartes de résident ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi du groupe Socialistes (déposée par Fatiha Keloua Hachi, rapportée par Colette Capdevielle) rend automatique, sauf motif de refus, le renouvellement par les préfectures des cartes de séjour pluriannuelles et des cartes de résident, y compris « résident de longue durée-UE ». Les députés y ont ajouté que le silence de l'administration pendant quatre mois vaut acceptation et une obligation d'informer l'étranger avant un refus fondé sur des informations de tiers. Le gouvernement Lecornu s'y est opposé, invoquant des risques constitutionnels et la perte de contrôle. Adopté en première lecture le 11 décembre 2025 (98 voix contre 37), le texte a été transmis au Sénat le 12 décembre 2025, où il n'avait pas été examiné à la dernière mise à jour du dossier (juin 2026).",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Renouvellement automatique des cartes de séjour (proposition de loi)",
+      "url": "https://vie-publique.fr/loi/301336-etrangers-renouvellement-automatique-cartes-de-sejour-proposition-de-loi"
+    },
+    {
+      "titre": "LCP – Les socialistes font adopter un texte pour renouveler automatiquement les titres de séjour de longue durée",
+      "url": "https://lcp.fr/actualites/les-socialistes-font-adopter-un-texte-pour-renouveler-automatiquement-les-titres-de"
+    },
+    {
+      "titre": "Sénat – dossier législatif ppl25-218",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-218.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu (discussion générale), 2e séance du 11 décembre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu (suite et vote), 3e séance du 11 décembre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N092"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renouvellement_automatique_titres_sejour_longue_duree_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Colette Capdevielle (Socialistes, rapporteure)",
+      "resume": "Les délais d'instruction ont explosé alors que la quasi-totalité des renouvellements sont accordés ; l'automaticité soulagerait les étrangers comme les agents de préfecture.",
+      "citation": "En réalité, 99 % des demandes de renouvellement d’un titre de séjour et 99,5 % des demandes de renouvellement d’une carte de résident sont accordées.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091",
+      "date": "2025-12-11"
+    },
+    {
+      "auteur": "Fatiha Keloua Hachi (Socialistes)",
+      "resume": "Les retards des préfectures plongent dans la précarité des personnes installées depuis longtemps, qui perdent travail ou études ; les refus sont très rares.",
+      "citation": "Ces lenteurs administratives plongent dans la précarité des femmes et des hommes qui sont installés en France depuis de très nombreuses années.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091",
+      "date": "2025-12-11"
+    },
+    {
+      "auteur": "Soumya Bourouaha (Gauche démocrate et républicaine)",
+      "resume": "Le renouvellement d'un titre devient un parcours d'obstacles pour des étrangers en situation régulière, au détriment aussi des agents.",
+      "citation": "Chaque semaine, dans ma permanence à Stains, je reçois des dizaines de personnes étrangères en situation régulière dont la vie bascule parce que le simple renouvellement d’un titre de séjour devient un véritable parcours d’obstacles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N092",
+      "date": "2025-12-11"
+    },
+    {
+      "auteur": "Sandra Regol (Écologiste et social)",
+      "resume": "Les agents des préfectures sont surchargés par des démarches inutiles ; refuser l'automaticité, c'est maintenir des situations qui brisent des vies.",
+      "citation": "Je m’étonne aussi de votre peu d’intérêt pour les fonctionnaires des préfectures, qui représentent l’État dans les territoires et qui souffrent d’une surcharge de travail inutile.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N092",
+      "date": "2025-12-11"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Marie-Pierre Vedrenne (ministre déléguée auprès du ministre de l'Intérieur)",
+      "resume": "Le gouvernement partage l'objectif de réduire les délais mais s'oppose au texte en raison d'incertitudes constitutionnelles et conventionnelles liées à l'automaticité.",
+      "citation": "Le gouvernement s’inquiète tout d’abord des incertitudes constitutionnelles et conventionnelles entourant une telle automaticité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091",
+      "date": "2025-12-11"
+    },
+    {
+      "auteur": "Caroline Yadan (Ensemble pour la République)",
+      "resume": "Le renouvellement doit rester un acte contrôlé par l'administration ; près de 2 500 refus en 2025 ont été motivés par l'ordre public.",
+      "citation": "Pour autant, l’automaticité du renouvellement des cartes de séjour de quatre ans ou des cartes de résident de dix ans ne saurait constituer à nos yeux une réponse pertinente.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N092",
+      "date": "2025-12-11"
+    },
+    {
+      "auteur": "Laurent Jacobelli (Rassemblement national)",
+      "resume": "Les délais viennent selon lui d'un excès de demandes et d'immigration ; il faut réduire le nombre de migrants plutôt qu'automatiser.",
+      "citation": "Si le traitement administratif est long, ce n’est pas parce qu’il n’y a pas assez de fonctionnaires, mais parce qu’il y a trop de demandes, et trop d’immigration, en France.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N092",
+      "date": "2025-12-11"
+    },
+    {
+      "auteur": "Laurent Marcangeli (Horizons & indépendants)",
+      "resume": "Le contrôle du séjour des étrangers est un sujet régalien qui ne peut être modifié à la légère ; le système actuel reste équilibré.",
+      "citation": "Le groupe Horizons & indépendant estime que le droit, en particulier dans ce domaine, ne peut être modifié avec légèreté.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N092",
+      "date": "2025-12-11"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Éric Martineau (Les Démocrates)",
+      "resume": "Le groupe partage le constat d'engorgement mais émet de fortes réserves sur la solution, qui risque de fragiliser l'équilibre du droit des étrangers.",
+      "citation": "En voulant simplifier, nous redoutons que ce texte fragilise l’équilibre du droit des étrangers.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N092",
+      "date": "2025-12-11"
+    }
+  ],
+  "candidats": {
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4754) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel il appartient, a voté pour (14-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°4754) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel elle appartient, a voté pour (14-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4754) ; aucune déclaration retrouvée. À titre indicatif, le groupe EPR, qu'il préside, a voté contre (0-9).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°4754) ; aucune déclaration retrouvée. À titre indicatif, le groupe RN, qu'elle préside, a voté contre (0-20).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté pour (29-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe GDR (communistes) a voté pour (5-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté pour (14-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, allié de Place publique et auteur du texte, a voté pour (50-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons & indépendants (son parti) a voté contre (0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur (n'était plus ministre à cette date), texte non examiné au Sénat ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR) a voté contre (0-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR) a voté contre (0-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté contre (0-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée ; Debout la France n'a pas de groupe à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4754",
+      "date": "2025-12-11"
+    }
+  },
+  "alertes": [
+    "Scrutin à faible participation (137 votants) : aucun des quatre candidats députés n'a pris part au vote ; toutes les positions sont « inconnu » (proxies de groupe indiqués).",
+    "Le texte n'a qu'une première lecture : il a été transmis au Sénat, qui ne l'avait pas inscrit à son ordre du jour à la dernière mise à jour consultée du dossier (19 juin 2026).",
+    "Le groupe Les Démocrates s'est partagé (0 pour, 2 contre, 2 abstentions) : l'argument de son orateur est classé en abstention.",
+    "Retailleau : sénateur et président de LR à cette date (il a quitté le ministère de l'Intérieur en octobre 2025) ; aucune prise de position retrouvée."
+  ]
+}

@@ -1,0 +1,220 @@
+{
+  "id": "budget-2025-recettes",
+  "titre": "Partie recettes du budget 2025 réécrite par l'Assemblée",
+  "question": "Faut-il adopter la partie « recettes » du budget 2025 telle que réécrite par les députés en séance, avec de nombreux impôts supplémentaires ajoutés par amendements ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi de finances pour 2025, présenté le 10 octobre 2024 par le gouvernement Barnier, prévoyait environ 60 milliards d'euros d'effort budgétaire, dont des contributions temporaires sur les hauts revenus et les grandes entreprises et une hausse de la taxe sur l'électricité. Pendant l'examen de la première partie (les recettes), les députés du Nouveau Front populaire, souvent majoritaires dans un hémicycle déserté par une partie du socle gouvernemental, et parfois aidés par l'abstention ou le vote du RN, ont profondément réécrit le texte : impôt minimal de 2 % sur les milliardaires (« taxe Zucman »), taxe sur les superprofits, pérennisation de la contribution sur les hauts revenus, suppression de la hausse de la taxe sur l'électricité, suppression du prélèvement destiné au budget européen. Le gouvernement chiffrait ces ajouts à plus de 35 milliards d'euros d'impôts supplémentaires. Le texte soumis au vote n'était donc plus celui du gouvernement, qui s'y opposait, tout comme ses groupes de soutien. Le 12 novembre 2024, cette première partie est rejetée par 362 voix contre 192 : seule la gauche vote pour ; le bloc central, la Droite républicaine, le RN, l'UDR et la majorité de LIOT votent contre. Le rejet de la première partie entraîne celui de tout le projet, transmis au Sénat dans sa version initiale. Après la censure du gouvernement Barnier le 4 décembre 2024, le budget 2025 a été adopté par 49.3 sous le gouvernement Bayrou et promulgué le 14 février 2025.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 12 novembre 2024 (vote sur la première partie du PLF 2025)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045"
+    },
+    {
+      "titre": "LCP – Budget 2025 : l'Assemblée nationale a rejeté la partie « recettes », l'ensemble du texte va être transmis au Sénat",
+      "url": "https://lcp.fr/actualites/budget-2025-l-assemblee-nationale-a-rejete-la-partie-recettes-l-ensemble-du-texte-va"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/438",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+  "argumentsPour": [
+    {
+      "auteur": "Aurélien Le Coq (LFI-NFP)",
+      "resume": "Les recettes votées par la gauche (milliardaires, superprofits, dividendes) permettent de financer les services publics sans « saigner » les classes populaires.",
+      "citation": "Ce budget est le budget du Nouveau Front populaire. Il est le budget que le peuple français a choisi le 7 juillet.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    },
+    {
+      "auteur": "Philippe Brun (Socialistes)",
+      "resume": "Les socialistes ont fait adopter 82 amendements pour alléger l'impôt des classes moyennes et populaires et demander plus aux plus riches ; le pays a besoin d'un budget.",
+      "citation": "J’ai la fierté de voir que quatre-vingt-deux de nos amendements ont été adoptés",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    },
+    {
+      "auteur": "Eva Sas (Écologiste et social)",
+      "resume": "La copie, imparfaite, augmente les recettes de 34 milliards en toute justice fiscale et doit servir de base au Sénat.",
+      "citation": "Le groupe Écologiste et social votera donc pour l’adoption de la première partie du projet de loi de finances et appelle le Gouvernement à prendre en compte les avancées parlementaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    },
+    {
+      "auteur": "Nicolas Sansu (GDR)",
+      "resume": "Les mesures votées (contribution des milliardaires, retour de la CVAE, conditionnalité du CIR) montrent qu'un autre chemin existe.",
+      "citation": "nous avons démontré qu’une majorité existait pour construire un autre chemin, celui qui remet de la justice fiscale et assure le consentement à l’impôt, pilier de notre pacte social.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Véronique Louwagie (Droite républicaine)",
+      "resume": "Le texte a été dénaturé par un « matraquage fiscal » voté par la gauche avec l'aide du RN ; il ne correspond plus au projet du gouvernement.",
+      "citation": "La version du texte issue de nos débats, totalement dénaturée, ne correspond en rien à la proposition initiale souhaitée par Michel Barnier",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    },
+    {
+      "auteur": "Charles de Courson (rapporteur général, LIOT)",
+      "resume": "Une large part des recettes votées est inconstitutionnelle, contraire au droit européen ou inapplicable ; la suppression du prélèvement européen dégrade les comptes.",
+      "citation": "Deuxième raison : les amendements à la première partie adoptés en séance accentuent gravement la dérive des comptes publics.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    },
+    {
+      "auteur": "David Amiel (EPR)",
+      "resume": "L'essentiel des hausses d'impôts votées serait inapplicable et menacerait la compétitivité et l'appartenance à l'Union européenne.",
+      "citation": "Quelque 80 % des hausses d’impôts qui ont été votées dans cet hémicycle nécessiteraient de sortir de l’Union européenne, de violer des traités internationaux ou de mettre à bas notre ordre constitutionnel et juridique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    },
+    {
+      "auteur": "Matthias Renault (RN)",
+      "resume": "Le RN refuse toute hausse globale des impôts : il rejette autant la copie initiale du gouvernement que la version réécrite par la gauche.",
+      "citation": "le groupe Rassemblement national ne peut cautionner ni le budget initial du Gouvernement ni le budget absurde du NFP.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    },
+    {
+      "auteur": "Laurent Saint-Martin (ministre du budget), après le vote",
+      "resume": "Le gouvernement se félicite d'un rejet « cohérent » : le texte contenait des mesures contraires au droit.",
+      "citation": "Vous ne pouvez pas légiférer contre le droit en adoptant des mesures contraires à la fois à la Constitution, au droit national et au droit communautaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée sur ce vote. Proxy : le groupe LFI-NFP a voté pour (71 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée. Proxy : le groupe GDR a voté pour (17 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté pour (scrutin AN n°438) ; pas d'intervention personnelle retrouvée : argument = explication de vote du groupe Écologiste et social (Eva Sas).",
+      "argument": "Groupe écologiste et social : la copie réécrite fait contribuer multinationales et grandes fortunes et doit servir de base à la suite du débat.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Écologiste et social a voté pour (37 voix, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "S'est abstenue (scrutin AN n°438), contrairement à son groupe Écologiste et social qui a voté pour ; aucune explication retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/438",
+      "date": "2024-11-12"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. Proxy : le groupe Socialistes a voté pour (66 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°438) ; président du groupe EPR, pas d'intervention personnelle retrouvée : argument = explication de vote du groupe (David Amiel).",
+      "argument": "Groupe EPR : le texte réécrit est un « barbouillis budgétaire » à 80 % inapplicable, contraire au droit européen et à la Constitution.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Horizons a voté contre (34 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Barnier, qui s'opposait à cette version réécrite par les oppositions (le ministre du budget a salué un rejet « cohérent ») ; aucune déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. Proxy : le groupe Droite républicaine a voté contre (47 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°438) ; pas d'intervention personnelle retrouvée : argument = explication de vote du groupe RN (Matthias Renault).",
+      "argument": "Groupe RN : refus de toute hausse globale des impôts, qu'il s'agisse du budget initial du gouvernement ou de la version réécrite par la gauche.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N045",
+      "date": "2024-11-12"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Attention au sens du vote : voter « contre » ne signifiait pas soutenir le budget du gouvernement. Le texte voté était la version réécrite par la gauche ; le RN l'a rejetée tout en s'opposant aussi au budget initial.",
+    "Le gouvernement Barnier ne vote pas : la position « contre » de Retailleau reflète celle du gouvernement auquel il appartenait.",
+    "Batho s'est abstenue contre la ligne de son groupe ; aucune explication retrouvée."
+  ]
+}

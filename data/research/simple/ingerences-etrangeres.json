@@ -1,0 +1,22 @@
+{
+  "id": "ingerences-etrangeres",
+  "questionSimple": "Faut-il utiliser des algorithmes de renseignement et créer un registre des lobbyistes au service de l'étranger ?",
+  "enBref": "La loi oblige les personnes qui font du lobbying pour un pays étranger à s'inscrire dans un registre public. Elle autorise, à titre d'essai, les services de renseignement à utiliser des algorithmes pour repérer des ingérences. Elle permet aussi de geler les avoirs des auteurs.",
+  "pourquoiPour": "Pour ses partisans, les ingérences de puissances étrangères augmentent chaque année. Plus de transparence et de nouveaux outils de détection sont nécessaires pour protéger le pays.",
+  "pourquoiContre": "Pour ses opposants, le texte sert de prétexte pour étendre une surveillance intrusive. Les algorithmes de renseignement, mal encadrés, menacent les libertés de tous.",
+  "ceQuiSestPasse": "Adoptée définitivement en juin 2024, la loi a été promulguée le 25 juillet 2024.",
+  "lexique": [
+    {
+      "terme": "Ingérence étrangère",
+      "definition": "Action cachée d'un État étranger pour influencer la politique ou la société d'un autre pays."
+    },
+    {
+      "terme": "Algorithme de renseignement",
+      "definition": "Programme qui analyse automatiquement des données de connexion pour repérer des comportements suspects."
+    },
+    {
+      "terme": "HATVP",
+      "definition": "Haute Autorité pour la transparence de la vie publique, qui contrôle les responsables publics et les lobbyistes."
+    }
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "id": "climat-resilience",
+  "titre": "Loi Climat et résilience",
+  "question": "Faut-il adopter la loi Climat et résilience, issue en partie des propositions de la Convention citoyenne pour le climat (objectif de zéro artificialisation nette, suppression de vols intérieurs remplaçables en train, zones à faibles émissions) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Présenté en Conseil des ministres le 10 février 2021, le projet de loi reprend une partie des propositions de la Convention citoyenne pour le climat : division par deux du rythme d'artificialisation des sols (vers le « zéro artificialisation nette »), fin de lignes aériennes intérieures doublées par un trajet en train de moins de 2 h 30, généralisation des zones à faibles émissions, interdiction progressive de la location des « passoires thermiques », création d'un délit d'écocide. L'Assemblée l'a adopté en première lecture le 4 mai 2021 (332 pour, 77 contre, 145 abstentions) ; la gauche le jugeait insuffisant, la droite et le RN se sont majoritairement abstenus. Après accord en commission mixte paritaire, le Conseil constitutionnel l'a jugé partiellement conforme le 13 août 2021 et la loi n° 2021-1104 a été promulguée le 22 août 2021.",
+  "contexteSources": [
+    {
+      "titre": "Dossier législatif – Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_contre_le_dereglement_climatique"
+    },
+    {
+      "titre": "PJL « Climat et résilience » – Sénat, espace presse",
+      "url": "https://www.senat.fr/salle-de-presse/202102/climat/pjl-climat-et-resilience.html"
+    },
+    {
+      "titre": "Le projet de loi « Climat et Résilience » voté par l'Assemblée nationale (HuffPost/AFP, 04/05/2021)",
+      "url": "https://www.huffingtonpost.fr/politique/article/le-projet-de-loi-climat-et-resilience-vote-par-l-assemblee-nationale_180581.html"
+    },
+    {
+      "titre": "Loi Climat et résilience – Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Loi_portant_lutte_contre_le_d%C3%A9r%C3%A8glement_climatique_et_renforcement_de_la_r%C3%A9silience_face_%C3%A0_ses_effets"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3738",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_contre_le_dereglement_climatique",
+  "argumentsPour": [
+    {
+      "auteur": "Marie Lebec (La République en marche)",
+      "resume": "La loi n'est pas une « loi des petits pas » : commande publique verte, rénovation de millions de logements, division par deux de l'artificialisation, fin de lignes aériennes au profit du train.",
+      "citation": "Quand nous décidons la réduction par deux du rythme d’artificialisation des sols pour l’ensemble du pays, ce n’est pas un petit pas.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-04-mai-2021",
+      "date": "2021-05-04"
+    },
+    {
+      "auteur": "Florence Lasserre (Mouvement démocrate)",
+      "resume": "Un texte pragmatique, ancré dans la vie quotidienne, qui prolonge les lois précédentes (LOM, Égalim, anti-gaspillage) et répond à la demande des Français relayée par la Convention citoyenne.",
+      "citation": "Nous avons la conviction que, par son pragmatisme et les illustrations qu’il trouve dans la vie quotidienne des Français, ce texte est déjà une réussite.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-04-mai-2021",
+      "date": "2021-05-04"
+    },
+    {
+      "auteur": "Antoine Herth (Agir ensemble)",
+      "resume": "Le Parlement a été au rendez-vous de la Convention citoyenne : toutes les dispositions du projet ont été adoptées et souvent renforcées.",
+      "citation": "Or toutes les dispositions prévues dans le projet de loi ont été adoptées et ont même souvent été renforcées.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-04-mai-2021",
+      "date": "2021-05-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Loïc Prud'homme (La France insoumise)",
+      "resume": "Le texte a abandonné ou affaibli l'essentiel des propositions de la Convention citoyenne et n'aura qu'un impact minime sur les émissions.",
+      "citation": "Ce texte, issu de la Convention citoyenne, aura abandonné ou édulcoré en cours de route les trois quarts des propositions.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-04-mai-2021",
+      "date": "2021-05-04"
+    },
+    {
+      "auteur": "Hubert Wulfranc (Gauche démocrate et républicaine)",
+      "resume": "La « politique des petits pas » ne suit pas le rythme imposé par la crise climatique et n'accorde pas de droits nouveaux aux salariés pour la transition.",
+      "citation": "votre politique des petits pas ne suit pas le rythme des changements économiques et sociaux qu’impose la crise écologique et climatique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-04-mai-2021",
+      "date": "2021-05-04"
+    },
+    {
+      "auteur": "Guillaume Garot (Socialistes et apparentés)",
+      "resume": "Quelques avancées reconnues, mais un texte sans justice sociale, sans moyens pour atteindre ses objectifs et sans ambition suffisante.",
+      "citation": "En réalité, ce projet de loi n’a ni équilibre, ni cohérence, ni réelle ambition.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-04-mai-2021",
+      "date": "2021-05-04"
+    },
+    {
+      "auteur": "François-Michel Lambert (Libertés et territoires)",
+      "resume": "Quelques articles vont dans le bon sens (ZFE, passoires thermiques), mais le texte reste fait de mesures peu contraignantes, insuffisantes face à l'urgence.",
+      "citation": "Cette loi est le sacre du droit mou, avec des mesures non normatives ou peu contraignantes",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-04-mai-2021",
+      "date": "2021-05-04"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Jean-Marie Sermier (Les Républicains)",
+      "resume": "La droite partage l'objectif climatique mais rejette une approche par taxes et interdictions qui fracturerait la société, notamment via les zones à faibles émissions.",
+      "citation": "Fallait-il interdire à la moitié des Français l’entrée dans les trente-cinq plus grandes villes de France, alors qu’ils n’ont pas tous les moyens de changer leur automobile ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-04-mai-2021",
+      "date": "2021-05-04"
+    },
+    {
+      "auteur": "Thierry Benoit (UDI et indépendants)",
+      "resume": "Le texte contient de bonnes et de moins bonnes dispositions, mais il manque un volet de fiscalité écologique et les forêts sont absentes.",
+      "citation": "Pour toutes ces raisons, le groupe UDI et indépendants s’abstiendra majoritairement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-04-mai-2021",
+      "date": "2021-05-04"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 3738 du 4 mai 2021 ; il avait défendu la motion de rejet préalable du groupe FI le 29 mars 2021.",
+      "argument": "Le projet a été jugé insuffisant par la Convention citoyenne, des ONG et le Haut Conseil pour le climat ; une réponse insuffisante est jugée dangereuse face à l'urgence climatique.",
+      "citation": "Enfin, le projet de loi a été jugé insuffisant par 110 organisations écologistes, plus le Haut Conseil pour le climat. Ce qui est insuffisant en matière écologique est sans doute inutile",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-lundi-29-mars-2021",
+      "date": "2021-03-29"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 3738 du 4 mai 2021. Pas d'intervention personnelle retrouvée : argument = explication de vote de son groupe GDR (Hubert Wulfranc).",
+      "argument": "(Groupe GDR) La politique des « petits pas » ne suit pas l'urgence climatique et néglige les droits des salariés dans la transition.",
+      "citation": "votre politique des petits pas ne suit pas le rythme des changements économiques et sociaux qu’impose la crise écologique et climatique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-04-mai-2021",
+      "date": "2021-05-04"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 3738 du 4 mai 2021. Pas d'intervention personnelle retrouvée sur le texte : argument = explication de vote de son groupe FI (Loïc Prud'homme).",
+      "argument": "(Groupe FI) Le texte a abandonné ou affaibli l'essentiel des propositions de la Convention citoyenne.",
+      "citation": "Ce texte, issu de la Convention citoyenne, aura abandonné ou édulcoré en cours de route les trois quarts des propositions.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-04-mai-2021",
+      "date": "2021-05-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. EELV n'avait pas de groupe à l'Assemblée en 2021 : pas de proxy de groupe disponible. (Les députés de gauche et écologistes ont majoritairement voté contre.)",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 3738 du 4 mai 2021 ; intervention en séance à la fin de l'examen des articles (17 avril 2021).",
+      "argument": "Le texte reprend à peine 10 % des propositions de la Convention citoyenne et ne réduit qu'une faible part des émissions nécessaires ; elle annonce qu'en écologiste elle ne l'approuvera pas.",
+      "citation": "Elles n’ont pas fondamentalement changé la donne d’un texte qui concrétise à peine 10 % des propositions de la Convention",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-samedi-17-avril-2021",
+      "date": "2021-04-17"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé (Place publique), sans vote sur ce texte national ; aucune déclaration retrouvée. Pas de groupe de son parti à l'Assemblée en 2021 : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du Gouvernement (gouvernement Castex), qui a présenté et défendu ce projet de loi. Aucune déclaration personnelle sur le texte vérifiée.",
+      "argument": "Position du Gouvernement : le texte traduit une partie des propositions de la Convention citoyenne pour le climat.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/lutte_contre_le_dereglement_climatique",
+      "date": "2021-05-04"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ancien Premier ministre, maire du Havre en 2021, sans parti avant la création d'Horizons (octobre 2021) : aucune déclaration retrouvée, pas de proxy de groupe.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif au Sénat pour l'ensemble du projet de loi (texte modifié par le Sénat), scrutin public n° 148 du 29 juin 2021.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-148.html",
+      "date": "2021-06-29"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, hors LR depuis 2017 : aucune déclaration retrouvée sur ce texte et pas de groupe parlementaire de son parti, donc pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY : son parti LR s'est abstenu à l'Assemblée (1 pour, 3 contre, 99 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale (abstention), scrutin n° 3738 du 4 mai 2021. Aucune intervention ni déclaration personnelle retrouvée ; les non-inscrits n'ont pas eu d'explication de vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3738",
+      "date": "2021-05-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Journaliste en 2021, sans parti (Reconquête est fondé en décembre 2021) : aucune déclaration retrouvée, pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale (abstention), scrutin n° 3738 du 4 mai 2021 ; intervention critique dans la discussion générale (30 mars 2021).",
+      "argument": "Texte « cosmétique » qui ignore les émissions importées et le libre-échange, mise sur les renouvelables plutôt que sur le nucléaire et pénalise le porte-monnaie des Français.",
+      "citation": "Votre projet passe à côté de l’essentiel, car il prolonge la logique mondialiste qui a présidé à toutes les catastrophes écologiques contemporaines.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/premiere-seance-du-mardi-30-mars-2021",
+      "date": "2021-03-30"
+    }
+  },
+  "alertes": [
+    "Pas d'explication de vote des non-inscrits (dont le RN) le 4 mai 2021 et aucune intervention de Marine Le Pen sur le texte retrouvée : le camp RN n'est représenté que par son vote (abstention, rapportée aussi par l'AFP/HuffPost).",
+    "Dupont-Aignan a tenu un discours très critique mais s'est abstenu (vote officiel).",
+    "Roussel et Ruffin : aucune prise de parole personnelle retrouvée dans les comptes rendus consultés ; arguments = explications de vote de leurs groupes.",
+    "Attal : position déduite de son appartenance au Gouvernement (porte-parole) ; aucune citation personnelle vérifiée (pages info.gouv.fr et vie-publique.fr bloquées par l'outil).",
+    "Le texte final (CMP) a été adopté le 20 juillet 2021 (scrutin AN n° 3891) : les positions au vote final peuvent différer de celles de la première lecture et n'ont pas été vérifiées.",
+    "Les mesures décrites dans le contexte (dont le seuil de 2 h 30 pour les vols intérieurs) sont celles du texte promulgué, sourcées via Wikipédia ; le texte voté en première lecture le 4 mai 2021 pouvait différer sur certains points."
+  ]
+}

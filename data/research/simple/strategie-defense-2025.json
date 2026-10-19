@@ -1,0 +1,18 @@
+{
+  "id": "strategie-defense-2025",
+  "questionSimple": "Approuvez-vous le plan du gouvernement pour renforcer la défense face à la menace russe (décembre 2025) ?",
+  "enBref": "Le Premier ministre a présenté sa stratégie pour accélérer le réarmement du pays. Elle prévoit 6,7 milliards d'euros de plus pour les armées en 2026. Ce vote est un soutien politique : l'argent dépend du budget de l'État, voté à part.",
+  "pourquoiPour": "Pour ses partisans, la Russie est passée à une économie de guerre et menace l'Europe. La France subit déjà des attaques hybrides et doit renforcer vite ses armées.",
+  "pourquoiContre": "Pour ses opposants, parler d'« économie de guerre » sert à justifier l'austérité. Ils dénoncent une logique de blocs au détriment d'un effort pour la paix.",
+  "ceQuiSestPasse": "Approuvée par l'Assemblée (411 pour, 88 contre) puis par le Sénat le 15 décembre 2025 ; ce vote n'avait pas de valeur de loi.",
+  "lexique": [
+    {
+      "terme": "Article 50-1",
+      "definition": "Déclaration du gouvernement devant le Parlement, suivie d'un débat et parfois d'un vote, sans valeur de loi."
+    },
+    {
+      "terme": "Attaques hybrides",
+      "definition": "Attaques sans combat ouvert : cyberattaques, désinformation, sabotages, ingérences."
+    }
+  ]
+}

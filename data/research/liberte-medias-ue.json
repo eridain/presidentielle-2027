@@ -1,0 +1,233 @@
+{
+  "id": "liberte-medias-ue",
+  "titre": "Règlement européen sur la liberté des médias (EMFA)",
+  "question": "Faut-il soutenir le règlement européen sur la liberté des médias (EMFA) ?",
+  "ouiSignifie": "pour",
+  "contexte": "En septembre 2022, la Commission européenne a proposé un règlement sur la liberté des médias (European Media Freedom Act) : protection de l'indépendance éditoriale et des sources, interdiction des logiciels espions contre les journalistes, financement stable et indépendance des médias publics, transparence de la propriété des médias et de la publicité d'État. L'Assemblée a adopté le 17 janvier 2023 une proposition de résolution européenne (163 pour, 46 contre, 30 abstentions) soutenant le texte tout en demandant le respect de la subsidiarité. Les groupes de gauche se sont abstenus à cause de l'alinéa 31, lié à la suppression de la redevance audiovisuelle. Le règlement a été adopté par le Parlement européen le 13 mars 2024 (règlement (UE) 2024/1083).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution européenne",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/legislation_euro_medias2"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin du 17 janvier 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842"
+    },
+    {
+      "titre": "HowTheyVote – vote final du Parlement européen sur l'EMFA (13 mars 2024)",
+      "url": "https://howtheyvote.eu/votes/166183"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/legislation_euro_medias2",
+  "argumentsPour": [
+    {
+      "auteur": "Fabienne Colboc (Renaissance)",
+      "resume": "Face aux ingérences publiques et privées et à l'insécurité des journalistes, de nouvelles régulations européennes sont nécessaires.",
+      "citation": "Pour garantir que toutes les voix puissent se faire entendre, nous devons instaurer de nouvelles régulations.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-17-janvier-2023",
+      "date": "2023-01-17"
+    },
+    {
+      "auteur": "Jean-Jacques Gaultier (Les Républicains)",
+      "resume": "Le texte prévoit des garde-fous utiles contre les ingérences et la concurrence des grandes plateformes.",
+      "citation": "En conséquence, nous voterons cette proposition de résolution européenne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-17-janvier-2023",
+      "date": "2023-01-17"
+    },
+    {
+      "auteur": "Laurent Esquenet-Goxes (Démocrate)",
+      "resume": "Sans médias libres, le vote serait le jouet d'intérêts privés ou d'un pouvoir illibéral.",
+      "citation": "Sans des médias libres, le vote est le jouet de ceux qui pensent que la démocratie n’est qu’un Monopoly",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-17-janvier-2023",
+      "date": "2023-01-17"
+    },
+    {
+      "auteur": "Jérémie Patrier-Leitus (Horizons)",
+      "resume": "Voter le texte permet que la position de l'Assemblée pèse sur la négociation européenne.",
+      "citation": "Si nous souhaitons que le Parlement et le Conseil européens prennent en compte la position de l’Assemblée lors de l’examen de cette législation, il nous faut voter ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/troisieme-seance-du-mardi-17-janvier-2023",
+      "date": "2023-01-17"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Philippe Ballard (Rassemblement national)",
+      "resume": "L'Union n'a pas de compétence en matière culturelle ; il ne faut pas lui donner de nouveaux moyens de centraliser les règles.",
+      "citation": "Dès lors, il ne nous paraît pas opportun de donner à l’Union européenne des armes nouvelles pour centraliser davantage encore les règles en vigueur.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-17-janvier-2023",
+      "date": "2023-01-17"
+    },
+    {
+      "auteur": "Caroline Parmentier (Rassemblement national)",
+      "resume": "Le texte ne respecterait pas la subsidiarité et porterait atteinte à la souveraineté des États sur la liberté des médias.",
+      "citation": "En somme, le texte présenté ne respecte pas le principe de subsidiarité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/troisieme-seance-du-mardi-17-janvier-2023",
+      "date": "2023-01-17"
+    },
+    {
+      "auteur": "Joëlle Mélin (Rassemblement national)",
+      "resume": "Le RN s'est opposé à la résolution en commission et en séance.",
+      "citation": "C’est pourquoi nous nous sommes opposés à cette proposition de résolution européenne, tant en commission des affaires européennes qu’en commission des affaires culturelles et de l’éducation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/troisieme-seance-du-mardi-17-janvier-2023",
+      "date": "2023-01-17"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Sarah Legrain (La France insoumise)",
+      "resume": "LFI soutient la liberté des médias mais refuse l'alinéa 31, qui validerait selon elle la suppression de la redevance audiovisuelle.",
+      "citation": "Comme il n’a pas été possible de supprimer ce malheureux alinéa 31 et conformément à ce que nous disions au début de l’examen du texte, nous ne pourrons donc pas voter pour celui-ci.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/troisieme-seance-du-mardi-17-janvier-2023",
+      "date": "2023-01-17"
+    },
+    {
+      "auteur": "Sophie Taillé-Polian (Écologiste)",
+      "resume": "Une taxe affectée au financement de l'audiovisuel public garantissait son indépendance ; l'alinéa 31 l'empêche de voter pour.",
+      "citation": "Nous souhaiterions pouvoir voter ce texte : pour cela, supprimons l’alinéa 31 !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/troisieme-seance-du-mardi-17-janvier-2023",
+      "date": "2023-01-17"
+    },
+    {
+      "auteur": "Soumya Bourouaha (Gauche démocrate et républicaine)",
+      "resume": "Le GDR salue des avancées mais s'abstient, le texte n'allant pas jusqu'au bout.",
+      "citation": "comme les autres groupes de la NUPES, nous nous abstiendrons car nous considérons que nous n’avons pas été jusqu’au bout.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/troisieme-seance-du-mardi-17-janvier-2023",
+      "date": "2023-01-17"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2022 ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES s'est abstenu (0 pour / 0 contre / 13 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée. Pour information, son groupe GDR s'est abstenu (2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée. Pour information, son groupe LFI s'est abstenu (13 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste s'est abstenu (0 pour / 0 contre / 5 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "vote_pe",
+      "detail": "Eurodéputé : vote pour le règlement européen sur la liberté des médias lors du vote final du Parlement européen (13 mars 2024, A9-0264/2023).",
+      "argument": null,
+      "citation": null,
+      "url": "https://howtheyvote.eu/votes/166183",
+      "date": "2024-03-13"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des comptes publics dans le gouvernement Borne, qui a soutenu la résolution en séance (Rima Abdul-Malak) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-17-janvier-2023",
+      "date": "2023-01-17"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (maire du Havre, président d'Horizons) ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (15 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; aucun vote ni déclaration retrouvés. PROXY : le groupe LR de l'Assemblée a voté pour (26 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (26 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (26 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration retrouvée. Pour information, son groupe RN a voté contre (0 pour / 45 contre) et Jordan Bardella (RN) a voté contre l'EMFA au Parlement européen le 13 mars 2024.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. Pour information, Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non-inscrit, n'a pas pris part au vote ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/842",
+      "date": "2023-01-17"
+    }
+  },
+  "alertes": [
+    "Le scrutin porte sur une proposition de résolution européenne (avis de l'Assemblée sur la proposition de règlement), non sur le règlement lui-même.",
+    "Les abstentions de LFI, des Écologistes, du GDR et des Socialistes visent l'alinéa 31 (financement de l'audiovisuel public après la suppression de la redevance), non le principe du règlement.",
+    "Aucun candidat suivi n'a pris part au scrutin de l'Assemblée : positions laissées « inconnu » sauf Glucksmann (vote PE) et Attal (gouvernement).",
+    "Glucksmann : vote sur le règlement final au Parlement européen (mars 2024), texte différent de la résolution de l'Assemblée."
+  ]
+}

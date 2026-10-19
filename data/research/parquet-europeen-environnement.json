@@ -1,0 +1,211 @@
+{
+  "id": "parquet-europeen-environnement",
+  "titre": "Extension du Parquet européen aux crimes environnementaux",
+  "question": "Faut-il étendre les compétences du Parquet européen aux infractions environnementales ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le Parquet européen, en fonction depuis juin 2021 et rassemblant vingt-quatre États membres, poursuit les fraudes au budget de l'Union. L'article 86 du traité sur le fonctionnement de l'Union européenne permet d'étendre ses compétences aux infractions graves à dimension transfrontière, par une décision unanime du Conseil européen. La proposition de résolution européenne de Naïma Moutchou (Horizons), sans valeur contraignante, invite le gouvernement à soutenir cette extension aux crimes environnementaux les plus graves (trafics de déchets, d'espèces protégées…). Elle a été adoptée le 10 juin 2025 (46 pour, 38 contre, 2 abstentions), le RN, LFI et l'UDR votant contre.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution européenne",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/parquet_europeen_environnement2"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°2282",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la troisième séance du 10 juin 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-mardi-10-juin-2025"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/parquet_europeen_environnement2",
+  "argumentsPour": [
+    {
+      "auteur": "Naïma Moutchou (Horizons, rapporteure)",
+      "resume": "Le Parquet européen a prouvé son efficacité contre la fraude ; il faut l'étendre à la criminalité environnementale, souvent transfrontière.",
+      "citation": "Aujourd’hui, je vous propose d’écrire la suite de cette histoire, une suite nécessaire, attendue, urgente : l’extension des compétences du parquet européen à la criminalité environnementale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-mardi-10-juin-2025",
+      "date": "2025-06-10"
+    },
+    {
+      "auteur": "Sébastien Huyghe (Ensemble pour la République)",
+      "resume": "La criminalité environnementale est la troisième activité criminelle la plus lucrative et croît plus vite que l'économie mondiale.",
+      "citation": "Le groupe Ensemble pour la République votera donc le texte avec conviction et enthousiasme.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-mardi-10-juin-2025",
+      "date": "2025-06-10"
+    },
+    {
+      "auteur": "Jérémie Iordanoff (Écologiste et social)",
+      "resume": "Les parquets nationaux manquent d'outils face à des réseaux criminels structurés et transnationaux.",
+      "citation": "Les parquets nationaux n’ont souvent pas les outils ou les moyens pour lutter contre des réseaux criminels structurés et transnationaux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-mardi-10-juin-2025",
+      "date": "2025-06-10"
+    },
+    {
+      "auteur": "Julien Brugerolles (Gauche démocrate et républicaine)",
+      "resume": "Un parquet vert européen serait un levier majeur pour une stratégie judiciaire européenne de protection de l'environnement.",
+      "citation": "Les députés du groupe GDR accueillent favorablement la création d’un parquet vert européen",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-mardi-10-juin-2025",
+      "date": "2025-06-10"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jocelyn Dessigny (Rassemblement national)",
+      "resume": "La justice et la police sont des piliers de la souveraineté ; les confier à une structure supranationale dilue les responsabilités de l'État.",
+      "citation": "À ce projet, le groupe Rassemblement national répond non !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-mardi-10-juin-2025",
+      "date": "2025-06-10"
+    },
+    {
+      "auteur": "Sophie Ricourt Vaginay (Union des droites pour la République)",
+      "resume": "Le Parquet européen serait le « cheval de Troie » d'une fédéralisation et pourrait poursuivre des entreprises sans ancrage démocratique.",
+      "citation": "Au nom d’une urgence écologique érigée en totem, vous nous proposez ni plus ni moins que d’ouvrir les portes de nos juridictions nationales au parquet européen, ce cheval de Troie d’une fédéralisation rampante.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-mardi-10-juin-2025",
+      "date": "2025-06-10"
+    },
+    {
+      "auteur": "Danièle Obono (La France insoumise)",
+      "resume": "LFI juge contre-productif d'empiler des structures supranationales ; il faudrait plutôt donner des moyens aux juridictions nationales spécialisées.",
+      "citation": "Il serait donc contre-productif d’étendre les compétences du parquet.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-mardi-10-juin-2025",
+      "date": "2025-06-10"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LFI a voté contre (0 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté pour (1 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°2282) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté pour (7 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°2282) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucun vote du Parlement européen ni déclaration retrouvés sur ce sujet. PROXY : le groupe Socialistes de l'Assemblée a voté pour (11 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député (président du groupe EPR), n'a pas pris part au vote (scrutin n°2282) ; aucune déclaration retrouvée. Pour information, son groupe EPR a voté pour (10 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire (maire du Havre, président d'Horizons) ; aucune déclaration retrouvée. PROXY : le groupe Horizons, dont est issue la rapporteure, a voté pour (7 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur dans le gouvernement Bayrou, qui a soutenu « sur le principe » les objectifs du texte en séance (Gérald Darmanin), avec des réserves sur les doublons institutionnels ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/troisieme-seance-du-mardi-10-juin-2025",
+      "date": "2025-06-10"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (4 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour (4 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°2282) ; aucune déclaration retrouvée. Pour information, son groupe RN a voté contre (0 pour / 23 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Debout la France n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2282",
+      "date": "2025-06-10"
+    }
+  },
+  "alertes": [
+    "Résolution européenne sans valeur contraignante ; l'extension exigerait une décision unanime du Conseil européen (article 86 TFUE).",
+    "Faible participation (86 votants) : aucun candidat suivi n'a pris part au vote.",
+    "Retailleau : soutien du gouvernement exprimé « sur le principe » par le garde des Sceaux, avec des réserves ; position déduite de son appartenance au gouvernement.",
+    "Lisnard : l'appartenance à LR en juin 2025 n'a pas été revérifiée ; proxy à prendre avec prudence."
+  ]
+}

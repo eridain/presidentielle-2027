@@ -1,0 +1,215 @@
+{
+  "id": "referendum-ceta",
+  "titre": "Référendum sur la ratification du CETA",
+  "question": "Faut-il soumettre la ratification du CETA à un référendum ?",
+  "ouiSignifie": "pour",
+  "contexte": "Proposition de résolution du groupe La France insoumise, sans portée contraignante, affirmant l'importance démocratique du recours au référendum pour ratifier l'accord de libre-échange entre l'Union européenne et le Canada (CETA), appliqué à titre provisoire depuis septembre 2017. Ses auteurs invoquaient l'impact du traité sur l'agriculture, l'environnement et le mécanisme de règlement des différends entre investisseurs et États ; le gouvernement et la majorité estimaient que le Parlement devait se prononcer. La résolution a été rejetée le 1er février 2018 (25 pour, 73 contre, 6 abstentions). Le projet de loi de ratification a ensuite été adopté par l'Assemblée en juillet 2019, sans référendum.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/utilisation_referendum_ratification_ceta"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°381",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la deuxième séance du 1er février 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-jeudi-01-fevrier-2018"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/utilisation_referendum_ratification_ceta",
+  "argumentsPour": [
+    {
+      "auteur": "Mathilde Panot (La France insoumise)",
+      "resume": "Le traité aggraverait la situation des agriculteurs et le peuple doit trancher sur un accord aux conséquences aussi importantes.",
+      "citation": "En votant notre résolution qui appelle à un référendum sur le CETA, je vous demande donc de penser fraternellement à nos agricultrices et agriculteurs",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-jeudi-01-fevrier-2018",
+      "date": "2018-02-01"
+    },
+    {
+      "auteur": "Stéphane Peu (Gauche démocrate et républicaine)",
+      "resume": "Le traité aura plus d'impact sur la vie des Français que bien des lois ; son opacité justifie un débat et un vote populaire.",
+      "citation": "Par certains aspects, il aura même plus d’impact sur notre économie et sur la vie des Français que bien des lois qui sont débattues et votées dans l’enceinte du Parlement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-jeudi-01-fevrier-2018",
+      "date": "2018-02-01"
+    },
+    {
+      "auteur": "Jean-Luc Mélenchon (La France insoumise)",
+      "resume": "Le mécanisme d'arbitrage soustrairait les multinationales au droit national ; les lois votées ne s'imposeraient plus à elles.",
+      "citation": "Autrement dit, quelque loi que nous votions, elle ne s’imposera pas aux multinationales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-jeudi-01-fevrier-2018",
+      "date": "2018-02-01"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Baptiste Lemoyne (secrétaire d'État, gouvernement)",
+      "resume": "Le gouvernement organise un débat approfondi avec le Parlement (étude d'impact, suivi du plan d'action) ; l'Assemblée se prononcera au nom du peuple.",
+      "citation": "À son terme, l’Assemblée nationale se prononcera, au nom du peuple français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-jeudi-01-fevrier-2018",
+      "date": "2018-02-01"
+    },
+    {
+      "auteur": "Roland Lescure (La République en marche)",
+      "resume": "Un référendum ne porterait pas sur les 2 000 pages du traité mais deviendrait un affrontement entre peur et ouverture.",
+      "citation": "Si jamais ce référendum venait à avoir lieu, vous le savez bien : ce ne serait pas sur les plus de 2 000 pages du traité qu’il porterait.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-jeudi-01-fevrier-2018",
+      "date": "2018-02-01"
+    },
+    {
+      "auteur": "Lionel Causse (La République en marche)",
+      "resume": "Citant Michel Rocard, il estime qu'un référendum conduit les électeurs à répondre à d'autres questions que celle posée.",
+      "citation": "On pose une question, les gens s’en posent d’autres et viennent voter en fonction de raisons qui n’ont plus rien à voir avec la question",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-jeudi-01-fevrier-2018",
+      "date": "2018-02-01"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Hervé Saulignac (Nouvelle Gauche)",
+      "resume": "Le CETA présente des risques pour l'agriculture, notamment bovine, mais le référendum ne lui paraît pas le bon outil ; son groupe s'est partagé.",
+      "citation": "le référendum ne nous semble pas être le moyen approprié pour sortir par le haut de ce qui fait largement débat entre nous.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-jeudi-01-fevrier-2018",
+      "date": "2018-02-01"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°381) ; intervention en séance.",
+      "argument": "Il juge que le CETA soustrait les multinationales au droit des États via l'arbitrage, ce qui touche à la souveraineté et justifie l'avis du peuple.",
+      "citation": "Autrement dit, quelque loi que nous votions, elle ne s’imposera pas aux multinationales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-jeudi-01-fevrier-2018",
+      "date": "2018-02-01"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°381) ; en avril 2024, après le rejet du CETA par le Sénat, il a appelé à un vote du Parlement ou à un référendum (franceinfo).",
+      "argument": "Il propose de rejeter le CETA par le Parlement ou, à défaut, par un référendum d'initiative parlementaire.",
+      "citation": "Une autre manière de rejeter ce Ceta, c'est ou par la voie du Parlement ou par la voie du référendum",
+      "url": "https://www.franceinfo.fr/politique/fabien-roussel/ceta-s-il-le-faut-nous-lancerons-un-processus-de-referendum-d-initiative-parlementaire-declare-le-communiste-fabien-roussel_6476096.html",
+      "date": "2024-04-09"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Député : son vote n'a pas été enregistré (scrutin n°381), mais il a fait savoir par une mise au point officielle qu'il avait voulu « voter pour ». Argument = celui du groupe LFI (Mathilde Panot).",
+      "argument": "Le groupe LFI estime qu'un traité aux effets aussi lourds pour l'agriculture doit être tranché par le peuple.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381",
+      "date": "2018-02-01"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune responsabilité nationale en 2018 ; aucune déclaration retrouvée sur un référendum ; pas de groupe écologiste à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381",
+      "date": "2018-02-01"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°381) ; seulement des interjections en séance, pas d'explication développée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381",
+      "date": "2018-02-01"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ni élu ni chef de parti en février 2018 ; aucune déclaration retrouvée. Le groupe Nouvelle Gauche s'est partagé (2 pour, 2 abstentions) : pas de proxy exploitable.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381",
+      "date": "2018-02-01"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député à l'époque, n'a pas pris part au vote (scrutin n°381) ; aucune déclaration retrouvée. Pour information, son groupe LaREM a voté contre (0 pour / 62 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381",
+      "date": "2018-02-01"
+    },
+    "philippe": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Premier ministre ; son gouvernement s'est opposé à la résolution en séance (Jean-Baptiste Lemoyne) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-jeudi-01-fevrier-2018",
+      "date": "2018-02-01"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, pas de vote sur cette résolution propre à l'Assemblée ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (1 pour / 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381",
+      "date": "2018-02-01"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (parti qu'il venait de quitter) a voté contre (1 pour / 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381",
+      "date": "2018-02-01"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (1 pour / 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381",
+      "date": "2018-02-01"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°381) ; lors du débat de ratification du CETA (17 juillet 2019), elle a estimé que le traité aurait dû être soumis à référendum.",
+      "argument": "Le CETA marquerait la disparition progressive de la souveraineté du peuple ; un gouvernement démocrate l'aurait fait ratifier par référendum.",
+      "citation": "D’ailleurs, si vous étiez vraiment démocrates, c’est par référendum que vous l’auriez fait ratifier.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2018-2019/premiere-seance-du-mercredi-17-juillet-2019",
+      "date": "2019-07-17"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2018 (Reconquête fondé en 2021) ; aucune déclaration retrouvée ; pas de proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381",
+      "date": "2018-02-01"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°381) ; aucune déclaration spécifique sur un référendum retrouvée (il a voté contre la ratification du CETA en 2019).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/381",
+      "date": "2018-02-01"
+    }
+  },
+  "alertes": [
+    "Résolution sans portée contraignante ; le vote ne décidait pas de l'organisation d'un référendum.",
+    "Faible participation (104 votants) : Roussel, Attal, Le Pen et Dupont-Aignan n'ont pas pris part au vote.",
+    "Roussel : déclaration de 2024 (après le rejet du CETA par le Sénat), six ans après ce scrutin ; il évoque un « référendum d'initiative parlementaire » pour rejeter le CETA.",
+    "Le Pen : déclaration lors du débat de ratification de juillet 2019, postérieure au scrutin.",
+    "Philippe : position déduite de l'opposition exprimée par son gouvernement en séance.",
+    "Saulignac (Nouvelle Gauche) juge le référendum inapproprié alors que son groupe s'est partagé entre pour et abstention.",
+    "Ruffin : non comptabilisé dans le scrutin n°381 (« absent » dans l'open data) ; la page du scrutin mentionne une mise au point indiquant qu'il avait voulu « voter pour »."
+  ]
+}

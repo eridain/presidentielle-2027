@@ -1,0 +1,18 @@
+{
+  "id": "justice-criminelle-2026",
+  "questionSimple": "Faut-il réformer la justice criminelle pour juger les crimes plus vite, avec moins de jurys populaires ?",
+  "enBref": "Les procès pour crimes prennent souvent des années. La loi confie plus d'affaires aux cours criminelles, composées de juges sans jurés citoyens. Elle simplifie des procédures et autorise la recherche d'ADN dans la parenté pour élucider des crimes.",
+  "pourquoiPour": "Pour ses défenseurs, des milliers d'affaires attendent d'être jugées et les victimes attendent trop longtemps. Le texte accélère les procès et aide les enquêteurs.",
+  "pourquoiContre": "Pour ses opposants, la justice manque surtout de moyens. Accélérer en réduisant les droits de la défense et en écartant les jurés citoyens serait une mauvaise réponse.",
+  "ceQuiSestPasse": "La loi a été promulguée le 23 juillet 2026, après une censure partielle du Conseil constitutionnel. Le « plaider-coupable » pour les crimes avait été abandonné avant le vote.",
+  "lexique": [
+    {
+      "terme": "Cour criminelle départementale",
+      "definition": "Tribunal de cinq juges professionnels, sans jurés citoyens, qui juge certains crimes."
+    },
+    {
+      "terme": "Généalogie génétique",
+      "definition": "Recherche d'un suspect grâce à l'ADN de membres de sa famille."
+    }
+  ]
+}

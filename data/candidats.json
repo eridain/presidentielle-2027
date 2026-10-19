@@ -1,0 +1,245 @@
+[
+ {
+  "id": "melenchon",
+  "nom": "Jean-Luc Mélenchon",
+  "parti": "La France insoumise",
+  "partis": [
+   {
+    "id": "lfi",
+    "nom": "La France insoumise"
+   }
+  ],
+  "acteur": "PA2150",
+  "proxyGroupe": [
+   "FI",
+   "LFI - NUPES",
+   "LFI-NFP"
+  ]
+ },
+ {
+  "id": "roussel",
+  "nom": "Fabien Roussel",
+  "parti": "Parti communiste français",
+  "partis": [
+   {
+    "id": "pcf",
+    "nom": "Parti communiste français"
+   }
+  ],
+  "acteur": "PA720692",
+  "proxyGroupe": [
+   "GDR",
+   "GDR - NUPES"
+  ]
+ },
+ {
+  "id": "ruffin",
+  "nom": "François Ruffin",
+  "parti": "Debout !",
+  "partis": [
+   {
+    "id": "debout",
+    "nom": "Debout !"
+   }
+  ],
+  "acteur": "PA722142",
+  "proxyGroupe": []
+ },
+ {
+  "id": "tondelier",
+  "nom": "Marine Tondelier",
+  "parti": "Les Écologistes",
+  "partis": [
+   {
+    "id": "ecologistes",
+    "nom": "Les Écologistes"
+   }
+  ],
+  "acteur": null,
+  "proxyGroupe": [
+   "Ecolo - NUPES",
+   "EcoS"
+  ]
+ },
+ {
+  "id": "batho",
+  "nom": "Delphine Batho",
+  "parti": "Génération écologie",
+  "partis": [
+   {
+    "id": "generation-ecologie",
+    "nom": "Génération écologie"
+   }
+  ],
+  "acteur": "PA335999",
+  "proxyGroupe": []
+ },
+ {
+  "id": "glucksmann",
+  "nom": "Raphaël Glucksmann",
+  "parti": "Place publique (vainqueur de la primaire sociale-démocrate)",
+  "partis": [
+   {
+    "id": "place-publique",
+    "nom": "Place publique"
+   },
+   {
+    "id": "ps",
+    "nom": "Parti socialiste",
+    "rattachement": "Le Parti socialiste a organisé la primaire sociale-démocrate remportée par Raphaël Glucksmann."
+   }
+  ],
+  "acteur": null,
+  "proxyGroupe": [
+   "NG",
+   "SOC"
+  ],
+  "proxyPeriodes": [
+   {
+    "du": "2019-03-01"
+   }
+  ],
+  "proxyMotif": "les groupes socialistes ne servent de référence qu'à partir du 1er mars 2019 (alliance Place publique–PS aux élections européennes de 2019)."
+ },
+ {
+  "id": "attal",
+  "nom": "Gabriel Attal",
+  "parti": "Renaissance",
+  "partis": [
+   {
+    "id": "renaissance",
+    "nom": "Renaissance"
+   }
+  ],
+  "acteur": "PA722190",
+  "proxyGroupe": [
+   "LaREM",
+   "RE",
+   "EPR"
+  ]
+ },
+ {
+  "id": "philippe",
+  "nom": "Édouard Philippe",
+  "parti": "Horizons",
+  "partis": [
+   {
+    "id": "horizons",
+    "nom": "Horizons"
+   }
+  ],
+  "acteur": "PA345619",
+  "proxyGroupe": [
+   "HOR"
+  ]
+ },
+ {
+  "id": "retailleau",
+  "nom": "Bruno Retailleau",
+  "parti": "Les Républicains",
+  "partis": [
+   {
+    "id": "lr",
+    "nom": "Les Républicains"
+   }
+  ],
+  "acteur": "PA2538",
+  "proxyGroupe": [
+   "LR",
+   "DR"
+  ]
+ },
+ {
+  "id": "bertrand",
+  "nom": "Xavier Bertrand",
+  "parti": "Nous France (LR)",
+  "partis": [
+   {
+    "id": "nous-france",
+    "nom": "Nous France"
+   },
+   {
+    "id": "lr",
+    "nom": "Les Républicains",
+    "rattachement": "Xavier Bertrand est membre des Républicains."
+   }
+  ],
+  "acteur": "PA267080",
+  "proxyGroupe": [
+   "LR",
+   "DR"
+  ],
+  "proxyPeriodes": [
+   {
+    "au": "2017-12-10"
+   },
+   {
+    "du": "2021-10-01"
+   }
+  ],
+  "proxyMotif": "le groupe LR ne sert de référence qu'avant le 11 décembre 2017 et à partir du 1er octobre 2021 ; entre ces deux dates, Xavier Bertrand avait quitté LR."
+ },
+ {
+  "id": "lisnard",
+  "nom": "David Lisnard",
+  "parti": "Nouvelle Énergie",
+  "partis": [
+   {
+    "id": "nouvelle-energie",
+    "nom": "Nouvelle Énergie"
+   }
+  ],
+  "acteur": null,
+  "proxyGroupe": [
+   "LR",
+   "DR"
+  ],
+  "proxyPeriodes": [
+   {
+    "au": "2026-03-31"
+   }
+  ],
+  "proxyMotif": "le groupe LR / Droite républicaine ne sert de référence que jusqu'au 31 mars 2026 (David Lisnard quitte LR fin mars 2026)."
+ },
+ {
+  "id": "lepen",
+  "nom": "Marine Le Pen",
+  "parti": "Rassemblement national",
+  "partis": [
+   {
+    "id": "rn",
+    "nom": "Rassemblement national"
+   }
+  ],
+  "acteur": "PA720614",
+  "proxyGroupe": [
+   "RN"
+  ]
+ },
+ {
+  "id": "zemmour",
+  "nom": "Éric Zemmour",
+  "parti": "Reconquête",
+  "partis": [
+   {
+    "id": "reconquete",
+    "nom": "Reconquête"
+   }
+  ],
+  "acteur": null,
+  "proxyGroupe": []
+ },
+ {
+  "id": "dupontaignan",
+  "nom": "Nicolas Dupont-Aignan",
+  "parti": "Debout la France",
+  "partis": [
+   {
+    "id": "dlf",
+    "nom": "Debout la France"
+   }
+  ],
+  "acteur": "PA1206",
+  "proxyGroupe": []
+ }
+]

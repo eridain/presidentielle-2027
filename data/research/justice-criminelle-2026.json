@@ -1,0 +1,226 @@
+{
+  "id": "justice-criminelle-2026",
+  "titre": "Réforme de la justice criminelle 2026",
+  "question": "Faut-il adopter la réforme de la justice criminelle de 2026 (cours criminelles sans jury élargies, procédures accélérées, généalogie génétique) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Présenté en Conseil des ministres le 18 mars 2026 par le garde des Sceaux Gérald Darmanin, le projet de loi sur la justice criminelle et le respect des victimes visait à résorber l'engorgement des juridictions criminelles (près de 6 000 affaires en attente fin 2025 selon Agnès Firmin Le Bodo). Sa mesure phare, un « plaider-coupable » criminel (procédure de jugement des crimes reconnus), a été retirée par le ministre mi-juin 2026 faute de consensus, comme le statut de citoyen assesseur. Le texte final élargit la compétence des cours criminelles départementales (sans jury populaire) aux crimes punis de 15 ou 20 ans commis en récidive et allège leurs contraintes, légalise la généalogie génétique d'investigation, ouvre l'aide juridictionnelle dès le dépôt de plainte pour les victimes de violences sexuelles ou intrafamiliales, encadre la purge des nullités et crée une procédure d'urgence de prolongation de la détention provisoire ; il rétablit aussi la détention provisoire des mineurs de 16 à 18 ans accusés de crimes, sans base légale depuis le 1er juillet 2026. Adopté par le Sénat le 14 avril puis par l'Assemblée le 7 juillet 2026, le texte de la commission mixte paritaire a été voté par l'Assemblée le 8 juillet (283 pour, 156 contre) et définitivement par le Sénat le 9 juillet. Le Conseil constitutionnel l'a déclaré partiellement conforme (décision n° 2026-909 DC du 23 juillet 2026, censurant notamment l'usage de bases génétiques privées étrangères) ; la loi a été promulguée le 23 juillet 2026 (loi n° 2026-651).",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 23 juillet 2026 sur la justice criminelle et le respect des victimes",
+      "url": "https://www.vie-publique.fr/loi/302487-loi-du-23-juillet-2026-justice-criminelle-et-respect-des-victimes"
+    },
+    {
+      "titre": "Sénat – Dossier législatif (décision 2026-909 DC, loi n° 2026-651)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl25-456.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la deuxième séance du 8 juillet 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N53940",
+  "argumentsPour": [
+    {
+      "auteur": "Anne Bergantz (Les Démocrates, rapporteure)",
+      "resume": "Le texte de compromis répond à l'attente d'une justice plus rapide et plus lisible : accélérer les enquêtes, simplifier les procédures et réduire les délais de jugement.",
+      "citation": "accélérer les enquêtes, simplifier les procédures dans le plein respect des libertés fondamentales, réduire les délais de jugement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    },
+    {
+      "auteur": "Sébastien Huyghe (Ensemble pour la République)",
+      "resume": "Les délais actuels fragilisent les droits des victimes comme des accusés ; le texte apporte des améliorations utiles et immédiatement applicables.",
+      "citation": "Nous le voterons parce qu’il apporte des améliorations utiles et immédiatement applicables",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    },
+    {
+      "auteur": "Sylvie Josserand (Rassemblement national)",
+      "resume": "Face à l'asphyxie des juridictions pénales, le RN vote le texte en attendant son propre plan pour la justice en 2027.",
+      "citation": "Dans l’attente, et face à l’asphyxie des juridictions pénales, le groupe Rassemblement national votera en faveur du projet de loi adopté ce matin par la CMP.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    },
+    {
+      "auteur": "Matthieu Bloch (UDR)",
+      "resume": "Le texte comble en urgence le vide juridique sur la détention provisoire des mineurs accusés de crimes et légalise la généalogie génétique.",
+      "citation": "Ce texte, tel qu’il ressort des travaux entre nos deux assemblées, répare dans l’urgence ce que le gouvernement a laissé pourrir pendant douze mois.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    },
+    {
+      "auteur": "Agnès Firmin Le Bodo (Horizons & indépendants)",
+      "resume": "La justice criminelle est asphyxiée par la complexité des procédures et la hausse des affaires ; le texte engage un mouvement indispensable.",
+      "citation": "ces deux projets de loi ont le mérite d’engager un mouvement indispensable pour remettre notre justice en ordre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sacha Houlié (Socialistes)",
+      "resume": "Même sans plaider-coupable, le texte affaiblit les droits de la défense (nullités, « sas de détention » jugé inconstitutionnel) sans accélérer réellement la justice.",
+      "citation": "ce n’est pas en affaiblissant les droits de la défense que vous accélérerez les procédures ou permettrez une meilleure justice pour les justiciables.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    },
+    {
+      "auteur": "Hendrik Davi (Écologiste et social)",
+      "resume": "Le gouvernement adapte la justice au manque de moyens au lieu de lui en donner, en affaiblissant les garanties des justiciables.",
+      "citation": "Mais vous, votre solution, c’est d’adapter la justice au manque de moyens, plutôt que de lui donner les moyens pour fonctionner.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    },
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "La crise de la justice tient au manque de moyens ; les droits des justiciables ne doivent pas servir de variable d'ajustement.",
+      "citation": "Nous refusons que les droits des justiciables deviennent la variable d’ajustement du manque de moyens ; nous voterons contre ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    },
+    {
+      "auteur": "Jean-François Coulomme (La France insoumise)",
+      "resume": "Texte de renoncement et d'affichage, qui privilégie la répression au détriment des moyens et de l'État de droit.",
+      "citation": "nous examinons aujourd’hui un texte de plus, qui résume à lui seul votre politique de la justice : une politique du renoncement, de l’affichage et de l’hypocrisie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 68 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+      "date": "2026-07-08"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 12 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+      "date": "2026-07-08"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°8042 du 8 juillet 2026) ; pas d'intervention personnelle retrouvée, argument = explication du groupe Écologiste et social, auquel il est apparenté (Hendrik Davi).",
+      "argument": "Groupe EcoS : la réforme répond à la pénurie de moyens de la justice en affaiblissant les garanties des justiciables plutôt qu'en investissant.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour / 35 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+      "date": "2026-07-08"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°8042) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social a voté contre (0 pour / 35 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+      "date": "2026-07-08"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 41 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+      "date": "2026-07-08"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°8042), président du groupe EPR ; pas d'intervention personnelle retrouvée, argument = explication du groupe (Sébastien Huyghe).",
+      "argument": "Groupe EPR : les délais de la justice criminelle fragilisent victimes et accusés ; le texte de compromis apporte des améliorations utiles et immédiatement applicables.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons & indépendants a voté pour (34 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+      "date": "2026-07-08"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur, vote nominatif pour sur l'ensemble du texte de la commission mixte paritaire (scrutin n°334 du 9 juillet 2026) ; avait aussi voté pour en première lecture (scrutin n°230 du 14 avril 2026).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-334.html",
+      "date": "2026-07-09"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (27 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+      "date": "2026-07-08"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (Nouvelle Énergie), sans mandat parlementaire ; aucune déclaration retrouvée ; son parti n'a pas de groupe à l'Assemblée. À titre indicatif, le groupe Droite républicaine (LR, son ancien parti) a voté pour (27 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+      "date": "2026-07-08"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°8042), présidente du groupe RN ; pas d'intervention personnelle retrouvée, argument = explication du groupe (Sylvie Josserand).",
+      "argument": "Groupe RN : texte voté face à « l'asphyxie des juridictions pénales », dans l'attente d'un plan global pour la justice promis pour 2027.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N008",
+      "date": "2026-07-08"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans mandat national ; aucune déclaration retrouvée ; pas de député Reconquête. À titre indicatif, le groupe UDR a voté pour (10 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+      "date": "2026-07-08"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée ; pas de groupe de son parti à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8042",
+      "date": "2026-07-08"
+    }
+  },
+  "alertes": [
+    "Question modifiée : la question proposée citait une « procédure de plaider-coupable pour certains crimes ». Cette mesure phare a été retirée mi-juin 2026 et n'est pas dans le texte voté le 8 juillet (rapporteure Anne Bergantz, Vie publique).",
+    "Le Conseil constitutionnel a censuré une partie de l'article sur la génétique (bases génétiques privées étrangères, portrait-robot génétique) et le statut de psychologue de police judiciaire.",
+    "Le débat a été très marqué par le vote, la veille, de la présomption de légitime défense pour les forces de l'ordre, sur un autre texte (voir la fiche dédiée) ; plusieurs orateurs de gauche y consacrent l'essentiel de leur intervention.",
+    "Ruffin, Attal et Le Pen : arguments tirés de l'explication de leur groupe. Batho n'a pas pris part au vote.",
+    "Un projet de loi organique distinct (juridictions criminelles, avocats honoraires assesseurs) a été voté le même jour ; la fiche porte sur la loi ordinaire."
+  ]
+}

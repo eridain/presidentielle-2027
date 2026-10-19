@@ -1,0 +1,578 @@
+{
+  "partiId": "lr",
+  "condamnations": [
+    {
+      "personne": "Tiberi Jean",
+      "categorie": "ancien_membre",
+      "famille": "probite",
+      "roleActuel": "décédé (2025) ; ancien député de Paris (RPR puis UMP) jusqu'en juin 2012, ancien maire de Paris (1995-2001)",
+      "infraction": "fraude électorale (affaire dite « des faux électeurs » du 5e arrondissement de Paris)",
+      "faits": "Affaire des faux électeurs du 5e arrondissement de Paris, dont il était maire d'arrondissement.",
+      "juridiction": "cour d'appel de Paris (arrêt du 12 mars 2013) ; pourvoi rejeté par la Cour de cassation",
+      "dateDecision": "2015-03-03",
+      "peine": "dix mois d'emprisonnement avec sursis, 10 000 euros d'amende, trois ans d'inéligibilité",
+      "statut": "definitive",
+      "nature": "penale",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Faux électeurs : les Tibéri définitivement condamnés (Le Monde avec AFP)",
+          "url": "https://www.lemonde.fr/societe/article/2015/03/03/faux-electeurs-la-cour-de-cassation-rejette-le-pourvoi-des-tiberi_4586648_3224.html",
+          "citation": "La Cour de cassation a rejeté, mardi 3 mars, le pourvoi de Jean et Xavière Tiberi, condamnés en 2013 à de la prison avec sursis et à une peine d'inéligibilité pour l'ancien maire de Paris",
+          "date": "2015-03-03"
+        },
+        {
+          "titre": "Faux électeurs : les Tibéri définitivement condamnés (Le Monde avec AFP)",
+          "url": "https://www.lemonde.fr/societe/article/2015/03/03/faux-electeurs-la-cour-de-cassation-rejette-le-pourvoi-des-tiberi_4586648_3224.html",
+          "citation": "Jean Tiberi, 79 ans, avait été condamné en appel en mars 2013 à dix mois de prison avec sursis, une amende de 10 000 euros et trois ans d'inéligibilité, comme en première instance.",
+          "date": "2015-03-03"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "decede",
+        "depuis": "2025-05-27",
+        "detail": "Député UMP de Paris jusqu'en 2012 et membre de LR jusqu'à son décès selon Wikipédia ; mort le 27 mai 2025 à 90 ans.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Jean Tiberi, the last right-wing mayor of Paris, implicated in several scandals, has died (Le Monde in English)",
+            "url": "https://lemonde.fr/en/obituaries/article/2025/05/27/jean-tiberi-the-last-right-wing-mayor-of-paris-implicated-in-several-scandals-has-died_6741739_15.html",
+            "citation": "Tiberi was convicted in 2015 for orchestrating a vast electoral fraud scheme. He died at the age of 90."
+          },
+          {
+            "titre": "Jean Tiberi — Wikipédia (infobox)",
+            "url": "https://fr.wikipedia.org/wiki/Jean_Tiberi",
+            "citation": "RPR (1976-2002) UMP (2002-2015) LR (2015-2025)"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Lavrilleux Jérôme",
+      "categorie": "ancien_membre",
+      "famille": "probite",
+      "roleActuel": "ancien député européen élu sur la liste UMP (2014-2019), ancien directeur de cabinet de Jean-François Copé à la présidence de l'UMP et directeur adjoint de la campagne présidentielle de 2012",
+      "infraction": "abus de confiance, complicité d'escroquerie et complicité de financement illégal de campagne électorale",
+      "faits": "Affaire Bygmalion : système de doubles factures imputant à l'UMP des dépenses de la campagne présidentielle de Nicolas Sarkozy de 2012.",
+      "juridiction": "cour d'appel de Paris",
+      "dateDecision": "2024-02-14",
+      "peine": "deux ans d'emprisonnement dont dix-huit mois avec sursis, cinq ans d'inéligibilité",
+      "statut": "definitive",
+      "nature": "penale",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Affaire Bygmalion : qui a été condamné et pourquoi ? (Le Monde, Les Décodeurs)",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2024/02/14/affaire-bygmalion-qui-a-ete-condamne-et-pourquoi_6096636_4355771.html",
+          "citation": "En appel, sa peine a été allégée à deux ans d’emprisonnement dont dix-huit mois avec sursis, assortie d’une inéligibilité de cinq ans.",
+          "date": "2024-02-14"
+        },
+        {
+          "titre": "Bygmalion en appel : « Une peine juste et acceptable » pour Jérôme Lavrilleux (Courrier picard)",
+          "url": "https://www.courrier-picard.fr/id494107/article/2024-02-14/bygmalion-en-appel-une-peine-juste-et-acceptable-pour-jerome-lavrilleux",
+          "citation": "écope en appel de deux ans de prison, dont 18 mois avec sursis et cinq ans d’inéligibilité.",
+          "date": "2024-02-14"
+        },
+        {
+          "titre": "Affaire Bygmalion — Wikipédia (renvoie à L'Union, 14 février 2024)",
+          "url": "https://fr.wikipedia.org/wiki/Affaire_Bygmalion",
+          "citation": "Il ne souhaite pas se pourvoir en cassation",
+          "date": "2024-02-14"
+        },
+        {
+          "titre": "Affaire Bygmalion – L’Axonais Jérôme Lavrilleux soulagé de voir sa peine réduite en appel (L'Union, chapeau)",
+          "url": "https://www.lunion.fr/id569213/article/2024-02-14/affaire-bygmalion-laxonais-jerome-lavrilleux-soulage-de-voir-sa-peine-reduite-en-appel",
+          "citation": "Condamné finalement en appel à six mois de prison ferme, l’Axonais Jérôme Lavrilleux entend tourner la page de l’affaire Bygmalion, révélée en 2014.",
+          "date": "2024-02-14"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2014-10-15",
+        "detail": "Directeur de cabinet du président de l'UMP puis eurodéputé élu en 2014 ; visé par une procédure d'exclusion liée à Bygmalion, il quitte l'UMP le 15 octobre 2014.",
+        "lienAvecCondamnation": "oui",
+        "reactionParti": "L'UMP engage le 24 juin 2014 une procédure d'exclusion à son encontre en raison de son rôle dans l'affaire Bygmalion.",
+        "sources": [
+          {
+            "titre": "Jérôme Lavrilleux — Wikipédia",
+            "url": "https://fr.wikipedia.org/wiki/J%C3%A9r%C3%B4me_Lavrilleux",
+            "citation": "Le 24 juin, une procédure d'exclusion de l'UMP est enclenchée à son encontre à cause de son rôle dans l'affaire Bygmalion. Le 15 octobre 2014, il quitte l'UMP"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Falco Hubert",
+      "categorie": "ancien_membre",
+      "famille": "probite",
+      "roleActuel": "ancien sénateur du Var (groupe UMP puis LR, 2010-2017), ancien maire de Toulon (2001-2023), ancien secrétaire d'État",
+      "infraction": "recel de détournement de fonds publics",
+      "faits": "Repas et frais de pressing pris en charge par le conseil départemental du Var entre 2002 et 2018 alors qu'il ne le présidait plus (affaire dite « du frigo »).",
+      "juridiction": "cour d'appel d'Aix-en-Provence (arrêt du 14 mai 2024) ; pourvoi rejeté par la Cour de cassation, qui annule seulement l'exécution provisoire de l'inéligibilité",
+      "dateDecision": "2025-05-28",
+      "peine": "18 mois d'emprisonnement avec sursis, 30 000 euros d'amende, cinq ans d'inéligibilité",
+      "statut": "definitive",
+      "nature": "penale",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "L’ancien maire de Toulon, Hubert Falco, définitivement condamné pour détournement de fonds publics (L'Humanité)",
+          "url": "https://www.humanite.fr/politique/cour-de-cassation/lancien-maire-de-toulon-hubert-falco-definitivement-condamne-pour-detournement-de-fonds-publics",
+          "citation": "La Cour de cassation rejette ce mercredi le pourvoi en cassation d’Hubert Falco. L’ancien maire de Toulon avait été condamné à 18 mois d’emprisonnement avec sursis, 30 000 euros d’amende et cinq ans d’inéligibilité",
+          "date": "2025-05-28"
+        },
+        {
+          "titre": "Municipales 2026: l'inéligibilité d'Hubert Falco confirmée par la Cour de cassation (France 24 / AFP)",
+          "url": "https://france24.com/fr/info-en-continu/20250528-municipales-2026-l-in%C3%A9ligibilit%C3%A9-d-hubert-falco-confirm%C3%A9e-par-la-cour-de-cassation",
+          "citation": "La Cour de cassation a confirmé mercredi la peine d'inéligibilité de cinq ans prononcée en appel en 2024 à l'encontre d'Hubert Falco",
+          "date": "2025-05-28"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2021-05-05",
+        "detail": "Sénateur UMP puis LR jusqu'en 2017 ; quitte LR le 5 mai 2021 lors de la crise des régionales en Provence-Alpes-Côte d'Azur, puis rejoint Horizons selon Wikipédia.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Régionales 2021 en Provence Alpes-Côte d'Azur : « que va-t-il rester des Républicains ? », Hubert Falco quitte LR (France 3 Régions)",
+            "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/bouches-du-rhone/marseille/toulon-le-maire-hubert-falco-quitte-les-republicains-avant-les-regionales-2077348.html",
+            "citation": "Le maire LR de Toulon Hubert Falco annonce qu'il quitte son parti au lendemain d'une réunion où Les Républicains ont exclu tout accord avec LREM pour les régionales"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Cayeux Caroline",
+      "categorie": "ancien_membre",
+      "famille": "probite",
+      "roleActuel": "ancienne sénatrice de l'Oise (groupe UMP puis LR, 2011-2017), ancienne maire de Beauvais, ancienne ministre déléguée chargée des Collectivités territoriales (juillet-novembre 2022)",
+      "infraction": "fraude fiscale, fraude à l'impôt sur la fortune et déclaration de patrimoine mensongère",
+      "faits": "Minoration de son patrimoine d'environ 11,7 millions d'euros, relevée par la HATVP en 2022.",
+      "juridiction": "tribunal judiciaire de Paris (comparution sur reconnaissance préalable de culpabilité)",
+      "dateDecision": "2026-04-01",
+      "peine": "dix mois d'emprisonnement avec sursis, 100 000 euros d'amende, deux ans d'inéligibilité",
+      "statut": "inconnu",
+      "nature": "penale",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "L'ex-ministre Caroline Cayeux condamnée à dix mois de prison avec sursis pour fraude fiscale (franceinfo avec AFP)",
+          "url": "https://www.franceinfo.fr/societe/justice/l-ex-ministre-caroline-cayeux-condamnee-a-dix-mois-de-prison-avec-sursis-pour-fraude-fiscale_7997711.html",
+          "citation": "Caroline Cayeux a été condamnée le 1er avril à dix mois de prison avec sursis pour fraude fiscale et pour avoir menti sur sa déclaration de patrimoine",
+          "date": "2026-05-11"
+        },
+        {
+          "titre": "L'ex-ministre Caroline Cayeux condamnée à dix mois de prison avec sursis pour fraude fiscale (franceinfo avec AFP)",
+          "url": "https://www.franceinfo.fr/societe/justice/l-ex-ministre-caroline-cayeux-condamnee-a-dix-mois-de-prison-avec-sursis-pour-fraude-fiscale_7997711.html",
+          "citation": "L'ex-sénatrice de droite a également écopé, lors de cette procédure de plaider-coupable, de 100 000 euros d'amende et de deux ans d'inéligibilité, a précisé le parquet.",
+          "date": "2026-05-11"
+        },
+        {
+          "titre": "L’ancienne ministre Caroline Cayeux condamnée à de la prison avec sursis (20 Minutes avec AFP)",
+          "url": "https://www.20minutes.fr/politique/4223064-20260512-ancienne-ministre-caroline-cayeux-condamnee-prison-sursis",
+          "citation": "L’éphémère ministre déléguée chargée des Collectivités territoriales a été condamnée à dix mois de prison avec sursis pour fraude fiscale et pour avoir menti sur sa déclaration de patrimoine.",
+          "date": "2026-05-12"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2018",
+        "detail": "Sénatrice UMP puis LR de 2011 à 2017 ; ne renouvelle pas son adhésion à LR en 2018 et siège ensuite comme divers droite, avant d'entrer au gouvernement en 2022.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Caroline Cayeux — Wikipédia (renvoie à France 3 Régions, 3 septembre 2018)",
+            "url": "https://fr.wikipedia.org/wiki/Caroline_Cayeux",
+            "citation": "Elle ne renouvelle pas son adhésion à LR en 2018, et est réélue après les municipales de 2020 sous une étiquette divers droite"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Grosdidier François",
+      "categorie": "ancien_membre",
+      "famille": "probite",
+      "roleActuel": "maire de Metz ; ancien sénateur de la Moselle (groupe UMP puis LR, 2011-2020), ancien député",
+      "infraction": "détournement de biens publics (et complicité de prise illégale d'intérêts)",
+      "faits": "Utilisation fréquente d'un véhicule de fonction de la mairie de Woippy pour se rendre à Paris lorsqu'il était député (vers 2004).",
+      "juridiction": "tribunal correctionnel de Metz",
+      "dateDecision": "2015-02-12",
+      "peine": "6 000 euros d'amende dont 2 000 avec sursis",
+      "statut": "inconnu",
+      "nature": "penale",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Détournement de biens publics : François Grosdidier condamné à 6000 euros d'amende (France 3 Lorraine)",
+          "url": "https://france3-regions.franceinfo.fr/grand-est/2015/02/12/detournement-de-biens-publics-francois-grosdidier-condamne-6000-euros-d-amende-654399.html",
+          "citation": "Le tribunal correctionnel de Metz a condamné jeudi le sénateur-maire UMP de Woippy (Moselle) François Grosdidier à 6.000 euros d'amende, dont 2.000 avec sursis, pour détournement de biens publics",
+          "date": "2015-02-12"
+        },
+        {
+          "titre": "Woippy: Grosdidier condamné pour détournement de biens publics (BFMTV avec AFP)",
+          "url": "https://www.bfmtv.com/politique/les-republicains/woippy-grosdidier-condamne-pour-detournement-de-biens-publics_AN-201502120061.html",
+          "citation": "Il a également été condamné pour avoir utilisé un véhicule de fonction de sa mairie pour se rendre fréquemment à Paris, à l'époque où il était député et candidat à la présidence de l'UMP, en 2004.",
+          "date": "2015-02-12"
+        },
+        {
+          "titre": "Détournements de fonds publics – 6 000 euros d'amende pour Grosdidier (L'essentiel / AFP)",
+          "url": "https://www.lessentiel.lu/fr/story/6-000-euros-d-amende-pour-grosdidier-920861857359",
+          "citation": "Il a aussi été condamné pour «complicité» dans des prises illégales d'intérêts par plusieurs de ses conseillers municipaux et contractuels de sa mairie",
+          "date": "2015-02-12"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2022-12-11",
+        "detail": "Sénateur UMP puis LR jusqu'en 2020 ; quitte LR le 11 décembre 2022, après l'élection d'Éric Ciotti à la présidence du parti.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Eric Ciotti élu à la tête des Républicains : le maire de Metz claque la porte du parti (TF1 Info)",
+            "url": "https://www.tf1info.fr/politique/eric-ciotti-elu-president-de-lr-francois-grosdidier-maire-de-metz-claque-la-porte-du-parti-les-republicains-2241596.html",
+            "citation": "Il claque la porte de son parti, 41 ans après sa première adhésion. François Grosdidier, le maire de Metz (Moselle), a quitté Les Républicains (LR), dimanche 11 décembre"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Grosdidier François",
+      "categorie": "ancien_membre",
+      "famille": "probite",
+      "roleActuel": "maire de Metz ; ancien sénateur de la Moselle (groupe UMP puis LR, 2011-2020), ancien député",
+      "infraction": "prise illégale d'intérêts",
+      "faits": "Subvention de 160 000 euros versée sur sa réserve parlementaire de député (2009-2011) à l'association Valeurs écologie, qu'il présidait.",
+      "juridiction": "tribunal correctionnel d'Épinal",
+      "dateDecision": "2023-02-07",
+      "peine": "six mois d'emprisonnement avec sursis, 10 000 euros d'amende",
+      "statut": "definitive",
+      "nature": "penale",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "François Grosdidier, maire de Metz, condamné à six mois avec sursis pour « prise illégale d’intérêts » (Le Monde avec AFP)",
+          "url": "https://www.lemonde.fr/politique/article/2023/02/07/francois-grosdidier-maire-de-metz-condamne-a-six-mois-avec-sursis-pour-prise-illegale-d-interets_6160884_823448.html",
+          "citation": "Le maire de Metz, François Grosdidier (ex-Les Républicains), a été déclaré coupable de «prise illégale d’intérêts», mardi 7 février, par le tribunal correction d’Epinal et condamné à six mois d’emprisonnement avec sursis et 10 000 euros d’amende.",
+          "date": "2023-02-07"
+        },
+        {
+          "titre": "François Grosdidier se désiste de son appel (Info du jour)",
+          "url": "https://infodujour.fr/politique/75657-francois-grosdidier-se-desiste-de-son-appel",
+          "citation": "La décision du tribunal d’Epinal du 7 février 2023 devient donc définitive.",
+          "date": "2024-07-17"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2022-12-11",
+        "detail": "Député UMP au moment des faits, sénateur UMP puis LR jusqu'en 2020 ; quitte LR le 11 décembre 2022, avant ce jugement.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Eric Ciotti élu à la tête des Républicains : le maire de Metz claque la porte du parti (TF1 Info)",
+            "url": "https://www.tf1info.fr/politique/eric-ciotti-elu-president-de-lr-francois-grosdidier-maire-de-metz-claque-la-porte-du-parti-les-republicains-2241596.html",
+            "citation": "Il claque la porte de son parti, 41 ans après sa première adhésion. François Grosdidier, le maire de Metz (Moselle), a quitté Les Républicains (LR), dimanche 11 décembre"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Brochand Bernard",
+      "categorie": "ancien_membre",
+      "famille": "probite",
+      "roleActuel": "décédé (2025) ; ancien député des Alpes-Maritimes (RPR, UMP puis LR, 2001-2022), ancien maire de Cannes",
+      "infraction": "blanchiment de fraude fiscale et déclaration incomplète ou mensongère de patrimoine (HATVP)",
+      "faits": "Compte bancaire ouvert en Suisse en 1973 (environ 1,2 million d'euros), non déclaré au fisc et omis dans sa déclaration de patrimoine de député.",
+      "juridiction": "tribunal correctionnel de Paris",
+      "dateDecision": "2022-04-05",
+      "peine": "un an d'emprisonnement avec sursis, 375 000 euros d'amende, trois ans d'inéligibilité avec sursis",
+      "statut": "inconnu",
+      "nature": "penale",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "L'ancien maire de Cannes et député LR Bernard Brochand condamné pour dissimulation de patrimoine et fraude fiscale (Nice-Matin)",
+          "url": "https://www.nicematin.com/societe/justice/l-ancien-maire-de-cannes-et-depute-lr-bernard-brochand-condamne-pour-dissimulation-de-patrimoine-et-fraude-fiscale-758336",
+          "citation": "Bernard Brochand, 83 ans, était poursuivi par le tribunal correctionnel pour \"blanchiment de fraude fiscale\" et \"déclaration incomplète ou mensongère\" de patrimoine auprès de la Haute autorité pour la transparence de la vie publique (HATVP).",
+          "date": "2022-04-05"
+        },
+        {
+          "titre": "Cannes : Bernard Brochand condamné à un an de prison avec sursis pour un compte non déclaré en Suisse (France 3 Provence-Alpes-Côte d'Azur)",
+          "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/cannes/cannes-bernard-brochand-condamne-a-un-an-de-prison-avec-sursis-pour-un-compte-non-declare-en-suisse-2518608.html",
+          "citation": "est donc condamné à un an de prison avec sursis, 375 000 euros d'amende et une peine d'inéligibilité de trois ans assortie d'un sursis",
+          "date": "2022-04-05"
+        },
+        {
+          "titre": "Alpes-Maritimes: le député Bernard Brochand condamné à 12 mois de prison avec sursis (BFM Côte d'Azur)",
+          "url": "https://www.bfmtv.com/cote-d-azur/alpes-maritimes-le-depute-bernard-brochand-condamne-a-12-mois-de-prison-avec-sursis_AN-202204050429.html",
+          "citation": "Bernard Brochand, député Les Républicains de la 8e circonscription des Alpes-Maritimes, a été condamné ce mardi à 12 mois de prison avec sursis pour dissimulation de patrimoine et blanchiment de fraude fiscale.",
+          "date": "2022-04-05"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "decede",
+        "depuis": "2025-02-25",
+        "detail": "Député UMP puis LR jusqu'en 2022 et membre de LR jusqu'à sa mort selon Wikipédia ; décédé le 25 février 2025.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Mort de Bernard Brochand, ancien maire de Cannes et dirigeant historique du PSG (Le HuffPost avec AFP)",
+            "url": "https://www.huffingtonpost.fr/politique/article/mort-de-bernard-brochand-ancien-maire-de-cannes-et-dirigeant-historique-du-psg_246708.html",
+            "citation": "Le maire de Cannes de 2001 à 2014 et député LR des Alpes-Maritimes de 2001 à 2022 est décédé à 86 ans."
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Degauchy Lucien",
+      "categorie": "ancien_membre",
+      "famille": "probite",
+      "roleActuel": "décédé (2022) ; ancien député de l'Oise (UMP puis LR, 1993-2017)",
+      "infraction": "omission d'avoirs détenus à l'étranger dans ses déclarations à la HATVP (qualification exacte non précisée par les sources consultées)",
+      "faits": "Avoirs à l'étranger non mentionnés dans ses déclarations de député ; dossier transmis au parquet par la HATVP le 13 novembre 2014.",
+      "juridiction": "tribunal correctionnel (juridiction non précisée par les sources consultées)",
+      "dateDecision": "2017-10-06",
+      "peine": "quatre mois d'emprisonnement avec sursis, 30 000 euros d'amende",
+      "statut": "inconnu",
+      "nature": "penale",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "L’ancien député Lucien Degauchy condamné pour fraude (Le Parisien)",
+          "url": "https://www.leparisien.fr/oise-60/compiegne-60200/l-ancien-depute-lucien-degauchy-condamne-pour-fraude-06-10-2017-7313130.php",
+          "citation": "Lucien Degauchy, l'ancien député (LR) de la cinquième circonscription de l'Oise (Compiègne-sud) vient d'être condamné à quatre mois de prison avec sursis et 30 000 € d'amende.",
+          "date": "2017-10-06"
+        },
+        {
+          "titre": "Lucien Degauchy — Wikipédia (renvoie au Parisien, 6 octobre 2017)",
+          "url": "https://fr.wikipedia.org/wiki/Lucien_Degauchy",
+          "citation": "la Haute Autorité pour la transparence de la vie publique annonce avoir transmis au Parquet le dossier de Lucien Degauchy et celui de deux autres parlementaires, pour « doute sur omission d'avoirs détenus à l'étranger »",
+          "date": "2017-10-06"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "decede",
+        "depuis": "2022-02-11",
+        "detail": "Député UMP puis LR de l'Oise jusqu'en 2017 ; décédé le 11 février 2022.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Lucien Degauchy — Base Sycomore (Assemblée nationale)",
+            "url": "https://www2.assemblee-nationale.fr/sycomore/fiche/2225",
+            "citation": "Décédé le 11 février 2022 à Courtieux (Oise - France)"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Nachbar Philippe",
+      "categorie": "ancien_membre",
+      "famille": "probite",
+      "roleActuel": "ancien sénateur de Meurthe-et-Moselle (UMP puis LR, 1992-2022), démissionnaire au 31 décembre 2022",
+      "infraction": "détournement de fonds publics",
+      "faits": "Utilisation à des fins personnelles de 97 985 euros de son indemnité représentative de frais de mandat (IRFM) de sénateur.",
+      "juridiction": "tribunal judiciaire de Paris (homologation d'une comparution sur reconnaissance préalable de culpabilité)",
+      "dateDecision": "2023-01-10",
+      "peine": "100 000 euros d'amende, trois ans d'inéligibilité",
+      "statut": "inconnu",
+      "nature": "penale",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Philippe Nachbar, ex-sénateur de Meurthe-et-Moselle, condamné pour détournement de fonds publics (Le Monde, Les Décodeurs)",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2023/01/10/frais-de-mandat-philippe-nachbar-ex-senateur-de-meurthe-et-moselle-condamne-pour-detournement-de-fonds-publics_6157334_4355770.html",
+          "citation": "l’ancien sénateur Les Républicains de Meurthe-et-Moselle, âgé de 72 ans, a été condamné, ce mardi 10 janvier, à une amende de 100 000 euros et trois ans d’inéligibilité",
+          "date": "2023-01-10"
+        },
+        {
+          "titre": "Philippe Nachbar, ex-sénateur de Meurthe-et-Moselle, condamné pour détournement de fonds publics (Le Monde, Les Décodeurs)",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2023/01/10/frais-de-mandat-philippe-nachbar-ex-senateur-de-meurthe-et-moselle-condamne-pour-detournement-de-fonds-publics_6157334_4355770.html",
+          "citation": "L’élu a reconnu avoir puisé, à des fins personnelles, dans son enveloppe d’indemnités représentatives de frais de mandat (IRFM) à hauteur de 97 985 euros",
+          "date": "2023-01-10"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "inconnu",
+        "depuis": "2022-12-31",
+        "detail": "Sénateur du groupe LR jusqu'à sa démission du Sénat le 31 décembre 2022 ; aucune source sur son adhésion actuelle à LR (date = fin de mandat, pas départ du parti).",
+        "lienAvecCondamnation": "inconnu",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Philippe Nachbar, ex-sénateur de Meurthe-et-Moselle, condamné pour détournement de fonds publics (Le Monde)",
+            "url": "https://www.lemonde.fr/les-decodeurs/article/2023/01/10/frais-de-mandat-philippe-nachbar-ex-senateur-de-meurthe-et-moselle-condamne-pour-detournement-de-fonds-publics_6157334_4355770.html",
+            "citation": "l’ancien sénateur Les Républicains de Meurthe-et-Moselle"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Marsaud Alain",
+      "categorie": "ancien_membre",
+      "famille": "probite",
+      "roleActuel": "ancien député UMP puis LR (Haute-Vienne, puis Français de l'étranger 2012-2017)",
+      "infraction": "détournement de fonds publics",
+      "faits": "Emploi fictif de sa fille comme collaboratrice parlementaire entre 2005 et 2007 puis entre 2012 et 2014.",
+      "juridiction": "tribunal de Paris, 32e chambre (comparution sur reconnaissance préalable de culpabilité)",
+      "dateDecision": "2018-12-18",
+      "peine": "un an d'emprisonnement avec sursis, 300 000 euros d'amende, trois ans d'inéligibilité",
+      "statut": "inconnu",
+      "nature": "penale",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Détournement de fonds publics : un an de prison avec sursis pour l’ancien député Alain Marsaud (Le Monde)",
+          "url": "https://www.lemonde.fr/police-justice/article/2018/12/18/detournement-de-fonds-publics-un-an-de-prison-avec-sursis-pour-l-ancien-depute-alain-marsaud_5399327_1653578.html",
+          "citation": "Il a été condamné, mardi 18 décembre, à un an de prison avec sursis, 300 000 euros d’amende et une peine d’inéligibilité de trois ans.",
+          "date": "2018-12-18"
+        },
+        {
+          "titre": "Détournement de fonds publics : un an de prison avec sursis pour l’ancien député Alain Marsaud (Le Monde)",
+          "url": "https://www.lemonde.fr/police-justice/article/2018/12/18/detournement-de-fonds-publics-un-an-de-prison-avec-sursis-pour-l-ancien-depute-alain-marsaud_5399327_1653578.html",
+          "citation": "Pendant quatre ans, entre 2005 et 2007, puis entre 2012 et 2014, il a embauché sa fille comme collaboratrice parlementaire de manière fictive.",
+          "date": "2018-12-18"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "inconnu",
+        "depuis": "2017-06-20",
+        "detail": "Député UMP puis LR jusqu'à la fin de son mandat (20 juin 2017) ; aucune source sur un départ ou sur son adhésion actuelle (date = fin de mandat).",
+        "lienAvecCondamnation": "inconnu",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Détournement de fonds publics : un an de prison avec sursis pour l’ancien député Alain Marsaud (Le Monde)",
+            "url": "https://www.lemonde.fr/police-justice/article/2018/12/18/detournement-de-fonds-publics-un-an-de-prison-avec-sursis-pour-l-ancien-depute-alain-marsaud_5399327_1653578.html",
+            "citation": "Alain Marsaud, ancien député UMP puis Les Républicains (LR) de la Haute-Vienne et des Français de l’étranger, était poursuivi pour détournement de fonds publics."
+          }
+        ]
+      }
+    }
+  ],
+  "statutMembreNonEtabli": [
+    {
+      "personne": "Guéant Claude",
+      "role": "ministre de l'Intérieur jusqu'en mai 2012 (UMP)",
+      "pourquoiNonRetenu": "Wikipédia indique « LR (depuis 2015) » dans l'infobox. Aucune source de départ, d'exclusion ou de non-renouvellement trouvée.",
+      "condamnationsReperees": "affaire des primes en liquide : définitive (pourvoi rejeté le 16 janvier 2019) ; sondages de l'Élysée : un an avec sursis en appel (novembre 2025, statut ultérieur non vérifié) ; financement libyen : six ans en première instance (25 septembre 2025), appel en cours avec arrêt annoncé pour le 30 novembre 2026. Frais de campagne des législatives 2012 : relaxe en appel par la cour d'appel de Versailles, donc exclue.",
+      "pistes": [
+        "https://fr.wikipedia.org/wiki/Claude_Gu%C3%A9ant",
+        "https://www.lemonde.fr/politique/article/2025/11/04/affaire-des-sondages-de-l-elysee-claude-gueant-voit-sa-peine-reduite-en-appel_6651512_823448.html",
+        "https://www.lemonde.fr/societe/article/2026/05/13/affaire-libyenne-au-proces-en-appel-le-parquet-general-requiert-de-nouveau-sept-ans-de-prison-contre-nicolas-sarkozy_6688710_3224.html"
+      ]
+    },
+    {
+      "personne": "Balkany Patrick",
+      "role": "député UMP puis LR des Hauts-de-Seine jusqu'en 2017",
+      "pourquoiNonRetenu": "Wikipédia indique « LR (depuis 2015) ». Aucune source d'exclusion ni de départ trouvée.",
+      "condamnationsReperees": "fraude fiscale (appel du 4 mars 2020) ; blanchiment de fraude fiscale (cour d'appel de Paris le 27 mai 2020, culpabilité définitive selon L'Obs du 30 juin 2021) ; diffamation envers Arnaud de Courson (mars 2016) ; deux condamnations pour détournement de fonds publics par le tribunal correctionnel de Nanterre le 28 mai 2026 (15 mois et trois ans ferme sans mandat de dépôt), statut d'appel non vérifié.",
+      "pistes": [
+        "https://www.nouvelobs.com/justice/20210630.OBS45962/les-balkany-definitivement-condamnes-pour-blanchiment-de-fraude-fiscale-mais-il-y-aura-un-nouveau-proces.html",
+        "https://www.cours-appel.justice.fr/sites/default/files/2020-05/2020%2005%2027%20CP%20Balkany%20-%20condamnation%20blanchiment_0.pdf",
+        "https://www.france24.com/fr/info-en-continu/20260528-condamn%C3%A9-%C3%A0-de-la-prison-ferme-pour-d%C3%A9tournements-de-fonds-publics-patrick-balkany-%C3%A9chappe-%C3%A0-l-incarc%C3%A9ration"
+      ]
+    },
+    {
+      "personne": "Tron Georges",
+      "role": "ancien secrétaire d'État (2010-2011), député UMP de l'Essonne",
+      "pourquoiNonRetenu": "Wikipédia indique « LR (depuis 2015) ». Aucune source d'exclusion trouvée. Son mandat de député après juin 2012 et sa fonction de ministre depuis 2012 n'ont pas non plus été vérifiés.",
+      "condamnationsReperees": "viol et agressions sexuelles : cour d'assises d'appel de Paris, 17 février 2021 (cinq ans dont deux avec sursis, six ans d'inéligibilité) ; définitive selon Le Monde du 6 avril 2022.",
+      "pistes": [
+        "https://www.lemonde.fr/societe/article/2022/04/06/georges-tron-definitivement-condamne-pour-viol-a-ete-libere-de-prison-sous-bracelet-electronique_6120876_3224.html",
+        "https://www.legifrance.gouv.fr/juri/id/JURITEXT000045823016"
+      ]
+    },
+    {
+      "personne": "Joulaud Marc",
+      "role": "eurodéputé UMP/LR (2014-2019)",
+      "pourquoiNonRetenu": "Infobox « UMP LR » sans date de sortie ; aucune source de départ trouvée.",
+      "condamnationsReperees": "complicité de détournement de fonds publics (affaire Fillon) : 3 ans avec sursis en première instance (29 juin 2020), puis appel, cassation partielle (2024) et rejugement des peines. Statut et peine finale non vérifiés.",
+      "pistes": [
+        "https://fr.wikipedia.org/wiki/Marc_Joulaud",
+        "https://fr.wikipedia.org/wiki/Affaire_Fillon"
+      ]
+    },
+    {
+      "personne": "Tian Dominique",
+      "role": "député UMP puis LR des Bouches-du-Rhône (2002-2017)",
+      "pourquoiNonRetenu": "Infobox « UDF, UMP puis LR » sans date de sortie.",
+      "condamnationsReperees": "blanchiment de fraude fiscale et déclaration mensongère de patrimoine : un an avec sursis, 1,45 million d'euros d'amende et trois ans d'inéligibilité en janvier 2018 ; définitive en appel en 2019 selon Wikipédia (non vérifié à la source).",
+      "pistes": [
+        "https://fr.wikipedia.org/wiki/Dominique_Tian"
+      ]
+    },
+    {
+      "personne": "Perrut Bernard",
+      "role": "député UMP puis LR du Rhône jusqu'en 2022",
+      "pourquoiNonRetenu": "Infobox « UMP LR » sans date de sortie ; décrit comme conseiller régional.",
+      "condamnationsReperees": "détournement de fonds publics (frais de mandat) et manquements déclaratifs envers la HATVP : tribunal le 13 mai 2024, puis condamnation en appel à Lyon en février 2026 avec peine réduite. Statut non vérifié.",
+      "pistes": [
+        "https://www.leprogres.fr/politique/2026/02/26/l-ex-depute-bernard-perrut-condamne-en-appel-pour-detournement-de-frais-de-mandat",
+        "https://www.lyonmag.com/article/150528/l-ancien-depute-maire-de-villefranche-sur-saone-condamne-en-appel-pour-detournement-de-fonds-publics"
+      ]
+    },
+    {
+      "personne": "Cochet Philippe",
+      "role": "député UMP puis LR du Rhône (2002-2017)",
+      "pourquoiNonRetenu": "Toujours présenté comme « maire (LR) » en 2025.",
+      "condamnationsReperees": "détournement de fonds publics : tribunal le 11 décembre 2024 (trois ans dont deux avec sursis, cinq ans d'inéligibilité avec exécution provisoire), appel interjeté. Issue de l'appel non vérifiée.",
+      "pistes": [
+        "https://nouvelobs.com/justice/20241211.OBS97686/philippe-cochet-figure-de-la-droite-lyonnaise-condamnee-et-ineligible-pour-une-affaire-d-emploi-fictif-de-son-epouse.html"
+      ]
+    },
+    {
+      "personne": "Vialatte Jean-Sébastien",
+      "role": "député UMP puis LR du Var (2002-2017)",
+      "pourquoiNonRetenu": "Wikipédia le présente comme « membre du parti Les Républicains ».",
+      "condamnationsReperees": "provocation à la haine raciale (tweet de 2013) : 2 000 euros d'amende le 19 septembre 2014 (Le Monde). Statut non vérifié.",
+      "pistes": [
+        "https://www.lemonde.fr/politique/article/2014/09/19/tweet-raciste-le-depute-ump-jean-sebastien-vialatte-condamne_4490911_823448.html"
+      ]
+    },
+    {
+      "personne": "Briand Philippe",
+      "role": "député UMP d'Indre-et-Loire, trésorier de la campagne présidentielle de 2012",
+      "pourquoiNonRetenu": "Présenté comme « maire LR de Saint-Cyr-sur-Loire » ; infobox « LR (depuis 2015) ».",
+      "condamnationsReperees": "Bygmalion (escroquerie et complicité de financement illégal) : un an ferme et un an avec sursis en première instance (30 septembre 2021). Peine en appel et statut non vérifiés.",
+      "pistes": [
+        "https://fr.wikipedia.org/wiki/Philippe_Briand"
+      ]
+    },
+    {
+      "personne": "Kosciusko-Morizet Nathalie",
+      "role": "ancienne ministre, vice-présidente de l'UMP, députée jusqu'en 2017",
+      "pourquoiNonRetenu": "Infobox « LR (depuis 2015) » ; sortie du parti non sourcée.",
+      "condamnationsReperees": "diffamation : 1 000 euros d'amende avec sursis par le tribunal correctionnel de Paris en mars 2015, selon Wikipédia. Statut et source primaire non vérifiés.",
+      "pistes": [
+        "https://fr.wikipedia.org/wiki/Nathalie_Kosciusko-Morizet"
+      ]
+    }
+  ],
+  "perimetre": {
+    "personnesVerifiees": 64,
+    "methode": "Export CSV Poligraph (https://poligraph.fr/api/export/affaires), filtré sur les partis LR/UMP au moment des faits ou aujourd'hui. Lecture de 61 pages Wikipédia FR : sections affaires judiciaires, infobox « Parti politique » et date de décès. Environ 130 requêtes web, génériques (« ancien député UMP condamné », « ancien sénateur LR condamné », « ex-député LR condamné inéligibilité »…) et nominatives (« <nom> condamné », « <nom> quitte Les Républicains », « <nom> appel/cassation »). Chaque condamnation et chaque départ ou décès retenu repose sur un article de presse ouvert (Le Monde, franceinfo, France 3, BFMTV, L'Humanité, France 24, Nice-Matin, Le Parisien, TF1 Info, HuffPost, Sycomore AN), complété au besoin par Wikipédia. Exclues : les personnes déjà présentes dans data/justice/lr.json (Sarkozy, Fillon, Juppé, Gaudin, Wauquiez, Hortefeux, Sido).",
+    "limites": "1) Le périmètre « ancien membre » exige une preuve de sortie (départ, exclusion ou décès). Plusieurs condamnés majeurs (Guéant, Balkany, Tron, Joulaud, Tian, Perrut…) restent membres LR selon Wikipédia, ou leur sortie n'est pas documentée : ils figurent dans « statutMembreNonEtabli » et ne sont pas comptés. Ils ne sont pas non plus dans lr.json, car ce ne sont pas des parlementaires ou dirigeants actuels. 2) Nachbar et Marsaud sont retenus avec statutMembre « inconnu ». Statut judiciaire « inconnu » pour Cayeux, Nachbar et Marsaud (CRPC, sans information sur un éventuel appel), Grosdidier 2015, Brochand (appel éventuel éteint par son décès en 2025 ?) et Degauchy. 3) Recherche non exhaustive parmi les quelque 600 anciens parlementaires UMP/LR depuis 2012 ; aucune base systématique des condamnations n'a été croisée nom par nom. 4) Pour Lavrilleux, l'absence de pourvoi repose sur Wikipédia et sur le chapeau de L'Union (article payant)."
+  },
+  "alertes": [
+    "Nachbar et Marsaud : retenus avec appartenance.statutMembre = « inconnu » (valeur hors énumération du brief), car ils ont siégé sous l'étiquette UMP/LR depuis 2012 et aucune source ne documente leur départ ni leur adhésion actuelle. Le champ « depuis » correspond à la fin de mandat. Mêmes réserves pour les personnes listées dans « statutMembreNonEtabli », qui ne sont pas comptées faute d'avoir été vérifiées à la source.",
+    "Lavrilleux : le statut « definitive » est déduit de l'absence de pourvoi rapportée par Wikipédia (réf. L'Union) ; la Cour de cassation n'a statué le 26 novembre 2025 que sur le pourvoi de N. Sarkozy.",
+    "Cayeux : franceinfo date la condamnation au 1er avril 2026, rendue publique le 11 mai ; une légende de 20 Minutes indique « condamnée le 11 mai 2026 ». La date du 1er avril est retenue (parquet de Paris via l'AFP).",
+    "Cayeux : faits de déclaration de patrimoine de 2022, postérieurs à son départ de LR (2018) ; période exacte de la fraude fiscale non précisée.",
+    "Serge Dassault (sénateur UMP/LR jusqu'en 2017, décédé le 28 mai 2018) : condamné en première instance en février 2017 pour blanchiment (2 millions d'euros d'amende, cinq ans d'inéligibilité) ; l'action publique s'est éteinte avec son décès en appel, donc non retenu. Sa condamnation belge de 1998 (affaire Agusta) est décrite par Paperjam comme annulée par la Cour européenne : non retenue. Celle de 1991 pour entrave syndicale (Wikipédia) n'a pas été vérifiée à la source.",
+    "Claude Guéant : condamnation pour escroquerie sur ses frais de campagne de 2012 infirmée par une relaxe en appel (cour d'appel de Versailles, selon la revue Pouvoirs n° 193) : exclue.",
+    "Henri Guaino (député UMP/LR 2012-2017) : condamnation pour outrage à magistrat (22 octobre 2015) annulée par la Cour de cassation le 15 novembre 2016 : exclue.",
+    "Philippe Pemezec (sénateur LR 2017-2023) : condamnation de 2015 (logement social attribué à sa fille) suivie d'une relaxe en appel le 30 mars 2016 : exclue.",
+    "Franck Marlin : relaxé le 14 octobre 2025 (emplois fictifs), appel du parquet ; ancienne condamnation de première instance pour recel d'abus de biens sociaux (années 1990) non vérifiée.",
+    "Hubert Falco : condamnation du 23 mai 2025 par le tribunal correctionnel de Toulon pour injure envers un journaliste (1 000 euros d'amende) mentionnée par Wikipédia mais non vérifiée à une source primaire : non retenue.",
+    "Grosdidier : renvoyé devant le tribunal correctionnel de Paris pour détournement de fonds publics (rémunération de collaborateurs) ; procès en cours, non retenu.",
+    "Non retenus car hors périmètre (pas de mandat UMP/LR de parlementaire ou de ministre depuis 2012, ni de fonction de dirigeant national) : Charles Pasqua, Alain Carignon, Pierre Bédier, Gilles Bourdouleix (CNIP/UDI), Gaston Flosse (sorti de l'UMP en 2008 selon Wikipédia), ainsi qu'Éric Cesari et Fabienne Liadzé (cadres salariés de l'UMP condamnés dans l'affaire Bygmalion)."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "nouvelle-caledonie-2024",
+  "questionSimple": "Faut-il laisser voter aux élections provinciales de Nouvelle-Calédonie les personnes nées sur place ou installées depuis au moins dix ans ?",
+  "enBref": "En Nouvelle-Calédonie, la liste des électeurs qui choisissent les élus des provinces est figée depuis 1998, en vertu des accords de Matignon et de Nouméa. En 2023, près de 20 % des électeurs inscrits en étaient exclus. Le texte l'ouvrait aux personnes nées sur place et à celles installées depuis au moins dix ans.",
+  "pourquoiPour": "Ses défenseurs jugent inacceptable que près de 20 % des citoyens, dont des personnes nées sur place, soient privés de ce vote. Pour eux, il s'agit de permettre à des Français de voter en France.",
+  "pourquoiContre": "Ses opposants rappellent que ce gel est un compromis historique qui garantit la représentation des Kanaks. Selon eux, le lever sans accord global risque de les mettre en minorité.",
+  "ceQuiSestPasse": "Voté par le Sénat, puis par l'Assemblée en mai 2024 pendant des émeutes meurtrières, le texte n'est jamais passé au Congrès et a été abandonné.",
+  "lexique": [
+    {
+      "terme": "Élections provinciales",
+      "definition": "Élections des assemblées de province et du Congrès, les institutions locales de Nouvelle-Calédonie."
+    },
+    {
+      "terme": "Kanaks",
+      "definition": "Peuple autochtone de Nouvelle-Calédonie."
+    },
+    {
+      "terme": "Congrès (du Parlement)",
+      "definition": "Députés et sénateurs réunis ensemble : leur vote final est nécessaire pour modifier la Constitution."
+    }
+  ]
+}

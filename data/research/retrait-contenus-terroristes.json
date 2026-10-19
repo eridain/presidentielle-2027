@@ -1,0 +1,219 @@
+{
+  "id": "retrait-contenus-terroristes",
+  "titre": "Retrait en une heure des contenus terroristes en ligne",
+  "question": "Faut-il obliger les plateformes à retirer en une heure les contenus terroristes signalés par les autorités (règlement européen) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le règlement européen 2021/784 (dit « TCO »), adopté en avril 2021 avec le soutien de la France et applicable depuis le 7 juin 2022, oblige les hébergeurs à retirer ou bloquer dans l'heure les contenus à caractère terroriste visés par une injonction d'une autorité nationale, sous peine de sanctions pouvant atteindre 4 % de leur chiffre d'affaires mondial. La proposition de loi d'Aude Bono-Vandorme (LaREM) adapte le droit français : désignation de l'autorité compétente (l'office de police chargé des signalements, sous le contrôle d'une personnalité de l'Arcom), sanctions et recours devant le juge administratif. Le texte de la commission mixte paritaire a été adopté le 27 juillet 2022 (175 pour, 23 contre, 6 abstentions) ; après saisine, le Conseil constitutionnel l'a déclaré conforme le 13 août 2022 et la loi n° 2022-1159 a été promulguée le 16 août 2022.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/dispositions_ue_terrorisme_en_ligne"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°182",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 27 juillet 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/dispositions_ue_terrorisme_en_ligne",
+  "argumentsPour": [
+    {
+      "auteur": "Caroline Cayeux (ministre déléguée, gouvernement)",
+      "resume": "Le règlement européen permet de retirer en une heure les contenus terroristes, sous peine de lourdes sanctions pour les plateformes ; la loi permet sa mise en œuvre.",
+      "citation": "La présente proposition de loi adapte notre législation pour permettre la bonne mise en œuvre du règlement TCO dans notre pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022",
+      "date": "2022-07-27"
+    },
+    {
+      "auteur": "Ian Boucard (Les Républicains)",
+      "resume": "Internet et les réseaux sociaux ont permis aux terroristes de propager leur idéologie et de recruter.",
+      "citation": "Par leur inaction, internet, les réseaux sociaux et les sites d’hébergement de vidéos ont permis aux terroristes de propager leur idéologie abjecte à de nombreuses reprises.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022",
+      "date": "2022-07-27"
+    },
+    {
+      "auteur": "Philippe Pradal (Horizons)",
+      "resume": "Le texte permettra enfin le retrait rapide des contenus terroristes.",
+      "citation": "Le groupe Horizons votera ce texte, qui permettra le retrait en une heure de contenus terroristes en ligne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022",
+      "date": "2022-07-27"
+    },
+    {
+      "auteur": "Roger Vicot (Socialistes)",
+      "resume": "Sur le fond, le texte ne peut qu'être approuvé, malgré des réserves de procédure.",
+      "citation": "Comme l’a expliqué Cécile Untermaier, il ne saurait être question de nous opposer à ce texte, qui, sur le fond, ne peut évidemment qu’être approuvé.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022",
+      "date": "2022-07-27"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Ugo Bernalicis (La France insoumise)",
+      "resume": "Le retrait en une heure sans juge reprend le dispositif de la loi Avia, censuré en 2020 par le Conseil constitutionnel.",
+      "citation": "Votre texte pose un problème de constitutionnalité, je l’ai dit, parce que le dispositif qu’il instaure – retrait du contenu en une heure – est exactement identique à celui que vous aviez expérimenté",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022",
+      "date": "2022-07-27"
+    },
+    {
+      "auteur": "Jean-François Coulomme (La France insoumise)",
+      "resume": "Une définition floue permettrait de censurer des militants, des appels à manifester ou des œuvres satiriques.",
+      "citation": "Telles sont les raisons pour lesquelles nous nous opposons à la proposition de loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022",
+      "date": "2022-07-27"
+    },
+    {
+      "auteur": "Emeline K/Bidi (Gauche démocrate et républicaine)",
+      "resume": "Seul le juge offre les garanties d'impartialité pour juger qu'un contenu est illicite ; le dispositif n'est pas indépendant de l'exécutif.",
+      "citation": "Nous voulons donc réaffirmer notre attachement à l’État de droit, à la liberté d’expression et au rôle du juge.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022",
+      "date": "2022-07-27"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Jérémie Iordanoff (Écologiste)",
+      "resume": "Il dénonce une privatisation et une automatisation de la censure par les plateformes ; son groupe ne vote pas pour.",
+      "citation": "Une dynamique de privatisation et d’automatisation de la censure est à l’œuvre ; il est de notre devoir de la contenir.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022",
+      "date": "2022-07-27"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis juin 2022 ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour / 18 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°182) ; aucune déclaration retrouvée. Pour information, son groupe GDR a voté contre (4 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°182) ; aucune déclaration retrouvée. Pour information, son groupe LFI a voté contre (18 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste s'est abstenu (0 pour / 0 contre / 5 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°182) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; le règlement TCO a été approuvé en 2021 sans vote nominal final retrouvé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (4 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des comptes publics dans le gouvernement Borne, favorable au texte de la CMP (Caroline Cayeux) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/seance-du-mercredi-27-juillet-2022",
+      "date": "2022-07-27"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (maire du Havre, président d'Horizons) ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (14 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur : pas de scrutin public retrouvé au Sénat sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (9 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (9 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (9 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°182) ; aucune déclaration retrouvée. Pour information, son groupe RN a voté pour (47 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non-inscrit, n'a pas pris part au vote (scrutin n°182) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/182",
+      "date": "2022-07-27"
+    }
+  },
+  "alertes": [
+    "L'obligation de retrait en une heure découle du règlement européen, directement applicable ; la loi votée en organise seulement la mise en œuvre en France (autorité compétente, sanctions, recours).",
+    "Faible participation des candidats suivis : Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote.",
+    "RN : vote pour, mais l'orateur (Timothée Houssin) juge la définition des contenus terroristes « floue ».",
+    "Attal : position déduite de l'appartenance au gouvernement."
+  ]
+}

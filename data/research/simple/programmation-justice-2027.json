@@ -1,0 +1,18 @@
+{
+  "id": "programmation-justice-2027",
+  "questionSimple": "Faut-il porter le budget de la justice à près de 11 milliards d'euros en 2027, avec 10 000 recrutements ?",
+  "enBref": "La loi augmente fortement l'argent consacré à la justice jusqu'en 2027. Elle prévoit 10 000 recrutements, dont 1 500 juges. Elle permet aussi aux enquêteurs d'activer à distance un téléphone dans certaines enquêtes graves.",
+  "pourquoiPour": "Pour ses défenseurs, la justice manquait de moyens depuis des années, avec des délais trop longs. Ce budget sans précédent lui permet enfin de fonctionner normalement.",
+  "pourquoiContre": "Pour ses opposants, l'argent ne règle pas tout : le texte oublie l'indépendance de la justice et les prisons surpeuplées. Activer des téléphones à distance menacerait les libertés.",
+  "ceQuiSestPasse": "Adoptée définitivement le 11 octobre 2023, la loi a été promulguée le 20 novembre 2023 après une censure partielle du Conseil constitutionnel.",
+  "lexique": [
+    {
+      "terme": "Loi de programmation",
+      "definition": "Loi qui fixe à l'avance les moyens budgétaires prévus sur plusieurs années."
+    },
+    {
+      "terme": "Activation à distance",
+      "definition": "Possibilité pour les enquêteurs d'allumer un appareil connecté pour localiser ou écouter une personne."
+    }
+  ]
+}

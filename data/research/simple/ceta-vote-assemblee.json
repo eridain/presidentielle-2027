@@ -1,0 +1,22 @@
+{
+  "id": "ceta-vote-assemblee",
+  "questionSimple": "Après le refus du Sénat, les députés doivent-ils voter à leur tour sur l'accord commercial CETA avec le Canada ?",
+  "enBref": "Le CETA s'applique en partie depuis 2017 sans vote final du Parlement français. En mars 2024, le Sénat l'a rejeté. Ce texte demandait au gouvernement de le soumettre aussi aux députés.",
+  "pourquoiPour": "Pour ses partisans, le gouvernement évite ce vote par peur d'un rejet. Les élus doivent pouvoir se prononcer sur un accord qui touche les agriculteurs et l'environnement.",
+  "pourquoiContre": "Pour le gouvernement, le vote viendra plus tard, après un débat calme. Il estime que l'accord profite aux exportations françaises et reproche une alliance électorale des oppositions.",
+  "ceQuiSestPasse": "La demande a été adoptée le 30 mai 2024, sans obliger le gouvernement ; les députés de la majorité se sont abstenus.",
+  "lexique": [
+    {
+      "terme": "CETA",
+      "definition": "Accord commercial entre l'Union européenne et le Canada, appliqué en partie depuis 2017."
+    },
+    {
+      "terme": "Ratification",
+      "definition": "Approbation officielle d'un traité pour qu'il engage pleinement le pays."
+    },
+    {
+      "terme": "Résolution",
+      "definition": "Texte par lequel l'Assemblée exprime un avis, sans créer de loi."
+    }
+  ]
+}

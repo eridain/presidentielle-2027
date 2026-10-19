@@ -1,0 +1,213 @@
+{
+  "id": "lpm-2024-2030",
+  "titre": "Loi de programmation militaire 2024-2030",
+  "question": "Faut-il programmer 413 milliards d'euros pour les armées sur la période 2024-2030 (loi de programmation militaire) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi fixe la trajectoire financière des armées pour 2024-2030 à 413,3 milliards d'euros, dont 13,3 milliards de ressources extrabudgétaires, avec la modernisation de la dissuasion nucléaire, le renforcement de la protection des outre-mer et des investissements dans l'espace, les fonds marins et le cyber. L'Assemblée l'a adopté en première lecture le 7 juin 2023 (408 pour, 87 contre, 53 abstentions) ; LFI et les communistes ont voté contre, socialistes et écologistes se sont abstenus. Après accord en commission mixte paritaire, le texte a été définitivement adopté les 12 et 13 juillet 2023 ; le Conseil constitutionnel a censuré plusieurs articles (décision n° 2023-854 DC du 28 juillet 2023) et la loi n° 2023-703 a été promulguée le 1er août 2023.",
+  "contexteSources": [
+    {
+      "titre": "Dossier législatif – Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/programmation_militaire_2024_2030"
+    },
+    {
+      "titre": "Loi de programmation militaire : le Parlement adopte définitivement le texte (Public Sénat, 13/07/2023)",
+      "url": "https://www.publicsenat.fr/actualites/politique/loi-de-programmation-militaire-le-parlement-adopte-definitivement-le-texte"
+    },
+    {
+      "titre": "Loi de programmation militaire 2024-2030 – Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Loi_de_programmation_militaire_2024-2030"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1778",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/programmation_militaire_2024_2030",
+  "argumentsPour": [
+    {
+      "auteur": "Mounir Belhamiti (Renaissance)",
+      "resume": "La défense exige une programmation pluriannuelle ; après la LPM précédente respectée, la nouvelle trajectoire de 413 milliards répond aux menaces nouvelles, dont la guerre en Ukraine.",
+      "citation": "La trajectoire budgétaire de 413 milliards d’euros sur sept ans que nous nous apprêtons à voter apporte des réponses.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-juin-2023",
+      "date": "2023-06-07"
+    },
+    {
+      "auteur": "Jean-Louis Thiériot (Les Républicains)",
+      "resume": "Une LPM « raisonnable » plutôt qu'historique, mais qui renforce la dissuasion et la préparation de l'avenir ; vote pour, sans « chèque en blanc ».",
+      "citation": "Néanmoins, nous connaissons l’état de nos finances publiques : tant que nous n’aurons pas défini une trajectoire soutenable, 413 milliards d’euros, ce n’est déjà pas si mal.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-juin-2023",
+      "date": "2023-06-07"
+    },
+    {
+      "auteur": "Laurent Jacobelli (Rassemblement national)",
+      "resume": "Le RN vote pour sans enthousiasme : hausse des moyens et priorité à la dissuasion, mais refus d'une « défense européenne » ; il entend réorienter la LPM après 2027.",
+      "citation": "C’est pourquoi, sans enthousiasme, avec vigilance, mais aussi avec la satisfaction de voir certaines de nos mesures adoptées, nous voterons pour cette LPM.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-juin-2023",
+      "date": "2023-06-07"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Fabien Roussel (Gauche démocrate et républicaine)",
+      "resume": "Un modèle d'armée expéditionnaire et un renforcement de l'arsenal nucléaire, alignés sur l'OTAN, financés au détriment des services publics.",
+      "citation": "cette loi de programmation militaire nous expose davantage aux risques d’avoir une paix de retard plutôt qu’une guerre d’avance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-juin-2023",
+      "date": "2023-06-07"
+    },
+    {
+      "auteur": "Aurélien Saintoul (La France insoumise)",
+      "resume": "Une occasion ratée de planifier la souveraineté : saupoudrage, dépendances industrielles, alignement sur les alliés plutôt que non-alignement.",
+      "citation": "Nous avions deux ans –⁠ nous avons toujours deux ans – pour proposer une véritable loi de planification et de protection de la souveraineté. C’est une occasion ratée",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-juin-2023",
+      "date": "2023-06-07"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Mélanie Thomin (Socialistes et apparentés)",
+      "resume": "Accord sur la dissuasion et les coopérations, mais un effort réel inférieur à l'annonce (inflation, dépenses déjà engagées) et des questions sans réponse.",
+      "citation": "Rappelons que les 413 milliards annoncés incluent 30 milliards pour absorber l’inflation et 100 milliards de reste à charge de dépenses déjà engagées.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-juin-2023",
+      "date": "2023-06-07"
+    },
+    {
+      "auteur": "Cyrielle Chatelain (Écologiste-NUPES)",
+      "resume": "Soutien à l'Ukraine et avancées obtenues, mais regret que l'effort ne soit pas équivalent pour l'école, l'hôpital et la transition ; abstention « de responsabilité ».",
+      "citation": "Investissez autant dans l’école, dans l’hôpital et dans la transition énergétique que dans l’armée, et vous trouverez une majorité !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-juin-2023",
+      "date": "2023-06-07"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2023 ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour, 70 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 1778 du 7 juin 2023 ; il a porté lui-même l'explication de vote du groupe GDR.",
+      "argument": "Doublement du budget militaire au profit d'une armée de projection et de l'arsenal nucléaire, aligné sur l'OTAN, au détriment des services publics ; il défend plutôt la défense du territoire et des outre-mer.",
+      "citation": "cette loi de programmation militaire nous expose davantage aux risques d’avoir une paix de retard plutôt qu’une guerre d’avance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-juin-2023",
+      "date": "2023-06-07"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 1778 du 7 juin 2023. Pas d'intervention personnelle retrouvée : argument = explication de vote de son groupe LFI-NUPES (Aurélien Saintoul).",
+      "argument": "(Groupe LFI) Une occasion ratée de planifier la souveraineté militaire et industrielle.",
+      "citation": "Nous avions deux ans –⁠ nous avons toujours deux ans – pour proposer une véritable loi de planification et de protection de la souveraineté. C’est une occasion ratée",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-juin-2023",
+      "date": "2023-06-07"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES s'est abstenu (0 pour, 1 contre, 20 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale (abstention), scrutin n° 1778 du 7 juin 2023. Pas d'intervention personnelle retrouvée : argument = explication de vote de son groupe Écologiste-NUPES (Cyrielle Chatelain).",
+      "argument": "(Groupe Écologiste) Abstention « de responsabilité » : soutien à l'Ukraine, mais regret que l'effort ne soit pas équivalent pour l'école, l'hôpital et la transition.",
+      "citation": "Investissez autant dans l’école, dans l’hôpital et dans la transition énergétique que dans l’armée, et vous trouverez une majorité !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-juin-2023",
+      "date": "2023-06-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote sur ce texte national ; aucune déclaration retrouvée. Place publique n'a pas de groupe propre à l'Assemblée (le groupe socialiste, allié, s'est abstenu) : pas de proxy direct.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics dans le gouvernement Borne, qui a présenté et défendu ce projet de loi ; aucune déclaration personnelle vérifiée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/programmation_militaire_2024_2030",
+      "date": "2023-06-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY : le groupe Horizons, de son parti, a voté pour (29 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif au Sénat pour l'ensemble du projet de loi, scrutin public n° 321 du 29 juin 2023 (il a aussi voté pour le texte de CMP, scrutin n° 331 du 13 juillet 2023).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-321.html",
+      "date": "2023-06-29"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY : son parti LR a voté pour à l'Assemblée (61 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY : son parti LR a voté pour à l'Assemblée (61 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 1778 du 7 juin 2023. Pas d'intervention personnelle retrouvée : argument = explication de vote de son groupe RN (Laurent Jacobelli), qui se réfère à son programme.",
+      "argument": "(Groupe RN) Vote pour, « sans enthousiasme » : hausse des moyens et priorité à la dissuasion, mais rejet de la « défense européenne » ; volonté de réorienter la LPM après 2027.",
+      "citation": "C’est pourquoi, sans enthousiasme, avec vigilance, mais aussi avec la satisfaction de voir certaines de nos mesures adoptées, nous voterons pour cette LPM.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mercredi-07-juin-2023",
+      "date": "2023-06-07"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée ; Reconquête n'avait pas de député en 2023 : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour en première lecture (scrutin n° 1778 du 7 juin 2023) ; il a ensuite voté contre le texte définitif de CMP le 12 juillet 2023 (scrutin n° 2256), en expliquant ce revirement dans une vidéo.",
+      "argument": null,
+      "citation": "Vote final de la loi de programmation militaire 2024-2030 : pourquoi j'ai finalement voté contre.",
+      "url": "https://www.businessbourse.com/2023/07/13/nicolas-dupont-aignan-vote-final-de-la-loi-de-programmation-militaire-2024-2030-pourquoi-jai-finalement-vote-contre/",
+      "date": "2023-07-12"
+    }
+  },
+  "alertes": [
+    "Dupont-Aignan : pour en première lecture (scrutin de référence n° 1778) mais contre au vote final du texte de CMP (scrutin n° 2256 du 12 juillet 2023, vérifié sur le site de l'AN). Ses raisons ne figurent que dans une vidéo (tweet du 12/07/2023 repris par businessbourse.com et debout-la-france.fr) ; non transcrites.",
+    "Le scrutin de référence est la première lecture (7 juin 2023) ; au vote final (12 juillet 2023), Roussel a voté contre et Marine Le Pen pour (vérifié sur la page du scrutin n° 2256).",
+    "Ruffin, Batho, Le Pen : aucune prise de parole personnelle retrouvée dans le compte rendu du 7 juin ; arguments = explications de vote de leurs groupes.",
+    "Attal : position déduite de son appartenance au Gouvernement (ministre délégué aux Comptes publics) ; aucune citation personnelle vérifiée.",
+    "Une loi d'actualisation de la LPM (436 milliards) a été adoptée le 1er juillet 2026 selon nosparlementaires.fr (https://nosparlementaires.fr/actualites/qui-a-vote-loi-programmation-militaire) : sujet distinct, non traité ici ; les positions des candidats sur l'actualisation peuvent différer."
+  ]
+}

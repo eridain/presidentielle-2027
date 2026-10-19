@@ -1,0 +1,196 @@
+{
+  "id": "fonction-publique-2019",
+  "titre": "Transformation de la fonction publique (2019)",
+  "question": "Faut-il élargir le recours aux contractuels dans la fonction publique et y créer une rupture conventionnelle (loi de transformation de la fonction publique, 2019) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi de transformation de la fonction publique, porté par le secrétaire d'État Olivier Dussopt, élargit le recours aux contractuels dans les trois versants de la fonction publique (emplois de direction, emplois permanents dans certains cas, nouveau « contrat de projet » d'un à six ans), crée une rupture conventionnelle ouvrant droit à indemnité et à l'assurance chômage, fusionne le comité technique et le CHSCT en un « comité social » et recentre les commissions administratives paritaires. Il comprend aussi des mesures sur l'égalité professionnelle et la déontologie. Le texte de la commission mixte paritaire a été adopté par l'Assemblée le 18 juillet 2019 (81 voix contre 17). Saisi par plus de soixante députés, le Conseil constitutionnel l'a déclaré conforme (décision n° 2019-790 DC du 1er août 2019) et la loi a été promulguée le 6 août 2019.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Dossier législatif (exposé des motifs, décision 2019-790 DC, loi n° 2019-828)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/transformation_fonction_publique"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2058",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/transformation_fonction_publique",
+  "argumentsPour": [
+    {
+      "auteur": "Laurence Vichnievsky (MoDem)",
+      "resume": "Le recours accru aux contractuels apportera souplesse, adaptabilité et expertise à la gestion des services publics.",
+      "citation": "Autre disposition que nous soutenons : le recours accru aux contractuels pour chacune des trois composantes de la fonction publique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N017",
+      "date": "2019-07-18"
+    },
+    {
+      "auteur": "Pascal Brindeau (UDI et indépendants)",
+      "resume": "Le statut doit être remodelé selon l'évolution des besoins ; le groupe adhère à la nouvelle souplesse de gestion, tout en regrettant la fusion des instances.",
+      "citation": "Le statut de la fonction publique nécessite d’être remodelé au gré de l’évolution des besoins collectifs et de celle des techniques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N017",
+      "date": "2019-07-18"
+    },
+    {
+      "auteur": "Guillaume Gouffier-Cha (LaREM)",
+      "resume": "Le groupe vote le texte de la CMP, issu de mois de concertation, au service des agents titulaires comme contractuels.",
+      "citation": "Dans quelques instants, nous nous prononcerons sur le texte adopté par la commission mixte paritaire il y a quelques jours, texte que le groupe La République en marche votera, bien entendu.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N017",
+      "date": "2019-07-18"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Boris Vallaud (Socialistes)",
+      "resume": "Le projet rompt avec les principes d'égalité et d'indépendance du service public ; la mobilité livrerait les agents à l'arbitraire.",
+      "citation": "Votre projet est en rupture avec le principe d’égalité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N017",
+      "date": "2019-07-18"
+    },
+    {
+      "auteur": "Stéphane Peu (GDR)",
+      "resume": "Le statut protecteur et le recrutement par concours garantissent neutralité, impartialité et égalité du service public.",
+      "citation": "C’est aussi parce que son statut est protecteur qu’il garantit la neutralité du service public.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N017",
+      "date": "2019-07-18"
+    },
+    {
+      "auteur": "Alexis Corbière (La France insoumise)",
+      "resume": "Généraliser les contractuels bouleverse les principes du service public et fragilise les agents face aux pressions.",
+      "citation": "Votre vision opère un bouleversement des grands principes du service public.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N017",
+      "date": "2019-07-18"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin AN n°2058). Proxy indicatif : le groupe FI a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin AN n°2058). Proxy indicatif : le groupe GDR a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin AN n°2058). Proxy indicatif : le groupe FI a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national en 2019 ; pas de déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°2058).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé depuis juillet 2019 ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'éducation nationale ; membre du gouvernement qui a porté le texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/transformation_fonction_publique",
+      "date": "2019-07-18"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a porté le texte (secrétaire d'État Olivier Dussopt).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/transformation_fonction_publique",
+      "date": "2019-07-18"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président du groupe LR au Sénat ; aucun scrutin public sur l'ensemble du texte n'a été retrouvé dans la liste des scrutins du Sénat. Proxy indicatif : le groupe LR de l'Assemblée a voté pour à une courte majorité (4 pour, 3 contre, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région (ex-LR) ; pas de déclaration retrouvée. Proxy indicatif : LR à l'Assemblée partagé (4 pour, 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; pas de déclaration retrouvée. Proxy indicatif : LR à l'Assemblée partagé (4 pour, 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°2058).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2019 ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°2058).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Scrutin à très faible participation (100 votants, session extraordinaire de juillet) : aucun des candidats députés n'a pris part au vote ; aucune déclaration personnelle retrouvée, positions « inconnu ».",
+    "Le texte ne supprime pas le statut des fonctionnaires : il élargit les cas de recrutement par contrat et crée une rupture conventionnelle ; les modalités précises (durée, champ) n'ont pas été vérifiées dans le texte promulgué.",
+    "LR était partagé à l'Assemblée (4 pour, 3 contre) ; Olivier Marleix (LR) jugeait la réforme sans effet économique selon l'étude d'impact.",
+    "Libertés et territoires partagé (2 pour, 2 contre)."
+  ]
+}

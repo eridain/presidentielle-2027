@@ -1,0 +1,18 @@
+{
+  "id": "loi-duplomb",
+  "questionSimple": "Faut-il réautoriser par exception l'acétamipride, un insecticide interdit, et alléger les règles pour les élevages et les réserves d'eau ?",
+  "enBref": "Le texte permettait d'autoriser par exception des pesticides interdits en France mais autorisés ailleurs dans l'Union européenne, comme l'acétamipride. Il allège aussi les démarches administratives de certains élevages et facilite la construction de réserves d'eau. Il assouplit enfin la règle qui sépare la vente de pesticides et le conseil sur leur usage.",
+  "pourquoiPour": "Ses défenseurs répondent à la colère des agriculteurs face à des règles françaises plus strictes que celles de leurs concurrents. Selon eux, les exceptions restent encadrées et temporaires, et l'interdiction générale des néonicotinoïdes est maintenue.",
+  "pourquoiContre": "Ses opposants jugent que le retour d'un néonicotinoïde menace les insectes pollinisateurs et la santé des agriculteurs, des riverains et des enfants. Selon eux, les choix sur les pesticides doivent relever de la science, pas du marché.",
+  "ceQuiSestPasse": "La loi a été promulguée en août 2025 sans le retour de l'acétamipride, censuré par le Conseil constitutionnel au nom de la Charte de l'environnement.",
+  "lexique": [
+    {
+      "terme": "Acétamipride",
+      "definition": "Insecticide de la famille des néonicotinoïdes, interdit en France mais autorisé dans d'autres pays de l'UE."
+    },
+    {
+      "terme": "Conseil constitutionnel",
+      "definition": "Institution qui vérifie qu'une loi respecte la Constitution et peut en annuler des passages."
+    }
+  ]
+}

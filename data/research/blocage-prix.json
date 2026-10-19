@@ -1,0 +1,207 @@
+{
+  "id": "blocage-prix",
+  "titre": "Blocage des prix des produits de première nécessité (proposition LFI, 2022)",
+  "question": "Faut-il bloquer les prix des produits de première nécessité (carburants, énergie, alimentation) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Lors de sa journée réservée du 13 janvier 2022, le groupe La France insoumise a présenté une proposition de loi d'Ugo Bernalicis, défendue en séance par Jean-Luc Mélenchon comme rapporteur suppléant. Son article 1er ajoutait l'« urgence sociale » aux circonstances permettant au gouvernement de bloquer les prix par décret (article L. 410-2 du code de commerce), afin de bloquer notamment les prix des carburants, de l'énergie et des produits de première nécessité face à la flambée des prix ; l'article 2 prévoyait une intervention citoyenne dans la fixation des prix bloqués. Le scrutin porte sur l'article 1er, rejeté par 61 voix contre 24 (1 abstention) : la gauche a voté pour, la majorité présidentielle contre ; LR, opposé au texte, n'a pas pris part à ce scrutin. L'article 2 ayant aussi été rejeté, la proposition de loi a été rejetée dans son ensemble.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 13 janvier 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N121"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/blocage_prix"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4289",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/blocage_prix",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-Luc Mélenchon (FI, rapporteur suppléant)",
+      "resume": "Face à la flambée des prix, il faut pouvoir bloquer en urgence les prix des carburants et des produits nécessaires à la survie des familles.",
+      "citation": "Il s’agit désormais de bloquer, pour l’essentiel, les prix des carburants et des matières premières nécessaires à la survie des familles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N121",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Stéphane Peu (GDR)",
+      "resume": "Le marché libre ne permet pas toujours de fixer le juste prix, alors que les salaires stagnent et que l'énergie flambe.",
+      "citation": "Leur constat est simple : le marché libre et concurrentiel ne permet pas, dans bien des situations, de fixer le prix juste.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N121",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Marie-Noëlle Battistel (Socialistes)",
+      "resume": "L'explosion des prix des biens de première nécessité est un constat partagé sur tous les bancs.",
+      "citation": "Nos collègues font le constat, partagé d’ailleurs sur tous les bancs, d’une explosion des prix des biens de première nécessité depuis maintenant plus d’un an.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N121",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Guillaume Kasbarian (LaREM)",
+      "resume": "L'État dispose déjà d'outils pour réguler les marchés, comme le bouclier tarifaire sur le gaz.",
+      "citation": "Vous oubliez que l’État dispose déjà d’outils pour réguler les marchés et que notre majorité n’a pas hésité à les utiliser.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N121",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Luc Lamirault (Agir ensemble)",
+      "resume": "Les blocages de prix ont échoué partout dans le monde et ne traitent pas les causes de l'inflation.",
+      "citation": "Tout autour du monde, diverses tentatives de blocage des prix par l’État se sont révélées infructueuses et ont entraîné des effets indésirables.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N121",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Michèle Crouzet (Démocrate)",
+      "resume": "Le blocage des prix ne peut à lui seul servir de remède anti-inflation ; le gouvernement a déjà des outils.",
+      "citation": "Vous considérez le blocage des prix comme un outil au service d’une politique anti-inflationniste, mais il ne saurait à lui seul tenir lieu de remède.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N121",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Stéphane Viry (LR)",
+      "resume": "LR préfère un chèque alimentaire pour les ménages modestes et ne vote pas le texte.",
+      "citation": "Pour revenir à votre proposition de loi, nous ne voterons pas ce texte en séance publique, monsieur le rapporteur, comme nous ne l’avons pas voté en commission.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N121",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour l'article 1er (scrutin AN n°4289) ; a défendu le texte comme rapporteur suppléant.",
+      "argument": "Veut permettre de bloquer en urgence les prix des carburants, de l'énergie et des cinq ou six premières consommations populaires face à la flambée des prix créée par le marché.",
+      "citation": "Il s’agit désormais de bloquer, pour l’essentiel, les prix des carburants et des matières premières nécessaires à la survie des familles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N121",
+      "date": "2022-01-13"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin AN n°4289). Proxy indicatif : le groupe GDR a voté pour (4 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin AN n°4289). Proxy indicatif : le groupe FI a voté pour (14 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national ; pas de déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°4289).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste a voté pour (4 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui s'opposait au texte (ministre déléguée Agnès Pannier-Runacher).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N121",
+      "date": "2022-01-13"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre et président d'Horizons, sans mandat parlementaire ; pas de déclaration retrouvée. Proxy indicatif : le groupe Agir ensemble, proche d'Horizons, a voté contre (2 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte rejeté à l'Assemblée, jamais examiné au Sénat. Pas de déclaration retrouvée. Le groupe LR de l'Assemblée s'est opposé au texte (Stéphane Viry) sans prendre part à ce scrutin.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; pas de déclaration retrouvée. LR opposé au texte à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; pas de déclaration retrouvée. LR opposé au texte à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°4289) ; pas de déclaration retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Candidat à la présidentielle, sans mandat ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4289).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Scrutin sur l'article 1er (et non l'ensemble) d'une proposition de loi d'opposition, à très faible participation (86 votants) ; le texte a été rejeté dans son ensemble faute d'articles adoptés.",
+    "Le texte ne bloquait pas directement les prix : il élargissait la possibilité pour le gouvernement de les bloquer par décret en cas d'« urgence sociale ».",
+    "LR (opposé au texte) n'apparaît pas dans le décompte de ce scrutin ; l'argument de Stéphane Viry est classé « contre » à titre indicatif.",
+    "Ruffin, Roussel, Le Pen, Dupont-Aignan : n'ont pas pris part au vote ; aucune déclaration personnelle retrouvée sur ce texte précis."
+  ]
+}

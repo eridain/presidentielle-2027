@@ -1,0 +1,238 @@
+{
+ "id": "taxe-zucman",
+ "titre": "Taxe Zucman sur les ultra-riches",
+ "question": "Faut-il instaurer un impôt plancher de 2 % sur le patrimoine des foyers dont la fortune dépasse 100 millions d'euros (« taxe Zucman ») ?",
+ "ouiSignifie": "pour",
+ "contexte": "Déposée le 7 janvier 2025 par Eva Sas et Clémentine Autain (groupe Écologiste et social), la proposition de loi inspirée des travaux de l'économiste Gabriel Zucman crée un impôt plancher : les foyers dont le patrimoine, y compris professionnel, dépasse 100 millions d'euros (environ 1 800 foyers) devraient acquitter au moins 2 % de ce patrimoine en impôts, avec un maintien de l'impôt cinq ans après un départ à l'étranger. L'Assemblée l'a adoptée en première lecture le 20 février 2025 (116 pour, 39 contre, 31 abstentions, RN abstenu). Le Sénat l'a rejetée le 12 juin 2025 (188 voix contre 129). Réintroduite par amendements de la gauche, elle a de nouveau été rejetée par l'Assemblée lors de l'examen des budgets 2026 (31 octobre 2025, 172 pour, 228 contre) et 2027 (16 octobre 2026) ; elle n'est pas entrée en vigueur.",
+ "contexteSources": [
+  {
+   "titre": "Assemblée nationale — Scrutin n° 881 (20 février 2025)",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/881"
+  },
+  {
+   "titre": "Public Sénat — Taxe « Zucman » : le Sénat rejette la création d'un nouvel impôt sur les ultra-riches",
+   "url": "https://www.publicsenat.fr/actualites/economie/taxe-zucman-le-senat-rejette-la-creation-dun-nouvel-impot-sur-les-ultra-riches"
+  },
+  {
+   "titre": "Assemblée nationale — Scrutin n° 3300 (31 octobre 2025, amendement au PLF 2026)",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3300"
+  },
+  {
+   "titre": "France 24 / AFP — Budget : l'Assemblée rejette la taxe Zucman sur les « ultrariches » (16 octobre 2026)",
+   "url": "https://www.france24.com/fr/info-en-continu/20261016-budget-l-assembl%C3%A9e-rejette-la-taxe-zucman-sur-les-ultrariches"
+  },
+  {
+   "titre": "Sénat — Dossier législatif « Impôt plancher de 2 % sur le patrimoine des ultrariches »",
+   "url": "https://www.senat.fr/dossier-legislatif/ppl24-380.html"
+  }
+ ],
+ "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/881",
+ "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/impot_plancher_2_pour_cent_patrimoine_ultra_riches",
+ "argumentsPour": [
+  {
+   "auteur": "Cyrielle Chatelain (Écologiste et social)",
+   "resume": "Le texte reprend les conclusions de la recherche : taxer les ultrariches est possible et bénéfique pour tous.",
+   "citation": "Avec la taxe Zucman, Eva Sas et Clémentine Autain reprennent les conclusions, claires, de la recherche : oui, nous pouvons taxer les ultrariches, et ce sera bénéfique pour tous.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  },
+  {
+   "auteur": "Nicolas Sansu (GDR)",
+   "resume": "L'impôt renforcerait le consentement à l'impôt, rétablirait l'égalité fiscale (27 % d'imposition des ultrariches) et réaffirmerait le pouvoir politique face à l'oligarchie financière.",
+   "citation": "D’abord, cette taxe est de nature à renforcer le consentement à l’impôt. N’oublions pas que, si certains de nos compatriotes n’acceptent plus d’en payer, c’est parce que les ultrariches y échappent.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  },
+  {
+   "auteur": "Mickaël Bouloux (Socialistes)",
+   "resume": "L'impôt plancher est jugé nécessaire pour redresser les comptes publics et restaurer la cohésion nationale ; la justice fiscale conditionne le consentement à l'impôt.",
+   "citation": "nous sommes convaincus que cet impôt plancher est nécessaire non seulement pour redresser les comptes publics mais également pour restaurer la cohésion nationale dans notre pays.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  },
+  {
+   "auteur": "Aurélien Le Coq (La France insoumise)",
+   "resume": "L'impôt plancher garanti sur le patrimoine des plus riches traduit le programme de partage des richesses défendu par le Nouveau Front populaire.",
+   "citation": "L’adoption probable par l’Assemblée nationale de la taxe Zucman, impôt plancher garanti sur le patrimoine des plus riches de notre pays, est d’abord le résultat de la victoire du Nouveau Front populaire",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  }
+ ],
+ "argumentsContre": [
+  {
+   "auteur": "Charles Sitzenstuhl (Ensemble pour la République)",
+   "resume": "Le groupe juge néfaste pour l'économie une fiscalité ciblant les plus riches et défend une ligne constante depuis 2017.",
+   "citation": "Nous considérons que votre politique fiscale, qui consiste à attaquer, à cibler, à matraquer ceux que vous appelez les riches ou les ultrariches, est néfaste pour l’économie française.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  },
+  {
+   "auteur": "Jean-Paul Mattei (Les Démocrates)",
+   "resume": "Taxer le patrimoine professionnel obligerait à sortir des dividendes et bloquerait le développement industriel ; il préfère agir au niveau européen sur les holdings.",
+   "citation": "Même si votre texte est intéressant, c’est une très mauvaise idée. Une telle taxe bloquerait le développement de notre patrimoine industriel, alors qu’il crée de l’emploi.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  },
+  {
+   "auteur": "Sylvain Berrios (Horizons & indépendants)",
+   "resume": "L'impôt serait juridiquement instable, confiscatoire et destructeur d'emplois, notamment pour les ETI, contraintes de vendre leur appareil productif.",
+   "citation": "Le texte prévoit la création d’un impôt confiscatoire, qui priverait le contribuable de la jouissance de ses biens et de leurs fruits, d’autant plus que les actifs professionnels sont pris en compte.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  },
+  {
+   "auteur": "Fabien Di Filippo (Droite républicaine)",
+   "resume": "Intégrer les biens professionnels menacerait la capacité de la France à créer emploi et richesse ; la mesure ne s'appliquerait sans doute pas dans un cadre national.",
+   "citation": "Vous prétendez obtenir une répartition plus égalitaire des richesses, mais ce que vous remettez en question, ce que vous menacez, c’est la capacité de la France à créer demain de l’emploi et de la richesse.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  }
+ ],
+ "argumentsAbstention": [
+  {
+   "auteur": "Claire Marais-Beuil (Rassemblement national)",
+   "resume": "Le RN dit vouloir taxer les plus riches mais juge la mesure inefficace et non ciblée ; il propose de remplacer l'IFI par un impôt sur la fortune financière.",
+   "citation": "non pas parce que nous refuserions de taxer les plus riches –⁠ bien au contraire –, mais parce que la mesure nous semble inefficace et non ciblée.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  }
+ ],
+ "candidats": {
+  "melenchon": {
+   "position": "pour",
+   "type": "declaration",
+   "detail": "Plus député depuis 2022 ; candidat LFI, il a inscrit la taxe Zucman dans son programme budgétaire pour 2027 présenté le 14 octobre 2026 (franceinfo). Le groupe LFI a voté pour (37/37).",
+   "argument": "Il veut dégager plus de 106 milliards de recettes, notamment par un ISF climatique et la taxe Zucman, en faisant contribuer le capital financier.",
+   "citation": "Le capital financier a profité et c'est lui qui doit payer",
+   "url": "https://www.radiofrance.fr/franceinfo/podcasts/les-documents-franceinfo/jean-luc-melenchon-presente-son-programme-budgetaire-et-promet-de-remettre-de-l-ordre-dans-les-comptes-publics-7698216",
+   "date": "2026-10-14"
+  },
+  "roussel": {
+   "position": "pour",
+   "type": "declaration",
+   "detail": "Plus député depuis 2024 ; déclaration sur franceinfo le 21 septembre 2025. Le groupe GDR a voté pour (5/5).",
+   "argument": "Il soutient une mesure de justice fiscale, estimant que les plus riches ont vu leur fortune multipliée et doivent contribuer à redresser les comptes.",
+   "citation": "Cette taxe c'est une bonne proposition que nous soutenons et qui permet de mettre en place un peu de justice fiscale parce qu'elle est nécessaire aujourd'hui",
+   "url": "https://www.franceinfo.fr/economie/budget/taxe-zucman-bernard-arnault-est-un-extreme-financier-c-est-le-champion-de-l-optimisation-fiscale-denonce-fabien-roussel_7505566.html",
+   "date": "2025-09-21"
+  },
+  "ruffin": {
+   "position": "pour",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 881 ; cosignataire de la proposition de loi n° 768. Aucune explication personnelle trouvée : argument = explication de vote du groupe Écologiste et social (Cyrielle Chatelain).",
+   "argument": "Le groupe écologiste estime que la recherche montre qu'il est possible et bénéfique de taxer les ultrariches.",
+   "citation": "Avec la taxe Zucman, Eva Sas et Clémentine Autain reprennent les conclusions, claires, de la recherche : oui, nous pouvons taxer les ultrariches, et ce sera bénéfique pour tous.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  },
+  "tondelier": {
+   "position": "pour",
+   "type": "declaration",
+   "detail": "Pas de mandat parlementaire ; son programme présidentiel dévoilé en juillet 2026 inclut la taxe Zucman (BFMTV). Le groupe Écologiste et social, à l'origine du texte, a voté pour (38/38).",
+   "argument": "Elle défend la taxe Zucman en complément d'un ISF « climatique » destiné à orienter le patrimoine vers des actifs verts.",
+   "citation": null,
+   "url": "https://www.bfmtv.com/politique/elections/presidentielle/nucleaire-hausse-du-smic-gaza-taxe-zucman-le-programme-presidentiel-de-marine-tondelier-est-il-different-de-celui-du-nfp_AN-202607130506.html",
+   "date": "2026-07-13"
+  },
+  "batho": {
+   "position": "pour",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 881 ; cosignataire de la proposition de loi n° 768. Aucune explication personnelle vérifiée : argument = explication de vote du groupe Écologiste et social (Cyrielle Chatelain).",
+   "argument": "Le groupe écologiste estime que la recherche montre qu'il est possible et bénéfique de taxer les ultrariches.",
+   "citation": "Avec la taxe Zucman, Eva Sas et Clémentine Autain reprennent les conclusions, claires, de la recherche : oui, nous pouvons taxer les ultrariches, et ce sera bénéfique pour tous.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  },
+  "glucksmann": {
+   "position": "pour",
+   "type": "declaration",
+   "detail": "Eurodéputé, sans vote sur ce texte ; déclaration sur RTL rapportée par LCP (11 septembre 2025).",
+   "argument": "Il se dit ouvert sur les modalités, l'assiette et le montant, mais pose comme condition de tout accord budgétaire une taxation des plus grandes fortunes.",
+   "citation": "On peut discuter des modalités, on peut discuter de l'assiette, on peut discuter du montant",
+   "url": "https://lcp.fr/actualites/budget-2026-la-taxe-zucman-sur-les-ultrariches-au-centre-de-l-equation-politique-398413",
+   "date": "2025-09-11"
+  },
+  "attal": {
+   "position": "contre",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 881 (également contre l'amendement au PLF 2026, scrutin n° 3300). Aucune explication personnelle trouvée : argument = explication de vote du groupe EPR (Charles Sitzenstuhl).",
+   "argument": "Le groupe EPR juge néfaste pour l'économie une fiscalité ciblant les plus riches.",
+   "citation": "Nous considérons que votre politique fiscale, qui consiste à attaquer, à cibler, à matraquer ceux que vous appelez les riches ou les ultrariches, est néfaste pour l’économie française.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N112",
+   "date": "2025-02-20"
+  },
+  "philippe": {
+   "position": "inconnu",
+   "type": "groupe",
+   "detail": "Aucune déclaration personnelle datée trouvée. PROXY : le groupe Horizons & indépendants (son parti) a voté contre (0 pour, 7 contre, 3 abstentions).",
+   "argument": null,
+   "citation": null,
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/881",
+   "date": "2025-02-20"
+  },
+  "retailleau": {
+   "position": "contre",
+   "type": "gouvernement",
+   "detail": "Ministre de l'Intérieur du gouvernement Bayrou, défavorable au texte lors du vote du 20 février 2025 ; il s'y est aussi opposé publiquement comme président de LR (Les Échos, septembre 2025).",
+   "argument": "Il estime que la taxe pourrait faire fuir les entreprises françaises et provoquer des délocalisations.",
+   "citation": "avec cette taxe-là, nos propres entreprises pourraient s'enfuir, on pourrait assister à une délocalisation.",
+   "url": "https://www.lesechos.fr/politique-societe/politique/taxe-zucman-limpot-qui-electrise-la-classe-politique-2186577",
+   "date": "2025-09-14"
+  },
+  "bertrand": {
+   "position": "contre",
+   "type": "declaration",
+   "detail": "Président de région, sans vote ; déclaration sur BFMTV le 29 octobre 2025.",
+   "argument": "Il qualifie la taxe Zucman, y compris dans sa version allégée, de « folie fiscale ».",
+   "citation": "La taxe Zucman, quelle qu'elle soit, est une folie fiscale",
+   "url": "https://www.bfmtv.com/politique/video-la-taxe-zucman-quelle-qu-elle-soit-est-une-folie-fiscale-estime-xavier-bertrand-lr_VN-202510290781.html",
+   "date": "2025-10-29"
+  },
+  "lisnard": {
+   "position": "contre",
+   "type": "declaration",
+   "detail": "Maire de Cannes, sans vote ; déclaration sur franceinfo le 24 septembre 2025.",
+   "argument": "Il juge la taxe nuisible à la création de richesse et à la prise de risque, et exclut de participer à un gouvernement qui l'instaurerait.",
+   "citation": "taxe sur l'avenir, sur la prise de risque",
+   "url": "https://www.radiofrance.fr/franceinfo/podcasts/8h30-franceinfo/budget-2026-pour-le-lr-david-lisnard-il-est-impensable-de-participer-a-un-gouvernement-qui-acterait-une-taxe-sur-les-plus-riches-2311852",
+   "date": "2025-09-24"
+  },
+  "lepen": {
+   "position": "contre",
+   "type": "declaration",
+   "detail": "Députée, n'a pas pris part au scrutin n° 881 (groupe RN abstenu, 28 abstentions) ; elle s'est ensuite déclarée opposée à la taxe (entretien à Sud Ouest rapporté par Les Échos, septembre 2025).",
+   "argument": "Elle juge la taxe inefficace en raison des départs de contribuables, injuste et dangereuse pour le développement des entreprises.",
+   "citation": "La taxe Zucman est inefficace, injuste et dangereuse puisqu'elle entraverait le développement de nos entreprises",
+   "url": "https://www.lesechos.fr/politique-societe/politique/taxe-zucman-limpot-qui-electrise-la-classe-politique-2186577",
+   "date": "2025-09-14"
+  },
+  "zemmour": {
+   "position": "contre",
+   "type": "declaration",
+   "detail": "Président de Reconquête, sans vote ; déclaration sur RMC/BFMTV le 27 octobre 2025 rapportée par Capital.",
+   "argument": "Il s'oppose à toute hausse d'impôt, estimant que tous les Français sont trop taxés.",
+   "citation": "Je pense que tout le monde est trop taxé. En France, nous sommes un enfer fiscal",
+   "url": "https://www.capital.fr/economie-politique/budget-2026-eric-zemmour-reconquete-denonce-lenfer-fiscal-francais-1520059",
+   "date": "2025-10-27"
+  },
+  "dupontaignan": {
+   "position": "inconnu",
+   "type": "groupe",
+   "detail": "Plus député depuis 2024 ; aucune déclaration sourcée trouvée. Pas de groupe parlementaire de son parti (Debout la France) : aucun proxy disponible.",
+   "argument": null,
+   "citation": null,
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/881",
+   "date": "2025-02-20"
+  }
+ },
+ "alertes": [
+  "Le Pen : le RN s'est abstenu sur la proposition de loi (février 2025) mais s'y est opposé ensuite (« ni light, ni hard, ni rien du tout », 28 octobre 2025, RTL) et a voté contre l'amendement au PLF 2026 (scrutin n° 3300, où Marine Le Pen figure parmi les « contre »). Position retenue : contre (déclaration).",
+  "Ruffin : sur le scrutin n° 3300 (31 octobre 2025), il est décompté « contre » mais a fait une mise au point indiquant qu'il voulait « voter pour ».",
+  "Retailleau : la citation date de septembre 2025 (alors ministre de l'Intérieur et président de LR) ; la date exacte du propos (« ce week-end », article des Échos du 16 septembre 2025) est approximée au 2025-09-14.",
+  "Le Pen : citation tirée d'un entretien à Sud Ouest rapporté par Les Échos (16 septembre 2025, « ce week-end ») ; date approximée au 2025-09-14 ; l'entretien original n'a pas été consulté.",
+  "Tondelier : aucune citation verbatim de sa part vérifiée (le programme est paraphrasé par BFMTV) ; citation null.",
+  "Mélenchon : la citation est rapportée par franceinfo (programme 2027, 14 octobre 2026) ; elle porte sur le financement global du programme, la taxe Zucman étant l'une des mesures citées.",
+  "Glucksmann : déclaration de principe sur la négociation budgétaire de septembre 2025 ; des sources secondaires non vérifiées lui prêtent des réserves sur l'inclusion du patrimoine professionnel.",
+  "Philippe et Dupont-Aignan : aucune déclaration sourcée trouvée."
+ ]
+}

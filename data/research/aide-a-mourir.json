@@ -1,0 +1,228 @@
+{
+ "id": "aide-a-mourir",
+ "titre": "Droit à l'aide à mourir",
+ "question": "Faut-il créer un droit à l'aide à mourir permettant à un malade majeur atteint d'une affection grave et incurable, en phase avancée ou terminale, de recevoir une substance létale (auto-administrée, ou administrée par un soignant s'il en est physiquement incapable) ?",
+ "ouiSignifie": "pour",
+ "contexte": "La proposition de loi d'Olivier Falorni crée un droit à l'aide à mourir réservé aux personnes majeures, françaises ou résidant en France, atteintes d'une affection grave et incurable engageant le pronostic vital, en phase avancée ou terminale, avec une souffrance réfractaire ou insupportable et aptes à exprimer une volonté libre et éclairée ; l'auto-administration de la substance létale est la règle, l'administration par un médecin ou un infirmier l'exception, et une clause de conscience est prévue. Le Sénat a rejeté le texte en première lecture le 28 janvier 2026 (181 voix contre 122) après l'avoir vidé de sa substance, rejeté son article 2 en deuxième lecture, puis adopté une question préalable en nouvelle lecture (7 juillet 2026). L'Assemblée l'a adopté en lecture définitive le 15 juillet 2026 (291 pour, 241 contre, 29 abstentions). Le Conseil constitutionnel l'a déclaré conforme avec trois réserves d'interprétation (décision 2026-910 DC du 14 août 2026) ; la loi n° 2026-794 a été promulguée le 18 août 2026.",
+ "contexteSources": [
+  {
+   "titre": "vie-publique.fr — Loi du 18 août 2026 relative au droit à l'aide à mourir",
+   "url": "https://vie-publique.fr/loi/298544-fin-de-vie-droit-laide-mourir-proposition-de-loi-falorni"
+  },
+  {
+   "titre": "Conseil constitutionnel — Décision n° 2026-910 DC, communiqué de presse",
+   "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-910-dc-du-14-aout-2026-communique-de-presse"
+  },
+  {
+   "titre": "Public Sénat — Droit à l'aide à mourir : le Sénat rejette le texte après l'avoir vidé de sa substance",
+   "url": "https://publicsenat.fr/actualites/parlementaire/droit-a-laide-a-mourir-le-senat-rejette-un-texte-vide-de-sa-substance"
+  },
+  {
+   "titre": "Sénat — Scrutins publics sur la proposition de loi relative au droit à l'aide à mourir",
+   "url": "https://www.senat.fr/scrutin-public/dossiers/ppl24-661_scr.html"
+  }
+ ],
+ "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+ "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/fin_de_vie_17e",
+ "argumentsPour": [
+  {
+   "auteur": "Karen Erodi (La France insoumise)",
+   "resume": "Le texte crée une liberté de choisir une fin de vie digne pour des malades condamnés à des souffrances intenses, soutenue selon elle par une large majorité de Français.",
+   "citation": "Il nous faut mettre fin au  statu quo  qui condamne encore trop de personnes à des fins de vies subies et qui leur fait endurer des douleurs intenses jusqu’à l’agonie finale.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N014",
+   "date": "2026-07-15"
+  },
+  {
+   "auteur": "Nicole Dubré-Chirat (Ensemble pour la République)",
+   "resume": "Cinq critères cumulatifs encadrent l'accès ; la loi est complémentaire de celle sur les soins palliatifs et laisse au patient sans perspective d'amélioration la liberté de choisir.",
+   "citation": "Mais lorsque la maladie n’est plus supportable, qu’il n’existe plus aucune perspective d’amélioration, qui sommes-nous pour priver quelqu’un de la liberté de choisir les conditions de sa fin de vie ?",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N014",
+   "date": "2026-07-15"
+  },
+  {
+   "auteur": "Yannick Monnet (GDR)",
+   "resume": "Le droit est strictement encadré : personnes majeures, affection grave et incurable, souffrances réfractaires, demande libre et éclairée, collège pluriprofessionnel et aucun soignant contraint.",
+   "citation": "Le droit à l’aide à mourir sera accessible uniquement à des personnes majeures, souffrant d’une affection grave et incurable, dont le pronostic vital est engagé, qui sont en phase avancée ou terminale de la maladie",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N014",
+   "date": "2026-07-15"
+  },
+  {
+   "auteur": "Sandrine Rousseau (Écologiste et social)",
+   "resume": "Le texte crée un nouveau droit permettant de choisir en conscience sa fin de vie face à des souffrances que la médecine ne peut plus soulager.",
+   "citation": "Grâce à ce texte, la fin de vie sera le moment du choix en conscience, de la sérénité, de l’amour exprimé à celles et à ceux qui ont compté.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N014",
+   "date": "2026-07-15"
+  }
+ ],
+ "argumentsContre": [
+  {
+   "auteur": "Christophe Bentz (Rassemblement national)",
+   "resume": "Il refuse de légaliser le suicide assisté et l'euthanasie, jugés comme un abandon de la vie humaine, et appelle à la prudence face à l'irréversible.",
+   "citation": "En ce jour du vote définitif de ce texte, qui vise à légaliser le suicide assisté ou délégué à un soignant, c’est-à-dire l’abandon de la vie humaine, je vous parle le cœur lourd",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N014",
+   "date": "2026-07-15"
+  },
+  {
+   "auteur": "Justine Gruet (Droite républicaine)",
+   "resume": "Le texte serait le plus permissif au monde, avec des délais très courts, un contrôle a posteriori et sans vérification par un juge de l'absence de pressions.",
+   "citation": "Nous connaissons ce texte par cœur : il demeure le plus permissif au monde, dans un cadre très imprécis qui laissera les médecins décisionnaires face à leur conscience.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N014",
+   "date": "2026-07-15"
+  },
+  {
+   "auteur": "Olivier Fayssat (UDR)",
+   "resume": "La rédaction serait imparfaite et les conditions d'accès élargies au fil des lectures, au risque de morts provoquées sur la base d'un consentement altéré.",
+   "citation": "Au fil des lectures par notre assemblée, les conditions d’accès au dispositif ont été élargies, jamais resserrées.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N014",
+   "date": "2026-07-15"
+  }
+ ],
+ "argumentsAbstention": [
+  {
+   "auteur": "Yannick Favennec-Bécot (LIOT)",
+   "resume": "Pour les abstentionnistes de son groupe, l'accès effectif aux soins palliatifs partout aurait dû précéder la création de ce droit.",
+   "citation": "Ceux qui choisiront l’abstention auraient souhaité que nous franchissions les étapes dans un autre ordre, et que l’accès aux soins palliatifs devienne d’abord une réalité pour tous, dans l’ensemble du territoire",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N014",
+   "date": "2026-07-15"
+  }
+ ],
+ "candidats": {
+  "melenchon": {
+   "position": "pour",
+   "type": "declaration",
+   "detail": "Plus député depuis 2022 ; message sur X après l'adoption en première lecture (27 mai 2025), rapporté par le JDD. Le groupe LFI a voté pour en lecture définitive (61 pour, 2 contre, 3 abstentions).",
+   "argument": "Il salue l'adoption du texte comme l'affirmation d'une liberté de disposer de soi, tout en demandant que les refus soient respectés.",
+   "citation": "En phase avec la majorité qui a adopté la loi fin de vie, je félicite de tout cœur ceux qui l'ont fait adopter. Évidemment, les refus doivent être entendus et respectés.",
+   "url": "https://www.lejdd.fr/politique/aide-a-mourir-melenchon-felicite-de-tout-coeur-les-deputes-qui-ont-fait-adopter-le-texte-158529",
+   "date": "2025-05-27"
+  },
+  "roussel": {
+   "position": "inconnu",
+   "type": "groupe",
+   "detail": "Plus député depuis 2024 ; aucune prise de position claire trouvée sur ce texte (en 2022, il insistait sur les soins palliatifs sans trancher). PROXY : le groupe GDR a voté majoritairement pour en lecture définitive (10 pour, 2 contre, 3 abstentions).",
+   "argument": "En 2022, il souhaitait que toute évolution vers l'aide active à mourir ne soit pas décidée faute de moyens pour les soins palliatifs.",
+   "citation": "Il ne faudrait pas que la décision que l'on prendrait de plus accompagner l'aide active à mourir vienne parce qu'il n'y aurait pas assez de moyens dans les unités de soins palliatifs",
+   "url": "https://www.franceinfo.fr/societe/euthanasie/fabien-roussel-souhaite-que-les-futures-propositions-de-la-convention-citoyenne-sur-la-fin-de-vie-puissent-etre-traduites-dans-la-loi_5536551.html",
+   "date": "2022-12-10"
+  },
+  "ruffin": {
+   "position": "pour",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 8280 ; déclaration avant le vote de première lecture (Questions politiques, 25 mai 2025).",
+   "argument": "Il vote le texte tout en alertant sur le manque de moyens pour les soins palliatifs, qu'un malade sur deux n'obtient pas.",
+   "citation": "je le voterai, mais je mets une alerte sur les soins palliatifs",
+   "url": "https://www.franceinfo.fr/societe/euthanasie/aide-a-mourir-je-voterai-le-texte-mais-je-mets-une-alerte-sur-les-soins-palliatifs-dit-francois-ruffin_7271766.html",
+   "date": "2025-05-25"
+  },
+  "tondelier": {
+   "position": "pour",
+   "type": "declaration",
+   "detail": "Pas de mandat parlementaire ; réaction sur franceinfo à l'adoption en première lecture (27 mai 2025). Le groupe Écologiste et social a voté pour (33 pour, 2 contre, 1 abstention).",
+   "argument": "Elle estime que le texte permettra de partir dans la dignité sans devoir aller à l'étranger.",
+   "citation": "permettre aux Françaises et aux Français qui le souhaitent de partir dans la dignité, sans avoir à aller dans d'autres pays, ce qui était le cas jusqu'à présent",
+   "url": "https://www.franceinfo.fr/replay-radio/19h20-politique/droit-a-l-aide-a-mourir-je-suis-tres-emue-c-est-enfin-une-bonne-nouvelle-reagit-marine-tondelier_7259172.html",
+   "date": "2025-05-27"
+  },
+  "batho": {
+   "position": "pour",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 8280 ; aucune explication personnelle trouvée : argument = intervention du groupe Écologiste et social en discussion générale (Sandrine Rousseau).",
+   "argument": "Le groupe écologiste défend un nouveau droit de choisir sa fin de vie face à des souffrances que la médecine ne peut plus soulager.",
+   "citation": "Grâce à ce texte, la fin de vie sera le moment du choix en conscience, de la sérénité, de l’amour exprimé à celles et à ceux qui ont compté.",
+   "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026E1N014",
+   "date": "2026-07-15"
+  },
+  "glucksmann": {
+   "position": "pour",
+   "type": "declaration",
+   "detail": "Eurodéputé, sans vote sur ce texte ; déclaration dans Quotidien (TMC) le 11 mars 2024 sur le projet de loi gouvernemental qui prévoyait déjà une aide à mourir sous conditions strictes.",
+   "argument": "Il voit dans l'aide à mourir assortie de conditions strictes un moment de liberté touchant l'intime de chacun, à la lumière de la fin de vie de ses parents.",
+   "citation": "Je pense que c’est un moment important, un moment de liberté...",
+   "url": "https://toutelatele.ouest-france.fr/quotidien-raphael-glucksmann-emeut-yann-barthes-en-evoquant-la-triste-fin-de-vie-de-ses-parents-163554",
+   "date": "2024-03-11"
+  },
+  "attal": {
+   "position": "pour",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 8280 ; tribune cosignée avec Line Renaud dans La Tribune Dimanche (mai 2025), reprise par Renaissance.",
+   "argument": "Il défend une nouvelle liberté d'en finir avec la souffrance dans un cadre médical encadré, et juge qu'une opposition par conservatisme impose une morale.",
+   "citation": "Ce que nous demandons, c’est une nouvelle liberté.",
+   "url": "https://renaissance-fde.fr/tribune-de-gabriel-attal-et-line-renaud-en-faveur-de-laide-active-a-mourir",
+   "date": "2025-05-11"
+  },
+  "philippe": {
+   "position": "contre",
+   "type": "declaration",
+   "detail": "Maire du Havre, sans vote ; déclaration sur TF1 rapportée par Orange/6Medias (27 janvier 2025). Le groupe Horizons était partagé en lecture définitive (16 pour, 18 contre, 1 abstention).",
+   "argument": "Tout en jugeant légitime d'aider à mourir dans certains cas, il estime que l'inscrire dans la loi pose des problèmes complexes et appelle à écouter les médecins.",
+   "citation": "autant je trouve que l’inscrire dans la loi pose des problèmes qui sont redoutablement complexes et qu’il faut entendre",
+   "url": "https://actu.orange.fr/politique/fin-de-vie-edouard-philippe-se-confie-sur-son-parcours-personnel-sans-etre-pour-une-inscription-dans-la-loi-magic-CNT000002hd3Ip.html",
+   "date": "2025-01-27"
+  },
+  "retailleau": {
+   "position": "contre",
+   "type": "vote_senat",
+   "detail": "Vote nominatif au Sénat : contre l'article 2 créant l'aide à mourir en deuxième lecture (scrutin n° 265, 11 mai 2026) et pour la question préalable en nouvelle lecture (scrutin n° 328, 7 juillet 2026) ; déclaration au Grand Jury RTL (11 mai 2025).",
+   "argument": "Il juge le texte « radical » et craint qu'il devienne plus simple de recourir à la mort que de soulager la souffrance ; il privilégie les soins palliatifs.",
+   "citation": "c'est l'euthanasie qui prend le pas sur le suicide assisté",
+   "url": "https://rtl.fr/actu/debats-societe/aide-a-mourir-retailleau-denonce-le-texte-line-renaud-et-gabriel-attal-pronent-la-liberte-de-choix-7900503259",
+   "date": "2025-05-11"
+  },
+  "bertrand": {
+   "position": "inconnu",
+   "type": "groupe",
+   "detail": "Président de région, sans vote ; aucune déclaration trouvée sur ce texte. PROXY : le groupe Droite républicaine (LR) a voté majoritairement contre en lecture définitive (5 pour, 41 contre, 2 abstentions).",
+   "argument": null,
+   "citation": null,
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+   "date": "2026-07-15"
+  },
+  "lisnard": {
+   "position": "contre",
+   "type": "declaration",
+   "detail": "Maire de Cannes, sans vote ; entretien à Nouvelle Énergie (16 janvier 2025) cité par Poliscope.",
+   "argument": "Il juge la loi Claeys-Leonetti équilibrée, voit dans un droit à l'aide active à mourir un basculement anthropologique et priorise les soins palliatifs.",
+   "citation": "Cela a forgé ma conviction : je ne suis pas favorable à une telle loi.",
+   "url": "https://www.poliscope.info/propositions/david-lisnard-contre-aide-active-a-mourir-soins-palliatifs",
+   "date": "2025-01-16"
+  },
+  "lepen": {
+   "position": "contre",
+   "type": "vote_an",
+   "detail": "Vote nominatif à l'Assemblée, scrutin n° 8280 ; déclaration à la presse le 13 mai 2025 (BFMTV).",
+   "argument": "Elle juge les garde-fous insuffisants (respect des soignants, recueil du consentement) et soutient en revanche le développement des soins palliatifs.",
+   "citation": "Les garde-fous que l'on pouvait espérer sur un texte aussi grave ont été pulvérisés par la commission et par son vote",
+   "url": "https://www.bfmtv.com/politique/front-national/des-garde-fous-pulverises-marine-le-pen-reaffirme-son-opposition-au-droit-a-l-aide-a-mourir_AV-202505130474.html",
+   "date": "2025-05-13"
+  },
+  "zemmour": {
+   "position": "inconnu",
+   "type": "groupe",
+   "detail": "Président de Reconquête, sans vote ; aucune déclaration sourcée trouvée. Pas de groupe Reconquête à l'Assemblée : aucun proxy disponible.",
+   "argument": null,
+   "citation": null,
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+   "date": "2026-07-15"
+  },
+  "dupontaignan": {
+   "position": "inconnu",
+   "type": "groupe",
+   "detail": "Plus député depuis 2024 ; aucune déclaration sourcée trouvée. Pas de groupe parlementaire de Debout la France : aucun proxy disponible.",
+   "argument": null,
+   "citation": null,
+   "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+   "date": "2026-07-15"
+  }
+ },
+ "alertes": [
+  "Philippe : position nuancée (conviction intime qu'aider à mourir peut être légitime, mais réticence à l'inscrire dans la loi) ; classé « contre » sur la base de la déclaration du 27 janvier 2025, rapportée par un média tiers (Orange/6Medias citant TF1).",
+  "Lisnard : citation vérifiée sur Poliscope, qui reprend un entretien publié par Nouvelle Énergie le 16 janvier 2025 ; la source originale et l'article du Point (payant) n'ont pas pu être consultés.",
+  "Glucksmann : déclaration de mars 2024 portant sur le projet de loi gouvernemental (interrompu par la dissolution), non sur la proposition de loi Falorni elle-même.",
+  "Roussel : seule déclaration trouvée de décembre 2022 (avant la Convention citoyenne), sans position tranchée ; position « inconnu » avec proxy de groupe.",
+  "Bertrand : seule déclaration trouvée datant de 2011 (ministre de la Santé, défendant la loi Leonetti face à l'euthanasie active, L'Est Républicain) ; trop ancienne pour fonder une position sur ce texte.",
+  "Attal : date de la tribune approximée au 2025-05-11 (publiée dans La Tribune Dimanche, rapportée par RTL le 11 mai 2025).",
+  "Mélenchon : citation tronquée par la page (message X du 27 mai 2025 reproduit partiellement par le JDD).",
+  "tasks.json : les étiquettes de position majoritaire par groupe semblent erronées pour ce scrutin (ex. « RN: pour (12p/106c/0a) », « DR: pour (5p/41c/2a) », « HOR: contre (16p/18c/1a) » mais « GDR: abstention (10p/2c/3a) ») ; les proxys ci-dessus s'appuient sur les décomptes chiffrés, pas sur les étiquettes.",
+  "Retailleau : il a aussi voté pour l'ensemble du texte au Sénat en première lecture (scrutin n° 169, 28 janvier 2026), mais dans une version réécrite par la commission ; ce vote n'est pas retenu comme un soutien à l'aide à mourir."
+ ]
+}

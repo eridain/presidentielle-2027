@@ -1,0 +1,209 @@
+{
+  "id": "maintien-zfe",
+  "titre": "Maintien des zones à faibles émissions (ZFE)",
+  "question": "Faut-il maintenir les zones à faibles émissions (ZFE) dans les grandes agglomérations ?",
+  "ouiSignifie": "pour",
+  "contexte": "Créées par la loi d'orientation des mobilités de 2019 et étendues par la loi climat et résilience de 2021 aux agglomérations de plus de 150 000 habitants, les zones à faibles émissions-mobilités (ZFE-m) restreignent la circulation des véhicules les plus polluants (vignettes Crit'Air). Leur suppression, votée par le Parlement dans la loi de simplification de la vie économique, a été censurée par le Conseil constitutionnel le 21 mai 2026 comme « cavalier législatif ». Le 8 octobre 2026, dans sa niche parlementaire, le RN a présenté une proposition de loi de Pierre Meurin abrogeant les ZFE. L'écologiste Lisa Belluco a déposé un amendement de suppression de l'article unique, c'est-à-dire de maintien des ZFE : il a été rejeté (49 pour, 164 contre). Le RN, l'UDR, la Droite républicaine et LFI ont voté contre, LFI refusant de maintenir les ZFE « telles qu'elles existent » sans alternatives. La discussion n'a pas pu aller à son terme avant minuit : le texte n'a pas été voté.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Pollution de l'air : les zones à faibles émissions (ZFE) en cinq questions",
+      "url": "https://www.vie-publique.fr/questions-reponses/297933-zfe-pollution-de-lair-les-zones-faibles-emissions-en-questions"
+    },
+    {
+      "titre": "LCP – ZFE : le Conseil constitutionnel censure la suppression des zones à faibles émissions",
+      "url": "https://lcp.fr/actualites/zfe-le-conseil-constitutionnel-censure-la-suppression-des-zones-a-faibles-emissions"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_ZFE-m_17e"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°8613",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/abroger_ZFE-m_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Sandrine Le Feur (Ensemble pour la République, présidente de la commission du développement durable)",
+      "resume": "Les ZFE sont imparfaites mais ont produit des résultats mesurables ; le texte efface sans rien corriger ni proposer.",
+      "citation": "On ne supprime pas un outil qui fonctionne, on le répare.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N015",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Mathieu Lefèvre (ministre délégué chargé de la transition écologique)",
+      "resume": "La pollution de l'air cause des dizaines de milliers de décès prématurés et touche d'abord les plus vulnérables ; les abolitionnistes n'offrent aucune alternative.",
+      "citation": "Pardon, mais les atteintes à la santé des Français, ce n’est pas un risque à courir, c’est une certitude à éviter !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N015",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Lisa Belluco (Écologiste et social)",
+      "resume": "Il faut améliorer les ZFE, clarifier les dérogations et développer les alternatives à la voiture plutôt que les abolir.",
+      "citation": "Néanmoins, ce que nous proposons, c’est de les améliorer, de rendre plus claires les dérogations, de développer les solutions alternatives à la voiture, de soutenir les modes actifs et les autres modes de déplacement",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N015",
+      "date": "2026-10-08"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Matthias Renault (Rassemblement national)",
+      "resume": "Les ZFE sont une mesure discriminatoire rejetée par 80 % des Français ; le renouvellement du parc automobile suffit à réduire la pollution.",
+      "citation": "Par cet article unique, nous proposons la suppression des ZFE, une mesure liberticide, discriminatoire, ségrégationniste.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N015",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Alexandre Portier (Droite républicaine)",
+      "resume": "La Droite républicaine soutient la suppression des ZFE.",
+      "citation": "Nous sommes évidemment contre l’amendement et pour la suppression des ZFE.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N015",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Sylvain Carrière (La France insoumise)",
+      "resume": "LFI dénonce des ZFE créées sans alternatives, mais refuse aussi leur suppression sèche : elle veut les conditionner au développement des transports en commun.",
+      "citation": "Nous les dénonçons, car elles ont été créées sans alternative.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N015",
+      "date": "2026-10-08"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NFP a voté contre l'amendement (0-32), refusant le maintien des ZFE en l'état sans alternatives, sans pour autant soutenir l'abrogation sèche.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR a voté pour le maintien (3-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°8613) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste et social a voté majoritairement pour le maintien (10-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social, auteur de l'amendement, a voté pour (10-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°8613) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste et social a voté majoritairement pour le maintien (10-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour le maintien (20-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°8613) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe EPR a voté majoritairement pour le maintien (12-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Premier ministre lors de la création des ZFE-m par la loi d'orientation des mobilités (2019) ; aucune déclaration récente spécifique retrouvée. PROXY : le groupe Horizons & indépendants a voté pour (1 votant).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur et président des Républicains ; texte non examiné au Sénat et aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine de l'Assemblée a voté contre le maintien (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté contre le maintien (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de Nouvelle Énergie ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté contre le maintien (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°8613) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe RN, auteur de la proposition de loi d'abrogation, a voté contre le maintien (0-111).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée ; aucun proxy de groupe pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8613",
+      "date": "2026-10-08"
+    }
+  },
+  "alertes": [
+    "Ruffin, Batho, Attal, Le Pen : n'ont pas pris part au vote ; position inconnu (indication du vote de leur groupe à titre indicatif seulement).",
+    "Le vote porte sur un amendement de suppression de l'article unique : voter « pour » revient à maintenir les ZFE, voter « contre » à poursuivre l'examen de leur abrogation.",
+    "LFI a voté contre le maintien des ZFE, mais elle ne soutient pas leur abrogation sèche : elle veut les conditionner au développement des transports en commun. Son « contre » ne vaut pas soutien au texte du RN.",
+    "Faible participation (213 votants, dont 111 RN) ; le texte n'a finalement pas été voté, faute de temps.",
+    "Le Pen a été citée en séance par le rapporteur comme candidate qui « va libérer les automobilistes », mais n'a pas pris part au vote."
+  ]
+}

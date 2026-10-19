@@ -1,0 +1,18 @@
+{
+  "id": "consentement-viol",
+  "questionSimple": "Faut-il définir le viol dans la loi comme tout acte sexuel sans consentement ?",
+  "enBref": "La loi précise que le viol est un acte sexuel sans consentement. Le consentement doit être libre, donné à l'avance et pouvoir être retiré. Se taire ou ne pas réagir ne veut pas dire être d'accord.",
+  "pourquoiPour": "Pour ses défenseurs, beaucoup de victimes sont paralysées par la peur et ne se débattent pas. La loi évite qu'on leur reproche de ne pas avoir résisté.",
+  "pourquoiContre": "Pour ses opposants, le consentement est une notion floue, difficile à prouver. Ils craignent que l'accusé doive prouver son innocence et préfèrent donner plus de moyens à la justice.",
+  "ceQuiSestPasse": "Adoptée définitivement fin octobre 2025, la loi a été promulguée le 6 novembre 2025.",
+  "lexique": [
+    {
+      "terme": "Consentement",
+      "definition": "Accord donné librement, ici à un acte sexuel."
+    },
+    {
+      "terme": "Présomption d'innocence",
+      "definition": "Principe selon lequel une personne est innocente tant que sa culpabilité n'est pas prouvée."
+    }
+  ]
+}

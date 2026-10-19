@@ -1,0 +1,212 @@
+{
+  "id": "uniforme-ecole",
+  "titre": "Uniforme obligatoire dans les écoles publiques",
+  "question": "Faut-il instaurer le port d'un uniforme dans les écoles et collèges publics ?",
+  "ouiSignifie": "contre",
+  "contexte": "La proposition de loi de Roger Chudeau (Rassemblement national), examinée dans la niche de son groupe, visait à rendre obligatoire, pendant le temps scolaire, une tenue uniforme aux couleurs de l'établissement pour tous les écoliers et collégiens du public. Le vote porte sur les amendements identiques de suppression de l'article unique (n° 1 de Inaki Echaniz, socialiste, et suivants), adoptés le 12 janvier 2023 par 105 voix contre 91, avec l'avis favorable du gouvernement : la suppression de l'article unique a entraîné le rejet du texte. Le RN et LR ont voté contre la suppression ; la majorité présidentielle et la gauche ont voté pour. Le gouvernement a ensuite lancé, à la rentrée 2024, une expérimentation volontaire de « tenue unique » dans une centaine d'établissements.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier « Uniforme dans les écoles »",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/uniforme_ecoles"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 12 janvier 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-jeudi-12-janvier-2023"
+    },
+    {
+      "titre": "Ministère de l'Éducation nationale – expérimentation d'une tenue vestimentaire commune",
+      "url": "https://www.education.gouv.fr/tout-savoir-sur-l-experimentation-d-une-tenue-vestimentaire-commune-l-ecole-461898"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/uniforme_ecoles",
+  "argumentsPour": [
+    {
+      "auteur": "Franck Riester (ministre délégué, gouvernement)",
+      "resume": "Le respect des valeurs républicaines ne se réduit pas à un uniforme ; mieux vaut laisser les communautés éducatives décider localement.",
+      "citation": "Apprenons à nos élèves ce qui les unit et permettons à ceux qui les forment de décider ensemble, en fonction du contexte, de l’éventuel port d’un uniforme.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-jeudi-12-janvier-2023",
+      "date": "2023-01-12"
+    },
+    {
+      "auteur": "Agnès Carel (Horizons)",
+      "resume": "Les chefs d'établissement peuvent déjà adopter une tenue scolaire ; l'obligation ne ferait pas disparaître les tenues religieuses.",
+      "citation": "Or, il est déjà possible pour les directeurs d’établissement de choisir de doter l’école ou le collègue qu’ils dirigent d’une tenue scolaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-jeudi-12-janvier-2023",
+      "date": "2023-01-12"
+    },
+    {
+      "auteur": "Christophe Marion (Renaissance)",
+      "resume": "Le texte repose sur une « pensée magique » : les études ne montrent pas d'effet de l'uniforme sur les résultats ou le harcèlement.",
+      "citation": "Surtout, cette proposition de loi s’appuie sur une certaine pensée magique, sur des intuitions, sur des croyances, et non sur des études ou des constats reproductibles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-jeudi-12-janvier-2023",
+      "date": "2023-01-12"
+    },
+    {
+      "auteur": "Marietta Karamanli (Socialistes)",
+      "resume": "L'uniforme n'appartient pas à la tradition de l'école républicaine et a servi de marqueur social à des écoles élitistes.",
+      "citation": "Le port d’un uniforme fut un marqueur social pour distinguer certaines écoles élitistes, qui cherchaient l’entre-soi et refusaient la mixité sociale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-jeudi-12-janvier-2023",
+      "date": "2023-01-12"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Roger Chudeau (Rassemblement national, rapporteur)",
+      "resume": "En franchissant le seuil de l'école, l'enfant devient un élève et doit en porter la tenue.",
+      "citation": "Lorsqu’un enfant franchit le seuil de son école, il change de statut : il devient un élève, et il en revêt la tenue.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-jeudi-12-janvier-2023",
+      "date": "2023-01-12"
+    },
+    {
+      "auteur": "Marine Le Pen (Rassemblement national)",
+      "resume": "L'uniforme effacerait les différences de catégorie sociale, de fortune ou de religion entre élèves.",
+      "citation": "Nous voulons que, grâce au port de la tenue uniforme à l’école, la catégorie sociale, la fortune ou la religion disparaissent, qu’il n’y ait que des élèves.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-jeudi-12-janvier-2023",
+      "date": "2023-01-12"
+    },
+    {
+      "auteur": "Emmanuelle Ménard (non-inscrite)",
+      "resume": "L'uniforme lutterait contre les discriminations liées aux vêtements de marque et serait un rempart contre le prosélytisme religieux.",
+      "citation": "L’uniforme a une autre vertu : il est le meilleur rempart contre le prosélytisme religieux, le meilleur ami de la laïcité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-jeudi-12-janvier-2023",
+      "date": "2023-01-12"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire à cette date ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NUPES a voté pour la suppression, c'est-à-dire contre l'uniforme (11 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+      "date": "2023-01-12"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°830) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR - NUPES a voté : pour (4p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+      "date": "2023-01-12"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°830) ; aucune déclaration retrouvée. À titre indicatif, son groupe LFI - NUPES a voté : pour (11p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+      "date": "2023-01-12"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste-NUPES a voté pour la suppression, contre l'uniforme (8 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+      "date": "2023-01-12"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°830) ; aucune déclaration retrouvée. À titre indicatif, son groupe Ecolo - NUPES a voté : pour (8p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+      "date": "2023-01-12"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, auteur de l'amendement de suppression, a voté pour (5 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+      "date": "2023-01-12"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué aux Comptes publics du gouvernement Borne, qui a émis un avis favorable à la suppression ; devenu ministre de l'Éducation, il a lancé fin 2023 une expérimentation volontaire de la tenue unique en se disant « partagé » (France 24, 8 janvier 2024).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-jeudi-12-janvier-2023",
+      "date": "2023-01-12"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons, issu de son parti, a voté pour la suppression (5 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+      "date": "2023-01-12"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Sénateur, pas de vote sur ce texte ; président du groupe LR au Sénat, il a annoncé une proposition de loi similaire et défendu l'uniforme le jour du vote (TF1 Info, 12 janvier 2023).",
+      "argument": "L'uniforme protégerait les enfants du communautarisme et du consumérisme.",
+      "citation": "une mesure essentielle \"pour préserver nos enfants, à la fois du communautarisme et du consumérisme\"",
+      "url": "https://www.tf1info.fr/politique/la-droite-est-pour-la-gauche-est-contre-le-port-de-l-uniforme-a-l-ecole-divise-la-classe-politique-2244766.html",
+      "date": "2023-01-12"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée sur l'obligation. Sa région a participé à l'expérimentation volontaire de la tenue unique dans des lycées en 2024 (site de la région Hauts-de-France). À titre indicatif, le groupe LR de l'Assemblée a voté contre la suppression (0 pour / 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+      "date": "2023-01-12"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration vérifiée retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre la suppression, pour l'uniforme (0 pour / 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+      "date": "2023-01-12"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre la suppression à l'Assemblée nationale (scrutin n°1018 du 12 janvier 2023), c'est-à-dire pour l'uniforme ; elle est intervenue en séance.",
+      "argument": "L'uniforme effacerait les différences sociales et religieuses entre élèves et ferait reculer la pression islamiste.",
+      "citation": "Nous voulons que, grâce au port de la tenue uniforme à l’école, la catégorie sociale, la fortune ou la religion disparaissent, qu’il n’y ait que des élèves.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-jeudi-12-janvier-2023",
+      "date": "2023-01-12"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration vérifiée retrouvée ; Reconquête n'avait pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+      "date": "2023-01-12"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour la suppression à l'Assemblée nationale (scrutin n°1018 du 12 janvier 2023), c'est-à-dire contre l'uniforme obligatoire ; pas d'intervention ni de mise au point retrouvée dans le compte rendu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/830",
+      "date": "2023-01-12"
+    }
+  },
+  "alertes": [
+    "Vote sur des amendements de suppression de l'article unique : voter « pour » revient à rejeter l'uniforme, d'où ouiSignifie = « contre ». Positions au sens du scrutin : « pour » = contre l'uniforme ; « contre » = pour l'uniforme.",
+    "Dupont-Aignan : vote nominatif « pour » la suppression (open data AN, considéré certain), surprenant au regard de ses positions habituelles à droite ; aucune mise au point n'a été trouvée dans le compte rendu. À vérifier si possible.",
+    "Attal : position déduite de son appartenance au gouvernement Borne ; il a ensuite lancé une expérimentation volontaire de la tenue unique (2024), sans obligation nationale.",
+    "Retailleau : déclaration rapportée au style indirect par TF1 Info ; seule la partie entre guillemets est attribuée.",
+    "Bertrand : participation de sa région à l'expérimentation volontaire, ce qui ne vaut pas soutien à une obligation nationale ; position laissée inconnue."
+  ]
+}

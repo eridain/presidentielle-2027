@@ -1,0 +1,227 @@
+{
+  "id": "maintien-allegements-cotisations",
+  "titre": "Maintien des allègements de cotisations patronales (budget Sécu 2025)",
+  "question": "Faut-il maintenir les allègements de cotisations patronales sur les bas et moyens salaires plutôt que de les réduire (budget de la Sécu 2025) ?",
+  "ouiSignifie": "pour",
+  "contexte": "L'article 6 du projet de loi de financement de la sécurité sociale pour 2025, présenté par le gouvernement Barnier, réduisait les allègements généraux de cotisations patronales (environ 80 milliards d'euros par an) pour en économiser 4 à 5 milliards : hausse des cotisations sur les salaires proches du Smic étalée sur deux ans et plafond abaissé de 3,5 à 3 Smic, en s'inspirant du rapport Bozio-Wasmer contre les « trappes à bas salaires ». Le 30 octobre 2024, en première lecture, l'Assemblée a adopté les amendements de suppression de l'article (n°249 de Sylvie Bonnet, DR, et identiques) par 170 voix contre 162 : RN, EPR, DR, Horizons et UDR pour la suppression ; gauche, Démocrates et LIOT contre. La loi finale du 28 février 2025 a retenu une baisse réduite des allègements, de 1,6 milliard d'euros.",
+  "contexteSources": [
+    {
+      "titre": "vie-publique.fr – Loi du 28 février 2025 de financement de la sécurité sociale pour 2025",
+      "url": "https://www.vie-publique.fr/loi/295695-plfss-2025-loi-du-28-fevrier-2025-de-financement-de-la-securite-sociale"
+    },
+    {
+      "titre": "LCP – Coût du travail : accord en CMP sur une baisse des exonérations de cotisations patronales",
+      "url": "https://lcp.fr/actualites/cout-du-travail-accord-en-cmp-sur-une-baisse-des-exonerations-de-cotisations-patronales"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°199",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/plfss_pour_2025",
+  "argumentsPour": [
+    {
+      "auteur": "Gérald Darmanin (Ensemble pour la République)",
+      "resume": "Réduire les allègements augmenterait le coût du travail pour la première fois depuis trente ans, sans réforme, au pire moment pour les TPE et commerçants.",
+      "citation": "Si l’article 6 n’était malheureusement pas supprimé, ce serait la première fois depuis trente ans que nous augmenterions le coût du travail, et cela, sans faire aucune réforme.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "date": "2024-10-30"
+    },
+    {
+      "auteur": "Laurent Wauquiez (Droite républicaine)",
+      "resume": "Les allègements profitent aussi aux salariés : dégrader la compétitivité des entreprises dégraderait l'emploi et le pouvoir d'achat.",
+      "citation": "Si vous dégradez la compétitivité des entreprises, vous dégradez l’emploi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "date": "2024-10-30"
+    },
+    {
+      "auteur": "Hervé de Lépinau (Rassemblement national)",
+      "resume": "Le RN propose plutôt d'augmenter les salaires de 10 % en exonérant temporairement les entreprises de la part patronale.",
+      "citation": "Le Rassemblement national a proposé une mesure de transition –⁠ car il va bien falloir conduire la réforme du coût du travail.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "date": "2024-10-30"
+    },
+    {
+      "auteur": "Alexandre Allegret-Pilot (UDR)",
+      "resume": "La mesure alourdirait de plus de 5 milliards le coût du travail ; il faudrait au contraire étendre les allègements.",
+      "citation": "non seulement il ne faut pas réduire les allégements, mais il faut travailler à leur extension.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "date": "2024-10-30"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Astrid Panosyan-Bouvet (ministre du Travail, gouvernement)",
+      "resume": "L'article reprend le rapport Bozio-Wasmer ; économiser 5 milliards sur 80 n'est pas déraisonnable vu l'état des finances publiques.",
+      "citation": "Dans un contexte de forte tension sur les dépenses publiques, une économie de 5 milliards sur un dispositif qui coûte 80 milliards –⁠ soit 2,5 points de PIB – n’est pas déraisonnable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "date": "2024-10-30"
+    },
+    {
+      "auteur": "Élise Leboucher (La France insoumise)",
+      "resume": "Les exonérations privent la Sécurité sociale de 90 milliards par an et n'ont pas d'effet notable sur l'emploi au-delà de 1,6 Smic.",
+      "citation": "la littérature a prouvé qu’au-delà de 1,6 Smic, les exonérations n’ont aucun effet notable sur l’emploi et la compétitivité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "date": "2024-10-30"
+    },
+    {
+      "auteur": "Jérôme Guedj (Socialistes et apparentés)",
+      "resume": "C'est l'une des rares mesures du budget qui va dans le bon sens ; les socialistes voulaient l'améliorer par amendements.",
+      "citation": "Nous nous efforcerons de sauver cette rare mesure du PLFSS qui va dans la bonne direction, afin de l’enrichir par des amendements.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "date": "2024-10-30"
+    },
+    {
+      "auteur": "Philippe Vigier (Démocrates)",
+      "resume": "Les trappes à bas salaires pèsent sur le pouvoir d'achat ; son groupe défend un autre dispositif ciblé sous 4 000 euros.",
+      "citation": "On ne peut pas constater l’existence de trappes à bas salaires et ne rien faire, car elles posent le problème du pouvoir d’achat.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "date": "2024-10-30"
+    },
+    {
+      "auteur": "Laurent Panifous (LIOT)",
+      "resume": "Demander un effort de 4 milliards sur 80 aux entreprises est raisonnable au regard de l'effort demandé à tous.",
+      "citation": "L’effort des entreprises économiserait 4 milliards sur 80, sans remettre en question leur compétitivité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "date": "2024-10-30"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée sur ce vote. PROXY : le groupe LFI-NFP a voté contre la suppression (0 pour, 52 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour, 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée sur cet article. Son groupe Écologiste et social a voté contre (0 pour, 25 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour, 25 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe Écologiste et social a voté contre (0 pour, 25 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes et apparentés a voté contre (0 pour, 45 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour la suppression (scrutin n°199) ; président du groupe EPR, dont l'amendement de suppression a été défendu par Gérald Darmanin : argument = position du groupe.",
+      "argument": "Le groupe EPR refuse toute hausse du coût du travail, jugée nuisible à l'emploi et aux petites entreprises.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "date": "2024-10-30"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, président d'Horizons, sans vote ; aucune déclaration personnelle retrouvée. PROXY : le groupe Horizons a voté pour la suppression (10 pour, 3 contre, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Barnier, auteur de l'article 6 défendu en séance par les ministres Panosyan-Bouvet et Saint-Martin ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N027",
+      "date": "2024-10-30"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour la suppression (21 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour la suppression (21 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration personnelle retrouvée. Son groupe RN a voté pour la suppression (77 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national ; aucune déclaration retrouvée. Reconquête n'a pas de groupe à l'Assemblée : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée. Pas de groupe de son parti : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/199",
+      "date": "2024-10-30"
+    }
+  },
+  "alertes": [
+    "Portée : vote sur des amendements de suppression de l'article 6 (première lecture), pas sur l'ensemble du PLFSS. POUR = supprimer la baisse des allègements, donc maintenir les allègements (Oui) ; CONTRE = garder la réforme du gouvernement (Non). Codage pour=oui conforme.",
+    "Vote à front renversé : le gouvernement Barnier défendait l'article contre une partie de son propre socle (EPR, DR, Horizons), soutenu par la gauche, les Démocrates et LIOT ; voter contre ne signifie pas adhérer à tout le PLFSS.",
+    "Retailleau : position déduite de son appartenance au gouvernement auteur de la mesure.",
+    "Attal : pas d'intervention personnelle dans ce débat ; argument = position du groupe EPR, sans citation attribuée.",
+    "Ruffin, Batho, Le Pen n'ont pas pris part au vote : positions « inconnu » avec proxy de groupe.",
+    "Montant : environ 4 milliards d'euros selon le gouvernement et LCP, 5 milliards selon la ministre en séance (montant brut)."
+  ]
+}

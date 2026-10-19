@@ -1,0 +1,223 @@
+{
+  "id": "denoncer-accord-1968",
+  "titre": "Dénoncer l'accord franco-algérien de 1968 (résolution RN, 2025)",
+  "question": "Faut-il demander au gouvernement de dénoncer l'accord franco-algérien de 1968, qui accorde aux Algériens un régime migratoire spécifique ?",
+  "ouiSignifie": "pour",
+  "contexte": "L'accord du 27 décembre 1968, modifié à trois reprises, fixe un régime propre aux Algériens : il facilite la délivrance d'un certificat de résidence de dix ans et le regroupement familial, mais exclut d'autres avantages du droit commun, comme le passeport talent. Dans un contexte de crise diplomatique avec Alger depuis 2024 (refus de réadmissions, détention de l'écrivain Boualem Sansal), le RN a présenté dans sa niche une proposition de résolution, non contraignante, appelant le gouvernement à dénoncer l'accord. Le gouvernement Lecornu jugeait l'accord « anachronique », mais il préférait le renégocier et s'est opposé au texte. La résolution a été adoptée le 30 octobre 2025 à une voix près (185 contre 184), avec les voix du RN, de l'UDR, d'une partie de la Droite républicaine et d'Horizons. De nombreux députés macronistes étaient absents. C'était le premier texte du RN adopté par l'Assemblée.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 30 octobre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N021"
+    },
+    {
+      "titre": "Le Monde – Pour la première fois, un texte porté par le RN a été approuvé par l'Assemblée nationale (30 octobre 2025)",
+      "url": "https://lemonde.fr/politique/article/2025/10/30/pour-la-premiere-fois-un-texte-porte-par-le-rn-a-ete-approuve-par-l-assemblee-nationale_6650281_823449.html"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/denoncer_accords_franco_algeriens_27_decembre_1968"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3260",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3260"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3260",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/denoncer_accords_franco_algeriens_27_decembre_1968",
+  "argumentsPour": [
+    {
+      "auteur": "Guillaume Bigot (Rassemblement national, rapporteur)",
+      "resume": "L'accord crée un statut extrêmement dérogatoire, par exemple pour l'accès aux prestations sociales, que la France doit cesser d'accorder.",
+      "citation": "Un étranger, selon le droit commun, doit résider cinq ans en France pour toucher le RSA, les allocations familiales ou la prime d’activité ; pour un Algérien, cette exigence disparaît.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N021",
+      "date": "2025-10-30"
+    },
+    {
+      "auteur": "Éric Pauget (Droite républicaine)",
+      "resume": "Il faut dénoncer l'accord pour restaurer l'égalité de traitement entre étrangers et répondre à l'attitude d'Alger.",
+      "citation": "Nous dénoncerons les accords de 1968 car nous devons restaurer l’égalité de traitement entre les étrangers qui rentrent sur le territoire national.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N021",
+      "date": "2025-10-30"
+    },
+    {
+      "auteur": "Sylvain Berrios (Horizons & indépendants)",
+      "resume": "Les accords, au coût estimé à 2 milliards d'euros, facilitent l'entrée et l'établissement des Algériens sans contrepartie.",
+      "citation": "Charmante marque d’affection quand on sait que le coût de ces accords, pour la France, est de 2 milliards d’euros.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N021",
+      "date": "2025-10-30"
+    },
+    {
+      "auteur": "Éric Ciotti (UDR)",
+      "resume": "L'Algérie menace la sécurité de la France en refusant de reprendre ses ressortissants dangereux ; il faut en finir avec la « soumission ».",
+      "citation": "Le temps est venu aujourd’hui d’en finir avec la soumission et l’humiliation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N021",
+      "date": "2025-10-30"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Laurent Panifous (ministre délégué, gouvernement)",
+      "resume": "L'accord est anachronique et doit être renégocié, mais le dénoncer ne réduirait pas l'immigration et aggraverait la crise, au détriment des réadmissions.",
+      "citation": "Notre ferme intention et notre intérêt sont de renégocier cet accord, le moment venu, pour obtenir un texte plus proche du droit commun et plus équilibré.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N021",
+      "date": "2025-10-30"
+    },
+    {
+      "auteur": "Laure Miller (Ensemble pour la République)",
+      "resume": "Le groupe souhaite sortir de l'accord, mais par une négociation et non par une « sortie sèche » et inopérante.",
+      "citation": "Mais nous ne souhaitons pas une sortie sèche, improvisée, brouillonne et inopérante comme celle que vous proposez.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N021",
+      "date": "2025-10-30"
+    },
+    {
+      "auteur": "Sabrina Sebaihi (Écologiste et social)",
+      "resume": "Le texte relève de la revanche ; la place particulière de l'Algérie tient à l'histoire coloniale.",
+      "citation": "Nous voterons contre cette résolution qui n’a rien à voir avec le droit mais tout à voir avec la revanche.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N021",
+      "date": "2025-10-30"
+    },
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "L'accord a été signé pour encadrer l'immigration algérienne ; la droite lui attribue à tort tous les maux.",
+      "citation": "l’accord de 1968 a précisément été signé pour encadrer l’immigration algérienne, volonté partagée alors par les gouvernements du général de Gaulle et du président Boumédiène.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N021",
+      "date": "2025-10-30"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3260 du 30 octobre 2025) ; présidente du groupe RN, auteur de la résolution.",
+      "argument": "Le RN dénonce un statut dérogatoire des Algériens qu'il juge injustifié ; Marine Le Pen a salué l'adoption du premier texte de son parti.",
+      "citation": "C’est une journée qu’on peut qualifier d’historique pour le RN",
+      "url": "https://lemonde.fr/politique/article/2025/10/30/pour-la-premiere-fois-un-texte-porte-par-le-rn-a-ete-approuve-par-l-assemblee-nationale_6650281_823449.html",
+      "date": "2025-10-30"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3260) ; aucune intervention personnelle retrouvée : argument = explication de vote de son groupe Écologiste et social (Sabrina Sebaihi).",
+      "argument": "Le groupe juge que la résolution relève de la revanche et rejoue la guerre d'Algérie, la place particulière de l'Algérie tenant à l'histoire coloniale.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N021",
+      "date": "2025-10-30"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3260) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel elle appartient, a voté contre (0-32).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3260",
+      "date": "2025-10-30"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3260), ce que la gauche lui a reproché. Son groupe EPR a voté contre (0-30-3) tout en se disant favorable à une « sortie » négociée de l'accord.",
+      "argument": null,
+      "citation": null,
+      "url": "https://lemonde.fr/politique/article/2025/10/30/pour-la-premiere-fois-un-texte-porte-par-le-rn-a-ete-approuve-par-l-assemblee-nationale_6650281_823449.html",
+      "date": "2025-10-30"
+    },
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Non député ; il a condamné sur X l'adoption de la résolution, rapportée par Le Monde. Le groupe LFI-NFP a voté contre (0-52).",
+      "argument": "Il reproche au RN de rejouer les guerres du passé avec l'Algérie.",
+      "citation": "continue sans fin les guerres du passé",
+      "url": "https://lemonde.fr/politique/article/2025/10/30/pour-la-premiere-fois-un-texte-porte-par-le-rn-a-ete-approuve-par-l-assemblee-nationale_6650281_823449.html",
+      "date": "2025-10-30"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3260",
+      "date": "2025-10-30"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0-32).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3260",
+      "date": "2025-10-30"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, allié de Place publique, a voté contre (0-53).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3260",
+      "date": "2025-10-30"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; dès juin 2023 (L'Express), il jugeait le maintien de l'accord injustifié. Son groupe Horizons a voté la résolution (17-0), Le Monde le décrivant comme opposé à l'accord « ces dernières années ».",
+      "argument": "L'accord accorde aux Algériens des avantages qu'aucun autre étranger n'a ; le maintenir avec un pays aux relations compliquées n'est plus justifié.",
+      "citation": "le maintien aujourd’hui d’un tel dispositif avec un pays avec lequel nous entretenons des relations compliquées ne me paraît plus justifié",
+      "url": "https://www.lemonde.fr/politique/article/2023/06/05/edouard-philippe-remet-en-cause-un-accord-de-1968-avec-l-algerie-sur-les-questions-migratoires_6176303_823448.html",
+      "date": "2023-06-05"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Président de LR, ministre de l'Intérieur jusqu'en octobre 2025 : premier signataire au Sénat, en juin 2023 (alors sénateur), d'une proposition de résolution appelant à dénoncer l'accord ; aucun vote du Sénat sur ce sujet.",
+      "argument": "L'accord crée un régime dérogatoire très favorable aux Algériens que plus rien ne justifie.",
+      "citation": "nous voulons en finir avec cette exception juridique qui facilite l'immigration des ressortissants algériens vers notre pays",
+      "url": "https://senat.fr/leg/exposes-des-motifs/ppr22-772-expose.html",
+      "date": "2023-06-26"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR) a voté pour (26-0, 3 non-votants).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3260",
+      "date": "2025-10-30"
+    },
+    "lisnard": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; son programme présidentiel (Nouvelle Énergie) prévoit de « revenir sur l'accord franco-algérien de 1968 ».",
+      "argument": "Il veut « oser le rapport de force » avec les pays non coopératifs, notamment en revenant sur l'accord de 1968.",
+      "citation": "Revenir sur l’accord franco-algérien de 1968",
+      "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration",
+      "date": "2026-10-18"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration vérifiable retrouvée ; Reconquête n'a pas de groupe à l'Assemblée (le groupe UDR, allié du RN, a voté pour 15-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3260",
+      "date": "2025-10-30"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée sur ce vote. En 2023, alors député, il avait voté pour une résolution LR similaire (voir la fiche denoncer-accord-1968-2023).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3260",
+      "date": "2025-10-30"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur une proposition de résolution (art. 34-1), sans effet juridique ; le gouvernement a confirmé qu'il privilégiait la renégociation.",
+    "Attal : il n'a pas pris part au vote ; son groupe a voté contre tout en se disant favorable à une sortie négociée. Sa position est donc ambiguë.",
+    "Mélenchon : citation de son message sur X rapportée par Le Monde (fragment entre guillemets).",
+    "Philippe, Retailleau : déclarations de 2023, antérieures à ce vote. Lisnard : page programme non datée (date = consultation) ; « revenir sur » peut signifier renégocier.",
+    "Dupont-Aignan : son vote de 2023 n'est pas utilisé comme position sur cette résolution distincte."
+  ]
+}

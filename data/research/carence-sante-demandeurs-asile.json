@@ -1,0 +1,197 @@
+{
+  "id": "carence-sante-demandeurs-asile",
+  "titre": "Délai de carence santé pour les demandeurs d'asile",
+  "question": "Faut-il instaurer un délai de carence de trois mois avant l'accès des demandeurs d'asile à l'assurance maladie ?",
+  "ouiSignifie": "pour",
+  "contexte": "Les demandeurs d'asile pouvaient être affiliés à la protection universelle maladie (PUMa) dès l'enregistrement de leur demande, alors que les autres résidents sans activité doivent justifier de trois mois de résidence stable. Annoncée par le Premier ministre Édouard Philippe le 6 novembre 2019 dans le plan sur l'immigration, la mesure a été inscrite par un amendement du gouvernement (n° 2156 rectifié) au budget 2020 : les demandeurs d'asile majeurs n'ont plus accès qu'aux soins urgents pendant trois mois (soins vitaux, maladies infectieuses, femmes enceintes et nouveau-nés), les mineurs étant exclus du délai. Adopté le 7 novembre 2019 (50 voix contre 14), ses modalités devaient être précisées par un décret annoncé pour la fin 2019.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 7 novembre 2019 (PLF 2020, mission Santé)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2277",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277"
+    },
+    {
+      "titre": "Forum réfugiés – Délai de carence pour l'accès à la santé des demandeurs d'asile : une mesure aux multiples impacts",
+      "url": "https://www.forumrefugies.org/s-informer/publications/articles-d-actualites/en-france/565-delai-de-carence-pour-l-acces-a-la-sante-des-demandeurs-d-asile-une-mesure-aux-multiples-impacts"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/amendements/2272C/AN/2156",
+  "argumentsPour": [
+    {
+      "auteur": "Agnès Buzyn (ministre des Solidarités et de la Santé)",
+      "resume": "Les demandeurs d'asile bénéficient de règles plus favorables que les autres résidents sans activité, soumis à trois mois de délai ; il faut les aligner, en gardant les soins urgents.",
+      "citation": "Il tend à introduire un délai de carence de trois mois pour l’accès à la protection universelle maladie des demandeurs d’asile",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    {
+      "auteur": "Véronique Louwagie (Les Républicains, rapporteure spéciale)",
+      "resume": "L'alignement est juste et enverra un signal contre le tourisme médical.",
+      "citation": "Cet alignement me semble favorable et juste, la différence de traitement entre les assurés sociaux et les demandeurs d’asile étant, en effet, tout à fait incompréhensible.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Caroline Fiat (La France insoumise, rapporteure pour avis)",
+      "resume": "Les demandeurs d'asile arrivent fragilisés par des parcours difficiles ; retarder leur prise en charge aggravera leur état de santé.",
+      "citation": "Au motif de lutter contre les détournements de procédure en matière de droit d’asile, le Gouvernement propose, avec cet amendement, une mesure qui risque d’aggraver considérablement et brutalement les conditions faites aux demandeurs d’asile.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    {
+      "auteur": "Joël Aviragnet (Socialistes)",
+      "resume": "La mesure ne vise en réalité personne : les personnes secourues en Méditerranée ont besoin de soins urgents, pas de prothèses.",
+      "citation": "Aucune population n’est réellement concernée, car les gens qui arrivent en bateau et qui ont été repêchés en Méditerranée ont besoin de soins urgents",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    {
+      "auteur": "François Ruffin (La France insoumise)",
+      "resume": "Ces amendements improvisés au dernier moment relèvent de la « basse politique » destinée à faire diversion.",
+      "citation": "Vous faites de la basse politique et agitez de petits chiffons pour faire diversion et division.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2277 du 7 novembre 2019) ; intervention en séance.",
+      "argument": "Il dénonce des amendements déposés au dernier moment sur ordre de l'Élysée et une manœuvre de diversion politique.",
+      "citation": "Vous faites de la basse politique et agitez de petits chiffons pour faire diversion et division.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°2277) ; aucune déclaration retrouvée. À titre indicatif, le groupe La France insoumise, qu'il présidait, a voté contre (0-4).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+      "date": "2019-11-07"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°2277) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR, auquel il appartenait, a voté contre (0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+      "date": "2019-11-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée non inscrite, n'a pas pris part au vote (scrutin n°2277) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+      "date": "2019-11-07"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée non inscrite, n'a pas pris part au vote (scrutin n°2277) ; aucune déclaration retrouvée sur cet amendement.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+      "date": "2019-11-07"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non inscrit, n'a pas pris part au vote (scrutin n°2277) ; aucune déclaration retrouvée sur cet amendement.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+      "date": "2019-11-07"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre : il a annoncé la mesure le 6 novembre 2019 à l'issue du comité interministériel sur l'immigration, et son gouvernement a déposé l'amendement.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.forumrefugies.org/s-informer/publications/articles-d-actualites/en-france/565-delai-de-carence-pour-l-acces-a-la-sante-des-demandeurs-d-asile-une-mesure-aux-multiples-impacts",
+      "date": "2019-11-06"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État dans le gouvernement Philippe, auteur de l'amendement ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N060",
+      "date": "2019-11-07"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; les écologistes n'avaient pas de groupe à l'Assemblée en 2019.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+      "date": "2019-11-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté contre (0-3).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+      "date": "2019-11-07"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, président du groupe LR au Sénat ; aucune déclaration ni vote retrouvé sur cette mesure. PROXY : le groupe LR de l'Assemblée a voté pour (4-0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+      "date": "2019-11-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire (maire de Cannes) ; aucune déclaration retrouvée. PROXY : le groupe LR (son parti à l'époque) a voté pour (4-0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+      "date": "2019-11-07"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; il avait quitté LR fin 2017, donc pas de groupe servant de proxy ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+      "date": "2019-11-07"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2019 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2277",
+      "date": "2019-11-07"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur un amendement du gouvernement au projet de loi de finances pour 2020 (faible participation : 70 votants).",
+    "Le délai ne supprime pas tout accès aux soins : les soins urgents restent couverts et les mineurs sont exclus du dispositif.",
+    "Philippe et Attal : position déduite de leur appartenance au gouvernement auteur de l'amendement (annonce de Philippe rapportée par Forum réfugiés).",
+    "Le décret d'application n'a pas été consulté : sa référence et sa date d'entrée en vigueur ne sont pas indiquées."
+  ]
+}

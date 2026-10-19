@@ -1,0 +1,224 @@
+{
+  "id": "retraites-64",
+  "titre": "Retraite à 64 ans (réforme 2023)",
+  "question": "Êtes-vous favorable au report progressif de l'âge légal de départ à la retraite de 62 à 64 ans (réforme de 2023) ?",
+  "ouiSignifie": "contre",
+  "contexte": "La loi de financement rectificative de la sécurité sociale pour 2023 relève progressivement l'âge légal de départ de 62 à 64 ans (atteint en 2030) et accélère le passage à 43 ans de cotisation. Faute de majorité assurée à l'Assemblée, le gouvernement Borne a engagé sa responsabilité (article 49.3) le 16 mars 2023, le jour où le Sénat adoptait le texte de la CMP (193 voix contre 114) ; la motion de censure transpartisane déposée par le groupe LIOT a recueilli 278 voix le 20 mars, neuf de moins que les 287 requises, ce qui a valu adoption du texte. Le Conseil constitutionnel l'a déclaré partiellement conforme (décision n° 2023-849 DC) et la loi a été promulguée le 14 avril 2023 (loi n° 2023-270). Le relèvement de l'âge a ensuite été suspendu par l'article 105 de la loi de financement de la sécurité sociale pour 2026.",
+  "contexteSources": [
+    {
+      "titre": "franceinfo – Ce que contient la version finale du texte",
+      "url": "https://franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-recul-de-l-age-legal-a-64-ans-pension-minimum-carrieres-longues-ce-que-contient-la-version-finale-du-texte_5710982.html"
+    },
+    {
+      "titre": "Le Monde – « A neuf voix près » : la principale motion de censure a été rejetée",
+      "url": "https://www.lemonde.fr/politique/article/2023/03/21/a-neuf-voix-pres-la-principale-motion-de-censure-a-ete-rejetee-a-l-assemblee-nationale_6166305_823448.html"
+    },
+    {
+      "titre": "Sénat – Dossier législatif (CMP, décision 2023-849 DC, promulgation)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl22-368.html"
+    },
+    {
+      "titre": "Sénat – Réforme des retraites (PLFRSS pour 2023), vote du 16 mars 2023",
+      "url": "https://www.senat.fr/salle-de-presse/202301/reforme-des-retraites-plfrss-pour-2023.html"
+    },
+    {
+      "titre": "CDG 17 – LFSS pour 2026 : suspension de la réforme (article 105)",
+      "url": "https://cdg17.fr/actualites/loi-de-financement-de-la-securite-sociale-lfss-pour-2026-disposition-relative-a-la-retraite"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1240",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/plrfss_pour_2023",
+  "argumentsPour": [
+    {
+      "auteur": "Charles de Courson (LIOT, auteur de la motion)",
+      "resume": "La réforme porte atteinte à une société solidaire et à la liberté de choisir le moment de sa retraite ; le 49.3 a privé l'Assemblée d'un vote sur le texte.",
+      "citation": "Nous défendons une société libre qui permet à chacun de choisir sa vie, y compris le moment de sa retraite.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N182",
+      "date": "2023-03-20"
+    },
+    {
+      "auteur": "Laure Lavalette (RN)",
+      "resume": "Réforme jugée injuste et inutile : le report fera travailler deux ans de plus, y compris les salariés usés, et fera baisser les pensions ; le RN réclamait un référendum.",
+      "citation": "le report de l’âge de départ ne les fera pas seulement travailler deux ans de plus, y compris ceux qui sont usés ; il aboutira à la régression suprême, la baisse des pensions",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N182",
+      "date": "2023-03-20"
+    },
+    {
+      "auteur": "Boris Vallaud (Socialistes)",
+      "resume": "Réforme injuste qui pèse d'abord sur les femmes et les métiers pénibles ; la pension minimale à 1 200 euros a été surestimée ; « coup de force » démocratique.",
+      "citation": "Vous taisez, derrière ce projet dont vous soutenez qu’il est « juste et équitable », que 60 % des économies seront faites sur le dos des femmes",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N182",
+      "date": "2023-03-20"
+    },
+    {
+      "auteur": "Pierre Dharréville (GDR)",
+      "resume": "Le gouvernement fait passer des objectifs comptables avant la volonté populaire et le droit à la retraite ; la réforme doit être retirée.",
+      "citation": "vous avez choisi de placer des engagements comptables au-dessus de la volonté populaire, les intérêts de la finance au-dessus du bien-être social, du respect du travail, du droit mérité à la retraite.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N182",
+      "date": "2023-03-20"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Laurent Marcangeli (Horizons)",
+      "resume": "Le vieillissement démographique impose de travailler plus longtemps ; la réforme assure la pérennité du système, l'inaction n'est plus possible.",
+      "citation": "Nous sommes confrontés à une réalité démographique implacable et devons travailler plus longtemps pour y faire face.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N182",
+      "date": "2023-03-20"
+    },
+    {
+      "auteur": "Olivier Marleix (LR)",
+      "resume": "Une réforme est nécessaire pour sauvegarder le système et le pouvoir d'achat des retraités ; LR revendique l'avoir tempérée (63 ans à la fin du quinquennat) et refuse de voter avec les extrêmes.",
+      "citation": "Oui, nous assumons qu’une réforme est nécessaire pour sauvegarder notre système de retraite et défendre le pouvoir d’achat des retraités.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N182",
+      "date": "2023-03-20"
+    },
+    {
+      "auteur": "Jean-Paul Mattei (Démocrate)",
+      "resume": "Le groupe soutient le gouvernement et juge la réforme nécessaire pour pérenniser le système, tout en regrettant que ses propositions de financement n'aient pas toutes été reprises.",
+      "citation": "soutenant le Gouvernement et persuadés de la nécessité d’une réforme pour pérenniser notre système de retraite, nous ne voterons pas la censure.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N182",
+      "date": "2023-03-20"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Non député en 2023 ; leader de LFI, il soutenait la censure et a appelé après son rejet à une « censure populaire » (position « pour » au sens du scrutin = opposé à la réforme).",
+      "argument": "Après l'échec de la motion, appelle à poursuivre la contestation dans la rue et par la « démocratie sociale » pour imposer le retrait de la réforme.",
+      "citation": "Le moment est venu de passer à la censure populaire. Je veux que cette censure populaire s'exprime massivement",
+      "url": "https://www.bfmtv.com/politique/parlement/le-gouvernement-est-d-ores-et-deja-mort-les-oppositions-reagissent-apres-l-adoption-de-la-reforme-des-retraites_AN-202303200821.html",
+      "date": "2023-03-20"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté la motion de censure (scrutin AN n°1240), donc contre la réforme ; question au gouvernement le lendemain.",
+      "argument": "Le passage en force sur les 64 ans, rejeté par le peuple et les syndicats unis, abîme la République et plonge le pays dans une crise profonde.",
+      "citation": "votre coup de force sur la retraite à 64 ans est non seulement inadmissible, mais dangereux",
+      "url": "https://www.nosdeputes.fr/16/intervention/219115",
+      "date": "2023-03-21"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté la motion de censure (scrutin AN n°1240), donc contre la réforme.",
+      "argument": "Veut centrer le débat sur « oui ou non à ces deux ans de plus », que porteront surtout ceux qui ont tenu le pays debout : « une injustice sociale ».",
+      "citation": "la France qui manifeste, c'est une France qui se lève tôt, qui va au boulot, et qui a mal au dos",
+      "url": "https://www.tf1info.fr/politique/reforme-des-retraites-la-france-qui-manifeste-c-est-la-france-qui-a-mal-au-dos-lance-francois-ruffin-sur-lci-2248098.html",
+      "date": "2023-02-14"
+    },
+    "tondelier": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Secrétaire nationale d'EELV, sans mandat parlementaire ; opposée à la réforme et au recours au 49.3 (position « pour » la censure).",
+      "argument": "Dénonce la « panique » du gouvernement face à la contestation et appelle à répondre dans la rue au recours au vote bloqué et au 49.3.",
+      "citation": "Ça sent la panique. La rue répondra demain. Et dans la rue, votes bloqués et 49.3, ça n’existe pas.",
+      "url": "https://nouvelobs.com/politique/20230312.OBS70710/de-la-gauche-a-l-extreme-droite-le-recours-possible-au-49-3-pointe-du-doigt-par-tous.html",
+      "date": "2023-03-12"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté la motion de censure (scrutin AN n°1240) ; pas de déclaration personnelle retrouvée, argument = explication du groupe Écologiste (Cyrielle Chatelain).",
+      "argument": "Groupe Écologiste : réforme injuste qui frappe le modèle social, pénalise d'abord les femmes et répond à une logique productiviste et financière.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N182",
+      "date": "2023-03-20"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Eurodéputé, pas de vote ; s'engage en 2026 à abroger la réforme de 2023 (position « pour » au sens du scrutin = opposé à la réforme).",
+      "argument": "Juge la réforme injuste et promet son abrogation avec un retour à 62 ans, en privilégiant la prise en compte de la pénibilité plutôt qu'un retour à 60 ans.",
+      "citation": "Nous abrogerons la réforme injuste de 2023",
+      "url": "https://www.capital.fr/votre-retraite/certains-doivent-partir-plus-tard-c-est-la-justice-assume-raphael-glucksmann-sur-les-retraites-1530731",
+      "date": "2026-10-05"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics, co-signataire du projet de loi ; le gouvernement s'opposait à la censure (position « contre » = soutien à la réforme).",
+      "argument": "Défend la réforme en mettant en avant l'élargissement du dispositif carrières longues, qui permettrait à quatre Français sur dix de partir avant 64 ans.",
+      "citation": "Quatre Français sur dix partiront, après notre réforme, avant 64 ans",
+      "url": "https://www.franceinfo.fr/economie/retraite/reforme-des-retraites/reforme-des-retraites-4-francais-sur-10-partiront-apres-notre-reforme-avant-64-ans-affirme-gabriel-attal_5656361.html",
+      "date": "2023-02-13"
+    },
+    "philippe": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Maire du Havre et président d'Horizons (membre de la majorité), il a publiquement soutenu la réforme (position « contre » la censure).",
+      "argument": "Réforme nécessaire pour équilibrer les retraites, à mener vite ; un report à 64 ans lui convient s'il produit le même effet qu'un report à 65 ans.",
+      "citation": "la réforme est nécessaire et mieux vaut la faire vite que lentement",
+      "url": "https://www.europe1.fr/politique/retraites-edouard-philippe-soutient-une-reforme-necessaire-et-a-faire-vite-4160428",
+      "date": "2023-01-11"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "A voté POUR le texte de la réforme au Sénat (scrutin n°251 du 16 mars 2023, https://www.senat.fr/scrutin-public/2022/scr2022-251.html), ce qui correspond à « contre » au sens de la censure.",
+      "argument": "Défend un report à 64 ans (et non 65) avec 43 années de cotisation, réforme « nécessaire si on veut préserver notre régime par répartition ».",
+      "citation": "C’est une réforme très équilibrée et que je crois juste",
+      "url": "https://publicsenat.fr/actualites/non-classe/reforme-des-retraites-a-matignon-retailleau-defend-la-ligne-des-senateurs",
+      "date": "2022-12-14"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Président de région ; juge le recul de l'âge « indispensable » mais déclarait en janvier 2023 qu'il ne voterait pas le texte en l'état faute de « justice ».",
+      "argument": "Juge le recul de l'âge « indispensable » mais pose trois conditions : carrières longues (pas 44 années pour ceux ayant commencé entre 18 et 20 ans), régimes spéciaux, situation des femmes.",
+      "citation": "Aujourd'hui, je ne voterais pas ce texte si j'étais parlementaire",
+      "url": "https://www.tf1info.fr/politique/reforme-des-retraites-2023-je-ne-voterais-pas-ce-texte-si-j-etais-parlementaire-lance-xavier-bertrand-sur-lci-2246039.html",
+      "date": "2023-01-25"
+    },
+    "lisnard": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Maire de Cannes ; favorable à l'allongement de la durée de travail (tribune au Figaro, 5 janvier 2023) et opposé à revenir sur la réforme (position « contre » la censure).",
+      "argument": "Juge le report nécessaire mais insuffisant (« réformette ») et défend une part de capitalisation obligatoire et collective.",
+      "citation": "Cette augmentation de la durée de vie au travail est nécessaire mais pas suffisante",
+      "url": "https://www.unenouvelleenergie.fr/questions/quel-age-de-depart-a-la-retraite-david-lisnard-defend-il/",
+      "date": "2023-01-05"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté la motion de censure transpartisane (scrutin AN n°1240) ; présidente du groupe RN, qui avait déposé sa propre motion.",
+      "argument": "Réforme jugée injuste et inutile ; elle promet de l'annuler (départ à 60 ans après 40 annuités pour ceux ayant commencé avant 20 ans, 62 ans maximum).",
+      "citation": "Ces motions de censure ayant été engagées suite à l’activation du 49-3, tous les députés qui ne les ont pas votées sont de facto des soutiens à cette réforme des retraites.",
+      "url": "https://rassemblementnational.fr/post/reforme-des-retraites-le-rejet-des-motions-de-censure-enterine-une-reforme-injuste-inutile-mais-surtout-rejetee-par-une-large-majorite-de-francais",
+      "date": "2023-03-20"
+    },
+    "zemmour": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Sans mandat ; président de Reconquête, il a déclaré qu'il voterait la réforme (position « contre » la censure).",
+      "argument": "Revendique le report à 64 ans et l'index seniors, issus de son programme de 2022 ; juge indispensable de travailler plus longtemps pour sauver la répartition.",
+      "citation": "Je la voterais, d’abord, parce que c’est ma réforme.",
+      "url": "https://www.huffingtonpost.fr/politique/article/eric-zemmour-soutient-la-reforme-des-retraites-du-gouvernement_213848.html",
+      "date": "2023-02-09"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté la motion de censure (scrutin AN n°1240), donc contre la réforme.",
+      "argument": "Réforme jugée inutile et injuste face à la hausse des prix et aux défis de relocalisation industrielle ; voulait lancer un référendum d'initiative partagée pour la contrer.",
+      "citation": "cette réforme des retraites est abominable, elle est inutile et injuste, elle ne sert à rien",
+      "url": "https://www.publicsenat.fr/actualites/politique/retraites-une-reforme-abominable-inutile-et-injuste-pour-nicolas-dupont-aignan",
+      "date": "2023-01-16"
+    }
+  },
+  "alertes": [
+    "Codage : le scrutin de référence est une motion de censure (seuls les votes « pour » sont enregistrés). ouiSignifie = « contre » : une position « pour » (censure) = Non à la réforme ; une position « contre » = Oui à la réforme. argumentsPour = arguments des partisans de la censure (opposés à la réforme) ; argumentsContre = arguments des défenseurs de la réforme.",
+    "La ventilation par groupe de tasks.json affiche des libellés « pour » pour tous les groupes (y compris RE, Dem, HOR à 0 voix) : artefact des motions de censure ; RE, Dem et HOR n'ont pas voté la censure ; LR s'est divisé (19 députés pour la censure).",
+    "Retailleau : position déduite de son vote POUR le texte au Sénat (scrutin n°251), pas d'un vote sur la censure. Sa citation date du 14 décembre 2022 et porte sur la version défendue par les sénateurs LR (64 ans, 43 annuités), proche du texte final.",
+    "Mélenchon n'était pas député en 2023 : position déclarative. Tondelier : citation portant sur le recours au 49.3 et la mobilisation, pas sur le fond de l'âge légal. Glucksmann : déclaration de 2026 (pas de position datée de 2023 retrouvée).",
+    "Bertrand : position 'inconnu' car il soutenait le principe d'un report à 64 ans tout en refusant le texte de janvier 2023 en l'état ; aucune déclaration retrouvée sur le texte final ni sur la censure.",
+    "Lisnard : citation de sa tribune au Figaro (5 janvier 2023) reprise sur le site de son parti Nouvelle Énergie (source partisane) ; la tribune originale n'a pas été ouverte.",
+    "Zemmour : déclaration sur BFMTV du 9 février 2023, rapportée par le HuffPost.",
+    "Roussel : citation issue de NosDéputés.fr (reprise du compte rendu officiel de la séance du 21 mars 2023).",
+    "La décision 2023-849 DC n'a pas pu être ouverte sur conseil-constitutionnel.fr (erreur SSL) ; la conformité partielle et la promulgation sont attestées par le dossier législatif du Sénat."
+  ]
+}

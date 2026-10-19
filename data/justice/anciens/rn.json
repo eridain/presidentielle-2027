@@ -1,0 +1,386 @@
+{
+  "partiId": "rn",
+  "condamnations": [
+    {
+      "personne": "Bay Nicolas",
+      "categorie": "ancien_membre",
+      "roleActuel": "député européen (Identité-Libertés), conseiller régional de Normandie ; ancien secrétaire général (2014-2017) et vice-président du FN",
+      "infraction": "détournement de fonds publics (en tant que député européen)",
+      "faits": "Emploi de Timothée Houssin comme assistant parlementaire européen sans preuve d'activité liée au mandat, rémunéré sur fonds du Parlement européen alors qu'il travaillait pour le parti (2014-2015).",
+      "juridiction": "cour d'appel de Paris (chambre des appels correctionnels)",
+      "dateDecision": "2026-07-07",
+      "peine": "1 an d'emprisonnement avec sursis, 2 ans d'inéligibilité avec sursis et 5 000 euros d'amende",
+      "statut": "pourvoi_en_cours",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "En attendant l'audience en cassation, Nicolas Bay autorisé à siéger à nouveau au conseil régional (Paris-Normandie)",
+          "url": "https://www.paris-normandie.fr/id738257/article/2026-08-12/en-attendant-laudience-en-cassation-nicolas-bay-autorise-sieger-nouveau-au",
+          "citation": "Le 7 juillet dernier, la chambre des appels correctionnels de Paris l'a condamné à un an de prison avec sursis, deux ans d'inéligibilité avec sursis",
+          "date": "2026-08-12"
+        },
+        {
+          "titre": "Procès des assistants parlementaires du FN : l'élu normand Nicolas Bay va se pourvoir en Cassation (France 3 Normandie)",
+          "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/proces-des-assistants-parlementaires-du-fn-l-elu-normand-nicolas-bay-va-se-pourvoir-en-cassation-3386704.html",
+          "citation": "Nicolas Bay va déposer un recours devant la Cour de Cassation suite à sa condamnation en appel le 7 juillet 2026",
+          "date": "2026-07-15"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2022-02",
+        "detail": "Secrétaire général (2014-2017) puis vice-président du FN, député européen élu en 2014 et 2019 ; suspendu de ses fonctions au RN le 15 février 2022, il rejoint Reconquête puis Identité-Libertés.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": "Le RN l'a suspendu de toutes ses responsabilités en février 2022, en l'accusant d'avoir transmis des informations à Éric Zemmour (sans lien avec l'affaire).",
+        "sources": [
+          {
+            "titre": "Rassemblement national : Nicolas Bay, Gilbert Collard, Stéphane Ravier... Ils ont décidé de quitter Marine Le Pen pour rejoindre Eric Zemmour (franceinfo)",
+            "url": "https://www.franceinfo.fr/politique/front-national/presidentielle-damien-rieu-gilbert-collard-stephane-ravier-ils-ont-decide-de-quitter-marine-le-pen-pour-rejoindre-eric-zemmour_4964154.html",
+            "citation": "Mardi 15 février, Nicolas Bay est suspendu de ses fonctions au RN. Le porte-parole de la candidate est accusé de \"sabotage\" et d'avoir transmis des informations confidentielles à Eric Zemmour."
+          },
+          {
+            "titre": "Procès des assistants parlementaires du FN : l'élu normand Nicolas Bay va se pourvoir en Cassation (France 3 Normandie)",
+            "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/proces-des-assistants-parlementaires-du-fn-l-elu-normand-nicolas-bay-va-se-pourvoir-en-cassation-3386704.html",
+            "citation": "Nicolas Bay, membre du parti de Marion Maréchal, \"Identité Libertés\", se pourvoira en Cassation."
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Boutonnet Marie-Christine (décédée le 6 ou 7 mars 2026)",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancienne députée européenne FN (2014-2019), décédée",
+      "infraction": "détournement de fonds publics (en tant que députée européenne)",
+      "faits": "Emploi d'un assistant parlementaire européen (Charles Hourcade) rémunéré par le Parlement européen pour un travail au profit du parti, pendant son mandat 2014-2019.",
+      "juridiction": "tribunal correctionnel de Paris",
+      "dateDecision": "2025-03-31",
+      "peine": "18 mois d'emprisonnement avec sursis et 3 ans d'inéligibilité (avec sursis selon franceinfo, ferme selon Le Monde : voir alertes)",
+      "statut": "definitive",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Marine Le Pen, Louis Aliot, Julien Odoul... On a listé les 25 condamnations à l'issue du procès des assistants parlementaires du FN (franceinfo)",
+          "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-louis-aliot-julien-odoul-on-a-liste-les-25-condamnations-a-l-issue-du-proces-des-assistants-parlementaires-du-fn_7162527.html",
+          "citation": "Marie-Christine Boutonnet, ex-eurodéputée : dix-huit mois de prison avec sursis et trois ans d'inéligibilité avec sursis.",
+          "date": "2025-03-31"
+        },
+        {
+          "titre": "Procès en appel de Marine Le Pen : retrouvez les peines prononcées contre tous les prévenus dans l'affaire des assistants parlementaires du FN (Le Monde, Les Décodeurs)",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2026/07/07/proces-en-appel-de-marine-le-pen-retrouvez-les-peines-prononcees-contre-tous-les-prevenus-dans-l-affaire-des-assistants-parlementaires-du-fn_6721484_4355770.html",
+          "citation": "Condamnation en appel ou en première instance pour les prévenus qui n'avaient pas fait appel (signalés par un *)",
+          "date": "2026-07-07"
+        },
+        {
+          "titre": "Condamnations au RN : le parti, Marine Le Pen et 11 autres personnes ont fait appel (France 24 / AFP)",
+          "url": "https://www.france24.com/fr/info-en-continu/20250411-proc%C3%A8s-du-rn-le-parti-marine-le-pen-et-11-autres-personnes-seront-jug%C3%A9s-en-appel",
+          "citation": "le parti et 12 personnes sur 24 au total ont décidé de faire appel, a déclaré vendredi 11 avril une source judiciaire.",
+          "date": "2025-04-11"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "decede",
+        "depuis": "2026-03",
+        "detail": "Adhérente du FN depuis 1979, députée européenne FN de 2014 à 2019 ; décédée à Albi en mars 2026 à 77 ans.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Avis de décès, Bruxelles (Libra Memoria)",
+            "url": "https://www.libramemoria.com/avis/belgique/9cfb7203da794249bb5d06371bfcf6c4-bruxelles",
+            "citation": "Avis de décès publiés le 07/03/2026 Défunt Commune Age Publication Marie-Christine BOUTONNET (77 ans) Albi (81)"
+          },
+          {
+            "titre": "Marie-Christine Boutonnet (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Marie-Christine_Boutonnet",
+            "citation": "Marie-Christine Boutonnet meurt le 7 mars 2026 à l'âge de 77 ans."
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Ravier Stéphane",
+      "categorie": "ancien_membre",
+      "roleActuel": "conseiller municipal de Marseille ; sénateur des Bouches-du-Rhône de 2014 à 2026",
+      "infraction": "prise illégale d'intérêts",
+      "faits": "Embauche de son fils Thomas Ravier aux espaces verts des 13e et 14e arrondissements de Marseille en août 2018.",
+      "juridiction": "cour d'appel d'Aix-en-Provence",
+      "dateDecision": "2026-02-10",
+      "peine": "6 mois d'emprisonnement avec sursis et 1 an d'inéligibilité (sans exécution provisoire selon Wikipédia), peine de première instance confirmée",
+      "statut": "pourvoi_en_cours",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Stéphane Ravier condamné en appel à un an d'inéligibilité pour prise illégale d'intérêts (BFM Marseille Provence)",
+          "url": "https://www.bfmtv.com/marseille/info-bfm-marseille-provence-stephane-ravier-condamne-en-appel-a-un-an-d-ineligibilite-pour-prise-illegale-d-interets_AN-202602100591.html",
+          "citation": "Stéphane Ravier , sénateur des Bouches-du-Rhône, a été condamné en appel à six mois de prison avec sursis et à un an d'inéligibilité pour prise illégale d'intérêts, ce mardi 10 février",
+          "date": "2026-02-10"
+        },
+        {
+          "titre": "Stéphane Ravier condamné en appel pour prise illégale d'intérêts (La Marseillaise)",
+          "url": "https://www.lamarseillaise.fr/societe/stephane-ravier-condamne-en-appel-pour-prise-illegale-d-interets-IN19634408",
+          "citation": "Son avocat, Julien Pinelli, annonce un pourvoi en cassation.",
+          "date": "2026-02-11"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2022-02-13",
+        "detail": "Membre du FN/RN pendant plus de trente ans, sénateur des Bouches-du-Rhône élu en 2014 sous l'étiquette FN et maire du 7e secteur de Marseille (2014-2017) ; quitte le RN en février 2022 pour Reconquête, qu'il quitte en 2024.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Stéphane Ravier rejoint Éric Zemmour (et quitte le RN) (HuffPost)",
+            "url": "https://www.huffingtonpost.fr/politique/article/stephane-ravier-rejoint-eric-zemmour-et-quitte-le-rn_192666.html",
+            "citation": "Stéphane Ravier, l'unique sénateur du Rassemblement national , a décidé de rejoindre Éric Zemmour , a-t-il annoncé ce dimanche 13 février sur Europe 1."
+          },
+          {
+            "titre": "Stéphane Ravier, sénateur d'extrême droite, condamné à un an d'inéligibilité pour favoritisme (Le Monde avec AFP)",
+            "url": "https://www.lemonde.fr/societe/article/2026/02/17/stephane-ravier-senateur-d-extreme-droite-condamne-a-un-an-d-ineligibilite-pour-favoritisme_6667083_3224.html",
+            "citation": "Le sénateur des Bouches-du-Rhône, ex-RN et ex-Reconquête!, est accusé d'avoir attribué en partage à deux sociétés un marché"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Ravier Stéphane",
+      "categorie": "ancien_membre",
+      "roleActuel": "conseiller municipal de Marseille ; sénateur des Bouches-du-Rhône de 2014 à 2026",
+      "infraction": "favoritisme (atteinte à la liberté d'accès et à l'égalité des candidats dans les marchés publics)",
+      "faits": "Partage entre deux sociétés d'un marché de rénovation du site internet de la mairie du 7e secteur de Marseille, de septembre 2016 à juin 2017, alors qu'il en était maire (élu FN).",
+      "juridiction": "tribunal correctionnel de Marseille",
+      "dateDecision": "2026-02-17",
+      "peine": "3 mois d'emprisonnement avec sursis, 1 an d'inéligibilité et 5 000 euros d'amende",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Stéphane Ravier, sénateur d'extrême droite, condamné à un an d'inéligibilité pour favoritisme (Le Monde avec AFP)",
+          "url": "https://www.lemonde.fr/societe/article/2026/02/17/stephane-ravier-senateur-d-extreme-droite-condamne-a-un-an-d-ineligibilite-pour-favoritisme_6667083_3224.html",
+          "citation": "Le sénateur d'extrême droite Stéphane Ravier a été condamné à trois mois de prison avec sursis, accompagnés d'un an d'inéligibilité ainsi que d'une amende de 5 000 euros pour des faits de favoritisme",
+          "date": "2026-02-17"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2022-02-13",
+        "detail": "Membre du FN/RN pendant plus de trente ans, sénateur des Bouches-du-Rhône élu en 2014 sous l'étiquette FN et maire du 7e secteur de Marseille (2014-2017) ; quitte le RN en février 2022 pour Reconquête, qu'il quitte en 2024.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Stéphane Ravier rejoint Éric Zemmour (et quitte le RN) (HuffPost)",
+            "url": "https://www.huffingtonpost.fr/politique/article/stephane-ravier-rejoint-eric-zemmour-et-quitte-le-rn_192666.html",
+            "citation": "Stéphane Ravier, l'unique sénateur du Rassemblement national , a décidé de rejoindre Éric Zemmour , a-t-il annoncé ce dimanche 13 février sur Europe 1."
+          },
+          {
+            "titre": "Stéphane Ravier, sénateur d'extrême droite, condamné à un an d'inéligibilité pour favoritisme (Le Monde avec AFP)",
+            "url": "https://www.lemonde.fr/societe/article/2026/02/17/stephane-ravier-senateur-d-extreme-droite-condamne-a-un-an-d-ineligibilite-pour-favoritisme_6667083_3224.html",
+            "citation": "Le sénateur des Bouches-du-Rhône, ex-RN et ex-Reconquête!, est accusé d'avoir attribué en partage à deux sociétés un marché"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Rivière Jérôme",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien député européen (élu sur la liste RN en 2019, siège jusqu'en 2024)",
+      "infraction": "fraude fiscale aggravée et blanchiment de fraude fiscale aggravée",
+      "faits": "Soustraction d'un peu plus de 356 000 euros au fisc entre février 2014 et mai 2018 via des sociétés artificiellement domiciliées à Hongkong.",
+      "juridiction": "tribunal correctionnel de Paris",
+      "dateDecision": "2025-09-02",
+      "peine": "3 ans d'emprisonnement avec sursis, 90 000 euros d'amende au total et 5 ans d'inéligibilité (avec d'autres peines complémentaires)",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": false,
+      "sources": [
+        {
+          "titre": "L'ancien eurodéputé Jérôme Rivière condamné pour fraude fiscale aggravée (Le Monde)",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2025/09/03/l-ancien-eurodepute-jerome-riviere-condamne-pour-fraude-fiscale-aggravee_6638780_4355770.html",
+          "citation": "Mardi 2 septembre, l'ex-député et eurodéputé Jérôme Rivière a été condamné par le tribunal correctionnel de Paris à trois ans de prison avec sursis et un total de 90 000 euros d'amende, pour fraude fiscale aggravée",
+          "date": "2025-09-03"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2022-01-19",
+        "detail": "Membre du conseil national du RN (2018), élu député européen sur la liste RN en 2019 et président de la délégation RN ; rallie Éric Zemmour le 19 janvier 2022, puis quitte Reconquête en 2023.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Rassemblement national : Nicolas Bay, Gilbert Collard, Stéphane Ravier... Ils ont décidé de quitter Marine Le Pen pour rejoindre Eric Zemmour (franceinfo)",
+            "url": "https://www.franceinfo.fr/politique/front-national/presidentielle-damien-rieu-gilbert-collard-stephane-ravier-ils-ont-decide-de-quitter-marine-le-pen-pour-rejoindre-eric-zemmour_4964154.html",
+            "citation": "Première grande défection, l'eurodéputé Jérôme Rivière, qui change de bord le 19 janvier, alors qu'il est l'un des porte-parole de la campagne présidentielle de Marine Le Pen"
+          },
+          {
+            "titre": "L'ancien eurodéputé Jérôme Rivière condamné pour fraude fiscale aggravée (Le Monde)",
+            "url": "https://www.lemonde.fr/les-decodeurs/article/2025/09/03/l-ancien-eurodepute-jerome-riviere-condamne-pour-fraude-fiscale-aggravee_6638780_4355770.html",
+            "citation": "sous les bannières du Rassemblement national (2015-2022) et de Reconquête! (2022-2023)"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Collard Gilbert",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien député du Gard (2012-2017 apparenté FN, 2017-2019) et ancien député européen RN (2019-2024)",
+      "infraction": "diffamation publique envers un particulier (Xavier Niel)",
+      "faits": "En mars 2017, alors député du Gard, il affirme à tort sur France Bleu que Xavier Niel a été condamné pour proxénétisme aggravé, puis publie l'extrait sur ses réseaux sociaux.",
+      "juridiction": "tribunal correctionnel de Paris (17e chambre)",
+      "dateDecision": "2021-10-19",
+      "peine": "800 euros d'amende et 1 000 euros de dommages et intérêts",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "diffamation",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Gilbert Collard et Wallerand de Saint-Just condamnés pour diffamation envers Xavier Niel (20 Minutes)",
+          "url": "https://www.20minutes.fr/justice/3152195-20211019-gilbert-collard-wallerand-saint-just-condamnes-diffamation-envers-xavier-niel",
+          "citation": "La 17e chambre du tribunal correctionnel de Paris les a condamnés à verser, chacun, 1.000 euros de dommages et intérêts à Xavier Niel. Gilbert Collard est condamné à 800 euros d'amende",
+          "date": "2021-10-19"
+        },
+        {
+          "titre": "Gilbert Collard et Wallerand de Saint-Just condamnés pour diffamation envers Xavier Niel (Ouest-France)",
+          "url": "https://www.ouest-france.fr/societe/justice/gilbert-collard-et-wallerand-de-saint-just-condamnes-pour-diffamation-envers-xavier-niel-b93e6c9c-3112-11ec-a718-a624d0d4b41d",
+          "citation": "Me Jean-Marc Descoubès, avocat de Gilbert Collard, qui va faire appel, a réagi",
+          "date": "2021-10-19"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2022-01-22",
+        "detail": "Député du Gard élu en 2012 avec le soutien du FN (Rassemblement bleu Marine), adhérent du FN en 2017, eurodéputé RN élu en 2019 ; rallie Éric Zemmour en janvier 2022.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Rassemblement national : Nicolas Bay, Gilbert Collard, Stéphane Ravier... Ils ont décidé de quitter Marine Le Pen pour rejoindre Eric Zemmour (franceinfo)",
+            "url": "https://www.franceinfo.fr/politique/front-national/presidentielle-damien-rieu-gilbert-collard-stephane-ravier-ils-ont-decide-de-quitter-marine-le-pen-pour-rejoindre-eric-zemmour_4964154.html",
+            "citation": "se demande le 21 janvier l'eurodéputé RN Gilbert Collard, qui se met en scène dans une vidéo sur sa page Facebook . Il y annonce à demi-mot qu'il va rejoindre Eric Zemmour"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Grenon Daniel",
+      "categorie": "ancien_membre",
+      "roleActuel": "député de la 1re circonscription de l'Yonne (non-inscrit, rallié à Debout la France en 2026)",
+      "infraction": "injure publique en raison de l'origine, l'ethnie, la nation, la race ou la religion (qualification déduite : relaxé en appel du chef de provocation à la discrimination)",
+      "faits": "Propos tenus le 2 juillet 2024, pendant la campagne des législatives : « Des Maghrébins sont arrivés au pouvoir, ministre et cætera, ces gens-là n'ont pas leur place dans les hauts lieux ».",
+      "juridiction": "cour d'appel de Paris",
+      "dateDecision": "2026-04-16",
+      "peine": "1 000 euros d'amende avec sursis (en première instance, tribunal correctionnel de Sens, 2 mai 2025 : 3 000 euros d'amende)",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "haine",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Le député de l'Yonne Daniel Grenon condamné en appel pour propos racistes, relaxé pour l'incitation à la haine (ICI Auxerre)",
+          "url": "https://www.ici.fr/infos/faits-divers-justice/le-depute-de-l-yonne-daniel-grenon-condamne-en-appel-pour-propos-racistes-relaxe-pour-l-incitation-a-la-haine-2202274",
+          "citation": "Le député de l'Yonne Daniel Grenon, ex-RN passé chez Debout La France, a été condamné à 1.000 euros d'amende avec sursis , ce jeudi 16 avril par la cour d'appel de Paris pour des propos racistes",
+          "date": "2026-04-16"
+        },
+        {
+          "titre": "« Ces gens-là n'ont pas leur place dans les hauts lieux » : l'ex-député du RN Daniel Grenon jugé pour provocation publique à la discrimination (L'Humanité)",
+          "url": "https://www.humanite.fr/societe/legislative/ces-gens-la-nont-pas-leur-place-dans-les-hauts-lieux-lex-depute-du-rn-daniel-grenon-juge-pour-provocation-publique-a-la-discrimination",
+          "citation": "et pour « injure publique en raison de l'origine, l'ethnie, la nation, la race ou la religion »",
+          "date": "2025"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "exclu",
+        "depuis": "2024-10-18",
+        "detail": "Élu député RN de l'Yonne en 2022 et réélu en 2024 ; définitivement exclu du RN le 18 octobre 2024 pour les propos ensuite condamnés.",
+        "lienAvecCondamnation": "oui",
+        "reactionParti": "Le RN l'a exclu définitivement ; Jordan Bardella l'avait rangé parmi les « brebis galeuses » du parti.",
+        "sources": [
+          {
+            "titre": "\"Brebis galeuses\" du RN : Le député de l'Yonne Daniel Grenon est définitivement exclu du Rassemblement national après ses propos racistes (franceinfo)",
+            "url": "https://www.franceinfo.fr/politique/front-national/brebis-galeuses-du-rn-le-depute-de-l-yonne-daniel-grenon-est-definitivement-exclu-du-rassemblement-national-apres-ses-propos-racistes_6846134.html",
+            "citation": "Le député de l'Yonne Daniel Grenon a été définitivement exclu du Rassemblement national après ses propos racistes tenus en juillet dernier, a appris France Bleu Auxerre vendredi 18 octobre"
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Bergeron Joëlle (Joëlle Guerpillon)",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancienne députée européenne élue sur la liste FN en 2014",
+      "infraction": "présentation de comptes annuels inexacts et défaut de dépôt et d'approbation des comptes (qualification rapportée par la presse)",
+      "faits": "Comme gérante de l'Hôtel des ventes Bretagne Atlantique de Quimper, présentation pendant plusieurs exercices de comptes inexacts pour dissimuler la situation de la société.",
+      "juridiction": "tribunal judiciaire de Quimper (comparution sur reconnaissance préalable de culpabilité)",
+      "dateDecision": "2025-06-19",
+      "peine": "4 000 euros d'amende avec sursis, 2 ans d'interdiction d'exercer une activité commerciale et une activité professionnelle liée à l'infraction, 1 an d'inéligibilité",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": false,
+      "sources": [
+        {
+          "titre": "Mauvaise gestion : condamnée à Quimper, Joëlle Guerpillon est inéligible (Le Télégramme)",
+          "url": "https://www.letelegramme.fr/morbihan/lorient-56100/mauvaise-gestion-condamnee-a-quimper-joelle-guerpillon-est-ineligible-6839148.php",
+          "citation": "Joëlle Guerpillon (Bergeron), ancienne figure du RN en Bretagne, a été condamnée par le tribunal de Quimper, ce jeudi 19 juin, pour la mauvaise gestion de l'Hôtel des ventes Bretagne Atlantique.",
+          "date": "2025-06-19"
+        },
+        {
+          "titre": "Mauvaise gestion : condamnée à Quimper, Joëlle Guerpillon est inéligible (Le Télégramme)",
+          "url": "https://www.letelegramme.fr/morbihan/lorient-56100/mauvaise-gestion-condamnee-a-quimper-joelle-guerpillon-est-ineligible-6839148.php",
+          "citation": "Elle est donc condamnée à une peine d'amende délictuelle de 4 000 euros avec sursis, à deux ans d'interdiction d'exercer une activité commerciale",
+          "date": "2025-06-19"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2014-06",
+        "detail": "Membre du FN pendant une quarantaine d'années, élue députée européenne sur la liste FN (Ouest) en mai 2014 ; quitte le parti quelques semaines plus tard après avoir refusé de céder son siège, puis rejoint le Parti chrétien-démocrate en 2019.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "\"Démission\" du FN : Joëlle Bergeron règle ses comptes (TF1 Info)",
+            "url": "https://www.tf1info.fr/politique/demission-du-fn-joelle-bergeron-regle-ses-comptes-1548657.html",
+            "citation": "Joëlle Bergeron, qui a été élue eurodéputé FN dimanche pour la circonscription Ouest, estime qu'on l'a poussé à démissionner au profit du numéro 3 de la liste, Gilles Penelle"
+          },
+          {
+            "titre": "Joëlle Bergeron (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Jo%C3%ABlle_Bergeron",
+            "citation": "Peu après l'élection, priée de démissionner par la direction de son parti, elle quitte le Front national, dont elle était membre depuis une quarantaine d'années."
+          }
+        ]
+      }
+    }
+  ],
+  "perimetre": {
+    "personnesVerifiees": 75,
+    "methode": "Export Poligraph (poligraph.fr/api/export/affaires) filtré sur FN/RN, page parti de casier-politique.fr, extraits de l'API Wikipédia FR pour une soixantaine d'anciens dirigeants et parlementaires FN/RN (sections affaires judiciaires et départ du parti), tableau des peines du Monde (7 juillet 2026) et liste franceinfo (31 mars 2025) pour l'affaire des assistants FN, puis vérification au cas par cas dans la presse (BFM, La Marseillaise, Le Monde, L'Obs, 20 Minutes, Ouest-France, ICI, franceinfo, RCI, France-Antilles, Guadeloupe La 1ère, Outremers360 (pour les cas exclus), Le Télégramme, Paris-Normandie, France 3). Requêtes de type « <nom> condamné », « <nom> appel/pourvoi », « <nom> quitte le RN ».",
+    "limites": "Périmètre du brief : anciens membres ayant été dirigeants nationaux (président, secrétaire général, trésorier, vice-président, porte-parole) ou parlementaires/ministres depuis 2012, qui ne sont plus au RN au 18 octobre 2026. L'appartenance actuelle de plusieurs condamnés de l'affaire des assistants (Gollnisch, Saint-Just, Arnautu, D. Bilde, Troszczynski) n'a pu être établie que par Wikipédia, qui les présente comme membres : ils sont exclus et signalés en alertes. Hervé Juvin (non adhérent selon le RN) et Maxette Pirbakas (adhésion non établie), élus sur la liste RN, sont exclus et signalés en alertes. Les statuts d'appel ou de pourvoi de plusieurs décisions (Collard, Rivière, Grenon, Bergeron, Ravier/favoritisme) n'ont pas été trouvés : statut « inconnu ». Les anciens élus antérieurs à 2012 qui n'étaient pas dirigeants, ainsi que les élus locaux, sont hors périmètre. Les anciens dirigeants des années 1970-1990 ont été recherchés de façon moins systématique, et les condamnations très anciennes (amnistie, réhabilitation) sont exclues. Les articles du Monde et du Télégramme ont été lus partiellement (paywall)."
+  },
+  "alertes": [
+    "Affaire des assistants FN : Bruno Gollnisch (ancien secrétaire général, délégué général et vice-président du FN) et Wallerand de Saint-Just (trésorier du FN à partir de 2009) ont été condamnés en appel le 7 juillet 2026 (Gollnisch : 3 ans avec sursis, 1 an d'inéligibilité, 25 000 euros ; Saint-Just : 3 ans avec sursis, 1 an d'inéligibilité, 50 000 euros ; pourvois en cours). Ils ne figurent PAS ici : selon Wikipédia, tous deux restent membres du RN (Gollnisch « membre du bureau national » ; Saint-Just « reste membre du bureau national » après le congrès de 2022). Aucune source de départ n'a été trouvée. En tant qu'anciens dirigeants nationaux toujours membres, ils relèvent sans doute de rn.json (catégorie ancien_dirigeant), où ils ne sont pas listés. Saint-Just a aussi été condamné dans l'affaire Jeanne (recel d'abus de biens sociaux, arrêt d'appel du 15 mars 2023) et pour diffamation envers Xavier Niel (19 octobre 2021).",
+    "Affaire des assistants FN, condamnés en première instance le 31 mars 2025 sans appel (donc définitivement) : Marie-Christine Arnautu (vice-présidente du FN 2011-2018, eurodéputée 2014-2019), Dominique Bilde (eurodéputée 2014-2024) et Mylène Troszczynski (eurodéputée 2014-2019). Elles ne sont pas retenues : aucune source ne dit qu'elles ont quitté le RN, et Wikipédia les présente comme membres. Si l'une d'elles a quitté le parti, elle serait dans le périmètre.",
+    "Exclus faute d'adhésion établie au RN (règle appliquée à tous les partis : soutien ou élection sur la liste ≠ adhésion). (1) Hervé Juvin, élu député européen en 2019 sur la liste RN : condamné le 14 octobre 2022 par la cour d'appel de Paris à 10 000 euros d'amende pour violences sur son épouse (juin 2018), condamnation « définitive » selon L'Obs (7 novembre 2022). Le RN le dit « pas adhérent du parti mais un soutien » et Jordan Bardella lui a demandé de quitter les groupes RN. (2) Maxette Pirbakas, élue en 2019 sur la liste RN et ralliée à Éric Zemmour le 1er février 2022 : condamnée par le tribunal correctionnel de Pointe-à-Pitre le 13 septembre 2023 pour abandon de famille (6 mois avec sursis probatoire ; RCI, France-Antilles) et le 27 juin 2024 pour abus de confiance, faux et usage de faux (1 an avec sursis, 8 000 euros, 5 ans d'inéligibilité ; Guadeloupe La 1ère, Outremers360). Wikipédia signale aussi un arrêt d'appel du 4 août 2026 dans le premier dossier et une condamnation pour menace de mort réitérée (9 juin 2021), sans source ouverte. Si l'adhésion au RN de l'un ou de l'autre est confirmée, il ou elle entre dans le périmètre.",
+    "Fernand Le Rachinel (condamné en appel le 7 juillet 2026, pourvoi) : hors périmètre. Il a été eurodéputé de 1994 à 2004, donc avant 2012, et n'a pas exercé l'une des fonctions dirigeantes listées par le brief. Nicolas Crochet et Guillaume L'Huillier ne sont ni parlementaires ni dirigeants nationaux au sens du brief.",
+    "Jean-François Jalkh (vice-président du FN, eurodéputé 2014-2024) : condamné dans l'affaire Jeanne (jugement du 16 juin 2020, confirmé en appel en mars 2023, inéligibilité ramenée à 3 ans selon Wikipédia). Non retenu : Wikipédia l'indique membre du FN/RN « depuis 1974 », et un communiqué du RN de 2026 prend sa défense. Il ne semble donc pas avoir quitté le parti.",
+    "Marie-Christine Boutonnet : divergence sur l'inéligibilité. franceinfo (31 mars 2025) écrit « trois ans d'inéligibilité avec sursis », Le Monde (7 juillet 2026) « 3 ans d'inéligibilité » sans sursis. Divergence aussi sur la date du décès : Wikipédia donne le 6 mars (en-tête) et le 7 mars 2026 (corps de l'article) ; l'avis de décès est publié le 7 mars 2026. Le caractère définitif est déduit de l'absence d'appel (astérisque du Monde ; France 24 : seuls le parti et 12 personnes sur 24 ont fait appel).",
+    "Nicolas Bay : en première instance (31 mars 2025), il avait été condamné à 12 mois de prison dont 6 avec sursis, 8 000 euros d'amende et 3 ans d'inéligibilité avec exécution provisoire (franceinfo). C'est l'arrêt d'appel du 7 juillet 2026 qui est retenu. La Cour de cassation n'a pas statué ; l'audience QPC est prévue le 16 décembre 2026 (voir rn.json).",
+    "Stéphane Ravier (prise illégale d'intérêts) : La Marseillaise (11 février 2026) situe l'arrêt « ce lundi », BFM et La Croix le mardi 10 février 2026. Nous retenons le 10 février. Pour le favoritisme (jugement du 17 février 2026), nous ne savons pas s'il a été fait appel : statut « inconnu ».",
+    "Gilbert Collard : son avocat a annoncé un appel le 19 octobre 2021. Aucune décision d'appel n'a été trouvée : statut « inconnu ». Les propos (mars 2017) datent d'avant son adhésion formelle au FN (juin 2017), quand il était député apparenté FN (Rassemblement bleu Marine).",
+    "Daniel Grenon : la qualification exacte retenue en appel n'est pas citée textuellement. Elle est déduite de la relaxe pour provocation à la discrimination et des deux chefs de poursuite rapportés par L'Humanité. Nous ne savons pas si un pourvoi a été formé. Selon Wikipédia, il a rejoint Debout la France en janvier 2026 : il peut donc aussi relever de dlf.json.",
+    "Joëlle Bergeron : condamnation sur CRPC, peine acceptée. L'homologation est susceptible d'appel, mais aucun appel n'a été trouvé : statut « inconnu » par prudence. Le Télégramme la désigne sous le nom de Joëlle Guerpillon ; Wikipédia confirme « Joëlle Bergeron, dite aussi Joëlle Guerpillon ». Un renvoi sur intérêts civils était prévu en janvier 2026.",
+    "Jérôme Rivière : nous ne savons pas s'il a fait appel du jugement du 2 septembre 2025 : statut « inconnu ».",
+    "Hors périmètre ou exclus : Bruno Mégret (délégué général du FN, fonction absente de la liste du brief ; condamné en 2006, confirmé en appel le 28 novembre 2007 pour complicité de détournement de fonds publics à Vitrolles, faits commis au MNR en 2000-2001 après son départ du FN ; issue du pourvoi non vérifiée). Jean-Marie Le Chevallier (eurodéputé avant 2012, non dirigeant au sens du brief ; condamnations de 2001). Roger Holeindre (condamnation de 1962 liée à l'OAS, couverte par les lois d'amnistie). Pierre Bousquet et Victor Barthélemy (condamnations de la Libération, antérieures au FN, statut d'amnistie non vérifié). Jean-Marie Le Pen, déjà traité dans rn.json.",
+    "Aucune condamnation trouvée dans les sources consultées pour : Marion Maréchal, Florian Philippot, Sophie Montel, Aymeric Chauprade, Bernard Monot, Mireille d'Ornano, Sylvie Goddyn, Jean-Luc Schaffhauser, Christelle Lechevalier, Édouard Ferrand, Carl Lang, Martine Lehideux, Dominique Chaboche, Jean-Claude Martinez, Jean-Pierre Reveau, José Evrard, Jean-Paul Garraud (appartenance non revérifiée) et d'autres. Ce n'est pas une preuve d'absence."
+  ]
+}

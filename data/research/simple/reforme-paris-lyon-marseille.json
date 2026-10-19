@@ -1,0 +1,18 @@
+{
+  "id": "reforme-paris-lyon-marseille",
+  "questionSimple": "Faut-il élire directement le conseil municipal de Paris, Lyon et Marseille, comme dans les autres villes ?",
+  "enBref": "À Paris, Lyon et Marseille, on votait par quartier, et les élus des quartiers choisissaient ensuite le maire. Désormais, on vote deux fois : pour son arrondissement et pour la ville entière. La réforme s'applique depuis 2026.",
+  "pourquoiPour": "Pour ses défenseurs, l'ancien système était opaque : un maire pouvait gagner avec moins de voix que son adversaire. Chaque électeur choisit maintenant plus directement son maire, comme ailleurs en France.",
+  "pourquoiContre": "Pour ses opposants, la réforme a été faite dans la précipitation, juste avant les élections, sans étude sérieuse. Elle peut couper les arrondissements de la mairie centrale.",
+  "ceQuiSestPasse": "Adoptée définitivement le 10 juillet 2025 malgré deux rejets du Sénat, la loi a été validée et appliquée aux municipales de mars 2026.",
+  "lexique": [
+    {
+      "terme": "Prime majoritaire",
+      "definition": "Sièges donnés en bonus à la liste arrivée en tête pour qu'elle ait une majorité."
+    },
+    {
+      "terme": "Lecture définitive",
+      "definition": "Dernier vote de l'Assemblée quand elle et le Sénat restent en désaccord."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "partiId": "renaissance",
+  "personnes": [
+    {
+      "personne": "Olive Karl",
+      "statutMembre": "membre",
+      "depuis": "2022",
+      "detail": "Député des Yvelines (groupe Ensemble pour la République), présenté comme député Renaissance en 2026 ; ancien LR, affilié à Renaissance depuis 2022 ; rattaché financièrement à « Ensemble ! (majorité présidentielle) » ; aucune sanction après sa condamnation de novembre 2024.",
+      "lienAvecCondamnation": null,
+      "reactionParti": "Aucune réaction publique ni sanction de Renaissance trouvée après sa condamnation du 18 novembre 2024 (appel annoncé).",
+      "sources": [
+        {
+          "titre": "Loi sur la fin de vie : qu’ont voté vos députés ?",
+          "url": "https://lagazette-yvelines.fr/2026/03/04/loi-sur-la-fin-de-vie-quont-vote-vos-deputes",
+          "citation": "Un seul parlementaire de notre territoire a voté contre : Karl Olive, député Renaissance de la 12ème circonscription.",
+          "date": "2026-03-04"
+        },
+        {
+          "titre": "Karl Olive — Datan",
+          "url": "https://datan.fr/deputes/yvelines-78/depute_karl-olive",
+          "citation": "Karl Olive est rattaché financièrement au parti politique Ensemble ! (majorité présidentielle) (ESBMP).",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Karl Olive — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Karl_Olive",
+          "citation": "LR (2015-2017 ; 2018-2019) RE (depuis 2022)",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Iacovelli Xavier",
+      "statutMembre": "membre",
+      "depuis": "2019",
+      "detail": "Sénateur des Hauts-de-Seine et président du groupe RDPI (groupe des sénateurs Renaissance) ; ancien PS (2002-2019), membre de LREM/Renaissance depuis 2019.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Liste des sénateurs par groupes politiques — Sénat",
+          "url": "https://www.senat.fr/senateurs/grp.html",
+          "citation": "Groupe Rassemblement des démocrates, progressistes et indépendants Membres : 13 Apparentés : 3 Total : 16 Président : M. Xavier IACOVELLI",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Xavier Iacovelli — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Xavier_Iacovelli",
+          "citation": "PS (2002-2019) LREM/RE (depuis 2019)",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  ],
+  "alertes": [
+    "Karl Olive : rattaché financièrement à « Ensemble ! (majorité présidentielle) » et non à Renaissance ; l'appartenance au parti repose sur la presse locale (« député Renaissance », mars 2026) et Wikipédia (RE depuis 2022).",
+    "Xavier Iacovelli : le rôle de « secrétaire général délégué de Renaissance » (fichier justice) n'a été vu que sur son profil LinkedIn, non retenu comme source ; appartenance établie par Wikipédia et la présidence du groupe RDPI."
+  ]
+}

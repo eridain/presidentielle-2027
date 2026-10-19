@@ -1,0 +1,18 @@
+{
+  "id": "allocations-premier-enfant",
+  "questionSimple": "Faut-il verser les allocations familiales dès le premier enfant, et pas seulement à partir du deuxième ?",
+  "enBref": "Aujourd'hui, les allocations familiales ne sont versées qu'aux familles d'au moins deux enfants. Cette proposition des députés communistes voulait les verser dès le premier enfant. Coût estimé : plus de 3 milliards d'euros par an.",
+  "pourquoiPour": "Ceux qui ont voté pour trouvent injuste que les familles d'un seul enfant, dont beaucoup de mères seules, ne reçoivent rien. Certains y voient aussi un moyen d'encourager les naissances.",
+  "pourquoiContre": "Le gouvernement et ses alliés jugeaient la mesure trop chère et non financée. Selon eux, les familles pauvres la perdraient en partie par une baisse du RSA ou de la prime d'activité.",
+  "ceQuiSestPasse": "Adoptée par les députés le 5 juin 2025 (103 pour, 17 contre), la proposition a été envoyée au Sénat ; elle n'est pas devenue loi.",
+  "lexique": [
+    {
+      "terme": "Allocations familiales",
+      "definition": "Somme versée chaque mois par la CAF aux familles qui ont au moins deux enfants."
+    },
+    {
+      "terme": "Prime d'activité",
+      "definition": "Aide versée aux travailleurs aux revenus modestes pour compléter leur salaire."
+    }
+  ]
+}

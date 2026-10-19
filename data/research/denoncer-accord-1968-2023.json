@@ -1,0 +1,209 @@
+{
+  "id": "denoncer-accord-1968-2023",
+  "titre": "Dénoncer l'accord franco-algérien de 1968 (résolution LR, 2023)",
+  "question": "Faut-il demander au gouvernement de dénoncer l'accord franco-algérien de 1968, qui donne aux Algériens un régime de séjour spécifique en France ?",
+  "ouiSignifie": "pour",
+  "contexte": "L'accord du 27 décembre 1968, modifié en 1985, 1994 et 2001, régit à part l'entrée, le séjour et l'emploi des Algériens en France. Il est plus favorable que le droit commun sur certains points, comme le certificat de résidence de dix ans ou le regroupement familial, et moins favorable sur d'autres, notamment pour les étudiants. Après une étude de l'ancien ambassadeur Xavier Driencourt et une prise de position d'Édouard Philippe (juin 2023), les Républicains ont déposé des résolutions appelant à le dénoncer : au Sénat (Bruno Retailleau, 26 juin 2023) et à l'Assemblée (Michèle Tabarot). Une résolution n'a pas de force contraignante, et seul le gouvernement peut dénoncer un traité. Le gouvernement Borne préférait renégocier l'accord, craignant de geler la coopération migratoire et sécuritaire avec Alger. La résolution a été rejetée le 7 décembre 2023 (114 voix contre 151). Une résolution similaire du RN a été adoptée le 30 octobre 2025.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 7 décembre 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/denonciation_autorite_accord_franco_algerien"
+    },
+    {
+      "titre": "Sénat – proposition de résolution n° 772 (2022-2023) de Bruno Retailleau, exposé des motifs",
+      "url": "https://senat.fr/leg/exposes-des-motifs/ppr22-772-expose.html"
+    },
+    {
+      "titre": "Le Monde – Edouard Philippe remet en cause un accord de 1968 avec l'Algérie (5 juin 2023)",
+      "url": "https://www.lemonde.fr/politique/article/2023/06/05/edouard-philippe-remet-en-cause-un-accord-de-1968-avec-l-algerie-sur-les-questions-migratoires_6176303_823448.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3183",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/denonciation_autorite_accord_franco_algerien",
+  "argumentsPour": [
+    {
+      "auteur": "Michèle Tabarot (Les Républicains, autrice)",
+      "resume": "Adopté il y a cinquante-cinq ans dans un autre contexte économique, l'accord soustrait la première diaspora de France au droit commun du séjour et empêche de maîtriser l'immigration.",
+      "citation": "Comment prétendre retrouver la maîtrise de notre politique migratoire quand la première diaspora de France échappe à nos lois et au droit commun du séjour ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078",
+      "date": "2023-12-07"
+    },
+    {
+      "auteur": "Kévin Pfeffer (Rassemblement national)",
+      "resume": "L'accord ouvre aux Algériens un titre de dix ans plus rapide, un regroupement familial quasi automatique et des titres impossibles à retirer pour trouble à l'ordre public.",
+      "citation": "Le regroupement familial est quasiment automatique, sans que les conditions d’intégration soient préalablement vérifiées.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078",
+      "date": "2023-12-07"
+    },
+    {
+      "auteur": "Stéphanie Kochert (Horizons)",
+      "resume": "Plus de soixante ans après l'indépendance, il faut normaliser les relations avec l'Algérie : aucun autre accord bilatéral n'échappe autant au droit commun.",
+      "citation": "Plus de soixante ans après son indépendance, il est temps de normaliser nos relations avec l’Algérie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078",
+      "date": "2023-12-07"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Olivier Becht (ministre délégué, gouvernement)",
+      "resume": "La dénonciation ne réduirait ni l'immigration légale ni l'immigration irrégulière, et exposerait à des représailles d'Alger sur les réadmissions et la coopération antiterroriste ; mieux vaut renégocier.",
+      "citation": "Le Gouvernement s’oppose à la dénonciation de l’accord franco-algérien du 27 décembre 1968 et défend au contraire la nécessité de l’ajuster",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078",
+      "date": "2023-12-07"
+    },
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "L'accord a été signé pour encadrer l'immigration algérienne ; il n'est favorable que sur certains points et défavorable sur d'autres, comme pour les étudiants.",
+      "citation": "L’accord de 1968 a précisément été signé pour encadrer l’immigration algérienne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078",
+      "date": "2023-12-07"
+    },
+    {
+      "auteur": "Fatiha Keloua Hachi (Socialistes)",
+      "resume": "La résolution stigmatise les Algériens et relève d'un imaginaire postcolonial commun à la droite et à l'extrême droite.",
+      "citation": "Aujourd’hui, c’est au tour de la droite de nous servir cette vieille soupe rance, stigmatisante envers les Algériens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078",
+      "date": "2023-12-07"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3183 du 7 décembre 2023) ; pas d'intervention retrouvée dans ce débat.",
+      "argument": "Aucun argument personnel retrouvé dans ce débat ; il vote avec la droite et le RN pour dénoncer l'accord.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078",
+      "date": "2023-12-07"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3183) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR-NUPES, auquel il appartenait, a voté contre (0-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3183",
+      "date": "2023-12-07"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3183) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI-NUPES, auquel il appartenait, a voté contre (0-39).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3183",
+      "date": "2023-12-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3183) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste-NUPES, auquel elle appartenait, a voté contre (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3183",
+      "date": "2023-12-07"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3183). À titre indicatif, le groupe RN, qu'elle présidait, a voté pour (48-0), et elle a porté en 2025 une résolution du RN réclamant la dénonciation (voir la fiche 2025).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3183",
+      "date": "2023-12-07"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2023 ; pas de déclaration retrouvée en 2023. PROXY : le groupe LFI-NUPES a voté contre (0-39). En 2025, il a condamné la résolution du RN (voir la fiche 2025).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3183",
+      "date": "2023-12-07"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté contre (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3183",
+      "date": "2023-12-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, allié de Place publique, a voté contre (0-10).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3183",
+      "date": "2023-12-07"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Éducation nationale du gouvernement Borne, qui s'est opposé en séance à la dénonciation (Olivier Becht) et préférait renégocier l'accord ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N078",
+      "date": "2023-12-07"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; dans L'Express (5 juin 2023), il prône la remise en cause de l'accord, jugeant son maintien injustifié. Son groupe Horizons a voté la résolution (12-0).",
+      "argument": "L'accord accorde aux Algériens des avantages dont ne bénéficie aucun autre étranger ; le maintenir avec un pays aux relations compliquées n'est plus justifié.",
+      "citation": "le maintien aujourd’hui d’un tel dispositif avec un pays avec lequel nous entretenons des relations compliquées ne me paraît plus justifié",
+      "url": "https://www.lemonde.fr/politique/article/2023/06/05/edouard-philippe-remet-en-cause-un-accord-de-1968-avec-l-algerie-sur-les-questions-migratoires_6176303_823448.html",
+      "date": "2023-06-05"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Sénateur, président du groupe LR : premier signataire au Sénat (26 juin 2023) d'une proposition de résolution appelant à dénoncer l'accord ; texte non examiné, devenu caduc.",
+      "argument": "L'accord a créé pour les Algériens un régime dérogatoire très favorable que plus rien ne justifie ; le dénoncer contribuerait à « arrêter l'immigration de masse ».",
+      "citation": "nous voulons en finir avec cette exception juridique qui facilite l'immigration des ressortissants algériens vers notre pays",
+      "url": "https://senat.fr/leg/exposes-des-motifs/ppr22-772-expose.html",
+      "date": "2023-06-26"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR, auteur de la résolution, a voté pour (50-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3183",
+      "date": "2023-12-07"
+    },
+    "lisnard": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; son programme présidentiel (Nouvelle Énergie, 2026) prévoit de « revenir sur l'accord franco-algérien de 1968 ». Déclaration postérieure au vote, formulée de façon moins précise qu'une dénonciation.",
+      "argument": "Il veut « oser le rapport de force » avec les pays non coopératifs, notamment en revenant sur l'accord de 1968.",
+      "citation": "Revenir sur l’accord franco-algérien de 1968",
+      "url": "https://www.unenouvelleenergie.fr/notre-programme/immigration",
+      "date": "2026-10-18"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration vérifiable retrouvée sur cet accord ; Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3183",
+      "date": "2023-12-07"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur une proposition de résolution (art. 34-1), sans effet juridique : la dénonciation d'un traité relève du seul gouvernement.",
+    "Lisnard : page programme sans date de publication ; la date indiquée est celle de la consultation. « Revenir sur » l'accord peut signifier le renégocier autant que le dénoncer.",
+    "Philippe : Le Monde résume sa position par « remise en cause » ; l'entretien original de L'Express (payant) n'a pas été lu. Il ne dit pas explicitement « dénoncer » dans les extraits cités.",
+    "Attal : position déduite de son appartenance au gouvernement opposé à la résolution.",
+    "Une seconde fiche (denoncer-accord-1968) couvre la résolution du RN adoptée en 2025."
+  ]
+}

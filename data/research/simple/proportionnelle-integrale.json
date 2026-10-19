@@ -1,0 +1,18 @@
+{
+  "id": "proportionnelle-integrale",
+  "questionSimple": "Faut-il élire les députés à la proportionnelle, avec des sièges répartis selon les voix de chaque parti ?",
+  "enBref": "Aujourd'hui, chaque circonscription élit un seul député, celui qui arrive en tête. Avec la proportionnelle, on vote pour des listes et chaque parti a un nombre de députés selon ses voix. La France l'a fait une seule fois, en 1986.",
+  "pourquoiPour": "Pour ses défenseurs, l'Assemblée représenterait mieux les choix des Français. Aujourd'hui, beaucoup d'électeurs n'ont pas voté pour le député qui les représente.",
+  "pourquoiContre": "Pour ses opposants, il serait plus difficile d'avoir une majorité stable pour gouverner. Les députés seraient aussi moins liés à un territoire précis.",
+  "ceQuiSestPasse": "La proposition a été rejetée le 6 mai 2021. Le débat est revenu en 2025, sans réforme adoptée.",
+  "lexique": [
+    {
+      "terme": "Scrutin majoritaire",
+      "definition": "Mode d'élection où le candidat arrivé en tête emporte le siège."
+    },
+    {
+      "terme": "Proportionnelle",
+      "definition": "Mode d'élection où les sièges sont partagés selon le pourcentage de voix."
+    }
+  ]
+}

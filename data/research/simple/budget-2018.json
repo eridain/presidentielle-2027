@@ -1,0 +1,18 @@
+{
+  "id": "budget-2018",
+  "questionSimple": "Faut-il adopter le budget 2018, le premier du quinquennat d'Emmanuel Macron ?",
+  "enBref": "Le budget 2018 applique les promesses d'Emmanuel Macron. L'impôt sur la fortune ne porte plus que sur l'immobilier. Les revenus du capital sont taxés à 30 %. La taxe d'habitation commence à disparaître. Il prévoit aussi des économies, par exemple sur les aides au logement.",
+  "pourquoiPour": "Pour ses défenseurs, ce budget encourage l'investissement et le travail, baisse les impôts des ménages et remet les comptes publics dans les règles européennes.",
+  "pourquoiContre": "Pour ses opposants, c'est un budget pour les riches, qui allège l'impôt sur la fortune et sur le capital. Ce sont les retraités, les locataires et les communes qui paient.",
+  "ceQuiSestPasse": "Le budget a été adopté (356 voix pour, 175 contre).",
+  "lexique": [
+    {
+      "terme": "ISF / IFI",
+      "definition": "L'ISF taxait tout le patrimoine des plus riches ; l'IFI, qui le remplace, ne taxe que l'immobilier."
+    },
+    {
+      "terme": "Flat tax",
+      "definition": "Taux unique de 30 % sur les revenus de l'épargne et des placements (dividendes, intérêts, plus-values)."
+    }
+  ]
+}

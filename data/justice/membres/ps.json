@@ -1,0 +1,132 @@
+{
+  "partiId": "ps",
+  "personnes": [
+    {
+      "personne": "Henri Emmanuelli",
+      "statutMembre": "decede",
+      "depuis": "2017-03-21",
+      "detail": "Mort le 21 mars 2017 à 71 ans ; membre du PS de 1971 jusqu'à son décès, dont il avait été premier secrétaire (1994-1995).",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Henri Emmanuelli, figure du Parti socialiste, est mort",
+          "url": "https://www.france24.com/fr/20170321-deces-henri-emmanuelli-parti-socialiste-gauche-ps-ministre-mitterrand-hamon",
+          "citation": "Figure historique du Parti socialiste français, dont il fut le premier secrétaire, Henri Emmanuelli est décédé à l'âge de 71 ans.",
+          "date": "2017-03-21"
+        },
+        {
+          "titre": "Henri Emmanuelli — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Henri_Emmanuelli",
+          "citation": "Parti politique PS (1971-2017)",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Pierre Mauroy",
+      "statutMembre": "decede",
+      "depuis": "2013-06-07",
+      "detail": "Mort le 7 juin 2013 ; membre de la SFIO puis du PS (1969-2013) jusqu'à son décès.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "MAUROY Pierre — Sénat",
+          "url": "https://www.senat.fr/senateur/mauroy_pierre92037v.html",
+          "citation": "Décédé le 7 juin 2013",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Pierre Mauroy — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Pierre_Mauroy",
+          "citation": "SFIO (1946-1969) PS (1969-2013)",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Harlem Désir",
+      "statutMembre": "retire",
+      "depuis": "2017-07",
+      "detail": "A quitté la vie politique française en juillet 2017 pour devenir représentant de l'OSCE pour la liberté des médias (2017-2020), puis a rejoint l'ONG International Rescue Committee en 2021 ; aucun départ formel du PS trouvé (Wikipédia : PS depuis 1994).",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Harlem Désir — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Harlem_D%C3%A9sir",
+          "citation": "Il est le représentant de l'Organisation pour la sécurité et la coopération en Europe (OSCE) pour la liberté des médias entre 2017 et 2020.",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Harlem Désir — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Harlem_D%C3%A9sir",
+          "citation": "GE (1992-1994) PS (depuis 1994)",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Harlem Désir joins the International Rescue Committee as Senior Vice President, Europe",
+          "url": "https://www.rescue.org/press-release/harlem-desir-joins-international-rescue-committee-senior-vice-president-europe",
+          "citation": "The International Rescue Committee is delighted to welcome Harlem Désir as its new Senior Vice President, Europe.",
+          "date": "2021-07-26"
+        }
+      ]
+    },
+    {
+      "personne": "Jean-Christophe Cambadélis",
+      "statutMembre": "membre",
+      "depuis": null,
+      "detail": "Ancien premier secrétaire (2014-2017), sans mandat depuis 2017, président du club Nouvelle Société et toujours commentateur de la vie du PS (proche de François Hollande) ; aucun départ ni exclusion du PS trouvé, mais adhésion actuelle non confirmée par une source récente.",
+      "lienAvecCondamnation": null,
+      "reactionParti": "Aucune réaction publique ni sanction du PS trouvée après ses condamnations de septembre 2024 et mai 2025 (frais de mandat).",
+      "sources": [
+        {
+          "titre": "Jean-Christophe Cambadélis — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Jean-Christophe_Cambad%C3%A9lis",
+          "citation": "OCI (1971-1981) PCI (1981-1986) PS (depuis 1986)",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "François Hollande, le pari du retour : peut-il redevenir président, 10 ans après ?",
+          "url": "https://www.publicsenat.fr/actualites/politique/francois-hollande-le-pari-du-retour-peut-il-redevenir-president-10-ans-apres",
+          "citation": "Jean-Christophe Cambadélis, ancien premier secrétaire du Parti socialiste et proche de l’ancien chef de l’État",
+          "date": "2026-08-27"
+        },
+        {
+          "titre": "L’ex-chef du PS, Jean-Christophe Cambadélis, condamné en appel pour détournement de frais de mandat",
+          "url": "https://www.ouest-france.fr/politique/parti-socialiste/lex-chef-du-ps-jean-christophe-cambadelis-condamne-en-appel-pour-detournement-de-frais-de-mandat-d35bf5aa-3afe-11f0-b71a-e87c40f434be",
+          "citation": "Jean-Christophe Cambadélis, chef du Parti socialiste de 2014 à 2017, a été condamné en appel à huit mois de prison avec sursis",
+          "date": "2025-05-20"
+        }
+      ]
+    },
+    {
+      "personne": "François Hollande",
+      "statutMembre": "membre",
+      "depuis": "2017",
+      "detail": "Député de la Corrèze siégeant au groupe Socialistes et apparentés, rattaché financièrement au PS ; membre du PS depuis 1979, avec une interruption de 2012 à 2017 (mandat présidentiel) selon Wikipédia.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "François Hollande — Datan",
+          "url": "https://datan.fr/deputes/correze-19/depute_francois-hollande",
+          "citation": "François Hollande est rattaché financièrement au parti politique Parti socialiste (PS).",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "François Hollande — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Fran%C3%A7ois_Hollande",
+          "citation": "PS (1979-2012 ; depuis 2017)",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  ],
+  "alertes": [
+    "Jean-Christophe Cambadélis : aucune source de départ ou d'exclusion du PS trouvée, mais aucune source récente n'atteste explicitement son adhésion (Wikipédia : PS depuis 1986 ; préside le club Nouvelle Société). Statut « membre » à confirmer.",
+    "Harlem Désir : retiré de la vie politique depuis 2017 (OSCE puis ONG IRC) ; Wikipédia indique PS « depuis 1994 », sans source récente sur une adhésion à jour. Statut « retire » retenu.",
+    "François Hollande : le rattachement financier (Datan) n'équivaut pas strictement à une adhésion ; Wikipédia indique PS depuis 2017 après une interruption pendant son mandat présidentiel."
+  ]
+}

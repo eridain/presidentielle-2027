@@ -1,0 +1,217 @@
+{
+  "id": "abrogation-vaccin-soignants",
+  "titre": "Abroger l'obligation vaccinale Covid des soignants",
+  "question": "Faut-il abroger l'obligation vaccinale contre le Covid-19 des soignants et réintégrer les soignants suspendus ?",
+  "ouiSignifie": "pour",
+  "contexte": "Depuis la loi du 5 août 2021 relative à la gestion de la crise sanitaire, les soignants, les étudiants en santé et les personnels au contact de personnes fragiles (aides à domicile, pompiers, ambulanciers…) devaient être vaccinés contre le Covid-19, sous peine d'être suspendus sans salaire. La proposition de loi de Jean-Victor Castor et Davy Rimane (GDR, élus de Guyane), inscrite dans la journée réservée de leur groupe, abroge cette obligation et permet aux agents publics réintégrés de garder leurs droits à l'avancement. Elle a été adoptée en première lecture le 4 mai 2023 (157 pour, 137 contre), contre l'avis du gouvernement, qui voulait garder la possibilité de rétablir l'obligation. Après un avis de la Haute Autorité de santé du 30 mars 2023, le gouvernement avait annoncé une réintégration par décret : le décret du 13 mai 2023 a suspendu l'obligation, sans l'abroger, et permis la réintégration des personnels à partir du 15 mai. Le texte n'a pas été examiné par le Sénat.",
+  "contexteSources": [
+    {
+      "titre": "vie-publique.fr – Proposition de loi portant abrogation de l'obligation vaccinale contre le Covid-19 des soignants",
+      "url": "https://www.vie-publique.fr/loi/289297-abrogation-obligation-vaccin-contre-covid-19-soignants-proposition-loi"
+    },
+    {
+      "titre": "Légifrance – décret n°2023-368 du 13 mai 2023",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000047542116"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 4 mai 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°1462",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/abrogation_obligation_vaccincovid",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-Victor Castor (Gauche démocrate et républicaine, rapporteur)",
+      "resume": "Hors de l'urgence sanitaire, c'est au Parlement, pas à un décret, de décider ; les soignants suspendus ont été durement sanctionnés.",
+      "citation": "Aujourd’hui, il n’y a plus d’état d’urgence.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Sandrine Rousseau (Écologiste – NUPES)",
+      "resume": "Après l'avis de la HAS, il faut passer de l'obligation à l'incitation et à des protocoles de protection.",
+      "citation": "Le rapport de la HAS ouvre la voie à la matérialisation de ce devoir par l’acceptation de protocoles et de mesures de protection particulières, par l’incitation à la vaccination, mais pas par l’obligation vaccinale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Frédéric Falcon (Rassemblement national)",
+      "resume": "Une simple suspension par décret laisse le gouvernement libre de rétablir l'obligation ; seule l'abrogation définitive protège les soignants.",
+      "citation": "La proposition de loi visant à réintégrer les personnels suspendus en abrogeant définitivement l’obligation vaccinale contre la covid-19, va dans le bon sens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Josiane Corneloup (Les Républicains)",
+      "resume": "Par cohérence avec ses positions, le groupe LR vote l'abrogation de la loi du 5 août 2021.",
+      "citation": "Cohérent avec les positions qu’il a toujours défendues dans ce domaine, le groupe Les Républicains votera ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222",
+      "date": "2023-05-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "François Braun (ministre de la Santé, gouvernement)",
+      "resume": "Abroger supprimerait tout outil pour rétablir l'obligation en cas de nouvelle crise ; la réintégration ne réglera pas le manque de soignants.",
+      "citation": "On supprimerait le principe même d’une possible obligation vaccinale si les circonstances l’exigent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Jean-François Rousset (Renaissance)",
+      "resume": "La réintégration doit passer par décret, pour pouvoir réagir en cas de rebond épidémique ; Renaissance vote contre.",
+      "citation": "Pour ce faire, nous choisissons de privilégier la voie réglementaire, car il faut tenir compte des risques de rebond.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222",
+      "date": "2023-05-04"
+    },
+    {
+      "auteur": "Frédéric Valletoux (Horizons)",
+      "resume": "Plus de 99 % des professionnels se sont vaccinés ; la fin de l'obligation ne réglera pas les pénuries de personnel.",
+      "citation": "la fin de l’obligation vaccinale n’a pas d’impact majeur sur les pénuries de professionnels auxquels les établissements de santé, publics comme privés, sont confrontés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222",
+      "date": "2023-05-04"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis juin 2022 ; pas de déclaration verbatim retrouvée (franceinfo rapporte que la fin de l'obligation vaccinale des soignants figurait dans ses promesses de campagne de 2022). PROXY : le groupe LFI-NUPES a voté pour (52 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://franceinfo.fr/politique/parlement-francais/assemblee-nationale/assemblee-nationale-on-vous-resume-le-piege-tendu-par-le-rn-a-lfi-sur-la-reintegration-des-soignants-non-vaccines_5529654.html",
+      "date": "2023-05-04"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1462) ; intervenu en séance.",
+      "argument": "Défenseur de la vaccination, il veut que les soignants suspendus soient réintégrés tout de suite et que le Parlement décide de toute obligation vaccinale.",
+      "citation": "Je demande simplement que les personnels radiés de manière brutale puissent être réintégrés dès aujourd’hui alors que des soignants porteurs du covid-19 travaillent actuellement dans nos hôpitaux !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222",
+      "date": "2023-05-04"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1462) ; intervenu en séance.",
+      "argument": "Il dénonce un glissement d'une mesure sanitaire vers une mesure autoritaire, maintenue deux ans sans contrôle démocratique.",
+      "citation": "Il est évident, j’y insiste, que nous avons eu, pendant ces deux années, un glissement du sanitaire vers l’autoritaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222",
+      "date": "2023-05-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté pour (9 pour, 2 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462",
+      "date": "2023-05-04"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe Écologiste-NUPES a voté pour (9 pour, 2 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462",
+      "date": "2023-05-04"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (15 pour, 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462",
+      "date": "2023-05-04"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics du gouvernement Borne, opposé au texte (le ministre de la Santé a appelé à ne pas le voter) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222",
+      "date": "2023-05-04"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, président d'Horizons, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté contre (0 pour, 11 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462",
+      "date": "2023-05-04"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; le texte n'a pas été examiné au Sénat, aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (11 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462",
+      "date": "2023-05-04"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté pour (11 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462",
+      "date": "2023-05-04"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté pour (11 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462",
+      "date": "2023-05-04"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration personnelle retrouvée. Son groupe RN, qui avait déposé sa propre proposition de réintégration, a voté pour (44 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462",
+      "date": "2023-05-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée. Pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1462",
+      "date": "2023-05-04"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1462) ; intervenu en séance.",
+      "argument": "Il juge la suspension absurde : elle a désorganisé un système de santé déjà à bout, en écartant des soignants non vaccinés mais négatifs.",
+      "citation": "L’incohérence suprême aura été de faire travailler des agents vaccinés, mais positifs, plutôt que des soignants non vaccinés négatifs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N222",
+      "date": "2023-05-04"
+    }
+  },
+  "alertes": [
+    "Portée limitée : au moment du vote, le gouvernement avait déjà annoncé la réintégration par décret. Le vrai désaccord portait sur l'abrogation par la loi plutôt qu'une suspension par décret, réversible.",
+    "Le texte adopté n'a jamais été examiné par le Sénat et n'est pas devenu loi ; l'obligation a seulement été suspendue par le décret du 13 mai 2023.",
+    "Dupont-Aignan a aussi défendu en séance des traitements (ivermectine, hydroxychloroquine) dont l'efficacité contre le Covid-19 n'a pas été démontrée ; ses arguments ne sont pas repris comme faits.",
+    "Attal : position déduite de son appartenance au gouvernement Borne, opposé au texte.",
+    "Mélenchon : pas de déclaration verbatim retrouvée ; la mention d'une promesse de campagne vient de franceinfo.",
+    "Batho et Le Pen n'ont pas pris part au vote : positions « inconnu »."
+  ]
+}

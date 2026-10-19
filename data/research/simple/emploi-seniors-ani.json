@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il créer un CDI spécial pour embaucher les chômeurs de plus de 60 ans, issu d'un accord syndicats-patronat ?",
+  "enBref": "La loi crée un CDI pour les chômeurs d'au moins 60 ans. L'employeur peut mettre fin au contrat quand le salarié a droit à une retraite complète. Les grandes entreprises doivent aussi négocier sur l'emploi des salariés âgés.",
+  "pourquoiPour": "Pour ses défenseurs, les chômeurs âgés ont beaucoup de mal à retrouver un emploi. Le texte reprend fidèlement un accord signé par le patronat et quatre syndicats sur cinq.",
+  "pourquoiContre": "Pour ses opposants, les négociations ne sont pas obligatoires et le patronat garde le dernier mot. Ils réclament d'abord l'abandon de la retraite à 64 ans.",
+  "ceQuiSestPasse": "Adoptée définitivement le 15 octobre 2025, la loi a été promulguée le 24 octobre 2025 ; le CDI senior est testé pendant cinq ans.",
+  "lexique": [
+    {
+      "terme": "Accord national interprofessionnel",
+      "definition": "Accord signé par les syndicats et le patronat pour tous les secteurs."
+    },
+    {
+      "terme": "Retraite à taux plein",
+      "definition": "Pension sans décote, obtenue à l'âge ou avec la durée de cotisation requis."
+    }
+  ],
+  "id": "emploi-seniors-ani"
+}

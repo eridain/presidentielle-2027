@@ -1,0 +1,18 @@
+{
+  "id": "ratios-soignants",
+  "questionSimple": "Faut-il fixer un nombre minimum de soignants pour s'occuper des patients à l'hôpital ?",
+  "enBref": "Cette loi de 2025 oblige à fixer, service par service, un nombre minimum de soignants par lit. Une autorité de santé indépendante doit proposer ces chiffres, puis le gouvernement les fixe. Ils doivent s'appliquer en 2027.",
+  "pourquoiPour": "Ceux qui ont voté pour veulent protéger les patients et soulager des soignants épuisés. Ils espèrent rendre ces métiers plus attirants.",
+  "pourquoiContre": "Ceux qui se sont abstenus ou ont voté contre craignent qu'avec la pénurie de soignants, ces minimums obligent à fermer des lits. Ils préfèrent d'abord former et mieux payer.",
+  "ceQuiSestPasse": "Loi adoptée définitivement le 23 janvier 2025 (138 pour, 3 contre, 70 abstentions), promulguée le 29 janvier 2025.",
+  "lexique": [
+    {
+      "terme": "Ratio de soignants",
+      "definition": "Nombre minimum de soignants pour un nombre donné de patients ou de lits."
+    },
+    {
+      "terme": "Haute Autorité de santé",
+      "definition": "Organisme public indépendant qui donne des avis sur la qualité des soins."
+    }
+  ]
+}

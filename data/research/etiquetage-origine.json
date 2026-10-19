@@ -1,0 +1,212 @@
+{
+  "id": "etiquetage-origine",
+  "titre": "Étiquetage obligatoire de l'origine des aliments",
+  "question": "Faut-il rendre obligatoire l'affichage de l'origine des denrées alimentaires ?",
+  "ouiSignifie": "pour",
+  "contexte": "Inscrite par le Rassemblement national dans sa journée réservée (niche parlementaire) et rapportée par Hélène Laporte, la proposition de loi rendait systématique l'indication du pays d'origine sur les denrées alimentaires. En commission, un article ajouté par Julien Dive (DR) imposait aussi de signaler les produits issus de pratiques (pesticides, médicaments vétérinaires, aliments pour animaux) interdites dans l'Union européenne. Le gouvernement et la plupart des groupes ont objecté que l'étiquetage de l'origine relève du règlement européen « Inco », qui harmonise ces règles, rendant une obligation nationale inapplicable. Le 30 octobre 2025, l'Assemblée a rejeté l'ensemble du texte en première lecture (149 pour, 174 contre, 8 abstentions).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 30 octobre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N022"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_systematique_information_consommateur_origine_denrees_alimentaires_moyen_etiquetage_17e"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3273",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/rendre_systematique_information_consommateur_origine_denrees_alimentaires_moyen_etiquetage_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Hélène Laporte (Rassemblement national, rapporteure)",
+      "resume": "Le consommateur doit pouvoir choisir en connaissance de cause ; le texte vise à forcer la révision du règlement européen Inco.",
+      "citation": "il s’agit de rendre systématique l’information du consommateur sur l’origine des denrées alimentaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N022",
+      "date": "2025-10-30"
+    },
+    {
+      "auteur": "Pierre-Henri Carbonnel (UDR)",
+      "resume": "Le texte rend obligatoire ce que les consommateurs réclament et que beaucoup de producteurs pratiquent déjà.",
+      "citation": "elle rend simplement obligatoire ce que les consommateurs réclament déjà et que beaucoup de producteurs appliquent volontairement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N022",
+      "date": "2025-10-30"
+    },
+    {
+      "auteur": "Julien Dive (Droite républicaine)",
+      "resume": "Le texte, contraire au droit européen en l'état, permet un signal ; son ajout impose d'informer sur les produits ne respectant pas les standards imposés aux agriculteurs français.",
+      "citation": "Lorsque le mode de production d’une denrée alimentaire ne respecte pas les règles qui s’appliquent aux producteurs français, il faut à tout le moins que les consommateurs en soient informés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N022",
+      "date": "2025-10-30"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Luc Fugit (Ensemble pour la République)",
+      "resume": "Le règlement Inco harmonise intégralement l'étiquetage ; une obligation nationale serait invalidée à la première contestation, c'est un texte d'affichage.",
+      "citation": "Parce que le règlement européen Inco harmonise intégralement l’information du consommateur sur l’origine des denrées alimentaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N022",
+      "date": "2025-10-30"
+    },
+    {
+      "auteur": "Mélanie Thomin (Socialistes)",
+      "resume": "La mesure est contraire au droit européen ; le combat doit porter sur les traités de libre-échange et les mesures miroirs.",
+      "citation": "En tout cas, introduire une mention nationale est contraire au droit européen, et cette mesure serait immédiatement bloquée par l’Union européenne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N022",
+      "date": "2025-10-30"
+    },
+    {
+      "auteur": "Frédéric Maillot (Gauche démocrate et républicaine)",
+      "resume": "Le texte s'affranchit du cadre européen et exposerait la France à un recours en manquement devant la Cour de justice de l'UE.",
+      "citation": "il exposerait la France à un recours en manquement devant la Cour de justice de l’Union européenne (CJUE)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N022",
+      "date": "2025-10-30"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Thierry Benoit (Horizons & indépendants)",
+      "resume": "L'article 1er se heurte au droit européen, mais le renforcement des sanctions contre les pratiques trompeuses est jugé utile.",
+      "citation": "S’agissant de l’article 2, je suis plutôt favorable au renforcement des sanctions pour celles et ceux des industriels qui ont des pratiques trompeuses pour les consommateurs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N022",
+      "date": "2025-10-30"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NFP a voté contre (0-48).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR a voté contre (0-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3273) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste et social a voté contre (0-26).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social a voté contre (0-26).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3273) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste et social a voté contre (0-26).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0-46).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°3273 du 30 octobre 2025), président du groupe EPR ; pas d'intervention personnelle, argument = position du groupe (Jean-Luc Fugit).",
+      "argument": "Le groupe juge le texte contraire au règlement européen Inco, donc inapplicable, et le qualifie de texte d'affichage.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N022",
+      "date": "2025-10-30"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons & indépendants s'est majoritairement abstenu (0-2-4).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président des Républicains, sorti du gouvernement en octobre 2025 ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (16-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (16-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de Nouvelle Énergie ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (16-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°3273), présidente du groupe RN, auteur du texte ; intervenue dans le débat.",
+      "argument": "Elle présente l'étiquetage de l'origine comme une condition du patriotisme économique et un signal adressé à l'Union européenne.",
+      "citation": "Or le patriotisme économique n’est possible que si les consommateurs participent à cette politique, et ils ne peuvent y participer que s’ils peuvent détecter quels produits sont français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N022",
+      "date": "2025-10-30"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée. PROXY faible : le groupe UDR (allié du RN) a voté pour (12-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée ; aucun proxy de groupe pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3273",
+      "date": "2025-10-30"
+    }
+  },
+  "alertes": [
+    "Ruffin, Batho : n'ont pas pris part au vote ; position inconnu (indication du vote de leur groupe à titre indicatif seulement).",
+    "Un vote « contre » ne signifie pas forcément une opposition à l'étiquetage de l'origine : la plupart des opposants invoquent l'incompatibilité avec le droit européen (règlement Inco) et renvoient à sa révision.",
+    "Retailleau : le texte, rejeté en première lecture, n'a pas été transmis au Sénat ; aucun vote personnel possible, proxy de groupe uniquement.",
+    "Zemmour : proxy UDR très indirect (Reconquête n'a pas de groupe)."
+  ]
+}

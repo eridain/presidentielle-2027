@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il réduire la durée du chômage indemnisé après une rupture conventionnelle, comme l'ont décidé syndicats et patronat ?",
+  "enBref": "Un salarié qui quitte son emploi d'un commun accord avec son employeur touche le chômage moins longtemps. Avant 55 ans, c'est 15 mois au lieu de 18. Après 55 ans, c'est 20 mois et demi, avec une prolongation possible.",
+  "pourquoiPour": "Pour ses défenseurs, ces départs coûtent cher à l'assurance chômage et remplacent souvent des démissions. La loi reprend un accord signé par les syndicats et le patronat.",
+  "pourquoiContre": "Pour ses opposants, beaucoup de ces départs sont en réalité imposés par l'employeur. La réforme punit les salariés et crée une inégalité entre chômeurs.",
+  "ceQuiSestPasse": "Rejetée une première fois par l'Assemblée, la loi a été adoptée le 2 juin 2026 et promulguée le 11 juin 2026.",
+  "lexique": [
+    {
+      "terme": "Rupture conventionnelle",
+      "definition": "Fin du contrat de travail décidée d'un commun accord, avec indemnité et droit au chômage."
+    },
+    {
+      "terme": "Partenaires sociaux",
+      "definition": "Syndicats de salariés et organisations patronales qui négocient ensemble."
+    }
+  ],
+  "id": "ruptures-conventionnelles-2026"
+}

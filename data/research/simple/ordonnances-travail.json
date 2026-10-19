@@ -1,0 +1,22 @@
+{
+  "id": "ordonnances-travail",
+  "questionSimple": "Faut-il valider la réforme du travail de 2017, qui encadre les indemnités de licenciement abusif et renforce les accords d'entreprise ?",
+  "enBref": "En 2017, le gouvernement a réformé le Code du travail par ordonnances ; ce vote les confirme dans la loi. En cas de licenciement abusif, le juge doit suivre une grille obligatoire d'indemnités, avec un plafond. Les trois instances qui représentaient les salariés fusionnent en une seule (le CSE), et chaque entreprise peut négocier davantage ses propres règles.",
+  "pourquoiPour": "Pour ses défenseurs, le droit du travail freinait l'embauche, surtout dans les petites entreprises. Décider davantage par accord dans chaque entreprise donne de la souplesse et rapproche les règles du terrain.",
+  "pourquoiContre": "Pour ses opposants, la réforme facilite les licenciements abusifs et limite ce que le juge peut accorder au salarié. Laisser chaque entreprise adapter les règles affaiblit les salariés face à l'employeur.",
+  "ceQuiSestPasse": "Adoptée (463 voix contre 74 à l'Assemblée), la loi a été jugée en partie conforme par le Conseil constitutionnel, puis promulguée le 29 mars 2018.",
+  "lexique": [
+    {
+      "terme": "Ordonnance",
+      "definition": "Texte pris par le gouvernement à la place du Parlement, avec son autorisation, puis confirmé par un vote."
+    },
+    {
+      "terme": "Licenciement abusif",
+      "definition": "Licenciement sans cause réelle et sérieuse, jugé injustifié par le tribunal."
+    },
+    {
+      "terme": "CSE",
+      "definition": "Comité social et économique : instance unique qui représente désormais les salariés dans l'entreprise."
+    }
+  ]
+}

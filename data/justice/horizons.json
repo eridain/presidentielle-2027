@@ -1,0 +1,222 @@
+{
+ "partiId": "horizons",
+ "nom": "Horizons",
+ "sigle": "HOR",
+ "predecesseurs": [],
+ "fondation": "2021",
+ "direction": [
+  {
+   "nom": "Édouard Philippe",
+   "fonction": "Président",
+   "url": "https://horizonsleparti.fr/organisation/"
+  },
+  {
+   "nom": "Christelle Morançais",
+   "fonction": "Vice-présidente, présidente de la Commission nationale d'investiture",
+   "url": "https://horizonsleparti.fr/organisation/"
+  },
+  {
+   "nom": "Arnaud Robinet",
+   "fonction": "Vice-président, président de l'Assemblée des maires",
+   "url": "https://horizonsleparti.fr/organisation/"
+  },
+  {
+   "nom": "Christian Estrosi",
+   "fonction": "Président du Conseil national",
+   "url": "https://horizonsleparti.fr/organisation/"
+  },
+  {
+   "nom": "Christophe Béchu",
+   "fonction": "Secrétaire général",
+   "url": "https://horizonsleparti.fr/organisation/"
+  },
+  {
+   "nom": "Bérangère Abba",
+   "fonction": "Secrétaire générale déléguée à l'animation territoriale",
+   "url": "https://horizonsleparti.fr/organisation/"
+  },
+  {
+   "nom": "Pierre-Yves Bournazel",
+   "fonction": "Secrétaire général délégué à la structuration du parti et aux élections",
+   "url": "https://horizonsleparti.fr/organisation/"
+  },
+  {
+   "nom": "Gilles Boyer",
+   "fonction": "Délégué général",
+   "url": "https://horizonsleparti.fr/organisation/"
+  },
+  {
+   "nom": "François Goulard",
+   "fonction": "Trésorier national",
+   "url": "https://horizonsleparti.fr/organisation/"
+  },
+  {
+   "nom": "Arnaud Péricard",
+   "fonction": "Porte-parole",
+   "url": "https://horizonsleparti.fr/organisation/"
+  },
+  {
+   "nom": "Naïma Moutchou",
+   "fonction": "Porte-parole (selon Wikipédia)",
+   "url": "https://fr.wikipedia.org/wiki/Horizons_(parti_politique)"
+  }
+ ],
+ "presentation": "Horizons a été fondé le 9 octobre 2021 au Havre par l'ancien Premier ministre Édouard Philippe, qui le préside. Wikipédia le présente comme « un parti politique français de centre droit », membre de la coalition Ensemble et affilié à Renew Europe au Parlement européen. Selon la même source, il compte 34 députés (groupe Horizons & Indépendants), 17 sénateurs et 2 députés européens.",
+ "presentationSources": [
+  {
+   "titre": "Horizons (parti politique) — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Horizons_(parti_politique)"
+  },
+  {
+   "titre": "Organisation — Horizons",
+   "url": "https://horizonsleparti.fr/organisation/"
+  }
+ ],
+ "effectifs": {
+  "deputes": 34,
+  "senateurs": 17,
+  "eurodeputes": 2,
+  "source": "https://fr.wikipedia.org/wiki/Horizons_(parti_politique)"
+ },
+ "candidats": [
+  {
+   "id": "philippe",
+   "bio": "Édouard Philippe, né le 28 novembre 1970 à Rouen, membre du Conseil d'État, est maire du Havre depuis 2010 (hors période à Matignon) et a été député de Seine-Maritime en 2012. Il a été Premier ministre du 15 mai 2017 au 3 juillet 2020. En 2021, il a fondé Horizons, qu'il préside.",
+   "sources": [
+    {
+     "titre": "Édouard Philippe — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/%C3%89douard_Philippe"
+    }
+   ]
+  }
+ ],
+ "condamnations": [
+  {
+   "personne": "Estrosi Christian",
+   "categorie": "dirigeant",
+   "roleActuel": "président du Conseil national d'Horizons ; président délégué du conseil régional de Provence-Alpes-Côte d'Azur",
+   "infraction": "diffamation publique envers un particulier",
+   "faits": "En 2017, alors maire de Nice, il a écrit sur Twitter que l'universitaire Pierre-Alain Mannoni, relaxé pour avoir aidé des migrantes, « favorisait le travail des passeurs ».",
+   "juridiction": "cour d'appel d'Aix-en-Provence (sur renvoi après cassation), confirmant le jugement du tribunal correctionnel de Nice",
+   "dateDecision": "2024-03-20",
+   "peine": "3 000 € d'amende et 5 000 € de dommages et intérêts (peine de première instance confirmée)",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Une condamnation de Christian Estrosi pour diffamation confirmée en appel — BFM Côte d'Azur (AFP)",
+     "url": "https://www.bfmtv.com/cote-d-azur/une-condamnation-de-christian-estrosi-pour-diffamation-confirmee-en-appel_AD-202403200871.html",
+     "citation": "La cour d'appel d'Aix-en-Provence a confirmé ce mercredi 20 mars une condamnation du maire de Nice Christian Estrosi (Horizons) pour diffamation envers un universitaire engagé dans une association d'aide aux migrants",
+     "date": "2024-03-20"
+    },
+    {
+     "titre": "Christian Estrosi voit sa condamnation confirmée pour diffamation… — France 3 Provence-Alpes-Côte d'Azur (AFP)",
+     "url": "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/christian-estrosi-condamne-pour-diffamation-envers-un-universitaire-engage-dans-une-association-d-aide-aux-migrants-2943066.html",
+     "citation": "En première instance, en juin 2021, le tribunal correctionnel de Nice avait condamné le maire à 3.000 euros d'amende et 5.000 euros de dommages et intérêts.",
+     "date": "2024-03-21"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Estrosi Christian",
+   "categorie": "dirigeant",
+   "roleActuel": "président du Conseil national d'Horizons ; président délégué du conseil régional de Provence-Alpes-Côte d'Azur",
+   "infraction": "injure publique (faute civile retenue après relaxe pénale)",
+   "faits": "En mars 2017, en séance plénière du conseil régional de PACA qu'il présidait, il a qualifié l'élu FN Philippe Vardon d'« héritier de Goebbels ».",
+   "juridiction": "cour d'appel d'Aix-en-Provence",
+   "dateDecision": "2019-10-29",
+   "peine": "2 000 € de dommages et intérêts",
+   "statut": "definitive",
+   "nature": "civile",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Christian Estrosi condamné pour injure publique contre Philippe Vardon — L'Express (AFP)",
+     "url": "https://www.lexpress.fr/societe/justice/christian-estrosi-condamne-pour-injure-publique-contre-philippe-vardon_2105249.html",
+     "citation": "Le maire de Nice Christian Estrosi (LR) a été condamné mardi par la Cour d'appel d'Aix-en-Provence à verser 2000 euros de dommages et intérêts au candidat du Rassemblement national à la mairie, Philippe Vardon",
+     "date": "2019-10-29"
+    },
+    {
+     "titre": "La Cour de cassation confirme l'absence de diffamation de Christian Estrosi envers Philippe Vardon — BFMTV (AFP)",
+     "url": "https://www.bfmtv.com/police-justice/proces/la-cour-de-cassation-confirme-l-absence-de-diffamation-de-christian-estrosi-envers-philippe-vardon_AD-202110190494.html",
+     "citation": "le tribunal avait retenu la faute civile concernant l'injure et la cour d'appel avait cependant condamné Christian Estrosi à 2.000 euros de dommages et intérêts.",
+     "date": "2021-10-19"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Firmin Le Bodo Agnès",
+   "categorie": "depute",
+   "roleActuel": "députée de la Seine-Maritime (groupe HOR)",
+   "infraction": "perception, par un professionnel de santé, d'avantages non autorisés procurés par une entreprise commercialisant des produits de santé",
+   "faits": "Pharmacienne au Havre, elle a reçu de 2015 à 2020 des cadeaux des laboratoires Urgo, d'une valeur d'environ 20 000 €.",
+   "juridiction": "tribunal judiciaire du Havre (comparution sur reconnaissance préalable de culpabilité)",
+   "dateDecision": "2024-10-14",
+   "peine": "8 000 € d'amende, dont 4 000 € avec sursis ; confiscation des cadeaux reçus",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Cadeaux des laboratoires Urgo : l'ex-ministre de la santé Agnès Firmin Le Bodo condamnée — France 3 Normandie (AFP)",
+     "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/havre/cadeaux-des-laboratoires-urgo-l-ex-ministre-de-la-sante-agnes-firmin-le-bodo-condamnee-3047125.html",
+     "citation": "L'ex-ministre Agnès Firmin Le Bodo a été condamnée, lundi 14 octobre 2024, devant le tribunal judiciaire du Havre à une amende de 8 000 euros dont 4 000 en sursis, pour des cadeaux illicites reçus en tant que pharmacienne",
+     "date": "2024-10-17"
+    },
+    {
+     "titre": "La députée du Havre, Agnès Firmin Le Bodo, condamnée pour avoir reçu des cadeaux de la part de laboratoires — ICI Normandie",
+     "url": "https://www.ici.fr/infos/faits-divers-justice/la-depute-du-havre-agnes-firmin-le-bodo-condamnee-pour-avoir-recu-des-cadeaux-de-la-part-de-laboratoires-4701342",
+     "citation": "Il aura fallu un an d'enquête pour condamner Agnès Firmin Le Bodo à 8.000 euros d'amende, la moitié ferme, la moitié avec sursis. Les cadeaux reçus sont aussi confisqués.",
+     "date": "2024-10-17"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Marcangeli Laurent",
+   "categorie": "depute",
+   "roleActuel": "député de la Corse-du-Sud (groupe HOR)",
+   "infraction": "infractions de l'article L. 131-14 du code des juridictions financières : astreintes infligées à la commune pour inexécution d'une décision de justice ; absence ou retard d'ordonnancement de sommes dues en exécution de décisions juridictionnelles",
+   "faits": "Alors maire d'Ajaccio, entre le 2 mai 2017 et la fin de ses fonctions en 2022, la commune a été condamnée à 186 600 € d'astreintes et six condamnations pécuniaires n'ont pas été mandatées dans le délai légal.",
+   "juridiction": "Cour des comptes, chambre du contentieux (arrêt n° S-2023-0667)",
+   "dateDecision": "2023-05-31",
+   "peine": "10 000 € d'amende",
+   "statut": "inconnu",
+   "nature": "financiere",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "L'ancien maire d'Ajaccio Laurent Marcangeli condamné par la Cour des comptes — Corse Net Infos (AFP)",
+     "url": "https://www.corsenetinfos.corsica/L-ancien-maire-d-Ajaccio-Laurent-Marcangeli-condamne-par-la-Cour-des-comptes_a71529.html",
+     "citation": "L'ancien maire d'Ajaccio Laurent Marcangeli, aujourd'hui député (Horizons) de Corse-du-Sud, a été condamné par la Cour des comptes à une amende de 10.000 euros pour la non-exécution de décisions de justice par la commune",
+     "date": "2023-05-31"
+    },
+    {
+     "titre": "Commune d'Ajaccio (Corse-du-Sud) — Cour des comptes",
+     "url": "https://www.ccomptes.fr/fr/publications/commune-dajaccio-corse-du-sud-6",
+     "citation": "Arrêt n° S-2023-0667. Le Procureur général avait renvoyé devant la Cour l’ancien maire de la commune d’Ajaccio en fonction de 2014 à 2022 au titre des deux infractions prévues à l’article L. 131-14 du code des juridictions financières",
+     "date": "2023-05-31"
+    }
+   ],
+   "famille": "probite"
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 75,
+  "methode": "Périmètre : le candidat (Philippe) ; le parti comme personne morale ; la direction nationale (page « Organisation » de horizonsleparti.fr et infobox Wikipédia) ; les 35 députés du groupe HOR (fichier deputes_par_groupe_2026.json, apparentés compris) ; les sénateurs Horizons (groupes Les Indépendants et UC, d'après la liste 2025 et l'open data du Sénat ODSEN_GENERAL.csv) ; les eurodéputés Gilles Boyer et Nathalie Loiseau. Pour chaque nom, recherche web « \"<nom>\" condamné tribunal », filtrage des résultats où le nom figure près de « condamn » ou « coupable », puis vérification. Requêtes thématiques : « député Horizons condamné », « député Horizons condamné 2026 », « sénateur Horizons condamné », « Horizons parti condamné tribunal », « Horizons parti Philippe condamné amende justice », « Édouard Philippe condamné justice », « Édouard Philippe condamné diffamation tribunal ». Vérification des catégories Wikipédia « condamné » via l'API, pour l'ensemble des noms. Sources ouvertes : BFMTV, France 3 Régions, L'Express, ICI (France Bleu), Corse Net Infos, Cour des comptes, Wikipédia, pourquijevote.com/casiers, poligraph.fr (extraits de résultats).",
+  "limites": "Aucune condamnation d'Édouard Philippe ni du parti Horizons comme personne morale n'a été trouvée dans les sources consultées ; cela ne veut pas dire qu'il n'en existe aucune. La recherche repose sur un moteur de recherche web : les jugements peu relayés peuvent manquer. Les sites casier-politique.fr et poligraph.fr n'ont pu être consultés qu'à travers des extraits (pages en JavaScript). Les membres des groupes HOR, Les Indépendants et UC ne sont pas tous adhérents d'Horizons, et l'appartenance au parti n'a pas été vérifiée nom par nom. L'issue des voies de recours postérieures aux articles cités n'a pas pu être établie (statuts « inconnu »)."
+ },
+ "alertes": [
+  "Christian Estrosi / Mannoni : son avocat a annoncé un pourvoi en cassation après l'arrêt du 20 mars 2024 ; l'issue de ce pourvoi n'a pas été trouvée, d'où le statut inconnu. Les sources divergent sur la date du jugement de première instance : 23 avril 2021 selon Wikipédia, juin 2021 selon BFMTV et France 3 (AFP). Cette condamnation résulte d'une cassation (juin 2023) de la relaxe prononcée en appel le 18 janvier 2022.",
+  "Christian Estrosi / Vardon : décision civile rendue en droit de la presse (injure). Le statut « definitive » est déduit du rejet, par la Cour de cassation le 19 octobre 2021, du pourvoi de Philippe Vardon contre l'arrêt d'appel (BFMTV) ; aucun pourvoi de M. Estrosi n'est mentionné. Le volet pénal (diffamation et injure) s'est conclu par une relaxe.",
+  "Exclue (annulée) : Christian Estrosi, plainte du Syndicat national de l'environnement. Il avait été condamné pour diffamation en première instance (28 septembre 2015) puis en appel (19 mai 2016), mais la Cour de cassation a annulé cette condamnation le 10 mai 2017 (selon Wikipédia, non revérifié dans une source secondaire).",
+  "Agnès Firmin Le Bodo : le procureur précisait que la condamnation n'était pas définitive (délai d'appel de 10 jours). Aucun appel n'a été rapporté dans les sources consultées ; statut inconnu.",
+  "Laurent Marcangeli : la Cour des comptes (chambre du contentieux) a remplacé la Cour de discipline budgétaire et financière en 2023. Ses arrêts peuvent faire l'objet d'un appel devant la Cour d'appel financière dans un délai de deux mois (mention Légifrance) ; aucun appel n'a été trouvé ; statut inconnu.",
+  "Exclu (instruction en cours, sans jugement) : Sylvain Berrios, député HOR du Val-de-Marne, visé par une instruction pour harcèlement moral (poligraph.fr).",
+  "Exclu (information judiciaire, sans jugement) : Édouard Philippe. Selon BFMTV (19 mai 2026), un juge d'instruction a été désigné pour des soupçons de détournement de fonds publics, favoritisme, prise illégale d'intérêts et concussion au Havre.",
+  "Hors périmètre : Joël Guerriau, ancien sénateur de Loire-Atlantique, exclu d'Horizons en 2023. pourquijevote.com signale une condamnation en 2026 (affaire Sandrine Josso, en appel). Il ne figure plus parmi les sénateurs en exercice dans l'open data du Sénat."
+ ]
+}

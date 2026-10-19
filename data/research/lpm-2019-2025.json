@@ -1,0 +1,218 @@
+{
+  "id": "lpm-2019-2025",
+  "titre": "Loi de programmation militaire 2019-2025",
+  "question": "Faut-il porter le budget des armées à 295 milliards d'euros sur 2019-2025 (loi de programmation militaire) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi de programmation militaire fixe les moyens des armées pour 2019-2025 : un effort financier de 295 milliards d'euros sur sept ans pour « réparer et moderniser » les armées, avec l'objectif de consacrer 2 % du PIB à la défense d'ici 2025, la modernisation des équipements et des mesures pour les militaires et leurs familles. L'Assemblée l'a adopté en première lecture le 27 mars 2018 (389 pour, 37 contre, 137 abstentions). Après accord en commission mixte paritaire, le Sénat l'a adopté définitivement le 28 juin 2018 et la loi a été promulguée le 13 juillet 2018 (loi n° 2018-607).",
+  "contexteSources": [
+    {
+      "titre": "info.gouv.fr – La loi de programmation militaire, qu'est-ce que c'est ?",
+      "url": "https://info.gouv.fr/actualite/la-loi-de-programmation-militaire-quest-ce-que-cest"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif Programmation militaire 2019-2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/programmation_militaire_2019-2025"
+    },
+    {
+      "titre": "Sénat – dossier législatif pjl17-383",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl17-383.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 27 mars 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-27-mars-2018"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/433",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/programmation_militaire_2019-2025",
+  "argumentsPour": [
+    {
+      "auteur": "Olivier Becht (UDI, Agir et indépendants)",
+      "resume": "Après la guerre froide, les budgets de défense ont fortement baissé ; la résurgence des menaces (terrorisme, Crimée, Sahel) justifie de réinvestir dans les armées.",
+      "citation": "Malheureusement, le rêve de paix perpétuelle, caressé au lendemain de la guerre froide, a vécu.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-27-mars-2018",
+      "date": "2018-03-27"
+    },
+    {
+      "auteur": "Philippe Chalumeau (LaREM)",
+      "resume": "La loi fixe l'objectif de 2 % du PIB pour la défense en 2025, finance plus sincèrement les opérations extérieures et améliore la condition des militaires et de leurs familles.",
+      "citation": "cette loi de programmation militaire fixe l’objectif ambitieux de consacrer 2 % de notre PIB à la défense nationale d’ici 2025.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-27-mars-2018",
+      "date": "2018-03-27"
+    },
+    {
+      "auteur": "Fabien Lainé (MoDem)",
+      "resume": "Le texte répond à des menaces plus complexes et imprévisibles, qui obligent à investir dans la défense et à privilégier la coopération.",
+      "citation": "ce projet de loi de programmation militaire est l’expression d’une prise de conscience, celle de menaces qui ont changé, sinon de nature, au moins d’intensité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-27-mars-2018",
+      "date": "2018-03-27"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Alexis Corbière (La France insoumise)",
+      "resume": "La loi prolonge une doctrine jugée obsolète et aligne des moyens sans définir de stratégie nouvelle adaptée à un monde multipolaire.",
+      "citation": "Cette LPM ne fait que proroger les précédentes, ainsi que la doctrine qui les inspire et que nous considérons obsolète.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-27-mars-2018",
+      "date": "2018-03-27"
+    },
+    {
+      "auteur": "André Chassaigne (GDR)",
+      "resume": "L'objectif de 2 % du PIB, fixé dans le cadre de l'OTAN, ne repose pas sur une évaluation des besoins réels des soldats ; le groupe proposait un audit préalable.",
+      "citation": "nous nous opposons fermement à l’obsession des 2 % du PIB dédiés au budget de la défense.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-27-mars-2018",
+      "date": "2018-03-27"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Charles de la Verpillière (Les Républicains)",
+      "resume": "Accord sur les objectifs, mais la trajectoire financière est jugée peu crédible : l'essentiel des hausses est reporté après 2022, sur le quinquennat suivant.",
+      "citation": "ces pouvoirs le sont d’autant plus que la trajectoire financière de votre LPM n’est, en réalité, pas crédible.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-27-mars-2018",
+      "date": "2018-03-27"
+    },
+    {
+      "auteur": "Joaquim Pueyo (Nouvelle Gauche)",
+      "resume": "Volonté jugée positive, mais les plus fortes hausses sont repoussées à 2023-2025 et les incertitudes sur l'exécution ne sont pas levées.",
+      "citation": "Malgré une volonté positive, les incertitudes ne sont pas levées. Pour cette raison, le groupe Nouvelle Gauche ne votera pas contre le texte mais s’abstiendra.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-27-mars-2018",
+      "date": "2018-03-27"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°433) ; argument tiré du compte rendu de sa conférence de presse publié sur son site (texte de présentation, pas ses mots).",
+      "argument": "Dénonce le manque de moyens pour les armées, une hausse reportée en majorité après le quinquennat et plaide pour la sortie de l'OTAN et l'indépendance.",
+      "citation": null,
+      "url": "https://melenchon.fr/2018/02/08/loi-de-programmation-militaire-ne-repond-aux-besoins-armees/",
+      "date": "2018-02-08"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°433) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe GDR (André Chassaigne).",
+      "argument": "Le groupe GDR rejette l'objectif de 2 % du PIB fixé dans le cadre de l'OTAN et réclamait un audit des besoins réels des soldats.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-27-mars-2018",
+      "date": "2018-03-27"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°433) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe FI (Alexis Corbière).",
+      "argument": "Le groupe FI juge que la loi prolonge une doctrine obsolète sans stratégie nouvelle.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-27-mars-2018",
+      "date": "2018-03-27"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire en 2018 ; aucune déclaration retrouvée. Aucun groupe écologiste n'existait alors à l'Assemblée : pas de proxy disponible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/433",
+      "date": "2018-03-27"
+    },
+    "batho": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif abstention (scrutin AN n°433) ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/433",
+      "date": "2018-03-27"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2018 (Place publique fondé fin 2018) ; aucune déclaration retrouvée. PROXY indicatif : le groupe Nouvelle Gauche (socialistes) s'est abstenu (0 pour / 0 contre / 30 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/433",
+      "date": "2018-03-27"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°433), alors député LaREM ; pas d'intervention personnelle retrouvée, argument = explication du groupe LaREM (Philippe Chalumeau).",
+      "argument": "Le groupe LaREM met en avant l'objectif de 2 % du PIB en 2025 et l'attention portée aux militaires et à leurs familles.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-27-mars-2018",
+      "date": "2018-03-27"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a déposé le projet de loi (8 février 2018) et l'a fait adopter ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/programmation_militaire_2019-2025",
+      "date": "2018-03-27"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat, en tant que président du groupe LR, sur le texte de la CMP (scrutin n°174 du 28 juin 2018) ; il avait aussi voté pour en première lecture (scrutin n°105 du 29 mai 2018).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-174.html",
+      "date": "2018-06-28"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; il avait quitté LR en décembre 2017. Aucune déclaration retrouvée ; pas de proxy de groupe pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/433",
+      "date": "2018-03-27"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) s'est abstenu (2 pour / 1 contre / 97 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/433",
+      "date": "2018-03-27"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif abstention (scrutin AN n°433), députée non inscrite (FN) ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/433",
+      "date": "2018-03-27"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2018 (Reconquête fondé en 2021) ; aucune déclaration retrouvée ; pas de proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/433",
+      "date": "2018-03-27"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°433), député non inscrit (Debout la France) ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/433",
+      "date": "2018-03-27"
+    }
+  },
+  "alertes": [
+    "Le scrutin AN n°433 porte sur la première lecture ; la lecture définitive a eu lieu au Sénat (texte de CMP, 28 juin 2018). Le montant de 295 milliards d'euros est celui indiqué par info.gouv.fr ; il couvre 2019-2025, une partie des hausses (2023-2025) étant renvoyée à une actualisation.",
+    "Mélenchon : la page de son site décrit la conférence de presse du 8 février 2018 (texte de présentation, pas une citation de ses propos) : citation laissée à null.",
+    "Roussel, Ruffin, Attal : aucune intervention personnelle retrouvée ; arguments repris des explications de vote de leur groupe.",
+    "Le Pen, Batho, Dupont-Aignan : aucune explication de vote personnelle retrouvée dans le compte rendu ni en recherche rapide.",
+    "Retailleau : vote déduit des listes nominatives du Sénat (groupe LR, 144 pour) ; pas de déclaration personnelle vérifiée.",
+    "Légifrance (loi n° 2018-607) n'a pas pu être ouvert (protection anti-robot) ; la promulgation est attestée par les dossiers législatifs AN et Sénat."
+  ]
+}

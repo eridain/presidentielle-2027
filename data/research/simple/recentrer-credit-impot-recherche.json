@@ -1,0 +1,18 @@
+{
+  "id": "recentrer-credit-impot-recherche",
+  "questionSimple": "Faut-il réserver davantage l'aide fiscale à la recherche aux PME plutôt qu'aux grands groupes ?",
+  "enBref": "Le crédit d'impôt recherche rembourse aux entreprises une partie de leurs dépenses de recherche. Il coûte environ 7 milliards d'euros par an, dont une grande part va aux grands groupes. L'amendement propose de baisser fortement le plafond pour les grandes entreprises.",
+  "pourquoiPour": "Pour ses défenseurs, cette aide est très utile aux PME mais peu aux grands groupes. Certains, comme Sanofi, l'ont touchée tout en supprimant des postes de chercheurs.",
+  "pourquoiContre": "Pour ses opposants, les grands groupes font l'essentiel de la recherche privée en France. Réduire leur aide les pousserait à installer leurs laboratoires à l'étranger.",
+  "ceQuiSestPasse": "L'amendement a été rejeté (102 voix pour, 166 contre).",
+  "lexique": [
+    {
+      "terme": "Crédit d'impôt",
+      "definition": "Somme que l'État déduit de l'impôt dû, ou rembourse, pour encourager une dépense."
+    },
+    {
+      "terme": "R&D",
+      "definition": "Recherche et développement : travaux pour créer de nouveaux produits ou procédés."
+    }
+  ]
+}

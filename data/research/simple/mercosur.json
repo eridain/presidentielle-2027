@@ -1,0 +1,22 @@
+{
+  "id": "mercosur",
+  "questionSimple": "Faut-il soutenir le gouvernement quand il dit non à l'accord commercial UE-Mercosur tel qu'il est négocié ?",
+  "enBref": "L'Union européenne négocie avec le Mercosur un accord pour supprimer des droits de douane. Le gouvernement a demandé aux députés d'approuver son refus de cet accord dans sa forme actuelle, par crainte pour les agriculteurs. Ce vote est symbolique : il n'oblige ni le gouvernement ni l'Europe.",
+  "pourquoiPour": "L'accord mettrait les agriculteurs français, soumis à des normes strictes, en concurrence avec des produits fabriqués selon d'autres règles. Les contrôles sanitaires dans ces pays présentent des failles.",
+  "pourquoiContre": "Les insoumis, eux aussi hostiles à l'accord, refusent une déclaration qui ne s'y oppose qu'« en l'état ». Selon eux, elle ne garantit pas son blocage et le gouvernement n'a pas de stratégie européenne.",
+  "ceQuiSestPasse": "La déclaration a été approuvée (485 voix contre 69), mais l'Europe a conclu les négociations fin 2024 et autorisé la signature en janvier 2026.",
+  "lexique": [
+    {
+      "terme": "Mercosur",
+      "definition": "Union commerciale de pays d'Amérique du Sud, dont le Brésil."
+    },
+    {
+      "terme": "Déclaration du gouvernement",
+      "definition": "Prise de position du gouvernement soumise au vote des députés, sans valeur de loi."
+    },
+    {
+      "terme": "Libre-échange",
+      "definition": "Commerce entre pays avec peu ou pas de droits de douane."
+    }
+  ]
+}

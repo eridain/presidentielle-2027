@@ -1,0 +1,212 @@
+{
+  "id": "loi-3ds",
+  "titre": "Loi 3DS : différenciation, décentralisation, déconcentration (2022)",
+  "question": "Faut-il adopter la loi « 3DS » (différenciation des compétences entre collectivités, décentralisation, transfert de routes nationales) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Présenté en Conseil des ministres le 12 mai 2021 par Jacqueline Gourault, ministre de la cohésion des territoires, le projet de loi « 3DS » est avant tout un texte technique destiné à donner des marges de manœuvre aux élus locaux. Il renforce le pouvoir réglementaire des collectivités et leur capacité d'adapter leur action aux particularités de leur territoire (différenciation), permet aux communes de transférer des compétences « à la carte » à leur intercommunalité, conforte les compétences locales en matière de transports, de routes, de logement social, d'insertion (RSA) et de transition écologique, et comporte des mesures de déconcentration et de simplification. Adopté par le Sénat le 21 juillet 2021, il a été voté en première lecture par l'Assemblée le 4 janvier 2022 (375 pour, 140 contre, 36 abstentions), puis, après accord en commission mixte paritaire le 31 janvier, définitivement par l'Assemblée le 8 février (154 pour, 18 contre, 12 abstentions) et le Sénat le 9 février 2022 ; loi du 21 février 2022.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 21 février 2022 relative à la différenciation, la décentralisation, la déconcentration (3DS)",
+      "url": "https://www.vie-publique.fr/loi/279815-loi-3ds-decentralisation-deconcentration-collectivites-locales"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 4 janvier 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N108"
+    },
+    {
+      "titre": "Assemblée nationale – Scrutin n°4382 (texte de CMP, 8 février 2022)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4382"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/DLR5L15N42412",
+  "argumentsPour": [
+    {
+      "auteur": "Rémy Rebeyrotte (La République en marche)",
+      "resume": "Le texte prolonge la politique de stabilisation de l'organisation territoriale et donne de nouveaux outils aux élus locaux.",
+      "citation": "donner de nouveaux outils aux élus locaux pour rendre leur action plus efficace, pour les sécuriser, pour améliorer leur quotidien et leur faire davantage confiance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N108",
+      "date": "2022-01-04"
+    },
+    {
+      "auteur": "Philippe Vigier (Mouvement démocrate)",
+      "resume": "Le texte s'inscrit dans quarante ans de décentralisation et répare en partie la loi NOTRe, avec des améliorations apportées par le Sénat.",
+      "citation": "Cela fait quarante ans que la décentralisation avance dans ce pays",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N108",
+      "date": "2022-01-04"
+    },
+    {
+      "auteur": "Hervé Saulignac (Socialistes)",
+      "resume": "Sans grand enthousiasme : ce n'est pas le « nouvel acte » promis, mais une boîte à outils utile ; les socialistes le votent.",
+      "citation": "On se contentera donc de cette boîte à outils de fin de mandat : à l'image de nos débats, sans grand enthousiasme, nous voterons en faveur de ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N108",
+      "date": "2022-01-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sébastien Jumel (Gauche démocrate et républicaine)",
+      "resume": "Le texte ne rapproche pas les services publics des citoyens et dessine une France « à la carte » contraire à l'égalité territoriale.",
+      "citation": "Il dessine une France à la carte, plutôt qu'une carte équilibrée de la France.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N108",
+      "date": "2022-01-04"
+    },
+    {
+      "auteur": "Bénédicte Taurine (La France insoumise)",
+      "resume": "La différenciation porte atteinte à l'unité de la République et à l'égalité devant la loi et le service public, et ne donne aucune place aux citoyens.",
+      "citation": "Si ce texte était adopté, des collectivités de même catégorie pourraient avoir des compétences différentes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N108",
+      "date": "2022-01-04"
+    },
+    {
+      "auteur": "Raphaël Schellenberger (Les Républicains)",
+      "resume": "La majorité a supprimé les apports du Sénat et affadi le texte, qui ne changera rien pour les collectivités.",
+      "citation": "Mais s'il a permis de discuter, ce projet de loi ne changera rien. Vous l'avez complètement affadi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N108",
+      "date": "2022-01-04"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Jean-Félix Acquaviva (Libertés et territoires)",
+      "resume": "Des mesures de bon sens mais à la portée très limitée, loin du « nouvel acte de décentralisation » promis ; le groupe s'est majoritairement abstenu.",
+      "citation": "Il ne s'agit absolument pas d'un texte plein et entier de décentralisation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N108",
+      "date": "2022-01-04"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°4252 du 4 janvier 2022) ; argument de son groupe : la différenciation menace l'unité et l'égalité républicaines ; pas d'intervention personnelle.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2022-01-04"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°4252) ; le groupe GDR a dénoncé « une France à la carte » ; pas d'intervention personnelle.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2022-01-04"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°4252) ; pas d'intervention.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2022-01-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée en 2022.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2025-04-07"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°4252) ; pas d'intervention.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2022-01-04"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (28 pour, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2025-04-07"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, auteur du projet de loi ; aucune déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.vie-publique.fr/loi/279815-loi-3ds-decentralisation-deconcentration-collectivites-locales",
+      "date": "2025-04-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Agir ensemble, proche d'Horizons, a voté pour (21 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2025-04-07"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat : a voté pour le texte en première lecture (scrutin Sénat n°161 du 21 juillet 2021) et pour le texte de CMP (scrutin n°97 du 9 février 2022).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2021/scr2021-97.html",
+      "date": "2022-02-09"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. Pas de proxy fiable : les députés LR ont voté contre en première lecture (97 contre) alors que les sénateurs LR ont soutenu le texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2025-04-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de l'Association des maires de France ; aucune déclaration personnelle vérifiée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2025-04-07"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°4252) ; pas d'intervention sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2022-01-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2025-04-07"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°4252) ; pas d'intervention sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4252",
+      "date": "2022-01-04"
+    }
+  },
+  "alertes": [
+    "Le vote de référence (4 janvier 2022) est celui de première lecture ; le texte final, après CMP, a été adopté le 8 février 2022 avec une très faible participation (184 votants) et sans vote des candidats.",
+    "Le vote du 4 janvier 2022 a eu lieu le même jour que le débat sur le passe vaccinal ; le contre des LR à l'Assemblée contraste avec le soutien des sénateurs LR (dont Retailleau), le Sénat ayant largement réécrit le texte.",
+    "Texte très technique et hétéroclite : les votes contre de la gauche visent surtout la « différenciation », ceux de la droite à l'Assemblée la réécriture du texte du Sénat.",
+    "Attal : position du gouvernement dont il était porte-parole, sans déclaration personnelle."
+  ]
+}

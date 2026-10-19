@@ -1,0 +1,220 @@
+{
+  "id": "revision-traites-ue",
+  "titre": "Réforme des traités européens après la Conférence sur l'avenir de l'Europe",
+  "question": "Faut-il soutenir une révision des traités européens issue de la Conférence sur l'avenir de l'Europe (davantage de décisions à la majorité qualifiée) ?",
+  "ouiSignifie": "pour",
+  "contexte": "La Conférence sur l'avenir de l'Europe (2021-2022), associant des panels de citoyens, a formulé des propositions de réforme de l'Union, dont l'extension du vote à la majorité qualifiée au Conseil à la place de l'unanimité. La proposition de résolution européenne, rapportée par Jean-Louis Bourlanges et sans valeur contraignante, prend position sur ses suites : réforme institutionnelle, élargissement graduel de l'Union (Balkans, Ukraine, Moldavie), politique étrangère et ressources propres. Le 22 novembre 2023, le Parlement européen avait adopté ses propositions de révision des traités. L'Assemblée a adopté la résolution le 29 novembre 2023 (72 pour, 46 contre, 5 abstentions), le RN et LFI votant contre et LR s'abstenant.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution européenne",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/suites_conf_avenir_europe"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°3079",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079"
+    },
+    {
+      "titre": "HowTheyVote – propositions du Parlement européen pour modifier les traités (22 novembre 2023)",
+      "url": "https://howtheyvote.eu/votes/160487"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/suites_conf_avenir_europe",
+  "argumentsPour": [
+    {
+      "auteur": "Emmanuel Lacresse (Renaissance)",
+      "resume": "L'unanimité bloque les avancées, notamment en fiscalité ; un grand État comme la France a intérêt à la majorité qualifiée.",
+      "citation": "Ajoutons également qu’un grand État membre, comme la France, a plutôt intérêt au passage à la majorité qualifiée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-mercredi-29-novembre-2023",
+      "date": "2023-11-29"
+    },
+    {
+      "auteur": "Aurélien Taché (Écologiste)",
+      "resume": "Il faut réviser les traités pour renforcer le Parlement européen et sortir de l'unanimité.",
+      "citation": "Révisons les traités européens pour pouvoir enfin donner au Parlement européen la place qu’il mérite et sortir du principe d’unanimité qui nous freine",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/troisieme-seance-du-mardi-28-novembre-2023",
+      "date": "2023-11-28"
+    },
+    {
+      "auteur": "Brigitte Klinkert (Renaissance)",
+      "resume": "Les conclusions de la Conférence appellent à plus d'ambition écologique, de démocratie et à une réforme des institutions.",
+      "citation": "Les conclusions de la Conférence sont claires : plus d’ambition en matière d’écologie, une Europe plus démocratique avec des mécanismes participatifs et une réforme de nos institutions.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/troisieme-seance-du-mardi-28-novembre-2023",
+      "date": "2023-11-28"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Laurence Robert-Dehault (Rassemblement national)",
+      "resume": "Supprimer le droit de veto affaiblirait la souveraineté des États et des peuples.",
+      "citation": "La suppression du droit de veto aurait mécaniquement pour conséquence d’affaiblir la souveraineté des États membres.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-mercredi-29-novembre-2023",
+      "date": "2023-11-29"
+    },
+    {
+      "auteur": "Nicolas Dupont-Aignan (non-inscrit, Debout la France)",
+      "resume": "Le veto permet à la France de défendre ses intérêts ; la majorité qualifiée et l'élargissement renforceraient la Commission, notamment dans les négociations commerciales.",
+      "citation": "Plus vous généralisez le recours à la majorité qualifiée, plus vous élargissez l’Union européenne, plus vous accordez de pouvoir à la Commission.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-mercredi-29-novembre-2023",
+      "date": "2023-11-29"
+    },
+    {
+      "auteur": "Fabien Roussel (Gauche démocrate et républicaine)",
+      "resume": "L'Union libérale porterait atteinte à la souveraineté des nations et aux choix des peuples, comme après le « non » de 2005.",
+      "citation": "C’est pourquoi nous, communistes, remettons en cause l’essence libérale d’une Union européenne qui porte atteinte à la souveraineté des nations, aux choix démocratiques des peuples, à la paix et à la fraternité humaine.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/troisieme-seance-du-mardi-28-novembre-2023",
+      "date": "2023-11-28"
+    },
+    {
+      "auteur": "Hadrien Clouet (La France insoumise)",
+      "resume": "Les traités organisent le dumping fiscal et salarial et bloquent la décision ; LFI rejette la résolution, qui avaliserait aussi un contrôle accru des budgets nationaux.",
+      "citation": "Les traités européens sont un problème pour l’Union européenne et tous les pays qui la constituent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-mercredi-29-novembre-2023",
+      "date": "2023-11-29"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Pierre-Henri Dumont (Les Républicains)",
+      "resume": "LR refuse tout élargissement avant une réforme institutionnelle et veut un passage à la majorité qualifiée au cas par cas, non systématique.",
+      "citation": "Ensuite, concernant le passage de la règle de l’unanimité à la majorité qualifiée, nous demandons que cela ne soit pas systématique, mais au cas par cas selon les sujets.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/troisieme-seance-du-mardi-28-novembre-2023",
+      "date": "2023-11-28"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2022 ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour / 20 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079",
+      "date": "2023-11-29"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3079) ; dans la discussion générale du 28 novembre 2023, il a annoncé le vote contre du groupe GDR.",
+      "argument": "Il dénonce une Union libérale qui affaiblit la souveraineté nationale et a contourné le « non » de 2005.",
+      "citation": "Le groupe GDR-NUPES votera contre la proposition de résolution européenne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/troisieme-seance-du-mardi-28-novembre-2023",
+      "date": "2023-11-28"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3079) ; aucune déclaration retrouvée. Pour information, son groupe LFI a voté contre (20 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079",
+      "date": "2023-11-29"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. Le groupe Écologiste n'a pas pris part au scrutin (aucun votant), mais son orateur (Aurélien Taché) a défendu la sortie de l'unanimité : pas de proxy de vote possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079",
+      "date": "2023-11-29"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3079) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079",
+      "date": "2023-11-29"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "vote_pe",
+      "detail": "Eurodéputé : vote pour les propositions du Parlement européen de révision des traités (22 novembre 2023, A9-0337/2023), qui étendent le vote à la majorité qualifiée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://howtheyvote.eu/votes/160487",
+      "date": "2023-11-22"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Éducation nationale dans le gouvernement Borne, qui a soutenu le texte en séance (Laurence Boone) tout en relevant que de nombreuses réformes sont possibles à traités constants ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/troisieme-seance-du-mardi-28-novembre-2023",
+      "date": "2023-11-28"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (maire du Havre, président d'Horizons) ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (1 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079",
+      "date": "2023-11-29"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; aucun vote ni déclaration retrouvés. PROXY : le groupe LR de l'Assemblée s'est abstenu (0 pour / 0 contre / 5 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079",
+      "date": "2023-11-29"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée s'est abstenu (5 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079",
+      "date": "2023-11-29"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) s'est abstenu (5 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079",
+      "date": "2023-11-29"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3079) ; aucune déclaration retrouvée. Pour information, son groupe RN a voté contre (25 contre) et Jordan Bardella (RN) a voté contre la révision des traités au Parlement européen le 22 novembre 2023.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079",
+      "date": "2023-11-29"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. Pour information, Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3079",
+      "date": "2023-11-29"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3079) ; nombreuses interventions dans le débat des 28 et 29 novembre 2023.",
+      "argument": "Le veto permet à la France de défendre ses intérêts ; généraliser la majorité qualifiée et élargir l'Union renforcerait une Commission jugée sans légitimité.",
+      "citation": "Dans les négociations commerciales notamment, ce serait une totale catastrophe pour nos intérêts agricoles et industriels.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-mercredi-29-novembre-2023",
+      "date": "2023-11-29"
+    }
+  },
+  "alertes": [
+    "Résolution européenne sans valeur contraignante ; elle porte sur l'ensemble des suites de la Conférence (institutions, élargissement, écologie, ressources propres), pas seulement sur la majorité qualifiée.",
+    "Le gouvernement a soutenu le texte mais Laurence Boone a souligné que de nombreuses réformes sont possibles « à traités constants » : la position « pour » d'Attal ne vaut pas soutien explicite à une révision formelle des traités.",
+    "Roussel : position tirée de son discours au nom du GDR le 28 novembre 2023 ; il n'a pas pris part au vote final.",
+    "Faible participation (123 votants) : Ruffin, Batho, Roussel, Attal et Le Pen n'ont pas pris part au vote ; le groupe Écologiste n'a pas voté.",
+    "Glucksmann : vote PE sur les propositions de révision des traités (texte distinct), adopté à 291 voix contre 274."
+  ]
+}

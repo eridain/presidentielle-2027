@@ -1,0 +1,12 @@
+{
+  "id": "taxe-gafa",
+  "questionSimple": "Faut-il taxer de 3 % le chiffre d'affaires que les géants du numérique réalisent en France ?",
+  "enBref": "Les grandes entreprises du numérique paient peu d'impôts en France, car leurs bénéfices sont déclarés ailleurs. La loi crée une taxe de 3 % sur leurs recettes françaises : publicité ciblée, vente de données, plateformes de mise en relation. Elle vise les groupes réalisant au moins 750 millions d'euros dans le numérique.",
+  "pourquoiPour": "Pour ses défenseurs, ces géants sont beaucoup moins imposés que les entreprises classiques. Sans accord européen, la France montre la voie en attendant une règle internationale.",
+  "pourquoiContre": "Pour ses opposants, cette taxe nationale est complexe et juridiquement risquée. Elle frappe aussi des entreprises sans bénéfice et pourrait être répercutée sur les consommateurs.",
+  "ceQuiSestPasse": "Le texte a été adopté par 81 voix contre 7, avec 43 abstentions, puis promulgué en juillet 2019.",
+  "lexique": [
+    {"terme": "GAFA", "definition": "Google, Apple, Facebook, Amazon : surnom des géants américains du numérique."},
+    {"terme": "Chiffre d'affaires", "definition": "Total des ventes d'une entreprise, avant de retirer ses dépenses."}
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "id": "presomption-minorite",
+  "titre": "Présomption de minorité des mineurs isolés",
+  "question": "Faut-il garantir aux jeunes se déclarant mineurs isolés une prise en charge et un hébergement jusqu'à la décision définitive de la justice sur leur âge (présomption de minorité) ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi du groupe Socialistes (Emmanuel Grégoire, Isabelle Santiago) maintient dans l'accueil provisoire d'urgence les jeunes isolés jugés majeurs par l'évaluation départementale tant que la justice ne s'est pas définitivement prononcée sur leur recours (présomption de minorité). Les députés y ont ajouté la scolarisation dès l'arrivée et l'interdiction des tests osseux pour déterminer l'âge. Le gouvernement Lecornu s'y est opposé, évoquant des risques de saturation des dispositifs de mise à l'abri et une incitation aux recours. Rejeté en commission, le texte a été adopté en première lecture le 11 décembre 2025 (144 voix contre 100) et transmis au Sénat, où il n'avait pas été examiné à la date de consultation du dossier.",
+  "contexteSources": [
+    {
+      "titre": "LCP – Mineurs non accompagnés : les députés votent en faveur d'une loi instaurant une « présomption de minorité »",
+      "url": "https://lcp.fr/actualites/mineurs-non-accompagnes-les-deputes-votent-en-faveur-d-une-loi-instaurant-une"
+    },
+    {
+      "titre": "Sénat – dossier législatif ppl25-216",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl25-216.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu, 1re séance du 11 décembre 2025 (discussion générale)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu, 2e séance du 11 décembre 2025 (articles et vote)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_mineurs_isoles_lutter_sans_abrisme_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Emmanuel Grégoire (Socialistes, rapporteur)",
+      "resume": "Pendant des mois de recours, des jeunes jugés majeurs puis souvent reconnus mineurs par la justice se retrouvent à la rue ; il faut les protéger jusqu'à la décision.",
+      "citation": "Pendant l’instruction de leur recours – plusieurs mois, voire un an, avant la décision de première instance –, ces jeunes n’ont d’autre choix que l’errance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090",
+      "date": "2025-12-11"
+    },
+    {
+      "auteur": "Danielle Simonnet (Écologiste et social)",
+      "resume": "Un enfant à la rue reste un enfant, quelle que soit son origine ; la présomption de minorité doit s'appliquer jusqu'à la décision du juge.",
+      "citation": "Ne nous y trompons pas, un enfant à la rue reste un enfant, d’où qu’il vienne, et à sa condition d’enfant sont attachés des droits inaliénables : protection, sécurité, dignité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090",
+      "date": "2025-12-11"
+    },
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "L'ONU a relevé des violations graves des droits des mineurs non accompagnés en France ; ils ne sont pas responsables des difficultés de l'aide sociale à l'enfance.",
+      "citation": "Ce ne sont pas les enfants qui sont responsables de l’état de l’ASE.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090",
+      "date": "2025-12-11"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Charlotte Parmentier-Lecocq (ministre déléguée, gouvernement)",
+      "resume": "Le texte rigidifierait le système, saturerait la mise à l'abri et dénaturerait l'évaluation menée par les départements ; le gouvernement préfère améliorer l'évaluation.",
+      "citation": "Pour ces raisons, le gouvernement émet un avis défavorable à cette proposition de loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090",
+      "date": "2025-12-11"
+    },
+    {
+      "auteur": "Christophe Mongardien (Ensemble pour la République)",
+      "resume": "L'objectif est louable mais la mesure ferait peser une charge trop lourde sur des départements saturés et pourrait créer un appel d'air.",
+      "citation": "nous n’avons pas réussi à nous départir de la conviction que la solution proposée créera plus de problèmes qu’elle n’en résoudra. Nous voterons donc contre la proposition de loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091",
+      "date": "2025-12-11"
+    },
+    {
+      "auteur": "Josiane Corneloup (Droite républicaine)",
+      "resume": "Une présomption automatique pendant tout le recours risque de créer un appel d'air, alors qu'une minorité des demandeurs serait réellement mineure.",
+      "citation": "Une enquête de Départements de France réalisée en 2023 révèle ainsi que seulement 23 % de ceux qui se présentent comme des mineurs non accompagnés sont effectivement mineurs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090",
+      "date": "2025-12-11"
+    },
+    {
+      "auteur": "Loïc Kervran (Horizons & indépendants)",
+      "resume": "Les départements, qui financent l'essentiel de cette politique, sont déjà saturés et ne pourraient plus protéger les vrais mineurs.",
+      "citation": "Le coût global de cette politique atteint près de 2 milliards d’euros par an, financés à 94 % par les départements.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N090",
+      "date": "2025-12-11"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "attal": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°4723) ; aucune intervention personnelle retrouvée : argument = explication de vote de son groupe EPR (Christophe Mongardien).",
+      "argument": "Le groupe EPR juge l'objectif louable mais estime que la mesure surchargerait des départements saturés et créerait plus de problèmes qu'elle n'en résout.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N091",
+      "date": "2025-12-11"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4723) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel il appartient, a voté pour (23-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°4723) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel elle appartient, a voté pour (23-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°4723) ; aucune déclaration retrouvée. À titre indicatif, le groupe RN, qu'elle préside, a voté contre (0-48).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté pour (51-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe GDR (communistes) a voté pour (7-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté pour (23-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, allié de Place publique et auteur du texte, a voté pour (63-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons & indépendants (son parti) a voté contre (0-10).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, texte non examiné au Sénat ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR) a voté contre (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR) a voté contre (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté contre (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée ; Debout la France n'a pas de groupe à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4723",
+      "date": "2025-12-11"
+    }
+  },
+  "alertes": [
+    "Question précisée : la présomption joue jusqu'à la décision définitive de la justice sur le recours du jeune contre l'évaluation départementale (et non sur toute « décision sur l'âge »).",
+    "Le texte voté contient aussi le volet « sans-abrisme », la scolarisation dès l'arrivée et l'interdiction des tests osseux ; la question se concentre sur la présomption de minorité.",
+    "Ruffin, Batho et Le Pen n'ont pas pris part au vote ; aucune déclaration retrouvée.",
+    "Le texte n'a connu qu'une première lecture ; il a été transmis au Sénat le 11 décembre 2025 sans examen constaté sur le dossier du Sénat consulté."
+  ]
+}

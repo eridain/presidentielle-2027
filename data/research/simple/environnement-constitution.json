@@ -1,0 +1,18 @@
+{
+  "id": "environnement-constitution",
+  "questionSimple": "Faut-il écrire dans la Constitution que la France « garantit » la protection de l'environnement ?",
+  "enBref": "Le texte voulait ajouter au tout premier article de la Constitution que la France garantit la protection de l'environnement et de la biodiversité. Il devait ensuite être soumis à un référendum. Le mot « garantit » obligerait davantage l'État, ce qui divisait les parlementaires.",
+  "pourquoiPour": "Ses partisans estiment que le verbe « garantir » donne une vraie force juridique au texte. L'environnement serait placé au sommet de nos règles, comme le demandait la Convention citoyenne pour le climat.",
+  "pourquoiContre": "Ses opposants à droite jugent « garantir » trop flou et craignent que les juges en décident. À gauche, certains trouvent le texte inutile face à la Charte de l'environnement existante.",
+  "ceQuiSestPasse": "L'Assemblée a voté le texte en juin 2021, mais le Sénat a refusé le mot « garantit » et le gouvernement a abandonné la réforme et le référendum.",
+  "lexique": [
+    {
+      "terme": "Révision constitutionnelle",
+      "definition": "Modification de la Constitution, qui doit être votée dans les mêmes termes par les deux chambres."
+    },
+    {
+      "terme": "Charte de l'environnement",
+      "definition": "Texte sur les droits et devoirs liés à l'environnement, qui a déjà valeur constitutionnelle."
+    }
+  ]
+}

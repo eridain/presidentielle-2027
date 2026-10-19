@@ -1,0 +1,137 @@
+{
+ "partiId": "pcf",
+ "nom": "Parti communiste français",
+ "sigle": "PCF",
+ "predecesseurs": [
+  "Section française de l'Internationale communiste (SFIC, 1920-1921)",
+  "Parti communiste – SFIC (PC-SFIC, 1921-1943)"
+ ],
+ "fondation": "1920",
+ "direction": [
+  {
+   "nom": "Fabien Roussel",
+   "fonction": "secrétaire national (réélu au 40e congrès, Lille, juillet 2026)",
+   "url": "https://www.lamarseillaise.fr/accueil/le-nouvel-executif-national-du-pcf-DE20603099"
+  },
+  {
+   "nom": "Christophe Grassullo",
+   "fonction": "trésorier national",
+   "url": "https://www.lamarseillaise.fr/accueil/le-nouvel-executif-national-du-pcf-DE20603099"
+  },
+  {
+   "nom": "Ian Brossat",
+   "fonction": "porte-parolat (exécutif national d'août 2026), sénateur de Paris",
+   "url": "https://www.lamarseillaise.fr/accueil/le-nouvel-executif-national-du-pcf-DE20603099"
+  },
+  {
+   "nom": "Cécile Cukierman",
+   "fonction": "porte-parole (infobox Wikipédia) ; au CEN chargée des élections, institutions et collectivités",
+   "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais"
+  },
+  {
+   "nom": "Cathy Apourceau-Poly",
+   "fonction": "porte-parole (infobox Wikipédia)",
+   "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais"
+  },
+  {
+   "nom": "Léon Deffontaines",
+   "fonction": "porte-parole (infobox Wikipédia) ; au CEN chargé de la communication",
+   "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais"
+  },
+  {
+   "nom": "Barbara Gomes",
+   "fonction": "porte-parole (infobox Wikipédia)",
+   "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais"
+  }
+ ],
+ "presentation": "Le Parti communiste français est issu du congrès de Tours de 1920, où la majorité de la SFIO fonde la Section française de l'Internationale communiste, devenue PCF en 1943. Wikipédia le classe à la « gauche radicale », en s'appuyant sur l'ouvrage de Luke March (Friedrich-Ebert-Stiftung, 2008). En octobre 2026, il compte 8 députés (groupe GDR), une quinzaine de sénateurs membres ou apparentés au sein du groupe CRCE-K et aucun député européen depuis 2019 ; il revendique environ 37 600 adhérents à jour de cotisation en 2026.",
+ "presentationSources": [
+  {
+   "titre": "Parti communiste français — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Parti_communiste_fran%C3%A7ais"
+  },
+  {
+   "titre": "Luke March, Contemporary Far Left Parties in Europe, Friedrich-Ebert-Stiftung, 2008 (cité par Wikipédia, non ouvert)",
+   "url": "https://library.fes.de/pdf-files/id/ipa/05818.pdf"
+  },
+  {
+   "titre": "Sénat — Groupe Communiste Républicain Citoyen et Écologiste – Kanaky",
+   "url": "https://www.senat.fr/senateurs/crc.html"
+  },
+  {
+   "titre": "La Marseillaise — Le nouvel exécutif national du PCF (21/08/2026)",
+   "url": "https://www.lamarseillaise.fr/accueil/le-nouvel-executif-national-du-pcf-DE20603099"
+  }
+ ],
+ "effectifs": {
+  "deputes": 8,
+  "senateurs": 15,
+  "eurodeputes": 0,
+  "source": "https://www.senat.fr/senateurs/crc.html ; open data AN (data/research/deputes_par_groupe_2026.json, groupe GDR) croisé avec Wikipédia pour l'appartenance PCF"
+ },
+ "candidats": [
+  {
+   "id": "roussel",
+   "bio": "Fabien Roussel, né en 1969 à Béthune, est secrétaire national du PCF depuis 2018 et a été député de la 20e circonscription du Nord de 2017 à 2024. Candidat à la présidentielle de 2022 (2,28 %), il est maire de Saint-Amand-les-Eaux depuis janvier 2025 et a été désigné en septembre 2026 candidat du PCF pour 2027.",
+   "sources": [
+    {
+     "titre": "Fabien Roussel — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/Fabien_Roussel"
+    },
+    {
+     "titre": "France 24 — Présidentielle 2027 : Fabien Roussel officialise sa candidature avec le PCF (06/09/2026)",
+     "url": "https://www.france24.com/fr/france/20260906-pr%C3%A9sidentielle-2027-fabien-roussel-officialise-sa-candidature-avec-le-pcf"
+    }
+   ]
+  }
+ ],
+ "condamnations": [
+  {
+   "personne": "Nicolas Sansu",
+   "categorie": "depute",
+   "roleActuel": "député de la 2e circonscription du Cher (groupe GDR)",
+   "infraction": "conduite en état d'ivresse et outrage à personnes dépositaires de l'autorité publique",
+   "faits": "Dans la nuit du 27 au 28 février 2023 à Vierzon, lors d'un contrôle routier, il conduisait en état d'ivresse et a outragé trois policiers.",
+   "juridiction": "tribunal judiciaire de Bourges (comparution sur reconnaissance préalable de culpabilité)",
+   "dateDecision": "2023-05-02",
+   "peine": "2 mois d'emprisonnement avec sursis, suspension du permis de conduire pendant 4 mois, 300 € d'amende ; 500 € de dommages et intérêts à chacun des trois policiers",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Sud Ouest (AFP) — Sécurité routière : deux mois de prison avec sursis pour le député Nicolas Sansu (PCF)",
+     "url": "https://www.sudouest.fr/justice/securite-routiere-deux-mois-de-prison-avec-sursis-pour-le-depute-nicolas-sansu-pcf-15018716.php",
+     "citation": "Le député du Cher Nicolas Sansu (PCF/Nupes) a été condamné mardi à Bourges à deux mois de prison avec sursis pour conduite en état d’ivresse et outrages envers des policiers",
+     "date": "2023-05-03"
+    },
+    {
+     "titre": "franceinfo — Le député communiste Nicolas Sansu condamné à deux mois de prison avec sursis pour conduite en état d'ivresse et outrage à agent",
+     "url": "https://www.franceinfo.fr/faits-divers/le-depute-communiste-nicolas-sansu-condamne-a-deux-mois-de-prison-avec-sursis-pour-conduite-en-etat-d-ivresse-et-outrage-a-agent_5803454.html",
+     "citation": "Le député communiste du Cher, Nicolas Sansu, a été condamné mardi 2 mai à deux mois de prison avec sursis et à une suspension de quatre mois de son permis de conduire",
+     "date": "2023-05-02"
+    }
+   ],
+   "famille": "autres"
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 36,
+  "methode": "Périmètre : candidat (Fabien Roussel) ; parti personne morale (PCF, SFIC/PC-SFIC) ; secrétaires généraux/nationaux depuis 1930 (Maurice Thorez, Waldeck Rochet, Georges Marchais, Robert Hue, Marie-George Buffet, Pierre Laurent) ; direction actuelle (Roussel, trésorier Christophe Grassullo, porte-parole Ian Brossat, Cécile Cukierman, Cathy Apourceau-Poly, Léon Deffontaines, Barbara Gomes) ; 8 députés PCF du groupe GDR (Elsa Faucillon, Jean-Paul Lecoq, Julien Brugerolles, Nicolas Sansu, Soumya Bourouaha, Stéphane Peu, Yannick Monnet, Édouard Bénard) ; 15 sénateurs PCF ou apparentés du groupe CRCE-K (Cathy Apourceau-Poly, Jérémy Bacchi, Pierre Barros [apparenté], Alexandre Basquin, Ian Brossat, Céline Brulin, Cécile Cukierman, Fabien Gay, Michelle Gréaume, Gérard Lahellec, Marianne Margaté, Pierre Ouzoulias, Pascal Savoldelli, Silvana Silvani, Marie-Claude Varaillas) ; vérifiés aussi hors périmètre strict : Jean-Pierre Corbisez (rattaché financièrement au PCF), Évelyne Corbière Naminzo, André Chassaigne (ex-président du groupe GDR, démissionnaire en 2025). Exclus du périmètre (GDR non-PCF) : Davy Rimane, Emmanuel Maurel (GRS), Emmanuel Tjibaou, Frédéric Maillot (PLR), Jean-Victor Castor (MDES), Karine Lebon (PLR), Marcellin Nadeau, Mereana Reid Arbelot, Émeline K/Bidi ; au CRCE-K : Robert Wienie Xowie (Union calédonienne). Eurodéputés : aucun. Méthode : lecture des articles Wikipédia (API) de chaque personne avec recherche des termes condamn*/relax*/mise en examen/diffamation/tribunal ; recherches web « <nom> condamné(e) », « <nom> diffamation », « <nom> tribunal » pour chaque personne ; recherches « PCF condamné », « Parti communiste français condamné pour diffamation », « L'Humanité condamnée diffamation », « Fabien Roussel emploi fictif » ; fiches Controversia (Gay, Roussel, Brossat, Sansu, Peu, Faucillon, Cukierman) ; Maitron et base Sycomore (Thorez, Rochet) ; vérification à la source : Sud Ouest/AFP et franceinfo (Sansu), L'Humanité (Sepur), La Marseillaise (direction), senat.fr (composition CRCE-K).",
+  "limites": "Poligraph (Vercel), pcf.fr (Cloudflare) et l'outil d'extraction web étaient inaccessibles ; vérification par fetch HTTP direct et API Wikipédia. Les condamnations politiques antérieures à 1945 des anciens dirigeants (Thorez, Rochet, Pierre Semard, etc.) n'ont pas été inventoriées de façon exhaustive et leur statut au regard des amnisties/grâces n'a pas pu être établi (voir alertes). Les secrétaires de la SFIC/PC-SFIC avant 1930 (Frossard, Sellier, Treint, Semard) n'ont pas été vérifiés individuellement. L'appartenance partisane des sénateurs ultramarins du CRCE-K n'a pas été confirmée par une source primaire. Aucune base pénale exhaustive n'étant publique, l'absence de résultat signifie « aucune condamnation trouvée dans les sources consultées »."
+ },
+ "alertes": [
+  "Nicolas Sansu — statut : condamnation prononcée en CRPC ; il a déclaré « j'assume la sanction » (Sud Ouest/AFP) et aucun recours n'a été trouvé, mais aucune source ne confirme le caractère définitif ; la fiche Controversia la classe comme non définitive. Statut laissé à « inconnu ».",
+  "Nicolas Sansu — divergence : Sud Ouest/AFP mentionne 300 € d'amende, franceinfo ne la mentionne pas.",
+  "Nicolas Sansu — non retenu : outrages envers deux policiers en mai 2021 ; franceinfo écrit qu'il a été « condamné fin mars [2023] à payer une contribution citoyenne de 300 euros », alors que Sud Ouest/AFP parle d'une « alternative aux poursuites » (pas une condamnation). Divergence signalée ; non comptée.",
+  "Nicolas Sansu — en cours : plainte pour harcèlement déposée fin décembre 2025, enquête du parquet de Bourges ; en janvier 2026 la fédération PCF du Cher lui a demandé de se mettre en retrait (Le Berry républicain, cher.pcf.fr). Aucun jugement — exclu.",
+  "Fabien Roussel — non retenu : enquête préliminaire du Parquet national financier ouverte en mars 2022 pour des soupçons d'emploi fictif comme assistant parlementaire de Jean-Jacques Candelier (2009-2014), audition libre en août 2022 (Le Monde, franceinfo, BFMTV). Aucune poursuite ni jugement trouvés à octobre 2026 — exclu.",
+  "Robert Hue — relaxé le 14 novembre 2001 par le tribunal correctionnel de Paris dans l'affaire du financement du PCF par la Compagnie générale des eaux (Gifco) (Le Parisien, Les Échos, Universalis) — exclu.",
+  "Fabien Gay (directeur de L'Humanité) — non retenus : relaxe de L'Humanité devant le tribunal correctionnel de Versailles dans le procès en diffamation intenté par Sepur ; procédure Murmures de la cité déclarée « nulle » par le tribunal de Moulins (2026) ; mise en examen pour diffamation sur plainte de Tefal (France Inter, 2026), sans jugement — exclus.",
+  "Ian Brossat — jugé pour diffamation le 2 octobre 2018 devant le tribunal de Nanterre sur plainte de Rifaat al-Assad (20 Minutes/AFP, France 24) ; issue non trouvée dans les sources consultées — non retenu.",
+  "Maurice Thorez (secrétaire général 1930-1964) — non retenu : condamné le 28 novembre 1939 par le tribunal militaire d'Amiens à six ans de prison pour désertion, et par contumace le 3 avril 1940 (décret-loi de dissolution) ; gracié individuellement le 6 novembre 1944 (Maitron, Sycomore). Une archive du Monde (1969) évoque une « grâce amnistiante » ; statut juridique exact non établi. Il avait aussi été condamné en 1925 et 1927 pour son action contre la guerre du Maroc (Maitron) ; amnistie non vérifiée.",
+  "Waldeck Rochet (secrétaire général 1964-1972) — non retenu : condamné le 3 avril 1940 par le 3e tribunal militaire de Paris à cinq ans de prison et 4 000 F d'amende avec 43 autres parlementaires communistes, et dans les années 1930 pour outrages (Maitron) ; le décret-loi de 1939 a été abrogé par l'ordonnance du 1er juillet 1943 ; statut au regard des amnisties non établi.",
+  "Parti (personne morale) : la dissolution du PC-SFIC par décret-loi du 26 septembre 1939 est une mesure administrative, pas une condamnation. Aucune condamnation pénale du PCF en tant que personne morale trouvée.",
+  "Direction : l'infobox Wikipédia liste cinq porte-parole (Brossat, Cukierman, Gomes, Apourceau-Poly, Deffontaines) ; la composition de l'exécutif national d'août 2026 (La Marseillaise) ne mentionne le porte-parolat que pour Ian Brossat. Tous ont été vérifiés."
+ ]
+}

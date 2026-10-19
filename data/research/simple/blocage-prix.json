@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il permettre au gouvernement de bloquer les prix des carburants, de l'énergie et de l'alimentation en cas d'urgence sociale ?",
+  "enBref": "Le texte permettait au gouvernement d'interdire les hausses de prix en cas d'« urgence sociale ». Il visait surtout les carburants, l'énergie et les produits du quotidien. La loi permettait déjà ce blocage, mais seulement dans des situations exceptionnelles.",
+  "pourquoiPour": "Pour ses défenseurs, les familles modestes ne pouvaient plus payer l'essence, le chauffage ou les courses. Le marché seul ne fixe pas un prix juste.",
+  "pourquoiContre": "Pour ses opposants, bloquer les prix n'a jamais marché et peut créer des pénuries. L'État avait déjà des outils, comme le bouclier tarifaire sur le gaz.",
+  "ceQuiSestPasse": "L'article a été rejeté le 13 janvier 2022 et la proposition de loi a été entièrement rejetée.",
+  "lexique": [
+    {
+      "terme": "Blocage des prix",
+      "definition": "Décision de l'État d'interdire toute hausse de prix pendant une période."
+    },
+    {
+      "terme": "Bouclier tarifaire",
+      "definition": "Gel ou limitation par l'État de la hausse des prix du gaz et de l'électricité."
+    }
+  ],
+  "id": "blocage-prix"
+}

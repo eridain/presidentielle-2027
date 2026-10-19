@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il adopter les mesures d'urgence de 2018 : heures supplémentaires sans impôt, prime défiscalisée, CSG allégée pour des retraités ?",
+  "enBref": "Après le mouvement des gilets jaunes, le texte supprime l'impôt et les cotisations des salariés sur les heures supplémentaires. Les employeurs peuvent verser une prime jusqu'à 1 000 euros sans impôt ni cotisation. La hausse de la CSG est annulée pour les retraités modestes.",
+  "pourquoiPour": "Pour ses défenseurs, il fallait répondre vite à la colère sociale. Ces mesures donnent tout de suite du pouvoir d'achat aux travailleurs et aux retraités modestes.",
+  "pourquoiContre": "Pour ses opposants de gauche, ce sont des « miettes » qui évitent d'augmenter le SMIC et les salaires. La droite et les socialistes se sont abstenus, jugeant les promesses incomplètes.",
+  "ceQuiSestPasse": "Adoptée par l'Assemblée et le Sénat les 20 et 21 décembre 2018, la loi a été promulguée le 24 décembre 2018.",
+  "lexique": [
+    {
+      "terme": "CSG",
+      "definition": "Contribution sociale généralisée : prélèvement sur les revenus, dont les pensions, qui finance la Sécurité sociale."
+    },
+    {
+      "terme": "Gilets jaunes",
+      "definition": "Mouvement de protestation né fin 2018 contre la hausse des taxes sur les carburants."
+    }
+  ],
+  "id": "mesures-urgence-gilets-jaunes"
+}

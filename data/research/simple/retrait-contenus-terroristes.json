@@ -1,0 +1,18 @@
+{
+  "id": "retrait-contenus-terroristes",
+  "questionSimple": "Faut-il obliger les réseaux sociaux à supprimer en une heure les contenus terroristes signalés par la police ?",
+  "enBref": "Une règle européenne de 2021 oblige les sites et réseaux sociaux à retirer en une heure les contenus terroristes signalés par les autorités. Sinon, ils risquent de très lourdes amendes. Cette loi de 2022 l'applique en France.",
+  "pourquoiPour": "Pour ses partisans, les terroristes utilisent internet pour diffuser leur propagande et recruter. Il faut pouvoir faire disparaître très vite ces contenus.",
+  "pourquoiContre": "Pour ses opposants, la police décide seule, sans juge, de ce qui est terroriste. Une définition floue pourrait servir à censurer des militants ou des œuvres satiriques.",
+  "ceQuiSestPasse": "La loi a été adoptée en juillet 2022, validée par le Conseil constitutionnel et publiée le 16 août 2022.",
+  "lexique": [
+    {
+      "terme": "Hébergeur",
+      "definition": "Entreprise qui stocke et diffuse en ligne des contenus publiés par d'autres, comme un réseau social."
+    },
+    {
+      "terme": "Injonction de retrait",
+      "definition": "Ordre officiel adressé à une plateforme de supprimer un contenu précis."
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "id": "actualisation-lpm-2026",
+  "titre": "Actualisation de la programmation militaire (2026)",
+  "question": "Faut-il augmenter les crédits militaires prévus jusqu'en 2030 (actualisation de la loi de programmation militaire, 2026) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi actualise la loi de programmation militaire 2024-2030 votée en 2023, en invoquant le retour de la guerre de haute intensité en Europe et la multiplication des menaces hybrides, cyber et spatiales. Il prévoit 36 milliards d'euros supplémentaires pour les armées entre 2026 et 2030, ainsi que diverses dispositions intéressant la défense. Après un accord en commission mixte paritaire, le Sénat a adopté le texte le 30 juin 2026 (309 pour, 34 contre) et l'Assemblée le 1er juillet 2026 (375 pour, 113 contre) ; LFI, les Écologistes et GDR ont voté contre. Le Conseil constitutionnel l'a déclaré conforme (décision n° 2026-907 DC) et la loi n° 2026-791 a été promulguée le 16 août 2026.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_actualisation_loi_programmation_militaire_annees_2024_2030_diverses_dispositions_defense"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 1er juillet 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mercredi-01-juillet-2026"
+    },
+    {
+      "titre": "Sénat – scrutin n°323 du 30 juin 2026",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-323.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PJL_actualisation_loi_programmation_militaire_annees_2024_2030_diverses_dispositions_defense",
+  "argumentsPour": [
+    {
+      "auteur": "Catherine Vautrin (ministre des Armées)",
+      "resume": "Le contexte de guerre de haute intensité en Europe impose d'accélérer sans attendre 2027 ; le texte ajoute 36 milliards d'euros entre 2026 et 2030.",
+      "citation": "Ce projet de loi concrétise une accélération financière : 36 milliards d’euros supplémentaires entre 2026 et 2030.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mercredi-01-juillet-2026",
+      "date": "2026-07-01"
+    },
+    {
+      "auteur": "Anna Pic (Socialistes)",
+      "resume": "Malgré des désaccords, le groupe vote le texte parce que les besoins des armées sont réels.",
+      "citation": "nous voterons en faveur de ce texte parce que les besoins sont réels",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mercredi-01-juillet-2026",
+      "date": "2026-07-01"
+    },
+    {
+      "auteur": "Julien Limongi (Rassemblement national)",
+      "resume": "Malgré les insuffisances dénoncées, tout effort supplémentaire pour les armées vaut mieux que l'immobilisme.",
+      "citation": "C’est parce que chaque euro supplémentaire consacré à nos armées est préférable à l’immobilisme que nous voterons cette actualisation, malgré toutes les insuffisances que nous avons dénoncées.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mercredi-01-juillet-2026",
+      "date": "2026-07-01"
+    },
+    {
+      "auteur": "Matthieu Bloch (UDR)",
+      "resume": "La défense relève de l'intérêt supérieur de la nation, au-delà des postures politiques.",
+      "citation": "Parce que la défense relève de l’intérêt supérieur de la nation, parce que nos armées méritent mieux que des postures politiciennes",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mercredi-01-juillet-2026",
+      "date": "2026-07-01"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Damien Girard (Écologiste et social)",
+      "resume": "Le groupe soutient un effort pour les armées, mais défend une sécurité globale (diplomatie, social, climat), un financement par les plus hauts patrimoines et une conception européenne de la défense.",
+      "citation": "La puissance d’une nation se mesure autant à ce qu’elle protège qu’à ce qu’elle est capable de défendre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mercredi-01-juillet-2026",
+      "date": "2026-07-01"
+    },
+    {
+      "auteur": "Édouard Bénard (GDR)",
+      "resume": "La souveraineté ne peut se réduire à une hausse des crédits militaires ; la dépendance aux États-Unis persiste et le droit est adapté à une logique de guerre.",
+      "citation": "La souveraineté ne peut se réduire à une augmentation des crédits militaires ; elle suppose une véritable planification industrielle et technologique ainsi qu’une pleine autonomie diplomatique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mercredi-01-juillet-2026",
+      "date": "2026-07-01"
+    },
+    {
+      "auteur": "Aurélien Saintoul (La France insoumise)",
+      "resume": "LFI refuse la vassalisation et l'idée qu'il faudrait sacrifier les services publics pour assurer la défense du pays.",
+      "citation": "rien ne nous impose de détruire les services publics ou d’en pressurer les agents, civils ou militaires, pour assurer notre capacité à nous défendre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mercredi-01-juillet-2026",
+      "date": "2026-07-01"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 62 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "date": "2026-07-01"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 14 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "date": "2026-07-01"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°7905) ; pas d'intervention personnelle retrouvée, argument = explication du groupe EcoS auquel il est apparenté (Damien Girard).",
+      "argument": "Le groupe EcoS défend une conception globale de la sécurité (diplomatie, social, climat) et un financement par les plus hauts patrimoines.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mercredi-01-juillet-2026",
+      "date": "2026-07-01"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (1 pour / 36 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "date": "2026-07-01"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°7905), alors que son groupe EcoS a voté contre ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "date": "2026-07-01"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (46 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "date": "2026-07-01"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°7905), président du groupe EPR ; argument = position du groupe (François Cormier-Bouligeon).",
+      "argument": "Le groupe EPR vote « avec détermination » l'actualisation de la LPM.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mercredi-01-juillet-2026",
+      "date": "2026-07-01"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (35 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "date": "2026-07-01"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat sur le texte de la CMP (scrutin n°323 du 30 juin 2026).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-323.html",
+      "date": "2026-06-30"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (44 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "date": "2026-07-01"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de Nouvelle Énergie (a quitté LR en 2026) ; aucune déclaration retrouvée. PROXY indicatif : le groupe Droite républicaine a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "date": "2026-07-01"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°7905), présidente du groupe RN ; argument = explication du groupe (Julien Limongi).",
+      "argument": "Le RN vote le texte malgré ses insuffisances, car tout euro de plus pour les armées vaut mieux que l'immobilisme.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mercredi-01-juillet-2026",
+      "date": "2026-07-01"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat, Reconquête sans groupe parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "date": "2026-07-01"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député, aucun groupe parlementaire pour son parti ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7905",
+      "date": "2026-07-01"
+    }
+  },
+  "alertes": [
+    "Le dossier AN indique une décision du Conseil constitutionnel n° 2026-907 DC avec deux dates différentes (6 juillet et 6 août 2026) ; seule la conformité et la promulgation (loi n° 2026-791 du 16 août 2026) sont retenues.",
+    "Les explications des groupes proviennent de la discussion générale du texte de CMP, le 1er juillet 2026.",
+    "Ruffin, Attal, Le Pen : arguments repris de l'orateur de leur groupe. Batho a voté pour contre l'avis majoritaire de son groupe, sans explication retrouvée.",
+    "Lisnard : proxy de groupe peu pertinent en 2026 (il a quitté LR) ; signalé à titre indicatif seulement."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il autoriser l'État à vendre au privé la majorité d'Aéroports de Paris et de la Française des jeux ?",
+  "enBref": "La loi PACTE permet à l'État de céder au privé la majorité des Aéroports de Paris (Roissy, Orly) et de la Française des jeux. L'argent doit financer un fonds pour l'innovation. La loi contient aussi de nombreuses mesures pour les entreprises.",
+  "pourquoiPour": "Pour ses défenseurs, l'État n'a pas besoin de gérer des aéroports ou des jeux d'argent. Vendre ces parts finance l'innovation, et l'État récupère les aéroports au bout de 70 ans.",
+  "pourquoiContre": "Pour ses opposants, de droite comme de gauche, ces entreprises rapportent et sont stratégiques. Comme pour les autoroutes, une vente serait sans retour et priverait l'État de revenus.",
+  "ceQuiSestPasse": "Adoptée le 11 avril 2019 et validée pour l'essentiel par le Conseil constitutionnel, la loi a été promulguée ; le référendum demandé contre la vente d'ADP n'a pas réuni assez de signatures.",
+  "lexique": [
+    {
+      "terme": "Privatisation",
+      "definition": "Vente par l'État de tout ou partie d'une entreprise publique à des acteurs privés."
+    },
+    {
+      "terme": "Référendum d'initiative partagée",
+      "definition": "Référendum demandé par des parlementaires et soutenu par un dixième des électeurs."
+    }
+  ],
+  "id": "privatisation-adp-fdj"
+}

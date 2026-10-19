@@ -1,0 +1,22 @@
+{
+  "id": "anti-squat",
+  "questionSimple": "Faut-il punir plus durement le squat et accélérer les expulsions, y compris des locataires qui ne paient plus leur loyer ?",
+  "enBref": "Squatter le logement de quelqu'un est désormais puni de trois ans de prison et 45 000 euros d'amende, soit trois fois plus qu'avant. Occuper illégalement un logement ou un local professionnel devient aussi un délit. Un locataire qui ne paie plus et reste après un jugement d'expulsion définitif risque une amende, et certains délais de procédure sont raccourcis.",
+  "pourquoiPour": "Le texte protège les petits propriétaires, souvent de la classe moyenne, qui attendaient des mois ou des années pour récupérer leur bien. Il rassure aussi ceux qui hésitent à louer par peur des impayés.",
+  "pourquoiContre": "En pleine crise du logement, le texte accélère les expulsions et touchera surtout des locataires qui n'arrivent plus à payer. Il rompt l'équilibre entre propriétaires et locataires et risque de mettre plus de gens à la rue.",
+  "ceQuiSestPasse": "Adoptée en juin 2023, la loi a été promulguée en juillet 2023 ; le Conseil constitutionnel n'a censuré qu'un article, sur la responsabilité des propriétaires.",
+  "lexique": [
+    {
+      "terme": "Squat",
+      "definition": "Occuper un logement ou un local sans l'accord de son propriétaire."
+    },
+    {
+      "terme": "Jugement d'expulsion définitif",
+      "definition": "Décision de justice qui ne peut plus être contestée et ordonne à l'occupant de partir."
+    },
+    {
+      "terme": "Conseil constitutionnel",
+      "definition": "Institution qui vérifie que les lois respectent la Constitution ; elle peut en annuler des parties."
+    }
+  ]
+}

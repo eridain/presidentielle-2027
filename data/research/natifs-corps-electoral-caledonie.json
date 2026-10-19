@@ -1,0 +1,215 @@
+{
+  "id": "natifs-corps-electoral-caledonie",
+  "titre": "Inscription des natifs sur les listes provinciales de Nouvelle-Calédonie (2026)",
+  "question": "Faut-il inscrire sur les listes électorales provinciales de Nouvelle-Calédonie les natifs de l'archipel qui n'y figurent pas ?",
+  "ouiSignifie": "pour",
+  "contexte": "En Nouvelle-Calédonie, seuls les électeurs inscrits sur une liste spéciale, gelée depuis la révision constitutionnelle de 2007, peuvent voter aux élections du congrès et des assemblées de province ; cette restriction, issue de l'accord de Nouméa, exclut une part croissante des électeurs (près de 19 % en 2023). Après le rejet par les députés, le 2 avril 2026, du projet de loi constitutionnelle issu de l'accord de Bougival, le gouvernement Lecornu a soutenu une proposition de loi organique du sénateur Georges Naturel (LR) inscrivant automatiquement les 10 569 électeurs nés en Nouvelle-Calédonie sur la liste provinciale, avant les élections du 28 juin 2026. Adoptée par le Sénat le 18 mai (304 voix contre 20) puis sans modification par l'Assemblée le 20 mai 2026 (386 voix contre 127), après rejet d'un amendement du gouvernement visant aussi des conjoints (163 pour, 164 contre), elle a été jugée conforme par le Conseil constitutionnel le 28 mai 2026.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi organique du 28 mai 2026 portant régularisation des natifs dans le corps électoral",
+      "url": "https://www.vie-publique.fr/loi/303239-nouvelle-caledonie-natifs-elections-provinciales-loi-28-mai-2026"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2026-905 DC du 28 mai 2026, communiqué",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2026-905-dc-du-28-mai-2026-communique-de-presse"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 20 mai 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238"
+    },
+    {
+      "titre": "Assemblée nationale – Scrutin n°6751 (amendement du gouvernement sur les conjoints)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6751"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52104",
+  "argumentsPour": [
+    {
+      "auteur": "Sébastien Lecornu (Premier ministre, gouvernement)",
+      "resume": "Après l'échec de Bougival, le statu quo n'est viable pour personne ; le texte, fruit du dialogue avec les signataires, permet de tenir les élections provinciales.",
+      "citation": "Le statu quo est un mirage de stabilité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238",
+      "date": "2026-05-20"
+    },
+    {
+      "auteur": "Philippe Gosselin (Droite républicaine, rapporteur)",
+      "resume": "Malgré des délais trop serrés, ce texte est le seul compromis possible avant les élections du 28 juin.",
+      "citation": "il constitue, permettez-moi d'y insister, le seul compromis possible dans les délais qui sont les nôtres.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238",
+      "date": "2026-05-20"
+    },
+    {
+      "auteur": "Agnès Firmin Le Bodo (Horizons & indépendants)",
+      "resume": "Sans remettre en cause le corps électoral restreint, le gel de la liste exclut une part croissante d'électeurs, ce qui crée un risque juridique.",
+      "citation": "La forte hausse de la proportion d'électeurs exclus du scrutin provincial – moins de 7 % en 1999, près de 19 % en 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238",
+      "date": "2026-05-20"
+    },
+    {
+      "auteur": "Nicolas Metzdorf (Ensemble pour la République)",
+      "resume": "Priver de vote local 20 % des Français de Nouvelle-Calédonie est un scandale démocratique ; les trois référendums ont eu lieu.",
+      "citation": "Il y a, sur le territoire de la République, un endroit où 20 % de Français – je dis bien 20 % – sont privés du droit de vote à leurs élections locales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238",
+      "date": "2026-05-20"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Emmanuel Tjibaou (Gauche démocrate et républicaine)",
+      "resume": "Modifier le corps électoral en pleine campagne, sans accord global, met en cause l'équilibre de l'accord de Nouméa et le processus de décolonisation.",
+      "citation": "Voilà comment vous traitez les Calédoniens : vous décidez une fois encore de manière unilatérale, sans l'avis du peuple colonisé.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238",
+      "date": "2026-05-20"
+    },
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "Le passage en force sur le dégel du corps électoral a provoqué les émeutes de 2024 ; il faut respecter l'accord de Nouméa et le droit à l'autodétermination.",
+      "citation": "Tout ça par votre faute, votre volonté d'imposer le dégel du corps électoral sans accord consensuel",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238",
+      "date": "2026-05-20"
+    },
+    {
+      "auteur": "Sabrina Sebaihi (Écologiste et social)",
+      "resume": "Non opposés par principe à l'inscription des natifs, les écologistes refusent de l'imposer sans garanties sur un accord global de décolonisation.",
+      "citation": "Enfin, je tiens à rappeler encore une fois que nous ne sommes pas, comme le FLNKS, contre le principe d'un dégel partiel du corps électoral en lien avec la question des natifs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238",
+      "date": "2026-05-20"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration personnelle retrouvée sur ce texte. PROXY : le groupe LFI-NFP a voté contre (0 pour / 71 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 17 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absent du scrutin n°6753 ; aucune déclaration retrouvée. Son groupe Écologiste et social a voté contre (0 / 31 / 1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration personnelle retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour / 31 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    },
+    "batho": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention sur l'ensemble (scrutin n°6753) et sur l'article 1er ; a voté contre l'amendement du gouvernement étendant le texte aux conjoints (n°6751) ; pas d'intervention retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (47 pour / 3 contre / 2 abst.), en conditionnant son soutien au rejet de l'extension aux conjoints.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°6753), président du groupe EPR ; pas d'intervention personnelle retrouvée dans ce débat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (34 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur LR ; a voté pour l'ensemble de la proposition de loi organique au Sénat (scrutin n°273 du 18 mai 2026), texte déposé par un sénateur de son groupe.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-273.html",
+      "date": "2026-05-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY indicatif : le groupe Droite républicaine a voté pour (40 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°6753) ; intervention en séance ; a aussi voté pour l'amendement du gouvernement sur les conjoints et contre la suppression de l'article 1er.",
+      "argument": "Le droit de vote est une aspiration légitime de tous les Français ; le gel prolongé des listes fragilise la légitimité des institutions calédoniennes ; refuser d'intégrer des natifs qui ont déjà voté aux référendums est incohérent.",
+      "citation": "La refuser me paraît parfaitement incohérent, alors que les 10 500 électeurs nés sur le territoire depuis 1998 ont déjà pu voter lors des trois référendums prévus par l'accord de Nouméa.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N238",
+      "date": "2026-05-20"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/6753",
+      "date": "2026-05-20"
+    }
+  },
+  "alertes": [
+    "Le principe d'intégrer les natifs était peu contesté sur le fond (y compris par une partie des indépendantistes selon les écologistes) ; l'opposition de la gauche (hors PS) portait surtout sur la méthode et l'absence d'accord global de décolonisation.",
+    "L'amendement du gouvernement étendant l'inscription à certains conjoints a été rejeté à une voix près (163-164) : le texte voté ne concerne que les natifs.",
+    "Le texte modifie un équilibre issu de l'accord de Nouméa, sujet très sensible après les émeutes de 2024 ; formulation de la question à manier avec neutralité.",
+    "Batho : abstention sans explication retrouvée."
+  ]
+}

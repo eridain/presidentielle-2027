@@ -1,0 +1,222 @@
+{
+  "id": "bouclier-loyers",
+  "titre": "Prolongation du « bouclier loyers » (2023)",
+  "question": "Faut-il prolonger le plafonnement à 3,5 % de la hausse annuelle des loyers (« bouclier loyers ») ?",
+  "ouiSignifie": "pour",
+  "contexte": "La loi « pouvoir d'achat » du 16 août 2022 avait plafonné à 3,5 % par an la hausse de l'indice de référence des loyers (IRL), qui sert à réviser les loyers d'habitation, et de l'indice des loyers commerciaux (ILC) pour les PME, jusqu'au deuxième trimestre 2023. Cette proposition de loi du député Thomas Cazenave (Renaissance), examinée en urgence, prolonge ces plafonnements jusqu'au premier trimestre 2024 (2,5 % en outre-mer, modulation possible en Corse), alors que l'IRL aurait autrement dépassé 6 %. La gauche réclamait un gel des loyers et jugeait que 3,5 % de hausse s'ajoutant aux 3,5 % de l'année précédente restait trop ; le Sénat, à majorité de droite, a rejeté le texte par une question préalable, dénonçant une méthode précipitée et un coût non compensé pour les bailleurs privés et sociaux. Adoptée par l'Assemblée en première lecture le 31 mai 2023 (259 voix contre 93) puis définitivement, la loi n° 2023-568 a été promulguée le 7 juillet 2023.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/maintenir_provisoirement_plafonnement_indices_locatifs"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 31 mai 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254"
+    },
+    {
+      "titre": "Sénat – Motion de la commission des affaires économiques (question préalable)",
+      "url": "https://www.senat.fr/amendements/2022-2023/667/Amdt_5.html"
+    },
+    {
+      "titre": "Sénat – Scrutin n°295 du 7 juin 2023",
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-295.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1762",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/maintenir_provisoirement_plafonnement_indices_locatifs",
+  "argumentsPour": [
+    {
+      "auteur": "Thomas Cazenave (Renaissance, rapporteur)",
+      "resume": "Le bouclier protège les locataires, TPE et PME, dont les loyers pourraient sinon augmenter de plus de 6 % dès juillet.",
+      "citation": "Un tel bouclier a pour seul objectif de protéger les locataires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254",
+      "date": "2023-05-31"
+    },
+    {
+      "auteur": "Olivier Klein (ministre délégué au logement)",
+      "resume": "Sans plafonnement, l'IRL aurait dépassé 6 % et les loyers du parc social comme privé auraient pu augmenter d'autant.",
+      "citation": "Sans ce plafonnement, l’IRL aurait dépassé 6 % au deuxième trimestre 2023 et les loyers du parc social et du parc privé auraient pu augmenter d’autant.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254",
+      "date": "2023-05-31"
+    },
+    {
+      "auteur": "Nicolas Meizonnet (RN)",
+      "resume": "Pour les ménages comme pour les petites entreprises, le loyer est une dépense incompressible de plus en plus lourde.",
+      "citation": "Pour les ménages comme pour les TPE-PME, le loyer représente une dépense incompressible, de plus en plus difficile à assumer.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254",
+      "date": "2023-05-31"
+    },
+    {
+      "auteur": "Thibault Bazin (LR)",
+      "resume": "Familles et commerçants doivent être protégés face à l'inflation persistante, même si le texte risque de freiner les travaux des bailleurs.",
+      "citation": "Face à une inflation persistante, nous partageons l’idée que les familles et les commerçants doivent être protégés et accompagnés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254",
+      "date": "2023-05-31"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Stéphane Peu (GDR-NUPES)",
+      "resume": "Le plafond est en réalité un plancher : après 3,5 % l'an dernier, les locataires subiront une nouvelle hausse, soit 7 % au total.",
+      "citation": "Autrement dit, les locataires ont déjà subi une hausse de 3,5 % et vont, avec votre dispositif, en subir une nouvelle du même montant, ce qui fait que la hausse totale atteindra 7 %.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254",
+      "date": "2023-05-31"
+    },
+    {
+      "auteur": "François Piquemal (LFI-NUPES)",
+      "resume": "Il faut geler les loyers et les encadrer à la baisse ; le « plafonnement » maquille une hausse de 3,5 %.",
+      "citation": "Pour faire passer la pilule d’une augmentation de 3,5 %, vous la désignez sous le terme de plafonnement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254",
+      "date": "2023-05-31"
+    },
+    {
+      "auteur": "Cyrielle Chatelain (Écologiste-NUPES)",
+      "resume": "Une nouvelle hausse des loyers ferait basculer des ménages précaires dans la pauvreté ; les écologistes proposaient un plafond à 1 %.",
+      "citation": "Une nouvelle hausse des loyers aurait donc des conséquences tragiques pour nombre de ménages précaires qui, aujourd’hui au bord du précipice, pourraient basculer dans la pauvreté.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254",
+      "date": "2023-05-31"
+    },
+    {
+      "auteur": "Commission des affaires économiques du Sénat (Dominique Estrosi Sassone, LR)",
+      "resume": "Contre, mais depuis la droite : texte précipité, sans étude d'impact ni compensation pour les bailleurs, et message contre-productif aux investisseurs.",
+      "citation": "l’imposition brusquée d’un plafonnement des indices de revalorisation des loyers envoie un message contreproductif aux investisseurs",
+      "url": "https://www.senat.fr/amendements/2022-2023/667/Amdt_5.html",
+      "date": "2023-06-07"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2022 ; pas de déclaration retrouvée. Proxy indicatif : le groupe LFI-NUPES a voté contre (65 contre), réclamant un gel des loyers.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°1762) ; pas d'intervention retrouvée : argument = celui de son groupe GDR-NUPES (Stéphane Peu).",
+      "argument": "Le groupe GDR juge que le plafond de 3,5 % fonctionne comme un plancher et ajoute une nouvelle hausse aux 3,5 % de l'année précédente.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254",
+      "date": "2023-05-31"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°1762) ; pas d'intervention retrouvée : argument = celui de son groupe LFI-NUPES (François Piquemal).",
+      "argument": "Le groupe LFI réclame un gel des loyers et refuse de « cautionner » une nouvelle hausse de 3,5 %.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254",
+      "date": "2023-05-31"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; pas de déclaration retrouvée. Proxy indicatif : le groupe Écologiste-NUPES a voté contre (6 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1762). Proxy indicatif : le groupe Écologiste-NUPES a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste a voté contre (16 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des comptes publics ; membre du gouvernement Borne qui soutenait la proposition de loi.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254",
+      "date": "2023-05-31"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons ; pas de déclaration retrouvée. Proxy indicatif : le groupe Horizons a voté pour (20 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat ; a voté pour la question préalable rejetant le texte (scrutins Sénat n°295 du 7 juin 2023 et n°314 du 22 juin 2023) ; motif de la commission : précipitation, absence de compensation pour les bailleurs.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-295.html",
+      "date": "2023-06-07"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; pas de déclaration retrouvée. Proxies contradictoires : LR de l'Assemblée pour (13 pour), LR du Sénat contre (question préalable).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; pas de déclaration retrouvée. Proxies contradictoires : LR de l'Assemblée pour, LR du Sénat contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°1762) ; présidente du groupe RN ; argument = celui de son groupe (Nicolas Meizonnet).",
+      "argument": "Le groupe RN souligne que le loyer est une dépense incompressible pour les ménages et les petites entreprises face à l'inflation.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N254",
+      "date": "2023-05-31"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député non inscrit, n'a pas pris part au vote (scrutin AN n°1762).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Opposition venant de deux bords opposés : la gauche (pour un gel des loyers, jugeant 3,5 % trop élevé) et la droite sénatoriale (contre le principe d'un plafonnement imposé aux bailleurs). Voter « non » n'a donc pas le même sens selon le camp.",
+    "LR divisé selon la chambre : pour à l'Assemblée (13 pour), contre au Sénat (question préalable votée).",
+    "Le scrutin retenu est celui de la première lecture (31 mai 2023) ; la loi a été adoptée définitivement par l'Assemblée après le double rejet du Sénat.",
+    "Roussel, Ruffin, Le Pen : arguments repris de leur groupe faute d'intervention personnelle."
+  ]
+}

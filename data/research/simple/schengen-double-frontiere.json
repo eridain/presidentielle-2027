@@ -1,0 +1,18 @@
+{
+  "id": "schengen-double-frontiere",
+  "questionSimple": "Faut-il contrôler en permanence les étrangers non européens aux frontières de la France avec ses voisins ?",
+  "enBref": "Dans l'espace Schengen, on passe en principe d'un pays européen à l'autre sans contrôle. Le RN voulait des contrôles permanents aux frontières de la France pour les étrangers non européens, en plus des frontières extérieures de l'Europe. Le texte n'obligeait pas le gouvernement.",
+  "pourquoiPour": "Pour ses partisans, les frontières extérieures de l'Europe ne sont pas bien gardées, comme l'a montré la crise de Ceuta. La France doit donc pouvoir contrôler elle-même qui entre chez elle.",
+  "pourquoiContre": "Pour ses opposants, c'est une sortie de Schengen qui ne dit pas son nom, interdite par les traités européens. Mieux vaut renforcer ensemble les frontières extérieures.",
+  "ceQuiSestPasse": "La résolution a été rejetée le 8 octobre 2026 (144 voix pour, 199 contre).",
+  "lexique": [
+    {
+      "terme": "Espace Schengen",
+      "definition": "Ensemble de pays européens entre lesquels on circule sans contrôle aux frontières."
+    },
+    {
+      "terme": "Pays tiers",
+      "definition": "Pays qui ne fait pas partie de l'Union européenne."
+    }
+  ]
+}

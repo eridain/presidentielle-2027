@@ -1,0 +1,12 @@
+{
+  "id": "baisse-impot-revenu-2020",
+  "questionSimple": "Faut-il baisser l'impôt sur le revenu de 5 milliards d'euros et finir de supprimer la taxe d'habitation ?",
+  "enBref": "Le budget 2020 baisse l'impôt sur le revenu : le taux de la première tranche passe de 14 % à 11 %. Il supprime aussi la taxe d'habitation sur la résidence principale, pour 80 % des foyers en 2020 et pour tous d'ici 2023.",
+  "pourquoiPour": "Pour ses soutiens, ces baisses rendent de l'argent aux classes moyennes, environ 300 euros en moyenne par foyer concerné. Elles rendent aussi le retour au travail plus intéressant.",
+  "pourquoiContre": "Pour ses opposants, les plus modestes ne paient pas l'impôt sur le revenu et n'y gagnent rien. Supprimer la taxe d'habitation profite aussi aux plus aisés et creuse le déficit.",
+  "ceQuiSestPasse": "La première partie du budget a été adoptée (354 voix contre 186) et la loi de finances pour 2020 est entrée en vigueur.",
+  "lexique": [
+    {"terme": "Première partie du budget", "definition": "Partie de la loi de finances qui fixe les impôts et l'équilibre général, votée avant les dépenses."},
+    {"terme": "Taxe d'habitation", "definition": "Impôt local payé chaque année par l'occupant d'un logement."}
+  ]
+}

@@ -1,0 +1,507 @@
+{
+ "partiId": "lr",
+ "nom": "Les Républicains",
+ "sigle": "LR",
+ "predecesseurs": [
+  "Union pour un mouvement populaire (UMP, 2002-2015)"
+ ],
+ "fondation": "2015",
+ "direction": [
+  {
+   "nom": "Bruno Retailleau",
+   "fonction": "président",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "François-Xavier Bellamy",
+   "fonction": "premier vice-président",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Othman Nasrou",
+   "fonction": "secrétaire général",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Pierre Danon",
+   "fonction": "trésorier",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Agnès Evren",
+   "fonction": "porte-parole",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Michel Barnier",
+   "fonction": "président du Conseil national",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Roger Karoutchi",
+   "fonction": "président de la Commission nationale d'investiture",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Julien Aubert",
+   "fonction": "vice-président",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "François-Xavier Ceccoli",
+   "fonction": "vice-président",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Geoffroy Didier",
+   "fonction": "vice-président",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Jacqueline Eustache-Brinio",
+   "fonction": "vice-présidente",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Daniel Fasquelle",
+   "fonction": "vice-président",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Laurence Garnier",
+   "fonction": "vice-présidente",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Céline Imart",
+   "fonction": "vice-présidente",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Guillaume Larrivé",
+   "fonction": "vice-président",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Yannick Neuder",
+   "fonction": "vice-président",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Catherine Pila",
+   "fonction": "vice-présidente",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Florence Portelli",
+   "fonction": "vice-présidente",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Antoine Vermorel-Marques",
+   "fonction": "vice-président",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Nicolas Daragon",
+   "fonction": "secrétaire général adjoint",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Pierre-Henri Dumont",
+   "fonction": "secrétaire général adjoint",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Justine Gruet",
+   "fonction": "secrétaire générale adjointe",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Kristell Niasme",
+   "fonction": "secrétaire générale adjointe",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Alexandra Borchio-Fontimp",
+   "fonction": "porte-parole adjointe",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  },
+  {
+   "nom": "Jonas Haddad",
+   "fonction": "porte-parole adjoint",
+   "url": "https://republicains.fr/qui-sommes-nous/"
+  }
+ ],
+ "presentation": "Les Républicains est le nom adopté le 30 mai 2015 par l'UMP, parti fondé en 2002. Le parti est présidé depuis le 18 mai 2025 par Bruno Retailleau, élu avec 74,31 % des voix face à Laurent Wauquiez. À l'automne 2026, le groupe Droite républicaine compte 47 députés à l'Assemblée nationale, le groupe Les Républicains 124 sénateurs (apparentés et rattachés compris) et la délégation LR 6 députés européens au sein du PPE.",
+ "presentationSources": [
+  {
+   "titre": "Les Républicains (Wikipédia)",
+   "url": "https://fr.wikipedia.org/wiki/Les_R%C3%A9publicains"
+  },
+  {
+   "titre": "Bruno Retailleau est élu président du parti Les Républicains avec 74,31% des voix (franceinfo)",
+   "url": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-est-elu-president-du-parti-les-republicains-avec-74-31-des-voix_7247163.html"
+  },
+  {
+   "titre": "Sénat – liste des sénateurs (API open data)",
+   "url": "https://www.senat.fr/api-senat/senateurs.json"
+  },
+  {
+   "titre": "Liste des députés européens de France de la 10e législature (Wikipédia)",
+   "url": "https://fr.wikipedia.org/wiki/Liste_des_d%C3%A9put%C3%A9s_europ%C3%A9ens_de_France_de_la_10e_l%C3%A9gislature"
+  }
+ ],
+ "effectifs": {
+  "deputes": 47,
+  "senateurs": 124,
+  "eurodeputes": 6,
+  "source": "data/research/deputes_par_groupe_2026.json (groupe DR, open data AN) ; https://www.senat.fr/api-senat/senateurs.json (groupe LR, code UMP) ; https://fr.wikipedia.org/wiki/Liste_des_d%C3%A9put%C3%A9s_europ%C3%A9ens_de_France_de_la_10e_l%C3%A9gislature (Bellamy, Imart, Gomart, Le Callennec, Morano, Hortefeux)"
+ },
+ "candidats": [
+  {
+   "id": "retailleau",
+   "bio": "Bruno Retailleau, sénateur de la Vendée, préside Les Républicains depuis son élection le 18 mai 2025 face à Laurent Wauquiez. Il a été ministre de l'Intérieur de septembre 2024 à octobre 2025 dans les gouvernements Barnier, Bayrou et Lecornu I, après avoir présidé le groupe LR au Sénat, le conseil général de la Vendée et le conseil régional des Pays de la Loire.",
+   "sources": [
+    {
+     "titre": "Bruno Retailleau est élu président du parti Les Républicains avec 74,31% des voix (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/bruno-retailleau/bruno-retailleau-est-elu-president-du-parti-les-republicains-avec-74-31-des-voix_7247163.html"
+    },
+    {
+     "titre": "Qui sommes-nous ? (Les Républicains)",
+     "url": "https://republicains.fr/qui-sommes-nous/"
+    },
+    {
+     "titre": "Les Républicains (Wikipédia), tableau des présidents",
+     "url": "https://fr.wikipedia.org/wiki/Les_R%C3%A9publicains"
+    }
+   ]
+  }
+ ],
+ "condamnations": [
+  {
+   "personne": "Sarkozy Nicolas",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien président de la République ; président de l'UMP (2004-2007, 2014-2015) puis de LR (2015-2016)",
+   "infraction": "corruption et trafic d'influence",
+   "faits": "Affaire dite « des écoutes » ou « Paul Bismuth » (faits de 2014).",
+   "juridiction": "cour d'appel de Paris ; pourvoi rejeté par la Cour de cassation",
+   "dateDecision": "2024-12-18",
+   "peine": "trois ans d'emprisonnement dont un an ferme sous bracelet électronique, trois ans d'inéligibilité",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Affaire des écoutes : Nicolas Sarkozy définitivement condamné… (franceinfo avec AFP)",
+     "url": "https://www.franceinfo.fr/societe/affaire/les-affaires-sarkozy/affaire-des-ecoutes-nicolas-sarkozy-definitivement-condamne-a-un-an-ferme-sous-bracelet-electronique-l-ex-president-annonce-saisir-la-cour-europeenne-des-droits-de-l-homme_6962612.html",
+     "citation": "Il est ainsi définitivement condamné pour corruption et trafic d'influence à trois ans d'emprisonnement, dont un an ferme sous bracelet électronique.",
+     "date": "2024-12-18"
+    },
+    {
+     "titre": "Affaire des écoutes : Nicolas Sarkozy définitivement condamné… (franceinfo avec AFP)",
+     "url": "https://www.franceinfo.fr/societe/affaire/les-affaires-sarkozy/affaire-des-ecoutes-nicolas-sarkozy-definitivement-condamne-a-un-an-ferme-sous-bracelet-electronique-l-ex-president-annonce-saisir-la-cour-europeenne-des-droits-de-l-homme_6962612.html",
+     "citation": "Cette peine, à laquelle s'ajoutent trois ans d'inéligibilité, va donc être appliquée",
+     "date": "2024-12-18"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Sarkozy Nicolas",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien président de la République ; ancien président de l'UMP et de LR",
+   "infraction": "financement illégal de campagne électorale",
+   "faits": "Dépassement du plafond des dépenses de la campagne présidentielle de 2012 (affaire Bygmalion).",
+   "juridiction": "cour d'appel de Paris (arrêt du 14 février 2024) ; pourvoi rejeté par la Cour de cassation",
+   "dateDecision": "2025-11-26",
+   "peine": "un an d'emprisonnement dont six mois ferme",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Affaire Bygmalion : Nicolas Sarkozy définitivement condamné… (La Dépêche)",
+     "url": "https://www.ladepeche.fr/2025/11/26/affaire-bygmalion-nicolas-sarkozy-definitivement-condamne-pour-le-financement-illegal-de-sa-campagne-presidentielle-de-2012-13075320.php",
+     "citation": "Nicolas Sarkozy a été condamné le 14 février 2024 par la cour d'appel de Paris à un an d'emprisonnement dont six mois ferme pour le financement illégal de sa campagne présidentielle perdue de 2012.",
+     "date": "2025-11-26"
+    },
+    {
+     "titre": "Affaire Bygmalion : Nicolas Sarkozy définitivement condamné… (La Dépêche)",
+     "url": "https://www.ladepeche.fr/2025/11/26/affaire-bygmalion-nicolas-sarkozy-definitivement-condamne-pour-le-financement-illegal-de-sa-campagne-presidentielle-de-2012-13075320.php",
+     "citation": "en faisant la deuxième condamnation pénale définitive au casier judiciaire de l'ex-chef de l'Etat après celle dans le dossier Bismuth",
+     "date": "2025-11-26"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Sarkozy Nicolas",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien président de la République ; ancien président de l'UMP et de LR",
+   "infraction": "association de malfaiteurs (relaxé des chefs de corruption passive, détournement de fonds publics libyens et financement illicite de campagne)",
+   "faits": "Soupçons de financement libyen de la campagne présidentielle de 2007.",
+   "juridiction": "tribunal correctionnel de Paris",
+   "dateDecision": "2025-09-25",
+   "peine": "cinq ans d'emprisonnement avec mandat de dépôt à effet différé et exécution provisoire, 100 000 € d'amende, privation des droits civils et civiques",
+   "statut": "appel_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Nicolas Sarkozy reconnu coupable d'association de malfaiteurs… (Le Club des juristes)",
+     "url": "https://leclubdesjuristes.com/en-bref/nicolas-sarkozy-reconnu-coupable-dassociation-de-malfaiteurs-dans-laffaire-des-soupcons-de-financement-libyen-12133",
+     "citation": "L'ancien chef d'État Nicolas Sarkozy a été condamné par le Tribunal correctionnel de Paris à cinq ans d'emprisonnement, avec mandat de dépôt à effet différé assorti de l'exécution provisoire, ainsi qu'à 100 000 € d'amende",
+     "date": "2025-09-25"
+    },
+    {
+     "titre": "Procès libyen : les appels de Nicolas Sarkozy, Claude Guéant et Brice Hortefeux ont été déposés (Public Sénat)",
+     "url": "https://publicsenat.fr/actualites/institutions/proces-libyen-les-appels-de-nicolas-sarkozy-claude-gueant-et-brice-hortefeux-ont-ete-deposes-0",
+     "citation": "Les appels de Nicolas Sarkozy, Brice Hortefeux et Claude Guéant de leur condamnation à des peines de prison dans le procès libyen, ont été déposés et enregistrés",
+     "date": "2025-09-29"
+    },
+    {
+     "titre": "Procès en appel des soupçons de financement libyen… (franceinfo)",
+     "url": "https://www.franceinfo.fr/politique/affaire/financement-de-la-campagne-de-sarkozy/proces-en-appel-des-soupcons-de-financement-libyen-nicolas-sarkozy-demande-dans-ses-derniers-mots-a-etre-juge-comme-n-importe-qui_8031761.html",
+     "citation": "La décision sera rendue le 30 novembre",
+     "date": "2026-05-27"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Fillon François",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien Premier ministre ; membre de la direction intérimaire de l'UMP (2014), à la tête de LR comme candidat à la présidentielle (2016-2017)",
+   "infraction": "détournement de fonds publics",
+   "faits": "Emplois d'assistante parlementaire de son épouse Penelope Fillon jugés fictifs.",
+   "juridiction": "cour d'appel de Paris (réexamen de la peine) ; désistement du pourvoi en cassation en février 2026",
+   "dateDecision": "2025-06-17",
+   "peine": "quatre ans d'emprisonnement avec sursis, 375 000 € d'amende, cinq ans d'inéligibilité",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Procès François Fillon : … l'ex-Premier ministre renonce à son ultime recours (Midi Libre avec AFP)",
+     "url": "https://www.midilibre.fr/2026/02/16/proces-francois-fillon-penelope-fillon-definitivement-condamnee-lex-premier-ministre-renonce-a-son-ultime-recours-13228966.php",
+     "citation": "L'ancien Premier ministre François Fillon s'est désisté de son pourvoi en cassation dans l'affaire des emplois fictifs de son épouse Pénélope, rendant sa condamnation définitive.",
+     "date": "2026-02-16"
+    },
+    {
+     "titre": "François Fillon suspendu de la Légion d'honneur… (CNews)",
+     "url": "https://www.cnews.fr/france/2026-08-20/francois-fillon-suspendu-de-la-legion-dhonneur-et-de-lordre-national-du-merite",
+     "citation": "Le 17 juin 2025, la cour d'appel de Paris a condamné François Fillon à 4 ans de prison avec sursis, 375.000 euros d'amende et 5 ans d'inéligibilité.",
+     "date": "2026-08-20"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Juppé Alain",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien Premier ministre ; premier président de l'UMP (2002-2004)",
+   "infraction": "prise illégale d'intérêts",
+   "faits": "Emplois fictifs de permanents du RPR rémunérés par la Ville de Paris, lorsqu'il était secrétaire général du RPR et adjoint aux Finances de Paris.",
+   "juridiction": "cour d'appel de Versailles",
+   "dateDecision": "2004-12-01",
+   "peine": "quatorze mois d'emprisonnement avec sursis, un an d'inéligibilité",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "1er décembre 2004 – Atténuation en appel de la condamnation d'Alain Juppé (Encyclopædia Universalis)",
+     "url": "https://www.universalis.fr/evenement/1er-decembre-2004-attenuation-en-appel-de-la-condamnation-d-alain-juppe",
+     "citation": "Elle confirme la culpabilité de l'ancien secrétaire général du parti néo-gaulliste et ancien adjoint aux Finances de la Ville de Paris, mais réduit la durée de la peine de prison avec sursis de dix-huit à quatorze mois",
+     "date": "2004-12-01"
+    },
+    {
+     "titre": "1er décembre 2004 – Atténuation en appel de la condamnation d'Alain Juppé (Encyclopædia Universalis)",
+     "url": "https://www.universalis.fr/evenement/1er-decembre-2004-attenuation-en-appel-de-la-condamnation-d-alain-juppe",
+     "citation": "condamné pour prise illégale d'intérêts le 30 janvier, en première instance, dans l'affaire des emplois fictifs de permanents du R.P.R. par la Ville de Paris",
+     "date": "2004-12-01"
+    },
+    {
+     "titre": "Alain Juppé (Wikipédia)",
+     "url": "https://fr.wikipedia.org/wiki/Alain_Jupp%C3%A9",
+     "citation": "Celui-ci renonce alors à se pourvoir en cassation et démissionne de ses mandats de maire de Bordeaux et de président de la communauté urbaine",
+     "date": "2026-10-18"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Juppé Alain",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien président de l'UMP",
+   "infraction": "diffamation (plainte de Jean-Luc Mélenchon)",
+   "faits": "Propos tenus en 2012 accusant Jean-Luc Mélenchon d'accointances antisémites.",
+   "juridiction": "cour d'appel de Paris",
+   "dateDecision": "2015-11-18",
+   "peine": "condamnation de première instance confirmée (1 000 € d'amende avec sursis en première instance)",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Ils avaient accusé Mélenchon d'accointances antisémites: Copé relaxé, NKM et Juppé condamnés (L'Express/AFP)",
+     "url": "https://www.lexpress.fr/politique/ils-avaient-accuse-melenchon-d-accointances-antisemites-cope-relaxe-nkm-et-juppe-condamnes_1737120.html",
+     "citation": "mais a confirmé la condamnation de deux autres responsables de l'ex-UMP, Nathalie Kosciusko-Morizet et Alain Juppé.",
+     "date": "2015-11-18"
+    },
+    {
+     "titre": "Ils avaient accusé Mélenchon d'accointances antisémites… (L'Express/AFP)",
+     "url": "https://www.lexpress.fr/politique/ils-avaient-accuse-melenchon-d-accointances-antisemites-cope-relaxe-nkm-et-juppe-condamnes_1737120.html",
+     "citation": "En première instance, ils avaient tous trois été condamnés à une amende de 1.000 euros avec sursis et avaient fait appel.",
+     "date": "2015-11-18"
+    },
+    {
+     "titre": "Ils avaient accusé Mélenchon d'accointances antisémites… (L'Express/AFP)",
+     "url": "https://www.lexpress.fr/politique/ils-avaient-accuse-melenchon-d-accointances-antisemites-cope-relaxe-nkm-et-juppe-condamnes_1737120.html",
+     "citation": "Ils vont l'un et l'autre former un pourvoi en cassation, qui doit être déposé jeudi, selon leur avocat",
+     "date": "2015-11-18"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Gaudin Jean-Claude",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "décédé en 2024 ; président par intérim de l'UMP (juillet-novembre 2004, mai-juillet 2007)",
+   "infraction": "détournement de fonds publics par négligence",
+   "faits": "Heures supplémentaires fictives d'agents de la Ville de Marseille, lorsqu'il en était maire.",
+   "juridiction": "tribunal judiciaire de Marseille (comparution sur reconnaissance préalable de culpabilité)",
+   "dateDecision": "2022-03-22",
+   "peine": "six mois d'emprisonnement avec sursis, 10 000 € d'amende",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "« Sans doute ai-je été négligent » : Jean-Claude Gaudin condamné à six mois de prison avec sursis (France Inter)",
+     "url": "https://www.radiofrance.fr/franceinter/sans-doute-ai-je-ete-negligent-jean-claude-gaudin-condamne-a-six-mois-de-prison-avec-sursis-1887186",
+     "citation": "l'ancien maire de Marseille a choisi de plaider coupable de détournement de fonds publics par négligence. Édile pendant 25 ans, Gaudin se retrouve condamné à six mois de prison avec sursis et 10 000 euros d'amende.",
+     "date": "2022-03-22"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Wauquiez Laurent",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "député de la Haute-Loire, président du groupe Droite républicaine ; président de LR (2017-2019)",
+   "infraction": "diffamation ou injure publique envers un élu (qualification non précisée par les articles de 2015 consultés)",
+   "faits": "Avoir qualifié de « crapule » Philippe Kaltenbach, ancien maire PS de Clamart, lors d'une réunion de soutien à un candidat aux municipales de 2014.",
+   "juridiction": "cour d'appel de Versailles",
+   "dateDecision": "2015-05",
+   "peine": "500 € d'amende ; 4 500 € de frais d'avocat et dommages et intérêts",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Laurent Wauquiez condamné pour avoir insulté d'ex-maire de Clamart (BFMTV)",
+     "url": "https://www.bfmtv.com/police-justice/laurent-wauquiez-condamne-pour-avoir-insulte-d-ex-maire-de-clamart_AN-201505300025.html",
+     "citation": "le député maire du Puy-en-Velay a été condamné à 500 euros d'amende et 4.500 euros de frais d'avocat et intérêts par la cour d'appel de Versailles.",
+     "date": "2015-05-30"
+    },
+    {
+     "titre": "Laurent Wauquiez condamné pour avoir traité de crapule l'ex-maire de Clamart (Le Parisien)",
+     "url": "https://www.leparisien.fr/hauts-de-seine-92/clamart-92140/laurent-wauquiez-condamne-pour-avoir-traite-de-crapule-l-ex-maire-de-clamart-29-05-2015-4814497.php",
+     "citation": "C'est pour avoir ainsi qualifié Philippe Kaltenbach, sénateur et ancien maire PS de Clamart, que Laurent Wauquiez, secrétaire général de l'UMP, vient d'être condamné par la cour d'appel de Versailles",
+     "date": "2015-05-30"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Hortefeux Brice",
+   "categorie": "eurodepute",
+   "roleActuel": "député européen (LR, groupe PPE) depuis le 8 octobre 2026",
+   "infraction": "association de malfaiteurs",
+   "faits": "Soupçons de financement libyen de la campagne présidentielle de 2007 de Nicolas Sarkozy.",
+   "juridiction": "tribunal correctionnel de Paris",
+   "dateDecision": "2025-09-25",
+   "peine": "deux ans d'emprisonnement aménageables sous surveillance électronique, 50 000 € d'amende, cinq ans d'inéligibilité avec exécution provisoire",
+   "statut": "appel_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Nicolas Sarkozy reconnu coupable d'association de malfaiteurs… (Le Club des juristes)",
+     "url": "https://leclubdesjuristes.com/en-bref/nicolas-sarkozy-reconnu-coupable-dassociation-de-malfaiteurs-dans-laffaire-des-soupcons-de-financement-libyen-12133",
+     "citation": "L'ancien ministre Brice Hortefeux a pour sa part écopé de deux ans d'emprisonnement, aménageables sous la forme d'une détention à domicile sous surveillance électronique avec exécution provisoire, ainsi que de 50 000 € d'amende",
+     "date": "2025-09-25"
+    },
+    {
+     "titre": "« La situation est inédite » : comment Brice Hortefeux pourrait faire son retour au Parlement européen (Le Parisien)",
+     "url": "https://www.leparisien.fr/politique/la-situation-est-inedite-comment-brice-hortefeux-pourrait-faire-son-retour-au-parlement-europeen-26-09-2026-HJIAKSTRPVBLDKRRHVYMTLAGEM.php",
+     "citation": "L'ex-ministre de l'Intérieur, condamné en première instance au procès libyen et dans l'attente de la décision en appel, pourrait revenir à Strasbourg",
+     "date": "2026-09-26"
+    },
+    {
+     "titre": "« La situation est inédite »… (Le Parisien)",
+     "url": "https://www.leparisien.fr/politique/la-situation-est-inedite-comment-brice-hortefeux-pourrait-faire-son-retour-au-parlement-europeen-26-09-2026-HJIAKSTRPVBLDKRRHVYMTLAGEM.php",
+     "citation": "à deux ans de prison aménageables sous bracelet électronique et à cinq ans d'inéligibilité avec exécution provisoire",
+     "date": "2026-09-26"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Sido Bruno",
+   "categorie": "senateur",
+   "roleActuel": "sénateur de la Haute-Marne (groupe Les Républicains)",
+   "infraction": "omission dans la déclaration de patrimoine et blanchiment de fraude fiscale",
+   "faits": "Compte bancaire non déclaré en Suisse, omis dans sa déclaration de patrimoine de 2011.",
+   "juridiction": "tribunal de grande instance de Paris (comparution sur reconnaissance préalable de culpabilité)",
+   "dateDecision": "2016-04-01",
+   "peine": "six mois d'emprisonnement avec sursis, 60 000 € d'amende",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Compte en Suisse : le sénateur LR Bruno Sido condamné à 6 mois de prison avec sursis (Le Parisien)",
+     "url": "https://www.leparisien.fr/politique/compte-en-suisse-le-senateur-lr-bruno-sido-condamne-a-6-mois-de-prison-avec-sursis-12-04-2016-5709311.php",
+     "citation": "Le sénateur LR Bruno Sido a récemment été condamné à Paris à six mois de prison avec sursis et 60.000 euros d'amende pour omission dans sa déclaration de patrimoine et blanchiment de fraude fiscale",
+     "date": "2016-04-12"
+    },
+    {
+     "titre": "Compte en Suisse : le sénateur LR Bruno Sido condamné… (Le Parisien)",
+     "url": "https://www.leparisien.fr/politique/compte-en-suisse-le-senateur-lr-bruno-sido-condamne-a-6-mois-de-prison-avec-sursis-12-04-2016-5709311.php",
+     "citation": "Il s'agit de la première condamnation définitive à la suite d'une transmission à la justice de soupçons par la Haute autorité pour la transparence de la vie politique",
+     "date": "2016-04-12"
+    },
+    {
+     "titre": "Compte en Suisse : le sénateur LR Bruno Sido condamné… (Le Parisien)",
+     "url": "https://www.leparisien.fr/politique/compte-en-suisse-le-senateur-lr-bruno-sido-condamne-a-6-mois-de-prison-avec-sursis-12-04-2016-5709311.php",
+     "citation": "a été validée par un magistrat du tribunal de grande instance (TGI) de Paris le 1er avril",
+     "date": "2016-04-12"
+    }
+   ],
+   "famille": "probite"
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 208,
+  "methode": "Périmètre : députés du groupe DR (open data AN, fichier deputes_par_groupe_2026.json, 47 noms), sénateurs du groupe LR (API Sénat, code de groupe UMP, 124 noms incluant apparentés et rattachés), 6 députés européens LR (et Laurent Castillo, sorti en 2026), direction nationale publiée sur republicains.fr, présidents, présidents par intérim et secrétaires généraux successifs UMP/LR. Requêtes : recherche web systématique « <nom> condamné » pour chaque nom (résultats filtrés sur « condamn » + nom), puis « <nom> condamnation tribunal », « <nom> condamné diffamation » pour les dirigeants ; lecture des pages Wikipédia (recherche « condamn » hors notes) de 39 personnalités ; requêtes de synthèse (« sénateur LR condamné », « députés LR condamnés », « UMP personne morale condamnée »). Vérification à la source : franceinfo, La Dépêche, Midi Libre/AFP, CNews, Le Club des juristes, Public Sénat, Le Parisien, BFMTV, L'Express/AFP, France Inter, France 3 Corse, Encyclopædia Universalis, Tahiti Infos.",
+  "limites": "Poligraph (agrégateur de condamnations d'élus) et Légifrance n'ont pas pu être lus (protection anti-robot / rendu JavaScript), ce qui limite la couverture des affaires locales peu médiatisées. Le scan par nom repose sur un moteur de recherche (6 premiers résultats) : une condamnation ancienne ou peu relayée peut avoir échappé. Le groupe DR et le groupe LR du Sénat incluent des apparentés/rattachés dont l'adhésion au parti n'a pas été vérifiée individuellement. Aucune condamnation de LR/UMP comme personne morale n'a été trouvée. Statut en cassation non retrouvé pour Juppé (diffamation, 2015), Wauquiez (2015) et Panunzi (appel éventuel de 2017)."
+ },
+ "alertes": [
+  "Nicolas Sarkozy et Brice Hortefeux (affaire libyenne) : condamnations de première instance du 25/09/2025 frappées d'appel ; la cour d'appel de Paris doit rendre son arrêt le 30 novembre 2026 (franceinfo, 27/05/2026). Le statut devra être mis à jour après cette date.",
+  "Brice Hortefeux : son entrée au Parlement européen le 8 octobre 2026 (en remplacement de Laurent Castillo, élu sénateur) repose sur Wikipédia (renvoyant au Figaro du 16/10/2026, non ouvert) et sur l'article du Parisien du 26/09/2026 qui l'annonçait comme possible.",
+  "Alain Juppé (2004) : l'absence de pourvoi en cassation est indiquée par Wikipédia ; Universalis précise qu'il a dû se démettre de ses mandats pour un an, ce qui concorde avec une peine exécutée.",
+  "Alain Juppé (diffamation envers Jean-Luc Mélenchon) : un pourvoi en cassation était annoncé le 18/11/2015 ; son issue n'a pas été retrouvée, d'où le statut « inconnu ». Jean-François Copé a été relaxé en appel dans la même affaire (exclu). Nathalie Kosciusko-Morizet, également condamnée, n'est pas dans le périmètre (ni présidente ni secrétaire générale).",
+  "Laurent Wauquiez : jour exact de l'arrêt de la cour d'appel de Versailles non trouvé (articles du 30/05/2015 : « vient d'être condamné ») ; Wikipédia qualifie l'infraction de diffamation, la presse consultée ne précise pas la qualification ; existence d'un pourvoi non vérifiée.",
+  "François Fillon : inclus au titre de la direction intérimaire collégiale de l'UMP (juin-novembre 2014, avec Juppé et Raffarin, source HuffPost) et de la direction de fait de LR en 2016-2017 comme candidat (Wikipédia, tableau des présidents). Les sources concordent sur 4 ans avec sursis, 375 000 € et 5 ans d'inéligibilité (arrêt du 17/06/2025) ; l'arrêt de 2022 (10 ans d'inéligibilité) a été remplacé.",
+  "Jean-Claude Gaudin (décédé en 2024) : inclus comme président par intérim de l'UMP en 2004 et 2007 (Wikipédia, article UMP). Le jour d'homologation de la CRPC est celui indiqué par France Inter (22/03/2022).",
+  "Jean-Jacques Panunzi : condamné en première instance le 24/01/2017 ; Poligraph indiquait « appel possible ou en cours » sans issue lisible ; un arrêt de la cour d'appel de Bastia du 20/02/2019 (Légifrance n° 18/001524, « infirme la décision déférée ») a été repéré mais n'a pas pu être lu : il pourrait concerner ce dossier. Le statut « inconnu » doit être vérifié avant publication ; si une relaxe en appel est confirmée, l'entrée doit être retirée.",
+  "Édouard Fritch, sénateur de la Polynésie française rattaché administrativement (et non membre ni apparenté) au groupe LR du Sénat, a été définitivement condamné (pourvoi rejeté le 12/01/2022, Tahiti Infos) à 1 million de Fcfp d'amende pour détournement de bien public (affaire de la citerne d'Erima). Exclu car il n'est pas membre de LR (parti Tapura Huiraatira).",
+  "Exclus (hors critères) : Pierre Méhaignerie (secrétaire général de l'UMP 2004-2007), condamné en 2000 pour recel d'abus de confiance mais amnistié selon Wikipédia ; Patrick Devedjian (secrétaire général 2007-2008, décédé en 2020), condamnations de 1965 et 1967 (Wikipédia) liées au mouvement Occident, statut d'amnistie non vérifié et sources secondaires non ouvertes ; Valérie Boyer (sénatrice), condamnation prud'homale pour harcèlement moral (2015, confirmée en 2017), décision civile/prud'homale ; Pierre Cordier (député apparenté LR), mis en examen pour harcèlement moral en septembre 2025, sans jugement.",
+  "Laurent Castillo, élu sur la liste LR en 2024, a rejoint l'UDR (PfE) puis le Sénat en 2026 : hors périmètre LR.",
+  "Éric Ciotti (président de LR 2022-2024, aujourd'hui UDR) : aucune condamnation trouvée dans les sources consultées.",
+  "Retiré de l'affichage (issue de l'appel non établie ; arrêt de la cour d'appel de Bastia du 20/02/2019 « infirme la décision déférée », possible relaxe) : Panunzi Jean-Jacques — favoritisme dans l'attribution de marchés publics ; recours à une société exerçant un travail dissimulé (2017-01-24)."
+ ]
+}

@@ -1,0 +1,13 @@
+{
+  "partiId": "dlf",
+  "condamnations": [],
+  "perimetre": {
+    "personnesVerifiees": 9,
+    "methode": "Personnes vérifiées (anciens dirigeants nationaux et anciens parlementaires sous étiquette DLF / Debout la République) : Laurent Jacobelli, Jean-Philippe Tanguy, Bernard Monot, José Évrard, Benjamin Cauchy, Dominique Jamet, Philippe Torre, Nicolas Calbrix, Anne-Sophie Frigout. Filtrage d'une base CSV d'affaires d'élus, recherches « <nom> condamné », « <nom> condamnation tribunal », pages Wikipédia (Debout la France et fiches individuelles), page Poligraph « Affaires judiciaires — Debout la France » (aucune affaire listée), articles de presse ouverts (L'Express, RTL, Ouest-France sur Boulevard Voltaire ; franceinfo sur Jacobelli).",
+    "limites": "Aucune condamnation retenue dans les sources consultées, ce qui ne signifie pas qu'il n'en existe aucune. Liste des anciens vice-présidents, porte-parole et secrétaires nationaux de DLF reconstituée partiellement (pas d'organigramme historique complet trouvé). Anciens élus locaux hors périmètre."
+  },
+  "alertes": [
+    "Laurent Jacobelli (porte-parole de DLF jusqu'à son départ le 19 mai 2017, aujourd'hui député et porte-parole RN) a été condamné pour des faits postérieurs, sous l'étiquette RN ; il figure déjà dans data/justice/rn.json et n'est pas dupliqué ici.",
+    "Dominique Jamet (ancien vice-président de DLF, cofondateur de Boulevard Voltaire) : la condamnation du 18 novembre 2014 pour provocation à la haine envers les musulmans (1 000 euros d'amende dont 500 avec sursis) vise le directeur de la publication du site, nommé « Benjamin Jamet » par l'AFP (L'Express, RTL) ; France 3 le nomme « Dominique Jamet ». Identité incertaine : exclue."
+  ]
+}

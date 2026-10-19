@@ -1,0 +1,22 @@
+{
+  "id": "hausse-solde-militaires",
+  "questionSimple": "Faut-il prendre 220 millions d'euros sur l'équipement des armées pour augmenter la solde des militaires ?",
+  "enBref": "Pendant le vote du budget 2024, des députés ont proposé de déplacer 220 millions d'euros prévus pour le matériel des armées vers les salaires des militaires. Le but : mieux payer les soldats et sous-officiers, dont les salaires stagnaient malgré l'ancienneté.",
+  "pourquoiPour": "Pour ses partisans, la hausse promise aux militaires dans la loi de 2023 a été avalée par les augmentations générales des fonctionnaires. Il faut tenir parole envers les soldats les moins payés.",
+  "pourquoiContre": "Pour le gouvernement, les militaires ont déjà reçu des hausses spécifiques en 2023, en plus des mesures générales. L'amendement était donc inutile et retirait de l'argent à l'équipement.",
+  "ceQuiSestPasse": "L'amendement a été adopté de justesse (82 voix contre 77), mais le budget a ensuite été imposé par le 49.3, sans garantie qu'il soit conservé.",
+  "lexique": [
+    {
+      "terme": "Solde",
+      "definition": "Le salaire des militaires."
+    },
+    {
+      "terme": "Amendement",
+      "definition": "Proposition de modification d'un texte de loi pendant son examen."
+    },
+    {
+      "terme": "49.3",
+      "definition": "Article de la Constitution qui permet au gouvernement de faire adopter un texte sans vote, sauf motion de censure."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "taxe-zucman",
+  "questionSimple": "Faut-il que les foyers ayant plus de 100 millions d'euros paient au moins 2 % de leur fortune en impôts ?",
+  "enBref": "Environ 1 800 foyers dont la fortune dépasse 100 millions d'euros, entreprises comprises, devraient payer au moins 2 % de ce patrimoine en impôts. C'est un minimum : s'ils paient déjà moins, ils devraient compléter. Partir à l'étranger ne permettrait pas d'y échapper pendant cinq ans.",
+  "pourquoiPour": "La recherche montre qu'on peut taxer les ultrariches et que tous y gagneraient. Un minimum de 2 % rétablirait l'égalité devant l'impôt et aiderait à redresser les comptes publics.",
+  "pourquoiContre": "Taxer aussi les entreprises détenues forcerait leurs propriétaires à en retirer de l'argent ou à les vendre. La mesure freinerait l'industrie, menacerait l'emploi et serait juridiquement fragile.",
+  "ceQuiSestPasse": "Votée par l'Assemblée en février 2025, elle a été rejetée par le Sénat en juin 2025, puis par l'Assemblée lors des budgets 2026 et 2027 : elle ne s'applique pas.",
+  "lexique": [
+    {
+      "terme": "Impôt plancher",
+      "definition": "Montant minimum d'impôts à payer : si l'on paie moins, on complète jusqu'à ce seuil."
+    },
+    {
+      "terme": "Patrimoine",
+      "definition": "Tout ce que l'on possède : logements, épargne, actions, parts d'entreprise."
+    }
+  ]
+}

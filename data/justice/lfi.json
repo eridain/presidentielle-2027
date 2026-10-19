@@ -1,0 +1,434 @@
+{
+ "partiId": "lfi",
+ "nom": "La France insoumise",
+ "sigle": "LFI",
+ "predecesseurs": [],
+ "fondation": "2016",
+ "direction": [
+  {
+   "nom": "Jean-Luc Mélenchon",
+   "fonction": "fondateur",
+   "url": "https://fr.wikipedia.org/wiki/La_France_insoumise"
+  },
+  {
+   "nom": "Manuel Bompard",
+   "fonction": "coordinateur national (2017-2019 et depuis 2022)",
+   "url": "https://fr.wikipedia.org/wiki/La_France_insoumise"
+  }
+ ],
+ "presentation": "La France insoumise est un parti fondé par Jean-Luc Mélenchon le 10 février 2016. Wikipédia le décrit comme « souvent considéré comme relevant de la gauche radicale, il est classé à la gauche de l'échiquier politique, voire à l'extrême gauche ». En octobre 2026, le groupe LFI-NFP compte 70 députés selon l'open data de l'Assemblée nationale ; le parti a 9 députés européens et a obtenu ses deux premiers sénateurs (Gabriel Amard, Marc Péré, ce dernier étant rattaché à LFI mais siégeant au groupe écologiste) le 27 septembre 2026.",
+ "presentationSources": [
+  {
+   "titre": "La France insoumise — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/La_France_insoumise"
+  },
+  {
+   "titre": "franceinfo — LFI revendique la victoire de deux sénateurs, Marc Péré et Gabriel Amard (sept. 2026)",
+   "url": "https://www.franceinfo.fr/elections/senatoriales/un-effet-de-la-dynamique-autour-de-la-campagne-portee-par-jean-luc-melenchon-lfi-revendique-la-victoire-de-deux-senateurs-marc-pere-et-gabriel-amard_8213060.html"
+  }
+ ],
+ "effectifs": {
+  "deputes": 70,
+  "senateurs": 2,
+  "eurodeputes": 9,
+  "source": "députés : data/research/deputes_par_groupe_2026.json (groupe LFI-NFP, membres et apparentés) ; sénateurs : https://www.franceinfo.fr/elections/senatoriales/un-effet-de-la-dynamique-autour-de-la-campagne-portee-par-jean-luc-melenchon-lfi-revendique-la-victoire-de-deux-senateurs-marc-pere-et-gabriel-amard_8213060.html ; eurodéputés : https://www.europarl.europa.eu/doceo/document/A-10-2026-0182-AM-036-039_FR.pdf (signataires LFI)"
+ },
+ "candidats": [
+  {
+   "id": "melenchon",
+   "bio": "Jean-Luc Mélenchon, né en 1951 à Tanger, a été sénateur PS à partir de 1986 et ministre délégué à l'Enseignement professionnel de 2000 à 2002, avant de fonder le Parti de gauche en 2008. Député européen de 2009 à 2017, il fonde La France insoumise en 2016 et est candidat à l'élection présidentielle en 2012, 2017 et 2022. Il a été député des Bouches-du-Rhône de 2017 à 2022.",
+   "sources": [
+    {
+     "titre": "Jean-Luc Mélenchon — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/Jean-Luc_M%C3%A9lenchon"
+    }
+   ]
+  }
+ ],
+ "condamnations": [
+  {
+   "personne": "Jean-Luc Mélenchon",
+   "categorie": "candidat",
+   "roleActuel": "fondateur de La France insoumise, candidat à l'élection présidentielle 2027",
+   "infraction": "rébellion et provocation (actes d'intimidation envers un magistrat et un dépositaire de l'autorité publique)",
+   "faits": "Incidents lors de la perquisition du siège de La France insoumise le 16 octobre 2018.",
+   "juridiction": "tribunal correctionnel de Bobigny",
+   "dateDecision": "2019-12-09",
+   "peine": "3 mois d'emprisonnement avec sursis et 8 000 euros d'amende",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Le Parisien — Jean-Luc Mélenchon condamné à trois mois de prison avec sursis pour rébellion et provocation",
+     "url": "https://www.leparisien.fr/politique/jean-luc-melenchon-condamne-a-trois-mois-de-prison-avec-sursis-pour-rebellion-et-provocation-09-12-2019-8212674.php",
+     "citation": "Le tribunal correctionnel a suivi les réquisitions du parquet en condamnant Jean-Luc Mélenchon à 3 mois de prison avec sursis et 8 000 euros d'amende pour intimidation et rébellion",
+     "date": "2019-12-09"
+    },
+    {
+     "titre": "Le Parisien (même article) — absence d'appel",
+     "url": "https://www.leparisien.fr/politique/jean-luc-melenchon-condamne-a-trois-mois-de-prison-avec-sursis-pour-rebellion-et-provocation-09-12-2019-8212674.php",
+     "citation": "Jean-Luc Mélenchon a profité d'une conférence de presse sur la réforme des retraites pour indiquer qu'il ne ferait pas appel.",
+     "date": "2019-12-09"
+    }
+   ],
+   "famille": "autres"
+  },
+  {
+   "personne": "Jean-Luc Mélenchon",
+   "categorie": "candidat",
+   "roleActuel": "fondateur de La France insoumise, candidat à l'élection présidentielle 2027",
+   "infraction": "diffamation publique",
+   "faits": "Avoir qualifié l'ancien journaliste du Monde Paulo Paranagua d'« assassin repenti » sur son blog en 2016.",
+   "juridiction": "tribunal correctionnel de Paris",
+   "dateDecision": "2021-09-24",
+   "peine": "500 euros d'amende avec sursis, 1 000 euros de dommages et intérêts et 3 500 euros au titre des frais de procédure",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "franceinfo — Jean-Luc Mélenchon condamné pour diffamation envers un ancien journaliste du Monde après l'avoir qualifié « d'assassin repenti »",
+     "url": "https://www.franceinfo.fr/economie/emploi/metiers/droit-et-justice/jean-luc-melenchon-condamne-pour-diffamation-envers-un-ancien-journaliste-du-monde-apres-l-avoir-qualifie-d-assassin-repenti_4783251.html",
+     "citation": "Condamné à une amende de 500 euros avec sursis, Jean-Luc Mélenchon devra verser 1 000 euros au journaliste à titre de dommages et intérêts, ainsi qu'une indemnité de procédure de 3 500 euros.",
+     "date": "2021-09-24"
+    },
+    {
+     "titre": "Le Canard enchaîné — Diffamation : Mélenchon, dix ans, c'est long !",
+     "url": "https://www.lecanardenchaine.fr/police-justice/8595-melenchon-dix-ans-cest-long",
+     "citation": "Le leader de La France insoumise est définitivement condamné pour des propos diffamatoires tenus depuis 2012 sur son blog à l'encontre d'un ex-journaliste du « Monde »",
+     "date": "2023-01-05"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Jean-Luc Mélenchon",
+   "categorie": "candidat",
+   "roleActuel": "fondateur de La France insoumise, candidat à l'élection présidentielle 2027",
+   "infraction": "diffamation (condamnation sur les intérêts civils en appel)",
+   "faits": "Propos publiés sur son blog insinuant la responsabilité de Paulo Paranagua dans des faits graves (première plainte du journaliste).",
+   "juridiction": "cour d'appel de Paris",
+   "dateDecision": "2022-06-29",
+   "peine": "1 euro symbolique de dommages et intérêts et 2 000 euros au titre des frais de justice",
+   "statut": "inconnu",
+   "nature": "civile",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "franceinfo — Jean-Luc Mélenchon condamné en appel pour diffamation envers un ex-journaliste du « Monde »",
+     "url": "https://www.franceinfo.fr/politique/melenchon/jean-luc-melenchon-condamne-en-appel-pour-diffamation-envers-un-ex-journaliste-du-monde_5227360.html",
+     "citation": "Jean-Luc Mélenchon a été condamné à verser un euro symbolique de dommages et intérêts au journaliste spécialiste de l'Amérique latine, et il devra également dédommager la victime à hauteur de 2 000 euros au titre des frais de justice.",
+     "date": "2022-06-29"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Jean-Luc Mélenchon",
+   "categorie": "candidat",
+   "roleActuel": "fondateur de La France insoumise, candidat à l'élection présidentielle 2027",
+   "infraction": "injure publique et diffamation publique",
+   "faits": "Propos tenus en 2018 contre des journalistes de la cellule investigation de Radio France (« abrutis », « menteurs »).",
+   "juridiction": "tribunal correctionnel de Paris",
+   "dateDecision": "2022-01-11",
+   "peine": "500 euros d'amende avec sursis et 3 000 euros de dommages et intérêts à Radio France",
+   "statut": "appel_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "franceinfo — Jean-Luc Mélenchon condamné pour injure publique et diffamation envers Radio France",
+     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/jean-luc-melenchon-condamne-pour-injure-publique-et-diffamation-envers-radio-france_4912699.html",
+     "citation": "Il a été condamné à une amende de 500 euros avec sursis et devra verser 3 000 euros de dommages et intérêts à Radio France.",
+     "date": "2022-01-11"
+    },
+    {
+     "titre": "20 Minutes — Jean-Luc Mélenchon condamné pour injure publique et diffamation envers Radio France",
+     "url": "https://www.20minutes.fr/politique/3214891-20220111-jean-luc-melenchon-condamne-injure-publique-diffamation-envers-radio-france",
+     "citation": "Jean-Luc Mélenchon va faire appel",
+     "date": "2022-01-11"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Manuel Bompard",
+   "categorie": "dirigeant",
+   "roleActuel": "coordinateur national de La France insoumise, député des Bouches-du-Rhône",
+   "infraction": "poursuivi pour rébellion, provocation et actes d'intimidation contre l'autorité judiciaire ; qualification exacte retenue non précisée par les sources ouvertes",
+   "faits": "Incidents lors de la perquisition du siège de La France insoumise le 16 octobre 2018 (alors député européen).",
+   "juridiction": "tribunal correctionnel de Bobigny",
+   "dateDecision": "2019-12-09",
+   "peine": "7 000 euros d'amende",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "France 3 Occitanie — L'eurodéputé toulousain Manuel Bompard condamné à 7.000 euros d'amende dans le procès des perquisitions chez LFI",
+     "url": "https://france3-regions.franceinfo.fr/occitanie/haute-garonne/toulouse/eurodepute-toulousain-manuel-bompard-condamne-7000-euros-amende-proces-perquisitions-lfi-1760181.html",
+     "citation": "L'eurodéputé Insoumis Manuel Bompard a été condamné à 7.000 euros d'amende dans le procès des perquisitions ce lundi matin au tribunal de Bobigny.",
+     "date": "2019-12-09"
+    }
+   ],
+   "famille": "autres"
+  },
+  {
+   "personne": "Bastien Lachaud",
+   "categorie": "depute",
+   "roleActuel": "député de la Seine-Saint-Denis",
+   "infraction": "poursuivi pour rébellion, provocation et actes d'intimidation ; qualification exacte retenue non précisée par les sources ouvertes",
+   "faits": "Incidents lors de la perquisition du siège de La France insoumise le 16 octobre 2018.",
+   "juridiction": "tribunal correctionnel de Bobigny",
+   "dateDecision": "2019-12-09",
+   "peine": "6 000 euros d'amende",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "La Dépêche — Perquisition à LFI : Mélenchon condamné à trois mois de prison avec sursis et 8 000 euros d'amende",
+     "url": "https://www.ladepeche.fr/2019/12/07/perquisition-a-lfi-melenchon-condamne-a-trois-mois-de-prison-avec-sursis-et-8-000-euros-damende-8588869.php",
+     "citation": "De son côté le député Bastien Lachaud a été quant à lui condamné à 6 000 euros d'amende, l'eurodéputé Manuel Bompard, d'une amende de 7 000 euros.",
+     "date": "2019-12-09"
+    }
+   ],
+   "famille": "autres"
+  },
+  {
+   "personne": "Adrien Quatennens",
+   "categorie": "ancien_dirigeant",
+   "roleActuel": "ancien coordinateur de La France insoumise (2019-2022), ancien député du Nord",
+   "infraction": "violences sans incapacité commises par conjoint et envoi réitéré de messages malveillants",
+   "faits": "Violences sur son épouse et SMS répétés dans le cadre de leur séparation, entre octobre et décembre 2021 ; procédure de comparution sur reconnaissance préalable de culpabilité.",
+   "juridiction": "tribunal judiciaire de Lille",
+   "dateDecision": "2022-12-13",
+   "peine": "4 mois d'emprisonnement avec sursis",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "France Inter — Adrien Quatennens condamné à quatre mois de prison avec sursis après avoir reconnu avoir giflé sa femme",
+     "url": "https://www.radiofrance.fr/franceinter/adrien-quatennens-condamne-a-quatre-mois-avec-sursis-apres-avoir-reconnu-avoir-gifle-sa-femme-8229079",
+     "citation": "Le député LFI Adrien Quatennens, a été condamné ce mardi à quatre mois de prison avec sursis pour des violences sur son épouse ainsi que des SMS répétés, dans le cadre de leur séparation.",
+     "date": "2022-12-13"
+    }
+   ],
+   "famille": "violences"
+  },
+  {
+   "personne": "Aurélien Taché",
+   "categorie": "depute",
+   "roleActuel": "député du Val-d'Oise (groupe LFI-NFP)",
+   "infraction": "outrage et violence",
+   "faits": "Insultes envers des policiers de la BAC intervenus après une agression dont il avait été victime dans un bar de Niort, nuit du 8 au 9 février 2022 ; comparution sur reconnaissance préalable de culpabilité.",
+   "juridiction": "tribunal judiciaire de Niort",
+   "dateDecision": "2022-09-07",
+   "peine": "5 000 euros d'amende, plus 250 à 500 euros versés aux policiers parties civiles",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "ICI (France Bleu) — Niort : le député Aurélien Taché condamné à 5.000 euros d'amende après avoir insulté des policiers",
+     "url": "https://www.ici.fr/infos/faits-divers-justice/niort-le-depute-aurelien-tache-condamne-a-5-000-euros-d-amende-apres-avoir-insulte-des-policiers-1662734845",
+     "citation": "Le Niortais Aurélien Taché, député écologiste du Val d'Oise a été jugé, mercredi 7 septembre, en comparution sur reconnaissance préalable de culpabilité par le tribunal de Niort. Il a été condamné à 5.000 euros d'amende pour violence et outrage.",
+     "date": "2022-09-09"
+    },
+    {
+     "titre": "franceinfo — Le député écologiste Aurélien Taché condamné à 5 000 euros d'amende pour insulte envers des policiers",
+     "url": "https://www.franceinfo.fr/societe/justice/le-depute-ecologiste-aurelien-tache-condamne-a-5-000-euros-damende-pour-insulte-envers-des-policiers_5351809.html",
+     "citation": "Il devra également verser 250 à 500 euros aux policiers qui se sont constitués partie",
+     "date": "2022-09-09"
+    }
+   ],
+   "famille": "violences"
+  },
+  {
+   "personne": "Raphaël Arnault",
+   "categorie": "depute",
+   "roleActuel": "député de Vaucluse",
+   "infraction": "violences volontaires en réunion",
+   "faits": "Violences commises le 24 avril 2021 à Lyon contre un jeune homme, avant son élection.",
+   "juridiction": "tribunal correctionnel de Lyon (désistement d'appel constaté par la cour d'appel de Lyon le 10 mars 2025)",
+   "dateDecision": "2022-02",
+   "peine": "4 mois d'emprisonnement avec sursis et 1 600 euros à verser à la victime",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "BFMTV — Pourquoi le député LFI Raphaël Arnault a-t-il été condamné à 4 mois de prison avec sursis pour violences ?",
+     "url": "https://www.bfmtv.com/police-justice/tatouages-nazis-plaquage-contre-un-mur-pourquoi-le-depute-lfi-raphael-arnault-a-t-il-ete-condamne-a-4-mois-de-prison-avec-sursis-pour-violences_AN-202602200613.html",
+     "citation": "Le tribunal l'a déclaré coupable de violences volontaires et l'a condamné à 4 mois d'emprisonnement avec sursis et à verser 1.600 euros à la victime. Raphaël Arnault a fait appel de cette condamnation avant de se désister en mars 2025.",
+     "date": "2026-02-20"
+    },
+    {
+     "titre": "LyonMag — Le député LFI Raphaël Arnault définitivement condamné pour violences volontaires en réunion à Lyon",
+     "url": "https://www.lyonmag.com/article/148734/le-depute-lfi-raphael-arnault-definitivement-condamne-pour-violences-volontaires-en-reunion-a-lyon",
+     "citation": "en février 2022, le tribunal correctionnel de Lyon l'avait condamné à 4 mois de prison avec sursis et 1600 euros de dommages et intérêts pour violences volontaires en réunion.",
+     "date": "2025-12-05"
+    }
+   ],
+   "famille": "violences"
+  },
+  {
+   "personne": "Jean-Hugues Ratenon",
+   "categorie": "depute",
+   "roleActuel": "député de La Réunion (5e circonscription)",
+   "infraction": "conduite en état d'ivresse manifeste",
+   "faits": "Véhicule arrêté feux éteints sur une quatre-voies à Sainte-Suzanne et percuté par une automobiliste le 24 août 2024 ; refus de se soumettre aux vérifications (poursuites aussi pour défaut de maîtrise).",
+   "juridiction": "tribunal correctionnel de Saint-Denis (La Réunion)",
+   "dateDecision": "2025-02-13",
+   "peine": "6 mois d'emprisonnement avec sursis, 2 000 euros d'amende, 300 euros de contravention, 9 mois de suspension du permis de conduire et 1 000 euros de dommages et intérêts",
+   "statut": "definitive",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Outre-mer La 1ère — Jean-Hugues Ratenon condamné à six mois de prison avec sursis pour conduite en état d'ivresse",
+     "url": "https://la1ere.franceinfo.fr/reunion/saint-denis/jean-hugues-ratenon-condamne-a-six-mois-de-prison-avec-sursis-pour-conduite-en-etat-d-ivresse-1561477.html",
+     "citation": "Le tribunal correctionnel le condamne à six mois de prison avec sursis pour conduite en état d'ivresse manifeste, ce jeudi 13 février. Il écope aussi de 2000 euros d'amende",
+     "date": "2025-02-13"
+    },
+    {
+     "titre": "Imaz Press — Conduite en état d'ivresse : J-H Ratenon n'a pas encore payé des dommages et intérêts à la plaignante",
+     "url": "https://www.imazpress.com/faits-divers/jean-hugues-ratenon-condamne-les-dommages-et-interets-toujours-pas-verses-a-la-victime",
+     "citation": "Le député Jean-Hugues Ratenon ayant renoncé à faire appel de sa condamnation pour conduite en état d'ivresse, il doit depuis verser 1.000 euros de dommages et intérêts",
+     "date": "2025-04-26"
+    }
+   ],
+   "famille": "autres"
+  },
+  {
+   "personne": "Sébastien Delogu",
+   "categorie": "depute",
+   "roleActuel": "député des Bouches-du-Rhône",
+   "infraction": "violences aggravées (par trois circonstances, suivies d'une ITT inférieure à huit jours)",
+   "faits": "Coups de pied portés à un proviseur adjoint et à une CPE lors d'un blocus du lycée Saint-Exupéry à Marseille en mars 2023.",
+   "juridiction": "tribunal correctionnel de Marseille",
+   "dateDecision": "2025-02-14",
+   "peine": "5 000 euros d'amende et 3 200 euros de dommages et intérêts et frais de justice",
+   "statut": "appel_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "franceinfo — Le député Sébastien Delogu condamné à 5 000 euros d'amende pour des violences lors du blocus d'un lycée à Marseille",
+     "url": "https://www.franceinfo.fr/faits-divers/justice-proces/le-depute-sebastien-delogu-condamne-a-5-000-euros-d-amende-pour-des-violences-lors-d-un-blocus-d-un-lycee-a-marseille_7074330.html",
+     "citation": "Le député LFI Sébastien Delogu a été condamné à une amende de 5 000 euros, vendredi 14 février, pour des violences aggravées contre le proviseur adjoint et une conseillère principale d'éducation (CPE)",
+     "date": "2025-02-14"
+    },
+    {
+     "titre": "20 Minutes — Le député LFI Sébastien Delogu condamné à 5.000 euros d'amende pour des violences devant un lycée",
+     "url": "https://www.20minutes.fr/justice/4138765-20250214-depute-lfi-sebastien-delogu-condamne-5-000-euros-amende-violences-devant-lycee",
+     "citation": "L'avocat du député, Me Yones Taguelmint, a indiqué qu'il ferait appel de cette décision.",
+     "date": "2025-02-14"
+    }
+   ],
+   "famille": "violences"
+  },
+  {
+   "personne": "Andrée Taurinya",
+   "categorie": "depute",
+   "roleActuel": "députée de la Loire (2e circonscription)",
+   "infraction": "diffamation",
+   "faits": "Message publié sur X le 4 juillet 2024 qualifiant d'« antisémite » Gerbert Rambaud, candidat aux élections législatives.",
+   "juridiction": "tribunal correctionnel de Saint-Étienne",
+   "dateDecision": "2025-05-05",
+   "peine": "2 000 euros d'amende avec sursis et un peu moins de 4 500 euros à verser à la partie civile",
+   "statut": "appel_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Sud Ouest (AFP) — La députée LFI Andrée Taurinya condamnée pour diffamation",
+     "url": "https://www.sudouest.fr/justice/la-deputee-lfi-andree-taurinya-condamnee-pour-diffamation-24298614.php",
+     "citation": "La députée LFI de la Loire Andrée Taurinya a été condamnée lundi par le tribunal correctionnel de Saint-Etienne à 2 000 euros d'amende avec sursis pour diffamation",
+     "date": "2025-05-05"
+    },
+    {
+     "titre": "Le Progrès — Condamnée pour diffamation, la députée LFI Andrée Taurinya a décidé de faire appel",
+     "url": "https://www.leprogres.fr/faits-divers-justice/2025/05/06/condamnee-pour-diffamation-la-deputee-andree-taurinya-a-decide-de-faire-appel",
+     "citation": "La députée LFI Andrée Taurinya (2e circonscription de la Loire) a décidé de faire appel de sa condamnation.",
+     "date": "2025-05-06"
+    }
+   ],
+   "famille": "diffamation"
+  },
+  {
+   "personne": "Sophia Chikirou",
+   "categorie": "depute",
+   "roleActuel": "députée de Paris",
+   "infraction": "vol (relaxée du chef de tentative d'escroquerie)",
+   "faits": "Vol de formules de chèques de la webtélé Le Média, qu'elle ne dirigeait plus, à l'été 2018.",
+   "juridiction": "tribunal correctionnel de Paris",
+   "dateDecision": "2026-06-08",
+   "peine": "8 000 euros d'amende dont 4 000 euros avec sursis",
+   "statut": "appel_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "franceinfo — La députée LFI Sophia Chikirou condamnée pour un vol de chèques à 8 000 euros d'amende, dont la moitié avec sursis, mais relaxée pour escroquerie",
+     "url": "https://www.franceinfo.fr/politique/la-france-insoumise/la-deputee-lfi-sophia-chikirou-condamnee-pour-un-vol-de-cheques-a-8-000-euros-d-amende-dont-la-moitie-avec-sursis-mais-relaxee-pour-escroquerie_8050412.html",
+     "citation": "La justice lui reprochait notamment d'avoir tenté, sans succès, à l'été 2018, de faire virer des fonds de la webtélé Le Media, qu'elle ne dirigeait plus. L'élue a fait appel.",
+     "date": "2026-06-08"
+    },
+    {
+     "titre": "20 Minutes — La députée LFI Sophia Chikirou condamnée pour vol mais pas pour escroquerie",
+     "url": "https://www.20minutes.fr/justice/4227869-20260608-deputee-lfi-sophia-chikirou-condamnee-vol-escroquerie",
+     "citation": "La députée LFI Sophia Chikirou a été reconnue coupable de vol et condamnée à 8.000 euros d'amende, dont la moitié avec sursis.",
+     "date": "2026-06-08"
+    }
+   ],
+   "famille": "autres"
+  },
+  {
+   "personne": "Aly Diouara",
+   "categorie": "depute",
+   "roleActuel": "député de la Seine-Saint-Denis, maire de La Courneuve",
+   "infraction": "diffamation publique",
+   "faits": "Communiqué du 23 février 2026, pendant la campagne municipale, accusant l'équipe de son adversaire Oumarou Doucouré (PS) de distributions de colis alimentaires et d'argent en échange de votes.",
+   "juridiction": "cour d'appel de Paris (chambre des appels correctionnels)",
+   "dateDecision": "2026-06-11",
+   "peine": "500 euros d'amende avec sursis et 1 euro de dommages-intérêts",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "CNews — Le maire insoumis Aly Diouara condamné en appel pour diffamation",
+     "url": "https://www.cnews.fr/france/2026-06-12/municipales-la-courneuve-le-maire-insoumis-aly-diouara-condamne-en-appel-pour",
+     "citation": "«La chambre des appels correctionnels a déclaré Aly Diouara coupable des faits reprochés, et l'a condamné à 500 euros avec sursis», a indiqué la cour d'appel de Paris",
+     "date": "2026-06-12"
+    },
+    {
+     "titre": "Le Parisien — Aly Diouara (LFI) condamné en appel pour diffamation",
+     "url": "https://www.leparisien.fr/seine-saint-denis-93/affaire-du-cash-et-dons-de-poulet-a-la-courneuve-aly-diouara-lfi-condamne-en-appel-pour-diffamation-11-06-2026-2FCZYP63FJBO3BIJ2352QE3BPY.php",
+     "citation": "La cour d'appel de Paris a confirmé ce jeudi la condamnation d'Aly Diouara (LFI) pour diffamation envers Oumarou Doucouré (PS), son rival d'alors aux municipales de La Courneuve en mars 2026.",
+     "date": "2026-06-11"
+    }
+   ],
+   "famille": "diffamation"
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 83,
+  "methode": "Périmètre : Jean-Luc Mélenchon ; LFI personne morale ; coordinateurs successifs (Manuel Bompard, Adrien Quatennens) ; 70 députés du groupe LFI-NFP (fichier open data fourni) ; 2 sénateurs (Gabriel Amard, Marc Péré) ; 9 eurodéputés (Aubry, Omarjee, Chaibi, Mesure, Smith, Saeidi, Hassan, Carême, Fourreau). 1) Export CSV Poligraph (poligraph.fr/api/export/affaires, 299 affaires) filtré sur tous les noms du périmètre, puis chaque condamnation revérifiée dans la presse. 2) Recherches web « <nom> condamné / condamnation tribunal » pour Mélenchon, Bompard, Lachaud, Quatennens, Delogu, Arnault, Kerbrat, Chikirou, Taurinya, Ratenon, Taché, Diouara, Portes, Boyard, Caron, Hassan, Soudais, Léaument, Bilongo, Obono, Trouvé, Piquemal, Nilor, Bernalicis, Panot, Amard, Péré, Aubry, Smith, Carême, Omarjee, Chaibi, Mesure, Saeidi, Fourreau ; requêtes génériques « député LFI condamné 2025 / 2026 », « députés insoumis condamnés », « La France insoumise condamnée personne morale ». 3) Pages Wikipédia Jean-Luc Mélenchon, La France insoumise, Adrien Quatennens ; fiches Votons (votons-2027.fr) et France Inter (récapitulatif des candidats de 2022). 4) Ouverture des articles sources cités (Le Parisien, La Dépêche, France 3, franceinfo, 20 Minutes, Le Canard enchaîné, France Inter, ICI, BFMTV, LyonMag, Outre-mer La 1ère, Imaz Press, Sud Ouest, Le Progrès, CNews, LCP).",
+  "limites": "Vérification nominative approfondie pour environ 35 personnes ; les autres députés n'ont été couverts que par l'export Poligraph et des requêtes génériques. Le casier judiciaire n'est pas public : seules les condamnations rapportées par la presse sont recensées. Statuts non confirmés par une source ouverte (marqués « inconnu ») : Bompard, Lachaud, Quatennens, Taché, Diouara et l'arrêt civil Paranagua de 2022. Pour l'affaire Radio France (2022), aucune décision d'appel n'a été trouvée. Pages poligraph.fr et casier-politique.fr partiellement inaccessibles (HTTP 429 / rendu JavaScript). Exclus car sans jugement de culpabilité à la date de recherche : Rima Hassan (procès pour apologie du terrorisme du 7 juillet 2026 renvoyé à octobre ; relaxe pour injure publique le 4 mars 2026 selon Poligraph), Sébastien Delogu (procès pour recel et diffusion de documents volés renvoyé à octobre 2026), Andy Kerbrat (sanction disciplinaire de l'Assemblée en mai 2025 pour achat de stupéfiants et usage des frais de mandat ; aucune condamnation pénale trouvée), Sophia Chikirou et Bastien Lachaud (mises en examen dans l'affaire des comptes de campagne 2017). LFI personne morale : aucune condamnation pénale trouvée ; seule une ordonnance de référé civile (tribunal judiciaire d'Évry, 30 janvier 2024, réintégration d'un adhérent) a été vue, exclue car civile hors diffamation."
+ },
+ "alertes": [
+  "Bompard, Lachaud (perquisition 2019), Quatennens (CRPC 2022) et Taché (CRPC 2022) : Poligraph indique « condamnation définitive », mais aucun article de presse ouvert ne confirme l'absence de recours ; statut laissé à « inconnu ». La Dépêche (10 mars 2021) indique que les dommages et intérêts de l'affaire de la perquisition ont été réglés par le mouvement.",
+  "Bastien Lachaud : Poligraph qualifie l'infraction de « trouble à l'ordre public » ; la presse indique seulement qu'il était poursuivi pour rébellion, provocation et actes d'intimidation. La qualification exacte retenue n'a pas été vérifiée.",
+  "Mélenchon / Paranagua (« assassin repenti », 24 septembre 2021) : la définitivité repose sur Le Canard enchaîné (5 janvier 2023, désistement d'appel) et Poligraph. Le Canard évoque des propos tenus « depuis 2012 », alors que franceinfo situe le billet « assassin repenti » en 2016.",
+  "Mélenchon / Paranagua (cour d'appel de Paris, 29 juin 2022) : le tribunal correctionnel n'avait pas retenu la diffamation en première instance et la cour d'appel a alloué 1 euro de dommages-intérêts ; d'où le classement en nature « civile ». Wikipédia mentionne aussi une condamnation du 10 juillet 2019 (1 euro et 2 000 euros de frais) pour absence de mentions légales sur melenchon.fr : elle est exclue, car civile et sans rapport avec la diffamation.",
+  "Mélenchon / Radio France (11 janvier 2022) : appel annoncé, Poligraph indique « appel en cours » ; aucune décision d'appel n'a été trouvée depuis 2022.",
+  "Raphaël Arnault : jugement de février 2022 (audience du 18 février 2022), jour exact non confirmé, d'où dateDecision « 2022-02 ». Selon LyonMag, la cour d'appel de Lyon a constaté le désistement le 10 mars 2025. Selon LyonMag, la condamnation n'est pas inscrite au bulletin n° 2 du casier. LyonMag parle de « violences volontaires en réunion », BFMTV de « violences volontaires ».",
+  "Aly Diouara : en première instance (tribunal correctionnel de Paris, mars 2026), LCP écrit « lundi 10 mars » alors que le 10 mars 2026 est un mardi. Après l'arrêt d'appel, il a dit envisager « très fortement » un pourvoi en cassation (CNews) ; aucun pourvoi n'est confirmé.",
+  "Aurélien Taché : il était député écologiste (hors LFI) au moment des faits et de la condamnation ; il figure aujourd'hui dans le groupe LFI-NFP.",
+  "Sénateurs : Marc Péré est rattaché administrativement à LFI mais siège au groupe écologiste (franceinfo) ; il est compté parmi les 2 sénateurs."
+ ]
+}

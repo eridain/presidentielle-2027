@@ -1,0 +1,235 @@
+{
+  "id": "ivg-constitution",
+  "titre": "Liberté de recourir à l'IVG dans la Constitution",
+  "question": "Faut-il inscrire dans la Constitution la liberté garantie aux femmes de recourir à l'IVG ?",
+  "ouiSignifie": "pour",
+  "contexte": "Après une proposition de loi constitutionnelle de La France insoumise adoptée par l'Assemblée en novembre 2022, puis une version modifiée votée par le Sénat en février 2023, le président de la République a annoncé en octobre 2023 un projet de loi constitutionnelle. Le texte ajoute à l'article 34 de la Constitution : « La loi détermine les conditions dans lesquelles s'exerce la liberté garantie à la femme d'avoir recours à une interruption volontaire de grossesse ». Adopté par l'Assemblée le 30 janvier 2024 (493 pour, 30 contre) et par le Sénat le 28 février 2024 (267 pour, 50 contre), il a été approuvé par le Parlement réuni en Congrès à Versailles le 4 mars 2024 par 780 voix contre 72 (majorité requise : 512). La loi constitutionnelle n° 2024-200 a été promulguée le 8 mars 2024.",
+  "contexteSources": [
+    {
+      "titre": "Analyse du scrutin n°1 – Congrès (4 mars 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/c1"
+    },
+    {
+      "titre": "Compte rendu de la séance du Congrès du 4 mars 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/congres-2024/seance-du-lundi-04-mars-2024"
+    },
+    {
+      "titre": "Analyse du scrutin n°3289 – Assemblée nationale (30 janvier 2024)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3289"
+    },
+    {
+      "titre": "Compte rendu analytique du Sénat, 28 février 2024",
+      "url": "https://www.senat.fr/cra/s20240228/s20240228_1.html"
+    },
+    {
+      "titre": "Dossier législatif pjl23-299 – Sénat (loi constitutionnelle n° 2024-200)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl23-299.html"
+    },
+    {
+      "titre": "IVG dans la Constitution : « une bonne nouvelle » pour Bompard, un projet qui « ne sert à rien » pour Le Pen – BFMTV",
+      "url": "https://www.bfmtv.com/politique/ivg-dans-la-constitution-une-bonne-nouvelle-pour-bompard-un-projet-qui-ne-sert-a-rien-pour-le-pen_AN-202310290295.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/c1",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/liberte_interruption_grossesse",
+  "argumentsPour": [
+    {
+      "auteur": "Gabriel Attal (Premier ministre, Renaissance)",
+      "resume": "La liberté d'avorter peut toujours être remise en cause ; l'inscrire dans la Constitution protège les femmes contre un retour en arrière.",
+      "citation": "Inscrire ce droit dans notre Constitution, c’est fermer la porte au tragique du passé et à son long cortège de souffrances et de douleurs ; c’est empêcher davantage les réactionnaires de s’en prendre aux femmes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/congres-2024/seance-du-lundi-04-mars-2024",
+      "date": "2024-03-04"
+    },
+    {
+      "auteur": "Mathilde Panot (La France insoumise)",
+      "resume": "La France serait le premier pays à consacrer l'avortement dans sa Constitution, aboutissement d'un combat porté par LFI et les associations féministes.",
+      "citation": "Aujourd’hui, c’est la France qui, pour la première fois, consacrera le droit à l’avortement dans la Constitution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/congres-2024/seance-du-lundi-04-mars-2024",
+      "date": "2024-03-04"
+    },
+    {
+      "auteur": "Olivier Marleix (Les Républicains, Assemblée)",
+      "resume": "Après avoir obtenu des assurances sur la clause de conscience et l'encadrement par la loi, la majorité des députés LR vote le texte au nom de la liberté des femmes.",
+      "citation": "En votant ce texte, les députés Les Républicains s’inscriront dans la filiation historique de la droite en faveur de la liberté des femmes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/congres-2024/seance-du-lundi-04-mars-2024",
+      "date": "2024-03-04"
+    },
+    {
+      "auteur": "Hélène Laporte (Rassemblement national)",
+      "resume": "Liberté de vote au sein du groupe ; beaucoup de députés RN approuvent le texte pour signifier qu'il n'est pas question de revenir sur cette liberté.",
+      "citation": "nombre d’entre eux approuveront ce texte, rappelant clairement à qui, de bonne foi, craindrait le contraire qu’il ne serait pas envisageable de revenir sur cette liberté.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/congres-2024/seance-du-lundi-04-mars-2024",
+      "date": "2024-03-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Bruno Retailleau (Les Républicains, Sénat)",
+      "resume": "La notion de « liberté garantie » pourrait conduire le juge à créer un droit opposable ; le constituant ne devrait pas s'en remettre au juge.",
+      "citation": "Nous ne voulons pas qu'une jurisprudence créative conduise à un droit opposable. Le constituant ne doit pas s'en remettre ainsi au juge !",
+      "url": "https://www.senat.fr/cra/s20240228/s20240228_1.html",
+      "date": "2024-02-28"
+    },
+    {
+      "auteur": "Brigitte Micouleau (Les Républicains, Sénat)",
+      "resume": "L'IVG n'est pas menacée en France et la Constitution ne doit pas devenir une liste de droits ; l'enjeu est l'accès concret à l'IVG.",
+      "citation": "Notre constitution n’est pas un catalogue de droits sociaux et sociétaux.",
+      "url": "https://www.ladepeche.fr/2024/02/29/ivg-dans-la-constitution-lavortement-nest-pas-menace-dans-notre-pays-la-senatrice-lr-de-haute-garonne-brigitte-micouleau-explique-son-vote-contre-11796096.php",
+      "date": "2024-02-29"
+    },
+    {
+      "auteur": "Marion Maréchal (Reconquête)",
+      "resume": "Le droit à l'IVG n'étant pas menacé, l'inscription serait un « gadget juridique » mobilisant du temps qui aurait dû être consacré à d'autres sujets, comme l'immigration.",
+      "citation": "C'est beaucoup de temps et d'énergie mis sur un sujet sur lequel les Français n'avaient rien demandé",
+      "url": "https://www.bfmtv.com/politique/inscription-de-l-ivg-dans-la-constitution-marion-marechal-evoque-un-gadget-juridique_AD-202402290614.html",
+      "date": "2024-02-29"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "François-Noël Buffet (Les Républicains, Sénat)",
+      "resume": "Le texte marque un attachement renforcé à l'IVG mais ne règle pas les difficultés matérielles d'accès ; le groupe LR du Sénat se partage (lui-même s'est abstenu).",
+      "citation": "Notre groupe votera majoritairement pour la constitutionnalisation ; certains de ses membres s’abstiendront et d’autres voteront contre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/congres-2024/seance-du-lundi-04-mars-2024",
+      "date": "2024-03-04"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Sans mandat parlementaire en 2024 ; réaction publique au vote du Congrès rapportée par franceinfo (son mouvement, LFI, était à l'origine de la première proposition de loi).",
+      "argument": "Il rappelle l'époque où l'avortement était un crime et salue ceux qui ont porté ce combat.",
+      "citation": "Au moment où est votée cette inscription du droit à l'IVG dans la Constitution, reviennent en mémoire ces années où c'était un crime.",
+      "url": "https://www.franceinfo.fr/societe/ivg/ivg-dans-la-constitution-les-principales-reactions-politiques-francaises-apres-le-vote-historique-du-parlement_6405259.html",
+      "date": "2024-03-04"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_congres",
+      "detail": "Vote nominatif pour au Congrès (scrutin n°1) ; déclaration après le vote rapportée par franceinfo.",
+      "argument": "Le vote est un signal pour les femmes qui, dans le monde, luttent encore pour accéder à ce droit.",
+      "citation": "un signe d'espoir aux femmes qui luttent encore pour l'accès à ce droit fondamental",
+      "url": "https://www.franceinfo.fr/societe/ivg/ivg-dans-la-constitution-les-principales-reactions-politiques-francaises-apres-le-vote-historique-du-parlement_6405259.html",
+      "date": "2024-03-04"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_congres",
+      "detail": "Vote nominatif pour au Congrès (scrutin n°1) ; déclaration après le vote rapportée par franceinfo.",
+      "argument": "Il espère que l'exemple français serve d'appui aux femmes dans le monde.",
+      "citation": "notre pays éclaire le chemin, qu’il serve de point d’appui pour les femmes, partout dans le monde",
+      "url": "https://www.franceinfo.fr/societe/ivg/ivg-dans-la-constitution-les-principales-reactions-politiques-francaises-apres-le-vote-historique-du-parlement_6405259.html",
+      "date": "2024-03-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES de l'Assemblée (22 pour) et le groupe écologiste du Sénat (16 pour) ont voté pour à l'unanimité.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/c1",
+      "date": "2024-03-04"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_congres",
+      "detail": "Vote nominatif pour au Congrès (scrutin n°1), au sein du groupe Écologiste-NUPES ; aucune déclaration personnelle retrouvée : argument = explication de vote du groupe (Cyrielle Chatelain).",
+      "argument": "Le vote garantit qu'aucune femme ne pourra être contrainte dans sa décision de poursuivre ou non une grossesse.",
+      "citation": "nous, parlementaires, nous vous le garantissons : nul ne peut vous contraindre, nul ne peut vous forcer, nul ne peut vous intimider, nul ne peut vous obliger.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/congres-2024/seance-du-lundi-04-mars-2024",
+      "date": "2024-03-04"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Eurodéputé, sans vote au Congrès ; message public le jour du vote (LinkedIn). Il n'a pas pris part au vote du Parlement européen du 11 avril 2024 sur l'inscription de l'avortement dans la Charte des droits fondamentaux de l'UE (HowTheyVote).",
+      "argument": "Il qualifie l'inscription de victoire féministe historique.",
+      "citation": "L’IVG vient d’être inscrite dans la Constitution et c’est immense victoire féministe!",
+      "url": "https://fr.linkedin.com/posts/raphaelglucksmann_cest-historique-livg-vient-d%C3%AAtre-activity-7170485685030735873-wQsr",
+      "date": "2024-03-04"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre ; a présenté et défendu le projet de loi constitutionnelle devant le Congrès (ne vote pas au Congrès).",
+      "argument": "La liberté d'avorter reste menacée par nature ; la constitutionnaliser empêche les retours en arrière.",
+      "citation": "Ce faisant, j’ose le dire : oui, la liberté d’avorter reste en danger, consubstantiellement menacée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/congres-2024/seance-du-lundi-04-mars-2024",
+      "date": "2024-03-04"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons, parti qu'il préside, a voté pour (28 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/c1",
+      "date": "2024-03-04"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_congres",
+      "detail": "Vote nominatif contre au Congrès (scrutin n°1), alors président du groupe LR au Sénat ; argument tiré de son intervention au Sénat le 28 février 2024 en faveur des amendements de Philippe Bas (dont il était cosignataire) qui visaient à supprimer le mot « garantie ».",
+      "argument": "Le terme « garantie » risquerait de créer par la jurisprudence un droit opposable ; selon Le Parisien, il jugeait en outre ce droit « pas menacé » en France.",
+      "citation": "Nous ne voulons pas qu'une jurisprudence créative conduise à un droit opposable. Le constituant ne doit pas s'en remettre ainsi au juge !",
+      "url": "https://www.senat.fr/cra/s20240228/s20240228_1.html",
+      "date": "2024-02-28"
+    },
+    "bertrand": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Président de région, sans vote ; s'est dit « favorable » sur BFMTV le 29 octobre 2023, lors de l'annonce du projet de loi.",
+      "argument": "Même si le droit n'est pas remis en cause aujourd'hui, il est important de le garantir pour l'avenir.",
+      "citation": "Mais je pense que c'est important d'(en) disposer pour aujourd'hui, pour demain, pour après-demain, et de reconnaître cette liberté, ce droit pour les femmes dans notre pays.",
+      "url": "https://www.bfmtv.com/politique/ivg-dans-la-constitution-une-bonne-nouvelle-pour-bompard-un-projet-qui-ne-sert-a-rien-pour-le-pen_AN-202310290295.html",
+      "date": "2023-10-29"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR à l'époque), sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté majoritairement pour, à l'Assemblée (43 pour, 12 contre, 4 abstentions) comme au Sénat (79 pour, 38 contre, 14 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/c1",
+      "date": "2024-03-04"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_congres",
+      "detail": "Vote nominatif pour au Congrès (scrutin n°1) ; position annoncée avant le vote et rapportée par franceinfo. En octobre 2023, elle jugeait que le projet « ne sert strictement à rien » (BFMTV).",
+      "argument": "Elle vote pour tout en estimant que l'accès à l'IVG n'est pas menacé en France.",
+      "citation": "même si personne en France ne met en danger son accès",
+      "url": "https://www.franceinfo.fr/societe/ivg/ivg-dans-la-constitution-les-principales-reactions-politiques-francaises-apres-le-vote-historique-du-parlement_6405259.html",
+      "date": "2024-03-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans mandat ; aucune déclaration personnelle retrouvée. Pas de groupe parlementaire servant de proxy. Marion Maréchal, tête de liste du parti, a qualifié la réforme de « gadget juridique » le 29 février 2024 lors d'une visite avec lui (BFMTV).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.bfmtv.com/politique/inscription-de-l-ivg-dans-la-constitution-marion-marechal-evoque-un-gadget-juridique_AD-202402290614.html",
+      "date": "2024-02-29"
+    },
+    "dupontaignan": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Député non-inscrit, il n'a pas pris part au vote du Congrès ; il s'est abstenu sur le même projet de loi constitutionnelle en première lecture à l'Assemblée (scrutin n°3289 du 30 janvier 2024). Aucune explication retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3289",
+      "date": "2024-01-30"
+    }
+  },
+  "alertes": [
+    "Retailleau : le vote retenu est celui du Congrès (type vote_congres) ; sa citation porte sur les amendements Bas au Sénat (28 février 2024), pas sur le vote final. Selon Le Parisien (26 février 2024, https://www.leparisien.fr/politique/ivg-dans-la-constitution-au-senat-lr-soppose-au-texte-du-gouvernement-26-02-2024-QGZJEP7VJ5DYDEXCEBBAES4PVU.php), il juge ce droit « pas menacé ».",
+    "Dupont-Aignan : la position « abstention » provient du vote en première lecture à l'Assemblée (30 janvier 2024), pas du Congrès, auquel il n'a pas pris part.",
+    "Le Pen : citation rapportée par franceinfo (propos tenus avant le vote) ; elle avait jugé le projet inutile en octobre 2023 avant de le voter.",
+    "Glucksmann : citation tirée d'un post LinkedIn (aperçu public lisible) ; il n'a pas pris part au vote européen du 11 avril 2024 sur la Charte (HowTheyVote, https://howtheyvote.eu/votes/168054).",
+    "Mélenchon, Roussel, Ruffin : citations rapportées par franceinfo (messages publiés le 4 mars 2024), sans accès direct aux messages d'origine.",
+    "Zemmour : aucune déclaration personnelle retrouvée ; la position de Marion Maréchal (Reconquête) n'est pas la sienne et n'est donnée qu'à titre de contexte.",
+    "Tondelier, Philippe, Lisnard : aucune déclaration retrouvée ; positions laissées « inconnu » avec proxy de groupe.",
+    "Explications de vote au Congrès : aucun groupe ne s'est prononcé contre ; les arguments « contre » proviennent du Sénat et de la presse."
+  ]
+}

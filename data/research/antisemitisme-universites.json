@@ -1,0 +1,219 @@
+{
+  "id": "antisemitisme-universites",
+  "titre": "Lutte contre l'antisémitisme dans l'enseignement supérieur",
+  "question": "Faut-il renforcer la lutte contre l'antisémitisme dans l'enseignement supérieur (formation obligatoire, procédures disciplinaires dédiées) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Issue d'une mission d'information du Sénat (Pierre-Antoine Levi, Bernard Fialaire), la proposition de loi fait de la lutte contre l'antisémitisme, le racisme, les discriminations, les violences et la haine un objectif du service public de l'enseignement supérieur, rend obligatoire une formation des étudiants et futurs enseignants, impose dans chaque établissement une mission « égalité et diversité » et un référent dédié, et réforme le régime disciplinaire, avec des sections disciplinaires régionales présidées par un magistrat administratif. L'Assemblée a adopté le texte de la commission mixte paritaire le 2 juillet 2025 (366 pour, 88 contre) ; LFI, GDR et la majorité des écologistes ont voté contre. Saisi par plus de soixante députés, le Conseil constitutionnel l'a jugé conforme le 29 juillet 2025 ; la loi a été promulguée le 31 juillet 2025.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50724"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 2 juillet 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025"
+    },
+    {
+      "titre": "Sénat – scrutins publics sur le texte",
+      "url": "https://www.senat.fr/scrutin-public/dossiers/ppl24-026_scr.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50724",
+  "argumentsPour": [
+    {
+      "auteur": "Constance Le Grip (EPR, rapporteure)",
+      "resume": "Le texte ne hiérarchise pas les haines mais reconnaît la place singulière de l'antisémitisme, qui ne doit pas être invisibilisé.",
+      "citation": "Du fait de son ancienneté, de son ancrage dans la société française, de son histoire contemporaine, de ses capacités à muter, la haine antisémite ne peut pas, ne doit pas être invisibilisée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025",
+      "date": "2025-07-02"
+    },
+    {
+      "auteur": "Alexandre Portier (Droite républicaine)",
+      "resume": "La nouvelle procédure disciplinaire comble une lacune et permet de sanctionner plus efficacement les actes antisémites et racistes.",
+      "citation": "L’instauration d’une procédure disciplinaire répond à une lacune de notre droit et permet de sanctionner, avec une plus grande efficacité, les paroles et les actes antisémites et racistes au sein des établissements.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025",
+      "date": "2025-07-02"
+    },
+    {
+      "auteur": "Céline Calvez (EPR)",
+      "resume": "Le texte protège les étudiants contre les discriminations sans imposer de censure.",
+      "citation": "Le texte n’impose ni censure, ni bâillon, mais protège les étudiants contre les discriminations.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025",
+      "date": "2025-07-02"
+    },
+    {
+      "auteur": "Romain Eskenazi (Socialistes)",
+      "resume": "La sensibilisation au racisme et à l'antisémitisme tout au long du parcours éducatif constitue une avancée.",
+      "citation": "L’article 1 er du texte permet d’améliorer la sensibilisation à la lutte contre le racisme et l’antisémitisme tout au long du parcours éducatif, ce qui constitue une avancée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025",
+      "date": "2025-07-02"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Steevy Gustave (Écologiste et social)",
+      "resume": "Soutien en première lecture, mais la version de la CMP affaiblirait la liberté académique et la présomption d'innocence (interdiction d'accès aux locaux sur simple procédure disciplinaire).",
+      "citation": "Elle affaiblit les garanties sur la liberté académique et laisse dans l’ombre la lutte contre le racisme dans sa globalité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025",
+      "date": "2025-07-02"
+    },
+    {
+      "auteur": "Nicolas Sansu (GDR)",
+      "resume": "Partageant l'objectif, le groupe conteste la dissociation de l'antisémitisme des autres racismes et la création de sections disciplinaires régionales hors des établissements.",
+      "citation": "Nous sommes pourtant dubitatifs sur la pertinence de dissocier l’antisémitisme des autres formes de racisme.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025",
+      "date": "2025-07-02"
+    },
+    {
+      "auteur": "Nicolas Sansu (GDR)",
+      "resume": "Il voit un risque d'instrumentalisation de la lutte contre l'antisémitisme pour faire taire les critiques de l'État d'Israël.",
+      "citation": "Aujourd’hui, devant l’ampleur des mobilisations pro-palestiniennes dans nos universités, certains essayent d’instrumentaliser la lutte contre l’antisémitisme pour passer sous silence les critiques de l’État d’Israël.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025",
+      "date": "2025-07-02"
+    },
+    {
+      "auteur": "Marie Mesmeur (La France insoumise)",
+      "resume": "LFI dit combattre l'antisémitisme mais rejette un texte qu'elle juge rejeté par la communauté universitaire.",
+      "citation": "Et voilà que vous présentez un texte d’inspiration trumpiste, qui fait l’unanimité contre lui dans la communauté universitaire…",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025",
+      "date": "2025-07-02"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire à cette date ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 65 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "date": "2025-07-02"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire depuis 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR a voté contre (3 pour / 12 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "date": "2025-07-02"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2880) ; aucune déclaration retrouvée. À titre indicatif, son groupe EcoS a voté : contre (4p/11c/7a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "date": "2025-07-02"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social a voté majoritairement contre (4 pour / 11 contre / 7 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "date": "2025-07-02"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour à l'Assemblée nationale (scrutin n°2880 du 2 juillet 2025), alors que son groupe (Écologiste et social) a majoritairement voté contre ; pas d'explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "date": "2025-07-02"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (35 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "date": "2025-07-02"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour à l'Assemblée nationale (scrutin n°2880) ; argument tiré des interventions de son groupe EPR (Constance Le Grip, Céline Calvez), pas d'intervention personnelle retrouvée.",
+      "argument": "Le groupe EPR défend un texte qui reconnaît la singularité de l'antisémitisme et protège les étudiants sans censure.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025",
+      "date": "2025-07-02"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons, issu de son parti, a voté pour (29 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "date": "2025-07-02"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou, qui soutenait le texte (ministre de l'Enseignement supérieur Philippe Baptiste au banc) ; pas de déclaration personnelle retrouvée. Ministre, il n'a pas voté au Sénat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025",
+      "date": "2025-07-02"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (40 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "date": "2025-07-02"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour (40 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "date": "2025-07-02"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour à l'Assemblée nationale (scrutin n°2880) ; argument tiré de l'intervention de son groupe (Roger Chudeau, RN), pas d'intervention personnelle retrouvée.",
+      "argument": "Le groupe RN estime que l'antisémitisme a envahi de nombreux établissements, ce que des représentants universitaires niaient.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2024-2025/premiere-seance-du-mercredi-02-juillet-2025",
+      "date": "2025-07-02"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée ; Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "date": "2025-07-02"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée ; Debout la France n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2880",
+      "date": "2025-07-02"
+    }
+  },
+  "alertes": [
+    "Le titre final du texte vise aussi le racisme, les discriminations, les violences et la haine ; la CMP a restauré l'intitulé initial centré sur l'antisémitisme (selon Olivier Fayssat en séance).",
+    "Les opposants (LFI, GDR, majorité des écologistes) affirment combattre l'antisémitisme : leur vote contre porte sur le contenu (régime disciplinaire, liberté académique, traitement séparé des autres racismes).",
+    "Retailleau : membre du gouvernement à la date du vote ; position déduite de l'appartenance au gouvernement qui soutenait le texte. Il n'a pas participé aux scrutins du Sénat (n°210 et n°327), étant ministre.",
+    "Attal, Le Pen : votes certains ; arguments repris de leur groupe, non personnels.",
+    "Ruffin : n'a pas pris part au vote ; détail rattaché au groupe Écologiste et social, auquel il est apparenté."
+  ]
+}

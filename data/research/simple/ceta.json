@@ -1,0 +1,22 @@
+{
+  "id": "ceta",
+  "questionSimple": "Faut-il autoriser la France à ratifier le CETA, l'accord de libre-échange entre l'Union européenne et le Canada ?",
+  "enBref": "Le CETA supprime peu à peu environ 99 % des droits de douane entre l'Union européenne et le Canada. Depuis 2017, seules les parties qui relèvent de l'Union s'appliquent, à titre provisoire. Le reste attend l'accord du Parlement français.",
+  "pourquoiPour": "Pour ses défenseurs, le commerce avec le Canada existe déjà ; l'accord permet d'y ajouter des règles sur l'environnement et la production. Un « veto climatique » empêche les entreprises d'attaquer les normes environnementales.",
+  "pourquoiContre": "Pour ses opposants, ce libre-échange va contre l'urgence climatique et fait entrer des produits fabriqués selon des pratiques interdites en Europe. Il exposerait les éleveurs français à une concurrence déloyale.",
+  "ceQuiSestPasse": "Adopté par l'Assemblée en 2019 (266 voix contre 213), le CETA a été rejeté par le Sénat en 2024 ; sa ratification n'était pas achevée.",
+  "lexique": [
+    {
+      "terme": "CETA",
+      "definition": "Accord économique et commercial global entre l'Union européenne et le Canada, signé en 2016."
+    },
+    {
+      "terme": "Ratifier",
+      "definition": "Approuver officiellement un traité pour qu'il engage pleinement le pays."
+    },
+    {
+      "terme": "Droits de douane",
+      "definition": "Taxes payées sur les produits qui entrent dans un pays depuis l'étranger."
+    }
+  ]
+}

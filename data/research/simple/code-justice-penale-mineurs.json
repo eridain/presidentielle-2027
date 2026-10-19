@@ -1,0 +1,18 @@
+{
+  "id": "code-justice-penale-mineurs",
+  "questionSimple": "Faut-il remplacer l'ordonnance de 1945 par un nouveau code pour juger les mineurs plus vite ?",
+  "enBref": "Le texte remplace la loi de 1945 sur les enfants délinquants par un code plus simple. Avant 13 ans, un enfant est présumé ne pas comprendre son acte. Le juge décide d'abord s'il est coupable, puis fixe la sanction six à neuf mois plus tard.",
+  "pourquoiPour": "Pour ses défenseurs, la loi de 1945, modifiée des dizaines de fois, était devenue illisible. Les jugements trop lents ne permettaient ni d'aider le jeune ni de répondre aux victimes.",
+  "pourquoiContre": "Pour ses opposants, le texte rapproche la justice des mineurs de celle des adultes. Il faudrait surtout plus de juges et d'éducateurs, car un enfant délinquant est souvent un enfant en danger.",
+  "ceQuiSestPasse": "La loi a été promulguée le 26 février 2021 et le nouveau code s'applique depuis le 30 septembre 2021.",
+  "lexique": [
+    {
+      "terme": "Présomption de non-discernement",
+      "definition": "Règle qui suppose qu'un enfant de moins de 13 ans ne comprend pas la portée de son acte, sauf preuve contraire."
+    },
+    {
+      "terme": "Mise à l'épreuve éducative",
+      "definition": "Période de six à neuf mois de suivi éducatif entre le jugement de culpabilité et la sanction."
+    }
+  ]
+}

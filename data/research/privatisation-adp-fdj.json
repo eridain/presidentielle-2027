@@ -1,0 +1,222 @@
+{
+  "id": "privatisation-adp-fdj",
+  "titre": "Privatisation d'ADP et de la FDJ (loi PACTE)",
+  "question": "Faut-il autoriser la privatisation d'Aéroports de Paris et de la Française des jeux (loi PACTE, 2019) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi relatif à la croissance et la transformation des entreprises (PACTE), porté par le ministre de l'économie Bruno Le Maire, comprend des mesures sur la création et la transmission d'entreprises, l'épargne salariale, l'objet social des entreprises, et autorise le transfert au secteur privé de la majorité du capital d'Aéroports de Paris (ADP) et de La Française des jeux (FDJ), le produit des cessions devant alimenter un fonds pour l'innovation. Le Sénat, opposé à la privatisation d'ADP, a rejeté le texte en nouvelle lecture ; l'Assemblée l'a adopté en lecture définitive le 11 avril 2019 (147 voix contre 50). Le Conseil constitutionnel l'a déclaré partiellement conforme le 16 mai 2019 (décision n° 2019-781 DC) et la loi a été promulguée le 22 mai 2019. En parallèle, 248 parlementaires de gauche comme de droite ont lancé contre la privatisation d'ADP le premier référendum d'initiative partagée, qui n'a recueilli que 1 093 030 soutiens, en deçà du dixième des électeurs requis (constat du Conseil constitutionnel, 26 mars 2020).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Dossier législatif PACTE",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/Croissance_transformation_des_entreprises"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2019-781 DC",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2019/2019781DC.htm"
+    },
+    {
+      "titre": "Proposition de loi référendaire n° 1867 sur ADP (liste des signataires)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L15B1867.html"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2019-1-9 RIP (bilan du RIP ADP)",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2020/201919RIP.htm"
+    },
+    {
+      "titre": "Sénat – Scrutin n°75 (question préalable en nouvelle lecture)",
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-75.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1839",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/Croissance_transformation_des_entreprises",
+  "argumentsPour": [
+    {
+      "auteur": "Bruno Le Maire (ministre de l'économie)",
+      "resume": "La privatisation d'ADP est économiquement et stratégiquement nécessaire ; elle prend la forme d'une concession de 70 ans au terme de laquelle l'État récupère infrastructures et foncier.",
+      "citation": "Je reste profondément convaincu de la nécessité économique et stratégique de la privatisation d’Aéroports de Paris.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N213",
+      "date": "2019-04-11"
+    },
+    {
+      "auteur": "Nadia Hai (LaREM)",
+      "resume": "Le produit des cessions abondera le fonds pour l'innovation chargé de préparer l'avenir des entreprises.",
+      "citation": "Oui, cette cession d’actifs servira à enrichir le fonds de l’innovation en charge de préparer l’avenir de nos entreprises et de la France, et ceci est dans l’intérêt du pays !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N213",
+      "date": "2019-04-11"
+    },
+    {
+      "auteur": "Jean-Paul Mattei (MoDem)",
+      "resume": "La voie choisie pour ADP est la bonne et les collectivités locales pourront participer au capital.",
+      "citation": "Quant à la privatisation d’Aéroports de Paris, il me semble que la voie dans laquelle nous nous engageons est la bonne",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N213",
+      "date": "2019-04-11"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Daniel Fasquelle (LR)",
+      "resume": "La privatisation d'ADP est une erreur d'aménagement du territoire, de gestion et budgétaire : l'État se prive de dividendes croissants.",
+      "citation": "La privatisation d’Aéroports de Paris est une quintuple erreur.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N213",
+      "date": "2019-04-11"
+    },
+    {
+      "auteur": "François Ruffin (La France insoumise)",
+      "resume": "Le gouvernement livre au privé des services essentiels et infrastructures publiques, contre l'avis de la droite, de la gauche, du Sénat et des Français.",
+      "citation": "Ces « services essentiels », ces « infrastructures publiques », vous les livrez aux coquins !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N213",
+      "date": "2019-04-11"
+    },
+    {
+      "auteur": "Sylvia Pinel (Libertés et territoires)",
+      "resume": "Comme pour les autoroutes, la privatisation serait irréversible ; c'est une erreur stratégique majeure.",
+      "citation": "Nous sommes tous conscients, car l’exemple de la privatisation des sociétés d’autoroutes nous l’a appris, du caractère irrémédiable de cette décision.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N213",
+      "date": "2019-04-11"
+    },
+    {
+      "auteur": "Jean-Philippe Nilor (GDR)",
+      "resume": "Le gouvernement poursuit la libéralisation en privatisant des entreprises stratégiques de l'État.",
+      "citation": "Enfin, le Gouvernement parachève sa course folle à la libéralisation en privatisant des entreprises stratégiques de l’État.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N213",
+      "date": "2019-04-11"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif enregistré « pour » (scrutin AN n°1839), seul député FI dans ce cas ; cette position contredit ses actes publics : il est cosignataire de la proposition de loi référendaire contre la privatisation d'ADP (n° 1867) et il a interpellé la majorité pendant la séance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L15B1867.html",
+      "date": "2019-04-10"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1839) ; cosignataire de la proposition de loi référendaire n° 1867 visant à empêcher la privatisation d'ADP.",
+      "argument": "Les signataires veulent permettre au peuple de se prononcer pour rendre la privatisation d'ADP impossible, afin de ne pas reproduire les erreurs de privatisation d'infrastructures en monopole.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L15B1867.html",
+      "date": "2019-04-10"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°1839) ; il a porté l'explication de vote du groupe FI et cosigné la proposition de loi référendaire n° 1867.",
+      "argument": "Dénonce la vente d'ADP, d'Engie et de la FDJ, contraire selon lui à la demande de renationalisation des services essentiels exprimée dans le grand débat.",
+      "citation": "Ces « services essentiels », ces « infrastructures publiques », vous les livrez aux coquins !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N213",
+      "date": "2019-04-11"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national en 2019 ; pas de déclaration retrouvée ; pas de groupe écologiste à l'Assemblée (pas de proxy).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1839) ; elle ne figure pas parmi les signataires de la proposition de loi référendaire n° 1867.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Tête de liste aux européennes de 2019, sans mandat au moment du vote ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste a voté contre (15 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'éducation nationale ; membre du gouvernement qui a porté le texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/Croissance_transformation_des_entreprises",
+      "date": "2019-04-11"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a porté le texte et la privatisation d'ADP et de la FDJ.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/Croissance_transformation_des_entreprises",
+      "date": "2019-04-11"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat ; a voté pour la question préalable rejetant le texte adopté par l'Assemblée en nouvelle lecture (scrutin Sénat n°75 du 9 avril 2019), le Sénat s'étant opposé à la privatisation d'ADP.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-75.html",
+      "date": "2019-04-09"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région (ex-LR) ; pas de déclaration retrouvée. Proxy indicatif : le groupe LR de l'Assemblée a voté majoritairement contre (2 pour, 13 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; pas de déclaration retrouvée. Proxy indicatif : le groupe LR de l'Assemblée a voté majoritairement contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1839) ; son parti, le Rassemblement national, a appelé en juin 2019 à soutenir le référendum contre la privatisation d'ADP.",
+      "argument": null,
+      "citation": null,
+      "url": "http://rfi.fr/en/france/20190613-referendum-stop-paris-airports-going-private-goes-live-crashes",
+      "date": "2019-06-13"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2019 ; pas de déclaration retrouvée, pas de proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1839) ; pas de déclaration retrouvée lors de cette recherche.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Mélenchon : le vote « pour » est celui de l'open data officielle (scrutin n°1839) et a été conservé, mais il contredit ses actes publics (cosignature de la proposition de loi référendaire n° 1867 contre la privatisation d'ADP, interjections hostiles pendant la séance). Aucune mise au point n'a été trouvée sur la page du scrutin : erreur de vote probable, à signaler à l'utilisateur.",
+    "La question isole la privatisation d'ADP et de la FDJ, mais le vote porte sur l'ensemble de la loi PACTE (nombreuses autres mesures sur les entreprises) ; certains députés ont pu voter selon d'autres volets.",
+    "Scrutin de lecture définitive à faible participation (205 votants) : Roussel, Batho, Le Pen, Dupont-Aignan n'ont pas pris part au vote.",
+    "Roussel : position fondée sur la cosignature de la proposition de loi référendaire n° 1867 (acte public), pas sur un vote.",
+    "Le Pen : position fondée sur un appel de son parti (RN) à soutenir le RIP, rapporté par RFI (article en anglais) ; pas de citation personnelle vérifiée.",
+    "Retailleau : position déduite du vote de la question préalable au Sénat (rejet du texte de l'Assemblée), pas d'un vote sur la seule privatisation.",
+    "LR (opposé à la privatisation d'ADP) a voté contre aux côtés de la gauche ; UDI-Agir était partagé."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "isf-ifi",
+  "questionSimple": "Faut-il remplacer l'impôt sur la fortune par un impôt qui ne taxe que le patrimoine immobilier ?",
+  "enBref": "Les foyers dont le patrimoine dépasse 1,3 million d'euros payaient l'impôt de solidarité sur la fortune (ISF). Le texte le remplace par l'IFI, au même seuil, qui ne taxe plus que leurs biens immobiliers. Actions, placements et autres biens financiers ne sont plus taxés : l'État perd environ 3,2 milliards d'euros par an selon les estimations.",
+  "pourquoiPour": "Ses défenseurs veulent que les plus aisés placent leur argent dans les entreprises plutôt que dans l'immobilier. Selon eux, cela aide les entreprises à trouver des capitaux pour grandir et embaucher.",
+  "pourquoiContre": "Ses opposants jugent injuste de ne plus taxer la fortune financière des plus riches. Ils rappellent que l'État perd environ 3,2 milliards d'euros, sans garantie que cet argent soit investi dans l'économie.",
+  "ceQuiSestPasse": "Face au Sénat, qui voulait supprimer l'ISF sans le remplacer, l'Assemblée a eu le dernier mot : l'IFI figure dans le budget 2018, promulgué fin 2017.",
+  "lexique": [
+    {
+      "terme": "ISF",
+      "definition": "Impôt de solidarité sur la fortune : taxait tout le patrimoine (immobilier et financier) au-delà de 1,3 million d'euros."
+    },
+    {
+      "terme": "IFI",
+      "definition": "Impôt sur la fortune immobilière : même seuil et même barème que l'ISF, mais seuls les biens immobiliers comptent."
+    }
+  ]
+}

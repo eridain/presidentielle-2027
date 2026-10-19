@@ -1,0 +1,230 @@
+{
+  "id": "legitime-defense-policiers",
+  "titre": "Présomption d'usage légitime de l'arme pour policiers",
+  "question": "Faut-il présumer que les policiers et gendarmes qui font usage de leur arme ont agi dans le cadre légal, sauf preuve contraire ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposée par Éric Pauget (Droite républicaine) en décembre 2024, la proposition visait initialement une présomption de légitime défense dans le code pénal. Réécrite par un amendement du gouvernement en janvier 2026, elle crée dans le code de la sécurité intérieure une présomption que policiers et gendarmes ayant fait usage de leur arme ont agi dans un cas autorisé, avec absolue nécessité et stricte proportionnalité, présomption « renversée par tout élément de preuve contraire » ; elle exclut les policiers municipaux et remplace le cas du « périple meurtrier ». L'examen, interrompu le 22 janvier 2026 à la fin de la niche LR, a repris le 7 juillet 2026, le texte ayant été inscrit à l'ordre du jour par le gouvernement, qui a opposé l'article 44, alinéa 2, de la Constitution aux sous-amendements non examinés en commission. Adopté en première lecture (313 pour, 199 contre), le texte a été transmis au Sénat, qui ne l'avait pas examiné à la date de cette fiche.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Texte adopté n° 328 (7 juillet 2026)",
+      "url": "https://questions.assemblee-nationale.fr/dyn/opendata/PIONANR5L17BTA0328.html"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre"
+    },
+    {
+      "titre": "Compte rendu de la 2e séance du 22 janvier 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-22-janvier-2026"
+    },
+    {
+      "titre": "Compte rendu de la 1re séance du 7 juillet 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mardi-07-juillet-2026"
+    },
+    {
+      "titre": "franceinfo – Six questions sur la proposition de loi LR (22/01/2026)",
+      "url": "https://franceinfo.fr/faits-divers/police/presomption-de-legitime-defense-pour-les-forces-de-l-ordre-six-questions-sur-la-proposition-de-loi-lr-etudiee-a-l-assemblee-jeudi_7756046.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/presomption_legitime_defense_forces_ordre",
+  "argumentsPour": [
+    {
+      "auteur": "Ian Boucard (DR, rapporteur)",
+      "resume": "Les agents qui font usage de leur arme dans le cadre légal seraient presque systématiquement soupçonnés ; la présomption corrigerait cette insécurité juridique dans un contexte de hausse des violences contre les forces de l'ordre.",
+      "citation": "lorsqu’un agent fait usage de son arme dans le cadre de la loi, il est presque systématiquement suspecté d’en avoir fait un usage illégitime",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-22-janvier-2026",
+      "date": "2026-01-22"
+    },
+    {
+      "auteur": "Laurent Nuñez (ministre de l'Intérieur, gouvernement)",
+      "resume": "La présomption, réécrite par le gouvernement, ne crée ni immunité ni extension des cas d'usage de l'arme ; elle peut être renversée et vise à ne plus considérer l'usage de l'arme comme a priori suspect.",
+      "citation": "Il s’agit de présumer que nos forces de sécurité ont fait leur devoir au lieu d’y manquer.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-22-janvier-2026",
+      "date": "2026-01-22"
+    },
+    {
+      "auteur": "Michaël Taverne (RN)",
+      "resume": "Les violences contre policiers et gendarmes augmentent ; plusieurs pays européens (Belgique, Royaume-Uni, Italie, Allemagne) prévoient une présomption ou une légitime défense élargie pour les forces de l'ordre.",
+      "citation": "Les violences envers les policiers nationaux et les gendarmes sont exponentielles, où que l’on se situe sur le territoire national.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-22-janvier-2026",
+      "date": "2026-01-22"
+    },
+    {
+      "auteur": "Pierre Cazeneuve (EPR)",
+      "resume": "Opposé à la version initiale modifiant la légitime défense du code pénal, le groupe soutient la réécriture gouvernementale (présomption d'usage légitime de l'arme, hors policiers municipaux).",
+      "citation": "Le groupe Ensemble pour la République, fort de cette volonté d’encadrer et de mieux protéger nos forces de l’ordre, soutiendra la proposition gouvernementale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-22-janvier-2026",
+      "date": "2026-01-22"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Elsa Faucillon (GDR)",
+      "resume": "Le texte inverse la charge de la preuve : la justice devrait démontrer que l'usage de l'arme était illégal, ce qui affaiblirait le contrôle judiciaire et compliquerait les recours des familles de victimes.",
+      "citation": "Vous ne renforcez pas simplement la protection des policiers, vous fragilisez le contrôle de la justice.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mardi-07-juillet-2026",
+      "date": "2026-07-07"
+    },
+    {
+      "auteur": "Jean-François Coulomme (LFI-NFP)",
+      "resume": "Le texte contreviendrait à la Convention européenne des droits de l'homme et à la Déclaration de 1789, et étendrait l'impunité sans renforcer la sécurité des policiers ni des citoyens.",
+      "citation": "Il ne protège pas les policiers ; il affaiblit le contrôle exercé sur l’usage de leur arme.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mardi-07-juillet-2026",
+      "date": "2026-07-07"
+    },
+    {
+      "auteur": "Sacha Houlié (SOC)",
+      "resume": "La présomption créerait un précédent, poserait des difficultés opérationnelles et serait porteuse de violations constitutionnelles et conventionnelles.",
+      "citation": "Elle aura des conséquences graves et irrémédiables pour l’État de droit.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mardi-07-juillet-2026",
+      "date": "2026-07-07"
+    },
+    {
+      "auteur": "Pouria Amirshahi (EcoS), lisant la lettre d'un père de victime",
+      "resume": "Présumer la légalité du tir supprimerait l'automaticité de la garde à vue et la collecte immédiate des preuves, rendant l'enquête impossible a posteriori.",
+      "citation": "Le résultat n’est pas une enquête affaiblie, c’est l’absence d’enquête.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mardi-07-juillet-2026",
+      "date": "2026-07-07"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Message publié sur X le 16 juillet 2026 (cité par La Dépêche) appelant à signer la pétition contre le texte ; le groupe LFI-NFP a voté contre (0 pour / 69 contre).",
+      "argument": "Il qualifie le texte de « loi permis de tuer » et appelle à signer massivement la pétition pour son annulation.",
+      "citation": "Cap sur le million ! Déjà plus de 650 000 signatures sur la pétition pour annuler la « loi permis de tuer ».",
+      "url": "https://www.ladepeche.fr/2026/07/16/presomption-de-legitime-defense-pour-les-forces-de-lordre-un-permis-de-tuer-lfi-contre-attaque-face-a-la-proposition-de-loi-13471746.php",
+      "date": "2026-07-16"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de vote ni de déclaration retrouvés ; PROXY : le groupe GDR (PCF) a voté majoritairement contre (0 pour / 17 contre) (scrutin n°7987). Roussel n'est plus député depuis 2024.",
+      "argument": "Explication de vote du groupe GDR (Elsa Faucillon) : le texte fragiliserait le contrôle de la justice sur l'usage des armes.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-extraordinaire-de-2025-2026/premiere-seance-du-mardi-07-juillet-2026",
+      "date": "2026-07-07"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre au scrutin n°7987 (membre du groupe Écologiste et Social) ; aucune déclaration personnelle retrouvée, argument = explication de vote du groupe EcoS.",
+      "argument": "Explication de vote EcoS (Pouria Amirshahi) : présumer la légalité du tir empêcherait une enquête effective dans les premières heures.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "date": "2026-07-07"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de vote ni de déclaration retrouvés ; PROXY : le groupe Écologiste et Social a voté majoritairement contre (0 pour / 29 contre) (scrutin n°7987).",
+      "argument": "Explication de vote du groupe EcoS (Pouria Amirshahi) : risque d'absence d'enquête effective.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "date": "2026-07-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°7987) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et Social, auquel elle appartient, a voté contre (0-29).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "date": "2026-07-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de vote ni de déclaration retrouvés ; PROXY : le groupe Socialistes et apparentés (où siègent les députés Place publique) a voté majoritairement contre (0 pour / 62 contre) (scrutin n°7987). Eurodéputé, pas de vote sur ce texte.",
+      "argument": "Explication de vote SOC (Sacha Houlié) : conséquences pour l'État de droit et risques constitutionnels.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "date": "2026-07-07"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour au scrutin n°7987 (président du groupe EPR) ; aucune déclaration personnelle retrouvée, argument = position du groupe EPR exprimée par Pierre Cazeneuve le 22 janvier 2026.",
+      "argument": "Position du groupe EPR : soutien à la réécriture gouvernementale (présomption d'usage légitime de l'arme, hors policiers municipaux) pour mieux protéger les forces de l'ordre.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "date": "2026-07-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de vote ni de déclaration retrouvés ; PROXY : le groupe Horizons & Indépendants a voté majoritairement pour (31 pour / 0 contre) (scrutin n°7987).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "date": "2026-07-07"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Alors ministre de l'Intérieur, s'est dit « à titre personnel favorable » à la présomption de légitime défense pour les policiers (JT de TF1, rapporté par l'Opinion, sept. 2024). Pas de vote : le Sénat n'a pas encore examiné le texte.",
+      "argument": "Favorable à une présomption de légitime défense pour les policiers ayant fait usage de leur arme de service.",
+      "citation": "Bruno Retailleau s’est redit « à titre personnel favorable » à la présomption de légitime défense pour les policiers ayant fait usage de leur arme de service.",
+      "url": "https://www.lopinion.fr/politique/presomption-de-legitime-defense-des-policiers-seduits-par-la-fermete-de-retailleau-mais-sans-illusions",
+      "date": "2024-09-24"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de vote ni de déclaration retrouvés ; PROXY : le groupe Droite républicaine (LR) a voté majoritairement pour (48 pour / 0 contre) (scrutin n°7987). Proxy incertain : président de région, pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "date": "2026-07-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de vote ni de déclaration retrouvés ; son parti (Nouvelle Énergie) n'a pas de groupe à l'Assemblée. À titre indicatif, le groupe Droite républicaine (LR, son ancien parti) a voté pour (48-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "date": "2026-07-07"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour au scrutin n°7987 ; mesure portée par Marine Le Pen depuis ses programmes présidentiels. Argument = intervention du groupe RN (Michaël Taverne) le 22 janvier 2026.",
+      "argument": "Position du groupe RN : hausse des violences contre policiers et gendarmes ; dispositifs comparables dans d'autres pays européens.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+      "date": "2026-07-07"
+    },
+    "zemmour": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Déclaration dans « Les 4 Vérités » sur France 2, 19 mars 2024, après l'attaque d'un commissariat à La Courneuve (antérieure au texte).",
+      "argument": "Les policiers doivent pouvoir se défendre face aux agressions ; il demande une présomption de légitime défense et la fin du « harcèlement judiciaire ».",
+      "citation": "Il faut, dans un premier temps, que les policiers puissent se défendre. Il est absolument scandaleux qu'ils soient ainsi agressés, caillassés, blessés. Il faut prévoir une présomption de légitime défense",
+      "url": "https://www.franceinfo.fr/politique/eric-zemmour/attaque-du-commissariat-de-la-courneuve-il-faut-prevoir-une-presomption-de-legitime-defense-pour-les-policiers-demande-eric-zemmour-president-de-reconquete_6433600.html",
+      "date": "2024-03-19"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Programme « Sécurité » de Debout la France (parti qu'il préside) ; ancien député, pas de vote en 2026.",
+      "argument": "Considérer le policier ayant fait usage de son arme comme ayant agi en légitime défense jusqu'à preuve du contraire, en raison de la nature de sa mission.",
+      "citation": "Instaurer une présomption de légitime défense pour permettre aux policiers de se défendre contre des agresseurs.",
+      "url": "https://www.debout-la-france.fr/projet/securite/",
+      "date": null
+    }
+  },
+  "alertes": [
+    "Le titre officiel parle de « présomption de légitime défense » mais le texte adopté (amendement du gouvernement) instaure une présomption d'usage légitime de l'arme dans le code de la sécurité intérieure (art. L. 435-1) : la question a été reformulée en conséquence.",
+    "Le 7 juillet 2026, seuls EcoS, GDR, LFI-NFP et SOC ont pris la parole en explications de vote ; les arguments « pour » proviennent de la discussion générale du 22 janvier 2026.",
+    "Retailleau, Zemmour : déclarations antérieures au texte (2024) et portant sur une « présomption de légitime défense », non sur la version réécrite.",
+    "Dupont-Aignan : programme du parti Debout la France, non daté sur la page consultée (date « 16 février 2026 » indiquée par un agrégateur, non vérifiée).",
+    "Mélenchon : citation d'un message X reproduit par La Dépêche, non consulté directement sur X.",
+    "Communiqué du PCF du 8 juillet 2026 (pcf.fr) non consultable (protection anti-robot) : Roussel laissé en proxy de groupe.",
+    "Groupe Dem : la ventilation (28 pour / 1 contre / 5 abst.) est majoritairement « pour », contrairement à l'étiquette « abstention » de tasks.json.",
+    "Ruffin, Attal, Le Pen : aucune déclaration personnelle retrouvée sur ce vote ; arguments = ceux de leur groupe."
+  ]
+}

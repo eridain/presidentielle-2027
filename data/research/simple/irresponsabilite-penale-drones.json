@@ -1,0 +1,18 @@
+{
+  "id": "irresponsabilite-penale-drones",
+  "questionSimple": "Faut-il pouvoir juger celui qui se drogue avant un crime, et autoriser les drones policiers ?",
+  "enBref": "Après l'affaire Sarah Halimi, une personne qui se drogue volontairement pour commettre un crime ne pourra plus échapper au procès. Le texte autorise aussi la police et la gendarmerie à filmer avec des drones, sous conditions.",
+  "pourquoiPour": "Pour ses défenseurs, l'affaire Halimi a montré un vide juridique qu'il fallait combler pour les victimes. Les drones aident les forces de l'ordre, par exemple contre les rodéos urbains.",
+  "pourquoiContre": "Pour ses opposants, ces cas sont rares et le texte n'aurait pas changé l'affaire Halimi ; il oublie la psychiatrie. Les drones pousseraient vers une surveillance de masse.",
+  "ceQuiSestPasse": "La loi a été promulguée le 24 janvier 2022, après une censure partielle du Conseil constitutionnel.",
+  "lexique": [
+    {
+      "terme": "Irresponsabilité pénale",
+      "definition": "Une personne dont le discernement était aboli au moment des faits ne peut pas être condamnée."
+    },
+    {
+      "terme": "Discernement",
+      "definition": "Capacité à comprendre ses actes et à les contrôler."
+    }
+  ]
+}

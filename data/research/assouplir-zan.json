@@ -1,0 +1,205 @@
+{
+  "id": "assouplir-zan",
+  "titre": "Assouplissement du « zéro artificialisation nette » (ZAN)",
+  "question": "Faut-il assouplir l'objectif de « zéro artificialisation nette » des sols (surface minimale garantie par commune, grands projets nationaux comptés à part) ?",
+  "ouiSignifie": "pour",
+  "contexte": "La loi Climat et résilience de 2021 a fixé deux objectifs : diviser par deux la consommation d'espaces naturels, agricoles et forestiers entre 2021 et 2031 (125 000 hectares au lieu de 250 000), puis atteindre « zéro artificialisation nette » en 2050. Face aux protestations d'élus locaux, une proposition de loi sénatoriale (Jean-Baptiste Blanc, Valérie Létard) en assouplit l'application : une « garantie rurale » d'un hectare par commune, un forfait national de 12 500 hectares pour les projets d'envergure nationale ou européenne (lignes à grande vitesse, réacteurs nucléaires, prisons…) décompté à part des enveloppes régionales, et des délais supplémentaires pour les documents d'urbanisme. Le texte de la commission mixte paritaire a été adopté par l'Assemblée le 12 juillet 2023 (169 pour, 29 contre, 4 abstentions) et par le Sénat le 13 juillet ; loi n° 2023-630 du 20 juillet 2023.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 20 juillet 2023 accompagnement des élus contre l'artificialisation des sols",
+      "url": "https://www.vie-publique.fr/loi/288650-loi-20-juillet-2023-accompagnement-elus-contre-artificialisation-sols"
+    },
+    {
+      "titre": "Sénat – dossier législatif ppl22-205",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl22-205.html"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2257",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/ppl22-205.html",
+  "argumentsPour": [
+    {
+      "auteur": "Thibault Bazin (Les Républicains)",
+      "resume": "La sobriété foncière ne doit pas se faire contre le développement des territoires ; LR soutient la garantie rurale et l'enveloppe nationale pour les grands projets.",
+      "citation": "une politique de préservation de l’environnement, qui passe, nous en convenons, par une politique de sobriété foncière, ne peut et ne doit pas se construire en opposition avec le développement de nos territoires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014",
+      "date": "2023-07-12"
+    },
+    {
+      "auteur": "Sébastien Jumel (Gauche démocrate et républicaine)",
+      "resume": "Les maires ont été pris dans une loi dogmatique ; la garantie rurale permet aux petites communes de continuer à vivre.",
+      "citation": "La garantie rurale est ainsi, pour des milliers de petites communes, la promesse réelle de pouvoir continuer à vivre et à se développer.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014",
+      "date": "2023-07-12"
+    },
+    {
+      "auteur": "Bastien Marchive (rapporteur, Renaissance)",
+      "resume": "Le texte final préserve l'objectif de réduction de moitié d'ici 2031, alors que la version sénatoriale prévoyait des dérogations bien plus larges.",
+      "citation": "reste que la proposition de loi sénatoriale prévoyait des dérogations jusqu’à 75 000 hectares, tandis que le texte final sanctuarise l’objectif de réduction de moitié, d’ici à 2031, de la consommation d’espaces.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014",
+      "date": "2023-07-12"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Marie Pochon (Écologiste)",
+      "resume": "Le texte permet de dépasser le forfait pour les grands projets, réduit les contraintes et écarte les associations environnementales de la gouvernance.",
+      "citation": "un texte qui permet de dépasser le forfait d’artificialisation dans le cas de grands projets nationaux, qui en diminue le niveau de contrainte et qui exclut de sa gouvernance toutes les associations environnementales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014",
+      "date": "2023-07-12"
+    },
+    {
+      "auteur": "Catherine Couturier (La France insoumise)",
+      "resume": "Le gouvernement sort les grands projets de l'enveloppe commune alors que les communes font des efforts ; il faudrait plutôt réhabiliter friches et logements vacants.",
+      "citation": "La sobriété environnementale ne peut pas être à géométrie variable !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014",
+      "date": "2023-07-12"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Stéphane Delautrette (Socialistes)",
+      "resume": "Les socialistes jugent l'accord de CMP mauvais (garantie rurale généralisée, forfait réduit) mais s'abstiennent pour répondre au besoin de clarification des élus locaux.",
+      "citation": "nous amènent à nous abstenir.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014",
+      "date": "2023-07-12"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2023 ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0-22).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2257) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe GDR-NUPES a voté pour (3-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2257) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe LFI-NUPES a voté contre (0-22).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale d'EELV, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste-NUPES a voté contre (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2257) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste-NUPES a voté contre (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée s'est abstenu (0-0-3).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics dans le gouvernement Borne, qui soutenait le compromis de CMP (Christophe Béchu) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023E1N014",
+      "date": "2023-07-12"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre et président d'Horizons ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons a voté pour (15-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote pour le texte de la commission mixte paritaire au Sénat (scrutin n°332 du 13 juillet 2023), président du groupe LR, dont des membres étaient à l'origine du texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-332.html",
+      "date": "2023-07-13"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (15-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes et président de l'Association des maires de France ; aucune déclaration spécifique vérifiée sur ce texte. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (15-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2257) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe RN a voté pour (26-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député en 2023 ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2257) ; aucune déclaration spécifique retrouvée. Aucun député non inscrit n'a pris part au scrutin.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2257",
+      "date": "2023-07-12"
+    }
+  },
+  "alertes": [
+    "Roussel, Ruffin, Batho, Le Pen, Dupont-Aignan : n'ont pas pris part au vote ; position inconnu (indication du vote de leur groupe à titre indicatif seulement, aucune pour Dupont-Aignan).",
+    "Le texte n'abandonne pas l'objectif ZAN de 2050 ni la réduction de moitié d'ici 2031 : il en assouplit les modalités. Un vote « contre » peut traduire le souhait d'une application plus stricte, pas un rejet du ZAN.",
+    "Arguments issus de la discussion générale sur le texte de CMP (pas d'explications de vote séparées) ; faible participation (202 votants).",
+    "Lisnard, président de l'AMF, a critiqué la mise en œuvre du ZAN, mais aucune déclaration sur ce texte précis n'a été vérifiée : proxy de groupe uniquement."
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "liberation-sansal",
+  "titre": "Libération de Boualem Sansal",
+  "question": "Faut-il exiger la libération immédiate et inconditionnelle de l'écrivain Boualem Sansal, détenu en Algérie ?",
+  "ouiSignifie": "pour",
+  "contexte": "L'écrivain franco-algérien Boualem Sansal, 80 ans et atteint d'un cancer, a été arrêté en Algérie en novembre 2024 puis condamné à cinq ans de prison, notamment pour des propos sur les frontières de l'Algérie. La proposition de résolution européenne n° 852 rectifié (rapporteure Constance Le Grip), sans valeur contraignante, appelle à sa libération immédiate et inconditionnelle, à une mission médicale internationale et à une mobilisation de l'Union européenne. Le texte s'inscrivait dans une forte crise diplomatique entre Paris et Alger, et la gauche a dénoncé des alinéas jugés propices à l'escalade. Elle a été adoptée le 6 mai 2025 par 307 voix contre 28 (LFI contre, GDR abstention). Boualem Sansal a été libéré le 12 novembre 2025.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/liberation_boualem_sansal"
+    },
+    {
+      "titre": "Assemblée nationale – actualité : adoption de la PPRE",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/liberation-immediate-et-inconditionnelle-de-boualem-sansal-adoption-de-la-proposition-de-resolution-europeenne"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 6 mai 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-06-mai-2025"
+    },
+    {
+      "titre": "TF1 Info – Boualem Sansal libéré le 12 novembre 2025",
+      "url": "https://www.tf1info.fr/actualite/abdelmadjid-tebboune-12447/"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/liberation_boualem_sansal",
+  "argumentsPour": [
+    {
+      "auteur": "Vincent Ledoux (Ensemble pour la République)",
+      "resume": "Boualem Sansal est une grande voix de la littérature francophone et son emprisonnement est injustifié ; la France doit défendre la liberté d'expression.",
+      "citation": "Son emprisonnement totalement injustifié meurtrit profondément le cœur de tous les démocrates.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-06-mai-2025",
+      "date": "2025-05-06"
+    },
+    {
+      "auteur": "Laurent Mazaury (LIOT)",
+      "resume": "Défendre la liberté d'expression et les droits de l'homme, c'est défendre les valeurs communes de la Constitution et de l'Union européenne.",
+      "citation": "Son arrestation arbitraire témoigne d’un recul inquiétant de la démocratie et des libertés en Algérie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-06-mai-2025",
+      "date": "2025-05-06"
+    },
+    {
+      "auteur": "Dominique Voynet (Écologiste et social)",
+      "resume": "Malgré des alinéas jugés provocateurs envers Alger, le groupe vote pour la libération d'un grand écrivain.",
+      "citation": "nous voterons pour la libération de ce grand écrivain dont la place n’est pas en prison.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-06-mai-2025",
+      "date": "2025-05-06"
+    },
+    {
+      "auteur": "Guillaume Bigot (Rassemblement national)",
+      "resume": "Le RN dénonce un régime algérien qui tient en otage un intellectuel âgé et malade.",
+      "citation": "Le seul crime de Boualem Sansal est d’aimer la France jusqu’à en mourir.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-06-mai-2025",
+      "date": "2025-05-06"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "LFI accuse la majorité et la droite d'instrumentaliser le cas Sansal dans une « stratégie de la tension » avec l'Algérie qui attise la xénophobie.",
+      "citation": "Vous ne cherchez qu’à instrumentaliser cette situation au profit d’une stratégie de la tension que vous poursuivez depuis des mois.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-06-mai-2025",
+      "date": "2025-05-06"
+    },
+    {
+      "auteur": "Nathalie Oziol (La France insoumise)",
+      "resume": "LFI proposait de réduire le texte à un appel simple à la libération au nom de la liberté d'expression, sans escalade avec l'Algérie.",
+      "citation": "Cette formule n’appelle aucune discussion, aucun débat et surtout aucune escalade entre la France et l’Algérie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-06-mai-2025",
+      "date": "2025-05-06"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Jean-Paul Lecoq (GDR)",
+      "resume": "Le groupe défend la libération de l'écrivain, mais refuse un texte qu'il juge contraire au dialogue avec Alger ; il s'abstient.",
+      "citation": "Nous ne pouvons donc pas voter votre résolution, madame la rapporteure, mais nous ne voterons pas contre : nous nous abstiendrons",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-06-mai-2025",
+      "date": "2025-05-06"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration spécifique vérifiée sur ce texte. PROXY : le groupe LFI-NFP a voté contre (0 pour / 28 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+      "date": "2025-05-06"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration retrouvée. PROXY : le groupe GDR s'est majoritairement abstenu (1 pour / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+      "date": "2025-05-06"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1570) ; aucune déclaration retrouvée. Indication : le groupe EcoS a voté pour (18 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+      "date": "2025-05-06"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté pour (18 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+      "date": "2025-05-06"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°1570) ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+      "date": "2025-05-06"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "vote_pe",
+      "detail": "Vote pour au Parlement européen la résolution d'urgence « Le cas de Boualem Sansal en Algérie » du 23 janvier 2025 (533 pour / 24 contre / 48 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://howtheyvote.eu/votes/171594",
+      "date": "2025-01-23"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°1570), président du groupe EPR ; argument = explication du groupe (Vincent Ledoux).",
+      "argument": "Le groupe EPR juge l'emprisonnement de Boualem Sansal totalement injustifié et défend la liberté d'expression.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/premiere-seance-du-mardi-06-mai-2025",
+      "date": "2025-05-06"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (23 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+      "date": "2025-05-06"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ministre de l'Intérieur ; texte d'initiative parlementaire, le gouvernement (Benjamin Haddad) s'est opposé aux amendements le vidant de sa substance ; pas de déclaration de Retailleau retrouvée dans le délai imparti. PROXY : le groupe Droite républicaine a voté pour (29 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+      "date": "2025-05-06"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+      "date": "2025-05-06"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+      "date": "2025-05-06"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1570) ; aucune déclaration personnelle retrouvée. Indication : son groupe RN a voté pour (92 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+      "date": "2025-05-06"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration vérifiée. Indication : l'eurodéputée Reconquête Sarah Knafo n'a pas pris part au vote du Parlement européen du 23 janvier 2025.",
+      "argument": null,
+      "citation": null,
+      "url": "https://howtheyvote.eu/votes/171594",
+      "date": "2025-01-23"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1570",
+      "date": "2025-05-06"
+    }
+  },
+  "alertes": [
+    "Résolution européenne sans valeur contraignante. La discussion générale a eu lieu le 5 mai 2025 au soir ; les arguments cités viennent de la séance du 6 mai (articles et explications de vote).",
+    "Retailleau, figure centrale de la ligne de fermeté envers Alger, n'a pas de vote ni de déclaration vérifiée ici : la position reste « inconnu » faute de source ouverte dans le temps imparti.",
+    "Glucksmann : vote au Parlement européen sur une résolution distincte du 23 janvier 2025 (API HowTheyVote.eu, https://howtheyvote.eu/api/votes/171594).",
+    "La date d'arrestation (novembre 2024) et la peine de cinq ans sont mentionnées dans les débats ; la date de libération vient de TF1 Info.",
+    "Ruffin et Le Pen n'ont pas pris part au vote."
+  ]
+}

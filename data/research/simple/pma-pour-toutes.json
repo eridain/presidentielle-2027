@@ -1,0 +1,22 @@
+{
+  "id": "pma-pour-toutes",
+  "questionSimple": "Faut-il ouvrir la PMA (aide médicale pour avoir un enfant) aux couples de femmes et aux femmes seules ?",
+  "enBref": "Jusque-là, la PMA n'était pas ouverte aux couples de femmes ni aux femmes seules : la loi la leur ouvre, remboursée par la Sécurité sociale. Les deux mères peuvent être reconnues comme parents, et les enfants nés d'un don pourront connaître l'identité du donneur à leur majorité. Le vote porte sur toute la loi de bioéthique, qui traite aussi d'autres sujets (recherche sur l'embryon, don d'organes…).",
+  "pourquoiPour": "Ses défenseurs y voient une question d'égalité entre toutes les femmes. Selon eux, ce nouveau droit répond à l'attente des femmes concernées, après deux ans de débat, et ne retire rien à personne.",
+  "pourquoiContre": "Ses opposants estiment qu'un enfant a besoin d'un père et d'une mère, et refusent une filiation fondée sur la seule volonté. Ils craignent que la loi ouvre ensuite la voie à la GPA.",
+  "ceQuiSestPasse": "Adoptée définitivement en juin 2021 malgré l'opposition du Sénat, la loi a été jugée conforme à la Constitution et promulguée le 2 août 2021.",
+  "lexique": [
+    {
+      "terme": "PMA",
+      "definition": "Procréation médicalement assistée : techniques médicales pour aider à avoir un enfant, par exemple grâce à un don."
+    },
+    {
+      "terme": "Filiation",
+      "definition": "Lien reconnu par la loi entre un enfant et ses parents."
+    },
+    {
+      "terme": "GPA",
+      "definition": "Gestation pour autrui : une femme porte un enfant pour d'autres personnes, qui deviendront ses parents."
+    }
+  ]
+}

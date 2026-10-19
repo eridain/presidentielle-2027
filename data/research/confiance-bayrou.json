@@ -1,0 +1,219 @@
+{
+  "id": "confiance-bayrou",
+  "titre": "Vote de confiance au gouvernement Bayrou (8 septembre 2025)",
+  "question": "Faut-il accorder la confiance au gouvernement Bayrou (septembre 2025) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le 25 août 2025, le Premier ministre François Bayrou a annoncé qu'il engagerait la responsabilité de son gouvernement devant l'Assemblée nationale, en application de l'article 49, alinéa 1er, de la Constitution, sur une déclaration de politique générale consacrée à la situation des finances publiques et à la dette, en amont du budget 2026. Le 8 septembre 2025, la confiance a été refusée par 364 voix contre 194 et 15 abstentions : c'était la première fois sous la Ve République que l'Assemblée refusait la confiance sur une déclaration de politique générale. RN, LFI, socialistes, écologistes, GDR et UDR ont voté contre ; EPR, MoDem et Horizons pour ; la Droite républicaine et LIOT se sont divisés. François Bayrou a présenté la démission de son gouvernement le 9 septembre 2025.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Vote de confiance : le gouvernement de François Bayrou a démissionné",
+      "url": "https://www.vie-publique.fr/en-bref/300056-lassemblee-nationale-ne-vote-pas-la-confiance-au-gouvernement-bayrou"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 8 septembre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E2N001"
+    },
+    {
+      "titre": "LCP – Vote de confiance : le RN et la gauche annoncent qu'ils voteront contre",
+      "url": "https://lcp.fr/actualites/vote-de-confiance-le-rn-et-la-gauche-annoncent-qu-ils-voteront-contre-le-gouvernement-de"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3054",
+  "urlDossier": "https://www.vie-publique.fr/en-bref/300056-lassemblee-nationale-ne-vote-pas-la-confiance-au-gouvernement-bayrou",
+  "argumentsPour": [
+    {
+      "auteur": "François Bayrou (Premier ministre, MoDem)",
+      "resume": "La dette et les déficits mettent en danger l'indépendance du pays ; il demande l'accord des députés sur le constat de la situation avant d'engager les économies.",
+      "citation": "Votre soutien, l'accord minimal sans lequel je ne pourrai pas poursuivre ma mission, je le demande à l'Assemblée nationale sur un seul point, qui est décisif : le constat de la situation du pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E2N001",
+      "date": "2025-09-08"
+    },
+    {
+      "auteur": "Gabriel Attal (Ensemble pour la République)",
+      "resume": "Renverser le gouvernement ajoute de l'instabilité et retarde le budget alors que la réduction de la dette est urgente.",
+      "citation": "Faire chuter le gouvernement, c'est nous mettre plus en retard encore par rapport au compte à rebours jusqu'au 31 décembre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E2N001",
+      "date": "2025-09-08"
+    },
+    {
+      "auteur": "Laurent Wauquiez (Droite républicaine)",
+      "resume": "Le vote porte sur le principe du redressement financier, que la droite soutient, à condition qu'il passe par des économies et non par des hausses d'impôts.",
+      "citation": "Monsieur le premier ministre, le vote que vous avez sollicité est bien évidemment un vote sur le principe du redressement financier de notre pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E2N001",
+      "date": "2025-09-08"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Marine Le Pen (Rassemblement national)",
+      "resume": "Le gouvernement, responsable de la dette qu'il dénonce, n'a presque rien produit en huit mois ; la dissolution s'impose.",
+      "citation": "Dès lors, à quoi bon maintenir un gouvernement qui ne gouverne pas ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E2N001",
+      "date": "2025-09-08"
+    },
+    {
+      "auteur": "Mathilde Panot (La France insoumise)",
+      "resume": "Le gouvernement prolonge la politique d'Emmanuel Macron ; c'est cette politique qui doit être défaite.",
+      "citation": "Monsieur le premier ministre, comment pourrions-nous vous faire confiance alors que vous faites confiance à Emmanuel Macron ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E2N001",
+      "date": "2025-09-08"
+    },
+    {
+      "auteur": "Boris Vallaud (Socialistes)",
+      "resume": "Le Premier ministre, qui a creusé la dette avec la majorité depuis huit ans, se dérobe au lieu de négocier un budget juste.",
+      "citation": "Non, vous soumettre à ce vote n'est pas un acte de courage, c'est une dérobade",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E2N001",
+      "date": "2025-09-08"
+    },
+    {
+      "auteur": "Stéphane Peu (Gauche démocrate et républicaine)",
+      "resume": "Le gouvernement n'a ni majorité au Parlement ni soutien dans le pays ; ce vote est un péché d'orgueil.",
+      "citation": "Vous posez la question alors que vous connaissez la réponse : vous n'avez pas la confiance d'une majorité de parlementaires",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E2N001",
+      "date": "2025-09-08"
+    },
+    {
+      "auteur": "Éric Ciotti (UDR)",
+      "resume": "Les responsables de la situation budgétaire et de l'alliance de 2024 ne méritent pas la confiance.",
+      "citation": "Vous refuser la confiance n'est pas un signe d'irresponsabilité mais un devoir",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E2N001",
+      "date": "2025-09-08"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; seule déclaration retrouvée : « Il n'y a pas de majorité pour lui » (constat, pas une consigne). PROXY : le groupe LFI-NFP a voté contre (0 pour / 71 contre) pour « faire tomber » le gouvernement.",
+      "argument": null,
+      "citation": null,
+      "url": "https://lcp.fr/actualites/vote-de-confiance-le-rn-et-la-gauche-annoncent-qu-ils-voteront-contre-le-gouvernement-de",
+      "date": "2025-08-25"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration personnelle vérifiée. PROXY : le groupe GDR a voté contre (0 / 17) et avait annoncé voter « contre la confiance ».",
+      "argument": null,
+      "citation": null,
+      "url": "https://lcp.fr/actualites/vote-de-confiance-le-rn-et-la-gauche-annoncent-qu-ils-voteront-contre-le-gouvernement-de",
+      "date": "2025-09-08"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3054 du 8 septembre 2025) ; pas d'intervention en séance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3054",
+      "date": "2025-09-08"
+    },
+    "tondelier": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire : a officialisé la position « contre » de son parti dès l'annonce du vote ; le groupe Écologiste et social a voté contre (0 / 38).",
+      "argument": null,
+      "citation": "Ce vote de confiance (qu'il n'a pas fait en arrivant) est de fait une démission",
+      "url": "https://lcp.fr/actualites/vote-de-confiance-le-rn-et-la-gauche-annoncent-qu-ils-voteront-contre-le-gouvernement-de",
+      "date": "2025-08-25"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3054) ; pas d'intervention en séance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3054",
+      "date": "2025-09-08"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration personnelle vérifiée. PROXY : le groupe Socialistes a voté contre (0 / 66) ; Olivier Faure avait jugé « inimaginable » que les socialistes votent la confiance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://lcp.fr/actualites/vote-de-confiance-le-rn-et-la-gauche-annoncent-qu-ils-voteront-contre-le-gouvernement-de",
+      "date": "2025-09-08"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3054) ; a défendu la confiance au nom du groupe EPR.",
+      "argument": "Faire tomber le gouvernement ajoute de l'instabilité et retarde l'adoption d'un budget alors que la réduction de la dette est un impératif de souveraineté.",
+      "citation": "Faire chuter le gouvernement, c'est nous mettre plus en retard encore par rapport au compte à rebours jusqu'au 31 décembre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E2N001",
+      "date": "2025-09-08"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration personnelle vérifiée. PROXY : le groupe Horizons, issu de son parti, a voté pour à l'unanimité (34 / 0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3054",
+      "date": "2025-09-08"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou et président des Républicains : a plaidé pour que les parlementaires LR votent la confiance (selon franceinfo) ; pas de vote personnel (membre du gouvernement).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.franceinfo.fr/politique/vote-de-confiance-il-est-hors-de-question-que-la-droite-accepte-la-nomination-d-un-premier-ministre-socialiste-previent-bruno-retailleau_7478932.html",
+      "date": "2025-09-07"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire : a déclaré le 1er septembre 2025 qu'il n'appellerait pas les députés LR à voter la confiance « si le plan de François Bayrou reste en l'état » ; position finale non retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.radiofrance.fr/franceinfo/podcasts/8h30-franceinfo/budget-2026-xavier-bertrand-n-appellera-pas-les-deputes-les-republicains-a-voter-la-confiance-si-le-plan-de-francois-bayrou-reste-en-l-etat-6842514",
+      "date": "2025-09-01"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3054",
+      "date": "2025-09-08"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3054) ; a pris la parole pour le groupe RN.",
+      "argument": "Le gouvernement, responsable de la dette qu'il dénonce, ne gouverne pas ; la dissolution est une obligation pour sortir du blocage.",
+      "citation": "Dès lors, à quoi bon maintenir un gouvernement qui ne gouverne pas ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E2N001",
+      "date": "2025-09-08"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3054",
+      "date": "2025-09-08"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3054",
+      "date": "2025-09-08"
+    }
+  },
+  "alertes": [
+    "Vote de confiance sur une déclaration de politique générale (article 49-1) : il ne porte pas sur un texte de loi mais sur le maintien du gouvernement ; le Premier ministre l'avait centré sur le constat de la dette.",
+    "Les votes ont souvent exprimé une opposition générale au gouvernement ou à la politique d'Emmanuel Macron plutôt qu'un désaccord sur le diagnostic budgétaire.",
+    "La Droite républicaine s'est divisée (27 pour, 13 contre, 9 abstentions), comme LIOT (4 pour, 15 contre, 4 abstentions).",
+    "Retailleau : position déduite de son appartenance au gouvernement et de son appel rapporté par franceinfo, sans citation directe vérifiée.",
+    "Bertrand : déclaration conditionnelle, position finale inconnue."
+  ]
+}

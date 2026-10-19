@@ -1,0 +1,211 @@
+{
+  "id": "proportionnelle-integrale",
+  "titre": "Proportionnelle intégrale aux élections législatives (2021)",
+  "question": "Faut-il élire les députés à la proportionnelle intégrale ?",
+  "ouiSignifie": "pour",
+  "contexte": "Sous la Ve République, les députés sont élus au scrutin uninominal majoritaire à deux tours dans des circonscriptions, sauf en 1986, où ils l'ont été à la proportionnelle par listes départementales. Le 6 mai 2021, lors de sa journée réservée, le groupe La France insoumise a défendu une proposition de loi instaurant la proportionnelle intégrale, sur le modèle du scrutin de 1986, dès les législatives de 2022. Le gouvernement s'y est opposé, rappelant que la réforme institutionnelle présentée en 2018, qui prévoyait une dose de proportionnelle, n'avait pas abouti. L'article unique a été rejeté par 55 voix contre 31 et 2 abstentions : LaREM a voté contre, LFI, le MoDem, des députés GDR et Agir ensemble pour ; les autres groupes n'ont pas pris part au vote. Le débat a été relancé en 2025 par des consultations du Premier ministre François Bayrou, sans aboutir à un texte voté.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 6 mai 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N267"
+    },
+    {
+      "titre": "Assemblée nationale – Analyse du scrutin n°3749",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3749"
+    },
+    {
+      "titre": "France 24 – Proportionnelle : Bayrou consulte, mais les avis divergent (30 avril 2025)",
+      "url": "https://france24.com/fr/info-en-continu/20250430-proportionnelle-bayrou-consulte-mais-les-avis-divergent"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3749",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/proportionnelle_scrutin_legislatif",
+  "argumentsPour": [
+    {
+      "auteur": "Alexis Corbière (La France insoumise, rapporteur suppléant)",
+      "resume": "La plupart des Français ne se reconnaissent pas dans un député élu par une minorité d'électeurs ; des listes départementales maintiennent le lien avec le territoire.",
+      "citation": "Dans leur grande majorité, les Français n'ont pas soutenu le député de leur circonscription.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N267",
+      "date": "2021-05-06"
+    },
+    {
+      "auteur": "Jean-Luc Mélenchon (La France insoumise)",
+      "resume": "Seule la proportionnelle intégrale, sur le modèle de 1986, rend compte de la diversité réelle du pays ; une « dose » ne suffit pas.",
+      "citation": "aucune « dose » ne permettra de rendre compte de la diversité réelle du pays de la même manière qu'une proportionnelle intégrale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N267",
+      "date": "2021-05-06"
+    },
+    {
+      "auteur": "Blandine Brocard (Mouvement démocrate)",
+      "resume": "Le MoDem demande depuis longtemps la proportionnelle pour mieux représenter toutes les sensibilités et renforcer la légitimité du Parlement.",
+      "citation": "Or, bien au contraire, le scrutin proportionnel vise à renforcer la légitimité du Parlement et à maintenir la stabilité du régime de la Ve République.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N267",
+      "date": "2021-05-06"
+    },
+    {
+      "auteur": "Stéphane Peu (Gauche démocrate et républicaine)",
+      "resume": "Le chef de l'État s'était engagé sur la proportionnelle sans agir ; cette proposition concrète moderniserait les institutions.",
+      "citation": "Au moins disposons-nous aujourd'hui d'une proposition concrète ; nous devrions nous en saisir.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N267",
+      "date": "2021-05-06"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Marlène Schiappa (ministre déléguée chargée de la citoyenneté, gouvernement)",
+      "resume": "La proportionnelle intégrale impose des jeux d'alliances et risque d'éloigner les députés des territoires ; le gouvernement s'y oppose.",
+      "citation": "la proportionnelle intégrale consacrerait selon nous le risque de donner lieu à des listes éloignées des territoires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N267",
+      "date": "2021-05-06"
+    },
+    {
+      "auteur": "Thomas Rudigoz (La République en marche)",
+      "resume": "L'exemple italien montre l'instabilité qu'induit la proportionnelle ; le scrutin majoritaire ancre les députés dans un territoire.",
+      "citation": "Surtout, le scrutin uninominal majoritaire garantit que les députés sont ancrés dans un territoire",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N267",
+      "date": "2021-05-06"
+    },
+    {
+      "auteur": "Pacôme Rupin (La République en marche)",
+      "resume": "L'abstention aux législatives vient du calendrier électoral, pas du mode de scrutin ; la proportionnelle est une mauvaise solution.",
+      "citation": "la proportionnelle intégrale, comme d'ailleurs l'instauration d'une dose de proportionnelle – je vous rejoins sur ce point – est à mon sens une mauvaise solution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N267",
+      "date": "2021-05-06"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3749 du 6 mai 2021) ; est intervenu dans la discussion pour défendre le modèle de 1986.",
+      "argument": "Seule une proportionnelle intégrale rend compte de la diversité du pays ; sur le modèle de 1986, elle n'implique pas qu'1 % des voix suffise à être représenté.",
+      "citation": "aucune « dose » ne permettra de rendre compte de la diversité réelle du pays de la même manière qu'une proportionnelle intégrale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N267",
+      "date": "2021-05-06"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Absent du scrutin de 2021 (aucun vote GDR contre) ; son programme présidentiel prévoit la proportionnelle intégrale, même s'il a jugé en 2025 que ce n'était « pas la priorité ».",
+      "argument": null,
+      "citation": "la proportionnelle intégrale permettra la juste représentation des courants politiques en fonction de leur influence électorale",
+      "url": "https://humanite.fr/politique/francois-bayrou/consultations-a-matignon-sur-la-proportionnelle-qui-pense-quoi",
+      "date": "2025-05-22"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3749) ; pas d'intervention retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3749",
+      "date": "2021-05-06"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2021 ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3749",
+      "date": "2025-04-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absente du scrutin n°3749 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3749",
+      "date": "2025-04-07"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3749",
+      "date": "2025-04-07"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui s'est opposé au texte en séance ; aucune déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N267",
+      "date": "2021-05-06"
+    },
+    "philippe": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Président d'Horizons : défend le scrutin majoritaire, tout en se disant prêt à soutenir la proportionnelle si le cumul avec un mandat exécutif local était permis (France 24, 2025).",
+      "argument": null,
+      "citation": "impose un lien entre un député et les électeurs d'un territoire",
+      "url": "https://france24.com/fr/info-en-continu/20250430-proportionnelle-bayrou-consulte-mais-les-avis-divergent",
+      "date": "2025-04-30"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Opposé à la proportionnelle lors des consultations de François Bayrou en 2025 (France 24).",
+      "argument": null,
+      "citation": "C'est le plus sûr moyen de ne pas donner à la France une majorité",
+      "url": "https://france24.com/fr/info-en-continu/20250430-proportionnelle-bayrou-consulte-mais-les-avis-divergent",
+      "date": "2025-04-30"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3749",
+      "date": "2025-04-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3749",
+      "date": "2025-04-07"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Absente du scrutin de 2021 (aucun député RN présent) ; reçue par François Bayrou en 2025, elle s'est dite favorable à la proportionnelle intégrale par département comme en 1986, semblant renoncer à la prime majoritaire.",
+      "argument": null,
+      "citation": "nous apparaît être un moindre mal par rapport à un système majoritaire qui aujourd'hui ne permet pas que chaque voix des Français soit entendue",
+      "url": "https://france24.com/fr/info-en-continu/20250430-proportionnelle-bayrou-consulte-mais-les-avis-divergent",
+      "date": "2025-04-30"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3749",
+      "date": "2025-04-07"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absent du scrutin n°3749 ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3749",
+      "date": "2025-04-07"
+    }
+  },
+  "alertes": [
+    "Faible participation (88 votants) : vote en journée réservée de l'opposition ; LR, socialistes, UDI, Libertés et territoires et RN n'ont pas pris part au vote.",
+    "Plusieurs positions (Le Pen, Retailleau, Philippe, Roussel) proviennent de déclarations de 2025, et non du vote de 2021. Le Pen a longtemps défendu une proportionnelle avec prime majoritaire avant d'accepter le modèle de 1986.",
+    "Philippe : opposition nuancée, avec une ouverture conditionnée au cumul des mandats.",
+    "Attal : position du gouvernement dont il était porte-parole, sans déclaration personnelle."
+  ]
+}

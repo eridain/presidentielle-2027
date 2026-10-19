@@ -1,0 +1,24 @@
+# Contexte de build de app/Dockerfile (racine du dépôt) : liste blanche.
+# Seuls l'application et les données nécessaires à `npm run data` sont envoyés au démon Docker
+# (pas data/raw — 500 Mo —, ni node_modules, ni les sorties locales).
+*
+!app/
+!data/selection.json
+!data/selection-approfondi.json
+!data/candidats.json
+!data/justice-dates.json
+!data/build/votes.json
+!data/build/votes-approfondi.json
+!data/research/
+!data/justice/
+!data/raw/COLLECTED_AT
+
+app/node_modules
+app/dist
+app/test-results
+app/playwright-report
+app/screenshots
+app/src/generated
+app/Dockerfile
+app/Dockerfile.dockerignore
+**/.DS_Store

@@ -1,0 +1,37 @@
+{
+  "partiId": "debout",
+  "personnes": [
+    {
+      "personne": "François Ruffin",
+      "statutMembre": "membre",
+      "depuis": "2017-02-17",
+      "detail": "Fondateur et dirigeant de Debout ! (ex-Picardie Debout !), député de la Somme siégeant au groupe Écologiste et Social ; sa condamnation de 2008 est antérieure à la création du parti.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Présidentielle 2027 : cinq candidats sur la ligne de départ de la primaire à gauche (Le Monde)",
+          "url": "https://www.lemonde.fr/politique/article/2026/09/16/presidentielle-2027-six-candidats-sur-la-ligne-de-depart-de-la-primaire-a-gauche_6774514_823448.html",
+          "citation": "Comme le député de la Somme et fondateur du parti Debout!, François Ruffin, qui a redit son amertume, mardi.",
+          "date": "2026-09-16"
+        },
+        {
+          "titre": "Debout! — Wikipedia (consulté le 18/10/2026)",
+          "url": "https://en.wikipedia.org/wiki/Debout!",
+          "citation": "Debout! (D!, Stand Up!) is a French political party and movement founded by François Ruffin in 2017 and registered in 2019.",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Fiche député de François Ruffin (Assemblée nationale, consultée le 18/10/2026)",
+          "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA722142",
+          "citation": "M. François Ruffin Écologiste et Social Somme (1re circonscription) | Mandat en cours",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  ],
+  "alertes": [
+    "François Ruffin : sa fiche Assemblée nationale indique un rattachement financier au « Parti communiste français » (et non à Debout !) ; ce rattachement technique ne remet pas en cause son rôle de fondateur et dirigeant de Debout !.",
+    "Condamnation de 2008 (diffamation, livre « Quartier Nord ») antérieure à la fondation de Picardie Debout ! (2017) : aucune réaction du parti n'est attendue ni trouvée."
+  ]
+}

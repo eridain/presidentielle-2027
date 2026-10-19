@@ -1,0 +1,216 @@
+{
+  "id": "hydrocarbures-outre-mer",
+  "titre": "Hydrocarbures : lever l'interdiction en outre-mer",
+  "question": "Faut-il autoriser de nouveau la recherche, l'exploration et l'exploitation d'hydrocarbures dans les outre-mer ?",
+  "ouiSignifie": "pour",
+  "contexte": "La loi Hulot du 30 décembre 2017 interdit toute nouvelle recherche et exploitation d'hydrocarbures sur le territoire national, outre-mer compris. Déposée par le sénateur de Guyane Georges Patient, une proposition de loi levant cette interdiction dans les outre-mer a été adoptée par le Sénat le 29 janvier 2026 (227 pour, 105 contre). À l'Assemblée, elle a été inscrite dans la journée réservée au groupe GDR, avec pour rapporteur le député guyanais Jean-Victor Castor, soutenu par les élus de Guyane, le RN, l'UDR, la Droite républicaine et Horizons. Le gouvernement (Roland Lescure), la gauche hors GDR, EPR et les Démocrates s'y sont opposés au nom des engagements climatiques et de l'absence de gisement avéré en Guyane. Le 11 juin 2026, l'article 1er a été rejeté (64 pour, 74 contre) et la proposition de loi a été rejetée.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – rapport de la commission des affaires économiques sur la proposition de loi (n° 297, 2025-2026)",
+      "url": "https://www.senat.fr/rap/l25-297/l25-297_mono.html"
+    },
+    {
+      "titre": "Sénat – scrutin n°178 du 29 janvier 2026 sur l'ensemble",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-178.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 11 juin 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N268"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°7386",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+  "urlDossier": "https://www.senat.fr/rap/l25-297/l25-297_mono.html",
+  "argumentsPour": [
+    {
+      "auteur": "Davy Rimane (Gauche démocrate et républicaine, Guyane)",
+      "resume": "Le texte ne crée aucun puits : il rétablit la possibilité d'explorer et pose la question du droit des Guyanais à décider de leur développement.",
+      "citation": "La question n’est pas de savoir si le pétrole est l’avenir de la Guyane, mais si les Guyanais ont le droit d’en décider eux-mêmes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N268",
+      "date": "2026-06-11"
+    },
+    {
+      "auteur": "Alexandre Loubet (Rassemblement national)",
+      "resume": "La France importe 99 % de ses hydrocarbures ; l'exploration offrirait un levier de développement aux outre-mer et renforcerait la souveraineté énergétique.",
+      "citation": "Pourquoi la France, qui importe 99 % de ses hydrocarbures, est-elle l’un des seuls pays au monde à s’interdire d’exploiter son gaz et son pétrole ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N268",
+      "date": "2026-06-11"
+    },
+    {
+      "auteur": "Marie-Agnès Poussier-Winsback (Horizons & indépendants)",
+      "resume": "La Guyane et Mayotte sont les territoires les plus pauvres de France ; valoriser leurs ressources est un levier de développement compatible avec la neutralité carbone.",
+      "citation": "Le groupe Horizons & indépendants votera pour cette proposition de loi, pour le développement de nos outre-mer comme pour notre souveraineté énergétique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N268",
+      "date": "2026-06-11"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Roland Lescure (ministre de l'économie)",
+      "resume": "Les chances de trouver du pétrole en Guyane sont très faibles et l'exploitation trop longue et coûteuse ; l'avenir passe par les renouvelables et les ressources avérées.",
+      "citation": "Or on ne construit pas un modèle social et économique solide sur un mirage, mais sur des emplois durables, sur la forêt, sur la mer, sur le spatial, sur le tourisme et sur l’énergie",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N268",
+      "date": "2026-06-11"
+    },
+    {
+      "auteur": "Karim Benbrahim (Socialistes)",
+      "resume": "Il ne faut plus ouvrir de nouveaux champs fossiles pour tenir l'objectif climatique ; aucune compagnie ne voit de rentabilité en Guyane.",
+      "citation": "Les scientifiques sont formels : pour gagner le combat contre le dérèglement climatique, il faut s’abstenir d’exploiter tous les gisements fossiles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N268",
+      "date": "2026-06-11"
+    },
+    {
+      "auteur": "Julie Laernoes (Écologiste et social)",
+      "resume": "Le texte contredit l'accord de Paris et vend de faux espoirs, les explorations n'ayant jamais démontré de gisement exploitable.",
+      "citation": "En premier lieu, ce texte est en contradiction frontale avec nos engagements climatiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N268",
+      "date": "2026-06-11"
+    },
+    {
+      "auteur": "Nicolas Turquois (Les Démocrates)",
+      "resume": "Rouvrir la voie aux hydrocarbures n'est pas cohérent alors que le changement climatique frappe déjà durement les outre-mer.",
+      "citation": "il n’apparaît pas cohérent de rouvrir aujourd’hui la voie à de nouvelles activités liées aux hydrocarbures.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N268",
+      "date": "2026-06-11"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NFP a voté contre (1-29) ; son orateur Maxime Laisney s'est opposé à l'ouverture de nouveaux puits.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire national du PCF, plus député depuis 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR, auteur de l'inscription du texte et dont sont membres les députés guyanais, a voté pour (8-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°7386) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste et social a voté contre (0-17).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social a voté contre (0-17).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°7386) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste et social a voté contre (0-17).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté majoritairement contre (1-10-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°7386 du 11 juin 2026), président du groupe EPR (2 pour, 15 contre) ; pas d'intervention personnelle, argument = position du groupe (Olga Givernet).",
+      "argument": "Le groupe estime que l'exploitation d'hydrocarbures n'est pas la réponse à la souveraineté énergétique et aggraverait le dérèglement climatique.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N268",
+      "date": "2026-06-11"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Premier ministre lors de l'adoption de la loi Hulot (2017) ; aucune déclaration personnelle récente retrouvée. PROXY : le groupe Horizons & indépendants a voté pour la levée de l'interdiction (5-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote pour l'ensemble de la proposition de loi au Sénat (scrutin n°178 du 29 janvier 2026), groupe Les Républicains (127 pour, 0 contre) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-178.html",
+      "date": "2026-01-29"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (2-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de Nouvelle Énergie ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (2-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°7386) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe RN a voté pour (38-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée ; aucun proxy de groupe pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7386",
+      "date": "2026-06-11"
+    }
+  },
+  "alertes": [
+    "Ruffin, Batho, Le Pen : n'ont pas pris part au vote ; position inconnu (indication du vote de leur groupe à titre indicatif seulement).",
+    "Clivage atypique : le groupe GDR (communistes et ultramarins), à l'initiative de l'inscription du texte, a voté pour, avec le RN, l'UDR, la Droite républicaine et Horizons, contre le reste de la gauche et du centre.",
+    "Le vote porte sur l'article 1er, cœur du texte ; son rejet a entraîné celui de la proposition de loi. Faible participation (139 votants).",
+    "Le Pen a été invoquée en séance par le RN, mais n'a pas pris part au vote.",
+    "Le proxy GDR pour Roussel est fragile : le vote du groupe reflète surtout la position de ses députés ultramarins."
+  ]
+}

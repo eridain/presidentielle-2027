@@ -1,0 +1,219 @@
+{
+  "id": "moratoire-mega-bassines",
+  "titre": "Moratoire sur les « mégabassines »",
+  "question": "Faut-il instaurer un moratoire de dix ans sur la construction de nouvelles « mégabassines » ?",
+  "ouiSignifie": "contre",
+  "contexte": "Les « mégabassines » (retenues ou réserves de substitution) sont de grands réservoirs à ciel ouvert remplis l'hiver en pompant dans les nappes phréatiques ou les cours d'eau, pour irriguer l'été ; le projet de Sainte-Soline (Deux-Sèvres) a donné lieu à de violents affrontements en mars 2023. Dans sa niche parlementaire du 30 novembre 2023, La France insoumise a présenté une proposition de loi de Clémence Guetté instaurant un moratoire de dix ans sur les nouvelles autorisations de construction, sans remettre en cause les ouvrages existants. Le gouvernement (Franck Riester) et la majorité, la droite et le RN s'y sont opposés au nom du stockage de l'eau et de la souveraineté alimentaire. Les amendements de suppression de l'article unique (Jean Terlier, Renaissance, et identiques) ont été adoptés (156 pour, 104 contre) ; le texte, vidé de son contenu, a été retiré par son auteure le jour même.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif (Instaurer un moratoire sur le déploiement des méga-bassines)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/megabassines"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 30 novembre 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3102",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3102"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3102",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/megabassines",
+  "argumentsPour": [
+    {
+      "auteur": "Nicolas Turquois (Démocrate)",
+      "resume": "Les réserves de substitution prélèvent l'eau l'hiver, quand elle abonde, et sécurisent la production agricole face aux sécheresses ; un moratoire de dix ans serait contraire à l'urgence.",
+      "citation": "Vous souhaitez un moratoire de dix ans, alors qu’il y a urgence à protéger notre autonomie alimentaire et notre environnement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Raphaël Schellenberger (Les Républicains)",
+      "resume": "Le texte serait une attaque contre la profession agricole ; les retenues sont une solution pragmatique validée par le Varenne de l'eau et par une étude du BRGM.",
+      "citation": "Sous le prétexte d’un débat sur la gestion de l’eau, ce texte dissimule en réalité une attaque directe contre la profession agricole",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Philippe Schreck (Rassemblement national)",
+      "resume": "Le RN veut encadrer les retenues au cas par cas ; un moratoire appliqué aux projets en cours reviendrait à une interdiction de fait de l'irrigation.",
+      "citation": "En réalité, cette proposition de loi, au-delà d’un moratoire, édicte une interdiction",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Anne-Cécile Violland (Horizons)",
+      "resume": "Les retenues peuvent être un outil d'adaptation si elles sont examinées au cas par cas ; un moratoire général de dix ans est excessif.",
+      "citation": "C’est la raison pour laquelle chaque projet de réserve ou de retenue de substitution est et doit être examiné, au cas par cas, en s’interrogeant sur son dimensionnement et sur la destination de l’usage.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Clémence Guetté (La France insoumise, rapporteure)",
+      "resume": "Face à l'aggravation des sécheresses, un moratoire est une décision de sagesse, en attendant des données fiables sur les prélèvements d'eau.",
+      "citation": "Un moratoire de dix ans sur les autorisations de construction des mégabassines, c’est une décision de sagesse.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Chantal Jourdan (Socialistes)",
+      "resume": "Les données manquent sur l'effet des bassines sur les nappes et les cours d'eau ; le moratoire ne touche que les nouveaux projets et laisse le temps de la réflexion scientifique.",
+      "citation": "Nous manquons de données concernant les effets de ces bassines sur les nappes, sur l’assèchement des cours d’eau et sur le cycle de l’eau",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Delphine Batho (Écologiste)",
+      "resume": "La ressource en eau renouvelable baisse et l'État passe en force dans les Deux-Sèvres ; le moratoire n'est qu'une première étape.",
+      "citation": "Le groupe Écologiste votera pour un moratoire sur les mégabassines.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    {
+      "auteur": "Nicolas Sansu (Gauche démocrate et républicaine)",
+      "resume": "Le moratoire doit ouvrir un grand débat national sur une gestion intégrée et démocratique de l'eau.",
+      "citation": "C’est pourquoi le groupe Gauche démocrate et républicaine-NUPES votera ce texte sans aucune hésitation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire en 2023 ; son programme pour la présidentielle de 2027 prévoit d'« instaurer un moratoire sur le déploiement des méga-bassines » (recensé par Poligraph), position qui correspond à un vote contre la suppression. Le groupe LFI-NUPES, auteur du texte, a voté contre (0-75).",
+      "argument": "Il propose un moratoire sur le déploiement des méga-bassines.",
+      "citation": "Instaurer un moratoire sur le déploiement des méga-bassines",
+      "url": "https://poligraph.fr/elections/presidentielle-2027/mesures/jean-luc-melenchon-instaurer-un-moratoire-sur-le-deploiement-des-mega-bassines",
+      "date": "2026-08-28"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3102) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe GDR-NUPES a voté contre la suppression (0-6).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3102",
+      "date": "2023-11-30"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre la suppression du moratoire à l'Assemblée nationale (scrutin n°3102 du 30 novembre 2023), alors membre du groupe LFI-NUPES ; pas d'argument personnel sur le fond retrouvé dans ce débat, argument = position du groupe (Clémence Guetté).",
+      "argument": "Le groupe défend un moratoire de dix ans face à l'aggravation des sécheresses.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    "tondelier": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; s'est opposée aux mégabassines dans une vidéo (date non précisée sur la page). Le groupe Écologiste-NUPES a voté contre la suppression (0-10).",
+      "argument": "Elle estime que les mégabassines aggravent le problème de l'eau.",
+      "citation": "Elles aggravent le problème de l'eau",
+      "url": "https://actu.orange.fr/videos/politique/marine-tondelier-sur-les-megabassines-elles-aggravent-le-probleme-de-l-eau-CNT000002dQeFi.html",
+      "date": null
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre la suppression du moratoire à l'Assemblée nationale (scrutin n°3102), oratrice du groupe Écologiste-NUPES dans la discussion générale, députée des Deux-Sèvres.",
+      "argument": "Elle dénonce le passage en force de l'État dans les Deux-Sèvres et voit dans le moratoire une première étape.",
+      "citation": "S’il y a un territoire en France qui demande un moratoire, c’est celui des Deux-Sèvres",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre la suppression (0-13).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3102",
+      "date": "2023-11-30"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Éducation nationale du gouvernement Borne, qui s'opposait au moratoire (Franck Riester) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons a voté pour la suppression (7-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3102",
+      "date": "2023-11-30"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président du groupe LR au Sénat ; texte non transmis au Sénat, aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour la suppression (7-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3102",
+      "date": "2023-11-30"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR a voté pour la suppression (7-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3102",
+      "date": "2023-11-30"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR a voté pour la suppression (7-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3102",
+      "date": "2023-11-30"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour la suppression du moratoire à l'Assemblée nationale (scrutin n°3102), présidente du groupe RN ; pas d'intervention personnelle, argument = position du groupe (Philippe Schreck).",
+      "argument": "Le groupe juge qu'un moratoire de dix ans reviendrait à interdire de fait l'irrigation et préfère un encadrement au cas par cas.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N069",
+      "date": "2023-11-30"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3102",
+      "date": "2023-11-30"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3102) ; aucune déclaration spécifique retrouvée. À titre indicatif, les non-inscrits n'ont pas pris part au vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3102",
+      "date": "2023-11-30"
+    }
+  },
+  "alertes": [
+    "Roussel, Dupont-Aignan : n'ont pas pris part au vote ; position inconnu (indication du vote de leur groupe à titre indicatif seulement).",
+    "Question inversée : le scrutin porte sur des amendements de SUPPRESSION du moratoire. Voter « pour » = contre le moratoire ; voter « contre » = pour le moratoire (« Oui » à la question).",
+    "Le texte a été retiré par son auteure après la suppression de son article unique : il n'y a pas eu de vote sur l'ensemble.",
+    "Tondelier : déclaration tirée du titre d'une vidéo dont la date n'est pas indiquée sur la page source.",
+    "Mélenchon : position tirée de son programme 2027 (via Poligraph), pas d'un vote."
+  ]
+}

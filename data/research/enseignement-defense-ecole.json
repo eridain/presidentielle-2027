@@ -1,0 +1,203 @@
+{
+  "id": "enseignement-defense-ecole",
+  "titre": "Enseignement de la défense nationale à l'école",
+  "question": "Faut-il renforcer l'enseignement de la défense nationale à l'école ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi n° 2385 (rapporteur Christophe Blanchet, Les Démocrates) complète l'enseignement de défense déjà prévu par le code de l'éducation (article L. 312-12) en créant un référentiel national de compétences, décliné par cycle, et des « entrées défense » dans les disciplines existantes (enseignement moral et civique, histoire-géographie, parcours citoyen). L'enseignement reste assuré par les professeurs, qui peuvent faire intervenir des réservistes ou des correspondants défense sous leur autorité. Les auteurs invoquent la dégradation du contexte international et les menaces hybrides russes. Le gouvernement (Édouard Geffray, ministre de l'Éducation nationale) a soutenu le texte, adopté en première lecture le 26 mars 2026 par 39 voix contre 17 (LFI, socialistes et écologistes contre) et transmis au Sénat.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_enseignement_defense_nationale_dans_parcours_citoyennete_17e"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 26 mars 2026 (discussion générale)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-26-mars-2026"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 3e séance du 26 mars 2026 (articles et vote)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/troisieme-seance-du-jeudi-26-mars-2026"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_enseignement_defense_nationale_dans_parcours_citoyennete_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Christophe Blanchet (Les Démocrates, rapporteur)",
+      "resume": "La Russie multiplie les actions hostiles contre la France (cyberattaques, ingérences, sabotages) ; la jeunesse doit comprendre les enjeux de défense, qui sont une obligation citoyenne.",
+      "citation": "Si le patriotisme n’est pas une obligation, la défense nationale, elle, en est une.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-26-mars-2026",
+      "date": "2026-03-26"
+    },
+    {
+      "auteur": "Édouard Geffray (ministre de l'Éducation nationale)",
+      "resume": "Il s'agit d'une démarche pédagogique assurée par les professeurs, avec un référentiel neutre et adapté à l'âge ; le gouvernement soutient le texte.",
+      "citation": "ce sont des professeurs et non des représentants de l’armée qui assureront cet enseignement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-26-mars-2026",
+      "date": "2026-03-26"
+    },
+    {
+      "auteur": "Romain Tonussi (Rassemblement national)",
+      "resume": "Le passage à l'armée professionnelle n'aurait pas dû affaiblir l'esprit de défense ; le RN soutient le texte et veut aller plus loin.",
+      "citation": "Si la France a fait, au sortir de la guerre froide, le choix d’une armée professionnelle, ce choix n’aurait jamais dû conduire à affaiblir l’esprit de défense",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/troisieme-seance-du-jeudi-26-mars-2026",
+      "date": "2026-03-26"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Emmanuel Fernandes (La France insoumise)",
+      "resume": "Un enseignement de défense existe déjà mais est peu dispensé faute de moyens, alors que le budget 2026 supprime des postes d'enseignants.",
+      "citation": "Mais le problème n’est pas l’absence de référentiel ; le problème est que cet enseignement est en réalité peu dispensé.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/troisieme-seance-du-jeudi-26-mars-2026",
+      "date": "2026-03-26"
+    },
+    {
+      "auteur": "Ayda Hadizadeh (Socialistes)",
+      "resume": "L'intention est jugée honorable, mais ce n'est pas la priorité alors que les enseignants sont en grande difficulté.",
+      "citation": "Je vois bien quelle est votre intention, je la trouve honorable, mais ce n’est pas le moment.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/troisieme-seance-du-jeudi-26-mars-2026",
+      "date": "2026-03-26"
+    },
+    {
+      "auteur": "Nicolas Bonnet (Écologiste et social)",
+      "resume": "Mieux vaut renforcer l'existant (enseignement moral et civique, histoire-géographie, éducation aux médias) que créer un dispositif jugé inadapté.",
+      "citation": "La proposition de loi part d’une préoccupation réelle, mais y répond de manière inadaptée, déséquilibrée et, en réalité, inefficace.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/deuxieme-seance-du-jeudi-26-mars-2026",
+      "date": "2026-03-26"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 11 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée ; aucun député GDR n'a voté.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°5845) ; aucune déclaration retrouvée. Indication : le groupe EcoS a voté majoritairement contre (1 pour / 2 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté majoritairement contre (1 pour / 2 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°5845) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté contre (0 pour / 4 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°5845) ; aucune déclaration retrouvée ; aucun député EPR n'a voté.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le seul député Horizons votant a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; le Sénat n'a pas encore examiné le texte à notre connaissance ; aucune déclaration retrouvée ; aucun député Droite républicaine n'a voté.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_enseignement_defense_nationale_dans_parcours_citoyennete_17e",
+      "date": "2026-03-26"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée ; aucun député Droite républicaine n'a voté.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°5845) ; aucune déclaration retrouvée. Indication : son groupe RN a voté pour (9 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/5845",
+      "date": "2026-03-26"
+    }
+  },
+  "alertes": [
+    "Scrutin à très faible participation (56 votants), un jeudi soir de niche : aucun candidat n'a pris part au vote ; aucune position vérifiée.",
+    "Le texte ne crée pas un enseignement entièrement nouveau : il complète l'enseignement de défense existant par un référentiel. La question proposée reste fidèle mais doit être lue ainsi.",
+    "Texte transmis au Sénat (27 mars 2026) ; suite de la navette non vérifiée."
+  ]
+}

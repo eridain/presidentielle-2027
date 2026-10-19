@@ -1,0 +1,22 @@
+{
+  "id": "anticasseurs",
+  "questionSimple": "Faut-il voter la loi « anticasseurs » : interdiction de manifester par le préfet, visage caché puni, fouilles autour des cortèges ?",
+  "enBref": "Pendant le mouvement des « gilets jaunes », ce texte veut donner plus de moyens contre les violences en manifestation. Le préfet pourrait interdire à une personne de manifester, sans passer par un juge. Cacher son visage en manifestation devient un délit, et des fouilles sont permises aux abords des cortèges.",
+  "pourquoiPour": "Manifester est un droit, mais casser reste un délit. Le texte protège le droit de manifester en donnant aux forces de l'ordre plus de moyens juridiques contre les casseurs.",
+  "pourquoiContre": "Le droit actuel permet déjà de punir les casseurs. Confier l'interdiction de manifester au préfet, représentant du gouvernement, plutôt qu'à un juge menace la liberté de manifester.",
+  "ceQuiSestPasse": "Adoptée en mars 2019 et promulguée en avril, la loi a perdu l'interdiction de manifester décidée par le préfet, censurée par le Conseil constitutionnel.",
+  "lexique": [
+    {
+      "terme": "Préfet",
+      "definition": "Représentant de l'État dans un département, nommé par le gouvernement."
+    },
+    {
+      "terme": "Délit",
+      "definition": "Infraction jugée par un tribunal et punie, par exemple, de prison ou d'amende."
+    },
+    {
+      "terme": "Conseil constitutionnel",
+      "definition": "Institution qui vérifie que les lois respectent la Constitution ; elle peut en annuler des parties."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "fraudes-sociales-fiscales",
+  "questionSimple": "Faut-il adopter la loi de 2026 qui renforce les contrôles et les sanctions contre les fraudes sociales et fiscales ?",
+  "enBref": "Cette loi veut mieux repérer, punir et récupérer l'argent des fraudes aux aides sociales et aux impôts. Les administrations pourront davantage partager leurs fichiers. Les contrôles des chômeurs et des arrêts maladie sont renforcés, tout comme ceux des montages financiers.",
+  "pourquoiPour": "Pour ses défenseurs, la fraude coûte des milliards à l'État. Quand on demande des efforts aux Français, il faut être ferme avec les fraudeurs, qu'il s'agisse d'aides sociales ou d'impôts.",
+  "pourquoiContre": "Pour la gauche, la loi vise surtout les allocataires modestes et installe une logique de soupçon. Elle juge aussi le texte trop faible face à la grande fraude fiscale.",
+  "ceQuiSestPasse": "La loi a été adoptée (335 voix contre 182) et promulguée le 25 juin 2026.",
+  "lexique": [
+    {"terme": "Fraude sociale", "definition": "Fait de toucher indûment des aides (chômage, RSA, maladie) ou de ne pas payer ses cotisations."},
+    {"terme": "Commission mixte paritaire (CMP)", "definition": "Groupe de députés et sénateurs qui rédige un texte commun aux deux assemblées."}
+  ]
+}

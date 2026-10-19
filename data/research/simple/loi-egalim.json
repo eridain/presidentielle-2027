@@ -1,0 +1,18 @@
+{
+  "id": "loi-egalim",
+  "questionSimple": "Faut-il adopter la loi EGalim sur les prix agricoles et le bio dans les cantines ?",
+  "enBref": "La loi veut que le prix payé aux agriculteurs tienne compte de leurs coûts de production. Les supermarchés doivent revendre l'alimentaire au moins 10 % plus cher que leur prix d'achat, et les promotions sont limitées. Les cantines doivent viser 50 % de produits de qualité, dont 20 % de bio.",
+  "pourquoiPour": "Ses partisans veulent inverser la construction des prix pour que les agriculteurs vivent de leur travail. Ils veulent aussi mettre fin à la guerre des prix et mieux nourrir dans les cantines.",
+  "pourquoiContre": "Ses opposants jugent que la loi ne change pas le rapport de force avec la grande distribution. Selon eux, sans régulation publique des prix, le revenu des agriculteurs ne progressera pas.",
+  "ceQuiSestPasse": "Adoptée définitivement le 2 octobre 2018, la loi a été promulguée le 30 octobre 2018 après la censure de plusieurs articles par le Conseil constitutionnel.",
+  "lexique": [
+    {
+      "terme": "Seuil de revente à perte",
+      "definition": "Prix minimum auquel un magasin a le droit de revendre un produit."
+    },
+    {
+      "terme": "Cavalier législatif",
+      "definition": "Article sans lien avec le sujet du texte, censuré pour cette raison."
+    }
+  ]
+}

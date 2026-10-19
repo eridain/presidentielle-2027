@@ -1,0 +1,18 @@
+{
+  "id": "scrutin-liste-petites-communes",
+  "questionSimple": "Faut-il imposer des listes avec autant de femmes que d'hommes aux élections municipales des petits villages ?",
+  "enBref": "Dans les communes de moins de 1 000 habitants, on votait pour des personnes, en pouvant rayer des noms. La loi impose des listes alternant femmes et hommes, comme dans les villes. Elle s'applique depuis les municipales de 2026.",
+  "pourquoiPour": "Pour ses défenseurs, les femmes restent minoritaires dans les conseils des villages. Une liste paritaire crée une équipe autour d'un projet et évite les règlements de comptes en rayant des noms.",
+  "pourquoiContre": "Pour ses opposants, les électeurs perdent la liberté de choisir des personnes. Trouver assez de candidats est déjà difficile, et changer les règles juste avant l'élection est trop rapide.",
+  "ceQuiSestPasse": "Adoptée de justesse le 7 avril 2025, la loi a été validée par le Conseil constitutionnel et appliquée aux municipales de mars 2026.",
+  "lexique": [
+    {
+      "terme": "Panachage",
+      "definition": "Possibilité de rayer des noms sur un bulletin ou d'en ajouter d'autres."
+    },
+    {
+      "terme": "Parité",
+      "definition": "Autant de femmes que d'hommes."
+    }
+  ]
+}

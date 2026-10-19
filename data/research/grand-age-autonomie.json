@@ -1,0 +1,224 @@
+{
+  "id": "grand-age-autonomie",
+  "titre": "Loi « bien vieillir » sur le grand âge et l'autonomie (2024)",
+  "question": "Faut-il adopter la loi « bien vieillir » sur le grand âge et l'autonomie (lutte contre la maltraitance en EHPAD, carte professionnelle pour les aides à domicile) ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi des députées Renaissance Annie Vidal et Laurence Cristol, « portant mesures pour bâtir la société du bien vieillir et de l'autonomie », a été adoptée définitivement à l'Assemblée le 19 mars 2024 dans le texte de la commission mixte paritaire (177 pour, 51 contre, 45 abstentions). Elle crée dans chaque département une cellule de recueil des signalements de maltraitance et un service public départemental de l'autonomie (guichet unique). Elle consacre un droit de visite pour les résidents d'EHPAD, absolu pour les personnes en fin de vie, et permet aux résidents de garder leur animal de compagnie sous conditions. Pour les aides à domicile, elle prévoit une carte professionnelle et une aide à la mobilité de 100 millions d'euros par an. Elle impose enfin le vote d'une loi de programmation pluriannuelle sur le grand âge avant le 31 décembre 2024. Toutes les oppositions ont regretté l'absence de la « grande loi grand âge » promise depuis 2018 et de nouveaux moyens. La loi a été promulguée le 8 avril 2024 ; la loi de programmation prévue n'avait pas été votée à la date limite.",
+  "contexteSources": [
+    {
+      "titre": "Banque des Territoires – Proposition de loi sur le bien vieillir : un accord trouvé en CMP",
+      "url": "https://banquedesterritoires.fr/proposition-de-loi-sur-le-bien-vieillir-un-accord-trouve-en-cmp"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 19 mars 2024 (vote)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N155"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 19 mars 2024 (discussion)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N154"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3550",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/mesures_societe_bien_vieillir",
+  "argumentsPour": [
+    {
+      "auteur": "Annie Vidal (Renaissance, rapporteure)",
+      "resume": "Le texte apporte des avancées concrètes pour les aînés, en attendant d'autres lois.",
+      "citation": "l’adoption de ce texte nous ferait franchir un pas supplémentaire en faveur de nos aînés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N155",
+      "date": "2024-03-19"
+    },
+    {
+      "auteur": "Chantal Bouloux (Renaissance)",
+      "resume": "La loi s'inscrit dans une stratégie en trois piliers : prévenir, protéger, accompagner.",
+      "citation": "Cette proposition de loi constitue une nouvelle étape, au sein d’une stratégie globale qui s’articule autour de trois piliers : prévenir, protéger, accompagner.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N155",
+      "date": "2024-03-19"
+    },
+    {
+      "auteur": "Sandrine Dogor-Such (Rassemblement national)",
+      "resume": "Le RN juge le texte insuffisant mais vote ses quelques avancées, dont le droit de visite qui figurait dans le programme de Marine Le Pen.",
+      "citation": "Parce qu’il est de notre devoir de soutenir nos aînés et parce qu’elle contient les quelques mesures que j’ai évoquées, mon groupe votera cette proposition de loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N155",
+      "date": "2024-03-19"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "François Ruffin (La France insoumise)",
+      "resume": "Des mesures dérisoires face au choc démographique, à la place de la grande loi grand âge promise depuis sept ans.",
+      "citation": "Vous proposez du bidouillage et du bricolage pour affronter ce choc.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N154",
+      "date": "2024-03-19"
+    },
+    {
+      "auteur": "Yannick Monnet (Gauche démocrate et républicaine)",
+      "resume": "On ne peut pas traiter le grand âge à moyens constants ; le texte n'est pas à la hauteur des besoins.",
+      "citation": "le groupe GDR a voté contre, considérant qu’on ne pouvait traiter la question du grand âge à moyens constants",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N155",
+      "date": "2024-03-19"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Josiane Corneloup (Les Républicains)",
+      "resume": "Quelques mesures utiles mais aucun moyen nouveau pour les EHPAD ni l'aide à domicile : LR s'abstient.",
+      "citation": "cette somme de mesurettes ne constitue pas une politique à la hauteur de l’enjeu. C’est pourquoi nous nous abstiendrons sur ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N154",
+      "date": "2024-03-19"
+    },
+    {
+      "auteur": "Sébastien Peytavie (Écologiste – NUPES)",
+      "resume": "Des avancées réelles, mais sans le financement ni le choc d'attractivité attendus ; les écologistes s'abstiennent.",
+      "citation": "faute d’avoir obtenu des garanties suffisantes pour faire du bien vieillir une réalité, nous nous abstiendrons.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N155",
+      "date": "2024-03-19"
+    },
+    {
+      "auteur": "Laurent Panifous (LIOT)",
+      "resume": "Faute d'engagement du gouvernement à déposer un projet de loi grand âge, LIOT s'abstient.",
+      "citation": "N’ayant pu obtenir, malgré nos multiples sollicitations, l’engagement du Gouvernement à présenter un projet de loi sur le grand âge, notre groupe s’abstiendra sur ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N155",
+      "date": "2024-03-19"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour, 41 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe GDR-NUPES a voté contre (0 pour, 4 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "N'a pas pris part au vote final, mais était l'orateur du groupe LFI-NUPES dans la discussion générale. Il y a qualifié le texte de « bidouillage » et réclamé une grande loi grand âge ; son groupe a voté contre.",
+      "argument": "Il juge les mesures dérisoires face au vieillissement et dénonce le renoncement du gouvernement à la loi grand âge promise.",
+      "citation": "Vous proposez du bidouillage et du bricolage pour affronter ce choc.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N154",
+      "date": "2024-03-19"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES s'est partagé (2 contre, 2 abstentions), son orateur annonçant l'abstention.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe Écologiste-NUPES s'est partagé (2 contre, 2 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes s'est abstenu (11 abstentions, 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui soutenait le texte (ministre déléguée Fadila Khattabi au banc) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N155",
+      "date": "2024-03-19"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, président d'Horizons, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (14 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, président du groupe LR ; pas de scrutin public nominatif retrouvé au Sénat sur le texte de la CMP, aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée s'est abstenu (24 abstentions, 1 pour, 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR s'est abstenu (24 abstentions, 1 pour, 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR s'est abstenu (24 abstentions, 1 pour, 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration personnelle retrouvée. Son groupe RN a voté pour (37 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national ; aucune déclaration retrouvée. Pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non inscrit, n'a pas pris part au vote ; aucune déclaration retrouvée. Les non-inscrits votants se sont abstenus (2 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3550",
+      "date": "2024-03-19"
+    }
+  },
+  "alertes": [
+    "Ruffin : position déduite de son intervention comme orateur de LFI-NUPES dans la discussion générale. Il n'a pas pris part au scrutin final et n'a pas annoncé de vote explicite.",
+    "Abstentions et votes contre ne visent pas les mesures du texte, souvent jugées utiles, mais l'absence de moyens et de la « loi grand âge » promise. Socialistes, LFI, écologistes et GDR ont soutenu une motion de rejet pour réclamer cette loi.",
+    "La loi de programmation pluriannuelle sur le grand âge, que le texte imposait avant le 31 décembre 2024, n'a pas été votée dans ce délai (la dissolution de juin 2024 et les changements de gouvernement ont suivi).",
+    "Attal : position déduite de son appartenance au gouvernement (Premier ministre), favorable au texte.",
+    "Roussel, Batho, Le Pen, Dupont-Aignan n'ont pas pris part au vote : positions « inconnu »."
+  ]
+}

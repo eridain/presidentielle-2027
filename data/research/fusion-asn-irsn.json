@@ -1,0 +1,211 @@
+{
+  "id": "fusion-asn-irsn",
+  "titre": "Fusion de l'ASN et de l'IRSN",
+  "question": "Faut-il fusionner l'Autorité de sûreté nucléaire (ASN) et l'IRSN, son expert technique public ?",
+  "ouiSignifie": "pour",
+  "contexte": "Dans le contexte de la relance du nucléaire (nouveaux réacteurs EPR2), le projet de loi fusionne l'Autorité de sûreté nucléaire (ASN, qui contrôle et décide) et l'Institut de radioprotection et de sûreté nucléaire (IRSN, qui fournit l'expertise technique) dans une nouvelle Autorité de sûreté nucléaire et de radioprotection (ASNR), créée en 2025. Le texte avait été adopté de justesse en première lecture à l'Assemblée (260 voix contre 259) ; le texte de la commission mixte paritaire a été adopté le 9 avril 2024 (340 pour, 173 contre). Le Conseil constitutionnel l'a jugé conforme (17 mai 2024) ; loi n° 2024-450 du 21 mai 2024.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 21 mai 2024, sûreté nucléaire, fusion ASN et IRSN",
+      "url": "https://www.vie-publique.fr/loi/292470-loi-21-mai-2024-surete-nucleaire-fusion-asn-et-irsn"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N49124"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3662",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3662"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3662",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N49124",
+  "argumentsPour": [
+    {
+      "auteur": "Anthony Brosse (Renaissance)",
+      "resume": "La réforme ne touche pas aux principes de sûreté mais à la gouvernance ; la CMP garantit la publication des expertises et la séparation entre experts et décideurs.",
+      "citation": "Les résultats des expertises seront systématiquement publiés pour que les décisions ne puissent souffrir d’aucune contestation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N174",
+      "date": "2024-04-09"
+    },
+    {
+      "auteur": "Pierre Henriet (Horizons)",
+      "resume": "Le texte de CMP est équilibré, sépare expertise et décision et renforce transparence et déontologie de la nouvelle autorité.",
+      "citation": "Il sépare les rôles d’expertise et de décision dans la nouvelle organisation",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N174",
+      "date": "2024-04-09"
+    },
+    {
+      "auteur": "Emmanuel Maquet (Les Républicains)",
+      "resume": "LR approuve le principe d'une fusion pour optimiser le contrôle du nucléaire en vue de la relance de la filière.",
+      "citation": "Nous sommes d’accord avec son principe : nous comprenons la nécessité de fusionner l’ASN et l’IRSN afin d’optimiser notre système de sécurité et de contrôle du nucléaire",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N174",
+      "date": "2024-04-09"
+    },
+    {
+      "auteur": "Jean-Philippe Tanguy (Rassemblement national)",
+      "resume": "Le RN critique la méthode du gouvernement mais estime que la fin du système dual peut lever des lenteurs qui freinent la relance du nucléaire.",
+      "citation": "Bref, la fin du système dual pourrait mettre fin à la confusion et à d’innombrables pertes de temps, pour peu que le Gouvernement ait l’autorité de mener correctement cette fusion.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N174",
+      "date": "2024-04-09"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Gérard Leseul (Socialistes)",
+      "resume": "La « fusion-absorption » de l'IRSN, sans justification objective, menacerait l'information, la transparence et le dialogue technique avec la société.",
+      "citation": "Nous nous inquiétons des conséquences de cette réforme sur l’information, la transparence et le dialogue technique avec la société.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N174",
+      "date": "2024-04-09"
+    },
+    {
+      "auteur": "Édouard Bénard (Gauche démocrate et républicaine)",
+      "resume": "Le modèle dual français séparant contrôle et expertise a fait ses preuves ; le texte réorganise les structures sans améliorer la sûreté.",
+      "citation": "Nos débats ont confirmé le caractère trompeur de ce texte, qui tend à réorganiser les structures plutôt qu’à améliorer notre sûreté nucléaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N174",
+      "date": "2024-04-09"
+    },
+    {
+      "auteur": "Anne Stambach-Terrenoir (La France insoumise)",
+      "resume": "La réforme, rejetée par la majorité des salariés de l'IRSN, de l'ASN et du CEA, désorganiserait le système de sûreté en pleine relance.",
+      "citation": "Bref, votre relance fait face à des défis colossaux, et pourtant vous y ajoutez une désorganisation majeure du système de sûreté.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N174",
+      "date": "2024-04-09"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0-73).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3662",
+      "date": "2024-04-09"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°3662 du 9 avril 2024) ; pas d'intervention personnelle retrouvée, argument = position du groupe GDR (Édouard Bénard, Sébastien Jumel).",
+      "argument": "Le groupe défend le modèle dual séparant contrôle et expertise, jugé éprouvé, et estime que le texte n'améliore pas la sûreté.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N174",
+      "date": "2024-04-09"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°3662) ; pas d'intervention personnelle retrouvée, argument = position du groupe LFI-NUPES (Anne Stambach-Terrenoir).",
+      "argument": "Le groupe juge que la réforme désorganise le système de sûreté nucléaire, contre l'avis des salariés et d'experts.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N174",
+      "date": "2024-04-09"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste-NUPES a voté contre (0-21).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3662",
+      "date": "2024-04-09"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°3662) ; oratrice du groupe Écologiste sur la motion de rejet préalable le 9 avril 2024.",
+      "argument": "La réforme mettrait fin à la publication de l'expertise avant décision, donc à la transparence, et à l'approche commune sûreté-sécurité portée par l'IRSN.",
+      "citation": "Si nous mettons fin à la publication de l’expertise en amont de la décision, le secret deviendra la règle et la transparence l’exception.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N174",
+      "date": "2024-04-09"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0-31).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3662",
+      "date": "2024-04-09"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a porté le projet de loi ; pas de déclaration personnelle retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N49124",
+      "date": "2024-04-09"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre et président d'Horizons ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons a voté pour (23-0-3).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3662",
+      "date": "2024-04-09"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président du groupe LR au Sénat ; aucun scrutin public nominatif retrouvé au Sénat sur ce texte. PROXY : le groupe LR de l'Assemblée a voté majoritairement pour (43-6-11).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3662",
+      "date": "2024-04-09"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée a voté majoritairement pour (43-6-11).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3662",
+      "date": "2024-04-09"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté majoritairement pour (43-6-11).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3662",
+      "date": "2024-04-09"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°3662), présidente du groupe RN ; pas d'intervention personnelle retrouvée, argument = explication du groupe RN (Jean-Philippe Tanguy).",
+      "argument": "Le groupe soutient une fusion susceptible de lever des lenteurs administratives freinant la relance du nucléaire, tout en critiquant la méthode du gouvernement.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N174",
+      "date": "2024-04-09"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3662",
+      "date": "2024-04-09"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°3662), député non inscrit ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3662",
+      "date": "2024-04-09"
+    }
+  },
+  "alertes": [
+    "Le RN avait voté contre le texte en première lecture (19 mars 2024), par « coup de semonce » selon Nicolas Dragon, avant de voter pour le texte de la CMP.",
+    "Les arguments proviennent de la discussion générale commune et de la motion de rejet préalable de la séance du 9 avril 2024 (pas d'explications de vote séparées).",
+    "Retailleau : aucun scrutin public nominatif retrouvé au Sénat sur ce texte ; proxy de groupe uniquement.",
+    "Roussel, Ruffin, Le Pen : arguments = position de leur groupe, sans citation personnelle."
+  ]
+}

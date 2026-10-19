@@ -1,0 +1,223 @@
+{
+  "id": "emploi-seniors-ani",
+  "titre": "Emploi des seniors : CDI senior et accords sociaux (2025)",
+  "question": "Faut-il transposer les accords sur l'emploi des seniors (négociation obligatoire sur les salariés expérimentés, « contrat de valorisation de l'expérience », retraite progressive facilitée) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Ce projet de loi transpose les accords nationaux interprofessionnels du 14 novembre 2024 conclus après l'échec de la négociation sur le « pacte de la vie au travail » : l'accord sur l'emploi des seniors a été signé par les trois organisations patronales et quatre des cinq syndicats représentatifs (tous sauf la CGT). Il crée, à titre expérimental pour cinq ans, un « contrat de valorisation de l'expérience » (CDI réservé aux demandeurs d'emploi d'au moins 60 ans, ou 57 ans par accord de branche) que l'employeur peut rompre par une mise à la retraite dès que le salarié a droit au taux plein, avec une exonération temporaire sur l'indemnité de mise à la retraite. Il impose une négociation sur l'emploi des salariés expérimentés dans les branches et dans les entreprises d'au moins 300 salariés, transforme l'entretien professionnel en entretien de parcours, facilite la retraite progressive et supprime la limite de trois mandats successifs des élus de CSE ; des compromis sur l'assurance chômage y ont été ajoutés. Après le Sénat (10 juillet 2025), l'Assemblée a adopté définitivement le texte de la CMP le 15 octobre 2025 (143 voix contre 25, 8 abstentions) ; la loi n° 2025-989 a été promulguée le 24 octobre 2025.",
+  "contexteSources": [
+    {
+      "titre": "Légifrance – Loi n° 2025-989 du 24 octobre 2025",
+      "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000052430940"
+    },
+    {
+      "titre": "Service-public.fr – Emploi des salariés seniors : qu'est-ce qui change ?",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18564"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52040"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 15 octobre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N004"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3055",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N52040",
+  "argumentsPour": [
+    {
+      "auteur": "Théo Bernhardt (RN)",
+      "resume": "Le RN vote le texte car il respecte le dialogue social et répond concrètement à l'emploi des seniors, tout en dénonçant la réforme des retraites imposée par le 49.3.",
+      "citation": "Le Rassemblement national votera ce texte issu de la commission mixte paritaire car il respecte le dialogue social et apporte des réponses concrètes à l’emploi des seniors.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N004",
+      "date": "2025-10-15"
+    },
+    {
+      "auteur": "Océane Godard (Socialistes)",
+      "resume": "Les partenaires sociaux sont parvenus à un accord équilibré et responsable, que les socialistes soutiennent.",
+      "citation": "Dans une période où le paritarisme est souvent malmené, nous saluons les partenaires sociaux, qui sont parvenus à un accord équilibré et responsable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N004",
+      "date": "2025-10-15"
+    },
+    {
+      "auteur": "Joséphine Missoffe (Ensemble pour la République)",
+      "resume": "L'emploi des seniors est une urgence sociale ; l'objectif est d'atteindre 65 % d'emploi des seniors d'ici 2030.",
+      "citation": "Il répond à un constat clair : l’emploi des seniors est une urgence sociale et une exigence de justice.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N004",
+      "date": "2025-10-15"
+    },
+    {
+      "auteur": "Louise Morel (Les Démocrates)",
+      "resume": "Ces accords, signés par toutes les organisations représentatives sauf la CGT, doivent mieux préparer la vie au travail à tous les âges ; la France reste en retard.",
+      "citation": "Soyons lucides : la France reste en retard s’agissant de l’emploi des seniors.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N004",
+      "date": "2025-10-15"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Louis Boyard (LFI-NFP)",
+      "resume": "La négociation sur les seniors n'est ni contraignante ni chiffrée : en l'absence d'accord, le patronat a le dernier mot.",
+      "citation": "C’est littéralement ce qui est écrit dans cet article 1 er : à la fin, en l’absence d’accord, le patronat a le dernier mot.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N005",
+      "date": "2025-07-03"
+    },
+    {
+      "auteur": "Louis Boyard (LFI-NFP)",
+      "resume": "Il faudrait obliger les employeurs à conclure un accord, en attendant l'abrogation de la réforme des retraites et le retour de la retraite à 60 ans.",
+      "citation": "En attendant l’abrogation de la réforme et l’abaissement à 60 ans de l’âge de départ en retraite, il faut obliger les employeurs à conclure un accord !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N005",
+      "date": "2025-07-03"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Sophie Taillé-Polian (Écologiste et social)",
+      "resume": "L'objectif est bon mais les accords sont dérisoires, faute de concessions patronales.",
+      "citation": "Des accords ont lieu, certes, mais ils sont dérisoires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N004",
+      "date": "2025-10-15"
+    },
+    {
+      "auteur": "Yannick Monnet (GDR)",
+      "resume": "Les travailleurs expérimentés sont les grandes victimes de la réforme des retraites de 2023 ; les communistes s'abstiennent.",
+      "citation": "Les travailleurs dits expérimentés sont en effet les grandes victimes de la réforme des retraites de 2023.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N004",
+      "date": "2025-10-15"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; pas de déclaration retrouvée. Proxy indicatif : le groupe LFI-NFP a voté contre (25 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; pas de déclaration retrouvée. Proxy indicatif : le groupe GDR s'est abstenu (3 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°3055). Proxy indicatif : le groupe Écologiste et social, où il siège, s'est abstenu (5 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; pas de déclaration retrouvée. Proxy indicatif : le groupe Écologiste et social s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°3055). Proxy indicatif : le groupe Écologiste et social s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste a voté pour (10 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°3055) ; président du groupe EPR ; pas d'intervention personnelle : argument = explication de son groupe (Joséphine Missoffe).",
+      "argument": "Le groupe EPR voit dans l'emploi des seniors une urgence sociale et vise 65 % d'emploi des seniors en 2030.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N004",
+      "date": "2025-10-15"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons ; pas de déclaration retrouvée. Proxy indicatif : le groupe Horizons a voté pour (15 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'intérieur du gouvernement Bayrou, qui portait le projet de loi, lors de son adoption définitive au Sénat (scrutin n°353 du 10 juillet 2025, auquel il n'a pas pris part comme membre du gouvernement) ; il n'était plus ministre lors du vote final de l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2024/scr2024-353.html",
+      "date": "2025-07-10"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; pas de déclaration retrouvée. Proxy indicatif : le groupe Droite républicaine a voté pour (11 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; pas de déclaration retrouvée. Proxy indicatif : le groupe Droite républicaine a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°3055). Proxy indicatif : le groupe RN, qu'elle préside, a voté pour (61 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans groupe ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Retailleau : position « pour » déduite de son appartenance au gouvernement Bayrou (ministre de l'intérieur) qui portait le texte en juillet 2025 ; pas de déclaration personnelle retrouvée, et il n'était plus au gouvernement le 15 octobre 2025.",
+    "Arguments contre (LFI) tirés de la première lecture à l'Assemblée (3 juillet 2025) : l'explication de vote LFI du 15 octobre portait sur la censure et le budget, non sur le texte.",
+    "Le texte transpose aussi un accord sur le dialogue social (fin de la limite de trois mandats CSE) et des compromis sur l'assurance chômage : la question ne porte que sur le volet seniors.",
+    "Vote du 15 octobre 2025 à la veille d'une motion de censure : participation faible (176 votants)."
+  ]
+}

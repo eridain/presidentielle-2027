@@ -1,0 +1,205 @@
+{
+  "id": "clauses-miroirs",
+  "titre": "Clauses miroirs : mêmes normes pour les produits importés",
+  "question": "Faut-il imposer aux produits importés dans l'Union européenne des normes de production équivalentes aux normes européennes (« clauses miroirs ») ?",
+  "ouiSignifie": "pour",
+  "contexte": "Les « mesures miroirs » consistent à exiger des produits importés dans l'Union qu'ils respectent les normes de production européennes essentielles en matière de santé, d'environnement, de biodiversité et de bien-être animal (pesticides interdits, antibiotiques de croissance…). La proposition de résolution européenne de Dominique Potier (Socialistes), sans valeur contraignante, demande l'adoption de telles exigences, une inversion de la charge de la preuve pour les exportateurs, et réaffirme l'opposition à l'accord UE-Mercosur et à sa scission. Examinée dans un contexte de colère agricole, elle a été adoptée le 30 janvier 2025 sans voix contre (79 pour, 0 contre, 14 abstentions, celles de LFI).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution européenne",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/respect_noprmes_prod_eu"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°685",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 30 janvier 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/seance-du-jeudi-30-janvier-2025"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/respect_noprmes_prod_eu",
+  "argumentsPour": [
+    {
+      "auteur": "Dominique Potier (Socialistes, auteur)",
+      "resume": "Les contrôles aux frontières sont lacunaires ; il faut obliger les partenaires commerciaux à prouver que leurs produits respectent les normes européennes.",
+      "citation": "C’est pourquoi il faut inverser la charge de la preuve, et obliger nos partenaires commerciaux à prouver que leurs moyens de production respectent nos normes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/seance-du-jeudi-30-janvier-2025",
+      "date": "2025-01-30"
+    },
+    {
+      "auteur": "Laurent Saint-Martin (ministre délégué au commerce extérieur, gouvernement)",
+      "resume": "Les efforts sanitaires et environnementaux européens ne doivent pas être ruinés par des importations moins exigeantes ; la France défend les mesures miroirs.",
+      "citation": "C’est pourquoi la France s’est engagée en faveur des mesures miroirs, avec des résultats convaincants.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/seance-du-jeudi-30-janvier-2025",
+      "date": "2025-01-30"
+    },
+    {
+      "auteur": "Yaël Ménaché (Rassemblement national)",
+      "resume": "Il est absurde d'autoriser l'importation de produits fabriqués dans des conditions interdites aux agriculteurs français.",
+      "citation": "Ce concept traduit une évidence en droit international, tant il est absurde et profondément injuste d’autoriser l’importation de produits fabriqués dans des conditions interdites sur notre territoire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/seance-du-jeudi-30-janvier-2025",
+      "date": "2025-01-30"
+    },
+    {
+      "auteur": "Nicolas Bonnet (Écologiste et social)",
+      "resume": "Les écologistes soutiennent les mesures miroirs mais demandent aussi de ne plus exporter ce qui est interdit en Europe.",
+      "citation": "Le groupe Écologiste et social soutiendra cette proposition de résolution européenne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/seance-du-jeudi-30-janvier-2025",
+      "date": "2025-01-30"
+    }
+  ],
+  "argumentsContre": [],
+  "argumentsAbstention": [
+    {
+      "auteur": "Laurent Alexandre (La France insoumise)",
+      "resume": "Les clauses miroirs sont trop facilement contournables et ne protègent pas du libre-échange ; LFI juge le texte insuffisant et voulait un refus net du Mercosur.",
+      "citation": "C’est pourquoi nous considérons cette proposition de résolution européenne comme insuffisante.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/seance-du-jeudi-30-janvier-2025",
+      "date": "2025-01-30"
+    },
+    {
+      "auteur": "Jérôme Nury (Droite républicaine)",
+      "resume": "Son groupe ne s'oppose pas au texte mais rappelle que la décision appartient à l'Union européenne.",
+      "citation": "Nous ne décidons de rien, puisque c’est l’Union européenne qui a la responsabilité de ces sujets et qui votera.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/seance-du-jeudi-30-janvier-2025",
+      "date": "2025-01-30"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LFI s'est abstenu (1 pour / 0 contre / 13 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté pour (1 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°685) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté pour (7 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°685) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucun vote ni déclaration spécifique retrouvés. PROXY : le groupe Socialistes de l'Assemblée, auteur du texte, a voté pour (13 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°685) ; pas d'intervention personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire (maire du Havre, président d'Horizons) ; aucune déclaration primaire retrouvée. PROXY : le groupe Horizons a voté pour (3 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur dans le gouvernement Bayrou, qui a soutenu les mesures miroirs en séance (Laurent Saint-Martin) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/seance-du-jeudi-30-janvier-2025",
+      "date": "2025-01-30"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (3 pour / 0 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; seules des fiches de programme d'agrégateurs (non primaires) lui attribuent la mesure. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour (3 pour / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°685) ; aucune déclaration primaire retrouvée. Pour information, son groupe RN a voté pour (29 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Debout la France n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/685",
+      "date": "2025-01-30"
+    }
+  },
+  "alertes": [
+    "Résolution européenne sans valeur contraignante ; elle porte aussi sur le refus de l'accord UE-Mercosur.",
+    "Aucun vote contre : l'abstention de LFI exprime un jugement d'insuffisance (clauses jugées contournables), pas une opposition au principe.",
+    "Faible participation (93 votants) : seul Attal parmi les candidats suivis a voté.",
+    "Retailleau : position déduite de son appartenance au gouvernement qui a soutenu le texte.",
+    "Lisnard, Philippe : des sites agrégateurs de programmes 2027 leur attribuent des clauses miroirs, sans source primaire vérifiée ; non retenu."
+  ]
+}

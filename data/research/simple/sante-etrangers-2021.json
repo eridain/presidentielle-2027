@@ -1,0 +1,18 @@
+{
+  "id": "sante-etrangers-2021",
+  "questionSimple": "Faut-il réduire les soins gratuits des sans-papiers et de certains demandeurs d'asile ?",
+  "enBref": "En France, les sans-papiers peuvent se faire soigner grâce à l'aide médicale de l'État (AME). La droite demandait de limiter cette aide aux soins urgents. Elle voulait aussi réduire la couverture santé des demandeurs d'asile venant de pays jugés sûrs. Le texte n'obligeait pas le gouvernement.",
+  "pourquoiPour": "Pour ses partisans, ces soins coûtent de plus en plus cher et la France est plus généreuse que ses voisins. Cette générosité attirerait des étrangers et faciliterait les fraudes.",
+  "pourquoiContre": "Pour ses opposants, soigner tôt coûte moins cher que soigner aux urgences une maladie aggravée. Restreindre ces soins met en danger la santé de tous.",
+  "ceQuiSestPasse": "La résolution a été rejetée le 15 juin 2021 (25 voix pour, 42 contre).",
+  "lexique": [
+    {
+      "terme": "AME",
+      "definition": "Aide médicale de l'État : prise en charge des soins des étrangers sans papiers aux revenus modestes."
+    },
+    {
+      "terme": "Pays d'origine sûr",
+      "definition": "Pays jugé respectueux des droits, d'où les demandes d'asile sont examinées plus vite."
+    }
+  ]
+}

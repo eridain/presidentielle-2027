@@ -1,0 +1,216 @@
+{
+  "id": "ordonnances-travail",
+  "titre": "Ratification des ordonnances réformant le Code du travail",
+  "question": "Faut-il ratifier les ordonnances de 2017 réformant le Code du travail (barème des indemnités prud'homales pour licenciement abusif, fusion des instances représentatives dans le CSE, place accrue de l'accord d'entreprise) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi ratifie les cinq ordonnances du 22 septembre 2017, prises sur le fondement de la loi d'habilitation du 15 septembre 2017 : barème obligatoire des indemnités prud'homales en cas de licenciement sans cause réelle et sérieuse, fusion des délégués du personnel, du comité d'entreprise et du CHSCT dans un comité social et économique (CSE), extension de la négociation d'entreprise, y compris sans délégué syndical dans les petites entreprises. L'Assemblée l'a adopté en première lecture le 28 novembre 2017 (463 pour, 74 contre). Après accord en commission mixte paritaire, le Conseil constitutionnel l'a jugé partiellement conforme (décision n° 2018-761 DC du 21 mars 2018) et la loi n° 2018-217 a été promulguée le 29 mars 2018.",
+  "contexteSources": [
+    {
+      "titre": "Dossier législatif – Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/ratification_ordonnances_loi2017-1340"
+    },
+    {
+      "titre": "Réforme du Code du travail : quelles sont les principales mesures contenues dans les ordonnances ? (franceinfo, 31/08/2017)",
+      "url": "https://www.franceinfo.fr/economie/emploi/carriere/vie-professionnelle/droit-du-travail/reforme-du-code-du-travail-quelles-sont-les-principales-mesures-contenues-dans-les-ordonnances_2350611.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/314",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/ratification_ordonnances_loi2017-1340",
+  "argumentsPour": [
+    {
+      "auteur": "Aurélien Taché (La République en marche)",
+      "resume": "La réforme vise l'emploi en s'adressant d'abord aux petites entreprises et fait de l'accord d'entreprise le principe pour rapprocher le dialogue social du terrain.",
+      "citation": "Enfin, en faisant de l’accord d’entreprise le principe, nous leur donnerons les moyens de poursuivre ce dialogue au plus près du terrain, sur tous les sujets qui font leur quotidien.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-mardi-28-novembre-2017",
+      "date": "2017-11-28"
+    },
+    {
+      "auteur": "Gérard Cherpion (Les Républicains)",
+      "resume": "Le groupe LR vote le texte car il reprend des mesures qu'il défendait, tout en regrettant que le Parlement ait été tenu à l'écart de la rédaction des ordonnances.",
+      "citation": "de nombreuses réformes que vous nous proposez à travers ces ordonnances sont des mesures que nous avions nous-mêmes proposées.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-mardi-28-novembre-2017",
+      "date": "2017-11-28"
+    },
+    {
+      "auteur": "Nathalie Elimas (MoDem)",
+      "resume": "Le droit du travail actuel produirait à la fois de la précarité et trop de rigidité ; la réforme doit faciliter l'embauche en période de reprise.",
+      "citation": "Le droit du travail génère aujourd’hui trop de précarité pour les Français et laisse insuffisamment de souplesse et d’oxygène à nos entreprises.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-mardi-28-novembre-2017",
+      "date": "2017-11-28"
+    },
+    {
+      "auteur": "Agnès Firmin Le Bodo (UDI, Agir et indépendants)",
+      "resume": "Les mesures donnent de la souplesse aux entreprises, renforcent le rôle régulateur de la branche et tiennent compte des TPE-PME.",
+      "citation": "Les mesures contenues dans ces ordonnances vont dans le bon sens et permettront à nos entreprises de disposer de davantage de souplesse, ce dont nous nous félicitons.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-mardi-28-novembre-2017",
+      "date": "2017-11-28"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Boris Vallaud (Nouvelle Gauche)",
+      "resume": "Le texte affaiblit les syndicats, facilite le licenciement abusif et réduit les indemnités prud'homales sans créer de nouvelles sécurités pour les salariés.",
+      "citation": "Vous auriez pu imaginer des sécurités nouvelles pour les salariés, des droits individuels garantis collectivement, plutôt que de libéraliser le licenciement abusif, réduire les indemnités prud’homales",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-mardi-28-novembre-2017",
+      "date": "2017-11-28"
+    },
+    {
+      "auteur": "Loïc Prud'homme (La France insoumise)",
+      "resume": "La réforme sert les grandes entreprises et non les TPE-PME, en permettant à chaque entreprise d'adapter des règles essentielles du droit du travail.",
+      "citation": "vos ordonnances encouragent chaque entreprise à adapter la réglementation sur des éléments essentiels.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-mardi-28-novembre-2017",
+      "date": "2017-11-28"
+    },
+    {
+      "auteur": "Sébastien Jumel (Gauche démocrate et républicaine)",
+      "resume": "Le barème remplace l'appréciation du juge prud'homal par une tarification du préjudice, jugée contraire à l'indépendance du juge et défavorable aux salariés.",
+      "citation": "avec la « barémisation » et le plafonnement des indemnités en cas de licenciement abusif, à substituer à l’appréciation souveraine du juge prud’homal la tarification du préjudice",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-mardi-28-novembre-2017",
+      "date": "2017-11-28"
+    },
+    {
+      "auteur": "Marine Le Pen (Front national, non-inscrits)",
+      "resume": "Lors du débat sur la loi d'habilitation : un texte qui facilite les licenciements dans les grands groupes sans réelle avancée pour les TPE et PME.",
+      "citation": "Cela sera une régression pour les salariés sans être un avantage pour les petites et moyennes entreprises.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2016-2017/deuxieme-seance-du-lundi-10-juillet-2017",
+      "date": "2017-07-10"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 314 du 28 novembre 2017 ; intervention en séance lors de l'examen du texte le 23 novembre 2017.",
+      "argument": "Favorable à la négociation dans l'entreprise seulement dans le cadre du principe de faveur ; laisser chaque entreprise négocier selon le rapport de force dégraderait le climat social.",
+      "citation": "si l’on abandonne la négociation à un rapport de force dans une seule entreprise, et qu’on procède ainsi entreprise par entreprise, on créera un climat social épouvantable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-jeudi-23-novembre-2017",
+      "date": "2017-11-23"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 314 du 28 novembre 2017 ; intervention en séance le 21 novembre 2017.",
+      "argument": "Texte d'inspiration patronale adopté dans la précipitation, qui défait les protections du Code du travail au lieu de les améliorer.",
+      "citation": "un texte de loi qui casse le code du travail et le modèle d’organisation du travail propre à notre pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-mardi-21-novembre-2017",
+      "date": "2017-11-21"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 314 du 28 novembre 2017 ; intervention en séance le 21 novembre 2017.",
+      "argument": "Les salariés ont déjà peur de s'exprimer dans l'entreprise ; la réforme leur retire des protections en donnant la flexibilité tout de suite et la sécurité plus tard.",
+      "citation": "avec cette loi anti-travail, vous renforcez la peur, vous ôtez aux salariés leurs défenses.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-mardi-21-novembre-2017",
+      "date": "2017-11-21"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. EELV n'avait pas de groupe à l'Assemblée en 2017 : aucun proxy de groupe disponible (Marine Tondelier n'était pas encore secrétaire nationale).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 314 du 28 novembre 2017 ; argument tiré de son intervention lors du débat sur la loi d'habilitation (12 juillet 2017).",
+      "argument": "Le barème obligatoire retire au juge l'appréciation du préjudice et provoquera d'autres contentieux ; elle s'était déjà opposée à ces dispositions dans la loi El Khomri.",
+      "citation": "la barémisation ne va pas simplifier les choses mais aboutir à des contentieux complexes, car d’autres préjudices seront invoqués, notamment le préjudice moral.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2016-2017/premiere-seance-du-mercredi-12-juillet-2017",
+      "date": "2017-07-12"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. Raphaël Glucksmann n'avait pas de mandat ni de parti en 2017 (Place publique est fondé en 2018) : aucun proxy de groupe disponible.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 314 du 28 novembre 2017. Pas d'intervention personnelle retrouvée sur l'ensemble du texte : argument = explication de vote de son groupe La République en marche (Aurélien Taché).",
+      "argument": "(Groupe LREM) Réformer par ordonnances pour l'emploi, en faisant de l'accord d'entreprise le principe et en renforçant les branches et le dialogue social.",
+      "citation": "Enfin, en faisant de l’accord d’entreprise le principe, nous leur donnerons les moyens de poursuivre ce dialogue au plus près du terrain, sur tous les sujets qui font leur quotidien.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-mardi-28-novembre-2017",
+      "date": "2017-11-28"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre : il a présenté les ordonnances avec la ministre du Travail le 31 août 2017 ; le Gouvernement a déposé le projet de loi de ratification.",
+      "argument": "Après des décennies de chômage de masse, le droit du travail n'encouragerait ni l'embauche ni le développement des entreprises.",
+      "citation": "personne aujourd’hui ne peut sérieusement soutenir que notre droit, et notre droit du travail en particulier, favorise aujourd’hui l’embauche",
+      "url": "https://www.lemonde.fr/politique/article/2017/08/31/droit-du-travail-le-gouvernement-defend-une-reforme-ambitieuse_5179109_823448.html",
+      "date": "2017-08-31"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat, il a voté pour la loi d'habilitation à réformer le Code du travail par ordonnances (scrutin public n° 142 du 2 août 2017, conclusions de la CMP). La ratification a été adoptée au Sénat le 24 janvier 2018 à main levée, sans vote nominatif.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2016/scr2016-142.html",
+      "date": "2017-08-02"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY : à la date du vote, il était membre de LR (départ le 11 décembre 2017), dont le groupe à l'Assemblée a voté majoritairement pour (82 pour, 15 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY : son parti LR a voté majoritairement pour à l'Assemblée (82 pour, 0 contre, 15 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 314 du 28 novembre 2017 ; argument tiré de son intervention sur la loi d'habilitation (10 juillet 2017).",
+      "argument": "Texte idéologique qui profite aux grands groupes (licenciements facilités, barème prud'homal) sans réelle avancée pour les TPE-PME, et qui installe la figure du « salarié jetable ».",
+      "citation": "Cela sera une régression pour les salariés sans être un avantage pour les petites et moyennes entreprises.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-extraordinaire-de-2016-2017/deuxieme-seance-du-lundi-10-juillet-2017",
+      "date": "2017-07-10"
+    },
+    "zemmour": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Alors chroniqueur sur RTL (sans mandat ni parti), chronique du 11 juillet 2017 consacrée à la loi d'habilitation, rapportée par un site de fans (eric-zemmour.info), non par RTL.",
+      "argument": "Il présente la réforme du Code du travail comme une soumission à l'idéologie libérale.",
+      "citation": "La réforme du Code du travail, une soumission à l’idéologie libérale",
+      "url": "https://eric-zemmour.info/reforme-du-code-du-travail-eric-zemmour/",
+      "date": "2017-07-11"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 314 du 28 novembre 2017 ; communiqué signé du 12 septembre 2017.",
+      "argument": "Les ordonnances ne répondent pas aux besoins des PME (charges, commandes, simplification), favorisent les licenciements dans les grands groupes et précarisent l'emploi (« CDI de chantier »).",
+      "citation": "Malheureusement, avec cette réforme, le compte n’y est pas : ces ordonnances vont nourrir un peu plus le chômage de masse.",
+      "url": "https://www.debout-la-france.fr/actualite/le-gouvernement-contre-les-patrons-de-pme-et-les-salaries/",
+      "date": "2017-09-12"
+    }
+  },
+  "alertes": [
+    "Aucune explication de vote des non-inscrits (dont le FN) au compte rendu du 28 novembre 2017 : l'argument RN/FN et ceux de Marine Le Pen et Delphine Batho sont tirés du débat sur la loi d'habilitation (juillet 2017), texte distinct mais même réforme.",
+    "Retailleau : pas de scrutin public au Sénat sur l'ensemble du projet de loi de ratification (adopté à main levée le 24 janvier 2018) ; sa position est fondée sur son vote nominatif pour la loi d'habilitation (scrutin n° 142 du 2 août 2017). Il a aussi voté contre l'amendement de suppression de l'article 6 (scrutin n° 55 du 24 janvier 2018).",
+    "Zemmour : source = site de fans reproduisant le titre de sa chronique RTL du 11 juillet 2017 ; page RTL d'origine non retrouvée. Position déduite du titre de la chronique.",
+    "Attal : aucune prise de parole personnelle sur l'ensemble du texte retrouvée ; l'argument est celui de son groupe.",
+    "Conseil constitutionnel et Légifrance inaccessibles depuis l'outil (erreur TLS / 403) : la décision n° 2018-761 DC et la promulgation sont sourcées via le dossier législatif de l'Assemblée.",
+    "Tondelier, Glucksmann : pas de parti/groupe pertinent à l'Assemblée en 2017, donc pas de proxy possible."
+  ]
+}

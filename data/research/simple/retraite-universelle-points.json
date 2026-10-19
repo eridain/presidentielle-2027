@@ -1,0 +1,18 @@
+{
+  "id": "retraite-universelle-points",
+  "questionSimple": "Faut-il remplacer tous les régimes de retraite par un système unique où chacun cumule des points ?",
+  "enBref": "La réforme de 2020 voulait remplacer les 42 régimes de retraite par un seul système. Chaque heure travaillée aurait donné des points, convertis en pension au départ. Le vote porte sur l'article qui fixe ces principes.",
+  "pourquoiPour": "Ses défenseurs veulent les mêmes règles pour tous, sans différence selon le métier ou le statut. Selon eux, le système par points protège mieux les petites pensions et reste fondé sur la solidarité entre générations.",
+  "pourquoiContre": "Ses opposants jugent qu'il n'y avait pas de problème de financement à régler. Ils craignent des pensions plus basses, notamment pour les femmes et les fonctionnaires, faute de connaître la valeur future du point.",
+  "ceQuiSestPasse": "Article adopté, texte adopté sans vote par le 49.3, puis réforme suspendue en mars 2020 avec le Covid et jamais appliquée.",
+  "lexique": [
+    {
+      "terme": "Retraite par points",
+      "definition": "Système où les cotisations donnent des points, dont la valeur en euros est fixée au moment du départ."
+    },
+    {
+      "terme": "49.3",
+      "definition": "Article de la Constitution qui permet au gouvernement de faire adopter un texte sans vote, sauf censure."
+    }
+  ]
+}

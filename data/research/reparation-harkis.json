@@ -1,0 +1,198 @@
+{
+  "id": "reparation-harkis",
+  "titre": "Reconnaissance et réparation envers les harkis",
+  "question": "Faut-il reconnaître la responsabilité de la France envers les harkis et indemniser les préjudices qu'ils ont subis ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi affirme la reconnaissance par la Nation de la « tragédie » des harkis et des autres rapatriés d'Algérie de statut civil de droit local, et organise la réparation des préjudices subis du fait de l'indignité de leurs conditions d'accueil et de vie dans certaines structures (camps, hameaux de forestage, etc.) en France. Il crée une commission nationale de reconnaissance et de réparation ; le Sénat a élargi le périmètre des lieux concernés. Après accord en commission mixte paritaire, l'Assemblée a adopté le texte le 9 février 2022 (122 pour, 9 contre, 11 abstentions) puis le Sénat le 15 février 2022 (329 pour, 7 contre) ; la loi n° 2022-229 du 23 février 2022 a été promulguée.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – dossier législatif pjl21-178",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl21-178.html"
+    },
+    {
+      "titre": "Sénat – scrutin n°99 du 15 février 2022",
+      "url": "https://www.senat.fr/scrutin-public/2021/scr2021-99.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 9 février 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mercredi-09-fevrier-2022"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/pjl21-178.html",
+  "argumentsPour": [
+    {
+      "auteur": "Geneviève Darrieussecq (ministre déléguée, gouvernement)",
+      "resume": "Le texte marque une nouvelle étape de reconnaissance envers les harkis et organise la réparation due à ceux accueillis dans des conditions indignes, via une commission nationale.",
+      "citation": "Nous avons affirmé la reconnaissance par la nation d’une tragédie française.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mercredi-09-fevrier-2022",
+      "date": "2022-02-09"
+    },
+    {
+      "auteur": "Thomas Gassilloud (Agir ensemble)",
+      "resume": "La France doit regarder en face les zones d'ombre de son histoire ; ce texte s'inscrit dans un travail mémoriel plus large sur la guerre d'Algérie.",
+      "citation": "L’histoire de France est un bloc. On ne peut en dissocier les zones d’ombre et les zones de lumière.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mercredi-09-fevrier-2022",
+      "date": "2022-02-09"
+    },
+    {
+      "auteur": "Alain Bruneel (GDR)",
+      "resume": "Les conditions d'accueil des harkis étaient inhumaines et l'État français doit répondre de ce préjudice.",
+      "citation": "Il est inadmissible de traiter de cette manière des êtres humains cherchant à rejoindre la France.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mercredi-09-fevrier-2022",
+      "date": "2022-02-09"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Michèle Tabarot (Les Républicains)",
+      "resume": "Le texte exclut des dizaines de milliers de harkis n'ayant pas vécu dans des camps et ne répond pas aux demandes mémorielles (citoyenneté, sanction des insultes, 19 mars).",
+      "citation": "J’ai voté contre parce que ce texte laisse de côté des dizaines de milliers de harkis sous prétexte qu’ils n’ont pas vécu entourés de barbelés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mercredi-09-fevrier-2022",
+      "date": "2022-02-09"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "François Ruffin (La France insoumise)",
+      "resume": "Il approuve la reconnaissance mais juge les indemnités dérisoires (5 000 euros pour trois ans de camp) et regrette que reconnaissance et réparation soient liées dans le même texte.",
+      "citation": "Sur le volet symbolique, c’est-à-dire sur la reconnaissance, j’applaudis. Mais sur les réparations, ce n’est pas acceptable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mercredi-09-fevrier-2022",
+      "date": "2022-02-09"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4386) ; aucune déclaration retrouvée. Indication : le seul député FI votant s'est abstenu (Ruffin).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+      "date": "2022-02-09"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4386) ; aucune déclaration retrouvée. Indication : son groupe GDR a voté pour (1 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+      "date": "2022-02-09"
+    },
+    "ruffin": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif abstention (scrutin AN n°4386) ; intervention en discussion générale.",
+      "argument": "Applaudit la reconnaissance des sévices subis en France mais juge les indemnités « dérisoires » et refuse le volet réparation en l'état.",
+      "citation": "Sur le volet symbolique, c’est-à-dire sur la reconnaissance, j’applaudis. Mais sur les réparations, ce n’est pas acceptable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mercredi-09-fevrier-2022",
+      "date": "2022-02-09"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+      "date": "2022-02-09"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°4386) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+      "date": "2022-02-09"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (7 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+      "date": "2022-02-09"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a présenté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl21-178.html",
+      "date": "2022-02-09"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+      "date": "2022-02-09"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat sur le texte de la CMP (scrutin n°99 du 15 février 2022, 329 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2021/scr2021-99.html",
+      "date": "2022-02-15"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans parti à cette date ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+      "date": "2022-02-09"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée était divisé (2 pour / 6 contre / 9 abst.), les sénateurs LR ont voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+      "date": "2022-02-09"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°4386) ; aucune déclaration retrouvée. Indication : les non-inscrits ont voté majoritairement contre (2 pour / 3 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+      "date": "2022-02-09"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+      "date": "2022-02-09"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4386) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4386",
+      "date": "2022-02-09"
+    }
+  },
+  "alertes": [
+    "Scrutin sur le texte de la CMP, à faible participation (142 votants) : Mélenchon, Roussel, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote.",
+    "Côté « contre », aucun orateur RN/non-inscrit ne s'est exprimé dans cette séance ; seule l'intervention de Michèle Tabarot (LR, qui a voté contre en CMP) est citée.",
+    "Attal : position déduite de l'appartenance au gouvernement qui a porté le texte.",
+    "Le montant de 5 000 euros pour trois ans de camp est une affirmation de François Ruffin en séance, non vérifiée par ailleurs."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "maintien-allegements-cotisations",
+  "questionSimple": "Faut-il garder les réductions de cotisations payées par les employeurs sur les bas et moyens salaires ?",
+  "enBref": "L'État réduit les cotisations sociales des employeurs sur les salaires modestes, pour environ 80 milliards par an. Le gouvernement voulait réduire ces aides pour économiser 4 à 5 milliards. Les députés ont voté sur la suppression de cette baisse.",
+  "pourquoiPour": "Ceux qui ont voté pour craignent qu'une hausse du coût du travail détruise des emplois. Ils pensent surtout aux petites entreprises et aux commerçants déjà en difficulté.",
+  "pourquoiContre": "Ceux qui ont voté contre jugent ces aides trop coûteuses pour la Sécurité sociale. Selon eux, elles poussent à garder des salaires bas, surtout au-delà de 1,6 Smic.",
+  "ceQuiSestPasse": "Suppression adoptée (170 pour, 162 contre), mais la loi finale a réduit ces aides de 1,6 milliard d'euros.",
+  "lexique": [
+    {
+      "terme": "Cotisations patronales",
+      "definition": "Sommes payées par l'employeur sur chaque salaire pour financer la Sécurité sociale."
+    },
+    {
+      "terme": "Trappe à bas salaires",
+      "definition": "Situation où l'employeur hésite à augmenter un salaire car il perdrait des aides."
+    }
+  ]
+}

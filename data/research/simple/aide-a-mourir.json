@@ -1,0 +1,22 @@
+{
+  "id": "aide-a-mourir",
+  "questionSimple": "Faut-il créer un droit à l'aide à mourir pour les adultes gravement malades, incurables, en phase avancée ou terminale ?",
+  "enBref": "Un adulte français ou résidant en France, atteint d'une maladie grave et incurable qui menace sa vie, pourra demander un produit mortel. Il doit être en phase avancée ou terminale, souffrir sans soulagement possible ou de façon insupportable, et décider librement. Il prend le produit lui-même ; un soignant le lui donne seulement s'il en est physiquement incapable.",
+  "pourquoiPour": "Quand la maladie n'est plus supportable et qu'aucune amélioration n'est possible, chacun doit pouvoir choisir sa fin de vie. Le droit est strictement encadré, et aucun soignant n'est obligé d'y participer.",
+  "pourquoiContre": "Légaliser le suicide assisté et l'euthanasie revient à abandonner la vie humaine, de façon irréversible. Avec des délais courts et un contrôle après coup, le texte protège mal contre les pressions.",
+  "ceQuiSestPasse": "Malgré le refus du Sénat, l'Assemblée l'a adoptée en lecture définitive en juillet 2026 ; le Conseil constitutionnel l'a validée avec trois réserves avant sa promulgation le 18 août.",
+  "lexique": [
+    {
+      "terme": "Suicide assisté / euthanasie",
+      "definition": "Le malade prend lui-même le produit mortel / un soignant le lui administre."
+    },
+    {
+      "terme": "Lecture définitive",
+      "definition": "Dernier vote de l'Assemblée, qui tranche quand députés et sénateurs restent en désaccord."
+    },
+    {
+      "terme": "Réserve d'interprétation",
+      "definition": "Condition fixée par le Conseil constitutionnel sur la façon d'appliquer un article."
+    }
+  ]
+}

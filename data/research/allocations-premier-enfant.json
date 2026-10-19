@@ -1,0 +1,224 @@
+{
+  "id": "allocations-premier-enfant",
+  "titre": "Allocations familiales dès le premier enfant (2025)",
+  "question": "Faut-il verser les allocations familiales dès le premier enfant ?",
+  "ouiSignifie": "pour",
+  "contexte": "En France, les allocations familiales ne sont versées qu'à partir du deuxième enfant, et leur montant dépend des revenus depuis 2015. Le député communiste Édouard Bénard (GDR) a fait inscrire dans la journée réservée de son groupe une proposition de loi qui les verse dès le premier enfant. Le rapporteur estimait son coût à plus de 3 milliards d'euros par an. Les députés ont ajouté une demande de rapport sur l'avenir des allocations familiales et, pour la financer, des cotisations sur certains compléments de salaire, mesure proposée par Jérôme Guedj (Socialistes). Le texte a été adopté en première lecture le 5 juin 2025 par 103 voix contre 17. Le gouvernement Bayrou et le bloc central s'y opposaient, jugeant la mesure coûteuse, non financée et peu utile aux familles modestes. La proposition a été transmise au Sénat le même jour.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/accorder_versement_allocations_familiales_premier_enfant_17e"
+    },
+    {
+      "titre": "Sénat – dossier législatif (texte n°709, transmis le 5 juin 2025, non examiné)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-709.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 5 juin 2025 (discussion générale)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N227"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 5 juin 2025 (articles et vote)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N228"
+    },
+    {
+      "titre": "Unaf – Proposition de loi visant à accorder le versement des allocations familiales dès le premier enfant",
+      "url": "https://unaf.fr/proposition-de-loi-visant-a-accorder-le-versement-des-allocations-familiales-des-le-premier-enfant-2"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2272",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/accorder_versement_allocations_familiales_premier_enfant_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Édouard Bénard (Gauche démocrate et républicaine, rapporteur)",
+      "resume": "Chaque enfant doit ouvrir droit au soutien de la collectivité, dès le premier ; la mesure profiterait aussi aux familles monoparentales.",
+      "citation": "Faisons un pas concret et faisons le choix d’une République qui soutient, qui accompagne et qui protège toutes ses familles, dès le premier enfant.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N227",
+      "date": "2025-06-05"
+    },
+    {
+      "auteur": "Jérôme Guedj (Socialistes)",
+      "resume": "Exclure les familles d'un seul enfant (36 % des familles) est injuste ; le texte peut être financé en mettant fin à des exonérations de cotisations.",
+      "citation": "Ce n’est pas une politique familiale mais une politique arithmétique, qui exclut 36 % des familles françaises, celles qui ont le défaut de n’avoir qu’un enfant.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N227",
+      "date": "2025-06-05"
+    },
+    {
+      "auteur": "Antoine Vermorel-Marques (Droite républicaine)",
+      "resume": "Face à la baisse des naissances, la droite soutient le texte comme un signal et réclame une réforme de la branche famille dans le budget de la Sécurité sociale.",
+      "citation": "Nous voulons envoyer un message fort au gouvernement, tout en soulignant la nécessité d’opérer une réforme structurelle dans le cadre du PLFSS.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N228",
+      "date": "2025-06-05"
+    },
+    {
+      "auteur": "Angélique Ranc (Rassemblement national)",
+      "resume": "Le RN soutient un meilleur accompagnement dès le premier enfant, tout en jugeant le texte insuffisant pour relancer la natalité.",
+      "citation": "Nous saluons l’initiative qui consiste à répondre, par ce texte, à une attente légitime des familles : celle d’un meilleur accompagnement dès le premier enfant.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N227",
+      "date": "2025-06-05"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Charlotte Parmentier-Lecocq (ministre déléguée, gouvernement)",
+      "resume": "Pour les familles les plus modestes, l'allocation serait compensée par une baisse du RSA ou de la prime d'activité ; elle profiterait surtout aux revenus moyens et élevés, pour plus de 3 milliards d'euros.",
+      "citation": "Mécaniquement, le versement d’allocations familiales serait absorbé par une réduction à due proportion du RSA ou de la prime d’activité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N227",
+      "date": "2025-06-05"
+    },
+    {
+      "auteur": "Charles Sitzenstuhl (Ensemble pour la République)",
+      "resume": "Avec un déficit public de 5,8 % du PIB, la mesure n'est pas finançable sans alourdir le coût du travail.",
+      "citation": "Voilà au moins trois raisons pour lesquelles les députés du groupe Ensemble pour la République voteront contre le texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N228",
+      "date": "2025-06-05"
+    },
+    {
+      "auteur": "Anne Bergantz (Les Démocrates)",
+      "resume": "Les Démocrates jugent qu'il faut d'abord garantir le financement et revoir l'ensemble de la politique familiale.",
+      "citation": "Attaché à la responsabilité budgétaire, que je comptais défendre au moyen d’amendements qui ont été jugés irrecevables, le groupe Démocrates ne soutiendra pas ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N228",
+      "date": "2025-06-05"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée sur ce texte. PROXY : le groupe LFI-NFP a voté pour (22 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+      "date": "2025-06-05"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire en 2025 ; aucune déclaration retrouvée. PROXY : le groupe GDR (communistes), auteur du texte, a voté pour (15 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+      "date": "2025-06-05"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2272) ; il est intervenu en séance au nom du groupe Écologiste et social.",
+      "argument": "Pour lui, le manque de moyens freine le désir d'enfant ; les allocations dès le premier enfant aideraient à le lever.",
+      "citation": "Verser des allocations familiales à tous les parents dès le premier enfant serait une avancée en la matière.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N228",
+      "date": "2025-06-05"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée sur ce texte. PROXY : le groupe Écologiste et social a voté pour (19 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+      "date": "2025-06-05"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2272) ; pas d'intervention retrouvée : argument = explication de son groupe Écologiste et social (François Ruffin).",
+      "argument": "Son groupe juge que verser les allocations dès le premier enfant aiderait les couples freinés par le manque de moyens.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N228",
+      "date": "2025-06-05"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (14 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+      "date": "2025-06-05"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, président du groupe EPR, n'a pas pris part au vote ; aucune déclaration retrouvée sur ce texte. Son groupe a voté contre (13 contre, 2 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+      "date": "2025-06-05"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Sans mandat parlementaire. Candidat à la présidentielle 2027, il propose le 9 octobre 2026 une allocation familiale unique de 350 euros par mois dès le premier enfant ; le groupe Horizons avait voté contre ce texte en juin 2025.",
+      "argument": "Il veut refondre les allocations familiales autour d'une allocation unique versée dès le premier enfant.",
+      "citation": "revoir totalement le système des allocations familiales",
+      "url": "https://www.publicsenat.fr/actualites/politique/politique-familiale-allocations-creches-que-proposent-les-candidats-a-la-presidentielle",
+      "date": "2026-10-09"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou, opposé au texte (avis défavorable de la ministre déléguée) ; pas de déclaration personnelle à la date. Candidat en 2026, il propose un « revenu familial » de 240 euros par mois dès le premier enfant, qui remplacerait les allocations familiales.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N227",
+      "date": "2025-06-05"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (4 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+      "date": "2025-06-05"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (4 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+      "date": "2025-06-05"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe RN a voté pour (24 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+      "date": "2025-06-05"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national ; aucune déclaration retrouvée. Pas de groupe Reconquête à l'Assemblée : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+      "date": "2025-06-05"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée. Pas de groupe Debout la France à l'Assemblée : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2272",
+      "date": "2025-06-05"
+    }
+  },
+  "alertes": [
+    "Vote en première lecture seulement : le dossier du Sénat indique la transmission du texte le 5 juin 2025, sans examen ensuite. Le texte n'est pas devenu loi.",
+    "Faible participation (125 votants), journée réservée au groupe GDR.",
+    "Retailleau : position déduite de son appartenance au gouvernement Bayrou, opposé au texte. En 2026, candidat, il propose un « revenu familial » dès le premier enfant (Public Sénat, 9 octobre 2026).",
+    "Philippe : position tirée d'une proposition de campagne de 2026 (allocation unique de 350 euros dès le premier enfant), et non d'un vote ; son groupe Horizons avait voté contre en 2025.",
+    "Attal et Le Pen, députés, n'ont pas pris part au vote : positions « inconnu ». Batho : pas d'intervention personnelle, argument = celui de son groupe."
+  ]
+}

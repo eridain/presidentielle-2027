@@ -1,0 +1,154 @@
+{
+ "partiId": "renaissance",
+ "nom": "Renaissance",
+ "sigle": "RE",
+ "predecesseurs": [
+  "En marche (2016-2017)",
+  "La République en marche (2017-2022)"
+ ],
+ "fondation": "2016",
+ "direction": [
+  {
+   "nom": "Gabriel Attal",
+   "fonction": "Secrétaire général (depuis le 8 décembre 2024)",
+   "url": "https://fr.wikipedia.org/wiki/Renaissance_(parti)"
+  },
+  {
+   "nom": "Emmanuel Macron",
+   "fonction": "Président d'honneur",
+   "url": "https://fr.wikipedia.org/wiki/Renaissance_(parti)"
+  },
+  {
+   "nom": "David Amiel, Pieyre-Alexandre Anglade, Antoine Armand, Brigitte Bourguignon, Thomas Cazenave, Anne Genetet, Olivia Grégoire, Guillaume Gouffier-Valente, Valérie Hayer, Xavier Iacovelli, Guillaume Kasbarian, Fabienne Keller, Brigitte Klinkert, Fadila Khattabi, Marie Lebec, Roland Lescure, Thani Mohamed Soilihi, Bertrand Mas-Fraissinet, Ambroise Méjean, Agnès Pannier-Runacher, Franck Riester, Marlène Schiappa, Prisca Thevenot",
+   "fonction": "Secrétaires généraux délégués (bureau exécutif)",
+   "url": "https://fr.wikipedia.org/wiki/Renaissance_(parti)"
+  }
+ ],
+ "presentation": "Renaissance, fondé en avril 2016 par Emmanuel Macron sous le nom En marche puis La République en marche (2017-2022), a pris son nom actuel en septembre 2022 en fusionnant avec Agir et Territoires de progrès. Wikipédia le présente comme « un parti politique français de centre-droit » qui a dirigé la coalition Ensemble pour la République aux législatives de 2022 et 2024. Selon la même source, il compte 87 députés, 11 sénateurs et 5 députés européens ; son secrétaire général, Gabriel Attal, préside le groupe Ensemble pour la République (EPR) à l'Assemblée nationale.",
+ "presentationSources": [
+  {
+   "titre": "Renaissance (parti) — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Renaissance_(parti)"
+  }
+ ],
+ "effectifs": {
+  "deputes": 87,
+  "senateurs": 11,
+  "eurodeputes": 5,
+  "source": "https://fr.wikipedia.org/wiki/Renaissance_(parti)"
+ },
+ "candidats": [
+  {
+   "id": "attal",
+   "bio": "Gabriel Attal, né le 16 mars 1989 à Clamart, est député des Hauts-de-Seine depuis 2017. Il a été secrétaire d'État (2018), porte-parole du gouvernement Castex (2020), puis Premier ministre du 9 janvier au 5 septembre 2024. Depuis juillet 2024, il préside le groupe Ensemble pour la République à l'Assemblée nationale ; il est secrétaire général de Renaissance depuis décembre 2024.",
+   "sources": [
+    {
+     "titre": "Gabriel Attal — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal"
+    }
+   ]
+  }
+ ],
+ "condamnations": [
+  {
+   "personne": "Olive Karl",
+   "categorie": "depute",
+   "roleActuel": "député des Yvelines (groupe EPR)",
+   "infraction": "prise illégale d'intérêts",
+   "faits": "Alors maire de Poissy, il a recruté en 2014 deux proches (un directeur de la jeunesse et des sports et son père) sans respecter les règles de nomination de la fonction publique ; il a aussi attribué au père un logement de fonction dont la redevance était sous-évaluée.",
+   "juridiction": "tribunal judiciaire (correctionnel) de Versailles",
+   "dateDecision": "2024-11-18",
+   "peine": "8 mois d'emprisonnement avec sursis",
+   "statut": "appel_en_cours",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Le député Karl Olive condamné à huit mois de prison avec sursis pour prise illégale d'intérêts — franceinfo",
+     "url": "https://www.franceinfo.fr/politique/le-depute-karl-olive-condamne-a-huit-mois-de-prison-avec-sursis-pour-prise-illegale-d-interets_6904985.html",
+     "citation": "Le député Renaissance Karl Olive , ancien maire Les Républicains de Poissy ( Yvelines) , a été condamné, lundi 18 novembre, à huit mois de prison avec sursis pour prise illégale d'intérêts durant son mandat municipal",
+     "date": "2024-11-18"
+    },
+    {
+     "titre": "Le député Karl Olive condamné à huit mois de prison avec sursis pour prise illégale d'intérêts — franceinfo (appel)",
+     "url": "https://www.franceinfo.fr/politique/le-depute-karl-olive-condamne-a-huit-mois-de-prison-avec-sursis-pour-prise-illegale-d-interets_6904985.html",
+     "citation": "Son avocat annonce qu'il va faire appel.",
+     "date": "2024-11-18"
+    }
+   ],
+   "famille": "probite"
+  },
+  {
+   "personne": "Olive Karl",
+   "categorie": "depute",
+   "roleActuel": "député des Yvelines (groupe EPR)",
+   "infraction": "blessures involontaires",
+   "faits": "Accident de la circulation survenu à Paris en décembre 2021 : la voiture où il se trouvait avec son chauffeur utilisait un gyrophare illégal.",
+   "juridiction": "tribunal correctionnel de Paris",
+   "dateDecision": "2026-04-17",
+   "peine": "150 jours-amende à 20 € ; 4 000 € de dommages et intérêts à verser avec son chauffeur ; non-inscription au bulletin n° 2 du casier judiciaire",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": false,
+   "sources": [
+    {
+     "titre": "Paris : Le député Karl Olive et son chauffeur condamnés après un accident provoqué par leur gyrophare illégal — 20 Minutes",
+     "url": "https://www.20minutes.fr/justice/4219072-20260419-paris-depute-karl-olive-chauffeur-condamnes-apres-accident-provoque-gyrophare-illegal",
+     "citation": "Le tribunal correctionnel de Paris a rendu son verdict, le 17 avril, concernant l’accident impliquant Karl Olive , député macroniste et ancien maire de Poissy",
+     "date": "2026-04-19"
+    },
+    {
+     "titre": "Yvelines : Karl Olive condamné par la justice pour son implication dans un accident à Paris en 2021 — actu.fr",
+     "url": "https://actu.fr/ile-de-france/poissy_78498/yvelines-karl-olive-condamne-par-la-justice-pour-son-implication-dans-un-accident-a-paris-en-2021_64159360.html",
+     "citation": "Les deux mis en cause ont été condamnés pour blessures involontaires . « L’élu a écopé d’une peine de 150 jours d’amende à 20 € et son chauffeur de quatre mois d’emprisonnement avec sursis »",
+     "date": "2026-04-17"
+    }
+   ],
+   "famille": "autres"
+  },
+  {
+   "personne": "Iacovelli Xavier",
+   "categorie": "senateur",
+   "roleActuel": "sénateur des Hauts-de-Seine (groupe RDPI) ; secrétaire général délégué de Renaissance",
+   "infraction": "escroquerie",
+   "faits": "En 2009, alors conseiller municipal (PS) de Suresnes, il a permis à une militante non élue de suivre une formation financée par la ville et réservée aux élus.",
+   "juridiction": "tribunal correctionnel de Nanterre",
+   "dateDecision": "2014-04-10",
+   "peine": "3 mois d'emprisonnement avec sursis ; 1 500 € à verser à la commune de Suresnes ; 3 120,46 € à payer solidairement avec sa coprévenue ; non-inscription au casier judiciaire selon leur avocate",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Suresnes : Xavier Iacovelli (PS) condamné pour escroquerie — Le Parisien",
+     "url": "https://www.leparisien.fr/hauts-de-seine-92/suresnes-xavier-iacovelli-ps-condamne-pour-escroquerie-10-04-2014-3757881.php",
+     "citation": "Le conseiller municipal d'opposition Xavier Iacovelli a été reconnu ce jeudi après-midi coupable d'escroquerie mais relaxé sur les faits de faux en écriture dont il était accusé par la mairie de Suresnes.",
+     "date": "2014-04-10"
+    },
+    {
+     "titre": "Xavier Iacovelli (PS) condamné pour escroquerie — Le Parisien",
+     "url": "https://www.leparisien.fr/hauts-de-seine-92/xavier-iacovelli-ps-condamne-pour-escroquerie-11-04-2014-3758529.php",
+     "citation": "« La décision est disproportionnée », ajoute Iacovelli qui veut appel.",
+     "date": "2014-04-11"
+    }
+   ],
+   "famille": "probite"
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 146,
+  "methode": "Périmètre : le candidat (Attal) ; le parti comme personne morale (Renaissance, LREM, En marche) ; les anciens dirigeants (Emmanuel Macron, Catherine Barbaroux, Christophe Castaner, Stanislas Guerini, Stéphane Séjourné, Richard Ferrand) ; le bureau exécutif listé sur Wikipédia ; les 90 députés du groupe EPR (fichier deputes_par_groupe_2026.json, apparentés compris) ; les sénateurs du groupe RDPI (open data du Sénat, ODSEN_GENERAL.csv, plus les sénateurs RDPI de la liste 2025) ; 11 députés européens de la liste Besoin d'Europe. Pour chaque nom, recherche web « \"<nom>\" condamné tribunal », puis filtrage des résultats où le nom figure près de « condamn », « coupable » ou « relax ». Requêtes thématiques : « député Renaissance condamné », « député EPR condamné 2025/2026 », « sénateur RDPI condamné », « eurodéputé Renaissance condamné », « La République en marche condamnée tribunal personne morale », « Renaissance parti condamné justice amende », « Gabriel Attal condamné », « Gabriel Attal condamnation tribunal correctionnel ». Vérification des catégories Wikipédia « condamné » via l'API, pour l'ensemble des noms. Sources secondaires ouvertes : franceinfo, 20 Minutes, actu.fr, Le Parisien, Le Républicain lorrain, Nouvel Obs, Le Berry républicain, Wikipédia, pourquijevote.com/casiers (agrégat casier-politique.fr).",
+  "limites": "Aucune condamnation de Gabriel Attal ni du parti (Renaissance/LREM) comme personne morale n'a été trouvée dans les sources consultées ; cela ne veut pas dire qu'il n'en existe aucune. La recherche s'appuie sur un moteur de recherche web : les jugements non relayés par la presse ou par Wikipédia peuvent manquer. Le site casier-politique.fr n'a pas pu être lu (page en JavaScript) ; seule sa version agrégée par pourquijevote.com a servi de recoupement. Les sénateurs RDPI et les membres du groupe EPR ne sont pas tous adhérents de Renaissance, et l'appartenance au parti n'a pas été vérifiée nom par nom. Pour les eurodéputés, la liste retenue repose sur la liste 2024 et n'a pas été recoupée avec le site du Parlement européen (inaccessible). Les statuts procéduraux postérieurs aux articles cités (appels, pourvois) n'ont pas toujours pu être retrouvés."
+ },
+ "alertes": [
+  "Karl Olive (prise illégale d'intérêts) : appel annoncé par son avocat le 18 novembre 2024 ; casier-politique.fr indique « en appel » ; aucun arrêt de la cour d'appel n'a été trouvé. Statut retenu : appel_en_cours, au dernier état connu.",
+  "Karl Olive (blessures involontaires, 17 avril 2026) : aucune information trouvée sur un éventuel appel ; statut inconnu.",
+  "Xavier Iacovelli : sa page Wikipédia parle d'un « jugement définitif », alors que Le Parisien du 11 avril 2014 rapporte qu'il « veut appel ». Aucune décision d'appel n'a été trouvée ; statut inconnu. Selon Le Parisien, les deux prévenus ont obtenu que la condamnation ne soit pas inscrite au casier judiciaire.",
+  "Exclu (nature civile/commerciale) : Ludovic Mendes, député EPR de Moselle. Après la liquidation de sa SARL Ennid, la cour d'appel de Metz l'a condamné le 15 octobre 2020 à verser 40 000 € au liquidateur (fautes de gestion). Il a aussi été interdit de gérer selon actu.fr (11 mars 2019). Le pourvoi a été rejeté le 27 mars 2024 (Le Républicain lorrain, 8 avril 2024). Il s'agit d'une décision de droit commercial (insuffisance d'actif), non pénale.",
+  "Exclue (décision civile) : Violette Spillebout, députée EPR du Nord. Le tribunal judiciaire de Lille l'a condamnée le 4 juillet 2023 à des dommages et intérêts pour « constitution de partie civile abusive » contre le directeur de Mediacités. Selon Wikipédia, elle n'a été condamnée en appel qu'au remboursement des frais de justice.",
+  "Exclue (probablement amnistiée) : Christophe Castaner, délégué général de LREM de 2017 à 2018. Selon Le Nouvel Obs (9 août 2019, d'après Marianne), le TGI d'Avignon l'a condamné le 10 octobre 1996 à 50 000 francs d'amende pour « diffamations et injures publiques » (bande dessinée distribuée en 1995). Les délits punis seulement d'une amende commis avant le 17 mai 2002 relèvent de la loi d'amnistie du 6 août 2002. L'amnistie n'a pas été vérifiée dans une source.",
+  "Exclu (relaxe) : François Cormier-Bouligeon, député EPR du Cher, a été relaxé dans la procédure en diffamation engagée par Benjamin Tranchant (Le Berry républicain).",
+  "Hors périmètre, non retenus : anciens députés LREM ou ministres qui ne sont aujourd'hui ni parlementaires ni membres de la direction (par ex. Olivier Dussopt, Laetitia Avia, Sira Sylla). Leurs éventuelles condamnations n'ont pas été vérifiées.",
+  "Richard Ferrand (secrétaire général d'En Marche en 2016-2017), Stanislas Guerini et Stéphane Séjourné : aucune condamnation trouvée dans les sources consultées."
+ ]
+}

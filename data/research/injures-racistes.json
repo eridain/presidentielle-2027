@@ -1,0 +1,213 @@
+{
+  "id": "injures-racistes",
+  "titre": "Répression des injures racistes et antisémites",
+  "question": "Faut-il durcir la répression des injures et diffamations racistes, antisémites ou discriminatoires, y compris non publiques ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi de Mathieu Lefèvre (Renaissance) transforme en délits, punis de 3 750 euros d'amende, les contraventions de provocation, diffamation et injure non publiques à caractère raciste, antisémite ou discriminatoire ; elle crée un délit d'apologie ou de contestation non publique de crimes contre l'humanité, permet au tribunal correctionnel de décerner un mandat de dépôt ou d'arrêt contre les auteurs d'apologie ou de contestation de crimes, et prévoit des peines complémentaires. Elle a été adoptée en première lecture le 6 mars 2024 (107 pour, 0 contre, 41 abst.), avec le soutien du gouvernement ; LFI, le RN et GDR se sont abstenus. Transmise au Sénat le jour même, elle n'y a pas été examinée en séance à la date de consultation du dossier.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/renforcer_reponse_penale_infractions"
+    },
+    {
+      "titre": "Sénat – dossier législatif ppl23-402",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl23-402.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 6 mars 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-mars-2024"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/renforcer_reponse_penale_infractions",
+  "argumentsPour": [
+    {
+      "auteur": "Éric Dupond-Moretti (garde des Sceaux, gouvernement)",
+      "resume": "Il faut réprimer plus sévèrement les abus non publics de la liberté d'expression, en faisant des injures non publiques racistes des délits.",
+      "citation": "Je veux insister ici sur la nécessité de réprimer plus sévèrement les abus non publics de la liberté d’expression.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-mars-2024",
+      "date": "2024-03-06"
+    },
+    {
+      "auteur": "Cécile Untermaier (Socialistes)",
+      "resume": "Le texte comble des vides juridiques qui empêchent une répression dissuasive, notamment des injures non publiques.",
+      "citation": "Le texte entend combler des vides juridiques qui empêchent une répression plus dissuasive des infractions à caractère raciste ou antisémite, plus particulièrement s’agissant des injures non publiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-mars-2024",
+      "date": "2024-03-06"
+    },
+    {
+      "auteur": "Paul Molac (LIOT)",
+      "resume": "Les peines doivent être exécutées et le sentiment d'impunité doit cesser face aux actes racistes et antisémites.",
+      "citation": "Les peines prévues par le législateur doivent être exécutées et le sentiment d’impunité ne doit plus être de mise pour les actes racistes et antisémites qui fracturent notre société.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-mars-2024",
+      "date": "2024-03-06"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Antoine Léaument (La France insoumise, abstention)",
+      "resume": "Augmenter la répression pénale serait inutile et sans effet sur les actes ; il fallait agir sur le dépôt de plainte et le racisme systémique.",
+      "citation": "Globalement, il ne sert à rien d’augmenter la répression pénale : ce sera sans effet sur les actes individuels.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-mars-2024",
+      "date": "2024-03-06"
+    },
+    {
+      "auteur": "Nadège Abomangoli (La France insoumise, abstention)",
+      "resume": "Un texte d'affichage : transformer des contraventions en délits engorgera les tribunaux sans moyens supplémentaires.",
+      "citation": "La transformation de contraventions en délits va en effet déborder les tribunaux et rallonger des procédures auxquelles personne ne croit.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-mars-2024",
+      "date": "2024-03-06"
+    },
+    {
+      "auteur": "Julien Odoul (Rassemblement national, abstention)",
+      "resume": "Le texte masquerait l'origine islamiste de la majorité des actes antisémites.",
+      "citation": "La lecture de l’exposé des motifs de la proposition de loi prouve votre volonté délibérée de masquer l’origine et la nature de l’immense majorité des infractions à caractère antisémite.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-mars-2024",
+      "date": "2024-03-06"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Davy Rimane (GDR)",
+      "resume": "Le texte va dans le bon sens mais se limite au volet pénal ; le « tout-prison » ne peut répondre à un mal profond.",
+      "citation": "Nous l’avons dit en commission : pour nous, le « tout-prison » ne peut pas être la réponse à un tel problème de société.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-mars-2024",
+      "date": "2024-03-06"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire à cette date ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe LFI-NUPES s'est abstenu (21 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3431) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR - NUPES a voté : abstention (0p/0c/3a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3431) ; aucune déclaration retrouvée. À titre indicatif, son groupe LFI - NUPES a voté : abstention (0p/0c/21a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES a voté pour (4 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3431) ; aucune déclaration retrouvée. À titre indicatif, son groupe Ecolo - NUPES a voté : pour (4p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (11 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a soutenu la proposition de loi (garde des Sceaux Éric Dupond-Moretti au banc) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-06-mars-2024",
+      "date": "2024-03-06"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons, issu de son parti, a voté pour (9 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; le texte n'a pas été examiné en séance au Sénat, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (11 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe LR de l'Assemblée a voté pour (11 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (11 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3431) ; aucune déclaration retrouvée. À titre indicatif, son groupe RN a voté : abstention (0p/0c/17a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'avait pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3431) ; aucune déclaration retrouvée. À titre indicatif, son groupe NI a voté : None (0p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3431",
+      "date": "2024-03-06"
+    }
+  },
+  "alertes": [
+    "Aucune voix contre : les « arguments contre » sont des critiques de groupes qui se sont abstenus (LFI, RN), et non des votes contre.",
+    "Le texte n'est pas une loi : adopté en première lecture à l'Assemblée, il n'a pas été examiné en séance au Sénat (vérification sur le dossier du Sénat, sans date précise de dernière mise à jour).",
+    "Le Pen : n'a pas pris part au vote ; son groupe RN s'est abstenu (17 abst.).",
+    "Attal : position déduite de son rôle de Premier ministre du gouvernement qui soutenait le texte.",
+    "Retailleau : aucun vote du Sénat disponible."
+  ]
+}

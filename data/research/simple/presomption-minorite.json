@@ -1,0 +1,18 @@
+{
+  "id": "presomption-minorite",
+  "questionSimple": "Un jeune se disant mineur et seul doit-il rester hébergé jusqu'à ce que la justice tranche son âge ?",
+  "enBref": "Quand un jeune étranger seul arrive, le département vérifie s'il est mineur. S'il est jugé majeur, il perd l'hébergement, même s'il conteste en justice. Le texte le garde à l'abri jusqu'à la décision du juge, et interdit les tests osseux.",
+  "pourquoiPour": "Pour ses partisans, beaucoup de jeunes jugés majeurs sont ensuite reconnus mineurs par la justice. En attendant, des mois parfois, ils dorment à la rue alors qu'ils sont des enfants.",
+  "pourquoiContre": "Pour ses opposants, les départements qui accueillent ces jeunes sont déjà saturés. Garder tous les jeunes pendant leur recours ferait peser une lourde charge et pourrait encourager les recours.",
+  "ceQuiSestPasse": "Adopté en première lecture par l'Assemblée le 11 décembre 2025 contre l'avis du gouvernement, le texte attendait son examen au Sénat.",
+  "lexique": [
+    {
+      "terme": "Mineur non accompagné",
+      "definition": "Jeune étranger de moins de 18 ans arrivé en France sans parent ni adulte responsable."
+    },
+    {
+      "terme": "Présomption de minorité",
+      "definition": "Principe selon lequel le jeune est traité comme mineur tant que l'inverse n'est pas définitivement établi."
+    }
+  ]
+}

@@ -1,0 +1,130 @@
+{
+ "partiId": "nouvelle-energie",
+ "nom": "Nouvelle Énergie",
+ "sigle": "NE",
+ "predecesseurs": [],
+ "fondation": "2014",
+ "direction": [
+  {
+   "nom": "David Lisnard",
+   "fonction": "président",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  },
+  {
+   "nom": "Alexandra Martin",
+   "fonction": "secrétaire générale",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  },
+  {
+   "nom": "Viviane Chaine-Ribeiro",
+   "fonction": "vice-présidente",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  },
+  {
+   "nom": "Nicolas Gorjux",
+   "fonction": "vice-président",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  },
+  {
+   "nom": "Béatrice de Montille",
+   "fonction": "vice-présidente",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  },
+  {
+   "nom": "Yves d'Amécourt",
+   "fonction": "vice-président",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  },
+  {
+   "nom": "Anne Sattonnet",
+   "fonction": "vice-présidente",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  },
+  {
+   "nom": "Geoffroy Boulard",
+   "fonction": "vice-président, président du Comité national d'investiture",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  },
+  {
+   "nom": "Jean-Pierre Pansier",
+   "fonction": "trésorier",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  },
+  {
+   "nom": "Véronique Piel",
+   "fonction": "secrétaire générale adjointe",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  },
+  {
+   "nom": "Romain Marsily",
+   "fonction": "directeur général",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  },
+  {
+   "nom": "Quentin Hoster",
+   "fonction": "directeur général adjoint",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  }
+ ],
+ "presentation": "Nouvelle Énergie est le parti présidé par David Lisnard, maire de Cannes ; Le Monde le date de 2014, Public Sénat de 2021, année de son déploiement national. Selon Wikipédia, qui s'appuie sur Le Monde, Nouvelle Énergie « est classée à droite » et se caractérise « principalement par une orientation libérale sur les questions économiques ». La candidature présidentielle de David Lisnard s'appuie sur ce parti depuis qu'il a quitté Les Républicains le 31 mars 2026 ; au Parlement, sa secrétaire générale Alexandra Martin est députée des Alpes-Maritimes et Serge Bérard, élu sénateur du Rhône en septembre 2026 sous l'étiquette du parti, est rattaché au groupe LR.",
+ "presentationSources": [
+  {
+   "titre": "Nouvelle Énergie (Wikipédia)",
+   "url": "https://fr.wikipedia.org/wiki/Nouvelle_%C3%89nergie"
+  },
+  {
+   "titre": "« Son espace est étroit » : David Lisnard, un candidat à la présidentielle libéré, esseulé ? (Le Parisien, 07/05/2026)",
+   "url": "https://www.leparisien.fr/elections/presidentielle/son-espace-est-etroit-david-lisnard-un-candidat-a-la-presidentielle-libere-esseule-07-05-2026-YFW5HBJG2BAIRJOX7WM5T4LSGE.php"
+  },
+  {
+   "titre": "« Je suis candidat » : David Lisnard quitte LR… (LCP, 01/04/2026)",
+   "url": "https://lcp.fr/dossiers/presidentielle-2027-434148?page=13"
+  },
+  {
+   "titre": "Serge Bérard, sénateur du Rhône : l'élu de Nouvelle Énergie (nosparlementaires.fr)",
+   "url": "https://nosparlementaires.fr/actualites/portrait-serge-berard-senateur-rhone"
+  },
+  {
+   "titre": "L'équipe (Nouvelle Énergie)",
+   "url": "https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/"
+  }
+ ],
+ "effectifs": {
+  "deputes": 1,
+  "senateurs": 1,
+  "eurodeputes": 0,
+  "source": "Comptage limité aux élus vérifiés : Alexandra Martin (deputes_par_groupe_2026.json, groupe DR ; secrétaire générale sur https://www.unenouvelleenergie.fr/decouvrir-notre-parti/lequipe/) et Serge Bérard (https://nosparlementaires.fr/actualites/portrait-serge-berard-senateur-rhone). Wikipédia indique 2 députés et 5 sénateurs sans source."
+ },
+ "candidats": [
+  {
+   "id": "lisnard",
+   "bio": "David Lisnard est maire de Cannes, réélu en 2026, et président de l'Association des maires de France (AMF). Président de Nouvelle Énergie, il a quitté Les Républicains le 31 mars 2026 en annonçant sa candidature à l'élection présidentielle de 2027 et en appelant à une primaire de la droite et du centre.",
+   "sources": [
+    {
+     "titre": "« Son espace est étroit » : David Lisnard… (Le Parisien, 07/05/2026)",
+     "url": "https://www.leparisien.fr/elections/presidentielle/son-espace-est-etroit-david-lisnard-un-candidat-a-la-presidentielle-libere-esseule-07-05-2026-YFW5HBJG2BAIRJOX7WM5T4LSGE.php"
+    },
+    {
+     "titre": "« Je suis candidat » : David Lisnard quitte LR et relance le débat sur une primaire à droite (LCP)",
+     "url": "https://lcp.fr/dossiers/presidentielle-2027-434148?page=13"
+    },
+    {
+     "titre": "Nouvelle Énergie (Wikipédia)",
+     "url": "https://fr.wikipedia.org/wiki/Nouvelle_%C3%89nergie"
+    }
+   ]
+  }
+ ],
+ "condamnations": [],
+ "perimetre": {
+  "personnesVerifiees": 16,
+  "methode": "Périmètre : David Lisnard, le parti Nouvelle Énergie, l'équipe dirigeante publiée sur unenouvelleenergie.fr (président, secrétaire générale, vice-présidents, trésorier, secrétaire générale adjointe, direction générale), les parlementaires identifiés (Alexandra Martin, Serge Bérard) et les sénateurs LR associés au parti en 2023 selon Wikipédia/Public Sénat (Laurence Garnier, Muriel Jourda ; Étienne Blanc, qui n'est plus sénateur). Requêtes : « <nom> condamné » pour chaque personne, « David Lisnard condamné tribunal correctionnel », « Lisnard condamné diffamation », « Lisnard Cour de cassation condamnation », « Alexandra Martin députée condamnée » ; lecture des pages Wikipédia de David Lisnard, Geoffroy Boulard, Hervé Novelli, Viviane Chaine-Ribeiro, Nicolas Gorjux, Yves d'Amécourt (recherche « condamn »).",
+  "limites": "Aucune condamnation trouvée dans les sources consultées, ce qui ne signifie pas qu'il n'en existe aucune. Le parti revendique « une vingtaine de parlementaires » (juillet 2025, selon Wikipédia) sans en publier la liste : les parlementaires non identifiés n'ont pas pu être vérifiés. Poligraph et Légifrance n'ont pas pu être lus."
+ },
+ "alertes": [
+  "Date de fondation divergente : 2014 selon Le Monde (25/03/2026), 2021 selon Public Sénat (cités par Wikipédia, articles non ouverts) ; 2014 retenu, avec le déploiement national annoncé le 9 juin 2021.",
+  "La ville de Cannes a été condamnée en 2018 à rembourser une amende infligée en vertu de l'arrêté « anti-burkini » (Wikipédia) : décision administrative visant la commune et non David Lisnard, donc exclue.",
+  "Laurence Garnier et Muriel Jourda (sénatrices) sont membres des Républicains ; Laurence Garnier est vice-présidente de LR. Aucune condamnation trouvée pour elles ; elles sont aussi couvertes par lr.json.",
+  "Les condamnations d'anciens dirigeants LR/UMP (période où David Lisnard était membre de LR) figurent dans lr.json et ne sont pas dupliquées ici."
+ ]
+}

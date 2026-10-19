@@ -1,0 +1,18 @@
+{
+  "id": "fin-hydrocarbures",
+  "questionSimple": "Faut-il interdire de chercher du pétrole et du gaz en France et arrêter d'en extraire d'ici 2040 ?",
+  "enBref": "La loi interdit d'accorder de nouveaux permis pour chercher du pétrole ou du gaz en France. Les gisements déjà exploités devront s'arrêter au plus tard en 2040. Le gaz de schiste et le charbon sont aussi visés.",
+  "pourquoiPour": "Ses partisans veulent sortir des énergies fossiles pour limiter le réchauffement climatique. Ils misent sur les économies d'énergie et les énergies renouvelables pour les remplacer.",
+  "pourquoiContre": "Ses opposants estiment que la production française est minime et qu'il faudra importer davantage. Selon eux, la loi déplace le problème sans réduire les émissions.",
+  "ceQuiSestPasse": "Adoptée définitivement par l'Assemblée en décembre 2017 malgré le rejet du Sénat, la loi a été promulguée le 30 décembre 2017.",
+  "lexique": [
+    {
+      "terme": "Hydrocarbures",
+      "definition": "Pétrole et gaz naturel, des énergies fossiles."
+    },
+    {
+      "terme": "Droit de suite",
+      "definition": "Règle qui donne à l'entreprise ayant exploré un gisement le droit de l'exploiter ensuite."
+    }
+  ]
+}

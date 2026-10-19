@@ -1,0 +1,217 @@
+{
+  "id": "ivg-14-semaines",
+  "titre": "Allongement du délai d'IVG à 14 semaines",
+  "question": "Faut-il allonger le délai légal d'IVG de 12 à 14 semaines de grossesse ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi d'Albane Gaillot porte de 12 à 14 semaines de grossesse le délai légal de recours à l'IVG, permet aux sages-femmes de pratiquer des IVG chirurgicales à l'hôpital et supprime le délai de réflexion de deux jours après l'entretien psychosocial ; la clause de conscience spécifique à l'IVG est maintenue. Le Sénat a rejeté le texte à chaque lecture par une question préalable. L'Assemblée l'a adopté en lecture définitive le 23 février 2022 (135 pour, 47 contre) ; le gouvernement s'en était remis à la sagesse des parlementaires. Il est devenu la loi n° 2022-295 du 2 mars 2022.",
+  "contexteSources": [
+    {
+      "titre": "vie-publique.fr – Loi du 2 mars 2022 visant à renforcer le droit à l'avortement",
+      "url": "https://www.vie-publique.fr/loi/276586-loi-2-mars-2022-renforcer-droit-avortement-delai-porte-14-semaines"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/renforcement_du_droit_a_lavortement"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 23 février 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/seance-du-mercredi-23-fevrier-2022"
+    },
+    {
+      "titre": "Sénat – scrutins publics sur le texte",
+      "url": "https://www.senat.fr/scrutin-public/dossiers/ppl20-023_scr.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/renforcement_du_droit_a_lavortement",
+  "argumentsPour": [
+    {
+      "auteur": "Albane Gaillot (rapporteure de la commission des affaires sociales)",
+      "resume": "L'avortement est une solution pour les femmes qui ne souhaitent pas poursuivre leur grossesse ; il doit être reconnu comme un droit à part entière.",
+      "citation": "L’avortement n’est pas un échec, une erreur de parcours ou un drame, mais une solution pour les femmes qui ne souhaitent pas poursuivre leur grossesse.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/seance-du-mercredi-23-fevrier-2022",
+      "date": "2022-02-23"
+    },
+    {
+      "auteur": "Clémentine Autain (La France insoumise)",
+      "resume": "Deux semaines de plus évitent à des femmes de devoir partir avorter à l'étranger, qu'elles en aient ou non les moyens.",
+      "citation": "Ajouter deux semaines, c’est éviter à des femmes de devoir partir à l’étranger et c’est leur permettre d’avorter, qu’elles aient ou non de l’argent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/seance-du-mercredi-23-fevrier-2022",
+      "date": "2022-02-23"
+    },
+    {
+      "auteur": "Christophe Castaner (LaREM)",
+      "resume": "Au-delà de l'allongement du délai, le texte vise l'accès réel au droit à l'avortement sur tout le territoire.",
+      "citation": "Au-delà de l’allongement du délai de douze à quatorze semaines, nous sommes résolument attachés à assurer l’accès réel au droit fondamental qu’est l’avortement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/seance-du-mercredi-23-fevrier-2022",
+      "date": "2022-02-23"
+    },
+    {
+      "auteur": "Michèle Victory (Socialistes)",
+      "resume": "Le texte conforte un droit fondamental des femmes, le droit de choisir, encore fragile près d'un demi-siècle après la loi Veil.",
+      "citation": "Je suis très fière d’apporter, une fois encore, au nom du groupe Socialistes et apparentés, mon soutien à un texte qui touche à un droit fondamental des femmes : le droit d’avoir le choix.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/seance-du-mercredi-23-fevrier-2022",
+      "date": "2022-02-23"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Geneviève Levy (Les Républicains)",
+      "resume": "Les avortements hors délai tiennent surtout à une découverte tardive de la grossesse ; deux semaines de plus ne changeraient rien pour ces femmes. Il faudrait plutôt agir sur l'éducation et les déserts médicaux.",
+      "citation": "L’allongement de deux semaines du délai de recours à l’IVG, pour le porter à quatorze semaines, n’aura donc aucun impact pour ces femmes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/seance-du-mercredi-23-fevrier-2022",
+      "date": "2022-02-23"
+    },
+    {
+      "auteur": "Valérie Six (UDI et indépendants)",
+      "resume": "Au-delà de douze semaines, l'acte médical change de nature ; elle met en garde contre une « fuite en avant » sur les délais.",
+      "citation": "Sans aller plus loin dans les détails, prenons simplement conscience du geste, de sa portée nécessairement éthique et de la nécessité d’éviter une fuite en avant en matière de délais.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/seance-du-mercredi-23-fevrier-2022",
+      "date": "2022-02-23"
+    },
+    {
+      "auteur": "Emmanuelle Ménard (non-inscrite)",
+      "resume": "Le texte ignore les mises en garde médicales et éthiques, supprime le délai de réflexion et banalise l'avortement ; elle a défendu une motion de rejet.",
+      "citation": "Mais qu’importe puisque même aux femmes, dont vous dites défendre les droits, vous supprimez le délai de réflexion de quarante-huit heures entre l’entretien psychosocial préalable et le recueil du consentement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/seance-du-mercredi-23-fevrier-2022",
+      "date": "2022-02-23"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4414) ; aucune déclaration retrouvée. À titre indicatif, son groupe FI a voté : pour (5p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "date": "2022-02-23"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4414) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR a voté : pour (2p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "date": "2022-02-23"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4414) ; aucune déclaration retrouvée. À titre indicatif, son groupe FI a voté : pour (5p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "date": "2022-02-23"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire à cette date ; aucune déclaration spécifique retrouvée. Aucun groupe écologiste à l'Assemblée en 2022 ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "date": "2022-02-23"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour à l'Assemblée nationale (scrutin n°4414 du 23 février 2022) ; pas d'explication de vote personnelle sur le texte retrouvée dans le compte rendu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "date": "2022-02-23"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée, allié de Place publique, a voté pour (15 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "date": "2022-02-23"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex à la date du vote. Le gouvernement s'en est remis à la sagesse des parlementaires sans prendre position ; le président Macron s'était dit personnellement réservé. Pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/seance-du-mercredi-23-fevrier-2022",
+      "date": "2022-02-23"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ni de fonction gouvernementale en février 2022 ; aucune déclaration spécifique retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "date": "2022-02-23"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour la question préalable (rejet du texte) au Sénat, scrutin n°102 du 16 février 2022 (nouvelle lecture) ; il avait voté de même aux scrutins n°53 (2021) et n°82 (2022).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2021/scr2021-102.html",
+      "date": "2022-02-16"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration spécifique sur le délai de 14 semaines retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (1 pour / 19 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "date": "2022-02-23"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (1 pour / 19 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "date": "2022-02-23"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°4414) ; Le Monde rapporte qu'elle répétait pendant la campagne de 2022 être contre l'allongement de 12 à 14 semaines.",
+      "argument": "Selon Le Monde, elle jugeait qu'au-delà de 12 semaines l'acte « changeait complètement de nature », tout en affirmant ne pas vouloir de recul sur le droit à l'IVG.",
+      "citation": null,
+      "url": "https://www.lemonde.fr/election-presidentielle-2022/article/2022/04/17/marine-le-pen-et-les-droits-des-femmes-les-discours-et-les-textes-votes_6122545_6059010.html",
+      "date": "2022-04-17"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique vérifiable retrouvée. Reconquête n'avait pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "date": "2022-02-23"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°4414) ; pas d'intervention personnelle retrouvée dans le compte rendu de la séance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4414",
+      "date": "2022-02-23"
+    }
+  },
+  "alertes": [
+    "Le texte ne se limite pas au délai de 14 semaines : il contient aussi l'extension de la pratique des IVG chirurgicales aux sages-femmes et la suppression du délai de réflexion de deux jours ; la question est centrée sur la mesure phare.",
+    "Retailleau : le vote au Sénat porte sur une question préalable (motion de rejet) ; voter « pour » la motion équivaut à rejeter le texte, d'où la position « contre ».",
+    "Le Pen : n'a pas pris part au vote de lecture définitive ; position tirée d'un article du Monde (synthèse journalistique, pas de citation directe sur les 14 semaines vérifiable mot pour mot) ; le passage « l'acte changeait complètement de nature » est une citation retouchée par le journal (article du 22/11/2022), d'où citation null. En novembre 2022, elle a proposé de constitutionnaliser le droit à l'IVG en mentionnant le délai de 14 semaines.",
+    "Attal : le gouvernement s'en est remis à la sagesse du Parlement (« Si le Gouvernement s'en est remis à la délibération des parlementaires… », Olivier Véran en séance) ; aucune position gouvernementale pour/contre ne peut lui être attribuée.",
+    "Mélenchon, Roussel, Ruffin : absents lors de ce vote de lecture définitive ; leurs votes lors des lectures précédentes n'ont pas été vérifiés.",
+    "Batho, Dupont-Aignan : votes nominatifs certains, mais aucune explication personnelle retrouvée dans le compte rendu du 23 février 2022."
+  ]
+}

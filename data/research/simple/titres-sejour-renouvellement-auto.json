@@ -1,0 +1,18 @@
+{
+  "id": "titres-sejour-renouvellement-auto",
+  "questionSimple": "Faut-il que les cartes de séjour longues des étrangers soient renouvelées automatiquement, sauf motif de refus ?",
+  "enBref": "Les étrangers installés en France depuis longtemps ont des cartes de séjour de 4 ou 10 ans, qu'ils doivent faire renouveler en préfecture. Les délais atteignent souvent plusieurs mois. Le texte rend ce renouvellement automatique, sauf motif de refus, et le silence de l'administration pendant quatre mois vaut accord.",
+  "pourquoiPour": "Pour ses partisans, presque toutes les demandes sont acceptées, mais les retards font perdre emploi ou études à des personnes installées depuis des années. L'automaticité soulagerait aussi les agents des préfectures.",
+  "pourquoiContre": "Pour ses opposants, le renouvellement doit rester contrôlé par l'État, notamment pour des raisons d'ordre public. Le gouvernement craignait aussi des problèmes avec la Constitution et le droit européen.",
+  "ceQuiSestPasse": "Adopté en première lecture par l'Assemblée le 11 décembre 2025, le texte a été transmis au Sénat, qui ne l'avait pas encore examiné.",
+  "lexique": [
+    {
+      "terme": "Carte de résident",
+      "definition": "Titre de séjour de dix ans délivré aux étrangers installés durablement en France."
+    },
+    {
+      "terme": "Carte de séjour pluriannuelle",
+      "definition": "Titre de séjour valable plusieurs années, généralement jusqu'à quatre ans."
+    }
+  ]
+}

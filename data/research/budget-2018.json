@@ -1,0 +1,214 @@
+{
+  "id": "budget-2018",
+  "titre": "Premier budget du quinquennat Macron (2018)",
+  "question": "Faut-il adopter le budget de l'État pour 2018, premier budget du quinquennat Macron (« flat tax » de 30 % sur le capital, remplacement de l'ISF par un impôt sur la fortune immobilière, début de la suppression de la taxe d'habitation) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi de finances pour 2018, premier budget du gouvernement d'Édouard Philippe, traduit plusieurs promesses d'Emmanuel Macron : création d'un prélèvement forfaitaire unique (« flat tax ») de 30 % sur les revenus du capital, remplacement de l'impôt de solidarité sur la fortune (ISF) par un impôt sur la fortune immobilière (IFI), baisse progressive de l'impôt sur les sociétés de 33,3 % à 25 %, dégrèvement de la taxe d'habitation pour 80 % des ménages en trois ans, hausse de la fiscalité carbone. Il prévoit aussi des économies contestées : baisse des aides au logement (APL) compensée par les bailleurs sociaux, réduction des contrats aidés, effort demandé aux collectivités. Le même automne, le budget de la Sécurité sociale relève la CSG de 1,7 point en contrepartie de la suppression de cotisations salariales. Le gouvernement met en avant la sortie de la procédure européenne pour déficit excessif. Le 21 novembre 2017, l'Assemblée adopte le texte en première lecture par 356 voix contre 175 : LREM et MoDem pour ; LR, Nouvelle Gauche, France insoumise, GDR et la plupart des non-inscrits (dont le FN) contre ; les Constructifs majoritairement abstentionnistes. Après son passage au Sénat et l'échec de la commission mixte paritaire, l'Assemblée a eu le dernier mot ; la loi de finances a été promulguée le 30 décembre 2017 (loi n° 2017-1837).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 21 novembre 2017 (vote solennel sur le PLF 2018)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064"
+    },
+    {
+      "titre": "Sénat – Dossier législatif : loi de finances pour 2018",
+      "url": "https://www.senat.fr/dossier-legislatif/pjlf2018.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/272",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/pjlf2018.html",
+  "argumentsPour": [
+    {
+      "auteur": "Amélie de Montchalin (La République en marche)",
+      "resume": "Le budget est sincère et permet de sortir de la procédure européenne pour déficit excessif.",
+      "citation": "Ce budget est un texte sincère. Il nous permettra de sortir, comme l’a confirmé la Commission européenne, pour la première fois depuis 2009, de la procédure de déficit excessif.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    },
+    {
+      "auteur": "Amélie de Montchalin (La République en marche)",
+      "resume": "Le budget applique fidèlement les engagements de campagne d'Emmanuel Macron.",
+      "citation": "Par ce budget, nous faisons ce que nous avions dit que nous ferions. Nous tenons nos promesses.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    },
+    {
+      "auteur": "Jean-Noël Barrot (MoDem)",
+      "resume": "Le budget revalorise le travail, soutient le pouvoir d'achat et exonère quatre ménages sur cinq de taxe d'habitation.",
+      "citation": "Quatre Français sur cinq seront exonérés de la taxe d’habitation d’ici à trois ans",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Éric Coquerel (La France insoumise)",
+      "resume": "La flat tax et la sortie du capital mobilier de l'ISF allègent l'impôt des plus riches, pendant que le logement et les contrats aidés subissent des coupes.",
+      "citation": "Vous avez inventé la flat tax, véritable bouclier pour les revenus du capital alors que la France a besoin de retrouver une progressivité de l’impôt pour une plus grande justice fiscale !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    },
+    {
+      "auteur": "Fabien Roussel (GDR)",
+      "resume": "Plus de 40 milliards de cadeaux sans contrepartie aux plus riches et aux entreprises, financés par les retraités, les locataires et les communes.",
+      "citation": "Jamais un gouvernement n’a fait autant de cadeaux aux plus riches et à la finance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    },
+    {
+      "auteur": "Valérie Rabault (Nouvelle Gauche)",
+      "resume": "Le budget n'investit pas pour l'avenir et accroît les inégalités, notamment avec la hausse de la CSG pour les retraités.",
+      "citation": "Deuxième mesure : la hausse de la CSG pour tous, mais avec un effet à taux plein pour les retraités.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    },
+    {
+      "auteur": "Véronique Louwagie (Les Républicains)",
+      "resume": "Les économies frappent le logement (APL, PTZ, Pinel) et les territoires ruraux, et la baisse du CICE alourdit le coût du travail.",
+      "citation": "votre projet de loi est un concentré de mesures particulièrement hostiles au logement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Philippe Vigier (Les Constructifs)",
+      "resume": "Le groupe soutient la flat tax, la baisse de l'IS et la réforme de l'ISF, mais juge la réforme de l'État insuffisante et condamne la hausse de la CSG.",
+      "citation": "Ce budget, enfin, est entaché d’une faute lourde, la hausse de la CSG, qui pénalisera les retraités et les fonctionnaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°272) ; président du groupe La France insoumise, pas d'intervention personnelle dans les explications de vote : argument = intervention du groupe (Éric Coquerel).",
+      "argument": "Groupe FI : budget « inégal et austère », flat tax et réforme de l'ISF au profit des plus riches, coupes dans le logement et les contrats aidés.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°272) et a porté l'explication de vote du groupe GDR.",
+      "argument": "Le budget multiplie les cadeaux aux plus riches et à la finance (ISF, flat tax, impôt sur les sociétés) et fait payer retraités, locataires et communes.",
+      "citation": "Jamais un gouvernement n’a fait autant de cadeaux aux plus riches et à la finance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°272) ; pas d'intervention personnelle retrouvée : argument = intervention du groupe FI (Éric Coquerel).",
+      "argument": "Groupe FI : la flat tax est un « bouclier pour les revenus du capital » alors qu'il faudrait un impôt plus progressif.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national en 2017 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°272), alors membre du groupe Nouvelle Gauche ; pas d'intervention personnelle retrouvée : argument = intervention du groupe (Valérie Rabault).",
+      "argument": "Groupe Nouvelle Gauche : pas de soutien à la croissance, pas d'investissement, pas de réduction des inégalités.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Essayiste sans mandat en 2017 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté pour (scrutin AN n°272), alors député La République en marche ; pas d'intervention personnelle retrouvée : argument = intervention du groupe (Amélie de Montchalin).",
+      "argument": "Groupe LREM : un budget sincère qui tient les promesses de campagne et fait sortir la France de la procédure pour déficit excessif.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre : le projet de loi de finances est présenté et défendu par son gouvernement.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N064",
+      "date": "2017-11-21"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat, a voté pour le projet de loi de finances le 12 décembre 2017 (scrutin Sénat n°43), mais dans la version modifiée par la majorité sénatoriale, et non dans celle votée par l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-43.html",
+      "date": "2017-12-12"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de la région Hauts-de-France ; aucune déclaration retrouvée sur ce vote.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. Proxy : le groupe LR de l'Assemblée a voté contre (98 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°272), alors députée non inscrite ; aucune intervention retrouvée dans les explications de vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/272",
+      "date": "2017-11-21"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Journaliste et essayiste sans mandat en 2017 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°272), alors député non inscrit ; aucune intervention retrouvée dans les explications de vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/272",
+      "date": "2017-11-21"
+    }
+  },
+  "alertes": [
+    "La hausse de la CSG figurait dans le budget de la Sécurité sociale (PLFSS 2018), et non dans ce projet de loi de finances, même si elle a pesé dans les explications de vote.",
+    "Retailleau a voté au Sénat une version du budget modifiée par la majorité de droite, alors que LR a voté contre à l'Assemblée.",
+    "Le Pen et Dupont-Aignan ont voté contre sans explication de vote (non-inscrits, sans temps de parole dans ce débat)."
+  ]
+}

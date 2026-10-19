@@ -1,0 +1,18 @@
+{
+  "id": "maintien-zfe",
+  "questionSimple": "Faut-il garder les zones à faibles émissions (ZFE) qui interdisent les voitures les plus polluantes en ville ?",
+  "enBref": "Dans les grandes villes, les ZFE interdisent progressivement de rouler avec les voitures les plus anciennes et polluantes. Le RN voulait les supprimer. Les écologistes ont proposé de supprimer cette suppression, c'est-à-dire de garder les ZFE.",
+  "pourquoiPour": "Ses partisans rappellent que la pollution de l'air cause des dizaines de milliers de morts par an. Pour eux, les ZFE fonctionnent et il faut les améliorer plutôt que les abandonner.",
+  "pourquoiContre": "Ses opposants jugent les ZFE injustes : elles pénalisent ceux qui ne peuvent pas changer de voiture, surtout sans transports en commun suffisants.",
+  "ceQuiSestPasse": "La proposition de garder les ZFE a été rejetée le 8 octobre 2026, mais le texte d'abrogation n'a pas été voté : les ZFE existent toujours.",
+  "lexique": [
+    {
+      "terme": "ZFE",
+      "definition": "Zone à faibles émissions : zone urbaine interdite aux véhicules les plus polluants."
+    },
+    {
+      "terme": "Vignette Crit'Air",
+      "definition": "Autocollant qui classe les véhicules selon leur niveau de pollution."
+    }
+  ]
+}

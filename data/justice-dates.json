@@ -1,0 +1,18 @@
+{
+ "_commentaire": "Date de consultation des sources de chaque fiche data/justice/<partiId>.json, affichée « liste établie à partir des sources consultées à la date du… » quand la fiche n'a pas de champ dateConsultation. Relevée à l'intégration (round 4) : fiches écrites le 18 octobre 2026. À mettre à jour quand une fiche est revérifiée ; une date trop ancienne reste exacte (prudente), une date trop récente ne l'est pas.",
+ "lfi": "2026-10-18",
+ "pcf": "2026-10-18",
+ "debout": "2026-10-18",
+ "ecologistes": "2026-10-18",
+ "generation-ecologie": "2026-10-18",
+ "place-publique": "2026-10-18",
+ "ps": "2026-10-18",
+ "renaissance": "2026-10-18",
+ "horizons": "2026-10-18",
+ "lr": "2026-10-18",
+ "nous-france": "2026-10-18",
+ "nouvelle-energie": "2026-10-18",
+ "rn": "2026-10-18",
+ "reconquete": "2026-10-18",
+ "dlf": "2026-10-18"
+}

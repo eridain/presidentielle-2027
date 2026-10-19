@@ -1,0 +1,18 @@
+{
+  "id": "urgence-agricole-2026",
+  "questionSimple": "Faut-il adopter la loi agricole d'urgence de 2026 (réserves d'eau, élevages, retour de deux pesticides) ?",
+  "enBref": "La loi facilite la construction de réserves d'eau pour l'irrigation et de bâtiments d'élevage, et protège mieux les troupeaux contre le loup. Elle permet de bloquer l'importation d'aliments traités avec des produits interdits en France. Elle autorise aussi, par exception, deux pesticides néonicotinoïdes interdits.",
+  "pourquoiPour": "Ses partisans veulent répondre vite à la détresse des agriculteurs : plus d'eau, moins de règles pour construire, plus de protection face à la concurrence étrangère.",
+  "pourquoiContre": "Ses opposants refusent le retour de pesticides jugés dangereux pour la santé et l'accaparement de l'eau par l'irrigation intensive. Selon eux, la loi ne règle pas le revenu des agriculteurs.",
+  "ceQuiSestPasse": "Adoptée définitivement en juillet 2026, la loi a été promulguée le 18 août 2026 ; le Conseil constitutionnel a validé la dérogation sur les pesticides avec réserves.",
+  "lexique": [
+    {
+      "terme": "Néonicotinoïdes",
+      "definition": "Famille d'insecticides toxiques pour les abeilles, interdits en France depuis 2018."
+    },
+    {
+      "terme": "Retenue d'eau",
+      "definition": "Réservoir qui stocke de l'eau, souvent l'hiver, pour irriguer les cultures l'été."
+    }
+  ]
+}

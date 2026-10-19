@@ -1,0 +1,210 @@
+{
+  "id": "fusilles-pour-l-exemple",
+  "titre": "Réhabilitation des « fusillés pour l'exemple »",
+  "question": "Faut-il réhabiliter les soldats « fusillés pour l'exemple » pendant la Première Guerre mondiale ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi du groupe La France insoumise (rapporteur Bastien Lachaud) prévoit une « réhabilitation générale et collective, civique et morale » des soldats condamnés à mort pour désobéissance militaire ou mutilation volontaire par les conseils de guerre de 1914-1918 et exécutés. Elle reconnaît qu'ils ont été victimes d'une « justice expéditive », prévoit l'inscription de leurs noms sur les monuments aux morts et l'érection d'un monument national. Adoptée par l'Assemblée le 13 janvier 2022 par 39 voix contre 26 (malgré l'opposition du gouvernement et de la majorité du groupe LaREM), elle a été rejetée par le Sénat le 2 février 2023 (article 1er rejeté par 218 voix contre 113) ; la navette n'a pas abouti.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – texte adopté n° 748 (open data)",
+      "url": "https://www.assemblee-nationale.fr/dyn/opendata/PIONANR5L15BTA0748.html"
+    },
+    {
+      "titre": "Sénat – dossier législatif ppl21-356",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl21-356.html"
+    },
+    {
+      "titre": "Sénat – scrutin n°122 du 2 février 2023",
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-122.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 3e séance du 13 janvier 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4298",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/ppl21-356.html",
+  "argumentsPour": [
+    {
+      "auteur": "Bastien Lachaud (La France insoumise, rapporteur)",
+      "resume": "Ces soldats, surtout fusillés en 1914-1915, ont été jugés par une justice d'exception sans contradictoire, sans appel ni avocat : son caractère expéditif justifie la réhabilitation.",
+      "citation": "Ces mutins ont été victimes d’un déni de justice, car ils ont été jugés par une justice militaire établie par le pouvoir politique",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Jean-Paul Dufrègne (GDR)",
+      "resume": "Le groupe porte cette demande depuis 2016 ; réhabiliter les 639 fusillés pour l'exemple est une question d'honneur.",
+      "citation": "la réhabilitation de ces 639 « fusillés pour l’exemple » est une question d’honneur, révélant une vraie blessure que nous devons laver.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Isabelle Santiago (Socialistes)",
+      "resume": "L'Assemblée s'honorerait à faire figurer leurs noms sur les monuments aux morts, plus de cent ans après.",
+      "citation": "Le groupe Socialistes et apparentés votera bien évidemment en faveur de ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Philippe Gosselin (Les Républicains)",
+      "resume": "Petit-fils de l'officier qui défendit les fusillés de Souain, il évoque la honte infligée aux familles et appelle à l'unité.",
+      "citation": "que ces quelques-uns qui ont failli devant la France et la République n’entachent pas l’honneur de ceux qui, oui, sont bien morts pour la France.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sophie Beaudouin-Hubiere (LaREM)",
+      "resume": "Une réhabilitation générale ne distinguerait pas les situations ; il n'appartient pas au législateur de se substituer aux historiens sur des faits vieux de plus d'un siècle.",
+      "citation": "il ne lui revient nullement de se substituer aux historiens en imposant une grille de lecture politisée et empreinte des idées modernes sur des événements qui ont eu lieu",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Adrien Taquet (secrétaire d'État, gouvernement)",
+      "resume": "L'objectif mémoriel est partagé, mais la loi ne peut rétablir l'honneur ; le ministère a mis en ligne les 1 009 dossiers de fusillés et fait travailler les historiens.",
+      "citation": "la loi ne rétablit pas l’honneur des hommes ; un tel résultat est l’aboutissement d’une démarche collective d’histoire et de mémoire",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4298), mais cosignataire de la proposition de loi n° 4636 déposée par son groupe le 3 novembre 2021.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/ppl21-356.html",
+      "date": "2021-11-03"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4298) ; aucune déclaration retrouvée. Indication : son groupe GDR a voté pour (3 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4298",
+      "date": "2022-01-13"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4298), mais cosignataire de la proposition de loi n° 4636 (groupe FI).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/ppl21-356.html",
+      "date": "2021-11-03"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée en 2022.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4298",
+      "date": "2022-01-13"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°4298) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4298",
+      "date": "2022-01-13"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (6 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4298",
+      "date": "2022-01-13"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a donné un avis défavorable au texte (Adrien Taquet en séance) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (maire du Havre, président d'Horizons depuis octobre 2021) ; aucune déclaration retrouvée ; pas de groupe Horizons à l'Assemblée à cette date.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4298",
+      "date": "2022-01-13"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Vote nominatif contre l'article 1er (réhabilitation) au Sénat, scrutin n°122 du 2 février 2023, rejeté par 218 voix contre 113.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-122.html",
+      "date": "2023-02-02"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans parti en 2022 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4298",
+      "date": "2022-01-13"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (3 pour / 0 contre / 1 abst.) ; les sénateurs LR ont majoritairement voté contre en 2023.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4298",
+      "date": "2022-01-13"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°4298) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4298",
+      "date": "2022-01-13"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4298",
+      "date": "2022-01-13"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4298) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4298",
+      "date": "2022-01-13"
+    }
+  },
+  "alertes": [
+    "Scrutin à très faible participation (74 votants) un jeudi soir de niche parlementaire : tous les candidats députés (Mélenchon, Roussel, Ruffin, Batho, Le Pen, Dupont-Aignan) n'ont pas pris part au vote.",
+    "Mélenchon et Ruffin : position « pour » déduite de leur cosignature de la proposition de loi (acte public daté), non d'un vote.",
+    "Attal : position déduite de l'avis défavorable du gouvernement auquel il appartenait, sans déclaration personnelle.",
+    "Retailleau : vote sur l'article 1er (cœur du texte) au Sénat, pas sur l'ensemble ; le texte a été rejeté.",
+    "La discussion générale a eu lieu lors d'une séance précédente le même jour ; les arguments cités proviennent de la discussion de l'article et des explications de la 3e séance.",
+    "Gosselin (LR) : son intervention soutient la réhabilitation mais ne précise pas formellement son vote."
+  ]
+}

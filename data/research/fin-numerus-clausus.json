@@ -1,0 +1,205 @@
+{
+  "id": "fin-numerus-clausus",
+  "titre": "Loi « Ma santé 2022 » : fin du numerus clausus",
+  "question": "Faut-il supprimer le numerus clausus des études de médecine et réorganiser l'offre de soins (loi « Ma santé 2022 ») ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi relatif à l'organisation et à la transformation du système de santé (plan « Ma santé 2022 », ministre Agnès Buzyn) supprime, à partir de la rentrée 2020, le numerus clausus et le concours de fin de première année (PACES) qui limitaient le nombre d'étudiants admis en deuxième année de médecine. Il supprime aussi les épreuves classantes nationales, crée un stage de six mois en zone sous-dense pour les internes de médecine générale, redéfinit les hôpitaux de proximité et développe les communautés professionnelles territoriales de santé et la télésanté. Le vote porte sur l'ensemble du texte issu de la commission mixte paritaire, adopté définitivement à l'Assemblée le 10 juillet 2019 (138 pour, 18 contre, 17 abstentions) ; la loi a été promulguée le 24 juillet 2019.",
+  "contexteSources": [
+    {
+      "titre": "ICI (Radio France) – L'Assemblée vote la suppression du « numerus clausus » pour les études de médecine",
+      "url": "https://www.ici.fr/infos/economie-social/l-assemblee-vote-la-suppression-du-numerus-clausus-pour-les-etudes-de-medecine-1553013621"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 10 juillet 2019 (texte de la CMP)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N010"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2042",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/organisation_transformation_systeme_sante",
+  "argumentsPour": [
+    {
+      "auteur": "Albane Gaillot (La République en marche)",
+      "resume": "La suppression du numerus clausus mettra fin à des années de gâchis, même si ses effets ne se feront sentir qu'après dix ans.",
+      "citation": "Je pense notamment à la réforme des études de santé et à la suppression du numerus clausus, qui mettra enfin un terme à tant d’années de gâchis humain et d’absurdités.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N010",
+      "date": "2019-07-10"
+    },
+    {
+      "auteur": "Paul Christophe (UDI, Agir et indépendants)",
+      "resume": "La réforme des études de santé était incontournable ; il salue la diversification des profils et le stage en zone sous-dense.",
+      "citation": "Nous saluons la suppression du numerus clausus et votre volonté, madame la ministre, de diversifier les profils des étudiants",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N010",
+      "date": "2019-07-10"
+    },
+    {
+      "auteur": "Jean-Pierre Door (Les Républicains)",
+      "resume": "Malgré ses insuffisances, le texte enrichi par le Sénat apporte des réponses aux territoires ; il appelle son groupe à voter pour.",
+      "citation": "Néanmoins, les modifications apportées par les sénateurs, après le compromis auquel est parvenue la commission mixte paritaire, apportent certaines réponses aux demandes des territoires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N010",
+      "date": "2019-07-10"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Gisèle Biémouret (Socialistes et apparentés)",
+      "resume": "La fin du numerus clausus va dans le bon sens mais n'aura d'effet qu'après dix ans, sans mesure sur la répartition des médecins.",
+      "citation": "la fin du numerus clausus ne portera ses fruits que dans une bonne dizaine d’années et restera inutile si rien n’est fait concernant la répartition territoriale des médecins.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N010",
+      "date": "2019-07-10"
+    },
+    {
+      "auteur": "Jean-Hugues Ratenon (La France insoumise)",
+      "resume": "Le texte ne répond pas au manque de moyens et de personnel des hôpitaux ; LFI vote contre.",
+      "citation": "Nous avons besoin, vous l’avez compris, d’établissements de santé de qualité, et de plusieurs centaines de postes supplémentaires pour les personnels soignants.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N010",
+      "date": "2019-07-10"
+    },
+    {
+      "auteur": "Alain Bruneel (Gauche démocrate et républicaine)",
+      "resume": "Face à la grève des urgences, la loi renvoie les réponses à plus tard ; il faut agir tout de suite et stopper les fermetures de lits.",
+      "citation": "Ce qu’il faut, c’est « ma santé 2019 », non « ma santé 2022 » ! C’est tout de suite qu’il faut agir !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N010",
+      "date": "2019-07-10"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2042) ; pas d'intervention personnelle sur ce texte : argument = explication de vote du groupe FI (Jean-Hugues Ratenon).",
+      "argument": "Le groupe FI juge que la loi ne répond pas au manque de moyens et de personnels des hôpitaux.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N010",
+      "date": "2019-07-10"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe GDR a voté contre (0 pour, 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042",
+      "date": "2019-07-10"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe FI a voté contre (0 pour, 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042",
+      "date": "2019-07-10"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Pas de groupe écologiste à l'Assemblée en 2019 : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042",
+      "date": "2019-07-10"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée non inscrite, n'a pas pris part au vote ; aucune déclaration retrouvée. Les non-inscrits se sont partagés (1 pour, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042",
+      "date": "2019-07-10"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté contre (0 pour, 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042",
+      "date": "2019-07-10"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'Éducation nationale du gouvernement Philippe, auteur du projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N010",
+      "date": "2019-07-10"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement auteur du projet de loi (plan « Ma santé 2022 ») ; pas de déclaration personnelle retrouvée sur ce vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E1N010",
+      "date": "2019-07-10"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur, président du groupe LR au Sénat ; a voté pour l'ensemble du projet de loi en première lecture au Sénat (scrutin n°149 du 11 juin 2019), version modifiée par le Sénat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-149.html",
+      "date": "2019-06-11"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté majoritairement pour (21 pour, 5 contre, 12 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042",
+      "date": "2019-07-10"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté majoritairement pour (21 pour, 5 contre, 12 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042",
+      "date": "2019-07-10"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée non inscrite, n'a pas pris part au vote ; aucune déclaration retrouvée sur ce texte. Les non-inscrits se sont partagés (1 pour, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042",
+      "date": "2019-07-10"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2019 ; aucune déclaration retrouvée. Pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042",
+      "date": "2019-07-10"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non inscrit, n'a pas pris part au vote ; aucune déclaration retrouvée. Les non-inscrits se sont partagés (1 pour, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2042",
+      "date": "2019-07-10"
+    }
+  },
+  "alertes": [
+    "Portée : vote sur l'ensemble de la loi « Ma santé 2022 » (texte de CMP), pas sur la seule suppression du numerus clausus. Plusieurs opposants (PS, LR en partie) approuvaient la fin du numerus clausus mais jugeaient la loi insuffisante face à la crise de l'hôpital et aux déserts médicaux : voter contre ne signifie pas défendre le numerus clausus.",
+    "Retailleau : vote au Sénat en première lecture (11 juin 2019) sur la version sénatoriale, pas sur le texte final de la CMP.",
+    "Attal et Philippe : position déduite de leur appartenance au gouvernement auteur du texte.",
+    "Mélenchon : pas d'intervention personnelle ; argument = explication de vote du groupe FI, sans citation attribuée.",
+    "Roussel, Ruffin, Batho, Le Pen, Dupont-Aignan n'ont pas pris part au vote : positions « inconnu »."
+  ]
+}

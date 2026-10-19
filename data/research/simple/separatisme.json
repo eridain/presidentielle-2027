@@ -1,0 +1,22 @@
+{
+  "id": "separatisme",
+  "questionSimple": "Faut-il voter la loi « séparatisme » : engagement républicain des associations, contrôle des cultes, école à la maison sur autorisation ?",
+  "enBref": "Présentée après l'assassinat de Samuel Paty, cette loi veut lutter contre ceux qui se mettent à l'écart des règles de la République. Les associations aidées par de l'argent public doivent s'engager à respecter ses principes. Les associations religieuses et leurs financements sont davantage contrôlés, et faire l'école à la maison exige désormais une autorisation.",
+  "pourquoiPour": "Le texte donne à l'État une « boîte à outils » contre les associations détournées, l'école à la maison sectaire et les financements étrangers des cultes. Il le fait dans le respect de l'État de droit.",
+  "pourquoiContre": "À gauche, le texte jette la suspicion sur les associations musulmanes et restreint trop les libertés. À droite, il est jugé trop faible face à l'islamisme, car il vise tous les cultes au lieu de cette idéologie.",
+  "ceQuiSestPasse": "Adoptée définitivement en juillet 2021, la loi a été promulguée en août 2021, après la censure de trois mesures par le Conseil constitutionnel.",
+  "lexique": [
+    {
+      "terme": "Culte",
+      "definition": "Religion pratiquée collectivement, avec ses lieux, ses associations et ses responsables."
+    },
+    {
+      "terme": "Instruction en famille",
+      "definition": "Faire l'école à ses enfants à la maison plutôt que dans un établissement scolaire."
+    },
+    {
+      "terme": "Conseil constitutionnel",
+      "definition": "Institution qui vérifie que les lois respectent la Constitution ; elle peut en annuler des parties."
+    }
+  ]
+}

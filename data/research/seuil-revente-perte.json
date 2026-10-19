@@ -1,0 +1,212 @@
+{
+  "id": "seuil-revente-perte",
+  "titre": "Prolongation du « SRP+10 » et de l'encadrement des promotions",
+  "question": "Faut-il prolonger l'interdiction de revendre les produits alimentaires à moins de 10 % au-dessus du prix d'achat (« SRP+10 ») et l'encadrement des promotions ?",
+  "ouiSignifie": "pour",
+  "contexte": "Instauré à titre expérimental par la loi EGalim de 2018, le « SRP+10 » oblige les distributeurs à revendre les produits alimentaires au moins 10 % au-dessus de leur prix d'achat, afin de limiter la guerre des prix et, espérait-on, de mieux rémunérer les agriculteurs ; les promotions sont aussi encadrées. Le dispositif arrivant à échéance, la proposition de loi de Stéphane Travert (EPR) et Julien Dive (DR) le prolonge, avec l'encadrement des promotions, jusqu'au 15 avril 2028, et renforce les sanctions contre les distributeurs ainsi que les obligations de transparence sur les marges. Le texte de la commission mixte paritaire a été adopté par l'Assemblée le 9 avril 2025 (284 pour, 169 contre, 43 abstentions) puis par le Sénat le 10 avril ; loi n° 2025-337 du 14 avril 2025.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 14 avril 2025 visant à renforcer la stabilité économique et la compétitivité du secteur agroalimentaire",
+      "url": "https://www.vie-publique.fr/loi/297758-relation-commerciale-secteur-agroalimentaire-loi-travert-14-avril-2025"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_stabilite_economique_agroalimentaire_17e"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°1319",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/renforcer_stabilite_economique_agroalimentaire_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Anne-Sophie Ronceret (Ensemble pour la République)",
+      "resume": "Le SRP+10 fait partir le prix des coûts de production et évite que la matière première agricole serve de variable d'ajustement.",
+      "citation": "la logique du dispositif –⁠ faire en sorte que le prix se construise à partir du coût de production – demeure essentielle pour améliorer le revenu de nos agriculteurs",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "date": "2025-04-09"
+    },
+    {
+      "auteur": "Julien Dive (Droite républicaine)",
+      "resume": "Il s'agit d'éviter que la pression de la guerre des prix redescende jusqu'aux agriculteurs.",
+      "citation": "Car, non, madame Hignet, il ne s’agit pas seulement d’un ruissellement du prix : il faut surtout éviter un ruissellement de la pression jusqu’à l’agriculteur.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "date": "2025-04-09"
+    },
+    {
+      "auteur": "Mélanie Thomin (Socialistes)",
+      "resume": "Le dispositif a surtout profité à la grande distribution, mais il a mis fin à la guerre des prix ; la CMP a renforcé sanctions et transparence sur les marges.",
+      "citation": "le groupe Socialistes et apparentés votera la prolongation du SRP + 10.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "date": "2025-04-09"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Mathilde Hignet (La France insoumise)",
+      "resume": "Le « ruissellement » n'a pas eu lieu : les agriculteurs n'ont rien gagné tandis que les prix alimentaires ont flambé ; il faudrait encadrer les marges.",
+      "citation": "En effet, le ruissellement qui devait se produire avec le relèvement de 10 % du SRP n’a pas fonctionné.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "date": "2025-04-09"
+    },
+    {
+      "auteur": "Robert Le Bourgeois (Rassemblement national)",
+      "resume": "Au nom du pouvoir d'achat, le RN refuse le maintien de l'encadrement des promotions, notamment sur les produits d'hygiène.",
+      "citation": "Dans cette affaire, seul le Rassemblement national a défendu le pouvoir d’achat des Français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "date": "2025-04-09"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Boris Tavernier (Écologiste et social)",
+      "resume": "Le texte revient à un cadeau à la grande distribution payé par les consommateurs, sans encadrement des marges ; seul le durcissement des sanctions est salué.",
+      "citation": "Cette proposition de loi ne propose pas d’encadrement des marges.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "date": "2025-04-09"
+    },
+    {
+      "auteur": "Olivier Fayssat (UDR)",
+      "resume": "Les hausses de marges risquent de ne pas profiter aux producteurs ; l'UDR s'abstient par exigence de transparence.",
+      "citation": "Le groupe UDR s’abstiendra donc sur la proposition de loi, non par refus, mais par exigence",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "date": "2025-04-09"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2025 ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NFP a voté contre (0-65).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319",
+      "date": "2025-04-09"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR a voté pour (8-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319",
+      "date": "2025-04-09"
+    },
+    "ruffin": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention à l'Assemblée nationale (scrutin n°1319 du 9 avril 2025), siégeant au groupe Écologiste et social ; pas d'intervention personnelle retrouvée, argument = explication du groupe (Boris Tavernier).",
+      "argument": "Le groupe juge le dispositif favorable à la grande distribution faute d'encadrement et de transparence des marges.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "date": "2025-04-09"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social s'est abstenu (0-0-33).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319",
+      "date": "2025-04-09"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°1319) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe Écologiste et social s'est abstenu (0-0-33).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319",
+      "date": "2025-04-09"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (63-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319",
+      "date": "2025-04-09"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°1319), président du groupe EPR (texte coécrit par Stéphane Travert, EPR) ; pas d'intervention personnelle, argument = position du groupe (Anne-Sophie Ronceret).",
+      "argument": "Le groupe défend un prix construit à partir du coût de production pour protéger le revenu agricole.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "date": "2025-04-09"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons & indépendants a voté pour (26-0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319",
+      "date": "2025-04-09"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou, qui soutenait le texte (ministre déléguée Véronique Louwagie) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "date": "2025-04-09"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine, coauteur du texte, a voté pour (43-0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319",
+      "date": "2025-04-09"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de Nouvelle Énergie ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (43-0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319",
+      "date": "2025-04-09"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°1319), présidente du groupe RN ; pas d'intervention personnelle, argument = explication du groupe RN (Robert Le Bourgeois).",
+      "argument": "Le groupe refuse le maintien de l'encadrement des promotions au nom du pouvoir d'achat et réclame la sanctuarisation de la matière première agricole.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N166",
+      "date": "2025-04-09"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319",
+      "date": "2025-04-09"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée ; aucun proxy de groupe pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1319",
+      "date": "2025-04-09"
+    }
+  },
+  "alertes": [
+    "Batho : n'a pas pris part au vote ; position inconnu (indication du vote de son groupe à titre indicatif seulement).",
+    "Clivage atypique : le RN et LFI ont voté contre pour des raisons opposées (pouvoir d'achat et promotions pour le RN, marges de la grande distribution pour LFI), tandis que PS et GDR ont voté pour.",
+    "Arguments issus de la discussion générale sur le texte de CMP (9 avril 2025), pas d'explications de vote séparées.",
+    "Retailleau : position déduite de l'appartenance au gouvernement Bayrou."
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "surete-transports",
+  "questionSimple": "Faut-il donner plus de pouvoirs aux agents de sécurité de la SNCF et de la RATP (fouilles, saisies, caméras) ?",
+  "enBref": "Les agents de sécurité de la SNCF et de la RATP pourront fouiller une personne suspecte et lui retirer un objet dangereux. Ils pourront la poursuivre hors de la gare et porter des caméras. Une personne condamnée pourra être interdite de transports.",
+  "pourquoiPour": "Pour ses défenseurs, plus de 100 000 voyageurs sont victimes de vols ou de violences chaque année. Les agents doivent avoir des moyens adaptés pour protéger les usagers.",
+  "pourquoiContre": "Pour ses opposants, ces agents ne sont pas des policiers et sont peu formés. Leur donner ces pouvoirs menacerait la liberté d'aller et venir et étendrait la surveillance.",
+  "ceQuiSestPasse": "La loi a été promulguée le 28 avril 2025, après une censure partielle du Conseil constitutionnel.",
+  "lexique": [
+    {
+      "terme": "Palpation de sécurité",
+      "definition": "Fouille rapide par-dessus les vêtements pour vérifier qu'une personne ne porte pas d'objet dangereux."
+    },
+    {
+      "terme": "Suge",
+      "definition": "Service de sécurité interne de la SNCF, dont les agents surveillent gares et trains."
+    }
+  ]
+}

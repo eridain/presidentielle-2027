@@ -1,0 +1,216 @@
+{
+  "id": "videosurveillance-algorithmique",
+  "titre": "Vidéosurveillance algorithmique pour les JO de Paris 2024 (2023)",
+  "question": "Faut-il expérimenter la vidéosurveillance algorithmique (images analysées par intelligence artificielle) à l'occasion des Jeux olympiques de 2024 ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi relatif aux Jeux olympiques et paralympiques de 2024 autorise, à titre expérimental jusqu'au 31 mars 2025, le traitement par intelligence artificielle des images de vidéoprotection (« caméras augmentées ») pour détecter en temps réel des événements prédéterminés, comme des mouvements de foule ou un sac abandonné, dans les lieux accueillant des manifestations, à leurs abords et dans les transports en commun. Le texte exclut toute reconnaissance faciale et tout traitement de données biométriques ; le recours au dispositif est autorisé par décret après avis de la CNIL. Le Sénat avait adopté l'article (article 7) en janvier 2023 ; l'Assemblée a adopté le projet en première lecture le 28 mars 2023 (400 pour, 93 contre, 54 abstentions), puis le texte de la commission mixte paritaire le 11 avril 2023 (244 pour, 57 contre, 21 abstentions). La commission mixte paritaire a fixé la fin de l'expérimentation au 31 mars 2025, entre la date votée par l'Assemblée (31 décembre 2024) et celle du Sénat (30 juin 2025). Saisi, le Conseil constitutionnel a admis le principe des caméras dites intelligentes, avec une réserve d'interprétation ; loi du 19 mai 2023.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 19 mai 2023 relative aux jeux Olympiques et Paralympiques de 2024",
+      "url": "https://www.vie-publique.fr/loi/287639-jo-2024-loi-du-19-mai-2023-jeux-olympiques-et-paralympiques"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 11 avril 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N210"
+    },
+    {
+      "titre": "Assemblée nationale – Scrutin n°1305 (première lecture, 28 mars 2023)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305"
+    },
+    {
+      "titre": "Sénat – Scrutin n°112 sur l'article 7 (24 janvier 2023)",
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-112.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1409",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N46918",
+  "argumentsPour": [
+    {
+      "auteur": "Guillaume Vuilletet (Renaissance, rapporteur)",
+      "resume": "Les Jeux seront une cible ; les outils développés garantiront à la fois la sécurité et la liberté des spectateurs, l'usage des algorithmes étant limité à l'aide à l'analyse des images.",
+      "citation": "Évidemment, les outils que nous développons garantiront la liberté des spectateurs, mais aussi leur sécurité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N210",
+      "date": "2023-04-11"
+    },
+    {
+      "auteur": "Philippe Latombe (Démocrate)",
+      "resume": "Le texte garantit le respect des libertés individuelles ; il ne s'agit pas de biométrie ni d'un modèle « à la chinoise ».",
+      "citation": "Nous ne suivons donc pas un modèle à la chinoise, nous ne serons ni dans le monde d'Orwell, ni en démocrature : les Français peuvent être rassurés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N210",
+      "date": "2023-04-11"
+    },
+    {
+      "auteur": "Vincent Thiébaut (Horizons)",
+      "resume": "Le texte issu de la CMP est équilibré ; le groupe Horizons le vote.",
+      "citation": "le texte que ces derniers ont adopté nous semble particulièrement équilibré.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N210",
+      "date": "2023-04-11"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sandra Regol (Écologiste)",
+      "resume": "L'article 7 n'a plus de lien avec les Jeux : la durée de l'expérimentation en fait un dispositif de surveillance qui dépasse l'événement.",
+      "citation": "Dans l'article 7, il n'y a plus aucun lien entre les Jeux olympiques et paralympiques et l'installation de ces caméras",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N210",
+      "date": "2023-04-11"
+    },
+    {
+      "auteur": "Élisa Martin (La France insoumise)",
+      "resume": "La vidéosurveillance algorithmique multiplie les regards normatifs et criminalise certains comportements, notamment ceux des plus précaires et des militants.",
+      "citation": "sans oublier la vidéosurveillance algorithmique, multipliant à l'infini les regards inquisiteurs et normatifs, et criminalisant certains comportements, en particulier ceux des plus précaires et des militants.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N210",
+      "date": "2023-04-11"
+    },
+    {
+      "auteur": "Hendrik Davi (La France insoumise)",
+      "resume": "Plusieurs dispositions dépassent les Jeux, comme l'a relevé le Conseil d'État ; la surveillance par drones et algorithmes ne protège pas.",
+      "citation": "Fidèle à son tropisme orwellien, avec ce projet de loi, le Gouvernement fait le contraire de ce qu'il dit vouloir faire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N210",
+      "date": "2023-04-11"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Stéphane Peu (Gauche démocrate et républicaine)",
+      "resume": "Le GDR soutient l'organisation des Jeux et la lutte antidopage mais refuse l'article 7, expérimentation à visée pérenne ; il s'abstient.",
+      "citation": "l'article 7, relatif au traitement algorithmique de la vidéoprotection, est un point de désaccord important",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N210",
+      "date": "2023-04-11"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2023 ; aucune déclaration vérifiée retrouvée. PROXY : le groupe LFI-NUPES a voté contre (47 contre sur le texte de CMP).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1409",
+      "date": "2023-04-11"
+    },
+    "roussel": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Absent du vote final ; s'est abstenu en première lecture (scrutin n°1305 du 28 mars 2023), comme le groupe GDR qui a jugé l'article 7 « point de désaccord important ».",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305",
+      "date": "2023-03-28"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Absent du vote final ; a voté contre en première lecture (scrutin n°1305) ; pas d'intervention retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305",
+      "date": "2023-03-28"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration personnelle vérifiée retrouvée. PROXY : le groupe Écologiste a voté contre (9 contre), en ciblant précisément l'article 7.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1409",
+      "date": "2025-04-07"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Absente du vote final ; a voté contre en première lecture (scrutin n°1305) ; pas d'intervention retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305",
+      "date": "2023-03-28"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes s'est abstenu sur le texte de CMP (16 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1409",
+      "date": "2025-04-07"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué aux comptes publics du gouvernement Borne, auteur du projet de loi ; aucune déclaration personnelle retrouvée sur l'article 7.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N210",
+      "date": "2025-04-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (20 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1409",
+      "date": "2025-04-07"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat : a voté pour l'article 7 (scrutin Sénat n°112 du 24 janvier 2023) et pour le texte de la CMP (scrutin n°273 du 12 avril 2023).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-112.html",
+      "date": "2023-01-24"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY indicatif : le groupe LR a voté pour (36 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1409",
+      "date": "2025-04-07"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1409",
+      "date": "2025-04-07"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Absente du vote final ; a voté pour en première lecture (scrutin n°1305) ; le groupe RN a voté pour le texte de CMP (49 pour) tout en critiquant le flou sur la durée de l'expérimentation.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1305",
+      "date": "2023-03-28"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1409",
+      "date": "2025-04-07"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Absent du vote final ; a voté pour la suppression de l'article 7 (scrutin n°1263 du 22 mars 2023) et contre le projet de loi en première lecture (n°1305).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1263",
+      "date": "2023-03-22"
+    }
+  },
+  "alertes": [
+    "Le vote de référence porte sur l'ensemble de la loi olympique (scanners corporels, interdictions de stade, antidopage, travail dominical…), pas uniquement sur la vidéosurveillance algorithmique ; certains votes (GDR, socialistes) reflètent d'autres dispositions.",
+    "Aucun candidat député n'a pris part au vote final ; Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan sont positionnés d'après leurs votes de première lecture ou sur l'article 7.",
+    "Le texte exclut la reconnaissance faciale ; certains opposants (écologistes) estiment néanmoins qu'il ouvre la voie à la biométrie.",
+    "Attal : position du gouvernement dont il était membre, sans déclaration personnelle."
+  ]
+}

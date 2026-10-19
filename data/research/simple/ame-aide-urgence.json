@@ -1,0 +1,18 @@
+{
+  "id": "ame-aide-urgence",
+  "questionSimple": "Faut-il demander au gouvernement de limiter l'aide médicale des sans-papiers aux seuls soins urgents ?",
+  "enBref": "L'aide médicale de l'État (AME) paie les soins des étrangers sans papiers aux revenus modestes. Ce texte, sans valeur obligatoire, demandait au gouvernement de la limiter aux soins urgents. Il visait aussi certains demandeurs d'asile et étrangers malades.",
+  "pourquoiPour": "Pour ses partisans, le coût de l'AME augmente fortement et elle attire l'immigration illégale. La limiter à l'urgence, comme ailleurs en Europe, permettrait des économies pour les hôpitaux.",
+  "pourquoiContre": "Pour ses opposants, soigner seulement l'urgence aggrave des maladies bénignes et menace la santé de tous. Soigner tard coûte aussi plus cher : prévenir vaut mieux que guérir.",
+  "ceQuiSestPasse": "La résolution a été rejetée le 7 juin 2023 ; le Sénat a voté la mesure en novembre 2023, mais l'Assemblée l'a retirée.",
+  "lexique": [
+    {
+      "terme": "AME",
+      "definition": "Aide médicale de l'État : prise en charge des soins des étrangers sans papiers à faibles revenus."
+    },
+    {
+      "terme": "Proposition de résolution",
+      "definition": "Texte par lequel l'Assemblée exprime un avis, sans créer de loi."
+    }
+  ]
+}

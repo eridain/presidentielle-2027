@@ -1,0 +1,18 @@
+{
+  "id": "budget-secu-2021",
+  "questionSimple": "Faut-il adopter le budget 2021 de la Sécurité sociale (dépenses Covid, hausses de salaire des soignants) ?",
+  "enBref": "Chaque année, les députés votent le budget de la Sécurité sociale : santé, retraites, famille. En 2020, en pleine épidémie de Covid, ce budget paie les masques, les tests et les vaccins, et augmente les salaires à l'hôpital et en maison de retraite. Il double aussi le congé des pères, crée un forfait de 18 euros aux urgences et lance une nouvelle branche pour les personnes âgées et handicapées.",
+  "pourquoiPour": "Ceux qui ont voté pour veulent répondre à une crise sanitaire exceptionnelle. Ils mettent en avant des hausses de salaire inédites pour les soignants et la nouvelle branche consacrée à la perte d'autonomie.",
+  "pourquoiContre": "À gauche, ils jugent le budget insuffisant pour l'hôpital, qui doit encore faire des économies. À droite, ils dénoncent un déficit et une dette record, sans réformes de fond.",
+  "ceQuiSestPasse": "Adopté à l'Assemblée le 27 octobre 2020 (326 pour, 204 contre), modifié par le Sénat, puis adopté définitivement le 30 novembre et promulgué le 14 décembre 2020.",
+  "lexique": [
+    {
+      "terme": "Ségur de la santé",
+      "definition": "Négociation de 2020 entre gouvernement et soignants, qui a abouti à des hausses de salaire."
+    },
+    {
+      "terme": "Branche autonomie",
+      "definition": "Nouvelle partie de la Sécurité sociale pour aider les personnes âgées dépendantes et handicapées."
+    }
+  ]
+}

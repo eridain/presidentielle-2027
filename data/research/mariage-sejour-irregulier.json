@@ -1,0 +1,208 @@
+{
+  "id": "mariage-sejour-irregulier",
+  "titre": "Justificatif de séjour pour se marier (PPL mariages simulés)",
+  "question": "Faut-il obliger les futurs époux étrangers à fournir au maire des éléments sur la régularité de leur séjour avant de se marier ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi du sénateur centriste Stéphane Demilly visait d'abord à interdire le mariage d'un étranger en situation irrégulière (article 1er). Le Sénat l'a adoptée le 20 février 2025 (227 voix contre 110), en ajoutant un article 1er A : les futurs époux étrangers doivent fournir à l'officier d'état civil « tout élément permettant d'apprécier leur situation au regard du séjour ». Reprise par le groupe UDR (rapporteur Éric Michoux) dans sa niche du 26 juin 2025, l'Assemblée a adopté cet article 1er A (120 voix contre 53). Selon le président de la commission des lois, ce document n'empêche pas à lui seul la célébration, mais peut conduire le maire à saisir le procureur. Le gouvernement (Gérald Darmanin) soutenait ces mesures annexes, mais pas l'interdiction de l'article 1er, jugée contraire à la Constitution (décision du Conseil constitutionnel de 2003 sur la liberté du mariage). L'examen n'a pas pu aller à son terme ce soir-là : l'article 1er n'a pas été voté.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Mariages : étrangers en situation irrégulière, proposition de loi Demilly",
+      "url": "https://www.vie-publique.fr/loi/297443-mariages-etrangers-en-situation-irreguliere-proposition-de-loi-demilly"
+    },
+    {
+      "titre": "Sénat – La loi en clair : proposition de loi visant à renforcer les prérogatives des officiers de l'état civil…",
+      "url": "https://senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-interdire-un-mariage-en-france-lorsque-lun-des-futurs-epoux-reside-de-facon-irreguliere-sur-le-territoire.html"
+    },
+    {
+      "titre": "LCP – Niche parlementaire UDR : fin de séance prématurée dans une ambiance tendue et confuse",
+      "url": "https://lcp.fr/actualites/niche-parlementaire-udr-fin-de-seance-prematuree-dans-une-ambiance-tendue-et-confuse"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 26 juin 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N258"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L16N49075",
+  "argumentsPour": [
+    {
+      "auteur": "Éric Michoux (UDR, rapporteur)",
+      "resume": "Les maires doivent pouvoir connaître la situation de séjour des futurs époux pour prévenir les mariages frauduleux destinés à régulariser un étranger.",
+      "citation": "En privant le maire d’une information relative à la régularité du séjour, on l’empêche de remplir correctement son rôle de prévention des mariages frauduleux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N258",
+      "date": "2025-06-26"
+    },
+    {
+      "auteur": "Florent Boudié (Ensemble pour la République, président de la commission des lois)",
+      "resume": "L'article 1er A répond à la demande des maires d'être accompagnés, sans rendre le document obligatoire pour célébrer le mariage.",
+      "citation": "Avec les articles 1 er A et 1 er B, nous répondons à la demande des maires d’être accompagnés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N258",
+      "date": "2025-06-26"
+    },
+    {
+      "auteur": "Thibaut Monnier (Rassemblement national)",
+      "resume": "Les élus locaux font face à une explosion des mariages de complaisance, détournés au profit d'une filière d'immigration irrégulière.",
+      "citation": "Il faut réaliser l’incohérence juridique à laquelle nos élus locaux font face alors qu’ils sont confrontés à l’explosion des mariages de complaisance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N258",
+      "date": "2025-06-26"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Paul Christophle (Socialistes)",
+      "resume": "Le texte fait peser une présomption de culpabilité sur toute union entre un Français et un étranger, et la fraude est marginale.",
+      "citation": "De tout cela, vous vous moquez, puisque votre seul objectif est de faire avancer votre vision rance de la France, une France du soupçon permanent,…",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N258",
+      "date": "2025-06-26"
+    },
+    {
+      "auteur": "Léa Balage El Mariky (Écologiste et social)",
+      "resume": "Le texte assimile irrégularité du séjour et insincérité du mariage, et ferait du mariage un privilège réservé aux personnes ayant des papiers.",
+      "citation": "Vous établissez une équivalence entre l’irrégularité du séjour et l’insincérité du mariage.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N258",
+      "date": "2025-06-26"
+    },
+    {
+      "auteur": "François Piquemal (La France insoumise)",
+      "resume": "Les contrôles contre les mariages blancs existent déjà et la fraude est déjà sévèrement punie ; le texte agite un fantasme.",
+      "citation": "Après le contrôle des corps, voilà que vous voulez contrôler les sentiments en agitant le fameux fantasme du mariage blanc.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N258",
+      "date": "2025-06-26"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°2742) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel il appartient, a voté contre (0-15).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°2742) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel elle appartient, a voté contre (0-15).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°2742) ; aucune déclaration retrouvée. À titre indicatif, le groupe EPR, qu'il préside, a voté majoritairement pour (16-1-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°2742) ; aucune déclaration retrouvée. À titre indicatif, le groupe RN, qu'elle préside, a voté pour (73-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté contre (0-21).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0-15).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, allié de Place publique, a voté contre (0-14).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons & indépendants (son parti) a voté pour (10-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR) a voté pour (2-0, faible participation).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour (2-0, faible participation).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée (le groupe UDR, qui portait le texte, a voté pour 14-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée ; Debout la France n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2742",
+      "date": "2025-06-26"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Ministre de l'Intérieur : il s'est déclaré favorable à la proposition de loi Demilly (CNews, 16 février 2025, rapporté par Le Parisien), y compris à l'interdiction du mariage, mesure plus large que l'article 1er A.",
+      "argument": "Il juge « mal faite » une règle qui permet, par le mariage, d'ouvrir la voie à une régularisation.",
+      "citation": "On sait très bien que par la voie du mariage, on peut ensuite régulariser",
+      "url": "https://www.leparisien.fr/societe/famille/le-mariage-est-il-une-porte-ouverte-vers-la-regularisation-detrangers-en-situation-irreguliere-comme-le-soutient-retailleau-17-02-2025-FC37BCP2TJDKTOAFCIMSZLPRG4.php",
+      "date": "2025-02-16"
+    }
+  },
+  "alertes": [
+    "ÉCART MAJEUR question/scrutin : le scrutin n°2742 porte sur l'article 1er A (justificatif de séjour à fournir au maire), et non sur l'interdiction du mariage (article 1er), qui n'a jamais été votée à l'Assemblée. La question a été reformulée en conséquence.",
+    "Le gouvernement (Darmanin) soutenait l'article 1er A mais pas l'interdiction, jugée inconstitutionnelle au regard de la jurisprudence de 2003 sur la liberté du mariage.",
+    "Aucun des quatre candidats députés (Ruffin, Batho, Attal, Le Pen) n'a pris part au vote (176 votants).",
+    "Retailleau : sa déclaration vise l'ensemble de la proposition, notamment l'interdiction, plus large que l'article voté ; elle est rapportée par Le Parisien (propos tenus sur CNews)."
+  ]
+}

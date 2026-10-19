@@ -1,0 +1,227 @@
+{
+  "id": "drapeau-europeen-mairies",
+  "titre": "Drapeaux français et européen obligatoires sur les mairies",
+  "question": "Faut-il rendre obligatoire le pavoisement des drapeaux français et européen sur le fronton des mairies ?",
+  "ouiSignifie": "pour",
+  "contexte": "Proposition de loi du groupe Renaissance, examinée les 9 et 10 mai 2023, visant à rendre obligatoire la présence des drapeaux français et européen sur le fronton des mairies. Au cours du débat, un amendement adopté a exclu les communes de moins de 1 500 habitants, soit environ 70 % des communes selon Les Républicains. L'Assemblée a adopté le texte en première lecture le 10 mai 2023 (130 pour, 109 contre, 8 abstentions). Transmis au Sénat le 11 mai 2023, il n'avait pas été examiné en séance selon le dossier législatif consulté, et n'est donc pas devenu loi.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/pavoisement_drapeaux_mairie"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°1501",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la deuxième séance du 10 mai 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-10-mai-2023"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/pavoisement_drapeaux_mairie",
+  "argumentsPour": [
+    {
+      "auteur": "Mathieu Lefèvre (Renaissance, rapporteur)",
+      "resume": "Les symboles comptent ; le drapeau européen, né bien avant le traité de 2005, exprime l'attachement au projet européen garanti par la Constitution.",
+      "citation": "Car symbolique ne veut pas dire anecdotique, bien au contraire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-09-mai-2023",
+      "date": "2023-05-09"
+    },
+    {
+      "auteur": "Rémy Rebeyrotte (Renaissance)",
+      "resume": "Les articles 2 et 88 de la Constitution associent l'emblème national et l'appartenance à l'Union ; l'Europe, née des guerres mondiales, a apporté la paix.",
+      "citation": "L’Union européenne, c’est soixante-dix ans de paix sur notre continent",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-09-mai-2023",
+      "date": "2023-05-09"
+    },
+    {
+      "auteur": "Laurence Boone (secrétaire d'État aux affaires européennes, gouvernement)",
+      "resume": "Les politiques européennes améliorent la vie quotidienne (PAC, salaire minimum, mobilité) ; afficher le drapeau est un geste en faveur de ces réalisations.",
+      "citation": "Au quotidien, les politiques européennes permettent à l’ensemble de nos concitoyens de mieux vivre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-09-mai-2023",
+      "date": "2023-05-09"
+    },
+    {
+      "auteur": "Philippe Pradal (Horizons)",
+      "resume": "Le drapeau européen symbolise une Europe souveraine, unie et démocratique à protéger alors que la guerre est aux portes de l'Union.",
+      "citation": "Le drapeau européen symbolise une Europe souveraine, unie et démocratique, que nous devons nous atteler à protéger, à développer et à chérir",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-09-mai-2023",
+      "date": "2023-05-09"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Philippe Gosselin (Les Républicains)",
+      "resume": "Seul le drapeau tricolore est l'emblème de la République selon l'article 2 de la Constitution ; l'exemption de 70 % des communes rend le dispositif incohérent.",
+      "citation": "Nous n’approuvons pas cette mesure parce que nous nous cramponnons à l’article 2 de la Constitution, approuvé par le peuple, par voie de référendum, en 1958",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-10-mai-2023",
+      "date": "2023-05-10"
+    },
+    {
+      "auteur": "Nicolas Dupont-Aignan (non-inscrit, Debout la France)",
+      "resume": "Mettre sur le même plan le drapeau national et le drapeau européen, que les Français auraient refusé en 2005, serait aberrant.",
+      "citation": "Car il est hallucinant et aberrant de mettre sur le même plan le drapeau français, qui est l’incarnation de la nation et de notre histoire, l’expression de la souveraineté populaire",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-10-mai-2023",
+      "date": "2023-05-10"
+    },
+    {
+      "auteur": "François Ruffin (La France insoumise)",
+      "resume": "On ne fait pas aimer l'Europe par une obligation symbolique mais par des avancées sociales que le gouvernement freine.",
+      "citation": "Vous ne ferez pas aimer l’Union européenne de force !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-10-mai-2023",
+      "date": "2023-05-10"
+    },
+    {
+      "auteur": "Paul Molac (LIOT)",
+      "resume": "L'attachement au pays et à l'Europe ne passe pas par l'obligation d'un drapeau.",
+      "citation": "Ce n’est pas avec un drapeau que nous y parviendrons.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-09-mai-2023",
+      "date": "2023-05-09"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Jérémie Iordanoff (Écologiste)",
+      "resume": "Très attachés à la construction européenne, les écologistes contestent la méthode et certains ajouts du texte et se sont abstenus.",
+      "citation": "Je l’ai dit au début de l’examen de cette proposition de loi : les Écologistes sont très attachés à la construction européenne",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-10-mai-2023",
+      "date": "2023-05-10"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2022 ; aucune déclaration retrouvée et vérifiée sur ce texte (le rapporteur évoque une indignation passée de sa part, non vérifiée). PROXY : le groupe LFI-NUPES a voté contre (0 pour / 40 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+      "date": "2023-05-10"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°1501) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+      "date": "2023-05-10"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1501) ; intervention en séance le 10 mai 2023.",
+      "argument": "Pour faire aimer l'Europe, il faudrait la laisser avancer sur les droits sociaux (présomption de salariat), plutôt qu'ajouter une contrainte aux mairies.",
+      "citation": "Si vous voulez faire aimer l’Union européenne, vous ne le ferez pas en ajoutant un drapeau européen sur les mairies, mais en permettant que cette Europe-là avance !",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mercredi-10-mai-2023",
+      "date": "2023-05-10"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste s'est abstenu (0 pour / 0 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+      "date": "2023-05-10"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°1501) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+      "date": "2023-05-10"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (5 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+      "date": "2023-05-10"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des comptes publics dans le gouvernement Borne, qui a soutenu le texte en séance (Laurence Boone) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-09-mai-2023",
+      "date": "2023-05-09"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (maire du Havre, président d'Horizons) ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (4 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+      "date": "2023-05-10"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte non examiné au Sénat, aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour / 14 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+      "date": "2023-05-10"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour / 14 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+      "date": "2023-05-10"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (0 pour / 14 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+      "date": "2023-05-10"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°1501) ; seule une intervention de procédure retrouvée en séance. Pour information, son groupe RN a voté contre (0 pour / 53 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+      "date": "2023-05-10"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1501",
+      "date": "2023-05-10"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1501) ; interventions en séance les 9 et 10 mai 2023.",
+      "argument": "Le drapeau tricolore incarne la nation et la souveraineté populaire ; le drapeau européen aurait été refusé par les Français en 2005.",
+      "citation": "Le drapeau tricolore est le linceul des morts pour la France.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/deuxieme-seance-du-mardi-09-mai-2023",
+      "date": "2023-05-09"
+    }
+  },
+  "alertes": [
+    "Le texte adopté exclut les communes de moins de 1 500 habitants (amendement adopté en séance) ; la question reprend l'intitulé général.",
+    "Le dossier législatif consulté n'indique pas d'examen au Sénat après la transmission du 11 mai 2023 : le texte n'est pas devenu loi.",
+    "Le Pen : le rapporteur affirme qu'elle a proposé de retirer le drapeau européen des bâtiments publics ; affirmation d'un adversaire, non vérifiée, non utilisée comme position.",
+    "Faible présence : Roussel, Batho et Le Pen n'ont pas pris part au vote.",
+    "Attal : position déduite de l'appartenance au gouvernement qui a soutenu le texte."
+  ]
+}

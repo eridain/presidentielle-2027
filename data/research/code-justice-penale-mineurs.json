@@ -1,0 +1,221 @@
+{
+  "id": "code-justice-penale-mineurs",
+  "titre": "Code de la justice pénale des mineurs",
+  "question": "Faut-il remplacer l'ordonnance de 1945 par un code de la justice pénale des mineurs (présomption d'irresponsabilité avant 13 ans, jugement en deux temps) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Adoptée par le gouvernement le 11 septembre 2019 (Nicole Belloubet), l'ordonnance créant le code de la justice pénale des mineurs remplace l'ordonnance du 2 février 1945 sur l'enfance délinquante, modifiée une quarantaine de fois. Le projet de loi de ratification a été défendu par Éric Dupond-Moretti. Le code instaure une présomption de non-discernement pour les moins de 13 ans : cette présomption peut être renversée s'il est prouvé que le mineur a compris et voulu son acte. Il crée aussi un jugement en deux temps : le juge statue d'abord sur la culpabilité, puis, après une mise à l'épreuve éducative de six à neuf mois, sur la sanction. Le code vise à accélérer les jugements et à limiter la détention provisoire, et inscrit l'intérêt supérieur de l'enfant dans son article préliminaire. Adopté par l'Assemblée le 11 décembre 2020 puis par le Sénat le 27 janvier 2021, le texte de la commission mixte paritaire a été voté le 16 février 2021 par l'Assemblée (481 pour, 37 contre, 36 abstentions) et par le Sénat. La loi a été promulguée le 26 février 2021 (loi n° 2021-218). Le code est entré en vigueur le 30 septembre 2021.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 26 février 2021 ratifiant l'ordonnance portant code de la justice pénale des mineurs",
+      "url": "https://www.vie-publique.fr/loi/277708-loi-26-fevrier-2021-ratifiant-ordonnance-code-justice-penale-mineurs"
+    },
+    {
+      "titre": "Ministère de la Justice – La justice pénale des mineurs",
+      "url": "https://www.justice.gouv.fr/justice-france/justice-mineurs/justice-penale-mineurs"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 15 février 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3422",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/ratification_ordonnance_2019-950",
+  "argumentsPour": [
+    {
+      "auteur": "Jean Terlier (La République en marche, rapporteur)",
+      "resume": "Réforme attendue depuis longtemps par les professionnels, l'une des plus ambitieuses du quinquennat, pour juger plus vite et mieux suivre les mineurs.",
+      "citation": "Cette réforme, attendue depuis longtemps par les professionnels auxquels je veux rendre hommage pour leur engagement sans faille auprès de la jeunesse, n’a été que trop repoussée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169",
+      "date": "2021-02-15"
+    },
+    {
+      "auteur": "Erwan Balanant (Mouvement démocrate)",
+      "resume": "Le code modernise le droit pénal des mineurs tout en conservant la primauté de l'éducatif et l'atténuation de la responsabilité selon l'âge.",
+      "citation": "Elle procède indéniablement à une modernisation substantielle du droit pénal des mineurs tout en conservant ses principes cardinaux",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169",
+      "date": "2021-02-15"
+    },
+    {
+      "auteur": "Antoine Savignat (Les Républicains)",
+      "resume": "La justice des mineurs est trop lente et mal comprise ; le code apporte une clarification bienvenue.",
+      "citation": "L’adoption d’un code de la justice pénale des mineurs représente une clarification plus que bienvenue",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169",
+      "date": "2021-02-15"
+    },
+    {
+      "auteur": "Alexandra Louis (La République en marche)",
+      "resume": "L'ordonnance de 1945, réformée une quarantaine de fois, avait perdu en lisibilité et en cohérence.",
+      "citation": "l’ordonnance de 1945, réformée à une quarantaine d’occasions, avait perdu en lisibilité et en cohérence.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169",
+      "date": "2021-02-15"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Stéphane Peu (Gauche démocrate et républicaine)",
+      "resume": "Le code s'éloigne de l'esprit de 1945 en rapprochant la procédure de celle des adultes ; il faudrait surtout des juges et des éducateurs.",
+      "citation": "Ce débat est donc un rendez-vous manqué, et c’est pourquoi nous voterons contre la ratification de l’ordonnance.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169",
+      "date": "2021-02-15"
+    },
+    {
+      "auteur": "Ugo Bernalicis (La France insoumise)",
+      "resume": "Réforme technocratique de gestion des flux, où le prisme répressif l'emporte sur la spécialisation et l'éducatif.",
+      "citation": "Cette réforme consacre une vision technocratique de la justice fondée sur la gestion des flux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169",
+      "date": "2021-02-15"
+    },
+    {
+      "auteur": "Danièle Obono (La France insoumise)",
+      "resume": "L'enfance délinquante est d'abord une enfance en danger ; les professionnels dénoncent toujours plus de répression et moins d'éducation.",
+      "citation": "Or l’enfance délinquante est d’abord une enfance en danger et la protection de l’enfance et de la jeunesse est notoirement défaillante.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169",
+      "date": "2021-02-15"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Cécile Untermaier (Socialistes)",
+      "resume": "Le groupe aurait préféré un code pénal et civil des mineurs ; il ne s'opposera pas au texte, qu'elle soutient à titre personnel malgré des réserves.",
+      "citation": "Dans son ensemble, notre groupe ne s’opposera pas à ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169",
+      "date": "2021-02-15"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3422 du 16 février 2021), président du groupe LFI ; pas d'intervention personnelle retrouvée, argument = position du groupe (Ugo Bernalicis, Danièle Obono).",
+      "argument": "Groupe LFI : réforme technocratique de gestion des flux, où le prisme répressif l'emporte sur l'éducatif, alors que l'enfance délinquante est d'abord une enfance en danger.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169",
+      "date": "2021-02-16"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3422) ; pas d'intervention personnelle retrouvée, argument = explication du groupe GDR (Stéphane Peu).",
+      "argument": "Groupe GDR : le code s'éloigne de l'esprit de 1945 en rapprochant la procédure des mineurs de celle des adultes, au lieu de donner des moyens à la justice des mineurs.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169",
+      "date": "2021-02-16"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3422) ; pas d'intervention personnelle retrouvée, argument = position du groupe LFI (Ugo Bernalicis, Danièle Obono).",
+      "argument": "Groupe LFI : le texte privilégie la rapidité et la répression au détriment de la spécialisation et de l'éducatif.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N169",
+      "date": "2021-02-16"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée ; pas de groupe EELV à l'Assemblée en 2021.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3422",
+      "date": "2021-02-16"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3422) ; aucune déclaration retrouvée. À titre indicatif, les non-inscrits se sont majoritairement prononcés pour (13 pour / 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3422",
+      "date": "2021-02-16"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée s'est majoritairement abstenu (6 pour / 0 contre / 23 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3422",
+      "date": "2021-02-16"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a porté la ratification de l'ordonnance ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/ratification_ordonnance_2019-950",
+      "date": "2021-02-16"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, sans mandat parlementaire ; aucune déclaration retrouvée ; Horizons n'existait pas encore. À titre indicatif, les groupes de la majorité (LaREM, MoDem, Agir ensemble) ont voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3422",
+      "date": "2021-02-16"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, président du groupe LR au Sénat ; aucun scrutin public retrouvé au Sénat sur ce texte et aucune déclaration retrouvée. À titre indicatif, le groupe LR de l'Assemblée a voté pour (97 pour / 0 contre / 8 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl20-228.html",
+      "date": "2021-02-16"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire (il avait quitté LR fin 2017) ; aucune déclaration retrouvée. À titre indicatif, le groupe LR de l'Assemblée a voté pour (97 pour / 0 contre / 8 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3422",
+      "date": "2021-02-16"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (97 pour / 0 contre / 8 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3422",
+      "date": "2021-02-16"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3422) ; en première lecture, elle a jugé que la réforme allait « plutôt dans le bon sens » tout en réclamant plus de sévérité.",
+      "argument": "La réécriture du droit pénal des mineurs, plus claire et plus rapide, et la présomption de discernement fixée à 13 ans vont dans le bon sens, même si elle souhaitait aussi abaisser la majorité pénale à 16 ans.",
+      "citation": "le tout ayant pour objectif de juger plus vite les mineurs délinquants et d’espérer leur retour dans le droit chemin le plus rapide possible, va plutôt dans le bon sens",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-jeudi-10-decembre-2020",
+      "date": "2020-12-10"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti à la date du vote (Reconquête fondé en décembre 2021) ; aucune déclaration vérifiée ; pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3422",
+      "date": "2021-02-16"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3422), non-inscrit ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3422",
+      "date": "2021-02-16"
+    }
+  },
+  "alertes": [
+    "Le texte ratifie une ordonnance déjà prise par le gouvernement en 2019 : le vote porte sur la ratification, avec les modifications apportées par le Parlement.",
+    "La présomption de non-discernement avant 13 ans est simple (réfragable) : un mineur plus jeune peut être poursuivi s'il est prouvé qu'il a compris et voulu son acte. LFI demandait une présomption irréfragable.",
+    "Le Pen : citation tirée de son intervention en première lecture (10 décembre 2020), le vote nominatif porte sur le texte de CMP. Dans la même intervention, elle proposait d'abaisser la majorité pénale à 16 ans.",
+    "Mélenchon, Roussel, Ruffin : arguments tirés de la position de leur groupe. Dupont-Aignan : aucune explication retrouvée.",
+    "Attal : position déduite de son appartenance au gouvernement. Retailleau : aucun scrutin public au Sénat retrouvé.",
+    "Plusieurs dispositions de ce code (détention provisoire des mineurs) ont ensuite été censurées ou modifiées (QPC du 27 juin 2025, loi Attal de 2025, loi justice criminelle de 2026)."
+  ]
+}

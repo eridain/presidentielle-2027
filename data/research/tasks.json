@@ -1,0 +1,1479 @@
+[
+ {
+  "id": "ordonnances-travail",
+  "scrutin": "VTANR5L15V314",
+  "date": "2017-11-28",
+  "titreScrutin": "l'ensemble du projet de loi ratifiant diverses ordonnances prises sur le fondement de la loi n° 2017-1340 du 15 septembre 2017 d'habilitation à prendre les mesures pour le renforcement du dialogue social (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/314",
+  "questionProposee": "Faut-il réformer le Code du travail par ordonnances (barème plafonné des indemnités prud'homales, fusion des instances représentatives, primauté des accords d'entreprise) ?",
+  "note": null,
+  "resultat": "adopté 463 pour / 74 contre / 20 abst.",
+  "groupes": [
+   "LaREM: pour (306p/0c/0a)",
+   "LR: pour (82p/0c/15a)",
+   "MODEM: pour (41p/0c/0a)",
+   "LC: pour (34p/0c/1a)",
+   "NG: contre (0p/30c/0a)",
+   "NI: contre (0p/11c/4a)",
+   "FI: contre (0p/17c/0a)",
+   "GDR: contre (0p/16c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "melenchon": "contre",
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "attal": "pour",
+   "lepen": "contre",
+   "dupontaignan": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "tondelier",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "philippe": "membre"
+  }
+ },
+ {
+  "id": "isf-ifi",
+  "scrutin": "VTANR5L15V169",
+  "date": "2017-10-20",
+  "titreScrutin": "l'article 12 du projet de loi de finances pour 2018 (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/169",
+  "questionProposee": "Faut-il supprimer l'ISF et le remplacer par un impôt sur la seule fortune immobilière (IFI) ?",
+  "note": null,
+  "resultat": "adopté 77 pour / 19 contre / 2 abst.",
+  "groupes": [
+   "LaREM: pour (57p/1c/0a)",
+   "LR: pour (8p/0c/2a)",
+   "MODEM: pour (8p/0c/0a)",
+   "LC: pour (4p/0c/0a)",
+   "NG: contre (0p/7c/0a)",
+   "NI: contre (0p/3c/0a)",
+   "FI: contre (0p/6c/0a)",
+   "GDR: contre (0p/2c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "melenchon": "contre",
+   "ruffin": "contre",
+   "attal": "pour",
+   "lepen": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "roussel",
+   "tondelier",
+   "batho",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {
+   "philippe": "membre"
+  }
+ },
+ {
+  "id": "asile-immigration-2018",
+  "scrutin": "VTANR5L15V578",
+  "date": "2018-04-22",
+  "titreScrutin": "l'ensemble du projet de loi pour une immigration maîtrisée, un droit d'asile effectif et une intégration réussie (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/578",
+  "questionProposee": "Faut-il réduire les délais d'asile et allonger la rétention administrative des étrangers à 90 jours (loi asile-immigration 2018) ?",
+  "note": null,
+  "resultat": "adopté 228 pour / 139 contre / 24 abst.",
+  "groupes": [
+   "LaREM: pour (197p/1c/14a)",
+   "LR: contre (0p/68c/0a)",
+   "MODEM: pour (16p/1c/8a)",
+   "UDI-AGIR: pour (15p/1c/2a)",
+   "NG: contre (0p/31c/0a)",
+   "NI: contre (0p/14c/0a)",
+   "FI: contre (0p/17c/0a)",
+   "GDR: contre (0p/6c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "melenchon": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "attal": "pour",
+   "lepen": "contre",
+   "dupontaignan": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "roussel",
+   "tondelier",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "philippe": "membre"
+  }
+ },
+ {
+  "id": "anticasseurs",
+  "scrutin": "VTANR5L15V1662",
+  "date": "2019-02-05",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à prévenir les violences lors des manifestations et à sanctionner leurs auteurs (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1662",
+  "questionProposee": "Faut-il créer un délit de dissimulation du visage en manifestation et renforcer les contrôles autour des manifestations (loi anticasseurs) ?",
+  "note": null,
+  "resultat": "adopté 387 pour / 92 contre / 74 abst.",
+  "groupes": [
+   "LaREM: pour (241p/0c/50a)",
+   "LR: pour (97p/2c/4a)",
+   "MODEM: pour (37p/1c/4a)",
+   "UDI-AGIR: abstention (12p/3c/13a)",
+   "SOC: contre (0p/29c/0a)",
+   "FI: contre (0p/17c/0a)",
+   "GDR: contre (0p/16c/0a)",
+   "LT: contre (0p/13c/2a)",
+   "NI: contre (0p/11c/1a)"
+  ],
+  "votesNominatifsCandidats": {
+   "melenchon": "contre",
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "contre",
+   "dupontaignan": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre",
+   "philippe": "membre"
+  }
+ },
+ {
+  "id": "ceta",
+  "scrutin": "VTANR5L15V2059",
+  "date": "2019-07-23",
+  "titreScrutin": "l'ensemble du projet de loi autorisant la ratification de l'accord économique et commercial global entre l'Union européenne et ses États membres, d'une part, et le Canada, d'autre part, et de l'accord de partenariat stratégique entre l'Union européenne et ses États membres, d'une part, et le Canada, d'autre part (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2059",
+  "questionProposee": "Faut-il ratifier le CETA, l'accord de libre-échange entre l'UE et le Canada ?",
+  "note": null,
+  "resultat": "adopté 266 pour / 213 contre / 74 abst.",
+  "groupes": [
+   "LaREM: pour (229p/9c/52a)",
+   "LR: contre (1p/96c/5a)",
+   "MODEM: pour (32p/2c/6a)",
+   "SOC: contre (0p/29c/0a)",
+   "UDI-I: contre (2p/14c/10a)",
+   "LT: contre (1p/16c/1a)",
+   "FI: contre (0p/17c/0a)",
+   "GDR: contre (0p/16c/0a)",
+   "NI: contre (1p/14c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "melenchon": "contre",
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "contre",
+   "dupontaignan": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre",
+   "philippe": "membre"
+  }
+ },
+ {
+  "id": "neonicotinoides-2020",
+  "scrutin": "VTANR5L15V2940",
+  "date": "2020-10-06",
+  "titreScrutin": "l'ensemble du projet de loi relatif aux conditions de mise sur le marché de certains produits phytopharmaceutiques en cas de danger sanitaire pour les betteraves sucrières (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2940",
+  "questionProposee": "Faut-il autoriser temporairement les néonicotinoïdes pour sauver la filière betterave ?",
+  "note": null,
+  "resultat": "adopté 313 pour / 158 contre / 56 abst.",
+  "groupes": [
+   "LaREM: pour (175p/32c/36a)",
+   "LR: pour (67p/21c/9a)",
+   "Dem: pour (38p/9c/4a)",
+   "SOC: contre (2p/28c/0a)",
+   "Agir ens: pour (13p/4c/1a)",
+   "FI: contre (0p/17c/0a)",
+   "UDI-I: pour (7p/5c/3a)",
+   "GDR: contre (0p/16c/0a)",
+   "LT: contre (3p/10c/1a)",
+   "EDS: contre (0p/15c/0a)",
+   "NI: pour (8p/1c/2a)"
+  ],
+  "votesNominatifsCandidats": {
+   "melenchon": "contre",
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "pour",
+   "dupontaignan": "abstention"
+  },
+  "candidatsSansVoteNominatif": [
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "securite-globale",
+  "scrutin": "VTANR5L15V3254",
+  "date": "2020-11-24",
+  "titreScrutin": "l'ensemble de la proposition de loi relative à la sécurité globale (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3254",
+  "questionProposee": "Faut-il adopter la loi « sécurité globale » (drones, polices municipales, encadrement de la diffusion d'images de policiers) ?",
+  "note": null,
+  "resultat": "adopté 388 pour / 104 contre / 66 abst.",
+  "groupes": [
+   "LaREM: pour (220p/10c/30a)",
+   "LR: pour (99p/0c/4a)",
+   "Dem: pour (33p/5c/18a)",
+   "SOC: contre (0p/29c/0a)",
+   "NI: contre (8p/13c/3a)",
+   "Agir ens: pour (18p/0c/0a)",
+   "LT: contre (0p/14c/3a)",
+   "UDI-I: pour (10p/0c/8a)",
+   "FI: contre (0p/17c/0a)",
+   "GDR: contre (0p/16c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "melenchon": "contre",
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "pour",
+   "dupontaignan": "abstention"
+  },
+  "candidatsSansVoteNominatif": [
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "separatisme",
+  "scrutin": "VTANR5L15V3421",
+  "date": "2021-02-16",
+  "titreScrutin": "l'ensemble du projet de loi confortant le respect des principes de la République (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3421",
+  "questionProposee": "Faut-il adopter la loi « séparatisme » (contrôle des associations et lieux de culte, encadrement de l'instruction en famille) ?",
+  "note": null,
+  "resultat": "adopté 347 pour / 151 contre / 65 abst.",
+  "groupes": [
+   "LaREM: pour (252p/1c/10a)",
+   "LR: contre (0p/97c/5a)",
+   "Dem: pour (58p/0c/0a)",
+   "SOC: abstention (0p/1c/28a)",
+   "NI: contre (1p/14c/8a)",
+   "Agir ens: pour (19p/0c/1a)",
+   "UDI-I: pour (14p/2c/3a)",
+   "FI: contre (0p/17c/0a)",
+   "LT: contre (2p/12c/2a)",
+   "GDR: abstention (1p/7c/8a)"
+  ],
+  "votesNominatifsCandidats": {
+   "melenchon": "contre",
+   "roussel": "abstention",
+   "ruffin": "contre",
+   "batho": "abstention",
+   "lepen": "abstention",
+   "dupontaignan": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "climat-resilience",
+  "scrutin": "VTANR5L15V3738",
+  "date": "2021-05-04",
+  "titreScrutin": "l'ensemble du projet de loi portant lutte contre le dérèglement climatique et renforcement de la résilience face à ses effets (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3738",
+  "questionProposee": "Faut-il adopter la loi Climat et résilience issue de la Convention citoyenne (zéro artificialisation nette, interdiction de certains vols courts, ZFE) ?",
+  "note": null,
+  "resultat": "adopté 332 pour / 77 contre / 145 abst.",
+  "groupes": [
+   "LaREM: pour (253p/0c/6a)",
+   "LR: abstention (1p/3c/99a)",
+   "Dem: pour (51p/0c/4a)",
+   "SOC: contre (0p/29c/0a)",
+   "NI: abstention (2p/7c/12a)",
+   "Agir ens: pour (21p/0c/0a)",
+   "LT: abstention (1p/7c/8a)",
+   "UDI-I: abstention (3p/1c/14a)",
+   "FI: contre (0p/17c/0a)",
+   "GDR: contre (0p/13c/2a)"
+  ],
+  "votesNominatifsCandidats": {
+   "melenchon": "contre",
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "abstention",
+   "dupontaignan": "abstention"
+  },
+  "candidatsSansVoteNominatif": [
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "pma-pour-toutes",
+  "scrutin": "VTANR5L15V3855",
+  "date": "2021-06-29",
+  "titreScrutin": "l'ensemble du projet de loi relatif à la bioéthique (lecture définitive).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3855",
+  "questionProposee": "Faut-il ouvrir la PMA aux couples de femmes et aux femmes seules ?",
+  "note": null,
+  "resultat": "adopté 326 pour / 115 contre / 42 abst.",
+  "groupes": [
+   "LaREM: pour (209p/6c/19a)",
+   "LR: contre (5p/77c/7a)",
+   "Dem: pour (32p/8c/4a)",
+   "SOC: pour (24p/2c/0a)",
+   "NI: contre (8p/9c/1a)",
+   "Agir ens: pour (12p/2c/2a)",
+   "UDI-I: contre (3p/10c/2a)",
+   "LT: pour (7p/1c/3a)",
+   "FI: pour (16p/0c/0a)",
+   "GDR: pour (10p/0c/4a)"
+  ],
+  "votesNominatifsCandidats": {
+   "melenchon": "pour",
+   "roussel": "pour",
+   "ruffin": "pour",
+   "batho": "pour",
+   "lepen": "contre",
+   "dupontaignan": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "pass-vaccinal",
+  "scrutin": "VTANR5L15V4279",
+  "date": "2022-01-05",
+  "titreScrutin": "l'ensemble du projet de loi renforçant les outils de gestion de la crise sanitaire et modifiant le code de la santé publique (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4279",
+  "questionProposee": "Faut-il transformer le pass sanitaire en pass vaccinal (Covid-19, janvier 2022) ?",
+  "note": null,
+  "resultat": "adopté 214 pour / 93 contre / 27 abst.",
+  "groupes": [
+   "LaREM: pour (134p/3c/0a)",
+   "LR: pour (28p/24c/22a)",
+   "Dem: pour (32p/0c/0a)",
+   "SOC: contre (7p/10c/3a)",
+   "NI: contre (1p/17c/0a)",
+   "Agir ens: pour (8p/0c/0a)",
+   "UDI-I: contre (3p/8c/0a)",
+   "LT: contre (1p/7c/1a)",
+   "FI: contre (0p/15c/0a)",
+   "GDR: contre (0p/9c/1a)"
+  ],
+  "votesNominatifsCandidats": {
+   "melenchon": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "contre",
+   "dupontaignan": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "roussel",
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "pouvoir-achat-2022",
+  "scrutin": "VTANR5L16V186",
+  "date": "2022-08-03",
+  "titreScrutin": "l'ensemble du projet de loi portant mesures d'urgence pour la protection du pouvoir d'achat (texte de la commission paritaire).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/186",
+  "questionProposee": "Faut-il adopter le paquet « pouvoir d'achat » de 2022 (revalorisations, prime défiscalisée, plafonnement des loyers, réquisition de centrales) ?",
+  "note": null,
+  "resultat": "adopté 395 pour / 112 contre / 36 abst.",
+  "groupes": [
+   "RE: pour (161p/0c/0a)",
+   "RN: pour (87p/0c/0a)",
+   "LFI - NUPES: contre (0p/75c/0a)",
+   "LR: pour (61p/0c/0a)",
+   "Dem: pour (44p/0c/0a)",
+   "SOC: abstention (0p/0c/29a)",
+   "HOR: pour (26p/0c/0a)",
+   "Ecolo - NUPES: contre (0p/21c/0a)",
+   "GDR - NUPES: contre (0p/16c/1a)",
+   "LIOT: pour (10p/0c/6a)",
+   "NI: pour (6p/0c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "pour",
+   "dupontaignan": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "assurance-chomage-2022",
+  "scrutin": "VTANR5L16V236",
+  "date": "2022-10-11",
+  "titreScrutin": "l'ensemble du projet de loi portant mesures d'urgence relatives au fonctionnement du marché de travail en vue du plein emploi (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/236",
+  "questionProposee": "Faut-il moduler la durée d'indemnisation chômage selon la conjoncture et sanctionner les abandons de poste ?",
+  "note": null,
+  "resultat": "adopté 303 pour / 249 contre / 11 abst.",
+  "groupes": [
+   "RE: pour (166p/0c/0a)",
+   "RN: contre (0p/87c/0a)",
+   "LFI - NUPES: contre (0p/73c/0a)",
+   "LR: pour (58p/0c/3a)",
+   "Dem: pour (47p/0c/0a)",
+   "SOC: contre (0p/31c/0a)",
+   "HOR: pour (30p/0c/0a)",
+   "Ecolo - NUPES: contre (0p/23c/0a)",
+   "GDR - NUPES: contre (0p/21c/0a)",
+   "LIOT: contre (2p/12c/6a)",
+   "NI: contre (0p/2c/2a)"
+  ],
+  "votesNominatifsCandidats": {
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "contre",
+   "dupontaignan": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "retraites-64",
+  "scrutin": "VTANR5L16V1240",
+  "date": "2023-03-20",
+  "titreScrutin": "la motion de censure déposée en application de l'article 49, alinéa 3, de la Constitution par M. Bertrand Pancher et 90 membres de l'Assemblée.",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1240",
+  "questionProposee": "Êtes-vous favorable au report de l'âge légal de départ à la retraite de 62 à 64 ans (réforme 2023) ?",
+  "note": "Réforme adoptée par 49.3 sans vote sur le texte : le vote de référence est la motion de censure transpartisane du 20 mars 2023 (voter la censure = s'opposer à la réforme).",
+  "resultat": "rejeté 278 pour / 0 contre / 0 abst.",
+  "groupes": [
+   "RE: pour (0p/0c/0a)",
+   "RN: pour (88p/0c/0a)",
+   "LFI - NUPES: pour (74p/0c/0a)",
+   "LR: pour (19p/0c/0a)",
+   "Dem: pour (0p/0c/0a)",
+   "SOC: pour (31p/0c/0a)",
+   "HOR: pour (0p/0c/0a)",
+   "GDR - NUPES: pour (22p/0c/0a)",
+   "Ecolo - NUPES: pour (22p/0c/0a)",
+   "LIOT: pour (18p/0c/0a)",
+   "NI: pour (4p/0c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "roussel": "pour",
+   "ruffin": "pour",
+   "batho": "pour",
+   "lepen": "pour",
+   "dupontaignan": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "nucleaire-2023",
+  "scrutin": "VTANR5L16V1533",
+  "date": "2023-05-16",
+  "titreScrutin": "l'ensemble du projet de loi relatif à l'accélération des procédures liées à la construction de nouvelles installations nucléaires à proximité de sites nucléaires existants et au fonctionnement des installations existantes (texte de la commission mixte paritaire).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1533",
+  "questionProposee": "Faut-il accélérer la construction de nouveaux réacteurs nucléaires ?",
+  "note": null,
+  "resultat": "adopté 399 pour / 100 contre / 39 abst.",
+  "groupes": [
+   "RE: pour (159p/0c/0a)",
+   "RN: pour (84p/0c/0a)",
+   "LFI - NUPES: contre (0p/72c/0a)",
+   "LR: pour (59p/0c/0a)",
+   "Dem: pour (40p/1c/0a)",
+   "SOC: abstention (0p/0c/30a)",
+   "HOR: pour (29p/0c/0a)",
+   "Ecolo - NUPES: contre (0p/23c/0a)",
+   "GDR - NUPES: pour (10p/4c/4a)",
+   "LIOT: pour (15p/0c/5a)",
+   "NI: pour (3p/0c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "roussel": "pour",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "pour",
+   "dupontaignan": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "anti-squat",
+  "scrutin": "VTANR5L16V1361",
+  "date": "2023-04-04",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à protéger les logements contre l'occupation illicite (deuxième lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1361",
+  "questionProposee": "Faut-il durcir les sanctions contre les squatteurs et accélérer les expulsions pour impayés (loi Kasbarian) ?",
+  "note": null,
+  "resultat": "adopté 385 pour / 147 contre / 8 abst.",
+  "groupes": [
+   "RE: pour (159p/0c/1a)",
+   "RN: pour (84p/0c/0a)",
+   "LFI - NUPES: contre (0p/74c/0a)",
+   "LR: pour (58p/0c/0a)",
+   "Dem: pour (38p/1c/2a)",
+   "SOC: contre (0p/29c/0a)",
+   "HOR: pour (29p/0c/0a)",
+   "GDR - NUPES: contre (1p/20c/0a)",
+   "Ecolo - NUPES: contre (0p/22c/0a)",
+   "LIOT: pour (12p/0c/5a)",
+   "NI: pour (4p/1c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "pour",
+   "dupontaignan": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "lpm-2024-2030",
+  "scrutin": "VTANR5L16V1778",
+  "date": "2023-06-07",
+  "titreScrutin": "l’ensemble du projet de loi relatif à la programmation militaire pour les années 2024 à 2030 et portant diverses dispositions intéressant la défense (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1778",
+  "questionProposee": "Faut-il consacrer 413 milliards d'euros à la défense sur 2024-2030 (loi de programmation militaire) ?",
+  "note": null,
+  "resultat": "adopté 408 pour / 87 contre / 53 abst.",
+  "groupes": [
+   "RE: pour (162p/0c/0a)",
+   "RN: pour (87p/0c/0a)",
+   "LFI - NUPES: contre (0p/70c/0a)",
+   "LR: pour (61p/0c/0a)",
+   "Dem: pour (49p/0c/0a)",
+   "SOC: abstention (0p/0c/31a)",
+   "HOR: pour (29p/0c/0a)",
+   "Ecolo - NUPES: abstention (0p/1c/20a)",
+   "GDR - NUPES: contre (0p/16c/1a)",
+   "LIOT: pour (16p/0c/1a)",
+   "NI: pour (4p/0c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "abstention",
+   "lepen": "pour",
+   "dupontaignan": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "rsa-15h",
+  "scrutin": "VTANR5L16V2717",
+  "date": "2023-10-10",
+  "titreScrutin": "l'ensemble du projet de loi pour le plein emploi (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/2717",
+  "questionProposee": "Faut-il conditionner le RSA à 15 heures d'activité hebdomadaires et créer France Travail ?",
+  "note": null,
+  "resultat": "adopté 310 pour / 251 contre / 7 abst.",
+  "groupes": [
+   "RE: pour (169p/0c/0a)",
+   "RN: contre (0p/88c/0a)",
+   "LFI - NUPES: contre (0p/75c/0a)",
+   "LR: pour (61p/0c/0a)",
+   "Dem: pour (49p/0c/0a)",
+   "SOC: contre (0p/29c/0a)",
+   "HOR: pour (29p/0c/0a)",
+   "Ecolo - NUPES: contre (0p/23c/0a)",
+   "GDR - NUPES: contre (0p/21c/0a)",
+   "LIOT: contre (1p/13c/6a)",
+   "NI: contre (1p/2c/1a)"
+  ],
+  "votesNominatifsCandidats": {
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "contre",
+   "dupontaignan": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "immigration-2023",
+  "scrutin": "VTANR5L16V3213",
+  "date": "2023-12-19",
+  "titreScrutin": "l'ensemble du projet de loi pour contrôler l'immigration, améliorer l'intégration (texte de la commission mixte paritaire).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3213",
+  "questionProposee": "Faut-il adopter la loi immigration de décembre 2023 (quotas, durcissement du regroupement familial et des aides sociales aux étrangers) ?",
+  "note": null,
+  "resultat": "adopté 349 pour / 186 contre / 38 abst.",
+  "groupes": [
+   "RE: pour (131p/20c/17a)",
+   "RN: pour (88p/0c/0a)",
+   "LFI - NUPES: contre (0p/75c/0a)",
+   "LR: pour (62p/0c/0a)",
+   "Dem: pour (30p/5c/15a)",
+   "SOC: contre (0p/31c/0a)",
+   "HOR: pour (28p/2c/0a)",
+   "Ecolo - NUPES: contre (0p/23c/0a)",
+   "GDR - NUPES: contre (0p/21c/0a)",
+   "LIOT: pour (8p/8c/5a)",
+   "NI: pour (2p/1c/1a)"
+  ],
+  "votesNominatifsCandidats": {
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "contre",
+   "lepen": "pour",
+   "dupontaignan": "abstention"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "ivg-constitution",
+  "scrutin": "VTCGR5L16V1",
+  "date": "2024-03-04",
+  "titreScrutin": "le projet de loi constitutionnelle relatif à la liberté de recourir à l'interruption volontaire de grossesse.",
+  "dossier": null,
+  "urlScrutin": null,
+  "questionProposee": "Faut-il inscrire la liberté de recourir à l'IVG dans la Constitution ?",
+  "note": "Vote du Parlement réuni en Congrès (députés + sénateurs), 4 mars 2024.",
+  "resultat": "adopté 780 pour / 72 contre / 50 abst.",
+  "groupes": [
+   "RE: pour (166p/0c/1a)",
+   "RN: pour (46p/11c/20a)",
+   "LFI - NUPES: pour (75p/0c/0a)",
+   "LR: pour (43p/12c/4a)",
+   "Dem: pour (48p/0c/1a)",
+   "SOC: pour (31p/0c/0a)",
+   "HOR: pour (28p/0c/0a)",
+   "LIOT: pour (21p/1c/0a)",
+   "GDR - NUPES: pour (22p/0c/0a)",
+   "Ecolo - NUPES: pour (22p/0c/0a)",
+   "NI: pour (3p/2c/0a)",
+   "Les Républicains: pour (79p/38c/14a)",
+   "SER: pour (64p/0c/0a)",
+   "UC: abstention (42p/6c/8a)",
+   "RDPI: pour (21p/1c/0a)",
+   "Les Indépendants: abstention (15p/0c/2a)",
+   "CRCE-K: pour (18p/0c/0a)",
+   "GEST: pour (16p/0c/0a)",
+   "RDSE: pour (16p/0c/0a)",
+   "NI: pour (4p/1c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "roussel": "pour",
+   "ruffin": "pour",
+   "batho": "pour",
+   "retailleau": "contre",
+   "lepen": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "bertrand",
+   "lisnard",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "ukraine-accord",
+  "scrutin": "VTANR5L16V3461",
+  "date": "2024-03-12",
+  "titreScrutin": "la déclaration du Gouvernement relative au débat sur l'accord de sécurité franco-ukrainien et la situation en Ukraine (application de l'article 50-1 de la Constitution).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3461",
+  "questionProposee": "Faut-il approuver l'accord de sécurité bilatéral France-Ukraine (aide militaire sur 10 ans) ?",
+  "note": null,
+  "resultat": "adopté 372 pour / 99 contre / 101 abst.",
+  "groupes": [
+   "RE: pour (169p/0c/0a)",
+   "RN: abstention (0p/0c/88a)",
+   "LFI - NUPES: contre (0p/75c/0a)",
+   "LR: pour (49p/0c/11a)",
+   "Dem: pour (49p/0c/1a)",
+   "SOC: pour (31p/0c/0a)",
+   "HOR: pour (30p/0c/0a)",
+   "GDR - NUPES: contre (0p/22c/0a)",
+   "Ecolo - NUPES: pour (20p/1c/0a)",
+   "LIOT: pour (20p/0c/0a)",
+   "NI: pour (4p/1c/1a)"
+  ],
+  "votesNominatifsCandidats": {
+   "roussel": "contre",
+   "ruffin": "contre",
+   "batho": "pour",
+   "lepen": "abstention",
+   "dupontaignan": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "tondelier",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "nouvelle-caledonie-2024",
+  "scrutin": "VTANR5L16V3725",
+  "date": "2024-05-14",
+  "titreScrutin": "l'ensemble du projet de loi constitutionnelle portant modification du corps électoral pour les élections au congrès et aux assemblées de province de la Nouvelle-Calédonie (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3725",
+  "questionProposee": "Faut-il dégeler le corps électoral provincial de Nouvelle-Calédonie (réforme constitutionnelle de 2024) ?",
+  "note": null,
+  "resultat": "adopté 351 pour / 153 contre / 3 abst.",
+  "groupes": [
+   "RE: pour (146p/0c/0a)",
+   "RN: pour (76p/0c/0a)",
+   "LFI - NUPES: contre (0p/73c/0a)",
+   "LR: pour (53p/0c/1a)",
+   "Dem: pour (39p/1c/2a)",
+   "SOC: contre (0p/30c/0a)",
+   "HOR: pour (30p/0c/0a)",
+   "GDR - NUPES: contre (0p/22c/0a)",
+   "LIOT: contre (5p/9c/0a)",
+   "Ecolo - NUPES: contre (0p/18c/0a)",
+   "NI: pour (2p/0c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "roussel": "contre",
+   "ruffin": "contre",
+   "lepen": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "tondelier",
+   "batho",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {
+   "attal": "membre"
+  }
+ },
+ {
+  "id": "mercosur",
+  "scrutin": "VTANR5L17V456",
+  "date": "2024-11-26",
+  "titreScrutin": "la déclaration du Gouvernement portant sur les négociations en cours relatives à l'accord d'association entre l'Union européenne et le Mercosur (application de l'article 50-1 de la Constitution).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/456",
+  "questionProposee": "Faut-il s'opposer à l'accord de libre-échange UE-Mercosur en l'état ?",
+  "note": "Vote sur la déclaration du Gouvernement (art. 50-1) opposée à l'accord : voter pour = s'opposer au Mercosur.",
+  "resultat": "adopté 485 pour / 69 contre / 1 abst.",
+  "groupes": [
+   "RN: pour (122p/0c/0a)",
+   "EPR: pour (84p/0c/1a)",
+   "LFI-NFP: contre (0p/69c/0a)",
+   "SOC: pour (66p/0c/0a)",
+   "DR: pour (46p/0c/0a)",
+   "EcoS: pour (38p/0c/0a)",
+   "Dem: pour (34p/0c/0a)",
+   "HOR: pour (34p/0c/0a)",
+   "LIOT: pour (23p/0c/0a)",
+   "GDR: pour (16p/0c/0a)",
+   "UDR: pour (13p/0c/0a)",
+   "NI: pour (9p/0c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "ruffin": "pour",
+   "batho": "pour",
+   "attal": "pour",
+   "lepen": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "roussel",
+   "tondelier",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {
+   "retailleau": "membre"
+  }
+ },
+ {
+  "id": "taxe-zucman",
+  "scrutin": "VTANR5L17V881",
+  "date": "2025-02-20",
+  "titreScrutin": "l'ensemble de la proposition de loi instaurant un impôt plancher de 2 % sur le patrimoine des ultra riches (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/881",
+  "questionProposee": "Faut-il instaurer un impôt plancher de 2 % sur le patrimoine des ultra-riches (> 100 M€, « taxe Zucman ») ?",
+  "note": null,
+  "resultat": "adopté 116 pour / 39 contre / 31 abst.",
+  "groupes": [
+   "RN: abstention (0p/0c/28a)",
+   "EPR: contre (0p/16c/0a)",
+   "LFI-NFP: pour (37p/0c/0a)",
+   "SOC: pour (36p/0c/0a)",
+   "DR: contre (0p/3c/0a)",
+   "EcoS: pour (38p/0c/0a)",
+   "Dem: contre (0p/9c/0a)",
+   "HOR: contre (0p/7c/3a)",
+   "LIOT: pour (0p/0c/0a)",
+   "GDR: pour (5p/0c/0a)",
+   "UDR: contre (0p/4c/0a)",
+   "NI: pour (0p/0c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "ruffin": "pour",
+   "batho": "pour",
+   "attal": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "roussel",
+   "tondelier",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "lepen",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {
+   "retailleau": "membre"
+  }
+ },
+ {
+  "id": "narcotrafic",
+  "scrutin": "VTANR5L17V1473",
+  "date": "2025-04-29",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à sortir la France du piège du narcotrafic (texte de la commission mixte paritaire).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1473",
+  "questionProposee": "Faut-il adopter la loi « sortir la France du piège du narcotrafic » (parquet national, quartiers de haute sécurité, techniques de renseignement) ?",
+  "note": null,
+  "resultat": "adopté 396 pour / 68 contre / 34 abst.",
+  "groupes": [
+   "RN: pour (109p/0c/0a)",
+   "EPR: pour (73p/0c/0a)",
+   "LFI-NFP: contre (0p/60c/0a)",
+   "SOC: pour (63p/0c/1a)",
+   "DR: pour (38p/0c/1a)",
+   "EcoS: contre (0p/4c/25a)",
+   "Dem: pour (36p/0c/0a)",
+   "HOR: pour (33p/0c/0a)",
+   "LIOT: pour (22p/0c/0a)",
+   "GDR: abstention (1p/4c/7a)",
+   "UDR: pour (13p/0c/0a)",
+   "NI: pour (8p/0c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "ruffin": "abstention",
+   "attal": "pour",
+   "lepen": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "roussel",
+   "tondelier",
+   "batho",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {
+   "retailleau": "membre"
+  }
+ },
+ {
+  "id": "loi-duplomb",
+  "scrutin": "VTANR5L17V2957",
+  "date": "2025-07-08",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à lever les contraintes à l'exercice du métier d'agriculteur (texte de la commission mixte paritaire).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2957",
+  "questionProposee": "Faut-il permettre la réintroduction dérogatoire de l'acétamipride (néonicotinoïde) et alléger les contraintes des élevages (loi Duplomb) ?",
+  "note": null,
+  "resultat": "adopté 316 pour / 223 contre / 25 abst.",
+  "groupes": [
+   "RN: abstention (119p/0c/2a)",
+   "EPR: pour (64p/14c/10a)",
+   "LFI-NFP: contre (0p/71c/0a)",
+   "SOC: contre (0p/65c/0a)",
+   "DR: pour (47p/0c/1a)",
+   "EcoS: contre (0p/38c/0a)",
+   "Dem: contre (26p/9c/1a)",
+   "HOR: abstention (26p/3c/4a)",
+   "LIOT: abstention (12p/3c/6a)",
+   "GDR: contre (0p/17c/0a)",
+   "UDR: pour (16p/0c/0a)",
+   "NI: pour (6p/3c/1a)"
+  ],
+  "votesNominatifsCandidats": {
+   "ruffin": "contre",
+   "batho": "contre",
+   "attal": "pour",
+   "lepen": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "roussel",
+   "tondelier",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {
+   "retailleau": "membre"
+  }
+ },
+ {
+  "id": "retention-210j",
+  "scrutin": "VTANR5L17V2958",
+  "date": "2025-07-08",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à faciliter le maintien en rétention des personnes condamnées pour des faits d’une particulière gravité et présentant de forts risques de récidive (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+  "questionProposee": "Faut-il pouvoir retenir jusqu'à 210 jours les étrangers condamnés pour des faits graves en attente d'expulsion ?",
+  "note": null,
+  "resultat": "adopté 303 pour / 168 contre / 1 abst.",
+  "groupes": [
+   "RN: pour (108p/0c/0a)",
+   "EPR: pour (61p/1c/0a)",
+   "LFI-NFP: contre (0p/58c/0a)",
+   "SOC: contre (0p/59c/0a)",
+   "DR: pour (48p/0c/0a)",
+   "EcoS: contre (0p/33c/0a)",
+   "Dem: pour (25p/0c/1a)",
+   "HOR: pour (24p/0c/0a)",
+   "LIOT: pour (19p/1c/0a)",
+   "GDR: contre (0p/12c/0a)",
+   "UDR: pour (13p/0c/0a)",
+   "NI: pour (5p/4c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "ruffin": "contre",
+   "batho": "contre",
+   "attal": "pour",
+   "lepen": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "roussel",
+   "tondelier",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {
+   "retailleau": "membre"
+  }
+ },
+ {
+  "id": "suspension-retraites",
+  "scrutin": "VTANR5L17V3684",
+  "date": "2025-11-12",
+  "titreScrutin": "l'article 45 bis (examen prioritaire) du projet de loi de financement de la sécurité sociale pour 2026 (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3684",
+  "questionProposee": "Faut-il suspendre la réforme des retraites de 2023 jusqu'à l'élection présidentielle ?",
+  "note": null,
+  "resultat": "adopté 255 pour / 146 contre / 104 abst.",
+  "groupes": [
+   "RN: pour (112p/0c/0a)",
+   "EPR: abstention (3p/5c/67a)",
+   "LFI-NFP: contre (0p/60c/0a)",
+   "SOC: pour (67p/0c/0a)",
+   "DR: abstention (8p/25c/9a)",
+   "EcoS: abstention (30p/0c/4a)",
+   "Dem: abstention (11p/1c/18a)",
+   "HOR: contre (0p/29c/1a)",
+   "LIOT: abstention (17p/0c/3a)",
+   "GDR: contre (1p/11c/0a)",
+   "UDR: contre (0p/14c/0a)",
+   "NI: pour (6p/1c/2a)"
+  ],
+  "votesNominatifsCandidats": {
+   "ruffin": "pour",
+   "batho": "pour",
+   "attal": "abstention",
+   "lepen": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "roussel",
+   "tondelier",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {}
+ },
+ {
+  "id": "arcelormittal",
+  "scrutin": "VTANR5L17V4438",
+  "date": "2025-11-27",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à la nationalisation d'ArcelorMittal France afin de préserver la souveraineté industrielle de la France (première lecture).",
+  "dossier": null,
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+  "questionProposee": "Faut-il nationaliser ArcelorMittal France pour préserver la sidérurgie ?",
+  "note": null,
+  "resultat": "adopté 127 pour / 41 contre / 42 abst.",
+  "groupes": [
+   "RN: abstention (0p/0c/40a)",
+   "EPR: contre (0p/19c/0a)",
+   "LFI-NFP: pour (68p/1c/0a)",
+   "SOC: pour (28p/0c/1a)",
+   "DR: contre (0p/5c/1a)",
+   "EcoS: pour (18p/0c/0a)",
+   "Dem: contre (0p/4c/0a)",
+   "HOR: contre (0p/10c/0a)",
+   "LIOT: pour (0p/0c/0a)",
+   "GDR: pour (13p/0c/0a)",
+   "UDR: contre (0p/2c/0a)",
+   "NI: pour (0p/0c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "ruffin": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "roussel",
+   "tondelier",
+   "batho",
+   "glucksmann",
+   "attal",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "lepen",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {}
+ },
+ {
+  "id": "corse-autonome",
+  "scrutin": "VTANR5L17V7454",
+  "date": "2026-06-23",
+  "titreScrutin": "l'ensemble du projet de loi constitutionnelle pour une Corse autonome au sein de la République (première lecture).",
+  "dossier": "Projet de loi constitutionnelle pour une Corse autonome au sein de la République",
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7454",
+  "questionProposee": "Faut-il inscrire dans la Constitution une Corse autonome dotée d'un pouvoir normatif ?",
+  "note": null,
+  "resultat": "adopté 271 pour / 202 contre / 64 abst.",
+  "groupes": [
+   "RN: contre (0p/120c/0a)",
+   "EPR: pour (66p/5c/11a)",
+   "LFI-NFP: pour (60p/2c/0a)",
+   "SOC: contre (41p/5c/19a)",
+   "DR: contre (1p/34c/10a)",
+   "EcoS: contre (27p/5c/4a)",
+   "Dem: pour (25p/0c/11a)",
+   "HOR: abstention (22p/0c/6a)",
+   "LIOT: pour (21p/2c/0a)",
+   "GDR: pour (6p/6c/2a)",
+   "UDR: contre (0p/17c/0a)",
+   "NI: contre (2p/6c/1a)"
+  ],
+  "votesNominatifsCandidats": {
+   "ruffin": "pour",
+   "batho": "pour",
+   "attal": "pour",
+   "lepen": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "roussel",
+   "tondelier",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {}
+ },
+ {
+  "id": "legitime-defense-policiers",
+  "scrutin": "VTANR5L17V7987",
+  "date": "2026-07-07",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions (première lecture).",
+  "dossier": "Reconnaître une présomption de légitime défense pour les forces de l'ordre, dans l'exercice de leurs fonctions",
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/7987",
+  "questionProposee": "Faut-il instaurer une présomption de légitime défense pour les forces de l'ordre ?",
+  "note": null,
+  "resultat": "adopté 313 pour / 199 contre / 5 abst.",
+  "groupes": [
+   "RN: pour (122p/0c/0a)",
+   "EPR: pour (55p/12c/0a)",
+   "LFI-NFP: contre (0p/69c/0a)",
+   "SOC: contre (0p/62c/0a)",
+   "DR: pour (48p/0c/0a)",
+   "EcoS: contre (0p/29c/0a)",
+   "Dem: abstention (28p/1c/5a)",
+   "HOR: pour (31p/0c/0a)",
+   "LIOT: pour (9p/8c/0a)",
+   "UDR: pour (14p/0c/0a)",
+   "GDR: contre (0p/17c/0a)",
+   "NI: pour (6p/1c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "ruffin": "contre",
+   "attal": "pour",
+   "lepen": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "roussel",
+   "tondelier",
+   "batho",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {}
+ },
+ {
+  "id": "aide-a-mourir",
+  "scrutin": "VTANR5L17V8280",
+  "date": "2026-07-15",
+  "titreScrutin": "l'ensemble de la proposition de loi relative au droit à l'aide à mourir (lecture définitive).",
+  "dossier": "Fin de vie",
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8280",
+  "questionProposee": "Faut-il créer un droit à l'aide à mourir (suicide assisté / euthanasie encadrés) ?",
+  "note": null,
+  "resultat": "adopté 291 pour / 241 contre / 29 abst.",
+  "groupes": [
+   "RN: pour (12p/106c/0a)",
+   "EPR: abstention (64p/18c/9a)",
+   "LFI-NFP: pour (61p/2c/3a)",
+   "SOC: abstention (57p/4c/6a)",
+   "DR: pour (5p/41c/2a)",
+   "EcoS: pour (33p/2c/1a)",
+   "Dem: pour (20p/16c/0a)",
+   "HOR: contre (16p/18c/1a)",
+   "LIOT: contre (10p/8c/4a)",
+   "GDR: abstention (10p/2c/3a)",
+   "UDR: contre (0p/17c/0a)",
+   "NI: contre (3p/7c/0a)"
+  ],
+  "votesNominatifsCandidats": {
+   "ruffin": "pour",
+   "batho": "pour",
+   "attal": "pour",
+   "lepen": "contre"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "roussel",
+   "tondelier",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {}
+ },
+ {
+  "id": "reseaux-sociaux-15",
+  "scrutin": "VTANR5L17V8431",
+  "date": "2026-07-21",
+  "titreScrutin": "l'ensemble de la proposition de loi visant à protéger les mineurs des risques auxquels les expose l'utilisation des réseaux sociaux (texte de la commission mixte paritaire).",
+  "dossier": "Protéger les mineurs des risques auxquels les expose l’utilisation des réseaux sociaux",
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8431",
+  "questionProposee": "Faut-il interdire les réseaux sociaux aux moins de 15 ans ?",
+  "note": null,
+  "resultat": "adopté 279 pour / 81 contre / 66 abst.",
+  "groupes": [
+   "RN: contre (0p/2c/14a)",
+   "EPR: pour (83p/0c/0a)",
+   "LFI-NFP: contre (0p/63c/0a)",
+   "SOC: pour (30p/0c/28a)",
+   "DR: pour (40p/0c/3a)",
+   "EcoS: contre (19p/7c/7a)",
+   "Dem: pour (32p/1c/2a)",
+   "HOR: pour (33p/0c/0a)",
+   "LIOT: pour (22p/0c/1a)",
+   "UDR: pour (8p/5c/4a)",
+   "GDR: pour (6p/3c/5a)",
+   "NI: pour (6p/0c/2a)"
+  ],
+  "votesNominatifsCandidats": {
+   "ruffin": "abstention",
+   "batho": "pour",
+   "attal": "pour"
+  },
+  "candidatsSansVoteNominatif": [
+   "melenchon",
+   "roussel",
+   "tondelier",
+   "glucksmann",
+   "philippe",
+   "retailleau",
+   "bertrand",
+   "lisnard",
+   "lepen",
+   "zemmour",
+   "dupontaignan"
+  ],
+  "membresGouvernementALaDate": {}
+ }
+]

@@ -1,0 +1,216 @@
+{
+  "id": "schengen-double-frontiere",
+  "titre": "« Double frontière » : contrôles permanents aux frontières nationales dans Schengen",
+  "question": "Faut-il rétablir des contrôles permanents aux frontières nationales en plus des frontières extérieures de l'Union européenne (« double frontière » dans l'espace Schengen) ?",
+  "ouiSignifie": "pour",
+  "contexte": "L'espace Schengen supprime en principe les contrôles aux frontières intérieures entre États participants, en contrepartie d'une frontière extérieure commune. Depuis novembre 2015, la France, comme une douzaine d'États en 2026, rétablit ces contrôles par dérogations temporaires renouvelées tous les six mois. Après la crise de Ceuta (été 2026), le Rassemblement national a présenté dans sa niche une proposition de résolution (n° 3119, rapporteur Jordan Guitton). Elle invite le gouvernement à faire réviser le code frontières Schengen pour instaurer une « double frontière » : contrôles renforcés aux frontières extérieures et contrôles nationaux permanents pour les ressortissants de pays tiers, la libre circulation des citoyens européens étant maintenue. Le gouvernement (Marie-Pierre Vedrenne) et la plupart des groupes jugeaient cette idée contraire aux traités (article 77 du TFUE) et assimilable à une sortie de Schengen « par la bande ». La résolution, non contraignante, a été rejetée le 8 octobre 2026 (144 voix contre 199), le groupe Droite républicaine la votant majoritairement.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 8 octobre 2026 (début de la discussion)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N013"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 8 octobre 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N014"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution n° 3119",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonder_lespace_schengen_en_instaurant_une_double_frontiere_nationale_et_europeenne"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°8611",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/refonder_lespace_schengen_en_instaurant_une_double_frontiere_nationale_et_europeenne",
+  "argumentsPour": [
+    {
+      "auteur": "Jordan Guitton (Rassemblement national, rapporteur)",
+      "resume": "Schengen reposait sur une frontière extérieure parfaitement contrôlée, promesse jamais tenue : la moitié des États contournent déjà le droit européen pour rétablir des contrôles.",
+      "citation": "Nous parlons d’une évidence que certains s’obstinent encore à nier : le système Schengen, tel qu’il a été pensé il y a quarante ans, ne fonctionne plus.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N013",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Sylvie Bonnet (Droite républicaine)",
+      "resume": "Il faut refonder Schengen : préserver la libre circulation des Européens tout en contrôlant les ressortissants de pays tiers.",
+      "citation": "Nous devons construire une Europe ouverte pour ceux qui ont vocation à y circuler, et une Europe capable de contrôler ceux qui y entrent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N014",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Matthieu Bloch (UDR)",
+      "resume": "Les frontières intérieures sont déjà revenues sous le régime de l'exception ; il faut en tirer les conséquences juridiques.",
+      "citation": "Mes chers collègues, nous ne débattons pas du retour des frontières intérieures : elles sont déjà revenues, quoique sous le régime de l’exception.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N014",
+      "date": "2026-10-08"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Marie-Pierre Vedrenne (ministre déléguée, gouvernement)",
+      "resume": "Face aux difficultés de Schengen, il faut renforcer la frontière extérieure et les retours, pas renoncer à la libre circulation.",
+      "citation": "Toutefois, lorsque Schengen rencontre des difficultés, notre responsabilité n’est pas de renoncer à Schengen, mais de faire fonctionner et d’améliorer Schengen.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N014",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Christophe Marion (Ensemble pour la République)",
+      "resume": "Instaurer des contrôles permanents aux frontières nationales revient à sortir de Schengen sans le dire, une idée que le RN n'ose plus assumer.",
+      "citation": "rétablir des contrôles permanents aux frontières nationales, c’est sortir de Schengen sans avoir le courage de le dire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N014",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Henri Alfandari (Horizons & indépendants)",
+      "resume": "Le traité interdit les contrôles aux frontières intérieures quelle que soit la nationalité ; la solution proposée ne peut pas fonctionner.",
+      "citation": "Mais une inquiétude juste ne fait pas une solution juste, et la solution que vous proposez ne peut pas fonctionner.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N014",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "Le code frontières Schengen relève du droit dérivé soumis aux traités : on ne peut le réviser pour contourner la libre circulation.",
+      "citation": "Le code frontières Schengen est un règlement ; il relève donc du droit dérivé, qui est soumis aux traités.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N014",
+      "date": "2026-10-08"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "attal": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°8611 du 8 octobre 2026) ; aucune intervention personnelle retrouvée : argument = explication de vote de son groupe EPR (Christophe Marion).",
+      "argument": "Le groupe EPR estime que des contrôles permanents aux frontières nationales reviendraient à sortir de Schengen « par la bande » et seraient contre-productifs pour la sécurité.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2027O1N014",
+      "date": "2026-10-08"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°8611). À titre indicatif, le groupe RN, qu'elle préside et qui portait la résolution, a voté pour (118-0) ; le rapporteur se réclamait de son combat contre les « frontières passoires ».",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+      "date": "2026-10-08"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°8611) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel il appartient, a voté contre (0-27).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+      "date": "2026-10-08"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°8611) ; aucune déclaration retrouvée. À titre indicatif, le groupe Écologiste et social, auquel elle appartient, a voté contre (0-27).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+      "date": "2026-10-08"
+    },
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée sur ce texte. PROXY : le groupe LFI-NFP a voté contre (0-57).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+      "date": "2026-10-08"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0-10).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+      "date": "2026-10-08"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0-27).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+      "date": "2026-10-08"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, allié de Place publique, a voté contre (0-37).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+      "date": "2026-10-08"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; après la crise de Ceuta, il a proposé un « verrou Schengen » contre les régularisations massives (août 2026), mesure distincte. PROXY : le groupe Horizons & indépendants (son parti) a voté contre (0-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.sudouest.fr/politique/edouard-philippe/verrou-schengen-et-droit-d-asile-apres-la-crise-de-ceuta-edouard-philippe-veut-un-tour-de-vis-sur-l-immigration-30212119.php",
+      "date": "2026-08-10"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Ministre de l'Intérieur en septembre 2024, il voulait voir jusqu'où la France pouvait aller pour rendre permanents les contrôles aux frontières rétablis en 2015 ; pas de déclaration retrouvée sur cette résolution. Le groupe Droite républicaine (LR, qu'il préside) l'a votée majoritairement (9-1-5).",
+      "argument": "Il juge les règles européennes inadaptées aux « désordres migratoires » et veut tester les limites de Schengen pour pérenniser les contrôles.",
+      "citation": "Voyons jusqu’où nous pouvons aller",
+      "url": "https://euractiv.fr/news/bruno-retailleau-pour-une-revision-du-pacte-sur-lasile-et-la-migration-et-pour-une-refonte-de-schengen",
+      "date": "2024-09-23"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR) a voté majoritairement pour (9-1-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+      "date": "2026-10-08"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine, de la famille LR dont il est issu, a voté majoritairement pour (9-1-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+      "date": "2026-10-08"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration vérifiable retrouvée sur ce texte ; Reconquête n'a pas de groupe à l'Assemblée (le groupe UDR, allié du RN, a voté pour 17-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+      "date": "2026-10-08"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration en français vérifiable retrouvée sur ce texte ; Debout la France n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8611",
+      "date": "2026-10-08"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur une proposition de résolution (art. 34-1), sans effet juridique.",
+    "Retailleau : déclaration de 2024 (TF1, citée par Euractiv) sur la pérennisation des contrôles, antérieure et moins précise que la « double frontière » du RN ; la partie entre crochets est un ajout d'Euractiv, exclu de la citation.",
+    "Philippe : son « verrou Schengen » vise les régularisations, pas les contrôles aux frontières intérieures. Il n'a pas été traité comme une position sur la question.",
+    "Le Pen, Ruffin, Batho : n'ont pas pris part au vote.",
+    "Débat réparti sur deux séances du 8 octobre 2026 ; chaque citation renvoie au compte rendu où elle figure."
+  ]
+}

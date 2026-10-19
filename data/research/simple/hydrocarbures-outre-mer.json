@@ -1,0 +1,18 @@
+{
+  "id": "hydrocarbures-outre-mer",
+  "questionSimple": "Faut-il de nouveau autoriser la recherche de pétrole et de gaz dans les outre-mer, comme en Guyane ?",
+  "enBref": "Depuis la loi Hulot de 2017, la France interdit de chercher et d'exploiter de nouveaux gisements de pétrole et de gaz. Ce texte voulait lever cette interdiction dans les outre-mer, à la demande des élus de Guyane, où des voisins comme le Suriname exploitent du pétrole.",
+  "pourquoiPour": "Ses partisans veulent offrir une chance de développement à des territoires parmi les plus pauvres de France et réduire la dépendance aux importations. Pour eux, c'est aux habitants de décider.",
+  "pourquoiContre": "Ses opposants rappellent qu'il faut arrêter les énergies fossiles pour limiter le réchauffement. Selon eux, aucune exploration n'a trouvé de pétrole rentable en Guyane : ce serait un faux espoir.",
+  "ceQuiSestPasse": "Adopté par le Sénat, le texte a été rejeté par l'Assemblée le 11 juin 2026 : l'interdiction reste en vigueur.",
+  "lexique": [
+    {
+      "terme": "Hydrocarbures",
+      "definition": "Pétrole et gaz naturel, énergies fossiles extraites du sous-sol."
+    },
+    {
+      "terme": "Loi Hulot",
+      "definition": "Loi de 2017 qui interdit toute nouvelle recherche de pétrole et de gaz en France."
+    }
+  ]
+}

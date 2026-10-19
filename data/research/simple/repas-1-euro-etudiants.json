@@ -1,0 +1,18 @@
+{
+  "id": "repas-1-euro-etudiants",
+  "questionSimple": "Faut-il que tous les étudiants, et pas seulement les boursiers, puissent manger pour 1 euro au restaurant universitaire ?",
+  "enBref": "Aujourd'hui, le repas à 1 euro au restaurant universitaire est réservé aux boursiers et aux étudiants en difficulté. Les autres paient 3,30 euros. Le texte voulait ouvrir le repas à 1 euro à tous les étudiants.",
+  "pourquoiPour": "Pour ses défenseurs, beaucoup d'étudiants non boursiers ont du mal à manger à leur faim. Une aide pour tous éviterait qu'ils passent entre les mailles du filet.",
+  "pourquoiContre": "Pour ses opposants, il est injuste de payer le repas d'étudiants aisés avec l'argent public. Mieux vaut aider davantage ceux qui en ont vraiment besoin.",
+  "ceQuiSestPasse": "Le 9 février 2023, le texte a été rejeté à une seule voix près, par 184 voix contre 183.",
+  "lexique": [
+    {
+      "terme": "Crous",
+      "definition": "Organisme public qui gère les restaurants et logements universitaires."
+    },
+    {
+      "terme": "Boursier",
+      "definition": "Étudiant qui reçoit une aide de l'État en raison des faibles revenus de sa famille."
+    }
+  ]
+}

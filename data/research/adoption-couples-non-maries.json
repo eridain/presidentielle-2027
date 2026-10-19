@@ -1,0 +1,211 @@
+{
+  "id": "adoption-couples-non-maries",
+  "titre": "Adoption ouverte aux couples non mariés",
+  "question": "Faut-il ouvrir l'adoption aux couples pacsés et en concubinage, et plus seulement aux couples mariés ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi de Monique Limon (LaREM) réforme l'adoption : son article 2 ouvre l'adoption aux couples pacsés et concubins, alors qu'elle était réservée aux couples mariés et aux personnes seules ; elle abaisse aussi l'âge minimal et la durée de vie commune exigés, renforce le statut de pupille de l'État et interdit aux organismes autorisés pour l'adoption (OAA) de recueillir des enfants en France. Un article 9 bis permet en outre d'établir la filiation de la mère d'intention pour des enfants nés d'une PMA à l'étranger. Le Sénat et l'Assemblée n'ayant pas trouvé d'accord, l'Assemblée a tranché en lecture définitive le 8 février 2022 (96 pour, 15 contre). Le texte est devenu la loi n° 2022-219 du 21 février 2022.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif « Réforme de l'adoption »",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/reforme_de_l_adoption"
+    },
+    {
+      "titre": "Sénat – dossier législatif ppl20-188",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl20-188.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 8 février 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mardi-08-fevrier-2022"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/reforme_de_l_adoption",
+  "argumentsPour": [
+    {
+      "auteur": "Danièle Obono (La France insoumise)",
+      "resume": "Rien ne justifie de réserver l'adoption en couple aux couples mariés ; seuls la stabilité et l'aptitude à élever un enfant devraient compter.",
+      "citation": "Aucune raison valable ne peut en effet justifier que l’adoption soit ouverte aux couples mariés et aux personnes seules mais non aux personnes pacsées ou en concubinage.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mardi-08-fevrier-2022",
+      "date": "2022-02-08"
+    },
+    {
+      "auteur": "Coralie Dubost (LaREM)",
+      "resume": "Le droit doit reconnaître la diversité des familles, sans modèle unique.",
+      "citation": "Les familles sont de plus en plus diverses, c’est notre réalité sociale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mardi-08-fevrier-2022",
+      "date": "2022-02-08"
+    },
+    {
+      "auteur": "Élodie Jacquier-Laforge (MoDem)",
+      "resume": "Le texte tient compte de l'évolution des familles tout en renforçant la protection des enfants.",
+      "citation": "Elle prend aussi en considération l’évolution de la société, notamment des familles, dont la forme change, tout en renforçant ce qui nous tient tous à cœur, à savoir la protection des enfants.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mardi-08-fevrier-2022",
+      "date": "2022-02-08"
+    },
+    {
+      "auteur": "Monique Limon (LaREM, rapporteure)",
+      "resume": "L'intérêt de l'enfant guide la réforme : donner une famille à un enfant, et non l'inverse.",
+      "citation": "D’ailleurs, deux principes m’ont guidée tout au long de ce processus : l’intérêt de l’enfant ainsi que la volonté de donner une famille à un enfant, et non l’inverse.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mardi-08-fevrier-2022",
+      "date": "2022-02-08"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Nathalie Bassire (Les Républicains)",
+      "resume": "Le Sénat avait rendu le texte plus sûr juridiquement ; elle critique aussi l'exclusion des OAA de l'adoption nationale.",
+      "citation": "Le Sénat avait procédé à des modifications substantielles afin de le rendre plus pertinent sur le plan juridique et plus conforme au but qui doit nous animer, à savoir sécuriser la situation de l’enfant.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mardi-08-fevrier-2022",
+      "date": "2022-02-08"
+    },
+    {
+      "auteur": "Nathalie Bassire (Les Républicains)",
+      "resume": "Autoriser une demande d'adoption dès le début de la vie de couple serait contraire à l'intérêt de l'enfant.",
+      "citation": "Dès lors, il paraît contraire à l’intérêt supérieur de l’enfant de permettre la demande d’adoption au moment où le couple en est encore à ses débuts.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mardi-08-fevrier-2022",
+      "date": "2022-02-08"
+    },
+    {
+      "auteur": "Emmanuelle Ménard (non-inscrite)",
+      "resume": "L'article 9 bis poursuivrait un autre but que l'intérêt de l'enfant en réglant des litiges entre adultes.",
+      "citation": "Cette disposition poursuit un autre but que l’intérêt supérieur de l’enfant en visant à régler des litiges entre adultes et à reconnaître un droit sur l’enfant.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mardi-08-fevrier-2022",
+      "date": "2022-02-08"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4383) ; aucune déclaration retrouvée. À titre indicatif, son groupe FI a voté : pour (1p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4383) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR a voté : pour (2p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4383) ; aucune déclaration retrouvée. À titre indicatif, son groupe FI a voté : pour (1p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire à cette date ; aucune déclaration spécifique retrouvée ; aucun groupe écologiste à l'Assemblée ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°4383) ; aucune déclaration retrouvée. Non-inscrite (Génération écologie) : pas de groupe servant de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée, allié de Place publique, a voté pour (5 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a soutenu le texte (secrétaire d'État Adrien Taquet au banc, procédure accélérée engagée) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/premiere-seance-du-mardi-08-fevrier-2022",
+      "date": "2022-02-08"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ni de fonction gouvernementale en février 2022 ; aucune déclaration spécifique retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; aucun scrutin public au Sénat sur ce texte n'a été retrouvé (pas de vote nominatif) ni de déclaration. PROXY : le groupe LR de l'Assemblée a voté contre (3 pour / 14 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (3 pour / 14 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (3 pour / 14 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°4383) ; aucune déclaration retrouvée. Les non-inscrits ont voté de façon dispersée (3 pour / 1 contre / 2 abst.) : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée ; Reconquête n'avait pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4383) ; aucune déclaration retrouvée. Non-inscrit : pas de groupe servant de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4383",
+      "date": "2022-02-08"
+    }
+  },
+  "alertes": [
+    "Scrutin à faible participation (115 votants) : les six candidats députés n'ont pas pris part au vote ; aucune déclaration publique retrouvée pour eux.",
+    "Le texte voté couvre bien plus que l'ouverture aux couples non mariés : âge et durée de vie commune abaissés, statut des pupilles, rôle des OAA, et article 9 bis sur la filiation de la mère d'intention après une PMA à l'étranger, qui a concentré une partie de l'opposition.",
+    "Retailleau : aucun scrutin public au Sénat sur ce texte n'a été trouvé (la page des scrutins du dossier ppl20-188 n'existe pas) ; position non attribuable.",
+    "Attal : position déduite de son appartenance au gouvernement qui soutenait le texte, sans déclaration personnelle."
+  ]
+}

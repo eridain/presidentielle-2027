@@ -1,0 +1,18 @@
+{
+  "id": "regulation-installation-medecins",
+  "questionSimple": "Faut-il obliger les nouveaux médecins à demander une autorisation pour s'installer, pour lutter contre les déserts médicaux ?",
+  "enBref": "Cette loi oblige les nouveaux médecins à demander une autorisation avant de s'installer. Dans les zones qui manquent de médecins, elle est accordée automatiquement. Ailleurs, il faut qu'un médecin parte pour qu'un autre puisse s'installer.",
+  "pourquoiPour": "Ceux qui ont voté pour veulent mieux répartir les médecins entre les territoires. Ils notent que d'autres soignants, comme les infirmiers, sont déjà régulés.",
+  "pourquoiContre": "Ceux qui ont voté contre pensent que la France manque surtout de médecins. Selon eux, la contrainte découragerait les jeunes médecins et ne réglerait rien.",
+  "ceQuiSestPasse": "Adopté à l'Assemblée le 7 mai 2025 (99 pour, 9 contre) ; au Sénat, la régulation a été retirée en commission et l'examen n'est pas terminé.",
+  "lexique": [
+    {
+      "terme": "Désert médical",
+      "definition": "Territoire où il est très difficile de trouver un médecin."
+    },
+    {
+      "terme": "ARS",
+      "definition": "Agence régionale de santé : service de l'État qui organise les soins dans chaque région."
+    }
+  ]
+}

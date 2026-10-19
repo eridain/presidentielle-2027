@@ -1,0 +1,253 @@
+{
+  "id": "suspension-retraites",
+  "titre": "Suspension de la réforme des retraites de 2023",
+  "question": "Faut-il suspendre jusqu'au 1er janvier 2028 le relèvement de l'âge de départ et de la durée de cotisation prévu par la réforme des retraites de 2023 ?",
+  "ouiSignifie": "pour",
+  "contexte": "Pour obtenir la non-censure du Parti socialiste, le Premier ministre Sébastien Lecornu a annoncé le 14 octobre 2025 la suspension de la réforme des retraites de 2023, puis l'a introduite par lettre rectificative dans le projet de loi de financement de la sécurité sociale pour 2026 (article 45 bis). L'article gèle jusqu'au 1er janvier 2028 l'âge légal à 62 ans et 9 mois et la durée de cotisation à 170 trimestres. Ses opposants de gauche le jugent limité à un « décalage » de quelques mois, tandis que ses opposants de droite et du centre jugent la mesure contraire à l'équilibre financier du système. Adopté par l'Assemblée le 12 novembre 2025 (255 pour, 146 contre, 104 abstentions) puis supprimé par le Sénat le 25 novembre, l'article a été rétabli en nouvelle lecture. La loi n° 2025-1403 du 30 décembre 2025 a été promulguée après la décision 2025-899 DC du Conseil constitutionnel.",
+  "contexteSources": [
+    {
+      "titre": "Analyse du scrutin n°3684 – Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3684"
+    },
+    {
+      "titre": "Compte rendu de la séance du 12 novembre 2025 (article 45 bis) – Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046"
+    },
+    {
+      "titre": "Scrutin n°59 du Sénat (25 novembre 2025) – suppression de l'article 45 bis",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-59.html"
+    },
+    {
+      "titre": "Dossier législatif PLFSS 2026 – Sénat (loi n° 2025-1403, décision 2025-899 DC)",
+      "url": "https://www.senat.fr/dossier-legislatif/plfss2026.html"
+    },
+    {
+      "titre": "Suspension de la réforme des retraites : qui est concerné ? – Service-Public.fr",
+      "url": "https://www.service-public.gouv.fr/particuliers/actualites/A18825"
+    },
+    {
+      "titre": "Sans surprise, les députés adoptent à une large majorité la suspension de la réforme des retraites – BFM Business (5 décembre 2025)",
+      "url": "https://www.bfmtv.com/economie/economie-social/sans-surprise-les-deputes-adoptent-a-une-large-majorite-la-suspension-de-la-reforme-des-retraites-mais-on-ne-sait-pas-encore-comment-elle-sera-financee_AV-202512051006.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3684",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/plfss2026.html",
+  "argumentsPour": [
+    {
+      "auteur": "Marine Le Pen (Rassemblement national)",
+      "resume": "Le RN, opposé à la réforme Borne qu'il juge injuste et passée par le 49.3, vote la suspension en attendant son abrogation.",
+      "citation": "en attendant son abrogation, nous allons voter pour suspendre la réforme Borne –⁠ injuste socialement et inefficace économiquement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Océane Godard (Socialistes)",
+      "resume": "La suspension permet à 3,5 millions de personnes de partir trois mois plus tôt et rouvre le débat sur le financement des retraites.",
+      "citation": "Suspendre la réforme des retraites (« Décaler ! » sur les bancs du groupe LFI-NFP) , c’est permettre à 3,5 millions de femmes et d’hommes de partir en retraite trois mois plus tôt.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Stéphane Viry (LIOT)",
+      "resume": "La suspension doit permettre de remettre à plat le système de retraites et de doter la France d'un budget.",
+      "citation": "La suspension de la réforme est donc une occasion de remettre l’ouvrage sur le métier. Elle donne aussi les moyens de donner un budget à la France",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Sandrine Rousseau (Écologiste et social)",
+      "resume": "La fixation d'un âge de départ est injuste ; la majorité du groupe vote la suspension tout en s'interrogeant sur son financement.",
+      "citation": "la majorité de mon groupe a décidé de voter en faveur de sa suspension et de son décalage.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Laurent Wauquiez (Droite républicaine)",
+      "resume": "La suspension serait illusoire dans un pays endetté et devrait être financée par une baisse des pensions ou une hausse des prélèvements.",
+      "citation": "dans un pays ruiné, suspendre la réforme des retraites est illusoire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Paul Christophe (Horizons)",
+      "resume": "Le déséquilibre démographique impose la réforme ; la suspendre reporte la charge sur les actifs, les retraités ou la dette.",
+      "citation": "Oui, madame Le Pen, nous sommes contre la suspension de la réforme et nous assumons cette position. La question reste bien entière : qui va payer ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Mathilde Panot (La France insoumise)",
+      "resume": "Il s'agit d'un simple décalage d'un an du calendrier qui valide la retraite à 64 ans ; LFI demande l'abrogation.",
+      "citation": "Voter pour le décalage de la réforme des retraites, c’est voter pour la retraite à 64 ans.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Stéphane Peu (GDR)",
+      "resume": "La lettre rectificative ne prévoit qu'un décalage de trois mois, financé par les assurés, qui entérine la retraite à 64 ans.",
+      "citation": "nous ne voterons pas un décalage de trois mois qui, par ailleurs, revient à entériner la retraite à 64 ans.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Gabriel Attal (Ensemble pour la République)",
+      "resume": "Le groupe, qui a défendu la réforme, s'abstient pour ne pas faire obstacle au compromis avec les socialistes et permettre l'adoption d'un budget.",
+      "citation": "nous ne voulons pas nous mettre en travers du compromis trouvé par le premier ministre avec le groupe socialiste",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Marc Fesneau (Démocrates)",
+      "resume": "Le groupe s'abstient très majoritairement pour ne pas bloquer le compromis, mais reste dubitatif sur une suspension sans solution de financement.",
+      "citation": "Le groupe Démocrates s’abstiendra très majoritairement sur le vote de l’article 45 bis visant à suspendre la réforme des retraites.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Sans mandat parlementaire ; message sur X du 14 octobre 2025, rapporté par franceinfo, critiquant la portée limitée de la suspension sans se prononcer explicitement sur le vote. PROXY : le groupe LFI-NFP a voté contre (0 pour, 60 contre).",
+      "argument": "La suspension est limitée dans le temps et la réforme reprendra ensuite ; seule la génération 1964 gagnerait trois mois, contre neuf avec l'abrogation.",
+      "citation": "Et maintenant tout le monde va faire semblant de ne pas avoir entendu que la suspension de la réforme a une limite fixée. Ensuite elle reprend son cours.",
+      "url": "https://franceinfo.fr/politique/parlement-francais/assemblee-nationale/motion-de-censure-maintenue-a-gauche-soutien-de-la-droite-incertitude-du-ps-les-reactions-politiques-a-la-declaration-de-politique-generale-de-sebastien-lecornu_7552132.html",
+      "date": "2025-10-14"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Plus député depuis 2024 ; message sur X du 14 octobre 2025, rapporté par franceinfo, saluant l'annonce de la suspension.",
+      "argument": "Il y voit une première victoire pour les salariés concernés, fruit des mobilisations, et demande de poursuivre jusqu'à l'abrogation.",
+      "citation": "La suspension de la réforme des retraites à 62 ans, 9 mois, 170 trimestres est une première victoire pour les 500 000 salariés qui en profiteront dès cette année",
+      "url": "https://franceinfo.fr/politique/parlement-francais/assemblee-nationale/motion-de-censure-maintenue-a-gauche-soutien-de-la-droite-incertitude-du-ps-les-reactions-politiques-a-la-declaration-de-politique-generale-de-sebastien-lecornu_7552132.html",
+      "date": "2025-10-14"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3684) ; intervention en séance le 12 novembre 2025 contre les amendements de suppression de l'article.",
+      "argument": "La mesure gèle l'âge à 62 ans et 9 mois jusqu'en 2028 ; il prend ce gain partiel sans renoncer à l'abrogation.",
+      "citation": "vous gelez, jusqu’au 1 er janvier 2028, à 62 ans et 9 mois l’âge du départ à la retraite, à 170 le nombre des trimestres de cotisation nécessaires",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    "tondelier": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Sans mandat parlementaire ; selon Public Sénat (14 octobre 2025), elle « se réjouit » de la suspension annoncée tout en soutenant la censure du gouvernement.",
+      "argument": "Elle salue la suspension mais critique le reste de la politique gouvernementale (année blanche sur les prestations, justice fiscale).",
+      "citation": null,
+      "url": "https://www.publicsenat.fr/actualites/politique/declaration-de-politique-generale-de-sebastien-lecornu-les-reactions-politiques",
+      "date": "2025-10-14"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3684) ; aucune déclaration personnelle retrouvée : argument = explication du groupe Écologiste et social (Sandrine Rousseau).",
+      "argument": "Fixer un âge de départ est injuste ; la majorité du groupe vote la suspension tout en demandant comment elle sera financée.",
+      "citation": "la majorité de mon groupe a décidé de voter en faveur de sa suspension et de son décalage.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes et apparentés, auquel sont rattachés les députés Place publique, a voté pour (67 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3684",
+      "date": "2025-11-12"
+    },
+    "attal": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif abstention (scrutin n°3684) ; il s'est exprimé en séance comme président du groupe EPR.",
+      "argument": "Le groupe a défendu la réforme mais ne veut pas bloquer le compromis entre le gouvernement et les socialistes, sans lequel il n'y aurait ni gouvernement ni budget.",
+      "citation": "Nous sommes lucides sur le fait que cette suspension ne sera pas une bonne nouvelle pour l’économie française et pour le budget de la France.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    "philippe": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Maire du Havre, sans mandat parlementaire ; franceinfo (14 octobre 2025) indique qu'il est « opposé à cette suspension » ; le groupe Horizons a voté contre (0 pour, 29 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://franceinfo.fr/politique/parlement-francais/assemblee-nationale/motion-de-censure-maintenue-a-gauche-soutien-de-la-droite-incertitude-du-ps-les-reactions-politiques-a-la-declaration-de-politique-generale-de-sebastien-lecornu_7552132.html",
+      "date": "2025-10-14"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Vote nominatif au Sénat pour les amendements de suppression de l'article 45 bis (scrutin n°59 du 25 novembre 2025, https://www.senat.fr/scrutin-public/2025/scr2025-59.html), donc contre la suspension ; intervention en séance le même jour.",
+      "argument": "La suspension, concession faite à la gauche, aggraverait les déficits, fragiliserait la répartition et ignorerait le besoin de travailler davantage.",
+      "citation": "il est clair que la suspension de la réforme des retraites est le tribut payé par le Gouvernement à la gauche pour durer.",
+      "url": "https://www.senat.fr/seances/s202511/s20251125/s20251125_mono.html",
+      "date": "2025-11-25"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Président de région, sans vote ; sur France Inter (23 octobre 2025), il critique le financement de la suspension sans se prononcer sur son principe et rappelle qu'il n'aurait pas voté la réforme Borne.",
+      "argument": "La suspension serait financée par les retraités (gel et minoration des pensions) ; il prône une nouvelle réforme pour 2027.",
+      "citation": "Maintenant, on a la suspension de la réforme des retraites qui va être payée par les retraités.",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-8h20-le-grand-entretien/l-invite-de-8h20-le-grand-entretien-du-jeudi-23-octobre-2025-9604598",
+      "date": "2025-10-23"
+    },
+    "lisnard": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Maire de Cannes, sans vote ; le site de son parti, Nouvelle Énergie, indique qu'il refuse de revenir sur la réforme de 2023, y compris lorsque la suspension était en débat (page mise à jour le 16 octobre 2026).",
+      "argument": "Il refuse de défaire la réforme de 2023, qu'il juge par ailleurs insuffisante, et défend une capitalisation obligatoire et collective.",
+      "citation": null,
+      "url": "https://www.unenouvelleenergie.fr/questions/quel-age-de-depart-a-la-retraite-david-lisnard-defend-il/",
+      "date": "2026-10-16"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3684) ; explication de vote au nom du groupe RN en séance.",
+      "argument": "Le RN, opposé à la réforme Borne, vote la suspension en attendant l'abrogation et reproche aux autres groupes leur incohérence.",
+      "citation": "en attendant son abrogation, nous allons voter pour suspendre la réforme Borne –⁠ injuste socialement et inefficace économiquement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national ; aucune déclaration retrouvée. Reconquête n'a pas de groupe à l'Assemblée, donc pas de proxy (le groupe UDR, allié du RN et sans lien avec Reconquête, a voté contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Plus député depuis 2024 ; invité du Grand Rendez-vous Europe 1/CNews/Les Echos le 12 octobre 2025, il se félicite d'une possible suspension.",
+      "argument": "Selon lui, la réforme est devenue un totem et la priorité doit aller à la réindustrialisation et à l'emploi.",
+      "citation": "Je n'ai jamais compris le psychodrame sur la réforme des retraites.",
+      "url": "https://www.europe1.fr/politique/la-suspension-de-la-reforme-des-retraites-nest-pas-un-drame-juge-nicolas-dupont-aignan-777428",
+      "date": "2025-10-12"
+    }
+  },
+  "alertes": [
+    "Vérifié : l'article 45 bis du PLFSS 2026 est bien celui de la suspension de la réforme de 2023. Le compte rendu (« l’article 45 bis visant à suspendre la réforme des retraites ») et Public Sénat (« l’article 45 bis du projet de loi de financement de la Sécurité sociale, qui porte la suspension ») le confirment.",
+    "Question corrigée : la suspension court jusqu'au 1er janvier 2028 selon le ministre Farandou et Service-Public, et non « jusqu'à l'élection présidentielle ». LFI et GDR contestent le terme et parlent de « décalage » de trois mois.",
+    "tasks.json classe le groupe EcoS en « abstention » alors que la ventilation est de 30 pour, 0 contre, 4 abstentions, soit une majorité pour (confirmé par Sandrine Rousseau en séance).",
+    "Roussel : sa déclaration favorable (14 octobre 2025) diverge du vote majoritairement contre du groupe GDR (1 pour, 11 contre) ; message sur X rapporté par franceinfo, original non consulté.",
+    "Mélenchon : son message critique la portée limitée de la mesure sans dire s'il y est favorable ou opposé ; position laissée « inconnu » (proxy LFI : contre).",
+    "Tondelier : position tirée d'une paraphrase de Public Sénat (« se [réjouit] ») ; pas de citation verbatim exploitable.",
+    "Philippe : position rapportée par franceinfo, sans citation directe retrouvée. Lisnard : source = site de son parti (page de synthèse mise à jour le 16 octobre 2026), sans citation datée sur la suspension elle-même.",
+    "Bertrand : critique du financement, sans position explicite sur le principe ; laissé « inconnu ».",
+    "Dupont-Aignan : article Europe 1 lu via le lecteur r.jina.ai, la page bloquant l'accès direct (403) ; déclaration antérieure à l'annonce officielle (12 octobre 2025).",
+    "Retailleau : redevenu sénateur en novembre 2025 après son départ du gouvernement ; son vote porte sur la suppression de l'article au Sénat (pour la suppression = contre la suspension).",
+    "Glucksmann, Zemmour : aucune déclaration retrouvée.",
+    "Légifrance et le site du Conseil constitutionnel étaient inaccessibles (403 / délai dépassé) : promulgation et décision 2025-899 DC sourcées via le dossier du Sénat. Le contenu exact de la décision sur l'article 45 bis n'a pas été vérifié ; Service-Public confirme que la suspension figure dans la LFSS 2026."
+  ]
+}

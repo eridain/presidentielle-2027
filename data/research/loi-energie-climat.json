@@ -1,0 +1,213 @@
+{
+  "id": "loi-energie-climat",
+  "titre": "Loi énergie-climat (charbon, nucléaire, 2019)",
+  "question": "Faut-il fermer les dernières centrales à charbon et repousser de 2025 à 2035 l'objectif de réduire à 50 % la part du nucléaire (loi énergie-climat, 2019) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi relatif à l'énergie et au climat inscrit l'objectif de neutralité carbone en 2050 et l'« urgence écologique et climatique », porte à 40 % d'ici 2030 la baisse de la consommation d'énergies fossiles, prévoit l'arrêt de la production d'électricité au charbon d'ici 2022 et repousse de 2025 à 2035 l'objectif de ramener à 50 % la part du nucléaire dans l'électricité. Il crée le Haut Conseil pour le climat, organise la rénovation des « passoires thermiques » et relève le plafond de l'ARENH (électricité nucléaire vendue à prix régulé aux concurrents d'EDF). L'Assemblée a adopté le texte de la commission mixte paritaire le 11 septembre 2019 (95 pour, 16 contre, 17 abstentions). Le Conseil constitutionnel l'a jugé conforme avec réserve (décision 2019-791 DC) ; loi n° 2019-1147 du 8 novembre 2019.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 8 novembre 2019 relative à l'énergie et au climat",
+      "url": "https://www.vie-publique.fr/loi/23814-loi-energie-et-climat-du-8-novembre-2019"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif Énergie et climat",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/energie_climat"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2065",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/energie_climat",
+  "argumentsPour": [
+    {
+      "auteur": "Anthony Cellier (LaREM, rapporteur)",
+      "resume": "Le texte renforce les ambitions climatiques (fossiles -40 %, charbon fermé en 2022) ; le report à 2035 de l'objectif nucléaire est présenté comme un choix réaliste.",
+      "citation": "c’est pourquoi nous décalons de 2025 à 2035 la date à laquelle le nucléaire atteindra la part de 50 % dans la production d’électricité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E2N003",
+      "date": "2019-09-11"
+    },
+    {
+      "auteur": "Huguette Tiegna (La République en marche)",
+      "resume": "Neutralité carbone en 2050, baisse des fossiles, 50 % de nucléaire en 2035 et fermeture du charbon en 2022 forment une trajectoire cohérente.",
+      "citation": "Ce texte illustre notre volonté et, en même temps, notre pragmatisme sur les questions énergétiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E2N003",
+      "date": "2019-09-11"
+    },
+    {
+      "auteur": "Nicolas Turquois (MoDem)",
+      "resume": "En fixant des trajectoires (fossiles, charbon), le texte est présenté comme la meilleure réponse possible à l'urgence climatique.",
+      "citation": "Ce projet de loi, en définissant des trajectoires, est, vu la situation, la meilleure réponse que nous pouvons apporter.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E2N003",
+      "date": "2019-09-11"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Éric Coquerel (La France insoumise)",
+      "resume": "Le report de dix ans de l'objectif de réduction du nucléaire et l'absence de politique d'envergure pour les renouvelables prolongeraient l'inaction climatique.",
+      "citation": "Vous reportez ainsi sans honte de dix ans les objectifs que vous aviez vous-même fixés en matière de réduction de la part de nucléaire dans la production d’électricité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E2N003",
+      "date": "2019-09-11"
+    },
+    {
+      "auteur": "Jean-Marie Sermier (Les Républicains)",
+      "resume": "LR soutient le nucléaire mais vote contre en raison du relèvement du plafond de l'ARENH et juge le texte en deçà de l'urgence climatique.",
+      "citation": "Je regrette que le relèvement du plafond de l’ARENH – Accès régulé à l’énergie nucléaire historique – ait conduit les représentants de notre groupe à voter contre le texte de la CMP.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E2N003",
+      "date": "2019-09-11"
+    },
+    {
+      "auteur": "Hubert Wulfranc (Gauche démocrate et républicaine)",
+      "resume": "Le groupe dénonce la négociation en cours à Bruxelles sur la séparation des activités d'EDF, qui menacerait les prix de l'électricité.",
+      "citation": "En effet, en ce moment même, on discute, à Bruxelles, de la désarticulation totale du groupe EDF, instrument majeur de la politique énergétique de notre pays depuis des décennies.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E2N003",
+      "date": "2019-09-11"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Marie-Noëlle Battistel (Socialistes)",
+      "resume": "Le texte s'est enrichi mais reste insuffisant (pas d'objectifs intermédiaires, relèvement hâtif de l'ARENH) ; le groupe s'abstient comme en première lecture.",
+      "citation": "Certaines dispositions sont incomplètes, comme le relèvement hâtif du plafond de l’ARENH sans actualisation du prix.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E2N003",
+      "date": "2019-09-11"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2065) ; aucune déclaration retrouvée. À titre indicatif, le groupe La France insoumise a voté contre (0-5).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+      "date": "2019-09-11"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2065) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR a voté contre (0-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+      "date": "2019-09-11"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote contre à l'Assemblée nationale (scrutin n°2065 du 11 septembre 2019) ; pas d'intervention personnelle retrouvée, argument = explication de vote du groupe La France insoumise (Éric Coquerel).",
+      "argument": "Le groupe juge que le report à 2035 de la baisse du nucléaire et l'absence de politique massive pour les renouvelables retardent la réponse à l'urgence climatique.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019E2N003",
+      "date": "2019-09-11"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en 2019 ; aucune déclaration spécifique retrouvée ; aucun groupe EELV à l'Assemblée ne peut servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+      "date": "2019-09-11"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2065) ; aucune déclaration spécifique retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+      "date": "2019-09-11"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée s'est abstenu (0-0-10).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+      "date": "2019-09-11"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du ministre de l'Éducation nationale dans le gouvernement Philippe, qui a porté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/energie_climat",
+      "date": "2019-09-11"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a déposé et fait adopter le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/energie_climat",
+      "date": "2019-09-11"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote pour l'ensemble du projet de loi en première lecture au Sénat (scrutin n°170 du 18 juillet 2019) ; pas de scrutin public retrouvé sur le texte de la CMP au Sénat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2018/scr2018-170.html",
+      "date": "2019-07-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0-10-3).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+      "date": "2019-09-11"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration spécifique retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (0-10-3).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+      "date": "2019-09-11"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2065) ; aucune déclaration retrouvée. À titre indicatif, le seul non-inscrit votant a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+      "date": "2019-09-11"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2019 ; aucune déclaration retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+      "date": "2019-09-11"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°2065) ; aucune déclaration retrouvée. À titre indicatif, le seul non-inscrit votant a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2065",
+      "date": "2019-09-11"
+    }
+  },
+  "alertes": [
+    "Scrutin à très faible participation (128 votants) : Mélenchon, Roussel, Batho, Le Pen et Dupont-Aignan n'y ont pas pris part ; aucune déclaration spécifique retrouvée, positions laissées « inconnu ».",
+    "Le texte comporte de nombreux autres volets (neutralité carbone 2050, passoires thermiques, Haut Conseil pour le climat, ARENH) ; la question se concentre sur le charbon et le nucléaire.",
+    "Le groupe LR a voté contre principalement en raison du relèvement du plafond de l'ARENH, tout en soutenant le nucléaire : un vote « contre » ne signifie pas une opposition à la fermeture du charbon.",
+    "Retailleau : seul le vote de première lecture au Sénat (texte du Sénat) a été retrouvé ; pas de scrutin public sur le texte de la CMP au Sénat.",
+    "Ruffin : argument = explication du groupe LFI, sans citation personnelle."
+  ]
+}

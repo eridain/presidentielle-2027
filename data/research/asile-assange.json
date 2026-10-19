@@ -1,0 +1,224 @@
+{
+  "id": "asile-assange",
+  "titre": "Accorder l'asile politique à Julian Assange",
+  "question": "Faut-il accorder l'asile politique en France à Julian Assange ?",
+  "ouiSignifie": "pour",
+  "contexte": "Julian Assange, fondateur australien de WikiLeaks, a notamment révélé des crimes de guerre américains en Irak et en Afghanistan, ainsi que l'espionnage de présidents français par la NSA. Réfugié sept ans à l'ambassade d'Équateur à Londres, il était détenu depuis avril 2019 à la prison de Belmarsh. Les États-Unis demandaient son extradition, avec à la clé jusqu'à 175 ans de prison. La France avait rejeté une première demande d'asile informelle en 2015. Une proposition de résolution transpartisane (Jennifer De Temmerman, Jean Lassalle, Cédric Villani, François Ruffin), cosignée par 60 députés, invitait le gouvernement à lui accorder l'asile et à faciliter l'accès au statut de réfugié pour les lanceurs d'alerte étrangers. Le gouvernement s'y est opposé : seul l'OFPRA instruit les demandes d'asile, et Assange relevait de la justice britannique, celle d'un État de droit allié. La résolution a été rejetée le 4 février 2022 (17 voix contre 31). Assange a été libéré en juin 2024 après un accord de plaider-coupable avec la justice américaine.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 3e séance du 4 février 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N149"
+    },
+    {
+      "titre": "Assemblée nationale – proposition de résolution n° 4867 (auteurs et cosignataires)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b4867_proposition-resolution"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/asile_politique_assange_lanceurs_alerte"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°4381",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4381"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4381",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/asile_politique_assange_lanceurs_alerte",
+  "argumentsPour": [
+    {
+      "auteur": "Jennifer De Temmerman (Libertés et territoires, autrice)",
+      "resume": "Assange subit depuis dix ans un acharnement politico-judiciaire pour avoir fait son travail de journaliste ; la France, pays des droits de l'homme, ne peut rester silencieuse.",
+      "citation": "Depuis dix ans, Julian Assange subit un acharnement politico-judiciaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N149",
+      "date": "2022-02-04"
+    },
+    {
+      "auteur": "François Ruffin (La France insoumise)",
+      "resume": "Accueillir Assange, c'est défendre la liberté de la presse et remercier celui qui a révélé l'espionnage de la France par les États-Unis.",
+      "citation": "nous devons l’accueillir pour nous, ne serait-ce que par orgueil, pour services rendus à notre nation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N149",
+      "date": "2022-02-04"
+    },
+    {
+      "auteur": "Stéphane Peu (Gauche démocrate et républicaine)",
+      "resume": "Les lanceurs d'alerte sont essentiels à la démocratie et doivent être protégés.",
+      "citation": "Le contrôle qu’ils exercent est précieux pour nos démocraties, car porté par une exigence d’éthique et de probité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N149",
+      "date": "2022-02-04"
+    },
+    {
+      "auteur": "Claudia Rouaux (Socialistes)",
+      "resume": "Il faut protéger Assange, qui a révélé l'espionnage de l'Élysée, et tous les lanceurs d'alerte poursuivis.",
+      "citation": "Il s’agit de défendre les libertés et la démocratie, il s’agit de renouer avec une tradition chère à la France, celle d’être le pays des droits de l’homme.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N149",
+      "date": "2022-02-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Franck Riester (ministre délégué, gouvernement)",
+      "resume": "Assange relève de la justice britannique et une éventuelle demande d'asile relèverait de l'OFPRA ; le gouvernement est défavorable au texte.",
+      "citation": "…que le Gouvernement soit défavorable à la proposition de résolution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N149",
+      "date": "2022-02-04"
+    },
+    {
+      "auteur": "Nicolas Turquois (MoDem)",
+      "resume": "Assange est jugé dans un État de droit allié ; voter le texte serait une ingérence dans les affaires judiciaires de nos voisins.",
+      "citation": "La France n’a pas vocation à interférer dans les décisions juridiques souveraines de ses alliés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N149",
+      "date": "2022-02-04"
+    },
+    {
+      "auteur": "Jean François Mbaye (La République en marche)",
+      "resume": "Mieux vaut avancer collectivement sur la protection de tous les lanceurs d'alerte ; LaREM demande le retrait du texte et votera contre sinon.",
+      "citation": "Le cas échéant, nous serions donc amenés à la rejeter.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N149",
+      "date": "2022-02-04"
+    },
+    {
+      "auteur": "Patricia Lemoine (Agir ensemble)",
+      "resume": "Tout en jugeant sa situation inacceptable, une large majorité d'Agir ensemble refuse le texte pour des raisons de droit interne et international : l'asile protège contre la persécution d'un État d'origine.",
+      "citation": "personne ne peut rester insensible à la situation de Julien Assange qui, rappelons-le, encourt une peine d’emprisonnement de 175 ans pour avoir commis le crime d’être lanceur d’alerte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N149",
+      "date": "2022-02-04"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°4381 du 4 février 2022) ; coauteur de la proposition de résolution et orateur dans la discussion.",
+      "argument": "Accueillir Assange, c'est défendre la liberté de la presse et faire preuve d'indépendance face aux États-Unis, par « orgueil » national.",
+      "citation": "Nous devons l’accueillir pour la France, pour notre pays, en choisissant le chemin de la fierté plutôt que celui de la honte, en choisissant la liberté plutôt que la servilité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N149",
+      "date": "2022-02-04"
+    },
+    "melenchon": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4381) ; cosignataire de la proposition de résolution n° 4867.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b4867_proposition-resolution",
+      "date": "2022-01-05"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4381) ; cosignataire de la proposition de résolution ; il avait réclamé l'asile pour Assange sur France 3 (23 février 2020).",
+      "argument": "Assange a dénoncé des pratiques horribles de l'armée américaine et doit être placé sous protection internationale.",
+      "citation": "Il doit être placé sous protection internationale et la France doit pouvoir lui accorder l’asile politique",
+      "url": "https://www.huffingtonpost.fr/politique/article/assange-des-politiques-appellent-macron-a-accorder-l-asile-politique_159932.html",
+      "date": "2020-02-23"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°4381) ; elle avait réclamé à plusieurs reprises que la France accorde l'asile à Assange (blog, 1er juin 2016, rapporté par BFMTV/AFP).",
+      "argument": "Elle salue ses analyses sur la « soumission » de la France à l'UE et aux États-Unis et reproche à François Hollande d'avoir refusé l'asile.",
+      "citation": "On comprend pourquoi François Hollande, mis en cause comme son prédécesseur, a refusé l'asile politique à Julian Assange",
+      "url": "https://www.bfmtv.com/politique/marine-le-pen-redemande-que-la-france-donne-l-asile-a-julian-assange_AN-201606010053.html",
+      "date": "2016-06-01"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Eurodéputé : invité de BFMTV/RMC le 25 février 2020, il a estimé que la France devrait accueillir Julian Assange (vidéo).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.bfmtv.com/politique/gouvernement/raphael-glucksmann-pense-que-la-france-devrait-accueillir-julian-assange_VN-202002250191.html",
+      "date": "2020-02-25"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui s'est déclaré défavorable à la résolution (Franck Riester) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N149",
+      "date": "2022-02-04"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée non inscrite (Génération écologie), n'a pas pris part au vote (scrutin n°4381) ; aucune déclaration retrouvée ; elle ne figure pas parmi les cosignataires.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4381",
+      "date": "2022-02-04"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non inscrit, n'a pas pris part au vote (scrutin n°4381) ; aucune déclaration vérifiable retrouvée ; il ne figure pas parmi les cosignataires.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4381",
+      "date": "2022-02-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. Les écologistes n'avaient pas de groupe à l'Assemblée sous cette législature.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4381",
+      "date": "2022-02-04"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire (maire du Havre) ; aucune déclaration retrouvée. Horizons n'avait pas de groupe ; le groupe proche Agir ensemble a surtout voté contre (1-2).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4381",
+      "date": "2022-02-04"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur LR ; aucune déclaration retrouvée. PROXY : aucun député du groupe LR n'a pris part au vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4381",
+      "date": "2022-02-04"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : aucun député du groupe LR n'a pris part au vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4381",
+      "date": "2022-02-04"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : aucun député du groupe LR n'a pris part au vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4381",
+      "date": "2022-02-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ; aucune déclaration retrouvée sur l'asile d'Assange.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4381",
+      "date": "2022-02-04"
+    }
+  },
+  "alertes": [
+    "Le vote porte sur une proposition de résolution (art. 34-1), sans effet juridique : seul l'OFPRA peut accorder l'asile.",
+    "Scrutin à très faible participation (50 votants, un vendredi soir) : Mélenchon, Roussel, Le Pen, Batho et Dupont-Aignan étaient absents.",
+    "Mélenchon : position établie par sa cosignature du texte (déposé le 5 janvier 2022) ; pas de citation.",
+    "Le Pen : déclaration de 2016, rapportée par BFMTV/AFP, antérieure de six ans au vote.",
+    "Glucksmann : position tirée du chapô d'une vidéo BFMTV, sans citation textuelle vérifiable.",
+    "Question devenue en partie caduque : Assange a été libéré en juin 2024."
+  ]
+}

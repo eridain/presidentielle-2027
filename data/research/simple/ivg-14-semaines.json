@@ -1,0 +1,22 @@
+{
+  "id": "ivg-14-semaines",
+  "questionSimple": "Faut-il permettre l'avortement jusqu'à 14 semaines de grossesse, au lieu de 12 ?",
+  "enBref": "Le texte donne deux semaines de plus aux femmes pour avorter en France. Il permet aussi aux sages-femmes de pratiquer certains avortements à l'hôpital. Il supprime le délai de deux jours de réflexion après l'entretien préalable.",
+  "pourquoiPour": "Pour ses défenseurs, deux semaines de plus évitent à des femmes de partir avorter à l'étranger, ce que toutes ne peuvent pas payer. Le texte rend le droit à l'avortement plus réel partout.",
+  "pourquoiContre": "Pour ses opposants, les avortements tardifs viennent surtout d'une grossesse découverte tard, et deux semaines n'y changent rien. Au-delà de 12 semaines, l'acte médical devient plus lourd.",
+  "ceQuiSestPasse": "Rejeté à chaque fois par le Sénat, le texte a été adopté définitivement par l'Assemblée le 23 février 2022 et promulgué le 2 mars 2022.",
+  "lexique": [
+    {
+      "terme": "IVG",
+      "definition": "Interruption volontaire de grossesse : avortement demandé par la femme enceinte."
+    },
+    {
+      "terme": "Question préalable",
+      "definition": "Vote par lequel le Sénat refuse d'examiner un texte, ce qui revient à le rejeter."
+    },
+    {
+      "terme": "Lecture définitive",
+      "definition": "Dernier vote de l'Assemblée, qui tranche seule quand les deux chambres restent en désaccord."
+    }
+  ]
+}

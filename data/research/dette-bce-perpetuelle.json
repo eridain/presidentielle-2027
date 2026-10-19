@@ -1,0 +1,220 @@
+{
+  "id": "dette-bce-perpetuelle",
+  "titre": "Dette publique perpétuelle rachetée par la BCE",
+  "question": "Faut-il demander à la Banque centrale européenne de racheter la dette publique et de la transformer en dette perpétuelle ?",
+  "ouiSignifie": "pour",
+  "contexte": "Proposition de résolution (article 34-1 de la Constitution, sans portée contraignante) présentée par Jean-Luc Mélenchon et le groupe La France insoumise pendant la crise du covid-19. Elle demandait que la France agisse au niveau européen pour que les titres de dette publique détenus par la Banque centrale européenne soient transformés en dette perpétuelle sans intérêt, ce que son auteur assimile à une annulation. Les opposants ont fait valoir que les traités interdisent le financement monétaire des États et qu'une telle mesure exigerait de les modifier. La résolution a été rejetée le 4 juin 2020 (36 pour, 491 contre, 35 abstentions).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – scrutin n°2752",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2752"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la deuxième séance du 4 juin 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020"
+    },
+    {
+      "titre": "Assemblée nationale – proposition de résolution n°2914",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b2914_proposition-resolution"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2752",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/textes/l15b2914_proposition-resolution",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-Luc Mélenchon (La France insoumise, auteur)",
+      "resume": "Une dette d'une telle ampleur ne sera jamais remboursée ; hors hyperinflation, banqueroute ou guerre, seule l'annulation des titres détenus par la BCE est possible, sans spolier personne.",
+      "citation": "La mesure que je propose ne constitue une spoliation pour personne. Elle ne crée ni inflation ni désordre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    },
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "Les salariés et les précaires risquent de payer la dette comme après 2008 ; la France doit pousser un changement de doctrine monétaire et des statuts de la BCE.",
+      "citation": "la France devrait être à l’initiative d’un changement de doctrine monétaire en Europe et d’une remise à plat des statuts de la BCE.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    },
+    {
+      "auteur": "Nicolas Dupont-Aignan (non-inscrit, Debout la France)",
+      "resume": "Face à la crise, la transformation en dette perpétuelle à taux nul de la dette détenue par la BCE serait la seule sortie de crise raisonnable.",
+      "citation": "Voilà pourquoi ce projet de résolution a le mérite de proposer la seule – je dis bien la seule – voie raisonnable et intelligente de sortie de crise.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Christophe Jerretie (LaREM)",
+      "resume": "Les traités interdisent à la BCE de financer directement les États ; contrairement à l'exposé des motifs, il faudrait modifier les traités.",
+      "citation": "Contrairement aux assertions, fausses, de l’exposé des motifs, une modification du traité serait nécessaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    },
+    {
+      "auteur": "Bruno Duvergé (MODEM)",
+      "resume": "Une dette perpétuelle à taux nul revient à monétiser directement la dette, ce qui accroîtrait la masse monétaire plus vite que l'économie.",
+      "citation": "Sur le fond, je tiens à souligner que l’émission, ainsi que la transformation, de la dette publique en dette perpétuelle à taux nul équivaut à une monétisation directe de celle-ci.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    },
+    {
+      "auteur": "Cédric O (secrétaire d'État, gouvernement)",
+      "resume": "La BCE agit déjà massivement face à la crise, avec 1 350 milliards d'euros de rachats annoncés ; le débat lui paraît anachronique.",
+      "citation": "ce débat, qui agite les bancs de cette assemblée et au-delà, me semble assez anachronique alors qu’au fond, l’Europe et la BCE font ce qu’elles ont à faire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    },
+    {
+      "auteur": "Émilie Cariou (Écologie démocratie solidarité)",
+      "resume": "Attaché à la construction européenne, le groupe privilégie la solidarité dans le budget plutôt que cette résolution.",
+      "citation": "pour être sérieusement solidaires, il nous faudra commencer par être solidaires sérieusement",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Christian Hutin (Socialistes)",
+      "resume": "Il distingue l'oubli de la dette, jugé déraisonnable, de la dette perpétuelle, qu'il juge à titre personnel capable de sauver le pays.",
+      "citation": "Premièrement, vous proposez que, globalement, la dette de la France soit en quelque sorte oubliée, ce qui ne me semble ni raisonnable ni raisonné.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2752) ; auteur de la proposition de résolution, qu'il a présentée en séance.",
+      "argument": "Dette impossible à rembourser : en dehors de l'hyperinflation, de la banqueroute ou de la guerre, il ne reste que l'annulation des titres détenus par la BCE.",
+      "citation": "Il n’y a, en vérité, que quatre solutions : le paiement de la dette – auquel il faudrait consacrer toute notre existence –, l’hyperinflation, la banqueroute ou la guerre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2752) ; pas d'intervention personnelle retrouvée, argument = explication du groupe GDR (Elsa Faucillon).",
+      "argument": "Le groupe GDR veut éviter que les salariés et précaires paient la dette de la crise et demande une refonte des statuts de la BCE.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2752) ; pas d'intervention personnelle retrouvée, argument = celui du groupe LFI porté par Jean-Luc Mélenchon.",
+      "argument": "Le groupe LFI défend l'annulation de fait des dettes publiques détenues par la BCE.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune responsabilité nationale en 2020 ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2752",
+      "date": "2020-06-04"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2752) ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2752",
+      "date": "2020-06-04"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée s'est abstenu (0 pour / 1 contre / 29 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2752",
+      "date": "2020-06-04"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État dans le gouvernement Philippe, qui s'est opposé au texte en séance (Cédric O) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    },
+    "philippe": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Premier ministre ; son gouvernement s'est opposé au texte en séance (Cédric O) et la majorité a voté contre ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, pas de vote sur ce texte (résolution propre à l'Assemblée) ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour / 104 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2752",
+      "date": "2020-06-04"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (parti qu'il avait quitté fin 2017) a voté contre (0 pour / 104 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2752",
+      "date": "2020-06-04"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (0 pour / 104 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2752",
+      "date": "2020-06-04"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention nominative (scrutin n°2752) ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2752",
+      "date": "2020-06-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2020 (Reconquête fondé en 2021) ; aucune déclaration retrouvée ; pas de proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2752",
+      "date": "2020-06-04"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2752) ; intervention en séance le 4 juin 2020.",
+      "argument": "L'Europe serait tétanisée face à la crise ; la conversion en dette perpétuelle à taux nul de la dette détenue par la BCE serait la seule voie raisonnable de sortie.",
+      "citation": "Contrairement à ce que vous prétendez, ce débat n’oppose pas le libéralisme au collectivisme mais la démocratie à l’oligarchie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2019-2020/deuxieme-seance-du-jeudi-04-juin-2020",
+      "date": "2020-06-04"
+    }
+  },
+  "alertes": [
+    "Résolution de l'article 34-1 de la Constitution : vote déclaratif sans effet juridique.",
+    "Attal et Philippe : la résolution émanait de l'opposition ; la position « contre » est déduite de l'opposition exprimée par le gouvernement en séance (Cédric O jugeant le débat « anachronique ») et du vote de la majorité, sans déclaration personnelle.",
+    "Pas d'orateur LR identifié dans le compte rendu de la séance ; le groupe LR a voté contre (104).",
+    "Christian Hutin (SOC) s'exprime en partie à titre personnel en faveur de la dette perpétuelle, alors que son groupe s'est abstenu.",
+    "Batho (contre) et Le Pen (abstention) : aucune explication retrouvée."
+  ]
+}

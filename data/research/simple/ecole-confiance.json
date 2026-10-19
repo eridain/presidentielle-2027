@@ -1,0 +1,18 @@
+{
+  "id": "ecole-confiance",
+  "questionSimple": "Faut-il rendre l'école obligatoire dès 3 ans et obliger les jeunes à se former jusqu'à 18 ans ?",
+  "enBref": "La loi rend l'instruction obligatoire dès 3 ans, au lieu de 6 ans. Jusqu'à 18 ans, chaque jeune doit être à l'école, en formation ou en emploi. Elle change aussi la formation des enseignants et le contrôle de l'école à la maison.",
+  "pourquoiPour": "Pour ses défenseurs, l'école maternelle obligatoire donne à chaque enfant les mêmes chances dès le départ. L'obligation de formation jusqu'à 18 ans aide à lutter contre la pauvreté.",
+  "pourquoiContre": "Pour ses opposants, la loi est imposée d'en haut et fait un cadeau à l'école privée sans exiger plus de mixité sociale. À gauche, ils craignent une école à deux vitesses.",
+  "ceQuiSestPasse": "Adoptée le 2 juillet 2019 et validée en partie par le Conseil constitutionnel, la loi a été promulguée le 26 juillet 2019.",
+  "lexique": [
+    {
+      "terme": "Instruction obligatoire",
+      "definition": "Âge à partir duquel un enfant doit être instruit, à l'école ou en famille."
+    },
+    {
+      "terme": "Commission mixte paritaire",
+      "definition": "Réunion de 7 députés et 7 sénateurs chargée de trouver un texte commun aux deux chambres."
+    }
+  ]
+}

@@ -1,0 +1,213 @@
+{
+  "id": "strategie-defense-2025",
+  "titre": "Stratégie de défense nationale (déclaration 2025)",
+  "question": "Approuvez-vous la stratégie de défense nationale présentée par le gouvernement en décembre 2025 (hausse de l'effort de défense face à la menace russe) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le 10 décembre 2025, le Premier ministre Sébastien Lecornu a fait devant l'Assemblée une déclaration suivie d'un vote (article 50-1 de la Constitution) sur la stratégie de défense nationale. Elle prévoit d'accélérer le réarmement face à la menace russe, avec une hausse de 6,7 milliards d'euros des crédits des armées en 2026 (3,2 milliards prévus par la LPM et 3,5 milliards supplémentaires), portant leur budget à 57,1 milliards si le projet de loi de finances pour 2026 est adopté. Ce vote n'a pas de portée normative : les crédits relèvent de la loi de finances. L'Assemblée l'a approuvée par 411 voix contre 88 (LFI et GDR contre, Écologistes majoritairement abstentionnistes) ; le Sénat l'a approuvée le 15 décembre 2025 (307 pour, 19 contre).",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 10 décembre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mercredi-10-decembre-2025"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°4698",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698"
+    },
+    {
+      "titre": "Sénat – scrutin n°126 du 15 décembre 2025",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-126.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mercredi-10-decembre-2025",
+  "argumentsPour": [
+    {
+      "auteur": "Sébastien Lecornu (Premier ministre)",
+      "resume": "Le budget des armées est passé de 32,7 milliards en 2017 à 57,1 milliards prévus en 2026 ; il faut accélérer le réarmement pour préserver la crédibilité des armées.",
+      "citation": "En 2017, le budget du ministère des armées était de 32,7 milliards d’euros ; il atteindra 57,1 milliards l’année prochaine",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mercredi-10-decembre-2025",
+      "date": "2025-12-10"
+    },
+    {
+      "auteur": "Yannick Chenevard (Ensemble pour la République)",
+      "resume": "La Russie a basculé vers une économie de guerre et produit plus d'armes qu'il ne lui en faut ; elle pourrait s'attaquer à d'autres pays.",
+      "citation": "avec une économie de défense représentant 40 % de son PIB, la Russie produit plus d’armement qu’elle n’en a besoin pour sa guerre actuelle. Qui peut croire qu’elle s’arrêtera là ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mercredi-10-decembre-2025",
+      "date": "2025-12-10"
+    },
+    {
+      "auteur": "Marine Le Pen (Rassemblement national)",
+      "resume": "Malgré ses critiques sur la gestion passée et le budget, le RN soutient par principe l'effort pour la défense nationale et ne peut voter contre.",
+      "citation": "Cet effort, nous le soutenons par principe, tout simplement parce que la défense nationale est une cause qui dépasse largement les appartenances partisanes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mercredi-10-decembre-2025",
+      "date": "2025-12-10"
+    },
+    {
+      "auteur": "Jean-Louis Thiériot (Droite républicaine)",
+      "resume": "La France subit déjà des attaques hybrides ; il faut éviter que cette « drôle de paix » ne devienne une véritable guerre.",
+      "citation": "Il nous appartient d’éviter que cette drôle de paix ne se transforme en véritable guerre",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mercredi-10-decembre-2025",
+      "date": "2025-12-10"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "L'« économie de guerre » serait un prétexte pour justifier l'austérité, alors que des actifs industriels stratégiques passent sous contrôle étranger.",
+      "citation": "Votre prétendue économie de guerre n’est donc qu’un prétexte pour préparer les esprits à l’idée qu’il faudrait se serrer la ceinture afin de financer la défense de la France.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mercredi-10-decembre-2025",
+      "date": "2025-12-10"
+    },
+    {
+      "auteur": "Édouard Bénard (GDR)",
+      "resume": "Le groupe dénonce une logique de blocs au détriment de la paix et une instrumentalisation de la défense au profit de la finance.",
+      "citation": "Nous pourrions débattre de notre enfermement dans une logique de blocs aux dépens d’un engagement renouvelé en faveur de la paix",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mercredi-10-decembre-2025",
+      "date": "2025-12-10"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Catherine Hervieu (Écologiste et social)",
+      "resume": "Le groupe partage le constat des menaces mais défend une défense plus européenne, liée au modèle social et au climat, et regrette l'absence de financement juste.",
+      "citation": "La cohésion nationale autour de la défense ne repose pas que sur le militaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mercredi-10-decembre-2025",
+      "date": "2025-12-10"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 71 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "date": "2025-12-10"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 12 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "date": "2025-12-10"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4698) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "date": "2025-12-10"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social s'est majoritairement abstenu (3 pour / 4 contre / 22 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "date": "2025-12-10"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°4698), alors que son groupe EcoS s'est majoritairement abstenu ; aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "date": "2025-12-10"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur cette déclaration nationale ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (68 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "date": "2025-12-10"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°4698), président du groupe EPR ; argument = intervention du groupe (Yannick Chenevard).",
+      "argument": "Le groupe EPR souligne la menace d'une Russie passée à l'économie de guerre.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mercredi-10-decembre-2025",
+      "date": "2025-12-10"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (34 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "date": "2025-12-10"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Redevenu sénateur après son départ du gouvernement, il a voté pour la même déclaration au Sénat (scrutin n°126 du 15 décembre 2025).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-126.html",
+      "date": "2025-12-15"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (46 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "date": "2025-12-10"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "date": "2025-12-10"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°4698) ; intervention en séance au nom du groupe RN.",
+      "argument": "Soutient par principe l'effort de défense, tout en critiquant la gestion passée, la dépendance européenne et le projet de loi de finances qu'elle refuse de voter.",
+      "citation": "Cet effort, nous le soutenons par principe, tout simplement parce que la défense nationale est une cause qui dépasse largement les appartenances partisanes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/seance-du-mercredi-10-decembre-2025",
+      "date": "2025-12-10"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat, Reconquête sans groupe parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "date": "2025-12-10"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député, aucun groupe parlementaire pour son parti ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4698",
+      "date": "2025-12-10"
+    }
+  },
+  "alertes": [
+    "Vote sur une déclaration du gouvernement (article 50-1) : approbation politique sans effet juridique ; les crédits de 2026 dépendaient de la loi de finances. Plusieurs orateurs (dont Marine Le Pen) ont dit voter la stratégie tout en refusant le budget.",
+    "Il n'y a pas de dossier législatif : urlDossier pointe vers le compte rendu de la séance.",
+    "Retailleau : vote au Sénat sur la même déclaration (15 décembre 2025), relevé sur la liste nominative du groupe LR.",
+    "Batho a voté pour alors que son groupe s'est majoritairement abstenu ; aucune explication retrouvée.",
+    "Attal : argument repris de l'orateur de son groupe, pas de sa propre intervention."
+  ]
+}

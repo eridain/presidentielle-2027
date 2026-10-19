@@ -1,0 +1,18 @@
+{
+  "id": "reforme-justice-2019",
+  "questionSimple": "Faut-il adopter la réforme de la justice de 2019 (tribunaux fusionnés, cour sans jurés, fin des peines d'un mois) ?",
+  "enBref": "La loi augmente le budget de la justice et crée des milliers d'emplois. Elle fusionne deux sortes de tribunaux en un « tribunal judiciaire ». Elle teste une cour criminelle sans jurés et interdit les peines de prison ferme d'un mois ou moins.",
+  "pourquoiPour": "Pour la majorité, la réforme donne plus de moyens et simplifie l'organisation des tribunaux sans les éloigner des citoyens. Le gouvernement s'engage à garder tous les lieux de justice.",
+  "pourquoiContre": "Pour les opposants, la réforme éloigne les plus modestes de leur juge, avec plus de démarches en ligne et de médiations payantes. Ils craignent aussi des fermetures de petits tribunaux.",
+  "ceQuiSestPasse": "Adoptée définitivement le 18 février 2019, la loi a été promulguée le 23 mars 2019 après une censure partielle du Conseil constitutionnel.",
+  "lexique": [
+    {
+      "terme": "Cour criminelle",
+      "definition": "Tribunal composé uniquement de juges professionnels, sans jurés tirés au sort, pour certains crimes."
+    },
+    {
+      "terme": "Médiation",
+      "definition": "Recherche d'un accord amiable entre deux parties, avec l'aide d'un tiers, sans passer par un juge."
+    }
+  ]
+}

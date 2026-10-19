@@ -1,0 +1,18 @@
+{
+  "id": "execution-peines-ferme",
+  "questionSimple": "Faut-il que les courtes peines de prison soient plus souvent faites en prison, et non aménagées ?",
+  "enBref": "Aujourd'hui, une peine de prison d'un an ou moins est le plus souvent remplacée par un bracelet électronique ou la semi-liberté. Le texte voulait que le juge puisse plus facilement envoyer le condamné en prison, même pour moins d'un mois.",
+  "pourquoiPour": "Pour ses défenseurs, une peine non exécutée en prison n'est pas crédible. Les victimes ne comprennent plus, et les aménagements n'ont pas fait baisser la récidive.",
+  "pourquoiContre": "Pour ses opposants, les prisons sont déjà surpeuplées et les courtes peines favorisent la récidive. Un bracelet électronique reste une vraie peine, qui aide à se réinsérer.",
+  "ceQuiSestPasse": "Le texte a été adopté par l'Assemblée en avril 2025 puis modifié par le Sénat en juillet 2025. Il n'était pas encore définitivement adopté.",
+  "lexique": [
+    {
+      "terme": "Aménagement de peine",
+      "definition": "Exécuter une peine de prison autrement : bracelet électronique, semi-liberté ou placement à l'extérieur."
+    },
+    {
+      "terme": "Spip",
+      "definition": "Service pénitentiaire d'insertion et de probation, qui suit les condamnés hors et en prison."
+    }
+  ]
+}

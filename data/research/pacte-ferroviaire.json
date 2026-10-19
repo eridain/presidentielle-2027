@@ -1,0 +1,206 @@
+{
+  "id": "pacte-ferroviaire",
+  "titre": "Réforme de la SNCF (pacte ferroviaire, 2018)",
+  "question": "Faut-il mettre fin au recrutement des cheminots sous statut et transformer la SNCF en société anonyme en vue de l'ouverture à la concurrence (pacte ferroviaire, 2018) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi pour un nouveau pacte ferroviaire, présenté par le gouvernement Philippe en février 2018 à la suite du rapport Spinetta, transforme la SNCF en groupe de sociétés anonymes à capitaux publics incessibles, met fin au recrutement au statut de cheminot au 31 décembre 2019 et organise l'ouverture à la concurrence du transport ferroviaire de voyageurs prévue par le droit européen (quatrième paquet ferroviaire). Il a été examiné pendant un long mouvement de grève des cheminots. Le texte issu de la commission mixte paritaire a été adopté par l'Assemblée le 13 juin 2018 (452 voix contre 80) puis par le Sénat le 14 juin ; la loi a été promulguée le 27 juin 2018.",
+  "contexteSources": [
+    {
+      "titre": "vie-publique.fr – Loi du 27 juin 2018 pour un nouveau pacte ferroviaire",
+      "url": "https://www.vie-publique.fr/loi/20793-pour-un-nouveau-pacte-ferroviaire-loi-dhabilitation-ordonnances-de-re"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/nouveau_pacte_ferroviaire"
+    },
+    {
+      "titre": "Sénat – Scrutin n°124 du 14 juin 2018 (texte de la CMP)",
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-124.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/942",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/nouveau_pacte_ferroviaire",
+  "argumentsPour": [
+    {
+      "auteur": "Laurianne Rossi (LaREM)",
+      "resume": "La nouvelle organisation rend la SNCF plus souple et capable d'affronter la concurrence, avec des garanties pour les salariés actuels et transférés.",
+      "citation": "Ce projet de loi dote la SNCF d’une nouvelle organisation, plus souple, plus lisible, et capable de répondre aux enjeux et à la concurrence de demain.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    },
+    {
+      "auteur": "Guy Bricout (UDI, Agir et indépendants)",
+      "resume": "Les parlementaires ont apporté des garanties pour que la fin du statut et l'ouverture à la concurrence ne remettent pas en cause les droits acquis.",
+      "citation": "Les parlementaires ont cherché à donner le plus d’assurances possibles pour que la fin du statut et l’ouverture à la concurrence ne remettent pas en cause les droits acquis.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    },
+    {
+      "auteur": "Jean-Marie Sermier (LR)",
+      "resume": "Malgré des réserves sur la méthode et sur la dette, LR retient l'ouverture à la concurrence et vote le texte.",
+      "citation": "Pour ce qui est du verre à moitié plein, je note l’ouverture à la concurrence.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Adrien Quatennens (La France insoumise)",
+      "resume": "Le texte applique les exigences de Bruxelles d'ouverture à la concurrence d'un monopole public et prépare, selon lui, la privatisation de la SNCF.",
+      "citation": "Nous le disons, nous l’affirmons : vous finirez par privatiser la SNCF, vous vous y préparez.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    },
+    {
+      "auteur": "Fabien Roussel (GDR)",
+      "resume": "Transformer l'établissement public en société anonyme ouvrirait la porte aux capitaux privés ; aucune étude d'impact sur les privatisations étrangères n'a été faite.",
+      "citation": "Transformer un EPIC en société anonyme, c’est ouvrir la porte à l’entrée au capital d’entreprises privées qui n’auront qu’un seul but : créer de la valeur et distribuer des dividendes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    },
+    {
+      "auteur": "Christophe Bouillon (Nouvelle Gauche)",
+      "resume": "Regrette une méthode sans étude d'impact et la suppression du statut avant l'aboutissement de la négociation de branche.",
+      "citation": "Je regrette que l’on supprime le statut sans attendre l’aboutissement de la négociation paritaire sur la convention collective de branche, engagée en 2014.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°942) ; président du groupe FI, il n'est intervenu que par interjections : argument = explication de vote du groupe (Adrien Quatennens).",
+      "argument": "Le groupe FI dénonce une ouverture à la concurrence dictée par Bruxelles qui préparerait la privatisation de la SNCF et s'attaque au statut des cheminots.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°942) ; il a défendu la motion de rejet préalable du groupe GDR lors de la même séance.",
+      "argument": "Refuse la transformation de l'EPIC en société anonyme, qui ouvrirait la porte aux capitaux privés, et cite les hausses de prix observées après les privatisations au Royaume-Uni.",
+      "citation": "Nous demandons le rejet de cette loi parce que nous ne voulons pas que la SNCF perde le statut d’ÉPIC, le seul qui garantisse un service public et le réinvestissement des bénéfices dans l’entreprise.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°942) ; pas d'intervention personnelle retrouvée dans la séance : argument = explication du groupe FI.",
+      "argument": "Le groupe FI dénonce une ouverture à la concurrence dictée par Bruxelles qui préparerait la privatisation de la SNCF.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national en 2018 ; pas de déclaration retrouvée ; aucun groupe écologiste à l'Assemblée sous la XVe législature (pas de proxy possible).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°942) ; non-inscrite, pas d'intervention retrouvée dans la séance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de déclaration retrouvée en 2018 (Place publique est fondée en novembre 2018). Proxy indicatif : le groupe Nouvelle Gauche (socialistes) a voté contre (0 pour, 30 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°942), alors député LaREM ; pas d'intervention personnelle retrouvée : argument = explication du groupe LaREM (Laurianne Rossi).",
+      "argument": "Le groupe LaREM juge la réforme indispensable à la pérennité du service public ferroviaire et assortie de garanties pour les cheminots.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre ; il a annoncé la réforme le 26 février 2018, dont la fin du recrutement au statut, et son gouvernement l'a portée.",
+      "argument": "Juge la situation de la SNCF intenable : les Français paieraient de plus en plus cher un service public qui fonctionne de moins en moins bien.",
+      "citation": "La situation est alarmante, pour ne pas dire intenable.",
+      "url": "https://www.ladepeche.fr/article/2018/02/26/2749471-sncf-gouvernement-veut-fin-statut-cheminot-petites-lignes.html",
+      "date": "2018-02-26"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat ; a voté pour le texte de la CMP (scrutin Sénat n°124 du 14 juin 2018, https://www.senat.fr/scrutin-public/2017/scr2017-124.html).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-124.html",
+      "date": "2018-06-14"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Président de la région Hauts-de-France, il a été l'un des promoteurs de l'ouverture des TER à la concurrence, mais aucune prise de position sur le texte lui-même n'a été retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.banquedesterritoires.fr/ouverture-la-concurrence-des-ter-les-hauts-de-france-saisissent-larafer-pour-obtenir-des",
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; pas de déclaration retrouvée. Proxy indicatif : le groupe LR de l'Assemblée a voté majoritairement pour (76 pour, 2 contre, 23 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°942) ; présidente du Front national, elle avait critiqué la réforme dès son annonce.",
+      "argument": "Accuse le gouvernement de préparer la privatisation de la SNCF et conteste que le statut des cheminots soit à l'origine de la dette.",
+      "citation": "La vrai question, c'est : est-ce que c'est le statut des cheminots qui est à l'origine de la dette ? La réponse est non",
+      "url": "https://www.franceinfo.fr/economie/transports/sncf/reforme-de-la-sncf-il-faut-d-abord-virer-pepy-lance-marine-le-pen_2631350.html",
+      "date": "2018-02-27"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti en 2018 (Reconquête est fondé en 2021) ; pas de déclaration retrouvée, pas de proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin AN n°942) ; non-inscrit (Debout la France), pas d'intervention retrouvée dans la séance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2018O1N269",
+      "date": "2018-06-13"
+    }
+  },
+  "alertes": [
+    "Ventilation : LR a voté majoritairement pour (76 pour, 2 contre, 23 abstentions) ; toute la gauche a voté contre.",
+    "Le texte ne supprime pas le statut des cheminots déjà recrutés : il met fin au recrutement au statut à partir du 1er janvier 2020 ; le capital de la SNCF est déclaré incessible (ajout du Sénat).",
+    "Mélenchon, Ruffin, Attal : arguments repris des explications de vote de leur groupe faute d'intervention personnelle dans la séance.",
+    "Le Pen : citation de février 2018 (France Inter, rapportée par franceinfo), antérieure à l'examen du texte ; la faute d'accord (« La vrai question ») figure telle quelle dans la source.",
+    "Philippe : citation rapportée par La Dépêche (AFP) de son intervention du 26 février 2018 à Matignon.",
+    "Tondelier, Glucksmann, Lisnard, Zemmour : aucune déclaration retrouvée ; les proxies de groupe sont indicatifs."
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "id": "meubles-tourisme",
+  "titre": "Régulation des meublés de tourisme (loi « anti-Airbnb », 2024)",
+  "question": "Faut-il réduire les avantages fiscaux des meublés de tourisme (type Airbnb) et permettre aux maires d'en limiter le nombre ?",
+  "ouiSignifie": "pour",
+  "contexte": "Cette proposition de loi transpartisane des députés Annaïg Le Meur (Renaissance) et Inaki Echaniz (socialiste) vise à lutter contre la raréfaction des logements à l'année dans les zones touristiques. Elle réduit l'avantage fiscal du régime micro-BIC (abattement ramené de 71 % à 50 % pour les meublés classés, dans la limite de 77 700 euros, et fixé à 30 % dans la limite de 15 000 euros pour les non classés), généralise le numéro d'enregistrement en mairie, permet aux communes de fixer des quotas de meublés, de réserver des secteurs aux résidences principales et d'abaisser de 120 à 90 jours par an la location touristique d'une résidence principale, et soumet progressivement les meublés au diagnostic de performance énergétique. Le texte de la CMP a été adopté par l'Assemblée le 7 novembre 2024 (168 voix contre 54), puis par le Sénat ; la loi n° 2024-1039 a été promulguée le 19 novembre 2024.",
+  "contexteSources": [
+    {
+      "titre": "vie-publique.fr – Loi du 19 novembre 2024 (meublés de tourisme)",
+      "url": "https://www.vie-publique.fr/loi/292100-loi-du-19-novembre-2024-airbnb-desequilibres-du-marche-locatif-le-meur"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulation_meubles_tourisme"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 7 novembre 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N039"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/289",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/regulation_meubles_tourisme",
+  "argumentsPour": [
+    {
+      "auteur": "Inaki Echaniz (socialiste, rapporteur)",
+      "resume": "Les communes disposeront d'outils solides (autorisation préalable, quotas, zonage) et la fiscalité cessera de favoriser le meublé touristique sur la location à l'année.",
+      "citation": "Comment justifier, en effet, que le propriétaire d’un meublé de tourisme gagne plus et paye moins d’impôts qu’un propriétaire qui loue à l’année ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N039",
+      "date": "2024-11-07"
+    },
+    {
+      "auteur": "Valérie Létard (ministre du logement)",
+      "resume": "Le phénomène d'éviction du logement de longue durée au profit du meublé touristique touche étudiants, agents publics et tous ceux qui cherchent à se loger.",
+      "citation": "Le phénomène d’éviction du logement locatif de longue durée au profit de la location meublée touristique est une réalité dans de nombreuses communes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N039",
+      "date": "2024-11-07"
+    },
+    {
+      "auteur": "Olivier Falorni (Les Démocrates)",
+      "resume": "La fin de la « niche fiscale Airbnb » met fin à l'appel d'air créé par cet avantage.",
+      "citation": "À cet égard, la fin de cette fameuse niche fiscale Airbnb est une excellente nouvelle.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N039",
+      "date": "2024-11-07"
+    },
+    {
+      "auteur": "Vincent Rolland (Droite républicaine)",
+      "resume": "Le texte renforce la boîte à outils des maires, l'échelon local étant le plus pertinent.",
+      "citation": "Concrètement, ce texte renforce la boîte à outils des maires pour réguler les meublés de tourisme.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N039",
+      "date": "2024-11-07"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Alexis Jolly (RN)",
+      "resume": "La gauche s'attaque aux petits propriétaires et aux familles avec une nouvelle hausse fiscale, sans toucher les grands investisseurs ni les plateformes.",
+      "citation": "Encore une fois, la gauche s’attaque aux petits propriétaires et aux familles qui n’ont pas les moyens de supporter une énième hausse fiscale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N039",
+      "date": "2024-11-07"
+    },
+    {
+      "auteur": "Alexis Jolly (RN)",
+      "resume": "Les petits propriétaires ne pourront pas financer les travaux de rénovation énergétique exigés.",
+      "citation": "Comment pensez-vous que les petits propriétaires pourront payer les travaux de rénovation énergétique ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N039",
+      "date": "2024-11-07"
+    },
+    {
+      "auteur": "Alexandre Allegret-Pilot (UDR)",
+      "resume": "Déclaration, autorisation, zonage, DPE, limitation des jours, fiscalité : un retour de l'économie administrée.",
+      "citation": "Déclaration, autorisation préalable, zonage communal, diagnostic de performance énergétique, limitation du nombre de jours de location, fiscalité à la hausse : nous assistons au retour tant attendu de l’économie soviétique administrée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N039",
+      "date": "2024-11-07"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; pas de déclaration retrouvée. Proxy indicatif : le groupe LFI-NFP a voté pour (24 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; pas de déclaration retrouvée. Proxy indicatif : le groupe GDR a voté pour (5 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin AN n°289). Proxy indicatif : le groupe Écologiste et social a voté pour (16 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; pas de déclaration retrouvée. Proxy indicatif : le groupe Écologiste et social a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin AN n°289). Proxy indicatif : le groupe Écologiste et social a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste, dont est issu le corapporteur, a voté pour (37 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°289) ; président du groupe EPR ; argument = explication de son groupe (David Amiel).",
+      "argument": "Le groupe EPR juge que le développement des meublés touristiques, utile aux vacanciers et aux petits propriétaires, est devenu anarchique.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N039",
+      "date": "2024-11-07"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons ; pas de déclaration retrouvée. Proxy indicatif : le groupe Horizons a voté pour (17 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'intérieur du gouvernement Barnier, qui soutenait le texte (ministre du logement Valérie Létard) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N039",
+      "date": "2024-11-07"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; pas de déclaration retrouvée. Proxy indicatif : le groupe Droite républicaine a voté pour (18 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes et président de l'AMF ; pas de déclaration retrouvée dans cette recherche. Proxy indicatif : le groupe Droite républicaine a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°289). Proxy indicatif : le groupe RN, qu'elle préside, a voté contre (51 contre, 1 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans groupe ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Retailleau : position déduite de son appartenance au gouvernement Barnier qui soutenait ce texte d'initiative parlementaire.",
+    "Seuls le RN (51 contre) et l'UDR (3 contre) se sont opposés ; tous les autres groupes ont voté pour.",
+    "La baisse de l'abattement pour les meublés non classés (30 % dans la limite de 15 000 euros) avait déjà été introduite par la loi de finances pour 2024 ; la loi de 2024 réduit surtout l'avantage des meublés classés.",
+    "Lisnard, président de l'Association des maires de France, a pu s'exprimer sur les outils donnés aux maires : non retrouvé, à compléter."
+  ]
+}

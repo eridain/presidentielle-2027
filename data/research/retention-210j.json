@@ -1,0 +1,223 @@
+{
+  "id": "retention-210j",
+  "titre": "Rétention jusqu'à 210 jours des étrangers dangereux",
+  "question": "Faut-il pouvoir prolonger jusqu'à 210 jours (au lieu de 90) la rétention administrative des étrangers en attente d'expulsion condamnés pour des faits graves ou jugés particulièrement dangereux ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposée au Sénat le 3 février 2025 par la sénatrice LR Jacqueline Eustache-Brinio après le meurtre de Philippine en septembre 2024, la proposition de loi étend aux étrangers condamnés pour certains crimes et délits graves, frappés d'une interdiction du territoire ou d'une expulsion, ou présentant une menace d'une particulière gravité pour l'ordre public, le régime dérogatoire de rétention jusqu'ici réservé au terrorisme (jusqu'à 180, voire 210 jours, contre 90 en droit commun). Elle prévoit aussi un appel suspensif des décisions de remise en liberté, le relevé d'empreintes sans consentement et la rétention de certains demandeurs d'asile. Adoptée par l'Assemblée le 8 juillet 2025 (303 pour, 168 contre) puis définitivement par le Sénat le 9 juillet, elle a été partiellement censurée par le Conseil constitutionnel (décision 2025-895 DC du 7 août 2025), qui a supprimé l'allongement à 180/210 jours et l'appel suspensif systématique ; la loi n° 2025-796 a été promulguée le 11 août 2025.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – La loi en clair",
+      "url": "https://senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/proposition-de-loi-visant-a-faciliter-le-maintien-en-retention-des-personnes-condamnees-pour-des-faits-dune-particuliere-gravite-et-presentant-de-forts-risques-de-recidive.html"
+    },
+    {
+      "titre": "Assemblée nationale – Faciliter le maintien en rétention : adoption de la proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/actualites-accueil-hub/faciliter-le-maintien-en-retention-adoption-de-la-proposition-de-loi"
+    },
+    {
+      "titre": "Conseil constitutionnel – Communiqué, décision n° 2025-895 DC du 7 août 2025",
+      "url": "https://www.conseil-constitutionnel.fr/actualites/communique/decision-n-2025-895-dc-du-7-aout-2025-communique-de-presse"
+    },
+    {
+      "titre": "Vie-publique.fr – Loi du 11 août 2025",
+      "url": "https://www.vie-publique.fr/loi/297804-retention-administrative-etrangers-condamnes-oqtf-loi-11-aout-2025"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51429",
+  "argumentsPour": [
+    {
+      "auteur": "Ian Boucard (Droite républicaine)",
+      "resume": "Moins de 12 % des OQTF sont exécutées ; des étrangers condamnés pour des crimes graves sont relâchés faute de base juridique pour les retenir au-delà de 90 jours.",
+      "citation": "Nous ne pouvons plus tolérer qu’un individu condamné pour viol ou pour violence sorte libre d’un CRA juste parce que la loi ne permet pas de le maintenir jusqu’à l’exécution effective de son éloignement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Guillaume Kasbarian (Ensemble pour la République)",
+      "resume": "La rétention, mesure de police contrôlée par le juge, rend les éloignements plus efficaces ; des délais plus longs évitent de relâcher des condamnés dangereux faute de documents consulaires.",
+      "citation": "Le taux d’exécution des OQTF est de 40 % en rétention contre seulement 6 % en dehors.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Anne Bergantz (Les Démocrates)",
+      "resume": "Le texte vise des étrangers en situation irrégulière condamnés définitivement pour des actes très graves ; allonger la rétention pour permettre leur éloignement effectif est légitime.",
+      "citation": "soumettre au vote l’allongement de la durée de rétention pour permettre un éloignement effectif de ces condamnés est une décision légitime.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Michaël Taverne (Rassemblement national)",
+      "resume": "Le texte va dans le bon sens pour les étrangers condamnés et dangereux, mais reste insuffisant face à une immigration jugée incontrôlée.",
+      "citation": "va incontestablement dans le bon sens, mais elle ne changera pas fondamentalement la situation migratoire",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Céline Hervieu (Socialistes)",
+      "resume": "Le problème est l'obtention des laissez-passer consulaires, pas la durée de rétention ; texte jugé inutile et contraire à l'État de droit, dans la lignée « un fait divers, une loi ».",
+      "citation": "C’est une proposition démagogique, inutile et qui affaiblit notre État de droit.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Jérémie Iordanoff (Écologiste et social)",
+      "resume": "Sans étude d'impact, le texte détourne la rétention, mesure liée à l'éloignement, vers un outil sécuritaire qui relève de la justice pénale.",
+      "citation": "La rétention administrative n’a donc pas de vocation répressive et ne devrait pas être assimilée à l’incarcération.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Émeline K/Bidi (Gauche démocrate et républicaine)",
+      "resume": "La plupart des expulsions ont lieu dans les premiers jours de rétention : l'allongement augmenterait l'enfermement sans effet notable sur les éloignements.",
+      "citation": "81 % des éloignements ont eu lieu dans les 45 premiers jours de la rétention.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    {
+      "auteur": "Antoine Léaument (La France insoumise)",
+      "resume": "Enfermer des étrangers jusqu'à 210 jours sur décision administrative méconnaîtrait l'article 66 de la Constitution et l'égalité devant la loi.",
+      "citation": "voter pour ce texte, c’est voter contre la République et ses principes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire en 2025 ; aucune déclaration trouvée. PROXY : groupe LFI-NFP contre (0 pour / 58 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+      "date": "2025-07-08"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration trouvée. PROXY : groupe GDR contre (0 pour / 12 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+      "date": "2025-07-08"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°2958) ; pas d'intervention personnelle trouvée, argument = explication de vote du groupe Écologiste et social (Jérémie Iordanoff).",
+      "argument": "Selon son groupe, le texte détourne la rétention administrative, liée à l'éloignement, vers un outil sécuritaire relevant de la justice pénale, sans étude d'impact.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire national ; aucune déclaration trouvée. PROXY : groupe Écologiste et social contre (0 pour / 33 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+      "date": "2025-07-08"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif « contre » (scrutin n°2958) ; pas d'intervention personnelle trouvée, argument = explication de vote du groupe Écologiste et social (Jérémie Iordanoff).",
+      "argument": "Selon son groupe, le texte détourne la rétention administrative, liée à l'éloignement, vers un outil sécuritaire relevant de la justice pénale, sans étude d'impact.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote sur ce texte ; aucune déclaration trouvée. PROXY : groupe Socialistes (où siègent les députés Place publique) contre (0 pour / 59 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+      "date": "2025-07-08"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif « pour » (scrutin n°2958) comme président du groupe EPR ; pas d'intervention personnelle trouvée, argument = explication de vote du groupe EPR (Guillaume Kasbarian).",
+      "argument": "Selon son groupe, la rétention rend les éloignements plus efficaces et des délais plus longs évitent de relâcher des condamnés dangereux faute de documents consulaires.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre et président d'Horizons, sans vote ; aucune déclaration trouvée. PROXY : groupe Horizons pour (24 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+      "date": "2025-07-08"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur ; il a défendu le texte au nom du gouvernement en séance et s'est exprimé après le vote solennel.",
+      "argument": "Le texte comble une faille révélée par le meurtre de Philippine ; ses dispositions sont encadrées et treize pays européens permettent jusqu'à 18 mois de rétention.",
+      "citation": "Lorsque la loi ne protège plus nos compatriotes, il faut changer la loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration trouvée. PROXY : groupe Droite républicaine pour (48 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+      "date": "2025-07-08"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration trouvée. PROXY : groupe Droite républicaine (LR) pour (48 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2958",
+      "date": "2025-07-08"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif « pour » (scrutin n°2958) ; pas d'intervention personnelle trouvée, argument = explication de vote du groupe RN (Michaël Taverne).",
+      "argument": "Selon son groupe, le texte va dans le bon sens pour les étrangers condamnés et dangereux, mais reste insuffisant face à une immigration jugée incontrôlée.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025E1N009",
+      "date": "2025-07-08"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national ; aucune déclaration trouvée ; Reconquête n'a pas de groupe à l'Assemblée (proxy indisponible).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration trouvée ; Debout la France n'a pas de groupe à l'Assemblée (proxy indisponible).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "L'allongement de la rétention à 180/210 jours (articles 1er et 4) a été censuré par le Conseil constitutionnel le 7 août 2025 : la mesure au cœur de la question n'est pas entrée en vigueur.",
+    "Le scrutin AN n°2958 indique 1 abstention, mais le compte rendu de séance n'affiche que 303 pour et 168 contre (471 exprimés sur 472 votants) ; pas de contradiction.",
+    "Rapporteur à l'Assemblée, Olivier Marleix (DR) est décédé le 7 juillet 2025, la veille du vote ; plusieurs orateurs lui rendent hommage dans le compte rendu.",
+    "Aucune déclaration personnelle trouvée pour Le Pen, Attal, Ruffin et Batho : arguments repris des explications de vote de leur groupe. Recherches non exhaustives (réseaux sociaux non consultés).",
+    "Le communiqué du Conseil constitutionnel a été consulté via sa copie Web Archive (accès direct bloqué)."
+  ]
+}

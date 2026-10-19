@@ -1,0 +1,213 @@
+{
+  "id": "liste-nationale-europeennes",
+  "titre": "Liste nationale unique aux élections européennes",
+  "question": "Faut-il élire les députés européens sur une liste nationale unique plutôt que dans des circonscriptions régionales ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi rétablit une circonscription nationale unique pour l'élection des représentants français au Parlement européen, en remplacement des huit circonscriptions interrégionales instaurées en 2003 ; il fixe aussi les règles de répartition du temps d'antenne de la campagne et maintient un seuil de 5 % pour obtenir des sièges. L'Assemblée l'a adopté en première lecture le 20 février 2018 (376 pour, 155 contre), puis le texte de la commission mixte paritaire le 14 mai 2018 (50 pour, 11 contre, 2 abstentions). Saisi par plus de soixante députés, le Conseil constitutionnel l'a déclaré partiellement conforme (décision n° 2018-766 DC du 21 juin 2018) ; la loi n° 2018-509 a été promulguée le 25 juin 2018 et appliquée aux élections européennes de 2019.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/election_des_representants_parlement_europeen"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°579 (texte de la CMP)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/579"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°407 (première lecture)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/407"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/579",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/election_des_representants_parlement_europeen",
+  "argumentsPour": [
+    {
+      "auteur": "Jacqueline Gourault (ministre, gouvernement)",
+      "resume": "Le découpage en huit circonscriptions n'a ni rapproché les citoyens de leurs élus ni fait reculer l'abstention, montée jusqu'à 70 % dans certaines villes en 2014.",
+      "citation": "Le système reposant sur huit circonscriptions électorales interrégionales constitue donc un échec patent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-lundi-14-mai-2018",
+      "date": "2018-05-14"
+    },
+    {
+      "auteur": "Typhanie Degois (LaREM)",
+      "resume": "Les grandes circonscriptions interrégionales étaient artificielles ; un scrutin national favorise un débat national sur les enjeux européens.",
+      "citation": "Lorsqu’une circonscription aux élections européennes commence à Aurillac et finit à Chambéry, ou commence à Mâcon et finit à Mulhouse, le retour à la circonscription nationale peut difficilement susciter la crainte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-lundi-14-mai-2018",
+      "date": "2018-05-14"
+    },
+    {
+      "auteur": "Danièle Obono (La France insoumise)",
+      "resume": "LFI est favorable à la circonscription unique et vote le texte, tout en critiquant les règles de temps de parole et de seuil.",
+      "citation": "Même si nous sommes favorables à l’instauration d’une circonscription unique, et voterons donc en faveur de ce texte, nous tenons à revenir sur ses dispositions particulières.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-lundi-14-mai-2018",
+      "date": "2018-05-14"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Constance Le Grip (Les Républicains)",
+      "resume": "Les eurodéputés ont besoin d'un ancrage territorial pour gagner en légitimité et en influence ; LR refuse aussi la mention des listes transnationales.",
+      "citation": "C’est un retour en arrière, une marche arrière.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-lundi-14-mai-2018",
+      "date": "2018-05-14"
+    },
+    {
+      "auteur": "Guillaume Larrivé (Les Républicains)",
+      "resume": "LR proposait un scrutin dans les régions actuelles afin que les 79 eurodéputés français soient ancrés dans les territoires.",
+      "citation": "Ils ont donc choisi de s’entendre pour que les élections au Parlement européen, demain, n’aient plus aucune dimension territoriale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-20-fevrier-2018",
+      "date": "2018-02-20"
+    },
+    {
+      "auteur": "Stéphane Peu (Gauche démocrate et républicaine)",
+      "resume": "Favorable à la circonscription unique, le groupe GDR s'oppose au seuil de 5 % qu'il juge trop élevé ; il a voté contre en première lecture puis s'est abstenu sur le texte final.",
+      "citation": "Notre premier désaccord concerne le seuil d’accès à la répartition des sièges, que le projet de loi fixe à 5 %.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-20-fevrier-2018",
+      "date": "2018-02-20"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Cécile Untermaier (Nouvelle Gauche)",
+      "resume": "Faute de garantie sur la représentation des territoires, en particulier des outre-mer, le groupe Nouvelle Gauche s'abstient majoritairement.",
+      "citation": "le groupe Nouvelle Gauche a décidé, dans sa grande majorité, de s’abstenir sur ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/premiere-seance-du-lundi-14-mai-2018",
+      "date": "2018-05-14"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour sur le texte de la CMP (scrutin n°579 du 14 mai 2018) ; explication de vote du groupe LFI qu'il a portée en première lecture le 20 février 2018.",
+      "argument": "LFI réclamait de longue date une circonscription nationale ; pour lui, le lien qui compte est celui qui unit l'élu au peuple, non un découpage territorial.",
+      "citation": "Nous avons suffisamment regretté les circonscriptions prétendument « territorialisées », la fausse proportionnelle et les divers arrangements auxquels ces dispositions donnaient lieu pour adhérer aujourd’hui à l’idée d’une circonscription nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-20-fevrier-2018",
+      "date": "2018-02-20"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "N'a pas pris part au vote final (scrutin n°579) ; vote nominatif contre en première lecture sur l'ensemble du même projet de loi (scrutin n°407 du 20 février 2018). Argument = explication du groupe GDR.",
+      "argument": "Le groupe GDR approuve la circonscription unique mais rejette le seuil de 5 % et les règles de temps d'antenne.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-20-fevrier-2018",
+      "date": "2018-02-20"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "N'a pas pris part au vote final (scrutin n°579) ; vote nominatif pour en première lecture sur l'ensemble du même projet de loi (scrutin n°407). Argument = explication du groupe LFI.",
+      "argument": "LFI soutient la circonscription nationale unique, revendication ancienne du mouvement.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2017-2018/deuxieme-seance-du-mardi-20-fevrier-2018",
+      "date": "2018-02-20"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune responsabilité nationale en 2018 ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/579",
+      "date": "2018-05-14"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "N'a pas pris part au vote final (scrutin n°579) ; vote nominatif contre en première lecture sur l'ensemble du même projet de loi (scrutin n°407). Aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/407",
+      "date": "2018-02-20"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ni élu ni chef de parti en 2018 (Place publique fondé en novembre 2018) ; aucune déclaration retrouvée. Le groupe Nouvelle Gauche s'est partagé (1 pour, 1 abstention) : pas de proxy exploitable.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/579",
+      "date": "2018-05-14"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Député à l'époque, n'a pas pris part au vote final (scrutin n°579) ; vote nominatif pour en première lecture sur l'ensemble du même projet de loi (scrutin n°407). Aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/407",
+      "date": "2018-02-20"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a déposé le projet de loi (janvier 2018) et l'a fait adopter ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/election_des_representants_parlement_europeen",
+      "date": "2018-05-14"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Vote nominatif contre l'article 1er rétablissant la circonscription unique (scrutin Sénat n°87 du 11 avril 2018) et contre les conclusions de la CMP (scrutin n°104).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-87.html",
+      "date": "2018-04-11"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (parti qu'il avait quitté fin 2017) a voté contre (0 pour / 8 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/579",
+      "date": "2018-05-14"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (0 pour / 8 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/579",
+      "date": "2018-05-14"
+    },
+    "lepen": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "N'a pas pris part au vote final (scrutin n°579) ; abstention nominative en première lecture sur l'ensemble du même projet de loi (scrutin n°407). Aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/407",
+      "date": "2018-02-20"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en 2018 (Reconquête fondé en 2021) ; aucune déclaration retrouvée ; pas de proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/579",
+      "date": "2018-05-14"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "N'a pas pris part au vote final (scrutin n°579) ; vote nominatif contre en première lecture sur l'ensemble du même projet de loi (scrutin n°407). Aucune explication personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/407",
+      "date": "2018-02-20"
+    }
+  },
+  "alertes": [
+    "Scrutin final à faible participation (63 votants) : Roussel, Ruffin, Batho, Attal, Le Pen et Dupont-Aignan n'y ont pas pris part. Leur position est celle de leur vote nominatif en première lecture sur l'ensemble du même projet de loi (scrutin n°407 du 20 février 2018), type « vote_an » mais sur un autre scrutin que celui de la question. Précédent : même traitement que Dupont-Aignan dans ivg-constitution.json.",
+    "Roussel a voté contre en première lecture alors que son groupe GDR s'est abstenu sur le texte de la CMP.",
+    "Le projet de loi ne se limite pas à la circonscription unique (temps d'antenne, seuil de 5 %, mention des listes transnationales) ; plusieurs votes contre ou abstentions visent ces dispositions, pas la liste nationale elle-même (GDR, Nouvelle Gauche).",
+    "Décision n° 2018-766 DC : « partiellement conforme » selon le dossier AN ; le contenu exact des dispositions censurées n'a pas été vérifié.",
+    "Retailleau : votes au Sénat sur l'article 1er (circonscription unique) et sur la CMP, pas sur le scrutin AN."
+  ]
+}

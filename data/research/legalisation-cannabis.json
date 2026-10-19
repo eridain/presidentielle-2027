@@ -1,0 +1,209 @@
+{
+  "id": "legalisation-cannabis",
+  "titre": "Légalisation du cannabis sous contrôle de l'État",
+  "question": "Faut-il légaliser la production, la vente et la consommation de cannabis sous le contrôle de l'État ?",
+  "ouiSignifie": "contre",
+  "contexte": "La proposition de loi d'Éric Coquerel (La France insoumise), examinée dans la niche de son groupe, prévoyait de légaliser la production, la vente et la consommation de cannabis par les majeurs, sous un monopole d'État confié à un établissement public, les recettes finançant la prévention. Le vote porte sur les amendements identiques de suppression de l'article 1er (n° 3 de Valérie Six, UDI, et suivants), adoptés le 13 janvier 2022 par 53 voix contre 24, avec l'avis favorable du gouvernement ; l'article 2 (gage financier) ayant aussi été supprimé, la proposition de loi a été vidée de son contenu et n'a pas abouti. Seuls LFI, GDR, les socialistes et Libertés et territoires ont voté contre la suppression.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier « Légalisation de la production, de la vente et de la consommation du cannabis sous le contrôle de l'État »",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/legalisation_cannabis"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 13 janvier 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4296",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/legalisation_cannabis",
+  "argumentsPour": [
+    {
+      "auteur": "Valérie Six (UDI et indépendants, auteure de l'amendement)",
+      "resume": "Le texte négligerait la dangerosité du cannabis pour les jeunes ; l'effet de la légalisation sur le trafic est incertain.",
+      "citation": "D’une part, les arguments évoqués dans l’exposé des motifs paraissent négliger la dangerosité d’un produit, dont les conséquences psychiques et cérébrales irréversibles sur les jeunes ne sont plus à démontrer.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Belkhir Belhaddad (LaREM)",
+      "resume": "Le recul manque sur les pays qui ont légalisé ; la légalisation risquerait de banaliser une substance dangereuse, surtout pour les plus jeunes.",
+      "citation": "Ensuite, la légalisation du cannabis fait courir le risque d’une banalisation du produit et de ses dangers, alors que le cannabis est une substance psychotrope dangereuse, aux conséquences néfastes, notamment chez les plus jeunes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Julien Dive (Les Républicains)",
+      "resume": "Refus éthique : la légalisation abandonnerait la lutte contre le trafic et ouvrirait la voie à celle de toutes les drogues.",
+      "citation": "Elle serait un message dramatique envoyé à notre société et pourrait paver la voie à une légalisation de toutes les drogues.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Adrien Taquet (secrétaire d'État, gouvernement)",
+      "resume": "Le gouvernement privilégie la prévention, l'interdit pénal et la lutte contre la banalisation, et soutient la suppression.",
+      "citation": "elle est en faveur de la prévention du risque et de la promotion de la santé, de la réaffirmation de l’interdit pénal, de la lutte contre la banalisation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Éric Coquerel (La France insoumise, rapporteur)",
+      "resume": "La prohibition n'explique pas la baisse de la consommation ; une légalisation sur le modèle québécois réduirait le trafic qui pèse sur les quartiers populaires.",
+      "citation": "Je le répète une nouvelle fois : la baisse de la consommation n’est pas le fruit de la prohibition.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Caroline Janvier (LaREM, à titre personnel)",
+      "resume": "Cinquante ans de prohibition ont échoué ; une légalisation encadrée permettrait de reprendre la main sur les trafics.",
+      "citation": "Je suis donc favorable à une légalisation encadrée, pour reprendre la main sur des trafics qui nous échappent depuis cinquante ans et qui, rappelons-le, sont gérés par des criminels, par des réseaux mafieux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Michèle Victory (Socialistes)",
+      "resume": "La mobilisation policière contre les consommateurs se fait au détriment d'une vraie politique de prévention et de santé publique.",
+      "citation": "Cette mobilisation se fait au détriment de missions plus essentielles et d’une politique de prévention et de santé publique de grande ampleur, permettant de lutter réellement contre les dangers du cannabis.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4268) ; la proposition de loi émanait de son groupe et le programme de LFI pour 2027 prévoit un monopole public du cannabis (La Dépêche, 20 septembre 2026). Position de son mouvement, pas de citation personnelle.",
+      "argument": "LFI défend un monopole public de production et de vente du cannabis, avec des recettes affectées à la prévention.",
+      "citation": "LFI défend un monopole public de production et de vente, avec des recettes affectées à la prévention et aux addictions",
+      "url": "https://www.ladepeche.fr/2026/09/20/presidentielle-2027-ce-que-proposent-les-candidats-dans-la-lutte-contre-le-trafic-de-drogue-13554505.php",
+      "date": "2026-09-20"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4268) ; s'est surtout prononcé pour un débat sur le sujet, sans position nette retrouvée sur la légalisation. À titre indicatif, son groupe GDR a voté contre la suppression (0 pour / 2 contre), son orateur Jean-Paul Dufrègne se montrant toutefois réservé sur la légalisation.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4296",
+      "date": "2022-01-13"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4296) ; aucune déclaration retrouvée. À titre indicatif, son groupe FI a voté : contre (0p/10c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4296",
+      "date": "2022-01-13"
+    },
+    "tondelier": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Pas de mandat parlementaire ; son parti, Les Écologistes, propose la légalisation encadrée du cannabis (La Dépêche, 20 septembre 2026). Position de parti, pas de citation personnelle.",
+      "argument": "Les Écologistes proposent une légalisation encadrée et concentrent la réponse pénale sur la criminalité organisée.",
+      "citation": "Les premiers proposent sa légalisation encadrée et veulent concentrer la réponse pénale sur la criminalité organisée.",
+      "url": "https://www.ladepeche.fr/2026/09/20/presidentielle-2027-ce-que-proposent-les-candidats-dans-la-lutte-contre-le-trafic-de-drogue-13554505.php",
+      "date": "2026-09-20"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4296) ; aucune déclaration retrouvée. À titre indicatif, son groupe NI a voté : pour (2p/1c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4296",
+      "date": "2022-01-13"
+    },
+    "glucksmann": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Eurodéputé, pas de vote ; selon le site spécialisé Newsweed, il s'est déclaré favorable à la légalisation en tant que tête de liste PS-Place publique aux européennes de 2024 (article du 22 juillet 2024) (source secondaire en anglais, déclaration originale non retrouvée).",
+      "argument": "Il se dit favorable à la légalisation du cannabis.",
+      "citation": "PS candidate Raphaël Glucksmann declared himself in favor of legalization",
+      "url": "https://newsweed.fr/en/nfp-cannabis-legalization",
+      "date": "2024-07-22"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a émis un avis favorable à la suppression de l'article (Adrien Taquet au banc) ; à titre personnel, il se disait ouvert au débat sans se prononcer pour la légalisation.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2021-2022/troisieme-seance-du-jeudi-13-janvier-2022",
+      "date": "2022-01-13"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire en janvier 2022 ; aucune déclaration vérifiée retrouvée sur la légalisation du cannabis récréatif.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4296",
+      "date": "2022-01-13"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Sénateur, pas de vote sur cette proposition de loi (non transmise au Sénat) ; ministre de l'Intérieur en 2025, il s'oppose fermement à la légalisation (Atlantico, 18 février 2025).",
+      "argument": "Pour lui, légaliser le cannabis reviendrait à une double défaite.",
+      "citation": "Pour Bruno Retailleau, une légalisation du cannabis reviendrait à « deux défaites ».",
+      "url": "https://atlantico.fr/article/video/video-pour-bruno-retailleau-la-legalisation-du-cannabis-c-est-non",
+      "date": "2025-02-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4296",
+      "date": "2022-01-13"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration vérifiée retrouvée sur la légalisation.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4296",
+      "date": "2022-01-13"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°4268) ; le Rassemblement national, qu'elle représente, s'oppose à toute légalisation du cannabis (La Dépêche, 20 septembre 2026). Position de parti, pas de citation personnelle.",
+      "argument": "Le RN défend la « tolérance zéro » et s'oppose à toute légalisation du cannabis.",
+      "citation": "Le Rassemblement national reste sur une ligne de \"tolérance zéro\", avec peines planchers, répression accrue des consommateurs et opposition à toute légalisation du cannabis.",
+      "url": "https://www.ladepeche.fr/2026/09/20/presidentielle-2027-ce-que-proposent-les-candidats-dans-la-lutte-contre-le-trafic-de-drogue-13554505.php",
+      "date": "2026-09-20"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4296",
+      "date": "2022-01-13"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°4296) ; aucune déclaration retrouvée. À titre indicatif, son groupe NI a voté : pour (2p/1c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4296",
+      "date": "2022-01-13"
+    }
+  },
+  "alertes": [
+    "Vote sur un amendement de suppression : voter « pour » revient à rejeter la légalisation, d'où ouiSignifie = « contre ». Les positions des candidats sont exprimées au sens du scrutin : « pour » = pour la suppression = contre la légalisation ; « contre » = favorable à la légalisation.",
+    "Scrutin à faible participation (80 votants) : Mélenchon, Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'y ont pas pris part.",
+    "Mélenchon, Tondelier, Le Pen : positions déduites du programme de leur parti pour 2027 (La Dépêche), pas de citation personnelle.",
+    "Glucksmann : source secondaire (Newsweed, en anglais) ; déclaration d'origine non vérifiée.",
+    "Retailleau : citation tirée d'un chapeau d'article (Atlantico), la vidéo elle-même n'a pas été transcrite.",
+    "Le groupe LaREM s'est majoritairement prononcé pour la suppression, mais certains de ses membres (Caroline Janvier, Jean-Baptiste Moreau) étaient favorables à une légalisation encadrée."
+  ]
+}

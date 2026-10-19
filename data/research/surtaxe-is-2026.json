@@ -1,0 +1,213 @@
+{
+  "id": "surtaxe-is-2026",
+  "titre": "Maintenir la surtaxe d'impôt sur les sociétés",
+  "question": "Faut-il maintenir en 2026 la surtaxe exceptionnelle d'impôt sur les sociétés des grandes entreprises à son taux de 2025, au lieu de la diviser par deux ?",
+  "ouiSignifie": "pour",
+  "contexte": "La loi de finances pour 2025 a créé une contribution exceptionnelle sur les bénéfices des quelque 400 entreprises réalisant plus d'un milliard d'euros de chiffre d'affaires en France : 20,6 % de l'impôt sur les sociétés entre 1 et 3 milliards, 41,2 % au-delà, pour environ 8 milliards d'euros. Le projet de budget 2026 du gouvernement Lecornu la reconduisait à moitié taux (environ 4 milliards). Le 27 octobre 2025, les amendements identiques de Mathilde Feld (LFI) et du groupe socialiste, qui maintiennent les taux de 2025, sont rejetés par 155 voix contre 225 (RN, bloc central, Droite républicaine, LIOT et UDR contre). L'Assemblée adopte ensuite un amendement de compromis du gouvernement (environ 6 milliards). La loi de finances pour 2026, adoptée par 49.3 et promulguée le 19 février 2026, a finalement reconduit la surtaxe aux taux de 2025, en relevant le seuil à 1,5 milliard pour épargner les ETI.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la deuxième séance du 27 octobre 2025 (PLF 2026)",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015"
+    },
+    {
+      "titre": "economie.gouv.fr – Loi de finances 2026 : ce qui change pour les entreprises",
+      "url": "https://economie.gouv.fr/entreprises/gerer-sa-fiscalite-et-ses-impots/loi-de-finances-2026-ce-qui-change-pour-les-entreprises"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3144",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+  "argumentsPour": [
+    {
+      "auteur": "Christian Baptiste (Socialistes)",
+      "resume": "Les 400 entreprises les plus profitables doivent participer à l'effort comme les salariés et les collectivités, tant que le déficit n'est pas revenu à 3 %.",
+      "citation": "Il tend à ce que les 400 entreprises les plus profitables participent pleinement à l’effort collectif, conformément aux principes de justice fiscale, de solidarité nationale et de redistribution équitable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+      "date": "2025-10-27"
+    },
+    {
+      "auteur": "Philippe Brun (Socialistes)",
+      "resume": "Le taux de l'IS a beaucoup baissé (de 33 % à 25 %) et se situe sous la moyenne européenne : demander un effort aux plus grandes entreprises n'a rien de confiscatoire.",
+      "citation": "il n’y a rien de confiscatoire à demander un effort aux 400 plus grandes entreprises du pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+      "date": "2025-10-27"
+    },
+    {
+      "auteur": "Marianne Maximi (LFI-NFP)",
+      "resume": "La surtaxe rapportait 8 milliards avant que le gouvernement propose de la diviser par deux ; même avec elle, l'IS resterait inférieur à son niveau d'avant 2017.",
+      "citation": "Le produit attendu de la surtaxe était de 8 milliards avant que, dans son projet initial de budget, le gouvernement propose de le diviser par deux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+      "date": "2025-10-27"
+    },
+    {
+      "auteur": "Nicolas Sansu (GDR)",
+      "resume": "Grâce aux niches fiscales, le taux réel d'imposition des très grandes entreprises est bien inférieur à 25 %.",
+      "citation": "Il n’est donc pas raisonnable de diviser les taux par deux par rapport à 2025.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+      "date": "2025-10-27"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Paul Midy (EPR)",
+      "resume": "La surtaxe est contre-productive pour l'économie et l'emploi ; le groupe s'oppose à tout alourdissement et veut épargner les ETI.",
+      "citation": "Notre groupe, EPR, s’est opposé à cette surtaxe sur les entreprises redevables de l’IS parce qu’une telle mesure est contre-productive pour l’économie, pour l’emploi et donc pour l’ensemble des Françaises et des Français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+      "date": "2025-10-27"
+    },
+    {
+      "auteur": "Laurent Wauquiez (Droite républicaine)",
+      "resume": "La surenchère fiscale détruit des emplois ; seule la baisse de la dépense publique peut redresser le pays.",
+      "citation": "Le seul chemin à suivre pour ceux qui veulent redresser le pays, c’est celui de la baisse de la dépense publique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+      "date": "2025-10-27"
+    },
+    {
+      "auteur": "Loïc Kervran (Horizons)",
+      "resume": "Les entreprises ne doivent pas être la variable d'ajustement des dépenses votées par l'Assemblée.",
+      "citation": "Ce n’est pas à elles de payer pour les excès votés ici !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+      "date": "2025-10-27"
+    },
+    {
+      "auteur": "Jean-Philippe Tanguy (RN)",
+      "resume": "Le problème est la hausse générale des impôts qui se dessine dans ce budget, négociée entre le gouvernement et les socialistes.",
+      "citation": "Le problème est l’augmentation du niveau général des impôts qui est en train de se dessiner.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+      "date": "2025-10-27"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée sur ce vote. Proxy : le groupe LFI-NFP, auteur de l'amendement, a voté pour (57 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée. Proxy : le groupe GDR a voté pour (9 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté pour (scrutin AN n°3144) ; pas d'intervention personnelle retrouvée sur cet article : argument = interventions de la gauche (Socialistes, LFI).",
+      "argument": "Groupe écologiste et social et gauche : les très grandes entreprises, dont le taux réel d'impôt est faible, doivent continuer de contribuer au redressement des comptes.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+      "date": "2025-10-27"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Écologiste et social a voté pour (33 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°3144) ; aucune déclaration retrouvée. Proxy : le groupe Écologiste et social a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. Proxy : le groupe Socialistes, coauteur de l'amendement, a voté pour (56 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°3144) ; président du groupe EPR, pas d'intervention personnelle retrouvée : argument = intervention du groupe (Paul Midy).",
+      "argument": "Groupe EPR : la surtaxe est contre-productive pour l'économie et l'emploi ; le groupe refuse tout alourdissement.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+      "date": "2025-10-27"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Horizons a voté contre (18 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sorti du gouvernement le 12 octobre 2025, il n'avait pas encore retrouvé son siège de sénateur à la date du vote ; aucune déclaration retrouvée. Proxy : le groupe Droite républicaine a voté contre (25 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. Proxy : le groupe Droite républicaine a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre (scrutin AN n°3144) ; pas d'intervention personnelle retrouvée : argument = intervention du groupe RN (Jean-Philippe Tanguy).",
+      "argument": "Groupe RN : refus de la hausse générale des impôts du budget 2026, négociée selon lui entre le gouvernement et les socialistes.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N015",
+      "date": "2025-10-27"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête ; aucune déclaration retrouvée. Proxy très indirect : le groupe UDR a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Malgré le rejet de cet amendement, la loi de finances 2026 (adoptée par 49.3) a finalement maintenu les taux de 2025, en relevant le seuil à 1,5 milliard d'euros : la mesure rejetée a été en grande partie reprise.",
+    "Le RN, qui défend d'habitude la taxation des « superprofits », a voté contre.",
+    "Retailleau : statut à la date à vérifier (retour au Sénat un mois après sa sortie du gouvernement, soit vers mi-novembre 2025)."
+  ]
+}

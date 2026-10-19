@@ -1,0 +1,18 @@
+{
+  "id": "deconjugalisation-aah",
+  "questionSimple": "Faut-il verser l'allocation aux adultes handicapés sans tenir compte du salaire du conjoint ?",
+  "enBref": "L'allocation aux adultes handicapés aide les personnes handicapées qui ont peu de revenus. Jusqu'en 2023, son montant baissait, voire disparaissait, si le conjoint gagnait assez. Cette proposition de loi voulait ne plus compter les revenus du conjoint.",
+  "pourquoiPour": "Ceux qui ont voté pour veulent que les personnes handicapées ne dépendent pas financièrement de leur conjoint. Selon eux, cette dépendance est risquée, notamment en cas de violences.",
+  "pourquoiContre": "Le gouvernement et la majorité voyaient cette aide comme un minimum social, qui doit tenir compte des revenus du foyer. Ils craignaient aussi de faire des perdants.",
+  "ceQuiSestPasse": "Votée en 2020 (44 pour, 31 contre) mais bloquée ensuite ; la mesure n'a été définitivement adoptée qu'en août 2022 et s'applique depuis octobre 2023.",
+  "lexique": [
+    {
+      "terme": "AAH",
+      "definition": "Allocation aux adultes handicapés : revenu minimum versé aux personnes handicapées qui ont peu de ressources."
+    },
+    {
+      "terme": "Déconjugalisation",
+      "definition": "Fait de ne plus tenir compte des revenus du conjoint pour calculer une aide."
+    }
+  ]
+}

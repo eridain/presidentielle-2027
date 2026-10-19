@@ -1,0 +1,238 @@
+{
+  "id": "arcelormittal",
+  "titre": "Nationalisation d'ArcelorMittal France",
+  "question": "Faut-il nationaliser ArcelorMittal France pour préserver la production d'acier en France ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi d'Aurélie Trouvé (LFI) prévoit le transfert à l'État de la société ArcelorMittal France. Une commission administrative fixerait la valeur de l'entreprise, et la société nationalisée relèverait du régime des sociétés à participation publique. Le texte fait suite à l'annonce par le groupe de plus de 600 suppressions de postes en France au printemps 2025. L'Assemblée l'a adopté en première lecture le 27 novembre 2025, contre l'avis du gouvernement (127 voix pour, 41 contre), le RN s'étant abstenu. Le Sénat a rejeté le 25 février 2026 l'article unique restant (227 voix contre, 112 pour). L'Assemblée a de nouveau adopté le texte en deuxième lecture, puis l'a transmis au Sénat le 11 juin 2026.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif « Nationalisation d'ArcelorMittal France »",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/nationalisation_arcelormittal_2025"
+    },
+    {
+      "titre": "Franceinfo – L'Assemblée nationale adopte, en première lecture, une loi visant à nationaliser ArcelorMittal",
+      "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/l-assemblee-nationale-adopte-en-premiere-lecture-une-loi-visant-a-nationaliser-arcelormittal_7644401.html"
+    },
+    {
+      "titre": "Sénat – Scrutin n°202 du 25 février 2026",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-202.html"
+    },
+    {
+      "titre": "La Croix – ArcelorMittal : le projet de nationalisation a été rejeté au Sénat",
+      "url": "https://www.la-croix.com/economie/arcelormittal-le-projet-de-nationalisation-a-ete-rejete-au-senat-20260225"
+    },
+    {
+      "titre": "Sénat – Texte n° 735 (2025-2026) transmis en deuxième lecture",
+      "url": "https://www.senat.fr/leg/ppl25-735.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/nationalisation_arcelormittal_2025",
+  "argumentsPour": [
+    {
+      "auteur": "Aurélie Trouvé (LFI-NFP), rapporteure",
+      "resume": "La France doit continuer à produire son acier plutôt que dépendre de l'Asie : la nationalisation permettrait de choisir les travailleurs et l'acier français plutôt que les actionnaires.",
+      "citation": "Voulons-nous encore produire de l’acier, en France, dans dix ans ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073",
+      "date": "2025-11-27"
+    },
+    {
+      "auteur": "Julien Gokel (Socialistes)",
+      "resume": "ArcelorMittal est financièrement solide et verse des dividendes tout en supprimant des emplois ; le texte remet au centre les salariés et la souveraineté industrielle.",
+      "citation": "Ce texte a une vertu essentielle : il remet le sort des salariés au cœur du débat public, ainsi que la question de notre souveraineté industrielle.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073",
+      "date": "2025-11-27"
+    },
+    {
+      "auteur": "Stéphane Peu (GDR)",
+      "resume": "Depuis l'OPA de 2006, le groupe aurait organisé la disparition de la sidérurgie française (fermetures, suppressions d'emplois) malgré des profits records.",
+      "citation": "cela fait bientôt vingt ans qu’ArcelorMittal organise méthodiquement la disparition de la sidérurgie française.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073",
+      "date": "2025-11-27"
+    },
+    {
+      "auteur": "François Ruffin (Écologiste et social)",
+      "resume": "La part de l'industrie est tombée sous 10 % du PIB ; nationaliser Arcelor préserverait l'acier, les savoir-faire et l'industrie de défense, et marquerait un coup d'arrêt.",
+      "citation": "Nationalisez Arcelor parce qu’il n’y a pas d’industrie, et encore moins d’industrie de défense, sans acier.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073",
+      "date": "2025-11-27"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sébastien Martin (ministre délégué chargé de l'Industrie)",
+      "resume": "Le gouvernement privilégie une stratégie européenne et la compétitivité des sites ; la nationalisation n'aiderait pas les usines à se défendre.",
+      "citation": "La nationalisation n’en est pas un.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073",
+      "date": "2025-11-27"
+    },
+    {
+      "auteur": "Nicolas Ray (Droite républicaine)",
+      "resume": "Le texte ne traite pas les causes de la crise (prix de l'énergie, normes, coût du travail) et coûterait 3 à 4 milliards d'euros alors que la dette s'accumule.",
+      "citation": "le groupe Droite républicaine votera contre cette proposition de loi, qui apporte une mauvaise réponse à un vrai problème.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073",
+      "date": "2025-11-27"
+    },
+    {
+      "auteur": "Pierre Henriet (Horizons)",
+      "resume": "Le problème tient au rapport de force mondial plutôt qu'à l'actionnariat ; l'État accompagne déjà la décarbonation et agit au niveau européen.",
+      "citation": "Le cœur du problème n’est pas l’actionnariat d’ArcelorMittal France, mais le rapport de force mondial.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073",
+      "date": "2025-11-27"
+    },
+    {
+      "auteur": "Marie Lebec (Ensemble pour la République)",
+      "resume": "La sidérurgie a besoin de protection commerciale, de compétitivité, d'investissements et d'une action européenne ; le texte exposerait l'État et isolerait la filière.",
+      "citation": "Cette proposition de loi ne résout rien. Elle expose l’État, elle affaiblit la filière, elle ignore totalement l’échelle européenne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073",
+      "date": "2025-11-27"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Frédéric Weber (Rassemblement national)",
+      "resume": "Le RN juge la sidérurgie stratégique mais préfère une prise de participation de l'État par action préférentielle à une nationalisation.",
+      "citation": "Nous pensons que le temps de la nationalisation n’est pas encore inéluctable. La prise de la participation via une action préférentielle est la meilleure solution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073",
+      "date": "2025-11-27"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Sans mandat de député ; son message publié après le vote du 27 novembre 2025 est reproduit par franceinfo.",
+      "argument": "Il présente l'adoption comme une étape historique, la première nationalisation depuis 1982, obtenue par LFI avec la CGT.",
+      "citation": "Cette nuit, une page d'histoire à l'Assemblée nationale. ArcelorMittal est nationalisé ! Pour la 1ère fois depuis 1982, une nationalisation en France.",
+      "url": "https://www.franceinfo.fr/politique/parlement-francais/assemblee-nationale/l-assemblee-nationale-adopte-en-premiere-lecture-une-loi-visant-a-nationaliser-arcelormittal_7644401.html",
+      "date": "2025-11-27"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat de député en 2025 ; aucune déclaration spécifique sur ce texte n'a été vérifiée. PROXY : le groupe GDR a voté pour (13 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+      "date": "2025-11-27"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°4438) ; intervention en discussion générale le 27 novembre 2025.",
+      "argument": "La désindustrialisation est imputée aux dirigeants politiques et économiques ; nationaliser Arcelor conserverait l'acier français et les savoir-faire, et marquerait la volonté de l'État.",
+      "citation": "Nationalisez Arcelor pour arrêter la chute. Nationalisez Arcelor pour inverser le cours de l’histoire !",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N073",
+      "date": "2025-11-27"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Sans mandat parlementaire ; aucune déclaration sur la proposition de loi elle-même n'a été vérifiée. Le 7 mai 2025, elle réclamait des entrées de l'État au capital. PROXY : le groupe EcoS a voté pour (18 pour).",
+      "argument": "Selon elle, l'argent public versé à ArcelorMittal doit prendre la forme d'entrées au capital qui donnent à l'État prise sur les décisions.",
+      "citation": "Quand on met de l'argent dans ce type d'entreprise, ça doit être des entrées au capital, ça doit se traduire par le fait que l'État ait prise sur les décisions",
+      "url": "https://www.franceinfo.fr/politique/eelv/arcelormittal-il-faut-que-l-etat-ait-prise-sur-les-decisions-estime-marine-tondelier_7232649.html",
+      "date": "2025-05-07"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée (Écologiste et social, mandat en cours), elle n'a pas pris part au vote ; aucune déclaration n'a été trouvée. Son groupe EcoS a voté pour (18 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/deputes/PA335999",
+      "date": "2025-11-27"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, il n'a pas voté sur ce texte national ; aucune déclaration n'a été vérifiée. PROXY : le groupe Socialistes a voté pour (28 pour, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+      "date": "2025-11-27"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, président du groupe EPR, il n'a pas pris part au vote ; aucune déclaration n'a été vérifiée. Son groupe EPR a voté contre (19 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+      "date": "2025-11-27"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (président d'Horizons) ; aucune déclaration spécifique n'a été vérifiée. PROXY : le groupe Horizons a voté contre (10 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+      "date": "2025-11-27"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Vote nominatif contre au Sénat (scrutin n°202 du 25 février 2026, sur l'article 1er constituant l'ensemble du texte), dans la liste « Contre » du groupe LR ; aucune intervention personnelle n'a été retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-202.html",
+      "date": "2026-02-25"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Président de région, sans vote. Interrogé le 21 novembre 2025, il dit ne pas exclure une nationalisation « partielle, provisoire, temporaire » sans se prononcer sur le texte. PROXY : le groupe DR a voté contre (5 contre, 1 abstention).",
+      "argument": "Il veut faire pression sur Arcelor pour qu'il investisse à Dunkerque et accepte, si nécessaire, une nationalisation partielle et temporaire, de préférence dans une filière européenne.",
+      "citation": "Il faut faire bouger Arcelor. Et si pour faire bouger Arcelor, il faut qu'il craigne qu'il y ait nationalisation partielle, tout est sur la table. Tout.",
+      "url": "https://france3-regions.franceinfo.fr/hauts-de-france/nord-0/lille/entretien-xavier-bertrand-president-de-la-region-hauts-de-france-quand-on-veut-vraiment-ameliorer-la-vie-des-gens-c-est-au-sommet-de-l-etat-qu-on-peut-le-faire-3253309.html",
+      "date": "2025-11-21"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration spécifique n'a été vérifiée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté contre (5 contre, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+      "date": "2025-11-27"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Députée, elle n'a pas pris part au vote ; son groupe RN s'est abstenu (40 abstentions). Le 29 novembre 2025 (BFMTV), elle a dit ne pas exclure une nationalisation.",
+      "argument": "Elle n'exclut pas une nationalisation si elle s'avère nécessaire ; son groupe privilégiait une prise de participation par action préférentielle.",
+      "citation": "S'il faut en passer par la nationalisation, alors nous passerons par la nationalisation",
+      "url": "https://www.bfmtv.com/politique/video-arcelor-mittal-s-il-faut-en-passer-par-la-nationalisation-alors-nous-passerons-par-la-nationalisation-affirme-marine-le-pen_VN-202511290233.html",
+      "date": "2025-11-29"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national ; Reconquête n'a pas de groupe à l'Assemblée, donc pas de proxy ; aucune déclaration spécifique n'a été vérifiée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+      "date": "2025-11-27"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024, donc pas de proxy de groupe ; aucune déclaration sur ce texte n'a été trouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/4438",
+      "date": "2025-11-27"
+    }
+  },
+  "alertes": [
+    "tasks.json indique « LIOT : pour (0p/0c/0a) » et « NI : pour (0p/0c/0a) » : ces groupes n'ont aucun votant, l'étiquette « pour » n'a donc pas de sens.",
+    "Le Sénat a rejeté l'article 1er le 25 février 2026 ; la proposition de loi a été adoptée en deuxième lecture par l'Assemblée et transmise au Sénat le 11 juin 2026. Le scrutin et le détail de la deuxième lecture à l'AN n'ont pas été vérifiés.",
+    "Mélenchon : position tirée d'un message sur X reproduit par franceinfo, le message lui-même n'a pas été ouvert. Il présente le texte comme une nationalisation acquise alors qu'il n'est pas promulgué.",
+    "Le Pen : sa déclaration (titre et légende d'une vidéo BFMTV, vidéo non visionnée) est conditionnelle, d'où la position « inconnu ». Elle n'a pas voté, son groupe s'est abstenu.",
+    "Glucksmann : un article de Libération (20/06/2025) rapporte qu'il préfère une autre solution que la nationalisation, mais la page a renvoyé une erreur 403 : rien n'est retenu.",
+    "Tondelier et Bertrand : leurs déclarations portent sur l'entrée de l'État au capital ou la nationalisation partielle, pas sur ce texte ; position « inconnu ».",
+    "Batho, Attal et Le Pen étaient députés à la date du vote mais n'apparaissent pas dans la liste des votants du scrutin n°4438.",
+    "Le compte rendu de l'Assemblée attribue les explications de vote finales (3e séance) seulement aux groupes DR, HOR, RN, UDR et EPR ; les arguments de la gauche viennent de la discussion générale (2e séance)."
+  ]
+}

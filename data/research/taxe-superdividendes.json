@@ -1,0 +1,214 @@
+{
+  "id": "taxe-superdividendes",
+  "titre": "Taxer davantage les « superdividendes »",
+  "question": "Faut-il taxer davantage les « superdividendes » versés par les grandes entreprises (chiffre d'affaires supérieur à 750 millions d'euros) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Pendant l'examen du budget 2023, en pleine crise énergétique, le président du groupe MoDem Jean-Paul Mattei, membre de la majorité, propose de porter de 30 % à 35 % la « flat tax » (prélèvement forfaitaire unique) sur les « superdividendes » : la part des dividendes dépassant de 20 % la moyenne des cinq années précédentes, versés par des entreprises de plus de 750 millions d'euros de chiffre d'affaires ; les rachats d'actions sont aussi visés. Le 12 octobre 2022, l'amendement est adopté par 227 voix contre 88, contre l'avis du gouvernement, grâce à une coalition MoDem, gauche et RN. Le gouvernement ne l'a pas retenu dans le texte sur lequel il a engagé sa responsabilité (49.3) : la mesure n'est jamais entrée en vigueur.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 12 octobre 2022 (PLF 2023)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015"
+    },
+    {
+      "titre": "Public Sénat – Taxe sur les superdividendes : l'amendement Mattei fait son retour au Sénat (18/11/2022)",
+      "url": "https://www.publicsenat.fr/actualites/politique/taxe-sur-les-superdividendes-l-amendement-modem-fait-son-retour-au-senat-dans"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/269",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015",
+  "argumentsPour": [
+    {
+      "auteur": "Jean-Paul Mattei (Démocrate)",
+      "resume": "Plutôt que les superprofits, difficiles à taxer, viser les dividendes exceptionnels distribués par les grandes entreprises ; les petits épargnants peuvent opter pour le barème.",
+      "citation": "une flat tax à 35 % serait instaurée pour les superdividendes, c’est-à-dire ceux dont la somme serait supérieure de 20 % à la moyenne des revenus distribués ces cinq dernières années",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015",
+      "date": "2022-10-12"
+    },
+    {
+      "auteur": "Manuel Bompard (LFI-NUPES)",
+      "resume": "Les dividendes ont atteint un niveau record ; les faire participer à la solidarité nationale est une première étape.",
+      "citation": "Il semble de bon sens de vouloir les faire participer un peu à la solidarité nationale, et la proposition devrait rassembler largement sur ces bancs.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015",
+      "date": "2022-10-12"
+    },
+    {
+      "auteur": "Jean-Philippe Tanguy (RN)",
+      "resume": "Amendement raisonnable répondant à la demande des Français de mettre à contribution superprofits et rachats d'actions.",
+      "citation": "Voilà donc un amendement très raisonnable, très constructif, qui peut à mon avis rassembler tout le monde et nous permettre d’avancer sur le sujet",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015",
+      "date": "2022-10-12"
+    },
+    {
+      "auteur": "Sébastien Jumel (GDR-NUPES)",
+      "resume": "Il faut prendre l'argent chez les actionnaires qui profitent de la crise, sans attendre l'autorisation de Bruxelles.",
+      "citation": "Nous allons donc voter pour l’amendement de notre collègue parce qu’il prend le pognon là où il faut le prendre pour le donner là où il y en a besoin.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015",
+      "date": "2022-10-12"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Gabriel Attal (ministre délégué aux Comptes publics)",
+      "resume": "Le gouvernement privilégie la contribution européenne sur les énergéticiens et refuse de toucher à la flat tax, gage de confiance des investisseurs.",
+      "citation": "nous ne souhaitons pas affecter la stabilité du dispositif de flat tax car cela nuirait à la confiance des investisseurs, qui est indispensable à la relance de notre économie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015",
+      "date": "2022-10-12"
+    },
+    {
+      "auteur": "Véronique Louwagie (LR)",
+      "resume": "Taxer différemment les mêmes dividendes selon la taille de l'entreprise créerait une rupture d'égalité devant la loi.",
+      "citation": "taxer de manière différente, en fonction de la nature, de la taille et du montant du chiffre d’affaires des entreprises, constitue une vraie rupture d’égalité devant la loi.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015",
+      "date": "2022-10-12"
+    },
+    {
+      "auteur": "Jean-René Cazeneuve (rapporteur général, Renaissance)",
+      "resume": "Les « superdividendes » sont difficiles à définir et la flat tax vise à faire circuler l'argent vers d'autres entreprises : la relever enverrait un mauvais signal.",
+      "citation": "Si vous augmentez cette flat tax, vous envoyez un signal contraire, vous aurez moins d’argent pour financer d’autres entreprises.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015",
+      "date": "2022-10-12"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Lise Magnier (Horizons)",
+      "resume": "Le partage de la valeur est le vrai sujet, mais relever le PFU n'est pas l'outil adapté : abstention.",
+      "citation": "À ce stade, le groupe Horizons et apparentés s’abstiendra donc sur cet amendement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015",
+      "date": "2022-10-12"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2022 ; aucune déclaration retrouvée. Proxy : le groupe LFI-NUPES a voté pour (52 voix).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°269) ; aucune déclaration retrouvée. Proxy : le groupe GDR-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°269) ; aucune déclaration retrouvée. Proxy : le groupe LFI-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Écologiste-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°269) ; aucune déclaration retrouvée. Proxy : le groupe Écologiste-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. Proxy : le groupe Socialistes a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics : avis défavorable (demande de retrait) au nom du gouvernement.",
+      "argument": "Préfère la contribution européenne sur les profits des énergéticiens et refuse de modifier la flat tax pour préserver la confiance des investisseurs.",
+      "citation": "nous ne souhaitons pas affecter la stabilité du dispositif de flat tax car cela nuirait à la confiance des investisseurs, qui est indispensable à la relance de notre économie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015",
+      "date": "2022-10-12"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. Proxy : le groupe Horizons s'est abstenu (14 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur : pas de scrutin public retrouvé au Sénat sur l'amendement redéposé par J.-M. Vanlerenberghe ; aucune déclaration retrouvée. Proxy : le groupe LR de l'Assemblée a voté majoritairement contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; aucune déclaration retrouvée. Proxy : le groupe LR a voté majoritairement contre (12 contre, 4 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "A voté pour (scrutin AN n°269) ; pas d'intervention personnelle retrouvée : argument = intervention du groupe RN (Jean-Philippe Tanguy), qui rappelle qu'elle avait évoqué les rachats d'actions pendant la présidentielle.",
+      "argument": "Groupe RN : amendement raisonnable qui répond à la demande des Français de mettre à contribution superprofits et rachats d'actions.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N015",
+      "date": "2022-10-12"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°269) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Amendement adopté contre l'avis du gouvernement mais supprimé du texte final par le 49.3 : il n'a jamais été appliqué.",
+    "Le MoDem, membre de la majorité, est l'auteur de l'amendement ; Renaissance a voté majoritairement contre (74) mais 19 de ses députés ont voté pour.",
+    "Roussel, Ruffin, Batho et Dupont-Aignan n'ont pas pris part au vote."
+  ]
+}

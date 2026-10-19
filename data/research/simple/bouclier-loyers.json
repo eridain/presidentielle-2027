@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il continuer à limiter à 3,5 % par an la hausse des loyers des logements et des petits commerces ?",
+  "enBref": "Les loyers suivent normalement un indice lié à l'inflation, qui aurait dépassé 6 %. La loi prolonge jusqu'au début de 2024 un plafond de 3,5 % de hausse par an. Elle protège les locataires et les petites entreprises qui louent leurs locaux.",
+  "pourquoiPour": "Pour ses défenseurs, sans ce plafond les loyers auraient bondi de plus de 6 %. Les familles et les petits commerçants étaient déjà frappés par l'inflation.",
+  "pourquoiContre": "Pour la gauche, 3,5 % de hausse reste trop : il fallait geler les loyers. Pour la droite au Sénat, le texte pénalisait les propriétaires et les bailleurs sociaux sans compensation.",
+  "ceQuiSestPasse": "Adoptée par l'Assemblée malgré le rejet du Sénat, la loi a été promulguée le 7 juillet 2023.",
+  "lexique": [
+    {
+      "terme": "IRL",
+      "definition": "Indice de référence des loyers : il fixe la hausse maximale annuelle d'un loyer."
+    },
+    {
+      "terme": "Question préalable",
+      "definition": "Vote par lequel une assemblée rejette un texte sans en débattre les articles."
+    }
+  ],
+  "id": "bouclier-loyers"
+}

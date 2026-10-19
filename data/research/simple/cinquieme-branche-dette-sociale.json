@@ -1,0 +1,18 @@
+{
+  "id": "cinquieme-branche-dette-sociale",
+  "questionSimple": "Faut-il faire rembourser la dette de la Sécu jusqu'en 2033 et créer une nouvelle branche pour la dépendance ?",
+  "enBref": "En 2020, la crise du Covid a creusé la dette de la Sécurité sociale. Cette loi confie 136 milliards d'euros de dette à une caisse spéciale et prolonge son remboursement jusqu'en 2033. Elle crée aussi une cinquième branche de la Sécu pour les personnes âgées ou handicapées qui perdent leur autonomie.",
+  "pourquoiPour": "Ceux qui ont voté pour veulent garantir le paiement des prestations après la crise. Ils saluent la première extension de la Sécu depuis 1945.",
+  "pourquoiContre": "Ceux qui ont voté contre estiment que la dette du Covid devait être payée par l'État, pas par les cotisants. Selon eux, la nouvelle branche n'a presque pas d'argent.",
+  "ceQuiSestPasse": "Loi adoptée le 15 juin 2020 (350 pour, 81 contre) et promulguée le 7 août 2020.",
+  "lexique": [
+    {
+      "terme": "CADES",
+      "definition": "Caisse publique chargée de rembourser la dette de la Sécurité sociale grâce à des prélèvements comme la CRDS."
+    },
+    {
+      "terme": "Branche de la Sécu",
+      "definition": "Grande partie de la Sécurité sociale qui couvre un risque : maladie, retraite, famille, accidents du travail, autonomie."
+    }
+  ]
+}

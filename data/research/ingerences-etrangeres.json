@@ -1,0 +1,212 @@
+{
+  "id": "ingerences-etrangeres",
+  "titre": "Prévention des ingérences étrangères",
+  "question": "Faut-il autoriser l'usage d'algorithmes de renseignement et créer un registre des représentants d'intérêts étrangers pour prévenir les ingérences étrangères ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi, issue d'un rapport de la délégation parlementaire au renseignement (rapporteure Constance Le Grip), crée un répertoire public des représentants d'intérêts agissant pour le compte de puissances étrangères, tenu par la Haute Autorité pour la transparence de la vie publique, avec des sanctions pénales en cas de manquement. Elle autorise à titre expérimental les services de renseignement à utiliser la technique dite de l'algorithme pour détecter des ingérences, et étend le gel des avoirs aux auteurs d'actes d'ingérence. Le texte de la commission mixte paritaire a été adopté par l'Assemblée le 5 juin 2024 (138 pour, 10 contre, LFI et GDR contre). Le Conseil constitutionnel s'est déclaré incompétent (décision n° 2024-871 DC) et la loi n° 2024-850 a été promulguée le 25 juillet 2024.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – dossier législatif ppl23-479",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl23-479.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 5 juin 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-05-juin-2024"
+    },
+    {
+      "titre": "Sénat – scrutin n°200 du 22 mai 2024 (suppression de l'article 3)",
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-200.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/ppl23-479.html",
+  "argumentsPour": [
+    {
+      "auteur": "Constance Le Grip (Renaissance, rapporteure)",
+      "resume": "Le texte renforce la transparence sur l'influence étrangère grâce à un répertoire public des opérations menées pour le compte de puissances étrangères.",
+      "citation": "il vise à renforcer la transparence en matière d’influence étrangère, grâce à la création d’un répertoire retraçant les opérations d’influence menées dans notre pays au nom de puissances ou d’entités étrangères.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-05-juin-2024",
+      "date": "2024-06-05"
+    },
+    {
+      "auteur": "Philippe Pradal (Horizons)",
+      "resume": "La menace d'ingérence, hybride, s'intensifie dans un contexte international instable ; elle est jugée à un niveau élevé par plusieurs rapports parlementaires.",
+      "citation": "Hybride et pernicieuse, la menace d’ingérences s’intensifie année après année, dans un contexte international toujours plus tendu, complexe et instable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-05-juin-2024",
+      "date": "2024-06-05"
+    },
+    {
+      "auteur": "Kévin Pfeffer (Rassemblement national)",
+      "resume": "Le RN soutient l'examen du texte : le sujet des ingérences étrangères est trop important pour être écarté.",
+      "citation": "Nous nous opposerons à cette motion de rejet, car le sujet des ingérences étrangères en France est beaucoup trop important pour être écarté.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-05-juin-2024",
+      "date": "2024-06-05"
+    },
+    {
+      "auteur": "Pierre-Henri Dumont (Les Républicains)",
+      "resume": "LR met en avant depuis longtemps les questions d'ingérence et votera la proposition de loi.",
+      "citation": "Cela fait longtemps que notre groupe a mis en avant ces questions d’ingérence étrangère.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-05-juin-2024",
+      "date": "2024-06-05"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Aurélien Saintoul (La France insoumise)",
+      "resume": "Le texte serait inefficace et dangereux : il prendrait prétexte des ingérences pour étendre des techniques de surveillance intrusives et réduire les libertés publiques.",
+      "citation": "il prend prétexte de la lutte contre les ingérences étrangères pour réduire encore l’espace des libertés publiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-05-juin-2024",
+      "date": "2024-06-05"
+    },
+    {
+      "auteur": "Karine Lebon (GDR)",
+      "resume": "L'extension des algorithmes de renseignement (« boîtes noires ») à des finalités trop vagues porte une grave atteinte aux libertés.",
+      "citation": "Je pense ici à l’article 3 de la proposition de loi, qui constitue une grave atteinte aux libertés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-05-juin-2024",
+      "date": "2024-06-05"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Jérémie Iordanoff (Écologiste)",
+      "resume": "Le groupe soutient la transparence sur l'influence étrangère mais était réservé sur l'extension de la technique de l'algorithme.",
+      "citation": "Nous étions plus réservés sur l’extension de la technique de l’algorithme aux cas d’ingérence étrangère.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mercredi-05-juin-2024",
+      "date": "2024-06-05"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour / 7 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4051) ; aucune déclaration retrouvée. Indication : son groupe GDR a voté contre (0 pour / 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4051) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le seul député Écologiste votant s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°4051) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée sur ce texte. PROXY : le groupe Socialistes a voté pour (8 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a soutenu la proposition de loi et engagé la procédure accélérée (20 mars 2024) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/ppl23-479.html",
+      "date": "2024-06-05"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (7 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif au Sénat contre les amendements de suppression de l'article 3 (algorithmes de renseignement), scrutin n°200 du 22 mai 2024, rejetés par 311 voix contre 33 : soutien au dispositif.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-200.html",
+      "date": "2024-05-22"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (14 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°4051) ; aucune déclaration retrouvée. Indication : son groupe RN a voté pour (38 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4051) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/4051",
+      "date": "2024-06-05"
+    }
+  },
+  "alertes": [
+    "Scrutin à faible participation (149 votants) : Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote.",
+    "Retailleau : position déduite de son vote au Sénat contre la suppression de l'article 3 (algorithmes), pas d'un vote sur l'ensemble du texte.",
+    "Attal : Premier ministre à la date du vote ; position déduite du soutien du gouvernement (procédure accélérée), sans déclaration personnelle.",
+    "Plusieurs arguments « pour » (Pfeffer, Dumont) sont tirés des explications de vote sur la motion de rejet préalable déposée par LFI, examinée le même jour."
+  ]
+}

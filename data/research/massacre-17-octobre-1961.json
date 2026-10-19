@@ -1,0 +1,205 @@
+{
+  "id": "massacre-17-octobre-1961",
+  "titre": "Reconnaissance du massacre du 17 octobre 1961",
+  "question": "Faut-il reconnaître et condamner le massacre des Algériens du 17 octobre 1961 à Paris ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le 17 octobre 1961, une manifestation pacifique d'Algériens à Paris contre le couvre-feu qui leur était imposé, organisée par le FLN, a été réprimée dans le sang par la police sous l'autorité du préfet Maurice Papon : environ 12 000 arrestations et, selon des travaux récents, jusqu'à 200 morts, dont des corps jetés dans la Seine. La proposition de résolution n° 2243 (première signataire Sabrina Sebaihi, Écologiste, cosignée notamment par le président du groupe Renaissance), sans valeur contraignante, « condamne la répression sanglante et meurtrière » de ce jour et souhaite une journée de commémoration officielle. Soutenue par le gouvernement, qui a toutefois jugé prématurée une nouvelle journée commémorative, elle a été adoptée le 28 mars 2024 par 67 voix contre 11 (RN contre).",
+  "contexteSources": [
+    {
+      "titre": "LCP – L'Assemblée nationale reconnaît et condamne le massacre des Algériens du 17 octobre 1961",
+      "url": "https://lcp.fr/actualites/l-assemblee-nationale-reconnait-et-condamne-le-massacre-des-algeriens-du-17-octobre-1961"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution n° 2243",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/reconnaissance_condamnation_massacre_algeriens"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 28 mars 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-jeudi-28-mars-2024"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/reconnaissance_condamnation_massacre_algeriens",
+  "argumentsPour": [
+    {
+      "auteur": "Sabrina Sebaihi (Écologiste, première signataire)",
+      "resume": "Des centaines d'Algériens ont été massacrés sur ordre des autorités de l'État ; l'histoire a ses parts d'ombre et la France doit les regarder en face.",
+      "citation": "Le 17 octobre 1961, des centaines d’Algériens ont été massacrés ou blessés et des milliers d’autres enfermés, sur ordre du préfet de police Maurice Papon",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-jeudi-28-mars-2024",
+      "date": "2024-03-28"
+    },
+    {
+      "auteur": "Julie Delpech (Renaissance)",
+      "resume": "Pendant des décennies, l'ampleur de la tragédie a été occultée ; le groupe vote le texte dans un esprit d'apaisement, dans la lignée du geste présidentiel de 2021.",
+      "citation": "C’est dans cet esprit d’apaisement que notre groupe votera en faveur de votre proposition de résolution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-jeudi-28-mars-2024",
+      "date": "2024-03-28"
+    },
+    {
+      "auteur": "Bastien Lachaud (La France insoumise)",
+      "resume": "Une manifestation pacifique a été réprimée sauvagement par la police, avec des milliers d'arrestations et des victimes dont le nombre reste inconnu.",
+      "citation": "La police, sous les ordres du préfet Maurice Papon, déchaîne une répression sauvage",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-jeudi-28-mars-2024",
+      "date": "2024-03-28"
+    },
+    {
+      "auteur": "Elsa Faucillon (GDR)",
+      "resume": "Le groupe vote le texte avec émotion, tout en estimant que le combat pour la reconnaissance n'est pas terminé.",
+      "citation": "C’est avec émotion, je le répète, que nous voterons ce texte, tout en gardant à l’esprit que le combat n’est pas terminé.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-jeudi-28-mars-2024",
+      "date": "2024-03-28"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Frank Giletti (Rassemblement national)",
+      "resume": "Le RN dénonce une « repentance à outrance » qui empêche la réconciliation et souligne que la manifestation, interdite, était organisée par le FLN.",
+      "citation": "comment pourrions-nous y parvenir si, continuellement, de la gauche jusqu’au centre de cet hémicycle, nous ne cessons d’alterner entre accusations unilatérales et repentance à outrance ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-jeudi-28-mars-2024",
+      "date": "2024-03-28"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Lise Magnier (Horizons)",
+      "resume": "Sans nier la violence de cette soirée, il revient d'abord aux historiens d'établir les faits et responsabilités ; liberté de vote dans le groupe.",
+      "citation": "nous sommes convaincus qu’il revient d’abord aux historiens de déterminer les faits et les responsabilités pour qu’ensuite nous puissions les qualifier.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-jeudi-28-mars-2024",
+      "date": "2024-03-28"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2024 ; aucune déclaration vérifiée sur cette résolution. PROXY : le groupe LFI-NUPES a voté pour (22 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°3623) ; aucune déclaration retrouvée. Indication : son groupe GDR a voté pour (2 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin AN n°3623) ; pas d'intervention personnelle retrouvée, argument = explication du groupe LFI-NUPES (Bastien Lachaud).",
+      "argument": "Le groupe LFI dénonce une répression sauvage d'une manifestation pacifique et appelle à reconnaître un crime de l'institution policière.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/seance-du-jeudi-28-mars-2024",
+      "date": "2024-03-28"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES, dont la première signataire est membre, a voté pour (10 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°3623) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (5 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre ; le gouvernement a soutenu la résolution en séance (Dominique Faure), tout en jugeant prématurée une nouvelle journée commémorative ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://lcp.fr/actualites/l-assemblee-nationale-reconnait-et-condamne-le-massacre-des-algeriens-du-17-octobre-1961",
+      "date": "2024-03-28"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a laissé la liberté de vote (0 pour / 0 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte propre à l'Assemblée ; aucune déclaration retrouvée. PROXY : le seul député LR votant s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration retrouvée. PROXY : le seul député LR votant s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; aucune déclaration retrouvée. PROXY : le seul député LR votant s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°3623) ; aucune déclaration retrouvée. Indication : son groupe RN a voté contre (0 pour / 11 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°3623) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3623",
+      "date": "2024-03-28"
+    }
+  },
+  "alertes": [
+    "Scrutin à faible participation (82 votants) un jeudi de niche : Roussel, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote.",
+    "Le bilan (12 000 arrestations, jusqu'à 200 morts) est celui rapporté par LCP ; il reste débattu par les historiens.",
+    "Attal : position déduite du soutien du gouvernement au texte (rapporté par LCP), sans déclaration personnelle.",
+    "Ruffin : argument repris de l'explication de vote de son groupe."
+  ]
+}

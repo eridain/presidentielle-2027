@@ -1,0 +1,214 @@
+{
+  "id": "cours-criminelles",
+  "titre": "Loi Confiance : cours criminelles et peines",
+  "question": "Faut-il généraliser les cours criminelles départementales sans jury populaire et supprimer les réductions de peine automatiques (loi Dupond-Moretti, 2021) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Porté par le garde des Sceaux Éric Dupond-Moretti, le projet de loi pour la confiance dans l'institution judiciaire généralise au 1er janvier 2023 les cours criminelles départementales, composées de cinq magistrats professionnels sans jurés, pour juger les crimes punis de quinze à vingt ans de réclusion (notamment les viols), après l'expérimentation lancée en 2019. Il remplace les crédits de réduction de peine automatiques par des réductions accordées par le juge selon la conduite et les efforts du détenu, crée un contrat d'emploi pénitentiaire, limite la durée des enquêtes préliminaires (deux ans, prolongeables d'un an) et renforce le secret professionnel de l'avocat. Le texte de la commission mixte paritaire a été adopté par l'Assemblée le 16 novembre 2021 (66 pour, 11 contre, 11 abstentions) puis définitivement par le Sénat le 18 novembre ; la loi a été promulguée le 22 décembre 2021 (loi n° 2021-1729).",
+  "contexteSources": [
+    {
+      "titre": "Sénat – Dossier législatif du projet de loi pour la confiance dans l'institution judiciaire",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl20-630.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la deuxième séance du 16 novembre 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N063"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°4154",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/pjl20-630.html",
+  "argumentsPour": [
+    {
+      "auteur": "Laetitia Avia (La République en marche)",
+      "resume": "Les cours criminelles départementales ont fait leurs preuves ; le texte restaure la confiance en encadrant les enquêtes et en supprimant les réductions de peine automatiques.",
+      "citation": "Je me réjouis d’ailleurs que nous soyons parvenus, dans le cadre de la commission mixte paritaire, à un consensus pérennisant les cours criminelles départementales, qui ont fait leurs preuves.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N063",
+      "date": "2021-11-16"
+    },
+    {
+      "auteur": "Dimitri Houbron (Agir ensemble)",
+      "resume": "La fermeté doit guider l'application des peines : fin des réductions automatiques, et travail en prison encadré pour favoriser la réinsertion.",
+      "citation": "Les crédits de réduction de peine ne seront désormais plus automatiques. Enfin, le contrat d’emploi pénitentiaire sera l’assurance de faire de la prison un lieu de réinsertion et non de perdition.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N063",
+      "date": "2021-11-16"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "André Chassaigne (Gauche démocrate et républicaine)",
+      "resume": "La généralisation des cours criminelles éloigne les citoyens de la justice en supprimant les jurés populaires pour la plupart des crimes ; le nouveau régime de réduction de peine serait contre-productif.",
+      "citation": "Nous pensons en particulier à la généralisation des cours criminelles départementales, qui scelle la suppression des cours d’assises dans la plupart des affaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N063",
+      "date": "2021-11-16"
+    },
+    {
+      "auteur": "Ugo Bernalicis (La France insoumise)",
+      "resume": "Plutôt que de supprimer les réductions de peine automatiques, il aurait fallu un mécanisme de régulation carcérale pour mettre fin à la surpopulation ; il préfère renforcer les cours d'assises.",
+      "citation": "Plutôt que de supprimer les réductions de peine automatiques, nous aurions pu assumer le fait d’appliquer un mécanisme de régulation carcérale",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N063",
+      "date": "2021-11-16"
+    },
+    {
+      "auteur": "Jean-Félix Acquaviva (Libertés et territoires)",
+      "resume": "La disparition progressive des jurys d'assises serait une erreur démocratique, et la réforme des réductions de peine risque d'accroître les sorties sèches.",
+      "citation": "La disparition progressive des jurys d’assises constitue selon nous une erreur, car ils sont un grand moment de démocratie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N063",
+      "date": "2021-11-16"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Cécile Untermaier (Socialistes)",
+      "resume": "Elle salue certaines avancées mais émet des réserves sur la réforme des réductions de peine, qui n'emporte pas l'adhésion des professionnels et fait craindre des tensions en prison.",
+      "citation": "si l’on comprend l’intention qui consiste à lier la réduction de peine à la bonne conduite, il nous semble que tel était déjà le cas",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N063",
+      "date": "2021-11-16"
+    },
+    {
+      "auteur": "Antoine Savignat (Les Républicains)",
+      "resume": "Il soutient la généralisation des cours criminelles et le meilleur encadrement des aménagements de peine ; son groupe s'est majoritairement abstenu.",
+      "citation": "Je n’aurais pas parié sur la réussite de ces expérimentations mais force est de constater qu’elles font l’unanimité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N063",
+      "date": "2021-11-16"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4154) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI a voté contre (0 pour / 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4154) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR a voté contre (0 pour / 2 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4154) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI a voté contre (0 pour / 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; pas de groupe EELV à l'Assemblée en 2021.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°4154) ; aucune déclaration retrouvée. À titre indicatif, le seul non-inscrit votant s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée s'est majoritairement abstenu (0 pour / 2 contre / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a porté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl20-630.html",
+      "date": "2021-11-16"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, président d'Horizons (fondé en octobre 2021), sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe Agir ensemble a voté pour (8 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour au Sénat sur le texte de la commission mixte paritaire (scrutin n°45 du 18 novembre 2021, liste « Pour » du groupe LR).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2021/scr2021-45.html",
+      "date": "2021-11-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée s'est majoritairement abstenu (2 pour / 0 contre / 5 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) s'est majoritairement abstenu (2 pour / 0 contre / 5 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°4154) ; aucune déclaration retrouvée. À titre indicatif, le seul non-inscrit votant s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ; aucune déclaration vérifiée sur ce texte ; pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°4154) ; aucune déclaration retrouvée. À titre indicatif, le seul non-inscrit votant s'est abstenu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4154",
+      "date": "2021-11-16"
+    }
+  },
+  "alertes": [
+    "Scrutin à très faible participation (88 votants, séance de nuit) : aucun des candidats députés n'a pris part au vote ; aucune déclaration vérifiée n'a été retrouvée pour eux, positions laissées « inconnu ».",
+    "Le scrutin porte sur le projet de loi ordinaire (texte de CMP modifié par des amendements du Gouvernement sur le secret professionnel de l'avocat) ; le projet de loi organique associé a fait l'objet d'un vote distinct.",
+    "Les cours criminelles départementales ne jugent pas tous les crimes : elles concernent les crimes punis de 15 ou 20 ans de réclusion (les plus graves restant aux cours d'assises) ; la question ne le précise pas.",
+    "Le dossier du Sénat mentionne une décision du Conseil constitutionnel n° 2021-830 DC du 17 décembre 2021 (conforme) sur saisine du Premier ministre ; elle n'a pas été vérifiée sur le site du Conseil et n'est pas reprise dans le contexte.",
+    "Le groupe LR s'est majoritairement abstenu alors que son orateur (Antoine Savignat) soutenait la généralisation des cours criminelles ; son intervention a surtout porté sur le secret professionnel des avocats.",
+    "Attal : position déduite de son appartenance au gouvernement. Retailleau : vote au Sénat sur le même texte de CMP."
+  ]
+}

@@ -1,0 +1,276 @@
+{
+  "partiId": "reconquete",
+  "condamnations": [
+    {
+      "personne": "Ravier Stéphane",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien sénateur des Bouches-du-Rhône (2014-2026)",
+      "infraction": "prise illégale d'intérêts",
+      "faits": "Intervention dans le recrutement de son fils à la mairie du 7e secteur de Marseille (13e-14e arrondissements), dont il était maire, via dix CDD sur environ trois ans et demi, puis une titularisation comme stagiaire (années 2010).",
+      "juridiction": "cour d'appel d'Aix-en-Provence",
+      "dateDecision": "2026-02-10",
+      "peine": "6 mois d'emprisonnement avec sursis, 1 an d'inéligibilité (confirmation du jugement du tribunal correctionnel de Marseille du 29 mai 2024)",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Stéphane Ravier condamné en appel à un an d'inéligibilité pour prise illégale d'intérêts (BFM Marseille Provence)",
+          "url": "https://www.bfmtv.com/marseille/info-bfm-marseille-provence-stephane-ravier-condamne-en-appel-a-un-an-d-ineligibilite-pour-prise-illegale-d-interets_AN-202602100591.html",
+          "citation": "Stéphane Ravier, sénateur des Bouches-du-Rhône, a été condamné en appel à six mois de prison avec sursis et à un an d'inéligibilité pour prise illégale d'intérêts, ce mardi 10 février",
+          "date": "2026-02-10"
+        },
+        {
+          "titre": "Stéphane Ravier condamné en appel pour prise illégale d’intérêts (La Marseillaise)",
+          "url": "https://www.lamarseillaise.fr/societe/stephane-ravier-condamne-en-appel-pour-prise-illegale-d-interets-IN19634408",
+          "citation": "nous allons former un pourvoi devant la chambre criminelle de la cour de cassation. Notre recours suspend naturellement l’exécution des sanctions prononcées à l’encontre de Monsieur Ravier.",
+          "date": "2026-02-11"
+        },
+        {
+          "titre": "Stéphane Ravier, sénateur Reconquête !, condamné à six mois de prison avec sursis et un an d’inéligibilité pour prise illégale d’intérêts (Le Monde)",
+          "url": "https://www.lemonde.fr/politique/article/2024/05/29/le-senateur-de-reconquete-stephane-ravier-condamne-a-six-mois-de-prison-avec-sursis-et-ineligibilite-d-un-an-pour-prise-illegale-d-interets_6236149_823448.html",
+          "citation": "Stéphane Ravier, sénateur Reconquête !, condamné à six mois de prison avec sursis et un an d’inéligibilité pour prise illégale d’intérêts",
+          "date": "2024-05-29"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2024-09-02",
+        "detail": "Sénateur des Bouches-du-Rhône élu en 2014 sous l'étiquette FN, membre de Reconquête de 2022 à son départ annoncé le 2 septembre 2024 ; battu aux sénatoriales du 27 septembre 2026.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Le sénateur Stéphane Ravier quitte le parti Reconquête (Public Sénat)",
+            "url": "https://www.publicsenat.fr/actualites/politique/le-senateur-stephane-ravier-quitte-le-parti-reconquete",
+            "citation": "Le parti d’Éric Zemmour vient de perdre son dernier parlementaire national après l’annonce du départ de Reconquête du sénateur des Bouches-du-Rhône, Stéphane Ravier."
+          },
+          {
+            "titre": "Le sénateur Stéphane Ravier quitte Reconquête ! et appelle à une union des droites pour les municipales à Marseille (Le Monde, 2 septembre 2024)",
+            "url": "https://www.lemonde.fr/politique/article/2024/09/02/le-senateur-stephane-ravier-quitte-reconquete-et-appelle-a-une-union-des-droites-pour-les-municipales-a-marseille_6302338_823448.html",
+            "citation": "Le sénateur Stéphane Ravier quitte Reconquête ! et appelle à une union des droites pour les municipales à Marseille"
+          },
+          {
+            "titre": "Sénatoriales dans les Bouches-du-Rhône : Renaud Muselier élu, Stéphane Ravier battu (La Provence)",
+            "url": "https://www.laprovence.com/article/politique/19890378784900/senatoriales-dans-les-bouches-du-rhone-renaud-muselier-elu-stephane-ravier-battu-la-gauche-en-tete-decouvrez-les-resultats",
+            "citation": "La principale surprise est venue de la défaite de Stéphane Ravier (EXD), sénateur depuis 2014."
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Ravier Stéphane",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien sénateur des Bouches-du-Rhône (2014-2026)",
+      "infraction": "favoritisme",
+      "faits": "Fractionnement d'un marché public de la mairie du 7e secteur de Marseille entre deux sociétés d'un même propriétaire, évitant une mise en concurrence, de septembre 2016 à juin 2017, alors qu'il en était maire (élu FN).",
+      "juridiction": "tribunal correctionnel de Marseille",
+      "dateDecision": "2026-02-17",
+      "peine": "3 mois d'emprisonnement avec sursis, 5 000 euros d'amende, 1 an d'inéligibilité",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Le sénateur d'extrême droite Stéphane Ravier condamné à trois mois de prison et un an d'inéligibilité (ICI)",
+          "url": "https://www.ici.fr/provence-alpes-cote-d-azur/bouches-du-rhone-13/marseille/le-senateur-d-extreme-droite-stephane-ravier-condamne-a-trois-mois-de-prison-et-un-an-d-ineligibilite-3627927",
+          "citation": "Stéphane Ravier a été condamné à trois mois de prison avec sursis, accompagnés d'un an d'inéligibilité ainsi que d'une amende de cinq mille euros pour des faits de favoritisme.",
+          "date": "2026-02-17"
+        },
+        {
+          "titre": "Les ex-maires RN du 13/14, Sandrine D'Angio et Stéphane Ravier, condamnés pour favoritisme (Marsactu)",
+          "url": "https://marsactu.fr/les-ex-maires-rn-du-13-14-sandrine-dangio-et-stephane-ravier-condamnes-pour-favoritisme/",
+          "citation": "Ce mardi 17 février, Stéphane Ravier et Sandrine D'Angio, successivement maires Rassemblement national (RN) des 13e et 14e arrondissements de Marseille, ont été déclarés coupables de favoritisme.",
+          "date": "2026-02-17"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2024-09-02",
+        "detail": "Sénateur des Bouches-du-Rhône élu en 2014 sous l'étiquette FN, membre de Reconquête de 2022 à son départ annoncé le 2 septembre 2024 ; battu aux sénatoriales du 27 septembre 2026.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Le sénateur Stéphane Ravier quitte le parti Reconquête (Public Sénat)",
+            "url": "https://www.publicsenat.fr/actualites/politique/le-senateur-stephane-ravier-quitte-le-parti-reconquete",
+            "citation": "Le parti d’Éric Zemmour vient de perdre son dernier parlementaire national après l’annonce du départ de Reconquête du sénateur des Bouches-du-Rhône, Stéphane Ravier."
+          },
+          {
+            "titre": "Le sénateur Stéphane Ravier quitte Reconquête ! et appelle à une union des droites pour les municipales à Marseille (Le Monde, 2 septembre 2024)",
+            "url": "https://www.lemonde.fr/politique/article/2024/09/02/le-senateur-stephane-ravier-quitte-reconquete-et-appelle-a-une-union-des-droites-pour-les-municipales-a-marseille_6302338_823448.html",
+            "citation": "Le sénateur Stéphane Ravier quitte Reconquête ! et appelle à une union des droites pour les municipales à Marseille"
+          },
+          {
+            "titre": "Sénatoriales dans les Bouches-du-Rhône : Renaud Muselier élu, Stéphane Ravier battu (La Provence)",
+            "url": "https://www.laprovence.com/article/politique/19890378784900/senatoriales-dans-les-bouches-du-rhone-renaud-muselier-elu-stephane-ravier-battu-la-gauche-en-tete-decouvrez-les-resultats",
+            "citation": "La principale surprise est venue de la défaite de Stéphane Ravier (EXD), sénateur depuis 2014."
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Bay Nicolas",
+      "categorie": "ancien_membre",
+      "roleActuel": "député européen (Identité-Libertés, groupe ECR)",
+      "infraction": "détournement de fonds publics (en tant que député européen)",
+      "faits": "Affaire des assistants parlementaires du Front national au Parlement européen, faits de 2014-2015 commis sous l'étiquette FN.",
+      "juridiction": "cour d'appel de Paris",
+      "dateDecision": "2026-07-07",
+      "peine": "1 an d'emprisonnement avec sursis, 5 000 euros d'amende, 2 ans d'inéligibilité avec sursis",
+      "statut": "pourvoi_en_cours",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Marine Le Pen, Bruno Gollnisch, Louis Aliot… voici les 11 condamnations à l'issue du procès en appel des assistants parlementaires du FN (franceinfo)",
+          "url": "https://www.franceinfo.fr/politique/front-national/affaire-des-assistants-fn-au-parlement-europeen/marine-le-pen-bruno-gollnisch-louis-aliot-voici-les-11-condamnations-a-l-issue-du-proces-en-appel-des-assistants-parlementaires-du-fn_8089790.html",
+          "citation": "Nicolas Bay, ex-secrétaire général du FN et toujours eurodéputé. Lui aussi est condamné à une peine d'un an de prison avec sursis, 5 000 euros d'amende et deux ans d'inéligibilité avec sursis.",
+          "date": "2026-07-07"
+        },
+        {
+          "titre": "Procès des assistants parlementaires du FN : l'élu normand Nicolas Bay va se pourvoir en Cassation (France 3 Normandie)",
+          "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/proces-des-assistants-parlementaires-du-fn-l-elu-normand-nicolas-bay-va-se-pourvoir-en-cassation-3386704.html",
+          "citation": "Nicolas Bay va déposer un recours devant la Cour de Cassation suite à sa condamnation en appel le 7 juillet 2026 dans l'affaire des assistants parlementaires du Front National, pour des faits remontant à 2014 et 2015.",
+          "date": "2026-07-15"
+        },
+        {
+          "titre": "Nicolas Bay (Identité Libertés) rétabli dans son mandat de conseiller régional de Normandie (Paris-Normandie)",
+          "url": "https://www.paris-normandie.fr/id738257/article/2026-08-12/en-attendant-laudience-en-cassation-nicolas-bay-autorise-sieger-nouveau-au",
+          "citation": "le député européen Nicolas Bay (ex-RN, ex-Reconquête et désormais chez Identité Libertés, le parti de Marion Maréchal) a été condamné en appel, mardi 7 juillet 2026.",
+          "date": "2026-08-12"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "exclu",
+        "depuis": "2024-06-12",
+        "detail": "Vice-président exécutif de Reconquête (2022-2024) et député européen, exclu par Éric Zemmour le 12 juin 2024 avec trois autres eurodéputés après la rupture avec Marion Maréchal.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Political future of expelled newly elected Reconquête! MEPs in question (Euractiv)",
+            "url": "https://euractiv.com/section/elections/news/political-future-of-expelled-newly-elected-reconquete-meps-in-question",
+            "citation": "Eric Zemmour announced, Wednesday (12 June), that he had expelled four of his five newly-elected members of the European Parliament (MEPs)"
+          },
+          {
+            "titre": "Procès des assistants parlementaires du FN : l'élu normand Nicolas Bay va se pourvoir en Cassation (France 3 Normandie)",
+            "url": "https://france3-regions.franceinfo.fr/normandie/seine-maritime/rouen/proces-des-assistants-parlementaires-du-fn-l-elu-normand-nicolas-bay-va-se-pourvoir-en-cassation-3386704.html",
+            "citation": "Nicolas Bay, ancien membre du Rassemblement National et du Front National, est aujourd'hui membre du parti \"Identité Libertés\" de Marion Maréchal."
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Rivière Jérôme",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien député européen (2019-2024)",
+      "infraction": "fraude fiscale aggravée et blanchiment de fraude fiscale aggravée",
+      "faits": "Soustraction d'environ 356 000 euros au fisc entre février 2014 et mai 2018 via des sociétés domiciliées à Hongkong dont le siège effectif était en France.",
+      "juridiction": "tribunal correctionnel de Paris",
+      "dateDecision": "2025-09-02",
+      "peine": "3 ans d'emprisonnement avec sursis, 90 000 euros d'amende au total (selon Le Monde), 5 ans d'inéligibilité et interdiction de gérer, avec exécution provisoire, publication du jugement",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "probite",
+      "lieeMandatPolitique": false,
+      "sources": [
+        {
+          "titre": "L’ancien eurodéputé Jérôme Rivière condamné pour fraude fiscale aggravée (Le Monde)",
+          "url": "https://www.lemonde.fr/les-decodeurs/article/2025/09/03/l-ancien-eurodepute-jerome-riviere-condamne-pour-fraude-fiscale-aggravee_6638780_4355770.html",
+          "citation": "l’ex-député et eurodéputé Jérôme Rivière a été condamné par le tribunal correctionnel de Paris à trois ans de prison avec sursis et un total de 90 000 euros d’amende, pour fraude fiscale aggravée et blanchiment de ce délit.",
+          "date": "2025-09-03"
+        },
+        {
+          "titre": "L’ex-élu Jérôme Rivière condamné à trois ans de prison avec sursis pour fraude fiscale (Ouest-France)",
+          "url": "https://www.ouest-france.fr/societe/justice/lex-elu-jerome-riviere-condamne-a-trois-ans-de-prison-avec-sursis-pour-fraude-fiscale-cd603688-8a73-11f0-a86a-c405a2987708",
+          "citation": "L’ex-eurodéputé Jérôme Rivière a été condamné mardi 2 septembre 2025 à Paris à trois ans de prison avec sursis et une amende de 50 000€ pour fraude fiscale aggravée et blanchiment",
+          "date": "2025-09-05"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2023-09",
+        "detail": "Député européen élu sur la liste RN en 2019, rallié à Reconquête en janvier 2022 ; son appartenance passe de Reconquête à « indépendant » sur sa fiche d'eurodéputé en septembre 2023.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "L’ancien eurodéputé Jérôme Rivière condamné pour fraude fiscale aggravée (Le Monde)",
+            "url": "https://www.lemonde.fr/les-decodeurs/article/2025/09/03/l-ancien-eurodepute-jerome-riviere-condamne-pour-fraude-fiscale-aggravee_6638780_4355770.html",
+            "citation": "sous les bannières du Rassemblement national (2015-2022) et de Reconquête! (2022-2023), et il siégeait encore sur les bancs du Parlement européen jusqu’en juin 2024."
+          },
+          {
+            "titre": "Jérôme Rivière quitte Reconquête ! (Projet Arcadie)",
+            "url": "https://projetarcadie.com/jerome-riviere-quitte-reconquete/",
+            "citation": "ce jeudi 7 septembre 2023, un petit changement est intervenu sur la fiche de l’eurodéputé, dans la section concernant le parti d’appartenance. De Reconquête ! il passe à indépendant."
+          }
+        ]
+      }
+    },
+    {
+      "personne": "Collard Gilbert",
+      "categorie": "ancien_membre",
+      "roleActuel": "ancien député européen (2019-2024), avocat",
+      "infraction": "diffamation publique envers un particulier",
+      "faits": "Propos tenus sur France Bleu en mars 2017, alors député FN/RN du Gard, affirmant à tort que Xavier Niel avait été condamné pour proxénétisme aggravé, puis relayés sur ses réseaux sociaux.",
+      "juridiction": "tribunal correctionnel de Paris (17e chambre)",
+      "dateDecision": "2021-10-19",
+      "peine": "800 euros d'amende et 1 000 euros de dommages et intérêts à Xavier Niel",
+      "statut": "inconnu",
+      "nature": "penale",
+      "famille": "diffamation",
+      "lieeMandatPolitique": true,
+      "sources": [
+        {
+          "titre": "Gilbert Collard et Wallerand de Saint-Just condamnés pour diffamation envers Xavier Niel (20 Minutes)",
+          "url": "https://www.20minutes.fr/justice/3152195-20211019-gilbert-collard-wallerand-saint-just-condamnes-diffamation-envers-xavier-niel",
+          "citation": "La 17e chambre du tribunal correctionnel de Paris les a condamnés à verser, chacun, 1.000 euros de dommages et intérêts à Xavier Niel. Gilbert Collard est condamné à 800 euros d’amende",
+          "date": "2021-10-19"
+        }
+      ],
+      "appartenance": {
+        "statutMembre": "depart",
+        "depuis": "2022",
+        "detail": "Député européen élu sur la liste RN, rallié à Reconquête le 22 janvier 2022 et nommé président d'honneur du parti ; il s'en retire dès 2022 selon Le Monde (2022-2023 selon Wikipédia) et rejoint le CNIP en 2024.",
+        "lienAvecCondamnation": "non",
+        "reactionParti": null,
+        "sources": [
+          {
+            "titre": "Gilbert Collard quitte le RN et rejoint Éric Zemmour (Le Figaro)",
+            "url": "https://www.lefigaro.fr/politique/gilbert-collard-quitte-le-rn-et-rejoint-eric-zemmour-20220121",
+            "citation": "L'eurodéputé, ancien ténor du parti de Marine Le Pen, a confirmé son ralliement à «Reconquête!»."
+          },
+          {
+            "titre": "Eric Zemmour's tricky comeback (Le Monde in English)",
+            "url": "https://www.lemonde.fr/en/politics/article/2022/09/12/eric-zemmour-s-tricky-comeback_5996574_5.html",
+            "citation": "The vertical organizational structure enshrined in the movement's new statutes has also led to the withdrawal of two of the four MEPs affiliated with it, Gilbert Collard and Jérôme Rivière."
+          },
+          {
+            "titre": "Gilbert Collard (Wikipédia)",
+            "url": "https://fr.wikipedia.org/wiki/Gilbert_Collard",
+            "citation": "Il est alors nommé président d’honneur du parti"
+          }
+        ]
+      }
+    }
+  ],
+  "perimetre": {
+    "personnesVerifiees": 21,
+    "methode": "Personnes vérifiées (anciens dirigeants nationaux et anciens parlementaires sous étiquette Reconquête) : Stéphane Ravier, Nicolas Bay, Gilbert Collard, Jérôme Rivière, Maxette Pirbakas, Joachim/Eva Son-Forget, Marion Maréchal, Guillaume Peltier, Laurence Trochu, Antoine Diers, Jean Messiha, Damien Rieu, Philippe Vardon, Sébastien Meurant, Jean-Frédéric Poisson, Jacline Mouraud, Stanislas Rigault, Thibaut Monnier, Agnès Marion, Sébastien Pilard, Denis Cieslik. Filtrage d'une base CSV d'affaires d'élus par nom, puis recherches « <nom> condamné », « <nom> condamnation tribunal », « <nom> appel / cassation », « <nom> quitte Reconquête » ; pages Wikipédia (Reconquête, fiches individuelles), fiches Poligraph (affaires par élu), articles de presse ouverts (Le Monde, BFM, ICI, Marsactu, La Marseillaise, La Provence, Public Sénat, franceinfo, France 3, Paris-Normandie, Ouest-France, 20 Minutes, Le Figaro, Euractiv).",
+    "limites": "Liste non exhaustive des anciens cadres intermédiaires (porte-parole de campagne, délégués nationaux) dont l'appartenance passée à la direction nationale est mal documentée. Statut des recours souvent non confirmé par une source ouverte (Ravier : pourvoi annoncé mais non confirmé ; favoritisme : appel non documenté ; Rivière et Collard : aucune information trouvée sur un appel). Les condamnations listées portent sur des faits antérieurs à l'adhésion à Reconquête (commis sous l'étiquette FN/RN ou à titre personnel). Aucune condamnation trouvée ne signifie « aucune trouvée dans les sources consultées »."
+  },
+  "alertes": [
+    "Stéphane Ravier : condamné en 1re instance le 23 février 2024 (tribunal correctionnel de Marseille) pour diffamation envers SOS Méditerranée, puis relaxé en appel le 13 mai 2025 — exclu. Condamné en mai 2021 pour injure sexiste envers Samia Ghali, relaxé en appel en mars 2022 — exclu. Condamné en décembre 2023 à Lyon pour injure publique envers un avocat, procédure close ensuite par prescription selon Poligraph — exclu. Source de synthèse : https://poligraph.fr/politiques/stephane-ravier?tab=affaires",
+    "Stéphane Ravier (prise illégale d'intérêts) : son avocat a annoncé un pourvoi en cassation le 10/11 février 2026 (La Marseillaise) ; Poligraph indique que les sources n'établissent pas que le pourvoi a été formé. Statut laissé à « inconnu ».",
+    "Jérôme Rivière : montant de l'amende divergent — 90 000 euros au total selon Le Monde, 50 000 euros selon Ouest-France (le total peut cumuler deux amendes ; non vérifié).",
+    "Jérôme Rivière et Gilbert Collard : date de départ divergente — Le Monde (12 septembre 2022) évoque déjà leur retrait ; Le Monde (2025) et Wikipédia indiquent une appartenance à Reconquête jusqu'en 2023.",
+    "Nicolas Bay : également ancien secrétaire général du FN ; il peut figurer dans le fichier des anciens du RN. La première instance (31 mars 2025 : 12 mois dont 6 avec sursis, 8 000 euros d'amende, 3 ans d'inéligibilité avec exécution provisoire) a été réformée en appel.",
+    "Maxette Pirbakas (eurodéputée 2019-2024, soutien d'Éric Zemmour en 2022) : condamnée le 27 juin 2024 pour abus de confiance, faux et usage de faux (1 an avec sursis, 8 000 euros, 5 ans d'inéligibilité ; appel annoncé), mais son adhésion formelle à Reconquête n'est pas établie (Wikipédia : « n'a jamais été encartée au parti Reconquête », réf. nécessaire) — exclue faute de preuve d'appartenance.",
+    "Eva (Joachim) Son-Forget (député 2017-2022, soutien puis membre revendiqué de Reconquête fin 2021-2022 selon Wikipédia) : condamnée le 8 octobre 2025 par le tribunal correctionnel de Paris à 8 mois avec sursis pour refus d'obtempérer et conduite sous cocaïne (Le Parisien, CNews) ; exclue car l'adhésion formelle n'est étayée par aucune source de presse ouverte.",
+    "Marion Maréchal : relaxée par le tribunal correctionnel de Valence dans une procédure en diffamation intentée par une école musulmane (selon la presse, non vérifiée en détail) — aucune condamnation retenue."
+  ]
+}

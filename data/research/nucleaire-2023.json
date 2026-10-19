@@ -1,0 +1,219 @@
+{
+  "id": "nucleaire-2023",
+  "titre": "Accélération du nucléaire (loi de 2023)",
+  "question": "Faut-il accélérer les procédures de construction de nouveaux réacteurs nucléaires et supprimer l'objectif de réduire la part du nucléaire à 50 % ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposé au Sénat en novembre 2022 par la ministre de la Transition énergétique Agnès Pannier-Runacher, le projet de loi simplifie les procédures (urbanisme, autorisations) pour construire de nouveaux réacteurs à proximité de sites nucléaires existants. Au fil des débats, il a supprimé l'objectif de réduire à 50 % la part du nucléaire dans l'électricité d'ici 2035 et le plafond de puissance installée ; le projet de fusion de l'ASN et de l'IRSN a été retiré. Le texte de la CMP a été adopté par le Sénat le 9 mai 2023 et par l'Assemblée le 16 mai 2023 (399 pour, 100 contre, 39 abstentions). Saisi par plus de soixante députés, le Conseil constitutionnel l'a jugé partiellement conforme (décision n° 2023-851 DC du 21 juin 2023) ; la loi n° 2023-491 a été promulguée le 22 juin 2023.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – Dossier législatif (Construction de nouvelles installations nucléaires)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl22-100.html"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N46622"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la 1re séance du 16 mai 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-16-mai-2023"
+    },
+    {
+      "titre": "Sénat – Scrutins sur le projet de loi",
+      "url": "https://senat.fr/scrutin-public/dossiers/pjl22-100_scr.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1533",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N46622",
+  "argumentsPour": [
+    {
+      "auteur": "Stéphane Travert (Renaissance)",
+      "resume": "Accélérer la construction de réacteurs permettrait d'électrifier les usages, de décarboner le mix et d'atteindre la neutralité carbone en 2050, tout en renforçant l'indépendance énergétique.",
+      "citation": "Le groupe Renaissance a fait de la filière nucléaire une priorité pour répondre aux enjeux de décarbonation et garantir notre indépendance énergétique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-16-mai-2023",
+      "date": "2023-05-16"
+    },
+    {
+      "auteur": "Nicolas Dragon (RN)",
+      "resume": "Le groupe juge le texte bienvenu mais insuffisant ; il le vote pour garantir l'approvisionnement électrique, l'excellence industrielle et la recherche, après la fermeture de Fessenheim qu'il critique.",
+      "citation": "nous le voterons car il doit garantir l’approvisionnement en électricité des Français, de nos entreprises et de nos services publics",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-16-mai-2023",
+      "date": "2023-05-16"
+    },
+    {
+      "auteur": "Sébastien Jumel (GDR-NUPES)",
+      "resume": "Le nucléaire fournirait une énergie décarbonée et pilotable, nécessaire à la réindustrialisation ; il demande en parallèle une maîtrise publique du secteur et un État stratège.",
+      "citation": "Nous voterons contre la motion de rejet car nous considérons que ce texte nous donne les moyens de recouvrer de la souveraineté sur les plans industriel et énergétique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-16-mai-2023",
+      "date": "2023-05-16"
+    },
+    {
+      "auteur": "Raphaël Schellenberger (LR)",
+      "resume": "Le nucléaire fournit une énergie disponible en permanence, ce que l'hiver 2022-2023 a montré ; il oppose la confiance dans la science aux craintes exprimées par les opposants.",
+      "citation": "À la peur, nous préférons la confiance dans la science, le travail, le contrôle de la technique",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-16-mai-2023",
+      "date": "2023-05-16"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Julie Laernoes (Écolo-NUPES)",
+      "resume": "Le texte, adopté hors de toute loi de programmation, réduirait le droit environnemental et la participation du public sans tenir compte de la vulnérabilité des centrales au changement climatique.",
+      "citation": "les propositions figurant encore dans ce texte constituent une régression en matière de droit environnemental et de participation du public",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-16-mai-2023",
+      "date": "2023-05-16"
+    },
+    {
+      "auteur": "Mathilde Panot (LFI-NUPES)",
+      "resume": "La relance serait décidée sans débat démocratique ; le nucléaire dépendrait de l'uranium importé et serait exposé aux arrêts de réacteurs et au manque d'eau.",
+      "citation": "Vous ne pourrez pas dire que vous ne saviez pas que le nucléaire ne garantit pas notre souveraineté, aussi longtemps que nous nous fournirons en uranium à l’étranger.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-16-mai-2023",
+      "date": "2023-05-16"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Marie-Noëlle Battistel (Socialistes et apparentés)",
+      "resume": "Le groupe s'abstient : les objectifs programmatiques (14 réacteurs, fin du plafond de 50 %) relèveraient de la future loi de programmation énergie-climat, et la concertation serait réduite.",
+      "citation": "La programmation doit effectivement se faire dans une loi de programmation et non pas dans une loi dite technique",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-mardi-16-mai-2023",
+      "date": "2023-05-16"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Non député en 2023. Son programme présidentiel de 2022 prévoyait une sortie du nucléaire d'ici 2045 (synthèse de Vert, février 2022) ; le groupe LFI-NUPES a voté contre (0-72).",
+      "argument": "Il met en avant le vieillissement des installations et le coût de leur entretien, qu'il préfère investir dans les énergies renouvelables.",
+      "citation": null,
+      "url": "https://vert.eco/energie/de-jean-luc-melenchon-a-eric-zemmour-que-disent-les-principaux-candidats-sur-le-nucleaire/",
+      "date": "2022-02-11"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour au scrutin n°1533 ; position défendue pendant la présidentielle 2022 (Public Sénat).",
+      "argument": "Il estime que l'indépendance énergétique décarbonée et la sortie des énergies fossiles exigent à la fois des renouvelables et une forte production nucléaire.",
+      "citation": "il va falloir produire beaucoup d’électricité nucléaire décarbonée et stable.",
+      "url": "https://www.publicsenat.fr/actualites/politique/sortie-du-nucleaire-melenchon-et-jadot-ne-vivent-pas-dans-le-meme-monde-que",
+      "date": "2022-02-02"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre au scrutin n°1533 ; pas d'intervention personnelle trouvée : argument = explication de vote du groupe LFI-NUPES (Mathilde Panot).",
+      "argument": "Position du groupe LFI-NUPES : relance sans débat démocratique, dépendance à l'uranium importé, vulnérabilité au manque d'eau.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1533",
+      "date": "2023-05-16"
+    },
+    "tondelier": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Entretien à 20 Minutes du 18 mars 2023, pendant l'examen du texte à l'Assemblée ; le groupe Écolo-NUPES a voté contre (0-23).",
+      "argument": "Les nouveaux EPR arriveraient trop tard pour les objectifs climatiques de 2030, et leur coût freinerait le développement des renouvelables.",
+      "citation": "Le nucléaire nous coûte si cher que ça nous empêche de développer les renouvelables.",
+      "url": "https://www.20minutes.fr/politique/4028192-20230318-foi-irrationnelle-nucleaire-fait-prendre-retard-climaticide-affirme-marine-tondelier",
+      "date": "2023-03-18"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre au scrutin n°1533 ; pas d'intervention personnelle recherchée/trouvée sur ce scrutin : argument = explication de vote du groupe Écologiste-NUPES (Julie Laernoes).",
+      "argument": "Position du groupe Écologiste : régression du droit environnemental et de la participation du public, absence de cadre programmatique.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1533",
+      "date": "2023-05-16"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Eurodéputé, pas de vote sur ce texte. Déclaration sur BFMTV le 19 mai 2024 (postérieure au vote) ; le groupe Socialistes s'était abstenu (0-0-30).",
+      "argument": "Il se dit favorable à de nouveaux EPR à condition qu'ils présentent un intérêt démontré.",
+      "citation": "si on a un intérêt évident à les construire",
+      "url": "https://www.bfmtv.com/replay-emissions/c-est-pas-tous-les-jours-dimanche/nucleaire-raphael-glucksmann-favorable-a-la-construction-de-nouveaux-epr-si-on-a-un-interet-evident-a-les-construire_VN-202405190372.html",
+      "date": "2024-05-19"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics du gouvernement Borne (mai 2022 - juillet 2023), qui a porté ce projet de loi ; aucune déclaration personnelle trouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://fr.wikipedia.org/wiki/Gabriel_Attal",
+      "date": "2023-05-16"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Pas de vote (non parlementaire). Déclaration au sommet POLITICO du 13 octobre 2026 (postérieure au vote) ; le groupe Horizons a voté pour (29-0).",
+      "argument": "Il défend le nucléaire comme une technologie à favoriser, tout en jugeant nécessaires des renouvelables en cas d'arrêt des centrales pour raisons de sécurité.",
+      "citation": null,
+      "url": "https://www.politico.eu/article/energie-face-au-risque-lie-au-nucleaire-edouard-philippe-juge-les-renouvelables-utiles/",
+      "date": "2026-10-13"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat : vote nominatif pour au scrutin n°110 (24 janvier 2023, première lecture) et au scrutin n°281 (9 mai 2023, texte de la CMP) ; aucune intervention personnelle trouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2022/scr2022-281.html",
+      "date": "2023-05-09"
+    },
+    "bertrand": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Déclaration de candidat à la présidentielle (AFP, 18 avril 2021), antérieure au texte ; il promettait de lancer de nouveaux réacteurs dès l'été 2022.",
+      "argument": "Il présente le nucléaire comme une énergie d'avenir et critique le développement de l'éolien.",
+      "citation": "Le nucléaire est une énergie d’avenir",
+      "url": "https://lequotidien.lu/economie/france-2022-le-candidat-xavier-bertrand-defend-le-nucleaire-energie-davenir/",
+      "date": "2021-04-18"
+    },
+    "lisnard": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Positions rapportées par le site de son parti Nouvelle Énergie (meeting de Saint-Raphaël, 3 juillet 2026, et son livre) ; postérieures au vote.",
+      "argument": "Il veut une énergie décarbonée et pilotable, nucléaire compris, et qualifie la fermeture de Fessenheim de « calamité écologique ».",
+      "citation": "L'effort doit être mis sur l'énergie décarbonée, bon marché, pilotable",
+      "url": "https://www.unenouvelleenergie.fr/questions/que-pense-david-lisnard-du-rechauffement-climatique/",
+      "date": "2026-07-03"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour au scrutin n°1533 ; pas d'intervention personnelle trouvée sur ce texte : argument = explication du groupe RN (Nicolas Dragon), qui renvoie à son programme de 2022.",
+      "argument": "Position du groupe RN : texte bienvenu mais insuffisant, pour la sécurité d'approvisionnement et la filière industrielle ; construction de nouveaux EPR et SMR.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1533",
+      "date": "2023-05-16"
+    },
+    "zemmour": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Programme présidentiel de 2022 (cité par Vert), antérieur au texte : au moins 14 EPR2 d'ici 2050 et prolongation du parc existant.",
+      "argument": "Il veut relancer la filière, construire au moins 14 réacteurs et supprimer l'objectif de réduire la part du nucléaire.",
+      "citation": "supprimer l’objectif de réduire de 50% la part du nucléaire dans notre mix électrique à horizon 2035",
+      "url": "https://vert.eco/energie/de-jean-luc-melenchon-a-eric-zemmour-que-disent-les-principaux-candidats-sur-le-nucleaire/",
+      "date": "2022-02-11"
+    },
+    "dupontaignan": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour au scrutin n°1533 (non inscrit) ; aucune intervention ni déclaration personnelle trouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/1533",
+      "date": "2023-05-16"
+    }
+  },
+  "alertes": [
+    "Les explications de vote du 16/05/2023 portaient formellement sur la motion de rejet préalable déposée par les écologistes ; les groupes y ont exprimé leur position sur le texte, et l'abstention du groupe SOC a été annoncée en discussion générale (Battistel).",
+    "Déclarations hors période : Glucksmann (2024), Philippe et Lisnard (2026) sont postérieures au vote ; Bertrand (2021), Zemmour et Mélenchon (programmes 2022) lui sont antérieures. Elles portent sur le nucléaire en général, pas sur ce texte.",
+    "Glucksmann : position conditionnelle (« si on a un intérêt évident »), classée « pour » avec prudence ; son groupe allié SOC s'est abstenu.",
+    "Mélenchon, Philippe : aucune citation verbatim retenue (synthèse journalistique ou fragments seulement).",
+    "Lisnard : source partisane (site de Nouvelle Énergie).",
+    "Attal : poste ministériel attesté par Wikipédia, info.gouv.fr étant inaccessible.",
+    "Batho, Ruffin, Le Pen, Dupont-Aignan, Retailleau : aucune intervention personnelle trouvée sur ce texte (recherche limitée au CR du 16/05/2023)."
+  ]
+}

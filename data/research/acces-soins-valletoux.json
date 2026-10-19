@@ -1,0 +1,213 @@
+{
+  "id": "acces-soins-valletoux",
+  "titre": "Loi Valletoux sur l'accès aux soins",
+  "question": "Faut-il adopter la loi Valletoux, qui associe les cliniques aux gardes, encadre l'intérim médical des jeunes soignants et renforce l'organisation locale des soins ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi de Frédéric Valletoux (Horizons) « visant à améliorer l'accès aux soins par l'engagement territorial des professionnels » a été adoptée définitivement à l'Assemblée le 12 décembre 2023 dans le texte de la commission mixte paritaire (165 pour, 24 contre, 26 abstentions). Elle confie aux conseils territoriaux de santé l'organisation de la permanence des soins, fait participer tous les établissements de santé, y compris les cliniques privées, aux gardes, interdit l'intérim en début de carrière pour les jeunes professionnels de santé et supprime temporairement la majoration du ticket modérateur pour les patients sans médecin traitant. La CMP a en revanche supprimé l'obligation pour les médecins généralistes de participer à la permanence des soins, que l'Assemblée avait votée, et le texte ne régule pas l'installation des médecins.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 12 décembre 2023 (texte de la CMP)",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3206",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206"
+    },
+    {
+      "titre": "Sénat – scrutin n°106 du 18 décembre 2023 (texte de la CMP)",
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-106.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/soins_engagement_territorial_professionnels",
+  "argumentsPour": [
+    {
+      "auteur": "Frédéric Valletoux (Horizons, rapporteur)",
+      "resume": "Le texte associe toutes les cliniques aux gardes, soulageant l'hôpital, et renforce l'organisation locale de l'accès aux soins.",
+      "citation": "Le texte réduit la pression sur l’hôpital, lequel assure aujourd’hui 83 % de la permanence des soins en établissement",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083",
+      "date": "2023-12-12"
+    },
+    {
+      "auteur": "Aurélien Rousseau (ministre de la Santé, gouvernement)",
+      "resume": "L'interdiction de l'intérim en début de carrière stabilise les équipes hospitalières et accompagne les jeunes soignants.",
+      "citation": "La proposition de loi permet également de poursuivre l’effort de régulation et d’encadrement de la pratique de l’intérim médical.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083",
+      "date": "2023-12-12"
+    },
+    {
+      "auteur": "Thierry Frappé (Rassemblement national)",
+      "resume": "Bien qu'imparfait, le texte améliorera l'offre et l'accès aux soins ; le RN vote pour.",
+      "citation": "Bien qu’imparfait, ce texte permettra d’améliorer l’offre de soins et l’accès aux soins de nos compatriotes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083",
+      "date": "2023-12-12"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Mathilde Hignet (La France insoumise)",
+      "resume": "Le texte a reculé au Sénat et ne régule pas l'installation des médecins, pourtant indispensable contre les déserts médicaux.",
+      "citation": "il nous faut tenir compte de l’équilibre général du texte, en net recul à l’issue de son examen au Sénat.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083",
+      "date": "2023-12-12"
+    },
+    {
+      "auteur": "Yannick Monnet (Gauche démocrate et républicaine)",
+      "resume": "Les mesures de régulation de l'installation ont été repoussées et la permanence des soins réduite à une demi-mesure.",
+      "citation": "Quant aux mesures qui visaient à réguler le flux d’installation des médecins, elles ont été systématiquement repoussées",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083",
+      "date": "2023-12-12"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Guillaume Garot (Socialistes et apparentés)",
+      "resume": "Quelques avancées, mais la CMP a supprimé l'obligation de garde des généralistes et d'autres mesures : les socialistes s'abstiennent.",
+      "citation": "Le texte issu de la CMP entérine trop de reculs pour que nous puissions le voter.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083",
+      "date": "2023-12-12"
+    },
+    {
+      "auteur": "Sébastien Peytavie (Écologiste – NUPES)",
+      "resume": "Le texte manque de courage : les généralistes ne seront toujours pas obligés de participer aux gardes ; les écologistes s'abstiennent.",
+      "citation": "comment expliquer aux habitants des zones sous-denses que les médecins généralistes ne seront, eux, toujours pas obligés de participer aux gardes ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083",
+      "date": "2023-12-12"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour, 21 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+      "date": "2023-12-12"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe GDR-NUPES a voté contre (0 pour, 3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+      "date": "2023-12-12"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote ; aucune déclaration retrouvée. Son groupe LFI-NUPES a voté contre (0 pour, 21 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+      "date": "2023-12-12"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste-NUPES s'est abstenu (13 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+      "date": "2023-12-12"
+    },
+    "batho": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention nominative (scrutin n°3206) ; pas de déclaration personnelle retrouvée : argument = explication du groupe Écologiste (Sébastien Peytavie).",
+      "argument": "Le groupe écologiste juge le texte trop timide, notamment après la suppression de l'obligation de garde pour les médecins généralistes.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083",
+      "date": "2023-12-12"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes s'est abstenu (8 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+      "date": "2023-12-12"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Éducation nationale du gouvernement Borne, qui soutenait le texte (ministres de la Santé au banc) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2024O1N083",
+      "date": "2023-12-12"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, président d'Horizons, sans vote ; aucune déclaration personnelle retrouvée. PROXY : le groupe Horizons, auteur du texte, a voté pour (17 pour, 2 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+      "date": "2023-12-12"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Sénateur, président du groupe LR au Sénat ; a voté pour le texte de la CMP au Sénat (scrutin n°106 du 18 décembre 2023).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-106.html",
+      "date": "2023-12-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (13 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+      "date": "2023-12-12"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté pour (13 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+      "date": "2023-12-12"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote ; aucune déclaration personnelle retrouvée. Son groupe RN a voté pour (40 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+      "date": "2023-12-12"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national ; aucune déclaration retrouvée. Pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+      "date": "2023-12-12"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non inscrit, n'a pas pris part au vote ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3206",
+      "date": "2023-12-12"
+    }
+  },
+  "alertes": [
+    "Question corrigée : la questionProposee parlait de « permanence des soins obligatoire » pour les médecins. Or la CMP a supprimé l'obligation de garde pour les médecins généralistes ; le texte final fait participer les établissements, dont les cliniques, et confie l'organisation aux conseils territoriaux de santé. Polarité inchangée (Oui = pour).",
+    "Portée : vote sur l'ensemble du texte de CMP. La gauche (contre ou abstention) ne s'opposait pas aux objectifs mais jugeait le texte trop faible, faute de régulation de l'installation des médecins.",
+    "Attal : position déduite de son appartenance au gouvernement Borne, qui soutenait le texte.",
+    "Batho : pas de déclaration personnelle ; argument = position du groupe Écologiste, sans citation attribuée.",
+    "Roussel, Ruffin, Le Pen, Dupont-Aignan n'ont pas pris part au vote : positions « inconnu »."
+  ]
+}

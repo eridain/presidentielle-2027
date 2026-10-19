@@ -1,0 +1,18 @@
+{
+  "id": "loi-energie-climat",
+  "questionSimple": "Faut-il fermer les dernières centrales à charbon et reporter à 2035 la baisse du nucléaire à 50 % ?",
+  "enBref": "La loi prévoit d'arrêter de produire de l'électricité avec du charbon d'ici 2022. Elle repousse de 2025 à 2035 l'objectif de faire tomber le nucléaire à la moitié de notre électricité. Elle crée aussi des règles pour rénover les logements qui gaspillent beaucoup d'énergie.",
+  "pourquoiPour": "Ses partisans y voient des objectifs climatiques renforcés, comme la fin du charbon. Ils jugent le report sur le nucléaire réaliste pour garder une électricité sûre et des prix stables.",
+  "pourquoiContre": "À gauche, ses opposants jugent que reporter la baisse du nucléaire retarde la transition. À droite, la hausse du volume d'électricité nucléaire vendue à prix fixe aux concurrents d'EDF a motivé le rejet.",
+  "ceQuiSestPasse": "Adoptée le 11 septembre 2019, la loi a été validée avec réserve par le Conseil constitutionnel et promulguée le 8 novembre 2019.",
+  "lexique": [
+    {
+      "terme": "ARENH",
+      "definition": "Électricité nucléaire qu'EDF doit vendre à prix fixé à ses concurrents."
+    },
+    {
+      "terme": "Neutralité carbone",
+      "definition": "Ne pas émettre plus de gaz à effet de serre qu'on n'en absorbe."
+    }
+  ]
+}

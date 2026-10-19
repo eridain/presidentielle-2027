@@ -1,0 +1,14 @@
+{
+  "questionSimple": "Faut-il obliger chaque contrôleur aérien à prévenir 48 heures à l'avance s'il fait grève ?",
+  "enBref": "Chaque contrôleur aérien doit dire 48 heures avant s'il participe à une grève. Les compagnies peuvent ainsi annuler seulement les vols nécessaires et prévenir les passagers. D'autres salariés des transports ont déjà cette obligation.",
+  "pourquoiPour": "Pour ses défenseurs, cette règle ne supprime pas le droit de grève. Elle évite des annulations de vols au hasard et protège les passagers.",
+  "pourquoiContre": "Pour ses opposants, c'est une atteinte au droit de grève des contrôleurs. Il vaudrait mieux écouter leurs revendications, souvent liées à la sécurité.",
+  "ceQuiSestPasse": "Adoptée le 15 novembre 2023 et jugée conforme à la Constitution, la loi a été promulguée le 28 décembre 2023.",
+  "lexique": [
+    {
+      "terme": "Contrôleur aérien",
+      "definition": "Agent qui guide les avions depuis le sol pour éviter les collisions."
+    }
+  ],
+  "id": "greve-controleurs-aeriens"
+}

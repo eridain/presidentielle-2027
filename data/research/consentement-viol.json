@@ -1,0 +1,221 @@
+{
+  "id": "consentement-viol",
+  "titre": "Consentement dans la définition pénale du viol",
+  "question": "Faut-il inscrire l'absence de consentement dans la définition pénale du viol ?",
+  "ouiSignifie": "pour",
+  "contexte": "Issue de la mission d'information de Marie-Charlotte Garin (écologiste) et Véronique Riotton (Renaissance), la proposition de loi transpartisane définit le viol et les agressions sexuelles comme tout acte sexuel non consenti et précise que le consentement est « libre et éclairé, spécifique, préalable et révocable », qu'il s'apprécie au regard des circonstances et ne peut être déduit du seul silence ou de l'absence de réaction de la victime ; les notions de violence, contrainte, menace ou surprise sont maintenues. Le Conseil d'État avait rendu un avis favorable sous réserve de modifications. L'Assemblée a adopté le texte de la commission mixte paritaire le 23 octobre 2025 (155 pour, 31 contre) ; seuls le RN et l'UDR ont voté contre, le Sénat l'adoptant à l'unanimité des suffrages exprimés le 29 octobre. La loi a été promulguée le 6 novembre 2025.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – loi du 6 novembre 2025 modifiant la définition pénale du viol et des agressions sexuelles",
+      "url": "https://www.vie-publique.fr/loi/297985-loi-consentement-definition-penale-du-viol-6-novembre-2025"
+    },
+    {
+      "titre": "Conseil d'État – avis sur la proposition de loi",
+      "url": "https://www.conseil-etat.fr/avis-consultatifs/derniers-avis-rendus/a-l-assemblee-nationale-et-au-senat/avis-sur-une-proposition-de-loi-visant-a-modifier-la-definition-penale-du-viol-et-des-agressions-sexuelles"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/definition_penale_viol_agressions_sexuelles_17e"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la séance du 23 octobre 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-23-octobre-2025"
+    },
+    {
+      "titre": "Sénat – scrutin public n°9 du 29 octobre 2025",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-9.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/definition_penale_viol_agressions_sexuelles_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Marie-Charlotte Garin (Écologiste et social, rapporteure)",
+      "resume": "Le consentement ne pourra plus être déduit du silence ou de l'absence de réaction, alors que de nombreuses victimes sont sidérées.",
+      "citation": "Ainsi, le consentement ne pourra plus être déduit du seul silence ou de la seule absence de réaction de la victime.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-23-octobre-2025",
+      "date": "2025-10-23"
+    },
+    {
+      "auteur": "Véronique Riotton (EPR, corapporteure)",
+      "resume": "On cesse de faire du comportement de la victime le cœur de l'enquête et de confondre silence et accord.",
+      "citation": "En inscrivant le non-consentement dans la loi, nous cessons de faire du comportement de la victime le cœur de l’enquête, nous cessons de confondre silence et accord, sidération et acceptation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-23-octobre-2025",
+      "date": "2025-10-23"
+    },
+    {
+      "auteur": "Sarah Legrain (La France insoumise)",
+      "resume": "La définition du consentement permettra de mieux traiter les cas aujourd'hui exclus des critères de violence, contrainte, menace ou surprise.",
+      "citation": "nous permettrons de mieux traiter tous les cas qui se trouvent trop souvent exclus des critères de « violence, contrainte, menace ou surprise ».",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-23-octobre-2025",
+      "date": "2025-10-23"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sophie Blanc (Rassemblement national)",
+      "resume": "Le consentement serait une notion subjective : le texte ferait juger les ressentis plutôt que les faits, alors que la jurisprudence prend déjà en compte la sidération.",
+      "citation": "Le viol ne sera plus un crime défini par la violence, la contrainte, la menace ou la surprise, mais par un mot unique, le consentement, notion subjective, mouvante, difficilement saisissable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-23-octobre-2025",
+      "date": "2025-10-23"
+    },
+    {
+      "auteur": "Sophie Blanc (Rassemblement national)",
+      "resume": "Il faudrait renforcer les moyens de la justice plutôt que les définitions.",
+      "citation": "Ce qu’il faut renforcer, ce ne sont pas les définitions ; ce sont les moyens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-23-octobre-2025",
+      "date": "2025-10-23"
+    },
+    {
+      "auteur": "Sophie Ricourt Vaginay (UDR)",
+      "resume": "Fonder le viol sur le non-consentement inverserait la charge de la preuve et fragiliserait la présomption d'innocence.",
+      "citation": "Derrière ce glissement s’en cache un autre, plus profond encore : celui de l’inversion de la charge de la preuve.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-23-octobre-2025",
+      "date": "2025-10-23"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Erwan Balanant (Les Démocrates)",
+      "resume": "Tout en votant pour, il juge que les qualificatifs ajoutés (« libre et éclairé »…) risquent de complexifier la notion plutôt que de la clarifier.",
+      "citation": "L’ensemble de ces ajouts, loin de simplifier la compréhension du consentement et du non-consentement, prennent le risque de la complexifier.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-23-octobre-2025",
+      "date": "2025-10-23"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire à cette date ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NFP a voté pour (29 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "date": "2025-10-23"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire depuis 2024 ; aucune déclaration spécifique retrouvée. À titre indicatif, les deux députés GDR votants se sont abstenus, malgré une intervention favorable d'Édouard Bénard (GDR).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "date": "2025-10-23"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour à l'Assemblée nationale (scrutin n°3163 du 23 octobre 2025) ; pas d'intervention personnelle retrouvée dans le compte rendu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "date": "2025-10-23"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste et social, dont est issue la rapporteure, a voté pour (21 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "date": "2025-10-23"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3061) ; aucune déclaration retrouvée. À titre indicatif, son groupe EcoS a voté : pour (21p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "date": "2025-10-23"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; en 2024, il a dénoncé l'opposition de la France à l'inscription du viol défini par l'absence de consentement dans la directive européenne (TF1 Info).",
+      "argument": "Il juge « scandaleux » que la France ait fait exclure la définition du viol de la loi européenne sur les violences faites aux femmes.",
+      "citation": "Emmanuel Macron vient de réussir à exclure la définition et la criminalisation du viol de la loi européenne sur les violences contre les femmes",
+      "url": "https://tf1info.fr/politique/le-viol-depenalise-par-emmanuel-macron-le-vrai-du-faux-sur-le-debat-au-parlement-europeen-viral-sur-tiktok-2285535.html",
+      "date": "2024-02-09"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour à l'Assemblée nationale (scrutin n°3163) ; son groupe EPR a porté le texte (Véronique Riotton, corapporteure). Pas d'intervention personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "date": "2025-10-23"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons, issu de son parti, a voté pour (16 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "date": "2025-10-23"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur redevenu non-ministre le 12 octobre 2025, il n'apparaît pas parmi les votants du scrutin du Sénat du 29 octobre 2025 (scrutin n°9), ni en première lecture (n°326 du 18 juin 2025, alors ministre). Aucune déclaration retrouvée. À titre indicatif, le Sénat a adopté le texte par 327 voix contre 0.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-9.html",
+      "date": "2025-10-29"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe Droite républicaine a voté pour (8 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "date": "2025-10-23"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe Droite républicaine (LR) a voté pour (8 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "date": "2025-10-23"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3163) ; aucune déclaration personnelle retrouvée. À titre indicatif, son groupe RN a voté : contre (0 pour / 27 contre / 3 abst.), Sophie Blanc annonçant ce vote en séance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2025-2026/premiere-seance-du-jeudi-23-octobre-2025",
+      "date": "2025-10-23"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "date": "2025-10-23"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3061",
+      "date": "2025-10-23"
+    }
+  },
+  "alertes": [
+    "Le texte maintient les critères de violence, contrainte, menace ou surprise, en plus du non-consentement.",
+    "Retailleau : absent des deux scrutins du Sénat, son siège n'étant peut-être pas encore retrouvé après son départ du gouvernement (non vérifié) ; position inconnue.",
+    "Le Pen : n'a pas pris part au vote ; son groupe a voté contre. Aucune déclaration personnelle n'a été vérifiée.",
+    "Glucksmann : sa déclaration (rapportée par TF1 Info le 9 février 2024) porte sur la directive européenne, non sur la loi française.",
+    "Argument « abstention » : Erwan Balanant a voté pour, mais exprime des réserves ; aucun groupe ne s'est abstenu en bloc hormis GDR (2 abstentions), qui n'a pas expliqué ce vote en séance."
+  ]
+}

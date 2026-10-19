@@ -1,0 +1,208 @@
+{
+  "id": "repas-1-euro-etudiants",
+  "titre": "Repas à 1 euro pour tous les étudiants",
+  "question": "Faut-il instaurer un repas à 1 euro au restaurant universitaire pour tous les étudiants, et pas seulement les boursiers ?",
+  "ouiSignifie": "pour",
+  "contexte": "La proposition de loi de Fatiha Keloua Hachi (Socialistes), examinée dans la niche de son groupe, visait à fixer à 1 euro, deux fois par jour, le prix des repas dans les restaurants et cafétérias des Crous pour tous les étudiants, alors que ce tarif, instauré pendant la crise sanitaire, était réservé aux boursiers et aux étudiants précaires, les autres payant 3,30 euros. La majorité avait restreint le texte en commission aux boursiers et précaires ; en séance, l'amendement de la rapporteure rétablissant le repas à 1 euro pour tous a été adopté grâce aux voix de la gauche, de LIOT et du RN, mais l'article 2 (gage financier) a été rejeté. Le 9 février 2023, l'ensemble du texte a été rejeté à une voix près (183 pour, 184 contre), la majorité présidentielle et LR votant contre.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier « Assurer un repas à un euro pour tous les étudiants »",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/assurer_repas_uneuro_etudiants"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 9 février 2023",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/assurer_repas_uneuro_etudiants",
+  "argumentsPour": [
+    {
+      "auteur": "Fatiha Keloua Hachi (Socialistes, rapporteure)",
+      "resume": "Beaucoup d'étudiants non boursiers en difficulté peinent à faire reconnaître leur situation ; les étudiants aisés ne font pas la queue au Crous.",
+      "citation": "Lors de ces distributions, j’ai rencontré à plusieurs reprises des étudiants non boursiers qui m’ont confié leurs difficultés à faire reconnaître leur situation pour bénéficier de repas à 1 euro.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023",
+      "date": "2023-02-09"
+    },
+    {
+      "auteur": "Boris Vallaud (Socialistes)",
+      "resume": "Mieux vaut une petite injustice au profit de quelques étudiants aisés qu'une jeunesse qui ne mange pas à sa faim.",
+      "citation": "Mais, pour paraphraser Goethe, j’estime qu’il vaut mieux une petite injustice qu’un grand désordre.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023",
+      "date": "2023-02-09"
+    },
+    {
+      "auteur": "Frédéric Maillot (GDR)",
+      "resume": "Le coût de la vie étudiante augmente plus vite que les bourses, et beaucoup d'étudiants déclarent ne pas manger à leur faim.",
+      "citation": "Cette précarité se traduit par un non-recours aux soins et par une mauvaise nutrition : 40 % des étudiants renoncent à des soins et 56 % d’entre eux déclarent ne pas manger à leur faim.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023",
+      "date": "2023-02-09"
+    },
+    {
+      "auteur": "Caroline Parmentier (Rassemblement national)",
+      "resume": "La précarité étudiante ne touche pas seulement les boursiers ; manger à sa faim est une question de santé et de dignité.",
+      "citation": "Cela étant, cette disposition n’est pas suffisante, car la précarité étudiante ne concerne pas seulement les boursiers.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023",
+      "date": "2023-02-09"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Anne Brugnera (Renaissance)",
+      "resume": "Un repas à 1 euro pour tous serait injuste : il profiterait aussi aux enfants aisés, au détriment de l'aide ciblée sur les plus précaires.",
+      "citation": "Proposer un repas à 1 euro à tous les étudiants est très injuste pour les étudiants précaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023",
+      "date": "2023-02-09"
+    },
+    {
+      "auteur": "Anne Le Hénanff (Horizons)",
+      "resume": "Les 90 millions d'euros de la généralisation seraient mieux employés pour les plus précaires (logement, mobilité, restauration).",
+      "citation": "Nous préférons que les 90 millions que pourrait coûter la généralisation du repas à 1 euro, dont bénéficieraient également les enfants favorisés, soient alloués à l’accompagnement des plus précaires dans les domaines du logement",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023",
+      "date": "2023-02-09"
+    },
+    {
+      "auteur": "Alexandre Portier (Les Républicains)",
+      "resume": "Mesure injuste pour les étudiants des villes moyennes et rurales sans restaurant universitaire, démagogique et coûteuse ; mieux vaut financer les bourses.",
+      "citation": "Nous ne cautionnerons pas cette mesure car nous l’estimons injuste sur le plan territorial",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023",
+      "date": "2023-02-09"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire à cette date ; aucune déclaration spécifique vérifiée. PROXY : le groupe LFI-NUPES a voté pour (67 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°931) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR - NUPES a voté : pour (16p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour à l'Assemblée nationale (scrutin n°931 du 9 février 2023) ; pas d'intervention personnelle retrouvée dans le compte rendu.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste-NUPES a voté pour (10 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°931) ; aucune déclaration retrouvée. À titre indicatif, son groupe Ecolo - NUPES a voté : pour (10p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, auteur de la proposition de loi, a voté pour (28 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué aux Comptes publics du gouvernement Borne, qui s'opposait à la généralisation du repas à 1 euro (ministre Sylvie Retailleau au banc) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2022-2023/premiere-seance-du-jeudi-09-fevrier-2023",
+      "date": "2023-02-09"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons, issu de son parti, a voté contre (0 pour / 19 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte rejeté à l'Assemblée, jamais examiné au Sénat ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour / 7 contre / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe LR de l'Assemblée a voté contre (0 pour / 7 contre / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté contre (0 pour / 7 contre / 4 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°931) ; aucune déclaration retrouvée. À titre indicatif, son groupe RN a voté : pour (57p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'avait pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°931) ; aucune déclaration retrouvée. À titre indicatif, son groupe NI a voté : contre (0p/1c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/931",
+      "date": "2023-02-09"
+    }
+  },
+  "alertes": [
+    "Texte rejeté à une voix près (183 contre 184) ; Le Pen, Roussel et Batho, dont les groupes ont voté pour, n'ont pas pris part au vote, pas plus que Dupont-Aignan.",
+    "Le vote final porte sur le texte tel que modifié en séance (repas à 1 euro pour tous rétabli, mais gage financier de l'article 2 rejeté).",
+    "Les opposants ne contestaient pas le repas à 1 euro pour les boursiers et précaires, qu'ils proposaient d'inscrire dans la loi : ils refusaient sa généralisation à tous.",
+    "Attal : position déduite de son appartenance au gouvernement Borne, défavorable à la généralisation.",
+    "Retailleau : aucun vote du Sénat ; position laissée inconnue."
+  ]
+}

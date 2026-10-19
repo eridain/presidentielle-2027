@@ -1,0 +1,22 @@
+{
+  "id": "climat-resilience",
+  "questionSimple": "Faut-il adopter la loi Climat et résilience, inspirée en partie des propositions de la Convention citoyenne pour le climat ?",
+  "enBref": "La loi veut diviser par deux le rythme de bétonnage des terres naturelles et agricoles. Elle supprime les vols intérieurs remplaçables par moins de 2 h 30 de train et étend les zones qui limitent les véhicules les plus polluants. Elle interdit peu à peu de louer les logements mal isolés et crée un délit d'« écocide ».",
+  "pourquoiPour": "Pour ses défenseurs, cette loi concrète touche la vie quotidienne : millions de logements rénovés, moins de terres bétonnées, le train plutôt que l'avion. Le Parlement a repris et souvent renforcé les mesures prévues.",
+  "pourquoiContre": "Pour ses opposants de gauche, le texte abandonne ou affaiblit l'essentiel des propositions de la Convention citoyenne. Peu contraignant et sans moyens ni justice sociale, il ne suivrait pas le rythme de l'urgence climatique.",
+  "ceQuiSestPasse": "Adoptée (droite et RN surtout abstenus), la loi a été jugée en partie conforme par le Conseil constitutionnel, puis promulguée le 22 août 2021.",
+  "lexique": [
+    {
+      "terme": "Convention citoyenne pour le climat",
+      "definition": "Groupe de citoyens chargé de proposer au gouvernement des mesures contre le réchauffement climatique."
+    },
+    {
+      "terme": "Artificialisation",
+      "definition": "Transformation de terres naturelles ou agricoles en routes, bâtiments ou parkings."
+    },
+    {
+      "terme": "Passoire thermique",
+      "definition": "Logement très mal isolé, qui consomme beaucoup d'énergie pour être chauffé."
+    }
+  ]
+}

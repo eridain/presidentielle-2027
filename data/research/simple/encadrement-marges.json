@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il plafonner par la loi les marges des géants de l'alimentation, des supermarchés et des carburants ?",
+  "enBref": "Le texte voulait plafonner les marges des grands industriels de l'alimentation, des supermarchés et des raffineries de carburant. Il prévoyait aussi des prix minimum payés aux agriculteurs. L'objectif était de faire baisser les prix pendant la forte inflation.",
+  "pourquoiPour": "Pour ses défenseurs, les grandes entreprises ont profité de la crise pour augmenter leurs marges. La loi devait protéger le budget des familles et le revenu des agriculteurs.",
+  "pourquoiContre": "Pour ses opposants, ce plafonnement serait inefficace et pourrait vider certains rayons. L'État ne devrait intervenir que de façon temporaire et réfléchie.",
+  "ceQuiSestPasse": "La proposition de loi a été rejetée par l'Assemblée le 30 novembre 2023, à six voix près (162 contre 168).",
+  "lexique": [
+    {
+      "terme": "Marge",
+      "definition": "Différence entre le prix de vente d'un produit et ce qu'il a coûté à l'entreprise."
+    },
+    {
+      "terme": "Prix plancher",
+      "definition": "Prix minimum en dessous duquel un produit ne peut pas être acheté."
+    }
+  ],
+  "id": "encadrement-marges"
+}

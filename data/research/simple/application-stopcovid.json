@@ -1,0 +1,18 @@
+{
+  "id": "application-stopcovid",
+  "questionSimple": "Faut-il lancer StopCovid, l'application pour prévenir les personnes ayant croisé un malade du Covid ?",
+  "enBref": "StopCovid est une application pour téléphone, installée volontairement. Si un utilisateur est testé positif, elle prévient les personnes qu'il a croisées de près. Elle utilise le Bluetooth, sans localiser les gens. Les députés ont donné un avis, sans voter une loi.",
+  "pourquoiPour": "Pour ses défenseurs, beaucoup de malades n'ont pas de symptômes ; prévenir plus vite leurs contacts évite des contaminations. L'application est volontaire, temporaire et validée par la CNIL.",
+  "pourquoiContre": "Pour ses opposants, l'application menace la vie privée et ouvre la voie à une société de surveillance. Ils doutent de son efficacité et réclament plutôt des tests et des masques.",
+  "ceQuiSestPasse": "Les deux assemblées ont approuvé la déclaration le 27 mai 2020 ; StopCovid a été lancée début juin, puis rebaptisée TousAntiCovid.",
+  "lexique": [
+    {
+      "terme": "Article 50-1",
+      "definition": "Permet au gouvernement de faire une déclaration suivie d'un vote, sans effet juridique."
+    },
+    {
+      "terme": "CNIL",
+      "definition": "Autorité indépendante qui protège les données personnelles des Français."
+    }
+  ]
+}

@@ -1,0 +1,214 @@
+{
+  "id": "nationalisation-autoroutes",
+  "titre": "Nationalisation des sociétés d'autoroutes (proposition LFI, 2022)",
+  "question": "Faut-il nationaliser les sociétés concessionnaires d'autoroutes ?",
+  "ouiSignifie": "contre",
+  "contexte": "Lors de sa journée réservée du 13 janvier 2022, le groupe La France insoumise a présenté une proposition de loi (rapporteure Bénédicte Taurine) visant à nationaliser les sociétés concessionnaires d'autoroutes, privatisées en 2006 et majoritairement contrôlées par Vinci, Eiffage et Abertis, en invoquant leur rentabilité jugée excessive et la hausse des péages. Le gouvernement et la majorité objectaient un coût de rachat estimé entre 45 et 50 milliards d'euros, plus près de 30 milliards de dettes à reprendre. Le scrutin porte sur l'amendement n° 4 de Marie Lebec (LaREM) supprimant l'article 1er, qui prévoyait la nationalisation : il a été adopté par 64 voix contre 26. L'article 2 ayant aussi été supprimé, la proposition de loi n'a pas été adoptée.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 13 janvier 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122"
+    },
+    {
+      "titre": "Assemblée nationale – Dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/nationalisation_sca"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/4292",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/nationalisation_sca",
+  "argumentsPour": [
+    {
+      "auteur": "Marie Lebec (LaREM, autrice de l'amendement)",
+      "resume": "Le rachat coûterait 45 à 50 milliards d'euros, plus près de 30 milliards de dettes à reprendre.",
+      "citation": "Les estimations fluctuent entre 45 et 50 milliards d’euros, mais l’État devrait également reprendre les dettes inscrites au bilan de ces sociétés, soit près de 30 milliards.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Jean-Baptiste Djebbari (ministre délégué aux transports)",
+      "resume": "Aucune analyse robuste ne prouve une sur-rentabilité, et un rachat ne garantit ni la fin ni la baisse des péages.",
+      "citation": "Non, madame la rapporteure, mesdames et messieurs les députés, un rachat des concessions ne garantit ni la disparition des péages ni la baisse de leur prix pour les Français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Lise Magnier (Agir ensemble)",
+      "resume": "Les autoroutes n'ont jamais été privatisées, seules les sociétés concessionnaires l'ont été ; le groupe vote contre la nationalisation.",
+      "citation": "Disons-le donc clairement : les autoroutes n’ont jamais été privatisées ; ce sont les sociétés concessionnaires qui l’ont été.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Mohamed Laqhila (Démocrate)",
+      "resume": "La privatisation de 2006 était une faute, mais la nationalisation ne serait pas la « poule aux œufs d'or » annoncée.",
+      "citation": "Comme le soulignait François Bayrou en 2006, la privatisation des autoroutes était une faute.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "François Ruffin (FI)",
+      "resume": "Les autoroutes ont été bradées en 2006 et les dividendes ont plu sur les actionnaires ; l'État doit reprendre la main.",
+      "citation": "Et les autoroutes ont été soldées, en 2006, à Vinci et compagnie, pour une somme sous-évaluée de 10 milliards d’euros.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "André Chassaigne (GDR)",
+      "resume": "La privatisation a privé le financement des infrastructures de transport des dividendes des autoroutes.",
+      "citation": "Elle a asséché le financement des programmes d’infrastructures de transports en les privant des dividendes résultant de l’exploitation des sociétés d’autoroutes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Christine Pires Beaune (Socialistes)",
+      "resume": "Le coût de la nationalisation est surestimé par ceux qui la combattent ; les socialistes votent le texte.",
+      "citation": "Les députés socialistes et apparentés voteront pour ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    {
+      "auteur": "Nicolas Meizonnet (RN, non inscrit)",
+      "resume": "Les autoroutes sont l'histoire d'une spoliation des Français ; nationaliser est une bonne idée.",
+      "citation": "Votre proposition de loi dresse un très juste constat : les autoroutes françaises sont l’histoire d’une véritable spoliation des Français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4292) ; son programme présidentiel « L'Avenir en commun » prévoyait la renationalisation des autoroutes, donc opposé à la suppression de l'article.",
+      "argument": "Son programme accuse les sociétés d'autoroutes de « racketter » les usagers et veut revenir sur les hausses de péages après renationalisation.",
+      "citation": "Les sociétés d’autoroutes nous rackettent et ont augmenté les péages de plus de 20% depuis la privatisation",
+      "url": "https://bfmtv.com/economie/economie-social/france/que-contient-le-programme-economique-de-jean-luc-melenchon_AN-202111040007.html",
+      "date": "2021-11-04"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4292). Proxy indicatif : le groupe GDR a voté contre la suppression (5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre l'amendement de suppression (scrutin AN n°4292), donc pour la nationalisation ; intervenu en discussion générale.",
+      "argument": "Estime que la privatisation de 2006 a bradé les autoroutes au profit des actionnaires et que l'État doit agir contre les surprofits et la hausse des péages.",
+      "citation": "Et les autoroutes ont été soldées, en 2006, à Vinci et compagnie, pour une somme sous-évaluée de 10 milliards d’euros.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national ; pas de déclaration retrouvée ; pas de groupe écologiste à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°4292).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé ; pas de déclaration retrouvée. Proxy indicatif : le groupe socialiste a voté contre la suppression (4 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a donné un avis favorable à l'amendement de suppression (ministre délégué Jean-Baptiste Djebbari).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2022O1N122",
+      "date": "2022-01-13"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre et président d'Horizons ; pas de déclaration retrouvée. Proxy indicatif : le groupe Agir ensemble a voté pour la suppression (2 pour).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte non adopté à l'Assemblée, jamais examiné au Sénat ; pas de déclaration retrouvée. LR n'a pas pris part à ce scrutin.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes ; pas de déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°4292) ; son programme présidentiel 2022 prévoyait de renationaliser les autoroutes, donc opposée à la suppression de l'article.",
+      "argument": "Veut renationaliser les autoroutes pour baisser les péages de 15 %.",
+      "citation": "Renationaliser les autoroutes pour baisser de 15% les péages",
+      "url": "https://mlafrance.fr/programme",
+      "date": "2022-01-13"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Candidat à la présidentielle ; pas de déclaration retrouvée sur ce point.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "vote_an",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°4292) ; pas de déclaration vérifiée retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Sens inversé (sens contre=oui, ouiSignifie = « contre ») : le scrutin porte sur un amendement de SUPPRESSION de l'article prévoyant la nationalisation. Position « pour » = pour la suppression (Non à la nationalisation) ; « contre » = Oui à la nationalisation. Les argumentsPour sont ceux des partisans de la suppression.",
+    "Scrutin à faible participation (90 votants) lors de la journée réservée de LFI ; LR n'a pas pris part au vote.",
+    "Mélenchon et Le Pen : position déduite de leurs programmes présidentiels (citations de programme, non de propos tenus dans ce débat) ; la date de la page du programme de Le Pen n'est pas précisée (la date indiquée est celle du scrutin).",
+    "Les non-inscrits RN (dont Meizonnet) ont voté contre la suppression (2 contre)."
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "id": "budget-secu-2021",
+  "titre": "Budget de la Sécurité sociale 2021",
+  "question": "Faut-il adopter le budget de la Sécurité sociale pour 2021 (dépenses Covid, revalorisations du Ségur de la santé, création de la branche autonomie) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi de financement de la Sécurité sociale (PLFSS) pour 2021, présenté par le gouvernement Castex en pleine deuxième vague de Covid-19, finance les dépenses liées à l'épidémie (masques, tests, vaccins) et les revalorisations salariales du Ségur de la santé (près de 9 milliards d'euros, soit 183 euros nets par mois pour les personnels des hôpitaux et des EHPAD). Il prévoit aussi la reprise de 13 milliards d'euros de dette hospitalière, un fonds d'investissement de 6 milliards, le doublement du congé de paternité (de 14 à 28 jours), un forfait de 18 euros pour les passages aux urgences sans hospitalisation et la mise en place de la cinquième branche, consacrée à l'autonomie. Le déficit de la Sécurité sociale était alors estimé à environ 44-49 milliards d'euros pour 2020 et 27 milliards pour 2021. Le 27 octobre 2020, l'Assemblée l'a adopté en première lecture par 326 voix contre 204 : LaREM, MoDem et Agir ensemble pour ; LR, socialistes, LFI, GDR, Libertés et territoires et la majorité de l'UDI-I contre. Le Sénat l'a ensuite adopté en le modifiant (suppression de la reprise de dette hospitalière, recul de l'âge de départ à la retraite à 63 ans), puis l'Assemblée a eu le dernier mot le 30 novembre 2020. La loi n° 2020-1576 a été promulguée le 14 décembre 2020.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 1re séance du 27 octobre 2020 (explications de vote)",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N043"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3059",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3059"
+    },
+    {
+      "titre": "Sénat – dossier législatif PLFSS 2021 (étapes, loi n° 2020-1576)",
+      "url": "https://www.senat.fr/dossier-legislatif/plfss2021.html"
+    },
+    {
+      "titre": "Sénat – compte rendu de la séance du 17 novembre 2020 (explications de vote)",
+      "url": "https://www.senat.fr/seances/s202011/s20201117/s20201117_mono.html"
+    },
+    {
+      "titre": "Sénat – scrutin n°26 du 17 novembre 2020",
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-26.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3059",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/plfss_2021",
+  "argumentsPour": [
+    {
+      "auteur": "Thierry Michels (La République en marche)",
+      "resume": "Un budget de réponse à la crise sanitaire, qui traduit le Ségur de la santé par des hausses de salaire inédites et crée la branche autonomie.",
+      "citation": "ce budget matérialise un effort sans précédent de près de 9 milliards d’euros de revalorisation salariale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N043",
+      "date": "2020-10-27"
+    },
+    {
+      "auteur": "Agnès Firmin Le Bodo (Agir ensemble)",
+      "resume": "Malgré des manques, le texte marque une rupture : hausse des moyens de l'hôpital et des EHPAD, reprise de dette, branche autonomie, congé de paternité.",
+      "citation": "Ce PLFSS n’en constitue pas moins à la fois une rupture et un début de rattrapage.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N043",
+      "date": "2020-10-27"
+    },
+    {
+      "auteur": "Brahim Hammouche (Mouvement démocrate)",
+      "resume": "Le déficit est assumé car la forte hausse des dépenses sociales est rendue nécessaire par la crise sanitaire.",
+      "citation": "nous l’assumons et l’assumerons, parce que cette hausse considérable des dépenses sociales est nécessaire",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N043",
+      "date": "2020-10-27"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Joël Aviragnet (Socialistes et apparentés)",
+      "resume": "Le texte ne répond qu'à court terme à la crise, impose des économies aux hôpitaux et crée un forfait urgences de 18 euros.",
+      "citation": "un texte qui ne répond pas aux besoins de l’hôpital, un texte qui ne prend pas suffisamment en compte la souffrance des soignants",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N043",
+      "date": "2020-10-27"
+    },
+    {
+      "auteur": "Michel Larive (La France insoumise)",
+      "resume": "Le budget reste guidé par la rigueur comptable et fragilise la solidarité nationale, la Sécu devenant financée surtout par l'impôt.",
+      "citation": "Pour la première fois depuis soixante-quinze ans, la sécurité sociale sera financée majoritairement par l’impôt, et non plus par les cotisations sociales.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N043",
+      "date": "2020-10-27"
+    },
+    {
+      "auteur": "Alain Bruneel (Gauche démocrate et républicaine)",
+      "resume": "Hors Covid et Ségur, les dépenses courantes des hôpitaux restent comprimées ; la branche autonomie manque de moyens.",
+      "citation": "800 millions d’euros d’économies seront demandés aux hôpitaux.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N043",
+      "date": "2020-10-27"
+    },
+    {
+      "auteur": "Thibault Bazin (Les Républicains)",
+      "resume": "Des déficits et une dette sociale historiques, sans réformes structurelles, et des oubliés du Ségur et de la politique familiale.",
+      "citation": "Ce déficit historique nous conduit à un endettement abyssal, historique lui aussi, puisque notre dette sociale atteint 396 milliards d’euros",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N043",
+      "date": "2020-10-27"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3059), président du groupe LFI ; intervenu dans la discussion générale le 20 octobre 2020 contre le forfait urgences de 18 euros.",
+      "argument": "Le forfait payé aux urgences pénaliserait les plus modestes et les habitants des déserts médicaux, qui renonceraient à se soigner.",
+      "citation": "Ces 18 euros sont durs pour les faibles, et la conséquence sanitaire sera rude.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N029",
+      "date": "2020-10-20"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3059) ; pas d'intervention personnelle retrouvée sur ce texte : argument = explication de vote du groupe GDR (Alain Bruneel).",
+      "argument": "Son groupe juge que le budget comprime toujours les dépenses des hôpitaux et refuse de nouvelles recettes sur les hauts revenus.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N043",
+      "date": "2020-10-27"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3059) ; intervenu le 21 octobre 2020 sur les auxiliaires de vie sociale et les assistantes maternelles.",
+      "argument": "Les mesures pour les métiers du domicile (environ 25 euros de plus) ne suffisent pas à sortir ces métiers de la précarité.",
+      "citation": "Mais, soyons honnêtes, ce n’est pas cela qui sortira le métier de la pauvreté",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N030",
+      "date": "2020-10-21"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire en 2020 ; aucune déclaration retrouvée. Aucun groupe écologiste ne figure dans la ventilation de ce scrutin : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3059",
+      "date": "2020-10-27"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3059) ; aucune déclaration retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3059",
+      "date": "2020-10-27"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes et apparentés a voté contre (0 pour, 30 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3059",
+      "date": "2020-10-27"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État auprès du Premier ministre, porte-parole du gouvernement Castex, qui a présenté ce projet de loi ; pas de déclaration personnelle retrouvée sur ce vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N028",
+      "date": "2020-10-20"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Premier ministre jusqu'en juillet 2020, puis maire du Havre, sans mandat parlementaire au moment du vote ; aucune déclaration retrouvée. Pas de proxy (Horizons n'existait pas encore).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3059",
+      "date": "2020-10-27"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Président du groupe LR au Sénat, a voté pour l'ensemble du texte tel que modifié par le Sénat (scrutin n°26 du 17 novembre 2020) ; pas d'intervention personnelle : argument = explication du groupe LR (Catherine Deroche).",
+      "argument": "Son groupe vote le texte « en responsabilité » face à la crise, tout en défendant les modifications du Sénat (dette hospitalière à l'État, réforme des retraites).",
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-26.html",
+      "date": "2020-11-17"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de la région Hauts-de-France, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR (qu'il avait quitté en 2017) a voté contre (0 pour, 102 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3059",
+      "date": "2020-10-27"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté contre (0 pour, 102 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3059",
+      "date": "2020-10-27"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3059), députée non inscrite ; aucune intervention retrouvée dans les débats sur ce texte (le RN n'avait pas de groupe et pas d'orateur dans les explications de vote).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3059",
+      "date": "2020-10-27"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2020 ; aucune déclaration retrouvée. Pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3059",
+      "date": "2020-10-27"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "declaration",
+      "detail": "Député, n'a pas pris part au vote ; en séance, il a déclaré ne pas pouvoir voter le texte « dans sa globalité », ce qui exclut un vote pour sans trancher entre contre et abstention.",
+      "argument": "Il soutient les hausses de salaire des soignants mais juge le budget insuffisant pour l'hôpital et sans mesure contre la fraude sociale.",
+      "citation": "je ne pourrai pas voter votre projet dans sa globalité, car ces mesures sont insuffisantes et incomplètes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N030",
+      "date": "2020-10-21"
+    }
+  },
+  "alertes": [
+    "Vote de première lecture à l'Assemblée (27 octobre 2020). Le texte a ensuite été modifié par le Sénat, puis adopté définitivement par l'Assemblée le 30 novembre 2020 ; les mesures citées sont celles du texte débattu en première lecture.",
+    "Retailleau : vote au Sénat sur le texte modifié par la majorité sénatoriale (suppression de la reprise de 13 milliards de dette hospitalière par la Cades, amendement reculant l'âge de départ à la retraite à 63 ans), différent du texte voté par l'Assemblée. Le sort de ces modifications dans le texte définitif n'a pas été vérifié article par article.",
+    "Dupont-Aignan : absent au vote ; position « contre » tirée de sa déclaration en séance (« je ne pourrai pas voter votre projet dans sa globalité »), qui exclut un vote pour mais ne précise pas entre contre et abstention.",
+    "Roussel et Retailleau : pas d'intervention personnelle retrouvée ; argument = explication de vote de leur groupe, sans citation attribuée.",
+    "Le RN (députés non inscrits) n'a pas pris la parole dans les explications de vote ; aucun argument RN n'est donc cité.",
+    "UDI-I partagé : selon Valérie Six, la majorité du groupe vote contre, d'autres pour ou abstention (3 pour, 13 contre, 2 abstentions).",
+    "Chiffres du déficit : 44 milliards (2020) et 27 milliards (2021) selon Thibault Bazin (LR) à l'Assemblée ; 49 milliards (2020) selon Stéphane Ravier au Sénat le 17 novembre, après la révision liée à la deuxième vague.",
+    "Le dossier législatif du Sénat ne mentionne aucune décision du Conseil constitutionnel avant la promulgation du 14 décembre 2020.",
+    "Le forfait urgences de 18 euros est cité tel que présenté dans les débats ; des exonérations (notamment pour les affections de longue durée) ont été adoptées pendant l'examen, selon le groupe Les Indépendants au Sénat."
+  ]
+}

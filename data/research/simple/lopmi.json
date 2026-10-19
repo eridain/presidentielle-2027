@@ -1,0 +1,18 @@
+{
+  "id": "lopmi",
+  "questionSimple": "Faut-il donner 15 milliards d'euros de plus au ministère de l'Intérieur sur cinq ans (2023-2027) ?",
+  "enBref": "La loi prévoit 15 milliards d'euros de plus pour la police, la gendarmerie et le ministère sur cinq ans. Elle crée des milliers de postes et renforce la lutte contre la cybercriminalité. Les policiers pourront infliger des amendes immédiates pour davantage de délits.",
+  "pourquoiPour": "Pour ses défenseurs, les forces de l'ordre ont besoin de moyens modernes et de renforts pour protéger les Français. Une programmation sur cinq ans leur donne enfin une vision claire.",
+  "pourquoiContre": "Pour ses opposants, l'argent ne suffit pas : il faudrait repenser le rôle de la police et la rapprocher des habitants. Les amendes immédiates risqueraient des abus sans garanties.",
+  "ceQuiSestPasse": "Adoptée définitivement le 14 décembre 2022, la loi a été promulguée le 24 janvier 2023 après une censure partielle du Conseil constitutionnel.",
+  "lexique": [
+    {
+      "terme": "Amende forfaitaire délictuelle",
+      "definition": "Amende infligée directement par un policier pour certains délits, sans passer devant un tribunal."
+    },
+    {
+      "terme": "Loi de programmation",
+      "definition": "Loi qui fixe à l'avance les moyens budgétaires prévus sur plusieurs années."
+    }
+  ]
+}

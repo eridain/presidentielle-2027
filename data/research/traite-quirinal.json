@@ -1,0 +1,204 @@
+{
+  "id": "traite-quirinal",
+  "titre": "Ratification du traité franco-italien du Quirinal",
+  "question": "Faut-il ratifier le traité du Quirinal de coopération renforcée entre la France et l'Italie ?",
+  "ouiSignifie": "pour",
+  "contexte": "Signé à Rome le 26 novembre 2021 par Emmanuel Macron et Mario Draghi, le traité du Quirinal organise une coopération bilatérale renforcée entre la France et l'Italie, sur le modèle du traité de l'Élysée avec l'Allemagne : affaires étrangères, sécurité et défense, politique migratoire, coopération transfrontalière, espace, économie, culture, jeunesse (service civique franco-italien), avec des consultations régulières entre les gouvernements. L'Italie l'avait ratifié en juillet 2022. L'Assemblée nationale a adopté le projet de loi de ratification le 28 juillet 2022 (68 pour, 0 contre, 37 abstentions, celles du RN et de LFI), puis le Sénat le 26 octobre 2022 ; la loi n° 2022-1384 a été promulguée le 31 octobre 2022.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/ratif_traite_coop_france_italie"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°183",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la deuxième séance du 28 juillet 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-jeudi-28-juillet-2022"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/ratif_traite_coop_france_italie",
+  "argumentsPour": [
+    {
+      "auteur": "Laurence Boone (secrétaire d'État aux affaires européennes, gouvernement)",
+      "resume": "Le traité instaure un cadre de concertation permanente pour stabiliser une relation qui a connu des turbulences, au service de l'Europe.",
+      "citation": "En structurant nos échanges et nos coopérations selon un cadre institutionnel rénové, il favorisera l’émergence d’un réflexe franco-italien dans tous les domaines et à tous les niveaux de l’État",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-jeudi-28-juillet-2022",
+      "date": "2022-07-28"
+    },
+    {
+      "auteur": "Jean-François Portarrieu (Horizons)",
+      "resume": "Le traité consolide des relations naturelles entre deux pays voisins et amis.",
+      "citation": "Le groupe Horizons et apparentés est favorable au traité du Quirinal, qui consolidera entre nos deux pays les relations naturelles que vous avez décrites, madame la secrétaire d’État.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-jeudi-28-juillet-2022",
+      "date": "2022-07-28"
+    },
+    {
+      "auteur": "Jean-Paul Lecoq (Gauche démocrate et républicaine)",
+      "resume": "Malgré des réserves, il faut renforcer l'amitié entre les peuples et la solidarité internationale.",
+      "citation": "Nous le voterons : notre devoir est de renforcer l’amitié et, à travers elle, la solidarité internationale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-jeudi-28-juillet-2022",
+      "date": "2022-07-28"
+    },
+    {
+      "auteur": "Hubert Julien-Laferrière (Écologiste)",
+      "resume": "Les écologistes votent pour, tout en contestant le soutien au tunnel Lyon-Turin et l'approche policière des migrations.",
+      "citation": "Nous voterons donc en faveur de sa ratification, mais non sans émettre quelques réserves.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-jeudi-28-juillet-2022",
+      "date": "2022-07-28"
+    }
+  ],
+  "argumentsContre": [],
+  "argumentsAbstention": [
+    {
+      "auteur": "Marine Hamelet (Rassemblement national)",
+      "resume": "Le RN approuve certaines coopérations mais refuse un traité qui servirait l'agenda de la Commission et néglige l'immigration.",
+      "citation": "Il est hors de question pour nous, défenseurs du principe des nations, de fixer dans un traité l’objectif de l’abandon, pour un pays membre de l’Union européenne, de la défense de l’intérêt national.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-jeudi-28-juillet-2022",
+      "date": "2022-07-28"
+    },
+    {
+      "auteur": "Gabriel Amard (La France insoumise)",
+      "resume": "LFI critique l'approche policière des migrations et le soutien au Lyon-Turin et demande un protocole renforçant le volet écologique.",
+      "citation": "Par ailleurs, quatre problèmes majeurs dans ce traité me conduisent à vous inviter à vous abstenir et à travailler rapidement à un protocole d’accord.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-extraordinaire-de-2021-2022/deuxieme-seance-du-jeudi-28-juillet-2022",
+      "date": "2022-07-28"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis juin 2022 ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES s'est abstenu (0 pour / 0 contre / 15 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°183) ; aucune déclaration retrouvée. Pour information, son groupe GDR a voté pour (1 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°183) ; aucune déclaration retrouvée. Pour information, son groupe LFI s'est abstenu (15 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste a voté pour (7 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°183) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (1 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des comptes publics dans le gouvernement Borne, qui a présenté le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/ratif_traite_coop_france_italie",
+      "date": "2022-07-28"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire (maire du Havre, président d'Horizons) ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (6 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur : le Sénat a adopté le texte le 26 octobre 2022 sans scrutin public retrouvé ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (3 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (3 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (3 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°183) ; aucune déclaration retrouvée. Pour information, son groupe RN s'est abstenu (22 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député non-inscrit, n'a pas pris part au vote (scrutin n°183) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/183",
+      "date": "2022-07-28"
+    }
+  },
+  "alertes": [
+    "Aucun vote contre : RN et LFI se sont abstenus.",
+    "Faible participation (105 votants, session extraordinaire de juillet) : aucun candidat suivi n'a pris part au vote.",
+    "Attal : position déduite de l'appartenance au gouvernement porteur du texte.",
+    "Sénat : pas de scrutin public retrouvé sur le texte ; position de Retailleau inconnue."
+  ]
+}

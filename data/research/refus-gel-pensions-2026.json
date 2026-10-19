@@ -1,0 +1,224 @@
+{
+  "id": "refus-gel-pensions-2026",
+  "titre": "Refus du gel des pensions en 2026",
+  "question": "Faut-il refuser le gel en 2026 des pensions de retraite et des prestations sociales (« année blanche ») ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le vote porte sur des amendements de suppression (n°706 de Sandrine Runel, Socialistes, et identiques) de l'article 44 du projet de loi de financement de la sécurité sociale pour 2026, examiné en première lecture. Cet article prévoyait une « année blanche » : pas de revalorisation en 2026 des pensions de retraite et de nombreuses prestations sociales, puis une sous-indexation des pensions de 2027 à 2030, pour environ 3,6 milliards d'euros d'économies en 2026. Les amendements ont été adoptés le 12 novembre 2025 (308 pour, 99 contre), supprimant l'article. Le Sénat l'a rétabli sous une forme excluant les pensions inférieures à 1 400 euros et l'AAH, mais la loi du 30 décembre 2025 ne contient finalement ni gel des pensions, ni gel des prestations sociales, ni sous-indexation.",
+  "contexteSources": [
+    {
+      "titre": "vie-publique.fr – Loi du 30 décembre 2025 de financement de la sécurité sociale pour 2026",
+      "url": "https://vie-publique.fr/loi/300445-loi-de-financement-de-la-securite-sociale-2026-retraites-lfss"
+    },
+    {
+      "titre": "Sénat – scrutin n°57 du 25 novembre 2025 (rétablissement de l'article 44)",
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-57.html"
+    },
+    {
+      "titre": "Sénat – amendement n°715 rectifié (rétablissement de l'article 44)",
+      "url": "https://www.senat.fr/amendements/2025-2026/122/Amdt_715.html"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°3685",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/PLFSS_2026",
+  "argumentsPour": [
+    {
+      "auteur": "Anaïs Belouassa-Cherifi (La France insoumise)",
+      "resume": "L'année blanche toucherait 13 millions de foyers, dont les personnes handicapées, les familles monoparentales et les retraités, alors que les prix augmentent.",
+      "citation": "En le supprimant, nous pourrions soulager les 13 millions de foyers qui subiraient autrement les conséquences d’une année blanche.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Arnaud Simion (Socialistes et apparentés)",
+      "resume": "Le gel, présenté comme neutre, serait antiredistributif : il frapperait d'abord les ménages modestes.",
+      "citation": "la mesure est antiredistributive et frappera d’abord celles et ceux qui ont le moins et pour qui chaque euro compte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Thomas Ménagé (Rassemblement national)",
+      "resume": "Désindexer les pensions viserait surtout les petites pensions, les femmes et les carrières hachées.",
+      "citation": "En faisant le choix de désindexer les pensions, vous ciblez les plus petites pensions, les petits revenus, les femmes, les carrières hachées",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Éric Ciotti (UDR)",
+      "resume": "Le gel ferait baisser le pouvoir d'achat de millions de retraités et romprait le contrat avec ceux qui ont cotisé toute leur vie.",
+      "citation": "Ces dispositions sont iniques : elles pourraient provoquer la baisse du pouvoir d’achat de millions de retraités",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Amélie de Montchalin (ministre des Comptes publics, gouvernement)",
+      "resume": "Les retraites ont été revalorisées plus vite que l'inflation depuis 2022 ; mieux vaut débattre séparément de chaque prestation que tout supprimer d'un bloc.",
+      "citation": "Les retraites ont également été revalorisées davantage que l’inflation : 1,8 point de plus depuis 2022.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Annie Vidal (Ensemble pour la République)",
+      "resume": "Plutôt que de supprimer l'article, il faudrait exclure du gel les petites retraites et les allocations, tout en maîtrisant les finances publiques.",
+      "citation": "nous proposons d’exclure les petites retraites et les allocations du gel prévu dans cet article, afin que celles et ceux qui ont travaillé toute leur vie pour de faibles revenus ne soient pas pénalisés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "Guillaume Kasbarian (Ensemble pour la République)",
+      "resume": "Revaloriser toutes les prestations coûterait 3,6 milliards d'euros malgré un déficit élevé ; ce seraient les actifs qui paieraient.",
+      "citation": "Le coût d’une telle hausse pour les finances publiques serait de 3,6 milliards d’euros.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    {
+      "auteur": "François Gernigon (Horizons & indépendants)",
+      "resume": "La suppression coûterait 3,6 milliards ; son groupe propose de ne revaloriser que les petites retraites.",
+      "citation": "la suppression de l’article 44 entraînerait 3,6 milliards d’euros de dépenses supplémentaires. Qui va payer ?",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée sur ce vote. PROXY : le groupe LFI-NFP a voté pour la suppression (46 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685",
+      "date": "2025-11-12"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée sur ce vote. PROXY : le groupe GDR a voté pour la suppression (9 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685",
+      "date": "2025-11-12"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour la suppression (scrutin n°3685) ; pas d'intervention personnelle retrouvée sur cet article : argument = explication du groupe Écologiste et social (Cyrielle Chatelain).",
+      "argument": "L'indexation des retraites protège de la pauvreté ; geler les prestations et pensions réduirait le pouvoir d'achat.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté pour la suppression (31 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685",
+      "date": "2025-11-12"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour la suppression (scrutin n°3685) ; pas de déclaration personnelle retrouvée : argument = explication du groupe Écologiste et social (Cyrielle Chatelain).",
+      "argument": "L'indexation des retraites protège de la pauvreté ; geler les prestations et pensions réduirait le pouvoir d'achat.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes et apparentés, auteur de l'amendement n°706, a voté pour (61 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685",
+      "date": "2025-11-12"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre la suppression (scrutin n°3685) ; pas d'intervention personnelle sur cet article : argument = position du groupe EPR (Annie Vidal, Guillaume Kasbarian).",
+      "argument": "Le groupe EPR préférait exclure du gel les petites retraites et les allocations plutôt que tout revaloriser, au nom de la maîtrise des comptes publics.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire du Havre, président d'Horizons, sans vote ; aucune déclaration personnelle retrouvée. PROXY : le groupe Horizons a voté contre la suppression (0 pour, 24 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685",
+      "date": "2025-11-12"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Sénateur (redevenu sénateur en novembre 2025) ; a voté pour le rétablissement de l'article 44 au Sénat (scrutin n°57 du 25 novembre 2025), dans une version excluant du gel les pensions jusqu'à 1 400 euros et l'AAH.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2025/scr2025-57.html",
+      "date": "2025-11-25"
+    },
+    "bertrand": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Président de région, sans vote ; sur France Inter (23 octobre 2025), il critique le gel de toutes les pensions, y compris les plus modestes.",
+      "argument": "Il reproche au gouvernement de faire payer la suspension de la réforme des retraites aux retraités, par le gel des pensions puis leur minoration.",
+      "citation": "il y a eu le gel de toutes les pensions des retraités, y compris celles des retraités les plus modestes, et maintenant on va voir la minoration des pensions",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/l-invite-de-8h20-le-grand-entretien/l-invite-de-8h20-le-grand-entretien-du-jeudi-23-octobre-2025-9604598",
+      "date": "2025-10-23"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour la suppression (32 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685",
+      "date": "2025-11-12"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour la suppression (scrutin n°3685) ; pas d'intervention personnelle sur cet article : argument = explication du groupe RN (Thomas Ménagé).",
+      "argument": "Le groupe RN juge que la désindexation viserait les plus petites pensions, les femmes et les carrières hachées.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2026O1N046",
+      "date": "2025-11-12"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat national ; aucune déclaration retrouvée. Reconquête n'a pas de groupe à l'Assemblée : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685",
+      "date": "2025-11-12"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée. Pas de groupe de son parti à l'Assemblée : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/3685",
+      "date": "2025-11-12"
+    }
+  },
+  "alertes": [
+    "Portée : vote sur des amendements de suppression de l'article 44 (gel des pensions et prestations), pas sur l'ensemble du PLFSS 2026. Voter POUR la suppression = refuser le gel (Oui) ; voter CONTRE = maintenir l'article et son gel (Non). Codage pour=oui conforme.",
+    "L'article 44 couvrait à la fois les pensions de retraite et de nombreuses prestations sociales (et une sous-indexation des pensions 2027-2030) : plusieurs orateurs (EPR, HOR, DR) regrettaient de devoir voter en bloc et défendaient un gel épargnant les petites retraites.",
+    "Retailleau : son vote au Sénat porte sur une version modifiée de l'article 44 (gel sauf pensions ≤ 1 400 € brut et AAH), pas sur le texte initial ; position « contre » au sens du refus du gel.",
+    "Bertrand : déclaration antérieure au vote (23 octobre 2025), critiquant le gel dans le cadre plus large du financement de la suspension de la réforme des retraites ; position « pour » déduite.",
+    "Ruffin, Batho, Attal, Le Pen : pas d'intervention personnelle sur cet article retrouvée ; argument = position de leur groupe, sans citation attribuée.",
+    "Issue finale sourcée par vie-publique.fr : gel des pensions et des prestations sociales, et sous-indexation 2027-2030, supprimés au cours de l'examen parlementaire."
+  ]
+}

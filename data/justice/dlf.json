@@ -1,0 +1,135 @@
+{
+ "partiId": "dlf",
+ "nom": "Debout la France",
+ "sigle": "DLF",
+ "predecesseurs": [
+  "Debout la République (courant du RPR puis de l'UMP à partir de 1999, parti à partir de 2008, renommé en 2014)"
+ ],
+ "fondation": "2008",
+ "direction": [
+  {
+   "nom": "Nicolas Dupont-Aignan",
+   "fonction": "président",
+   "url": "https://www.debout-la-france.fr/membres/"
+  },
+  {
+   "nom": "Cécile Bayle de Jessé",
+   "fonction": "vice-présidente",
+   "url": "https://www.debout-la-france.fr/membres/"
+  },
+  {
+   "nom": "Lionel Mazurié",
+   "fonction": "vice-président",
+   "url": "https://www.debout-la-france.fr/membres/"
+  },
+  {
+   "nom": "Nadine Nicolas",
+   "fonction": "vice-présidente",
+   "url": "https://www.debout-la-france.fr/membres/"
+  },
+  {
+   "nom": "Gerbert Rambaud",
+   "fonction": "vice-président",
+   "url": "https://www.debout-la-france.fr/membres/"
+  },
+  {
+   "nom": "Pierre-Jean Robinot",
+   "fonction": "vice-président",
+   "url": "https://www.debout-la-france.fr/membres/"
+  },
+  {
+   "nom": "Véronique Rogez",
+   "fonction": "vice-présidente",
+   "url": "https://www.debout-la-france.fr/membres/"
+  },
+  {
+   "nom": "Frédéric Guyard",
+   "fonction": "secrétaire général",
+   "url": "https://www.debout-la-france.fr/membres/"
+  },
+  {
+   "nom": "Alexis Villepelet",
+   "fonction": "porte-parole",
+   "url": "https://www.debout-la-france.fr/membres/"
+  }
+ ],
+ "presentation": "Debout la France, appelé Debout la République jusqu'en 2014, est un parti fondé et présidé par Nicolas Dupont-Aignan ; d'abord courant du RPR puis de l'UMP à partir de 1999, il devient un parti en 2008. Wikipédia le décrit comme se réclamant du gaullisme et le classe « actuellement » de la « droite à l'extrême droite ». Battu aux législatives de 2024, le parti a retrouvé un député en janvier 2026 avec le ralliement de Daniel Grenon (Yonne, non-inscrit) ; il n'a ni sénateur ni député européen.",
+ "presentationSources": [
+  {
+   "titre": "Debout la France — Wikipédia",
+   "url": "https://fr.wikipedia.org/wiki/Debout_la_France"
+  },
+  {
+   "titre": "Exclu du RN, il dit « partir par défaut » chez Nicolas Dupont-Aignan — France 3 Bourgogne-Franche-Comté, 16/01/2026",
+   "url": "https://france3-regions.franceinfo.fr/bourgogne-franche-comte/yonne/auxerre/exclu-du-rn-il-dit-partir-par-defaut-chez-nicolas-dupont-aignant-les-propos-etonnants-du-depute-daniel-grenon-3283280.html"
+  }
+ ],
+ "effectifs": {
+  "deputes": 1,
+  "senateurs": 0,
+  "eurodeputes": 0,
+  "source": "https://fr.wikipedia.org/wiki/Debout_la_France"
+ },
+ "candidats": [
+  {
+   "id": "dupontaignan",
+   "bio": "Nicolas Dupont-Aignan, né en 1961 à Paris et énarque, a été membre du RPR, du RPF puis de l'UMP avant de présider Debout la République, devenue Debout la France. Il a été maire d'Yerres de 1995 à 2017, l'est de nouveau depuis 2026, et a été député de l'Essonne de 1997 à 2024. Candidat aux présidentielles de 2012 (1,79 %) et de 2017 (4,70 %), il est candidat déclaré pour 2027.",
+   "sources": [
+    {
+     "titre": "Nicolas Dupont-Aignan — Wikipédia",
+     "url": "https://fr.wikipedia.org/wiki/Nicolas_Dupont-Aignan"
+    },
+    {
+     "titre": "Affaires judiciaires de Nicolas Dupont-Aignan — Votons",
+     "url": "https://votons-2027.fr/candidats/dupont-aignan/justice"
+    }
+   ]
+  }
+ ],
+ "condamnations": [
+  {
+   "personne": "Grenon Daniel",
+   "categorie": "depute",
+   "roleActuel": "député de la 1re circonscription de l'Yonne (non-inscrit), membre de Debout la France depuis janvier 2026",
+   "infraction": "injure publique aggravée en raison de l'origine",
+   "faits": "Propos tenus le 1er juillet 2024, entre les deux tours des législatives où il était candidat RN, selon lesquels un Maghrébin binational n'avait « pas sa place dans les hauts lieux » de l'État.",
+   "juridiction": "cour d'appel de Paris (sur appel d'un jugement du tribunal correctionnel de Sens du 2025-05-02)",
+   "dateDecision": "2026-04-16",
+   "peine": "1 000 euros d'amende avec sursis (contre 3 000 euros d'amende en première instance) ; relaxe pour provocation à la discrimination ou à la haine",
+   "statut": "inconnu",
+   "nature": "penale",
+   "lieeMandatPolitique": true,
+   "sources": [
+    {
+     "titre": "Yonne : le député Daniel Grenon, ex-RN, condamné en appel pour propos racistes — franceinfo (ICI Auxerre)",
+     "url": "https://www.franceinfo.fr/societe/racisme/yonne-le-depute-daniel-grenon-ex-rn-condamne-en-appel-pour-propos-racistes_7943489.html",
+     "citation": "Le député de l'Yonne ex-RN Daniel Grenon a été condamné à 1 000 euros d'amende avec sursis pour propos racistes par la cour d'appel de Paris ce jeudi",
+     "date": "2026-04-16"
+    },
+    {
+     "titre": "Le député de l'Yonne Daniel Grenon condamné en appel pour propos injurieux en raison de l'origine — L'Yonne Républicaine",
+     "url": "https://www.lyonne.fr/auxerre-89000/actualites/le-depute-de-l-yonne-daniel-grenon-condamne-en-appel-pour-propos-injurieux-en-raison-de-l-origine_14961729/",
+     "citation": "Daniel Grenon, député (Debout la France) de la première circonscription de l’Yonne, a été condamné pour injure aggravée en raison de l'origine ce jeudi 16 avril 2026 par la cour d'appel de Paris.",
+     "date": "2026-04-16"
+    },
+    {
+     "titre": "Législatives : un député ex-RN condamné pour injure publique envers les binationaux maghrébins — 20 Minutes (AFP)",
+     "url": "https://www.20minutes.fr/politique/4151518-20250502-legislatives-depute-ex-rn-condamne-injure-publique-envers-binationaux-maghrebins",
+     "citation": "Le député Daniel Grenon (ex- RN ) a été condamné à une amende de 3.000 euros, vendredi à Sens (Yonne), pour avoir déclaré qu’un Maghrébin binational n’avait « pas sa place dans les hauts-lieux ».",
+     "date": "2025-05-02"
+    }
+   ],
+   "famille": "haine"
+  }
+ ],
+ "perimetre": {
+  "personnesVerifiees": 11,
+  "methode": "Personnes vérifiées : Nicolas Dupont-Aignan (candidat, seul président du parti depuis sa création) ; le parti en tant que personne morale ; le bureau national publié sur debout-la-france.fr/membres (vice-présidents Cécile Bayle de Jessé, Lionel Mazurié, Nadine Nicolas, Gerbert Rambaud, Pierre-Jean Robinot, Véronique Rogez ; secrétaire général Frédéric Guyard ; porte-parole Alexis Villepelet) ; parlementaires : Daniel Grenon (seul député, NI dans deputes_par_groupe_2026.json). Requêtes : « Nicolas Dupont-Aignan condamné », « Dupont-Aignan condamné diffamation », « Dupont-Aignan reconnu coupable », « Dupont-Aignan casier judiciaire », « Debout la France condamné tribunal », « Daniel Grenon condamné », « <nom> condamné tribunal » pour chaque membre du bureau national. Sources ouvertes : Wikipédia (Nicolas Dupont-Aignan, Debout la France, Daniel Grenon), debout-la-france.fr, Votons, franceinfo, L'Yonne Républicaine, 20 Minutes, ICI Auxerre, France 3 Bourgogne-Franche-Comté.",
+  "limites": "Aucune condamnation n'a été trouvée dans les sources consultées pour Nicolas Dupont-Aignan, pour le parti ni pour les membres du bureau national. Ce résultat porte sur ces sources : il ne prouve pas qu'il n'existe aucune condamnation. Le bureau national ne mentionne pas de trésorier, qui n'a donc pas été vérifié. Les recherches sur les membres du bureau national, dont les noms sont peu médiatisés, n'ont donné que des résultats sans rapport. Nous ignorons si Daniel Grenon s'est pourvu en cassation contre l'arrêt du 16 avril 2026."
+ },
+ "alertes": [
+  "Nicolas Dupont-Aignan : il a été poursuivi pour provocation à la haine à la suite d'un tweet de janvier 2017 sur l'« invasion migratoire », et le tribunal l'a relaxé le 2018-06-06 (communiqué DLF ; Votons indique « relaxe confirmée en appel », sans source d'appel ouverte). La relaxe n'est pas une condamnation, elle est donc EXCLUE.",
+  "Daniel Grenon : les faits datent de juillet 2024, quand il était candidat du RN. Il a rejoint Debout la France en janvier 2026, selon France 3 et L'Yonne Républicaine. Statut « inconnu » : nous n'avons trouvé aucune information sur un éventuel pourvoi en cassation.",
+  "Une décision de la CNCCFP du 21 décembre 2017 sur le compte de campagne de Nicolas Dupont-Aignan est apparue dans les recherches. C'est une décision administrative, hors champ et non examinée."
+ ]
+}

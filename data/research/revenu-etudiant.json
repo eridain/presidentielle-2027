@@ -1,0 +1,220 @@
+{
+  "id": "revenu-etudiant",
+  "titre": "Revenu étudiant (2020)",
+  "question": "Faut-il inviter le gouvernement à créer un revenu étudiant, versé à chaque étudiant selon sa propre situation et non celle de ses parents ?",
+  "ouiSignifie": "pour",
+  "contexte": "En juin 2020, après le premier confinement, le groupe communiste (GDR) a soumis à l'Assemblée une proposition de résolution de Marie-George Buffet (article 34-1 de la Constitution). Elle invitait le gouvernement à créer un revenu étudiant pour toute personne inscrite dans l'enseignement supérieur. Calculé selon la situation propre de l'étudiant et non celle de sa famille, il devait lui permettre de subvenir à ses besoins. L'autrice chiffrait le coût à environ 10 milliards d'euros par an, en plus des 6 milliards consacrés aux bourses, et laissait montant et financement à une concertation. Une résolution n'a pas de force contraignante : c'est une invitation adressée au gouvernement. Le texte a été rejeté le 18 juin 2020 (82 pour, 469 contre, 21 abstentions) ; LaREM, LR, MoDem, Agir et UDI ont voté contre. Le gouvernement mettait en avant les aides d'urgence liées au Covid, les bourses et la garantie jeunes.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – compte rendu de la 2e séance du 18 juin 2020",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241"
+    },
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution n°2751",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/mise_place_revenu_etudiant"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°2761",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2761"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2761",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/mise_place_revenu_etudiant",
+  "argumentsPour": [
+    {
+      "auteur": "Marie-George Buffet (Gauche démocrate et républicaine, autrice)",
+      "resume": "Un étudiant sur cinq vit sous le seuil de pauvreté et près de la moitié travaillent à côté ; un revenu leur permettrait de se consacrer à leurs études.",
+      "citation": "il assurera à chacun les marges financières nécessaires pour subvenir de manière indépendante à ses besoins et se consacrer à son travail, c’est-à-dire à ses études.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    {
+      "auteur": "Loïc Prud'homme (La France insoumise)",
+      "resume": "Le revenu doit être universel, sans dépendre des parents, pour permettre l'émancipation des étudiants.",
+      "citation": "les étudiants ont besoin de temps pour étudier, mais ils ont également besoin de s’émanciper, y compris de leur famille !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "Les études sont un travail qui produit de la valeur et mérite d'être reconnu par un revenu.",
+      "citation": "Tout nous pousse à instaurer un revenu étudiant afin de reconnaître le travail des étudiants de notre pays et la valeur qu’ils produisent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Céline Calvez (La République en marche)",
+      "resume": "Un revenu versé à tous, sans tenir compte de l'aide familiale, risque de creuser les inégalités ; les bourses sont plus adaptées.",
+      "citation": "Vous souhaitez leur offrir un revenu ; mais celui-ci risque de creuser les inégalités.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    {
+      "auteur": "Pierre-Henri Dumont (Les Républicains)",
+      "resume": "Un étudiant n'est pas un travailleur ; mieux vaut construire des logements étudiants et revaloriser les bourses.",
+      "citation": "Votre revenu étudiant est l’antithèse de la méritocratie républicaine.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    {
+      "auteur": "Christelle Dubos (secrétaire d'État, gouvernement)",
+      "resume": "L'aide aux jeunes doit tenir compte des ressources réelles, y compris familiales, et s'accompagner d'un accompagnement vers l'emploi.",
+      "citation": "L’État ne peut pas se contenter de verser aux jeunes une aide monétaire pour solde de tout compte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    {
+      "auteur": "Bruno Fuchs (Mouvement démocrate)",
+      "resume": "Une aide versée à tous, sans condition de besoin, est mal ciblée et n'est pas financée.",
+      "citation": "Je ne souhaite pas que l’on offre un avantage à tous les étudiants, nécessiteux ou non, simplement en vertu de leur statut.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Yannick Favennec Becot (Libertés et territoires)",
+      "resume": "L'enjeu est réel, mais une aide financière seule, sans accompagnement vers l'insertion, ne suffira pas.",
+      "citation": "nous pensons qu’un simple dispositif financier ne suffira pas à accompagner durablement les jeunes dans leur quête d’insertion professionnelle.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2761) ; pas d'intervention retrouvée : argument = explication du groupe FI (Loïc Prud'homme).",
+      "argument": "Le groupe FI soutient un revenu versé à tous les étudiants, indépendamment de la fortune de leurs parents.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2761) ; membre du groupe GDR auteur du texte, il est intervenu par une interjection contre les prêts étudiants proposés par LaREM.",
+      "argument": "Il rejette le recours aux prêts étudiants proposé par la majorité, qu'il assimile au modèle américain.",
+      "citation": "C’est le système américain, et il va déboucher sur une crise !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2761) ; pas d'intervention retrouvée : argument = explication du groupe FI (Loïc Prud'homme).",
+      "argument": "Le groupe FI soutient un revenu versé à tous les étudiants, indépendamment de la fortune de leurs parents.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; aucune déclaration retrouvée. Pas de groupe écologiste à l'Assemblée ; le groupe EDS, proche, a voté pour (16 pour, 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2761",
+      "date": "2020-06-18"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°2761), membre du groupe EDS ; pas d'intervention retrouvée.",
+      "argument": "Pas d'argument personnel retrouvé ; son groupe EDS a voté pour (Aurélien Taché a défendu l'aide aux étudiants précaires).",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté pour (29 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2761",
+      "date": "2020-06-18"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Secrétaire d'État chargé de la jeunesse dans le gouvernement Philippe, opposé au texte ; pas de déclaration personnelle retrouvée dans le débat. Valérie Petit cite le « plan global pour les jeunes » qu'il préparait.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "philippe": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement opposé au texte ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2020O1N241",
+      "date": "2020-06-18"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; texte propre à l'Assemblée, aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté contre (0 pour, 103 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2761",
+      "date": "2020-06-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté contre (0 pour, 103 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2761",
+      "date": "2020-06-18"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration retrouvée. PROXY : le groupe LR a voté contre (0 pour, 103 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2761",
+      "date": "2020-06-18"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°2761), députée non inscrite ; pas de déclaration retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2761",
+      "date": "2020-06-18"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2020 ; aucune déclaration retrouvée. Pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2761",
+      "date": "2020-06-18"
+    },
+    "dupontaignan": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Abstention (scrutin n°2761), député non inscrit ; pas de déclaration retrouvée sur ce texte.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/2761",
+      "date": "2020-06-18"
+    }
+  },
+  "alertes": [
+    "Portée : proposition de résolution (article 34-1), sans valeur contraignante. Le texte ne fixait ni le montant ni le financement du revenu étudiant.",
+    "Roussel : sa citation est une interjection en séance sur les prêts étudiants, pas une explication de vote.",
+    "Attal et Philippe : position déduite de leur appartenance au gouvernement, opposé au texte.",
+    "Le Pen (contre) et Dupont-Aignan (abstention) : votes sans déclaration retrouvée pour les expliquer.",
+    "Mélenchon, Ruffin, Batho : pas d'intervention personnelle ; argument = explication de vote de leur groupe, sans citation attribuée."
+  ]
+}

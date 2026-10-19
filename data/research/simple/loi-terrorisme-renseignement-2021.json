@@ -1,0 +1,18 @@
+{
+  "id": "loi-terrorisme-renseignement-2021",
+  "questionSimple": "Faut-il rendre définitifs les pouvoirs antiterroristes de 2017 et la surveillance par algorithmes des services de renseignement ?",
+  "enBref": "En 2017, des pouvoirs antiterroristes avaient été adoptés à l'essai jusqu'en 2020. Cette loi les rend définitifs et en durcit certains. Elle autorise aussi les services de renseignement à analyser automatiquement davantage de données internet.",
+  "pourquoiPour": "Pour la majorité, ces outils ont été testés et contrôlés par le Parlement depuis 2017. Ils ont aidé à déjouer des dizaines d'attentats et doivent donc être gardés.",
+  "pourquoiContre": "Pour les opposants, ces mesures décidées sans juge sont disproportionnées et menacent les libertés. Les services auraient surtout besoin de plus de personnel et de moyens.",
+  "ceQuiSestPasse": "La loi a été promulguée le 30 juillet 2021. Le Conseil constitutionnel a refusé l'allongement à deux ans des mesures de surveillance.",
+  "lexique": [
+    {
+      "terme": "Algorithme de renseignement",
+      "definition": "Programme qui analyse automatiquement des données de connexion pour repérer des comportements liés au terrorisme."
+    },
+    {
+      "terme": "Mesure de surveillance individuelle",
+      "definition": "Obligations imposées par le ministre de l'Intérieur à une personne jugée dangereuse : pointage, interdiction de paraître."
+    }
+  ]
+}

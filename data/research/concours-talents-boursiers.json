@@ -1,0 +1,209 @@
+{
+  "id": "concours-talents-boursiers",
+  "titre": "Prolongation des concours « Talents » pour boursiers",
+  "question": "Faut-il prolonger les concours « Talents du service public » réservant des places aux candidats boursiers dans les écoles de la haute fonction publique ?",
+  "ouiSignifie": "pour",
+  "contexte": "Créé à titre expérimental par l'ordonnance du 3 mars 2021, le concours « talents » réserve entre 10 % et 15 % des places des concours externes de cinq grandes écoles de service public (dont l'INSP, ex-ENA, et l'Inet) à des étudiants boursiers ayant suivi une prépa « talents » ; les épreuves, le jury et le classement sont les mêmes que pour le concours externe. L'expérimentation ayant pris fin le 31 décembre 2024, la proposition de loi socialiste de Florence Herouin-Léautey la proroge jusqu'au 31 août 2028 et l'étend à certains corps d'ingénieurs. Soutenue par le gouvernement, elle a été adoptée le 18 février 2025 (112 pour, 48 contre, 24 abst.) ; le RN et l'UDR ont voté contre, LFI s'est abstenue. Adoptée conforme par le Sénat le 12 mars 2025, la loi n° 2025-269 a été promulguée le 24 mars 2025.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proroger_dispositif_experimentation_favorisant_egalite_chances"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la deuxième séance du 18 février 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-18-fevrier-2025"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proroger_dispositif_experimentation_favorisant_egalite_chances",
+  "argumentsPour": [
+    {
+      "auteur": "Florence Herouin-Léautey (Socialistes, rapporteure)",
+      "resume": "Ce n'est pas un concours au rabais : il diversifie la haute fonction publique et aide des talents qui s'autocensurent.",
+      "citation": "Il s’agit non seulement de diversifier le recrutement dans la haute fonction publique, mais aussi d’ouvrir des perspectives à des talents qui, sans ce type de mesures, s’autocensurent.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-18-fevrier-2025",
+      "date": "2025-02-18"
+    },
+    {
+      "auteur": "Laurent Marcangeli (ministre de l'Action publique, gouvernement)",
+      "resume": "Trois ans d'expérimentation sont trop courts pour conclure ; la prolongation jusqu'en 2028 permettra un vrai bilan.",
+      "citation": "Par conséquent, je soutiens la prolongation de l’expérimentation des parcours « talents » jusqu’en 2028 : elle nous permettra de disposer de données sur plusieurs années et d’un vrai bilan.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-18-fevrier-2025",
+      "date": "2025-02-18"
+    },
+    {
+      "auteur": "Émilie Bonnivard (Droite républicaine)",
+      "resume": "Sans décision politique, la reproduction des inégalités sociales est inéluctable ; le concours doit rester de même niveau pour tous.",
+      "citation": "Malheureusement, sans décision politique qui la corrige, la reproduction des inégalités sociales est un mouvement inéluctable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-18-fevrier-2025",
+      "date": "2025-02-18"
+    },
+    {
+      "auteur": "Claudia Rouaux (Socialistes)",
+      "resume": "En 2019, aucun élève de l'ENA n'était enfant d'ouvrier : l'État a besoin de tous les talents.",
+      "citation": "En 2019, 73 % des élèves de l’ENA, l’École nationale d’administration, avaient un père exerçant une profession intellectuelle supérieure ; aucun n’était enfant d’ouvrier.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-18-fevrier-2025",
+      "date": "2025-02-18"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Bryan Masson (Rassemblement national)",
+      "resume": "L'efficacité du dispositif n'est pas démontrée ; la discrimination positive ne doit pas devenir un modèle, seul le mérite compte.",
+      "citation": "La discrimination positive ne doit en aucun cas devenir, en France, un modèle de référence.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-18-fevrier-2025",
+      "date": "2025-02-18"
+    },
+    {
+      "auteur": "Sophie Ricourt Vaginay (UDR)",
+      "resume": "Le dispositif relèverait d'une discrimination positive qui dévoie la méritocratie républicaine.",
+      "citation": "Louable en apparence, il s’inscrit pourtant dans une logique qui est non celle de l’excellence républicaine, mais celle d’une discrimination positive qui dévoie la méritocratie.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-18-fevrier-2025",
+      "date": "2025-02-18"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Ugo Bernalicis (La France insoumise)",
+      "resume": "Le dispositif va dans le bon sens mais reste dérisoire face aux inégalités ; LFI voulait réserver bien plus de places.",
+      "citation": "…et on en arrive à ce genre de dispositif qui, même s’il va dans le bon sens et si ses objectifs sont louables, n’endigue pas l’océan d’inégalité qui croît.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-18-fevrier-2025",
+      "date": "2025-02-18"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire à cette date ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe LFI-NFP s'est abstenu (23 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire depuis 2024 ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté pour (2 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°840) ; aucune déclaration retrouvée. À titre indicatif, son groupe EcoS a voté : pour (6p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté pour (6 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°840) ; aucune déclaration retrouvée. À titre indicatif, son groupe EcoS a voté : pour (6p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes, auteur de la proposition de loi, a voté pour (37 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°840) ; aucune déclaration retrouvée. À titre indicatif, son groupe EPR a voté : pour (25p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons, issu de son parti, a voté pour (19 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou, qui soutenait la proposition de loi (ministre Laurent Marcangeli au banc) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-18-fevrier-2025",
+      "date": "2025-02-18"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. À titre indicatif, le groupe Droite républicaine a voté pour (9 pour / 1 contre / 1 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour (9 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°840) ; aucune déclaration retrouvée. À titre indicatif, son groupe RN a voté : contre (0p/44c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/840",
+      "date": "2025-02-18"
+    }
+  },
+  "alertes": [
+    "Le texte proroge une expérimentation existante jusqu'en 2028 ; il ne la pérennise pas.",
+    "LFI s'est abstenue non par opposition au principe mais parce qu'elle jugeait le dispositif trop limité.",
+    "Retailleau : position déduite de son appartenance au gouvernement Bayrou ; il n'a pas voté au Sénat (ministre).",
+    "Attal (président du groupe EPR), Le Pen, Ruffin, Batho : n'ont pas pris part au vote.",
+    "Le vote conforme du Sénat (12 mars 2025) provient du dossier de l'Assemblée ; aucun scrutin public du Sénat n'a été consulté."
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "id": "vote-correspondance-detenus",
+  "titre": "Fin du vote par correspondance des détenus aux élections locales et législatives (2025)",
+  "question": "Faut-il supprimer le vote par correspondance des détenus aux élections municipales et législatives ?",
+  "ouiSignifie": "pour",
+  "contexte": "Depuis la loi « engagement et proximité » du 27 décembre 2019, les détenus non déchus de leurs droits civiques peuvent voter par correspondance, en s'inscrivant dans la commune chef-lieu du département ou d'implantation de la prison ; leur participation est passée d'environ 2 % avant 2019 à 22 % aux européennes et 19 % aux législatives de 2024, 90 % d'entre eux choisissant ce mode de vote. La proposition de loi de la sénatrice Laure Darcos, déposée le 5 décembre 2024, visait à les rattacher à une commune avec laquelle ils ont un lien ; le Sénat l'a modifiée le 20 mars 2025 pour réserver le vote par correspondance à la présidentielle, aux européennes et aux référendums. Pour les élections locales et législatives, les détenus ne peuvent plus voter que par procuration ou lors d'une permission de sortir. Après avoir rejeté une motion de rejet de LFI, l'Assemblée l'a adoptée définitivement le 4 juin 2025 (109 pour, 60 contre, 2 abstentions). Le Conseil constitutionnel, saisi par des députés LFI, l'a jugée conforme le 17 juillet 2025 ; loi du 18 juillet 2025.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – Loi du 18 juillet 2025 relative au droit de vote par correspondance des personnes détenues",
+      "url": "https://www.vie-publique.fr/loi/297853-reforme-droit-de-vote-par-correspondance-des-detenus-loi-18-juillet-2025"
+    },
+    {
+      "titre": "Conseil constitutionnel – Décision n° 2025-889 DC du 17 juillet 2025",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2025/2025889DC.htm"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 4 juin 2025",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N225"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N51052",
+  "argumentsPour": [
+    {
+      "auteur": "Patrick Hetzel (Droite républicaine)",
+      "resume": "Dans certaines communes, les détenus inscrits au titre de la prison pèsent plus de 5 % des électeurs, ce qui peut faire basculer une élection municipale ; le vote doit refléter un lien réel avec la commune.",
+      "citation": "Cela n'est pas neutre quand on sait que, lors des élections municipales, une poignée de voix peut suffire à faire basculer une majorité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N225",
+      "date": "2025-06-04"
+    },
+    {
+      "auteur": "Philippe Schreck (Rassemblement national)",
+      "resume": "Le vote par correspondance peut peser artificiellement sur les scrutins locaux et rompt le lien entre l'électeur et sa commune ; il reste ouvert aux élections nationales.",
+      "citation": "À l'occasion d'élections locales, il risque donc de peser artificiellement sur le scrutin.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N225",
+      "date": "2025-06-04"
+    },
+    {
+      "auteur": "Guillaume Gouffier Valente (Ensemble pour la République)",
+      "resume": "Que la prison de Fleury-Mérogis soit le premier bureau de vote d'Évry-Courcouronnes est une distorsion inacceptable, même si le texte du Sénat reste perfectible.",
+      "citation": "Convenons qu'il s'agit là d'une situation originale, tout à fait inacceptable.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N225",
+      "date": "2025-06-04"
+    },
+    {
+      "auteur": "François-Noël Buffet (ministre auprès du ministre de l'Intérieur, gouvernement)",
+      "resume": "Le texte évite que des détenus sans lien avec une commune influencent l'issue des élections locales, tout en maintenant leurs droits civiques.",
+      "citation": "Ce texte vise à éviter que des détenus sans lien avec une commune influencent l'issue des élections locales.",
+      "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/vote-des-detenus-il-est-imperatif-de-preserver-sincerite-du-scrutin",
+      "date": "2025-06-04"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Nicolas Sansu (Gauche démocrate et républicaine)",
+      "resume": "Le vote par correspondance a fait passer la participation en prison de 2 % à 22 % ; les autres modalités sont quasi inutilisables, les permissions de sortir étant rarissimes.",
+      "citation": "Par conséquent, revenir sur le vote par correspondance marquerait un grave recul.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N225",
+      "date": "2025-06-04"
+    },
+    {
+      "auteur": "Christophe Bex (La France insoumise)",
+      "resume": "Restreindre le vote local des détenus nie leur citoyenneté et, à l'approche des municipales, relève d'une logique électoraliste.",
+      "citation": "Dans une démocratie, il n'y a ni citoyens à temps partiel ni scrutins secondaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N225",
+      "date": "2025-06-04"
+    },
+    {
+      "auteur": "Martine Froger (Socialistes)",
+      "resume": "Le texte du Sénat est un recul des droits civiques ; il fallait revenir à la version initiale qui rattachait les détenus à une commune avec laquelle ils ont un lien.",
+      "citation": "Dans sa version issue du Sénat, il marque un recul préoccupant en matière de droits civiques.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N225",
+      "date": "2025-06-04"
+    },
+    {
+      "auteur": "Léa Balage El Mariky (Écologiste et social)",
+      "resume": "Le droit de vote des détenus, garanti depuis 1994, fait partie du pacte républicain et de la réinsertion ; procuration et permissions de sortir sont inadaptées.",
+      "citation": "Chers collègues, le détenu n'est pas un sous-citoyen.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N225",
+      "date": "2025-06-04"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration personnelle retrouvée. PROXY : le groupe LFI-NFP a voté contre (26 contre) et ses députés ont saisi le Conseil constitutionnel.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "date": "2025-06-04"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. Le groupe GDR était partagé (orateur du groupe contre, quelques élus ultramarins pour) : pas de proxy fiable.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "date": "2025-06-04"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absent des scrutins sur ce texte ; aucune déclaration retrouvée. Son groupe Écologiste et social a voté contre (12 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "date": "2025-06-04"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration personnelle retrouvée. PROXY : le groupe Écologiste et social a voté contre (12 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "date": "2025-06-04"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Absente du vote final ; a voté pour la motion de rejet préalable de LFI (scrutin n°2221 du 3 juin 2025), c'est-à-dire pour écarter le texte ; pas d'intervention retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2221",
+      "date": "2025-06-03"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes a voté contre (18 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "date": "2025-06-04"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Absent du vote final ; a voté contre la motion de rejet (scrutin n°2221) et pour le rétablissement de l'article 1er supprimant le vote par correspondance aux élections locales (scrutin n°2234).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2234",
+      "date": "2025-06-04"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté pour (13 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "date": "2025-06-04"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre d'État, ministre de l'Intérieur : le gouvernement a soutenu le texte, défendu en séance et salué par communiqué par son ministre délégué François-Noël Buffet ; aucune déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.interieur.gouv.fr/actualites/communiques-de-presse/vote-des-detenus-il-est-imperatif-de-preserver-sincerite-du-scrutin",
+      "date": "2025-06-04"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY indicatif : le groupe Droite républicaine a voté pour (5 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "date": "2025-06-04"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "date": "2025-06-04"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Absente des scrutins sur ce texte ; aucune déclaration personnelle retrouvée. PROXY : le groupe RN, qu'elle préside, a voté pour (53 pour).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "date": "2025-06-04"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "date": "2025-06-04"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/2244",
+      "date": "2025-06-04"
+    }
+  },
+  "alertes": [
+    "Le droit de vote des détenus n'est pas supprimé : seul le vote par correspondance disparaît pour les élections locales et législatives ; procuration et permission de sortir restent possibles, et le vote par correspondance est maintenu pour la présidentielle, les européennes et les référendums.",
+    "La version initiale de la sénatrice Darcos (rattachement à une commune de lien) était soutenue par une partie de la gauche ; c'est la version restrictive du Sénat qui a été adoptée.",
+    "Aucun candidat député n'a pris part au vote final ; Attal et Batho sont positionnés d'après des votes de procédure ou d'article du même débat.",
+    "Retailleau : position du gouvernement dont il était ministre de l'Intérieur, sans déclaration personnelle retrouvée."
+  ]
+}

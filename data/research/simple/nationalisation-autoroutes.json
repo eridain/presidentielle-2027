@@ -1,0 +1,18 @@
+{
+  "questionSimple": "Faut-il que l'État rachète les sociétés privées qui gèrent les autoroutes et encaissent les péages ?",
+  "enBref": "Depuis 2006, des sociétés privées comme Vinci gèrent les autoroutes et encaissent les péages. La France insoumise proposait que l'État les rachète. Le coût était estimé à plusieurs dizaines de milliards d'euros.",
+  "pourquoiPour": "Pour ses défenseurs, ces sociétés font d'énormes profits et augmentent les péages chaque année. Les autoroutes ont été vendues trop peu cher en 2006.",
+  "pourquoiContre": "Pour ses opposants, le rachat coûterait très cher à l'État, dettes comprises. Rien ne garantit que les péages baisseraient ensuite.",
+  "ceQuiSestPasse": "L'article a été supprimé le 13 janvier 2022 et la proposition de loi n'a pas été adoptée.",
+  "lexique": [
+    {
+      "terme": "Société concessionnaire",
+      "definition": "Entreprise à qui l'État confie la gestion d'une autoroute pour une durée fixée, contre les péages."
+    },
+    {
+      "terme": "Amendement de suppression",
+      "definition": "Demande de retirer un article d'un texte de loi."
+    }
+  ],
+  "id": "nationalisation-autoroutes"
+}

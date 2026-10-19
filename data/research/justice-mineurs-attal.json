@@ -1,0 +1,213 @@
+{
+  "id": "justice-mineurs-attal",
+  "titre": "Justice des mineurs : loi Attal 2025",
+  "question": "Faut-il durcir la justice des mineurs (comparution immédiate dès 16 ans, responsabilisation pénale des parents) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposée en octobre 2024 par Gabriel Attal (EPR) après les émeutes de l'été 2023, la proposition de loi visant à renforcer l'autorité de la justice à l'égard des mineurs délinquants et de leurs parents crée notamment une circonstance aggravante pour les parents qui se soustraient à leurs obligations légales lorsque leur enfant commet un crime ou des délits (jusqu'à trois ans de prison et 45 000 € d'amende). Elle étendait aussi la comparution immédiate aux mineurs de 16 ans et plus, élargissait l'audience unique et renversait la logique de l'« excuse de minorité » pour certains récidivistes de 16 à 18 ans. Le texte de la commission mixte paritaire a été adopté par l'Assemblée le 13 mai 2025 (341 pour, 187 contre) puis définitivement par le Sénat le 19 mai. Saisi par la gauche, le Conseil constitutionnel a censuré cinq articles, dont la comparution immédiate des mineurs, l'extension de l'audience unique et la dérogation à l'excuse de minorité (décision n° 2025-886 DC du 19 juin 2025) ; la loi a été promulguée le 23 juin 2025 (loi n° 2025-568).",
+  "contexteSources": [
+    {
+      "titre": "Public Sénat – Le Conseil constitutionnel censure largement le texte Attal",
+      "url": "https://www.publicsenat.fr/actualites/politique/justice-des-mineurs-le-conseil-constitutionnel-censure-largement-le-texte-attal-notamment-la-derogation-de-lexcuse-de-minorite"
+    },
+    {
+      "titre": "Vie publique – Loi du 23 juin 2025 (justice pénale des mineurs)",
+      "url": "https://www.vie-publique.fr/loi/297360-justice-penale-des-mineurs-loi-attal-du-23-juin-2025"
+    },
+    {
+      "titre": "Sénat – Dossier législatif (décision 2025-886 DC, loi n° 2025-568)",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl24-343.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/restaurer_autorite_justice_mineurs_delinquants_et_parents",
+  "argumentsPour": [
+    {
+      "auteur": "Laure Miller (Ensemble pour la République)",
+      "resume": "Le texte, enrichi en commission mixte paritaire, constitue une première étape du rétablissement de l'autorité ; il faut agir sans tarder.",
+      "citation": "ce texte pose la première pierre de l’édifice du rétablissement de l’autorité dans notre pays, raison pour laquelle le groupe EPR votera en sa faveur.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N189",
+      "date": "2025-05-13"
+    },
+    {
+      "auteur": "Alexandra Martin (Droite républicaine)",
+      "resume": "Il y a urgence à durcir la réponse pénale par des sanctions rapides et sûres et à responsabiliser les parents.",
+      "citation": "Il y a urgence à durcir la réponse pénale en mettant l’accent sur l’existence de sanctions rapides et sûres, et sur la responsabilisation des parents.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N189",
+      "date": "2025-05-13"
+    },
+    {
+      "auteur": "Sylvie Josserand (Rassemblement national)",
+      "resume": "Le texte reste « au milieu du gué », mais une réponse pénale ferme et rapide sert aussi la réinsertion du mineur ; le RN le vote par souci d'urgence.",
+      "citation": "une réponse pénale ferme, rapide, ne méconnaît nullement l’intérêt supérieur du mineur, dont la réinsertion passe aussi par la sanction.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N189",
+      "date": "2025-05-13"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Pouria Amirshahi (Écologiste et social)",
+      "resume": "Le texte n'apporterait que l'illusion de l'efficacité, au prix des principes constitutionnels de la justice des mineurs ; saisine du Conseil constitutionnel annoncée.",
+      "citation": "Ce texte prétend apporter une réponse à la délinquance juvénile, mais n’apporte que l’illusion de l’efficacité",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N189",
+      "date": "2025-05-13"
+    },
+    {
+      "auteur": "Elsa Faucillon (Gauche démocrate et républicaine)",
+      "resume": "Le texte bafouerait les principes de l'ordonnance de 1945 : spécificité de l'enfance et primauté de l'éducatif sur le répressif.",
+      "citation": "Le texte dont nous terminons l’examen bafoue l’un et l’autre de ces principes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N189",
+      "date": "2025-05-13"
+    },
+    {
+      "auteur": "Marianne Maximi (La France insoumise)",
+      "resume": "La comparution immédiate des mineurs produirait des audiences expéditives aboutissant le plus souvent à l'incarcération d'enfants.",
+      "citation": "Ce sont des audiences bâclées, expéditives, qui jetteront des enfants en prison en une demi-heure à peine.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N189",
+      "date": "2025-05-13"
+    },
+    {
+      "auteur": "Céline Thiébault-Martinez (Socialistes)",
+      "resume": "Texte d'émotion après les émeutes, qui romprait avec la promesse républicaine d'égalité ; saisine du Conseil constitutionnel annoncée.",
+      "citation": "Pour toutes ces raisons, nous voterons contre ce texte et nous saisirons le Conseil constitutionnel.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N189",
+      "date": "2025-05-13"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député ; aucune déclaration retrouvée. PROXY : le groupe LFI-NFP a voté contre (0 pour / 67 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "date": "2025-05-13"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 13 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "date": "2025-05-13"
+    },
+    "ruffin": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1624 du 13 mai 2025) ; pas d'intervention personnelle retrouvée, argument = explication du groupe Écologiste et social, auquel il est apparenté (Pouria Amirshahi).",
+      "argument": "Groupe EcoS : le texte n'apporte que l'illusion de l'efficacité et sacrifie les principes constitutionnels de la justice des mineurs hérités de l'ordonnance de 1945.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N189",
+      "date": "2025-05-13"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour / 36 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "date": "2025-05-13"
+    },
+    "batho": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°1624) ; pas d'intervention personnelle retrouvée, argument = explication du groupe Écologiste et social (Pouria Amirshahi).",
+      "argument": "Groupe EcoS : le texte privilégie des symboles aux moyens d'une justice digne et porte atteinte aux principes constitutionnels de la justice des mineurs.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N189",
+      "date": "2025-05-13"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 62 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "date": "2025-05-13"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1624) ; auteur de la proposition de loi, dont la formule qu'il répétait comme Premier ministre est rapportée par Public Sénat.",
+      "argument": "Le texte décline sa formule « tu casses, tu répares » : sanctionner vite les mineurs délinquants et responsabiliser leurs parents pour restaurer l'autorité.",
+      "citation": "« Tu casses, tu répares, tu salis, tu nettoies, tu défies l’autorité, on t’apprend à la respecter »",
+      "url": "https://www.publicsenat.fr/actualites/politique/justice-des-mineurs-le-conseil-constitutionnel-censure-largement-le-texte-attal-notamment-la-derogation-de-lexcuse-de-minorite",
+      "date": "2025-06-19"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons & indépendants a voté pour (32 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "date": "2025-05-13"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre d'État, ministre de l'Intérieur du gouvernement Bayrou, qui soutenait le texte ; il l'a défendu en séance le jour du vote (questions au gouvernement).",
+      "argument": "Le texte participe à une « révolution pénale » nécessaire face aux mineurs délinquants, que le refus des sanctions et des courtes peines enferme dans la délinquance.",
+      "citation": "Ce texte contribuera à cette révolution pénale et à la restauration de l’autorité, conditions du rétablissement de l’ordre public en France.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N189",
+      "date": "2025-05-13"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (45 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "date": "2025-05-13"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine (LR, son parti à l'époque) a voté pour (45 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "date": "2025-05-13"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°1624), présidente du groupe RN ; pas d'intervention personnelle retrouvée, argument = explication du groupe (Sylvie Josserand).",
+      "argument": "Groupe RN : texte jugé insuffisant et d'affichage, mais voté par souci d'urgence, une réponse pénale ferme et rapide servant aussi la réinsertion du mineur.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N189",
+      "date": "2025-05-13"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans mandat national ; aucune déclaration retrouvée ; pas de député Reconquête. À titre indicatif, le groupe UDR a voté pour (16 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "date": "2025-05-13"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis 2024 ; aucune déclaration retrouvée ; pas de groupe de son parti à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1624",
+      "date": "2025-05-13"
+    }
+  },
+  "alertes": [
+    "Censure majeure : la comparution immédiate dès 16 ans, citée dans la question, a été censurée par le Conseil constitutionnel (décision 2025-886 DC), tout comme l'extension de l'audience unique, la dérogation à l'excuse de minorité et la rétention de 12 heures. La responsabilisation pénale des parents a été validée.",
+    "La question porte sur le texte tel que voté par le Parlement, pas sur la loi promulguée (amputée de cinq articles sur seize selon Vie publique).",
+    "Attal : la citation est sa formule de Premier ministre (2024) telle que rapportée par Public Sénat le 19 juin 2025 ; date de l'article, pas de la déclaration.",
+    "Retailleau : citation tirée de sa réponse à une question au gouvernement le 13 mai 2025, avant l'examen du texte.",
+    "Ruffin, Batho, Le Pen : arguments tirés de l'explication de leur groupe.",
+    "Le groupe LIOT s'est partagé (14 pour / 6 contre / 3 abst.) ; son oratrice Martine Froger a voté contre à titre personnel."
+  ]
+}

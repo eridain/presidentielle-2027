@@ -1,0 +1,205 @@
+{
+  "id": "priorite-nationale-marches-publics",
+  "titre": "« Priorité nationale » dans les marchés publics",
+  "question": "Faut-il permettre aux acheteurs publics de privilégier les entreprises qui produisent et emploient en France (« priorité nationale » dans les marchés publics) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Proposition de résolution du Rassemblement national (article 34-1 de la Constitution, sans portée contraignante) examinée lors de sa journée réservée du 8 octobre 2026. Elle invitait le gouvernement à instaurer, dans la commande publique (plusieurs centaines de milliards d'euros par an selon les orateurs), un critère de « priorité nationale » fondé non sur la nationalité des entreprises mais sur la localisation en France des emplois, de la production et de l'innovation nécessaires à l'exécution des marchés. Le gouvernement a jugé le dispositif contraire au droit de l'Union européenne et à la Constitution (égalité de traitement des candidats). La résolution a été rejetée (151 pour, 187 contre), seuls le RN, l'UDR et la Droite républicaine votant pour.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier de la proposition de résolution",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mobiliser_commande_publique_service_emploi_production_innovation_france_17e"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°8610",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 8 octobre 2026",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-jeudi-08-octobre-2026"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/mobiliser_commande_publique_service_emploi_production_innovation_france_17e",
+  "argumentsPour": [
+    {
+      "auteur": "Alexandre Loubet (Rassemblement national, rapporteur)",
+      "resume": "L'argent public devrait soutenir l'emploi et la production en France plutôt que les importations ; le critère porterait sur la localisation des moyens d'exécution.",
+      "citation": "C’est pourquoi nous voulons instaurer un critère de priorité nationale, non pas fondé sur la nationalité d’une entreprise, mais sur la localisation en France des moyens d’exécution du marché public",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-jeudi-08-octobre-2026",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Julien Dive (Droite républicaine)",
+      "resume": "Les dépenses publiques doivent soutenir l'activité et les savoir-faire des territoires chaque fois que c'est possible, dans les limites du droit européen.",
+      "citation": "Nous partageons donc l’idée qu’il faut que les dépenses d’argent public soutiennent l’activité, les emplois et les savoir-faire de nos territoires à chaque fois que c’est possible.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-jeudi-08-octobre-2026",
+      "date": "2026-10-08"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Anne Le Hénanff (ministre déléguée, gouvernement)",
+      "resume": "Le dispositif contreviendrait au droit européen et constitutionnel ; des outils existent déjà contre les offres d'États sans réciprocité.",
+      "citation": "Mais votre proposition, monsieur le rapporteur, va à l’encontre du droit de l’Union européenne et de notre droit constitutionnel.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-jeudi-08-octobre-2026",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Carole Guillerm (Les Démocrates)",
+      "resume": "Le critère violerait l'égalité de traitement et exposerait élus et acheteurs publics au risque pénal de favoritisme.",
+      "citation": "L’égalité de traitement et l’interdiction des discriminations sont gravées dans le marbre constitutionnel et européen.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-jeudi-08-octobre-2026",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Arnaud Saint-Martin (La France insoumise)",
+      "resume": "Le texte mettrait sur le même plan une PME française et une multinationale étrangère produisant en France ; il n'apporte aucune garantie de souveraineté.",
+      "citation": "Votre résolution n’offre aucune garantie de souveraineté, puisqu’elle met sur le même plan une PME française et une grande multinationale étrangère, du moment que celle-ci produit sur le territoire français.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-jeudi-08-octobre-2026",
+      "date": "2026-10-08"
+    },
+    {
+      "auteur": "Édouard Bénard (Gauche démocrate et républicaine)",
+      "resume": "Le critère de localisation détournerait des objectifs sociaux et environnementaux introduits dans la commande publique.",
+      "citation": "Votre texte ne vise en réalité qu’un seul objectif : mettre en avant le critère de la localisation pour mieux détourner l’attention des objectifs sociaux et environnementaux péniblement mis en place ces dernières années.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-jeudi-08-octobre-2026",
+      "date": "2026-10-08"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LFI a voté contre (0 pour / 56 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe GDR a voté contre (0 pour / 9 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°8610) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Écologiste et social a voté contre (0 pour / 26 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°8610) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté contre (0 pour / 42 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député (président du groupe EPR), n'a pas pris part au vote (scrutin n°8610) ; aucune déclaration retrouvée. Pour information, son groupe EPR a voté contre (0 pour / 36 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire (maire du Havre, président d'Horizons) ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté contre (0 pour / 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur, pas de vote sur cette résolution propre à l'Assemblée ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (16 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Droite républicaine a voté pour (16 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée ; son appartenance partisane en 2026 (Nouvelle Énergie) ne permet pas de proxy fiable.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°8610) ; pas d'intervention personnelle retrouvée, argument = celui du groupe RN (Alexandre Loubet).",
+      "argument": "Le RN veut que l'argent public profite aux entreprises qui produisent et emploient en France plutôt qu'aux importations.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2026-2027/premiere-seance-du-jeudi-08-octobre-2026",
+      "date": "2026-10-08"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Reconquête n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; Debout la France n'a pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/8610",
+      "date": "2026-10-08"
+    }
+  },
+  "alertes": [
+    "Résolution de l'article 34-1 sans valeur contraignante, rejetée.",
+    "Le critère proposé repose sur la localisation de l'exécution du marché, non sur la nationalité de l'entreprise ; l'expression « priorité nationale » est celle des auteurs.",
+    "Arthur Delaporte (SOC) a qualifié le texte de « vernis raciste » : accusation politique, non reprise comme argument de fond.",
+    "Le Pen : vote pour sans intervention personnelle ; argument de groupe.",
+    "Scrutin très récent (8 octobre 2026) : couverture médiatique et déclarations des candidats non encore retrouvées."
+  ]
+}

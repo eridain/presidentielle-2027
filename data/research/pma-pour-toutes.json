@@ -1,0 +1,207 @@
+{
+  "id": "pma-pour-toutes",
+  "titre": "PMA pour toutes les femmes (loi bioéthique)",
+  "question": "Faut-il ouvrir la procréation médicalement assistée (PMA) aux couples de femmes et aux femmes seules ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi relatif à la bioéthique, déposé le 24 juillet 2019 par le gouvernement Philippe, ouvre la PMA aux couples de femmes et aux femmes non mariées, avec remboursement par la Sécurité sociale. Il crée une reconnaissance conjointe anticipée pour établir la filiation à l'égard des deux mères et permet aux enfants nés d'un don d'accéder à leur majorité à l'identité du donneur. Après deux ans de navette, le Sénat a rejeté l'article 1er en deuxième lecture (février 2021). L'Assemblée a adopté définitivement le texte le 29 juin 2021, par 326 voix contre 115 et 42 abstentions. Saisi par des députés LR et UDI, le Conseil constitutionnel l'a jugé conforme (décision 2021-821 DC du 29 juillet 2021). La loi n° 2021-1017 du 2 août 2021 a été promulguée.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif Bioéthique",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/bioethique_2"
+    },
+    {
+      "titre": "Public Sénat – PMA pour toutes : la loi bioéthique a été promulguée au Journal officiel (3 août 2021)",
+      "url": "https://www.publicsenat.fr/actualites/politique/pma-pour-toutes-la-loi-bioethique-a-ete-promulguee-au-journal-officiel-190154"
+    },
+    {
+      "titre": "Sénat – scrutin n°69 sur l'article 1er (22 janvier 2020)",
+      "url": "https://www.senat.fr/scrutin-public/2019/scr2019-69.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3855",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/bioethique_2",
+  "argumentsPour": [
+    {
+      "auteur": "Aurore Bergé (LaREM)",
+      "resume": "Les femmes concernées ne peuvent plus attendre, après deux ans de débat ; le nouveau droit ne retire rien aux autres.",
+      "citation": "Il était important qu’enfin, ce nouveau droit soit consacré. C’est un droit qui n’enlève rien à personne.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N322",
+      "date": "2021-06-29"
+    },
+    {
+      "auteur": "Bastien Lachaud (FI)",
+      "resume": "La PMA pour toutes relève de l'égalité ; le groupe regrette toutefois que les hommes transgenres en soient exclus.",
+      "citation": "La question de la PMA pour toutes n’est pas un sujet de bioéthique, mais un sujet d’égalité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N322",
+      "date": "2021-06-29"
+    },
+    {
+      "auteur": "Elsa Faucillon (GDR)",
+      "resume": "Le groupe soutient pleinement l'ouverture du droit et demande la publication rapide des décrets, tout en regrettant des inégalités sociales d'accès.",
+      "citation": "J’ai eu plusieurs fois l’occasion de dire ici la hâte, voire l’impatience du groupe de la Gauche démocrate et républicaine à voir l’assistance médicale à la procréation ouverte à toutes les femmes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N322",
+      "date": "2021-06-29"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Emmanuelle Ménard (non inscrite)",
+      "resume": "Selon elle, la loi priverait volontairement des enfants de père, créerait une inégalité entre enfants et ouvrirait la voie à la GPA.",
+      "citation": "Oui, un enfant a besoin, ne vous en déplaise, d’un père et d’une mère. L’un et l’autre sont essentiels pour l’enfant. En être privé est toujours un manque et un drame.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N322",
+      "date": "2021-06-29"
+    },
+    {
+      "auteur": "Valérie Six (UDI-I)",
+      "resume": "Le groupe conteste une filiation fondée sur la seule volonté et redoute une demande future des couples d'hommes, donc la GPA.",
+      "citation": "Là où nous sommes en complet désaccord avec vous, c’est sur la manière dont vous établissez la filiation : l’expression d’une simple volonté ne peut être suffisante pour fonder une filiation.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N322",
+      "date": "2021-06-29"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Philippe Berta (MoDem)",
+      "resume": "Comme la plupart des groupes, le MoDem a laissé une liberté de vote totale sur ce texte de conscience : 32 pour, 8 contre, 4 abstentions.",
+      "citation": "Chacun des députés démocrates se prononcera donc avec une liberté de vote totale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N322",
+      "date": "2021-06-29"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3855, lecture définitive) ; le groupe FI a voté pour (16/0). Argument = explication de vote du groupe (Bastien Lachaud).",
+      "argument": "Le groupe FI y voit une question d'égalité plutôt que de bioéthique et regrette l'exclusion des personnes transgenres.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N322",
+      "date": "2021-06-29"
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3855) ; le groupe GDR a voté pour (10 pour, 4 abstentions). Argument = explication de vote du groupe (Elsa Faucillon).",
+      "argument": "Le groupe GDR soutient pleinement l'ouverture de la PMA à toutes les femmes, tout en regrettant les inégalités sociales d'accès.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N322",
+      "date": "2021-06-29"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3855), alors membre du groupe FI ; aucune intervention personnelle trouvée.",
+      "argument": "Le groupe FI y voit une question d'égalité plutôt que de bioéthique.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021O1N322",
+      "date": "2021-06-29"
+    },
+    "tondelier": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Sans mandat national en 2021. En mars 2026 (LCI, rapporté par le HuffPost), elle défend la loi et veut l'« améliorer », notamment par le diagnostic préimplantatoire des aneuploïdies (DPI-A).",
+      "argument": "Elle a elle-même suivi un parcours de PMA et veut améliorer la loi pour faciliter ces parcours.",
+      "citation": "Il y a plein de choses à améliorer dans la loi et on va s’en occuper !",
+      "url": "https://www.huffingtonpost.fr/politique/article/marine-tondelier-veut-ameliorer-la-loi-pour-faciliter-les-parcours-pma-quelles-sont-les-pistes_262105.html",
+      "date": "2026-03-30"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif pour (scrutin n°3855), comme députée non inscrite ; aucune intervention personnelle trouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3855",
+      "date": "2021-06-29"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote ; aucune déclaration trouvée sur ce texte. Proxy : le groupe Socialistes a voté pour (24/2).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Membre du gouvernement Castex (secrétaire d'État, porte-parole) qui portait le texte ; dans un message Instagram du 30 juin 2021, rapporté par Paris Match, il salue l'adoption et révèle être né d'une PMA.",
+      "argument": "Il estime que ce nouveau droit ne retire rien à personne et que les enfants nés par PMA seront aussi aimés que les autres.",
+      "citation": "Ma conviction, c’est que ce droit nouveau, qui n’enlève rien à personne, ne produira qu’une chose : de l’amour.",
+      "url": "https://www.parismatch.com/Actu/Politique/Adoption-de-la-PMA-pour-toutes-Gabriel-Attal-ne-d-une-PMA-partage-des-souvenirs-d-enfance-1745394",
+      "date": "2021-06-30"
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre : son gouvernement a déposé le projet de loi. Il en a annoncé l'examen dans sa déclaration de politique générale du 12 juin 2019.",
+      "argument": "Il a fixé le calendrier de la PMA pour toutes et souhaité un débat « serein » sur ce sujet.",
+      "citation": "Le projet de loi sur le PMA pour toutes sera adopté en Conseil des ministres dès la fin juillet.",
+      "url": "https://www.rtl.fr/actu/politique/discours-d-edouard-philippe-le-projet-de-loi-bioethique-contenant-la-pma-fin-septembre-7797832525",
+      "date": "2019-06-12"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Sénateur, président du groupe LR : il a voté contre l'article 1er (ouverture de la PMA) au Sénat en première lecture (scrutin n°69, 22 janvier 2020) et en deuxième lecture (scrutin n°70, 2 février 2021).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2019/scr2019-69.html",
+      "date": "2020-01-22"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans vote ; aucune déclaration vérifiable trouvée. Proxy : le groupe LR de l'Assemblée a voté contre (5 pour, 77 contre, 7 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans vote ; aucune déclaration trouvée. Proxy : le groupe LR a voté contre (5/77/7).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3855). En 2022, elle dit regretter l'extension sans proposer explicitement de l'abroger (Cosmopolitan).",
+      "argument": "Elle aurait préféré réserver la PMA aux couples hétérosexuels infertiles et craint que l'extension mène à la GPA.",
+      "citation": "Nous aurions préféré que la PMA reste accessible uniquement aux couples de sexe opposés et infertiles.",
+      "url": "https://www.cosmopolitan.fr/presidentielle-2022-que-proposent-les-candidats-pour-les-droits-des-femmes%2C2056087.asp",
+      "date": "2022-03-30"
+    },
+    "zemmour": {
+      "position": "contre",
+      "type": "declaration",
+      "detail": "Candidat en 2022, il proposait d'abroger la PMA pour toutes (Cosmopolitan, 2022).",
+      "argument": "Il veut abroger la PMA pour toutes, au motif que la figure paternelle participe à l'équilibre de l'enfant.",
+      "citation": "un enfant a besoin d’un père et d’une mère",
+      "url": "https://www.cosmopolitan.fr/presidentielle-2022-que-proposent-les-candidats-pour-les-droits-des-femmes%2C2056087.asp",
+      "date": "2022-03-30"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3855) ; aucune explication de vote trouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3855",
+      "date": "2021-06-29"
+    }
+  },
+  "alertes": [
+    "Le scrutin retenu (n°3855) porte sur l'ensemble de la loi de bioéthique en lecture définitive, pas sur la seule PMA (le texte traite aussi de la recherche sur l'embryon, du don d'organes, etc.).",
+    "Le Pen et Zemmour : les positions proviennent d'un article de Cosmopolitan sur la présidentielle 2022 (30 mars 2022) ; citations reprises par le magazine.",
+    "Philippe : la citation est rapportée par RTL, avec la coquille « le PMA » reprise telle quelle ; le PDF officiel de sa déclaration de politique générale (info.gouv) n'a pas été vérifié.",
+    "Retailleau : le vote a eu lieu sur l'article 1er au Sénat, aucune déclaration personnelle n'a été citée.",
+    "Glucksmann, Bertrand, Lisnard : aucune position vérifiable trouvée ; classés « inconnu ».",
+    "Tondelier : sa déclaration de 2026 porte sur l'amélioration de la loi existante ; elle n'a pas pris position en 2021."
+  ]
+}

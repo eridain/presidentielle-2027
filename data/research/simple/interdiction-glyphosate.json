@@ -1,0 +1,18 @@
+{
+  "id": "interdiction-glyphosate",
+  "questionSimple": "Faut-il interdire le glyphosate, l'herbicide le plus utilisé, en France ?",
+  "enBref": "Le glyphosate est un désherbant très utilisé par les agriculteurs, classé « cancérogène probable » par une agence de l'OMS. Emmanuel Macron avait promis en 2017 de l'interdire en trois ans. Ce texte des insoumis voulait interdire sa vente et son usage en France.",
+  "pourquoiPour": "Ses partisans veulent protéger la santé des agriculteurs et de la population. Ils rappellent la promesse non tenue du président et affirment que des solutions de remplacement existent.",
+  "pourquoiContre": "Ses opposants jugent qu'il n'existe pas encore de solution pour tous les usages. Une interdiction seulement française désavantagerait les agriculteurs face à leurs voisins européens.",
+  "ceQuiSestPasse": "L'Assemblée a rejeté le texte le 13 janvier 2022 ; il n'y a donc pas eu d'interdiction nationale par cette loi.",
+  "lexique": [
+    {
+      "terme": "Glyphosate",
+      "definition": "Désherbant chimique très répandu, au cœur d'une controverse sur sa toxicité."
+    },
+    {
+      "terme": "Niche parlementaire",
+      "definition": "Journée où un groupe d'opposition choisit les textes examinés à l'Assemblée."
+    }
+  ]
+}

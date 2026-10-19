@@ -1,0 +1,80 @@
+{
+  "partiId": "horizons",
+  "personnes": [
+    {
+      "personne": "Estrosi Christian",
+      "statutMembre": "membre",
+      "depuis": "2021",
+      "detail": "Président du Conseil national d'Horizons et président délégué du conseil régional PACA ; maire sortant Horizons battu à Nice par Éric Ciotti en mars 2026 ; avait quitté LR en mai 2021.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Organisation — Horizons",
+          "url": "https://horizonsleparti.fr/organisation/",
+          "citation": "Président du Conseil national Christian Estrosi Président délégué du conseil régional de Provence-Alpes-Côte-d'Azur Ancien maire de Nice",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Municipales 2026 : Eric Ciotti mise sur son fief de Nice pour bâtir « l'union des droites »",
+          "url": "https://lesechos.fr/elections/municipales/municipales-2026-eric-ciotti-mise-sur-son-fief-de-nice-pour-batir-lunion-des-droites-2222792",
+          "citation": "le maire sortant Horizons Christian Estrosi",
+          "date": "2026-03-24"
+        },
+        {
+          "titre": "Christian Estrosi — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Christian_Estrosi",
+          "citation": "En mai 2021, dénonçant « une dérive » à droite, il quitte LR",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Firmin Le Bodo Agnès",
+      "statutMembre": "membre",
+      "depuis": "2021",
+      "detail": "Députée Horizons de la Seine-Maritime et secrétaire nationale d'Horizons (bioéthique et questions sociétales) ; membre d'Horizons depuis 2021.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Agnès Firmin Le Bodo, architecte de la loi sur la fin de vie : « c’est une main tendue »",
+          "url": "https://www.paris-normandie.fr/id734295/article/2026-07-22/agnes-firmin-le-bodo-architecte-de-la-loi-sur-la-fin-de-vie-cest-une-main-tendue",
+          "citation": "Députée (Horizons) de Seine-Maritime proche du candidat à la présidentielle Édouard Philippe",
+          "date": "2026-07-22"
+        },
+        {
+          "titre": "Secrétaires nationaux — Horizons",
+          "url": "https://horizonsleparti.fr/secretaires-nationaux/",
+          "citation": "Agnès Firmin Le Bodo Bioéthique et questions sociétales Députée de la Seine-Maritime",
+          "date": "2026-10-18"
+        }
+      ]
+    },
+    {
+      "personne": "Marcangeli Laurent",
+      "statutMembre": "membre",
+      "depuis": "2021",
+      "detail": "Député de la Corse-du-Sud, président du groupe Horizons & Indépendants à l'Assemblée, rattaché financièrement à Horizons.",
+      "lienAvecCondamnation": null,
+      "reactionParti": null,
+      "sources": [
+        {
+          "titre": "Laurent Marcangeli — Datan",
+          "url": "https://datan.fr/deputes/corse-du-sud-2a/depute_laurent-marcangeli",
+          "citation": "Laurent Marcangeli est rattaché financièrement au parti politique Horizons (HOR).",
+          "date": "2026-10-18"
+        },
+        {
+          "titre": "Laurent Marcangeli — Wikipédia",
+          "url": "https://fr.wikipedia.org/wiki/Laurent_Marcangeli",
+          "citation": "UMP/LR (2002-2018) CCB (depuis 2013) LFA (depuis 2017) HOR (depuis 2021)",
+          "date": "2026-10-18"
+        }
+      ]
+    }
+  ],
+  "alertes": [
+    "Laurent Marcangeli et Agnès Firmin Le Bodo : aucune réaction publique d'Horizons à leurs condamnations (Cour des comptes 2023 ; CRPC 2024) n'a été trouvée."
+  ]
+}

@@ -1,0 +1,201 @@
+{
+  "id": "verrou-de-bercy",
+  "titre": "Loi anti-fraude 2018 et verrou de Bercy",
+  "question": "Faut-il adopter la loi anti-fraude de 2018, qui assouplit le « verrou de Bercy » pour que les fraudes fiscales les plus graves soient automatiquement transmises à la justice ?",
+  "ouiSignifie": "pour",
+  "contexte": "Depuis 1920, seule l'administration fiscale pouvait décider de porter plainte pour fraude fiscale (« verrou de Bercy »). La loi relative à la lutte contre la fraude impose désormais la transmission automatique au parquet des dossiers les plus graves, ceux où des majorations lourdes (40 % à 100 %) s'appliquent à plus de 100 000 euros de droits éludés ; elle crée aussi une police fiscale, étend la convention judiciaire d'intérêt public et le plaider-coupable à la fraude fiscale et permet de publier les sanctions. Le scrutin du 10 octobre 2018 porte sur le texte de la commission mixte paritaire, adopté par 112 voix contre 14 (LFI et GDR contre) ; la loi n° 2018-898 a été promulguée le 23 octobre 2018.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – Rapport d'information « Fraude et évasion fiscales : faire les comptes et intensifier la lutte » (2022)",
+      "url": "https://senat.fr/rap/r22-072/r22-0727.html"
+    },
+    {
+      "titre": "Assemblée nationale – Compte rendu de la séance du 10 octobre 2018",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N013"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/1215",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N013",
+  "argumentsPour": [
+    {
+      "auteur": "Éric Diard (LR)",
+      "resume": "Le législateur fixant lui-même les critères de transmission, le monopole de Bercy sur les poursuites prend fin : les dossiers graves iront automatiquement au parquet.",
+      "citation": "Désormais, les dossiers des fraudeurs fiscaux seront transmis automatiquement au parquet dès qu’ils rempliront les critères que nous avons fixés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N013",
+      "date": "2018-10-10"
+    },
+    {
+      "auteur": "Charles de Courson (UDI, Agir et indépendants)",
+      "resume": "Le texte va dans le bon sens contre la fraude fiscale, douanière et sociale ; l'aménagement du verrou de Bercy est équilibré.",
+      "citation": "Nous sommes satisfaits des aménagements du dispositif dit du « verrou de Bercy », qui nous semble équilibré.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N013",
+      "date": "2018-10-10"
+    },
+    {
+      "auteur": "Sarah El Haïry (MoDem)",
+      "resume": "Le groupe salue une réforme du verrou de Bercy qui améliore la transparence, fruit d'un travail commun entre groupes.",
+      "citation": "Nous saluons également la réforme du verrou de Bercy, qui vise à améliorer la transparence.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N013",
+      "date": "2018-10-10"
+    },
+    {
+      "auteur": "Christine Pires Beaune (Socialistes)",
+      "resume": "Malgré des regrets (verrou maintenu pour la plupart des dossiers, justice négociée), le texte renforce publication des condamnations, sanctions et police fiscale : le groupe vote pour.",
+      "citation": "le groupe Socialistes et apparentés maintient la position qu’il avait adoptée en première lecture et votera pour ce texte relatif à la lutte contre la fraude fiscale, tel qu’issu de la CMP.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N013",
+      "date": "2018-10-10"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Sabine Rubin (La France insoumise)",
+      "resume": "Le verrou est assoupli, mais le texte étend aux fraudeurs fiscaux des procédures de négociation (plaider-coupable, convention judiciaire) qui leur évitent un procès.",
+      "citation": "votre projet de loi va étendre le recours à cette reconnaissance préalable de culpabilité aux cas de fraude fiscale, c’est-à-dire qu’il permettra aux fraudeurs fiscaux d’éviter un procès.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N013",
+      "date": "2018-10-10"
+    },
+    {
+      "auteur": "Fabien Roussel (GDR)",
+      "resume": "Les aménagements du verrou, soutenus par le groupe, pèsent peu face aux nouvelles « portes de sortie » offertes aux gros fraudeurs ; une occasion manquée.",
+      "citation": "Au final, mes chers collègues, ce projet de loi est une occasion manquée.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N013",
+      "date": "2018-10-10"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre le texte de la CMP (scrutin AN n°1215) ; pas d'intervention personnelle retrouvée : argument = explication du groupe LFI (Sabine Rubin, Éric Coquerel).",
+      "argument": "Groupe LFI : le verrou est assoupli, mais l'extension de la justice négociée permettra aux fraudeurs fiscaux d'éviter un procès.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N013",
+      "date": "2018-10-10"
+    },
+    "roussel": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "A voté contre le texte de la CMP (scrutin AN n°1215) ; orateur du groupe GDR dans la discussion générale.",
+      "argument": "Soutient l'aménagement du verrou de Bercy mais refuse l'extension de la transaction et du plaider-coupable aux fraudeurs fiscaux, « occasion manquée » contre l'évasion fiscale.",
+      "citation": "Les aménagements apportés au verrou de Bercy, au demeurant nécessaires – nous les avons soutenus –, pèsent peu dès lors que vous offrez de nouvelles portes de sortie aux gros fraudeurs",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N013",
+      "date": "2018-10-10"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1215) ; aucune déclaration retrouvée. Proxy : le groupe LFI a voté contre.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat parlementaire ; EELV sans groupe à l'Assemblée en 2018 ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1215) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat en 2018 ; aucune déclaration retrouvée. Proxy : le groupe Socialistes a voté pour à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député LaREM (il entre au gouvernement le 16 octobre 2018), n'a pas pris part au vote (scrutin AN n°1215). Proxy : le groupe LaREM a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "philippe": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a présenté le projet de loi (porté par Gérald Darmanin et Olivier Dussopt).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2019O1N013",
+      "date": "2018-10-10"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur : aucun scrutin public au Sénat sur l'ensemble du texte ; il a voté contre des amendements identiques (CRCE, Goulet, socialistes) à l'article 13 (verrou de Bercy) le 3 juillet 2018 (scrutin n°187). Proxy : les députés LR ont voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2017/scr2017-187.html",
+      "date": "2018-07-03"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans groupe parlementaire de référence ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes (LR) ; aucune déclaration retrouvée. Proxy : le groupe LR à l'Assemblée a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin AN n°1215) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Journaliste en 2018, sans mandat ni parti ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin AN n°1215) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Formulation corrigée : le scrutin porte sur l'ensemble de la loi anti-fraude (texte de CMP), pas sur le seul verrou de Bercy ; la question mentionne désormais la loi. Polarité inchangée (Oui = pour).",
+    "LFI et GDR ont voté contre tout en jugant l'assouplissement du verrou nécessaire (Roussel : « nous les avons soutenus ») : leur opposition vise l'extension de la justice négociée (CJIP, plaider-coupable) aux fraudeurs fiscaux.",
+    "Scrutin à faible participation (126 votants) : Ruffin, Batho, Attal, Le Pen et Dupont-Aignan n'ont pas pris part au vote ; aucune déclaration retrouvée.",
+    "Retailleau : le sens des amendements identiques de l'article 13 rejetés par le Sénat (scrutin n°187) n'a pas été vérifié dans le détail ; position laissée « inconnu ».",
+    "Pas de page de dossier AN identifiée depuis la page du scrutin : urlDossier pointe vers le compte rendu."
+  ]
+}

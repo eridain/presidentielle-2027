@@ -1,0 +1,214 @@
+{
+  "id": "loi-terrorisme-renseignement-2021",
+  "titre": "Loi antiterroriste et renseignement 2021",
+  "question": "Faut-il pérenniser les mesures antiterroristes de 2017 et l'usage d'algorithmes de détection par les services de renseignement (loi de 2021) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Présenté par le gouvernement Castex en avril 2021, le projet de loi comporte deux volets : il pérennise et renforce les quatre mesures de la loi SILT de 2017 (périmètres de protection, fermeture de lieux de culte, mesures individuelles de contrôle administratif et de surveillance, visites domiciliaires) et révise la loi « renseignement » de 2015, en pérennisant la technique de l'algorithme et en l'étendant aux adresses URL. Il crée aussi une mesure judiciaire de prévention de la récidive terroriste pour les sortants de prison et modifie l'accès aux archives. Faute d'accord en commission mixte paritaire (désaccord sur la durée des mesures de surveillance), l'Assemblée l'a adopté en lecture définitive le 22 juillet 2021 (108 pour, 20 contre). Le Conseil constitutionnel a jugé excessive la durée maximale de 24 mois de ces mesures (décision n° 2021-822 DC du 30 juillet 2021, conformité partielle) ; la loi a été promulguée le 30 juillet 2021 (loi n° 2021-998).",
+  "contexteSources": [
+    {
+      "titre": "Sénat – Dossier législatif (décision 2021-822 DC, loi n° 2021-998)",
+      "url": "https://www.senat.fr/dossier-legislatif/pjl20-672.html"
+    },
+    {
+      "titre": "Wikipédia – Loi relative à la prévention d'actes de terrorisme et au renseignement",
+      "url": "https://fr.wikipedia.org/wiki/Loi_relative_%C3%A0_la_pr%C3%A9vention_d%27actes_de_terrorisme_et_au_renseignement"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la deuxième séance du 22 juillet 2021",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E1N017"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+  "urlDossier": "https://www.senat.fr/dossier-legislatif/pjl20-672.html",
+  "argumentsPour": [
+    {
+      "auteur": "Pacôme Rupin (La République en marche)",
+      "resume": "Les mesures testées depuis 2017 sous contrôle du Parlement ont montré leur efficacité et peuvent être pérennisées.",
+      "citation": "Nous allons aujourd’hui les pérenniser, car elles ont montré leur efficacité",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E1N017",
+      "date": "2021-07-22"
+    },
+    {
+      "auteur": "Bruno Millienne (Mouvement démocrate)",
+      "resume": "Les outils adoptés depuis 2017 ont permis aux services de déjouer de nombreux attentats.",
+      "citation": "Grâce aux outils adoptés par le Parlement, l’action du Gouvernement, de nos forces de sécurité et de nos services de renseignement a permis de déjouer pas moins de trente-six attentats en quatre ans.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E1N017",
+      "date": "2021-07-22"
+    },
+    {
+      "auteur": "Patricia Lemoine (Agir ensemble)",
+      "resume": "Le texte n'est pas de circonstance : ses mesures ont été évaluées et donnent à l'administration et à la justice les moyens de protéger les citoyens.",
+      "citation": "Le projet de loi relatif à la prévention d’actes de terrorisme et au renseignement n’est pas un texte de circonstance : les mesures qu’il prévoit ont été évaluées il y a des années.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E1N017",
+      "date": "2021-07-22"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Ugo Bernalicis (La France insoumise)",
+      "resume": "Les mesures de surveillance administratives seraient disproportionnées ; des mesures judiciaires protégeraient mieux l'État de droit ; le volet renseignement poserait question après l'affaire Pegasus.",
+      "citation": "Il comprend les dispositions relatives aux MICAS qui, selon nous, sont disproportionnées et attentatoires aux libertés individuelles.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E1N017",
+      "date": "2021-07-22"
+    },
+    {
+      "auteur": "Alain Bruneel (Gauche démocrate et républicaine)",
+      "resume": "La fermeté contre le terrorisme n'exige pas d'empiler de nouvelles dispositions ; il faut concilier ordre public et libertés fondamentales.",
+      "citation": "agir avec fermeté contre le terrorisme n’implique pas nécessairement d’ajouter des dispositions nouvelles à celles qui existent déjà.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E1N017",
+      "date": "2021-07-22"
+    },
+    {
+      "auteur": "Alain David (Socialistes)",
+      "resume": "Les services de renseignement ont besoin de moyens humains et matériels plutôt que d'une nouvelle loi, qui menacerait aussi l'accès aux archives.",
+      "citation": "les services de renseignement n’ont pas besoin d’une nouvelle loi, mais de moyens matériels et humains supplémentaires.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E1N017",
+      "date": "2021-07-22"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Paul Molac (Libertés et territoires)",
+      "resume": "Son groupe, partagé, reste réservé sur la pérennisation de mesures issues de l'état d'urgence et sur l'extension à deux ans des mesures de surveillance administrative.",
+      "citation": "L’extension à deux ans de la durée des MICAS donne un pouvoir totalement disproportionné à l’autorité administrative, au détriment du juge judiciaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E1N017",
+      "date": "2021-07-22"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3917 du 22 juillet 2021) ; pas d'intervention personnelle retrouvée sur ce texte, argument = position du groupe LFI (Ugo Bernalicis, motion de rejet).",
+      "argument": "Groupe LFI : mesures de surveillance administratives disproportionnées, préférence pour des mesures judiciaires, et inquiétudes sur le renseignement après l'affaire Pegasus.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/CRSANR5L15S2021E1N017",
+      "date": "2021-07-22"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3917) ; aucune déclaration retrouvée. À titre indicatif, le groupe GDR a voté contre (0 pour / 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+      "date": "2021-07-22"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3917) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI a voté contre (0 pour / 11 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+      "date": "2021-07-22"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée ; pas de groupe EELV à l'Assemblée en 2021 pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+      "date": "2021-07-22"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3917) ; aucune déclaration retrouvée. À titre indicatif, les non-inscrits se sont partagés (1 pour / 3 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+      "date": "2021-07-22"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le seul député socialiste votant a voté contre (0 pour / 1 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+      "date": "2021-07-22"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a présenté et défendu le projet de loi ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/dossier-legislatif/pjl20-672.html",
+      "date": "2021-07-22"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Ancien Premier ministre (jusqu'en juillet 2020), maire du Havre, sans mandat parlementaire ; aucune déclaration retrouvée ; Horizons n'existait pas encore (fondé en octobre 2021).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+      "date": "2021-07-22"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour sur l'ensemble du texte au Sénat en première lecture (scrutin n°154 du 29 juin 2021) et en nouvelle lecture (scrutin n°163 du 21 juillet 2021), sur des versions modifiées par le Sénat.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-154.html",
+      "date": "2021-06-29"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté pour (23 pour / 0 contre) ; Bertrand avait quitté LR fin 2017.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+      "date": "2021-07-22"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté pour (23 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+      "date": "2021-07-22"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3917) ; aucune déclaration retrouvée. À titre indicatif, les non-inscrits se sont partagés (1 pour / 3 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+      "date": "2021-07-22"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sans mandat ni parti à la date du vote (Reconquête fondé en décembre 2021) ; aucune déclaration vérifiée ; pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+      "date": "2021-07-22"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3917) ; aucune déclaration retrouvée. À titre indicatif, les non-inscrits se sont partagés (1 pour / 3 contre / 2 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3917",
+      "date": "2021-07-22"
+    }
+  },
+  "alertes": [
+    "Scrutin de lecture définitive à faible participation (131 votants) en pleine discussion du projet de loi sur la gestion de la crise sanitaire : Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote ; aucune déclaration vérifiée n'a été retrouvée pour eux.",
+    "Le groupe LR a voté pour, tout en jugeant le texte insuffisant (Raphaël Schellenberger : « un sentiment d’occasion manquée domine »).",
+    "Retailleau : votes nominatifs au Sénat sur les versions adoptées par le Sénat (qui refusait notamment l'extension à 24 mois des mesures de surveillance), pas sur le texte définitif de l'Assemblée.",
+    "La ventilation par groupe de la tâche indique « LT : partagé (1p/0c/1a) » ; l'orateur du groupe (Paul Molac) a exprimé des réserves, d'où sa place en abstention.",
+    "Mélenchon : argument tiré de la position de son groupe (motion de rejet défendue par Ugo Bernalicis), pas d'une intervention personnelle.",
+    "Attal : position déduite de son appartenance au gouvernement. Philippe, Tondelier, Zemmour : aucune position retrouvée."
+  ]
+}

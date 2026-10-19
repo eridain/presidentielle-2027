@@ -1,0 +1,225 @@
+{
+  "id": "narcotrafic",
+  "titre": "Loi contre le narcotrafic",
+  "question": "Faut-il adopter la loi « sortir la France du piège du narcotrafic » (parquet national anti-criminalité organisée, quartiers pénitentiaires de haute sécurité, nouvelles techniques de renseignement et d'enquête) ?",
+  "ouiSignifie": "pour",
+  "contexte": "Issue d'une commission d'enquête sénatoriale (Étienne Blanc, LR, et Jérôme Durain, PS), la proposition de loi crée un parquet national anti-criminalité organisée (Pnaco) et un état-major de coordination, des quartiers pénitentiaires de lutte contre la criminalité organisée, un « dossier coffre » et de nouvelles techniques de renseignement, et renforce la lutte contre le blanchiment et les pouvoirs des préfets. Adoptée à l'unanimité au Sénat, elle a été définitivement adoptée par l'Assemblée le 29 avril 2025 (396 pour, 68 contre, 34 abstentions) : LFI a voté contre, la majorité des écologistes et des communistes s'est abstenue. Le Conseil constitutionnel l'a déclarée partiellement conforme (décision n° 2025-885 DC du 12 juin 2025), censurant notamment le recours au renseignement algorithmique ; la loi n° 2025-532 a été promulguée le 13 juin 2025.",
+  "contexteSources": [
+    {
+      "titre": "Dossier législatif – Sénat",
+      "url": "https://www.senat.fr/dossier-legislatif/ppl23-735.html"
+    },
+    {
+      "titre": "Dossier législatif – Assemblée nationale",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50169"
+    },
+    {
+      "titre": "La loi sur le narcotrafic adoptée définitivement au Parlement (Le Monde/AFP, 29/04/2025)",
+      "url": "https://lemonde.fr/politique/article/2025/04/29/la-loi-sur-le-narcotrafic-adoptee-definitivement-au-parlement_6601733_823448.html"
+    },
+    {
+      "titre": "Loi visant à sortir la France du piège du narcotrafic – Wikipédia",
+      "url": "https://fr.wikipedia.org/wiki/Loi_visant_%C3%A0_sortir_la_France_du_pi%C3%A8ge_du_narcotrafic"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/1473",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50169",
+  "argumentsPour": [
+    {
+      "auteur": "Stéphane Mazars (Ensemble pour la République)",
+      "resume": "Face à la hausse des violences liées au trafic, il faut agir vite : parquet spécialisé, protection des agents pénitentiaires, lutte contre le blanchiment et gel des avoirs.",
+      "citation": "Notre pays est à un point de bascule : soit nous agissons rapidement et fermement, soit nous laissons les organisations criminelles imposer leur loi, et ce définitivement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-29-avril-2025",
+      "date": "2025-04-29"
+    },
+    {
+      "auteur": "Olivier Marleix (Droite républicaine)",
+      "resume": "Un texte de rupture qui protège les jeunes victimes du trafic et donne aux forces de l'ordre et à la justice des outils de fermeté ; seul regret, les messageries cryptées.",
+      "citation": "Nous voterons aussi ce texte avec conviction parce qu’il est résolument énergique.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-29-avril-2025",
+      "date": "2025-04-29"
+    },
+    {
+      "auteur": "Jocelyn Dessigny (Rassemblement national)",
+      "resume": "Le RN revendique d'avoir porté le texte (dossier coffre, quartiers spécialisés, expulsion des étrangers condamnés) mais réclame des moyens financiers et des places de prison.",
+      "citation": "Nous soutiendrons, pour ce qui nous concerne, les avancées majeures de la proposition de loi ordinaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-29-avril-2025",
+      "date": "2025-04-29"
+    },
+    {
+      "auteur": "Estelle Mercier (Socialistes et apparentés)",
+      "resume": "Un texte d'initiative socialiste aux avancées notables (Pnaco, blanchiment, repentis) ; vote de responsabilité, avec une saisine du Conseil constitutionnel sur les dispositions touchant aux libertés.",
+      "citation": "Nous voterons pour ce texte, mais nous restons vigilants.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-29-avril-2025",
+      "date": "2025-04-29"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Antoine Léaument (La France insoumise)",
+      "resume": "La logique répressive a échoué ; le texte restreint les libertés (interdiction de paraître, résiliation de baux) sans renforcer les moyens d'enquête et de justice.",
+      "citation": "Avec ce texte, vous avez suivi une logique de restriction des libertés.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-29-avril-2025",
+      "date": "2025-04-29"
+    },
+    {
+      "auteur": "Gabrielle Cathala (La France insoumise)",
+      "resume": "Le texte étend la surveillance et les procédures d'exception sans efficacité ; LFI défend une légalisation régulée du cannabis et la prévention.",
+      "citation": "un texte qui ne changera rien car votre loi ne permettra pas de lutter efficacement contre la criminalité organisée qui sévit dans notre société",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-01-avril-2025",
+      "date": "2025-04-01"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Sandra Regol (Écologiste et social)",
+      "resume": "Le groupe ne s'oppose pas à la réorganisation des enquêtes et aux juridictions spécialisées, mais juge le texte sans moyens et attentatoire aux droits ; il saisira le Conseil constitutionnel.",
+      "citation": "afin de pouvoir réorganiser la gestion des enquêtes, de disposer de juridictions spécialisées et de doter nos institutions de maigres outils pour combattre le blanchiment, nous ne nous opposerons pas à ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-29-avril-2025",
+      "date": "2025-04-29"
+    },
+    {
+      "auteur": "Émeline K/Bidi (Gauche démocrate et républicaine)",
+      "resume": "Favorable au Pnaco, le groupe s'est opposé au dossier coffre, aux quartiers spécialisés et à la visioconférence, et regrette l'absence de moyens et de mesures pour l'outre-mer.",
+      "citation": "Nous nous sommes donc opposés aux dispositions que nous trouvions attentatoires aux droits et libertés fondamentaux, car nous n’étions pas prêts à brader ces dernières pour lutter contre le narcotrafic.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-29-avril-2025",
+      "date": "2025-04-29"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration personnelle retrouvée. PROXY : le groupe LFI-NFP a voté contre (0 pour, 60 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "roussel": {
+      "position": "pour",
+      "type": "declaration",
+      "detail": "Entretien à La Dépêche du Midi (22 janvier 2025), après une rencontre avec Bruno Retailleau, sur le texte adopté par le Sénat ; il n'était plus député lors du vote final.",
+      "argument": "Le texte comporte des avancées, mais il manque des moyens : effectifs de police nationale et judiciaire, douaniers, lutte contre le blanchiment.",
+      "citation": "Nous lui avons dit que dans le texte de loi qui arrive au Parlement il y a de bonnes choses, des avancées et on s’y retrouve plutôt mais qu’il manque de nombreux moyens.",
+      "url": "https://www.ladepeche.fr/2025/01/22/entretien-narcotrafic-la-justice-doit-aussi-lutter-contre-le-blanchiment-estime-fabien-roussel-12460742.php",
+      "date": "2025-01-22"
+    },
+    "ruffin": {
+      "position": "abstention",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale (abstention), scrutin n° 1473 du 29 avril 2025. Pas d'intervention personnelle retrouvée : argument = explication de son groupe Écologiste et social (Sandra Regol).",
+      "argument": "(Groupe EcoS) Pas d'opposition à la réorganisation des enquêtes et aux juridictions spécialisées, mais des mesures jugées attentatoires aux droits et sans moyens.",
+      "citation": "afin de pouvoir réorganiser la gestion des enquêtes, de disposer de juridictions spécialisées et de doter nos institutions de maigres outils pour combattre le blanchiment, nous ne nous opposerons pas à ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-29-avril-2025",
+      "date": "2025-04-29"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée. PROXY : le groupe Écologiste et social s'est majoritairement abstenu (0 pour, 4 contre, 25 abstentions).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non députée en 2025 ; aucune déclaration retrouvée. PROXY indicatif : le groupe Écologiste et social s'est majoritairement abstenu (0 pour, 4 contre, 25 abstentions) ; rattachement de Génération écologie à ce groupe non vérifié.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, sans vote sur ce texte ; aucune déclaration retrouvée sur la loi. PROXY : le groupe Socialistes et apparentés, allié de Place publique, a voté pour (63 pour, 0 contre, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "attal": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 1473 du 29 avril 2025. Pas d'intervention personnelle retrouvée : argument = discussion générale de son groupe EPR (Stéphane Mazars).",
+      "argument": "(Groupe EPR) Il faut agir vite face aux violences liées au trafic : parquet spécialisé, protection des agents, lutte contre le blanchiment.",
+      "citation": "Notre pays est à un point de bascule : soit nous agissons rapidement et fermement, soit nous laissons les organisations criminelles imposer leur loi, et ce définitivement.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-29-avril-2025",
+      "date": "2025-04-29"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée sur la loi. PROXY : le groupe Horizons & Indépendants, de son parti, a voté pour (33 pour, 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur, il a défendu le texte aux côtés du garde des sceaux, notamment en séance à l'Assemblée avant le vote final.",
+      "argument": "Le narcotrafic est la racine de l'hyperviolence et menace les institutions ; le texte réorganise l'État (Pnaco, état-major) et crée un nouvel arsenal contre le blanchiment et la corruption.",
+      "citation": "Le narcotrafic, parce qu’il entraîne la corruption, constitue aussi une menace existentielle pour les institutions.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-29-avril-2025",
+      "date": "2025-04-29"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée sur la loi. PROXY : la Droite républicaine (LR) a voté pour (38 pour, 0 contre, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration vérifiée sur la loi. PROXY : la Droite républicaine (LR, son parti à cette date) a voté pour (38 pour, 0 contre, 1 abstention).",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "lepen": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote nominatif à l'Assemblée nationale, scrutin n° 1473 du 29 avril 2025. Pas d'intervention personnelle retrouvée : argument = discussion générale de son groupe RN (Jocelyn Dessigny).",
+      "argument": "(Groupe RN) Le RN revendique d'avoir porté des mesures du texte (dossier coffre, quartiers spécialisés) et réclame des moyens financiers.",
+      "citation": "Nous soutiendrons, pour ce qui nous concerne, les avancées majeures de la proposition de loi ordinaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/session-ordinaire-de-2024-2025/deuxieme-seance-du-mardi-29-avril-2025",
+      "date": "2025-04-29"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune déclaration retrouvée sur cette loi ; Reconquête n'a pas de groupe à l'Assemblée : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député en 2025 ; aucune déclaration retrouvée ; Debout la France n'a pas de groupe à l'Assemblée : pas de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": null,
+      "date": null
+    }
+  },
+  "alertes": [
+    "Roussel : position « pour » déduite d'un entretien de janvier 2025 portant sur le texte du Sénat, avant l'ajout des quartiers de haute sécurité à l'Assemblée ; aucune position retrouvée sur le texte final. Le groupe GDR s'est divisé (1 pour, 4 contre, 7 abstentions).",
+    "Groupe Écologiste et social : tasks.json le classe « contre » (seul vote exprimé), mais 25 de ses membres sur 29 votants se sont abstenus et l'oratrice du groupe a annoncé l'abstention (CR du 29/04/2025).",
+    "Le 29 avril 2025 il n'y a pas eu d'explications de vote après la discussion générale : les arguments viennent de la discussion générale du texte de CMP (29/04) et des explications de vote de première lecture (01/04/2025).",
+    "Lisnard : un article France 24 (18/11/2025) lui attribuerait l'expression « une bonne loi » ; page inaccessible (403), donc non utilisée.",
+    "Zemmour s'est exprimé sur le narcotrafic (Europe 1, « France mexicanisée », date non vérifiée) sans se prononcer sur la loi ; Glucksmann (Public Sénat, nov. 2025) aussi, de même : non retenu.",
+    "Retailleau, ministre à la date du vote, n'a pas voté au Sénat (texte adopté à l'unanimité les 4 février et 28 avril 2025)."
+  ]
+}

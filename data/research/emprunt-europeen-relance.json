@@ -1,0 +1,206 @@
+{
+  "id": "emprunt-europeen-relance",
+  "titre": "Emprunt commun européen pour le plan de relance",
+  "question": "Faut-il autoriser l'Union européenne à emprunter en commun pour financer le plan de relance européen de 750 milliards d'euros ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi autorise l'approbation de la décision du Conseil du 14 décembre 2020 relative aux ressources propres de l'Union européenne. Celle-ci permet notamment à la Commission européenne de lever, au nom des Vingt-Sept, une dette commune de 750 milliards d'euros pour financer le plan de relance après la crise du covid-19, et maintient des rabais pour plusieurs États contributeurs. Chaque État devait l'approuver selon ses règles constitutionnelles ; l'Assemblée nationale a adopté l'article unique le 26 janvier 2021 (188 pour, 16 contre, 18 abstentions), puis le Sénat le 4 février 2021 ; la loi a été promulguée le 8 février 2021.",
+  "contexteSources": [
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/approbation_decision_ue_euratom"
+    },
+    {
+      "titre": "Assemblée nationale – scrutin n°3321",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3321"
+    },
+    {
+      "titre": "Sénat – scrutin n°80 du 4 février 2021",
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-80.html"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3321",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/15/dossiers/approbation_decision_ue_euratom",
+  "argumentsPour": [
+    {
+      "auteur": "Clément Beaune (secrétaire d'État aux affaires européennes, gouvernement)",
+      "resume": "L'emprunt commun, tabou un an plus tôt, montre que l'Europe sait être solidaire en période exceptionnelle ; il financera plus de 40 % du plan de relance français.",
+      "citation": "Il y a encore un an, le principe d’un emprunt commun restait un tabou pour de nombreux États en Europe.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-26-janvier-2021",
+      "date": "2021-01-26"
+    },
+    {
+      "auteur": "Michel Herbillon (Les Républicains)",
+      "resume": "LR soutient les nouvelles ressources propres pour défendre le marché unique face à la concurrence déloyale, tout en restant vigilant sur le remboursement.",
+      "citation": "Nous sommes favorables à ces ressources propres, car nous considérons depuis longtemps qu’il faut sortir de la naïveté et assumer enfin de défendre nos intérêts et notre marché unique européen",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-26-janvier-2021",
+      "date": "2021-01-26"
+    },
+    {
+      "auteur": "Alain David (Socialistes)",
+      "resume": "Malgré les rabais maintenus et la conditionnalité liée au pacte de stabilité, le groupe socialiste approuve le texte par responsabilité.",
+      "citation": "c’est avec responsabilité mais sans réel enthousiasme que notre groupe approuvera ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-26-janvier-2021",
+      "date": "2021-01-26"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Jean-Luc Mélenchon (La France insoumise)",
+      "resume": "La France paiera le quart des rabais accordés aux pays « frugaux », et le Parlement ne peut voter qu'un article unique sans rien modifier.",
+      "citation": "Les Français, à la faveur de cette victoire extraordinaire de l’amour et de la concorde européennes, devront payer à eux seuls le quart de tous les rabais",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-26-janvier-2021",
+      "date": "2021-01-26"
+    },
+    {
+      "auteur": "Jean-Paul Lecoq (Gauche démocrate et républicaine)",
+      "resume": "Les fonds seraient conditionnés à des réformes libérales (retraites, assurance chômage) et l'Union abandonne des ressources tirées des droits de douane.",
+      "citation": "Pour cette Union européenne, il n’y a de place que pour l’argent et le profit ; les peuples sont et seront oubliés tant que le dogme néolibéral sera sa seule boussole.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-26-janvier-2021",
+      "date": "2021-01-26"
+    },
+    {
+      "auteur": "Nicolas Dupont-Aignan (non-inscrit, Debout la France)",
+      "resume": "L'accord résulterait d'un marchandage défavorable : hausse des rabais, coût élevé pour la France et nouvelles ressources propres incertaines.",
+      "citation": "Il fallait acheter les petits pays pour qu’ils acceptent l’emprunt, alors nous avons tout lâché.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-26-janvier-2021",
+      "date": "2021-01-26"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3321) ; intervention en séance au nom du groupe LFI.",
+      "argument": "Il dénonce un vote bloqué sur un article unique et le fait que la France paiera le quart des rabais accordés aux pays « frugaux ».",
+      "citation": "On ne tuera jamais si bien et si efficacement l’idée européenne qu’en la traitant comme on est en train de le faire !",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-26-janvier-2021",
+      "date": "2021-01-26"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3321) ; aucune déclaration retrouvée. Pour information, son groupe GDR a voté contre (3 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3321",
+      "date": "2021-01-26"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°3321) ; aucune déclaration retrouvée. Pour information, son groupe LFI a voté contre (6 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3321",
+      "date": "2021-01-26"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Aucune responsabilité nationale en 2021 ; aucune déclaration retrouvée ; pas de groupe écologiste à l'Assemblée pouvant servir de proxy.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3321",
+      "date": "2021-01-26"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3321) ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3321",
+      "date": "2021-01-26"
+    },
+    "glucksmann": {
+      "position": "pour",
+      "type": "vote_pe",
+      "detail": "Eurodéputé : vote pour la résolution du Parlement européen du 15 mai 2020 sur le cadre financier, les ressources propres et le plan de relance (B9-0158/2020) — texte lié mais distinct de la décision approuvée par l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://howtheyvote.eu/votes/114514",
+      "date": "2020-05-15"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Porte-parole du gouvernement Castex, qui a présenté le projet de loi et en a demandé l'adoption ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/dossiers/approbation_decision_ue_euratom",
+      "date": "2021-01-26"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus au gouvernement depuis juillet 2020 (maire du Havre) ; aucune déclaration retrouvée. PROXY : la majorité LaREM, dont il est issu, a voté pour (133 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3321",
+      "date": "2021-01-26"
+    },
+    "retailleau": {
+      "position": "abstention",
+      "type": "vote_senat",
+      "detail": "Abstention nominative au Sénat sur l'ensemble du même projet de loi (scrutin public n°80 du 4 février 2021), comme la majorité du groupe LR qu'il présidait.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2020/scr2020-80.html",
+      "date": "2021-02-04"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a voté majoritairement pour (27 pour / 2 contre / 18 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3321",
+      "date": "2021-01-26"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) a voté majoritairement pour (27 pour / 2 contre / 18 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3321",
+      "date": "2021-01-26"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°3321) ; aucune déclaration retrouvée. Pour information, Jordan Bardella (RN) a voté contre la résolution du Parlement européen du 15 mai 2020 sur le plan de relance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3321",
+      "date": "2021-01-26"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat ni de parti en janvier 2021 (Reconquête fondé fin 2021) ; aucune déclaration retrouvée ; pas de proxy possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/15/scrutins/3321",
+      "date": "2021-01-26"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre (scrutin n°3321) ; intervention en séance.",
+      "argument": "L'accord serait un « marché de dupes » : la France aurait tout cédé sur les rabais pour obtenir l'emprunt, sans garantie sur les futures ressources propres.",
+      "citation": "Il fallait acheter les petits pays pour qu’ils acceptent l’emprunt, alors nous avons tout lâché.",
+      "url": "https://www.assemblee-nationale.fr/dyn/15/comptes-rendus/seance/session-ordinaire-de-2020-2021/deuxieme-seance-du-mardi-26-janvier-2021",
+      "date": "2021-01-26"
+    }
+  },
+  "alertes": [
+    "Le texte voté est l'approbation de la décision « ressources propres » du 14 décembre 2020 : elle autorise l'emprunt commun mais porte aussi sur les rabais et les recettes de l'Union ; certains votes contre visent les rabais plutôt que l'emprunt.",
+    "Faible participation (222 votants) : Roussel, Ruffin, Batho et Le Pen n'ont pas pris part au vote ; positions laissées « inconnu ».",
+    "Glucksmann : le vote PE utilisé (15 mai 2020) est une résolution politique sur le plan de relance et les ressources propres, antérieure à l'accord de juillet 2020 ; ce n'est pas un vote sur la même décision.",
+    "Retailleau : abstention au Sénat sur l'ensemble du projet de loi ; aucune explication personnelle retrouvée.",
+    "Philippe n'était plus Premier ministre en janvier 2021 ; position laissée « inconnu » (proxy majorité indiqué).",
+    "Attal : porte-parole du gouvernement Castex à la date du vote ; position déduite de l'appartenance au gouvernement."
+  ]
+}

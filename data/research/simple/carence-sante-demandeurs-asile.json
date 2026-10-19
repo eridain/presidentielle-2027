@@ -1,0 +1,18 @@
+{
+  "id": "carence-sante-demandeurs-asile",
+  "questionSimple": "Les demandeurs d'asile doivent-ils attendre trois mois avant d'avoir droit à l'Assurance maladie ?",
+  "enBref": "Jusqu'en 2019, un demandeur d'asile avait droit à l'Assurance maladie dès sa demande. Les Français sans emploi qui arrivent en France, eux, attendent trois mois. Le gouvernement a imposé ce même délai aux demandeurs d'asile adultes, en gardant les soins urgents.",
+  "pourquoiPour": "Pour ses partisans, il n'est pas juste que les demandeurs d'asile soient mieux traités que les autres. Le délai réduirait aussi le « tourisme médical ».",
+  "pourquoiContre": "Pour ses opposants, les demandeurs d'asile arrivent souvent épuisés après un voyage dangereux. Les faire attendre aggrave leur santé, pour une économie minime.",
+  "ceQuiSestPasse": "L'amendement a été adopté le 7 novembre 2019 dans le budget 2020 ; un décret devait ensuite en préciser l'application.",
+  "lexique": [
+    {
+      "terme": "Délai de carence",
+      "definition": "Période d'attente avant d'avoir droit à une prestation."
+    },
+    {
+      "terme": "PUMa",
+      "definition": "Protection universelle maladie : le droit de toute personne résidant en France à l'Assurance maladie."
+    }
+  ]
+}

@@ -1,0 +1,217 @@
+{
+  "id": "derives-sectaires",
+  "titre": "Dérives sectaires et provocation à l'abandon de soins",
+  "question": "Faut-il créer un délit de provocation à abandonner un traitement médical, dans le cadre de la lutte contre les dérives sectaires ?",
+  "ouiSignifie": "pour",
+  "contexte": "Le projet de loi du gouvernement crée un délit de placement ou de maintien en état de sujétion psychologique ou physique et un délit de provocation à l'abandon ou à l'abstention de soins (ou à l'adoption de pratiques présentées comme bénéfiques) lorsqu'il est manifeste, en l'état des connaissances médicales, que cela peut avoir des conséquences graves pour la santé ; il donne un statut législatif à la Miviludes et renforce l'accompagnement des victimes. Le Sénat avait supprimé ces deux délits en première lecture, puis rejeté le texte par une question préalable en nouvelle lecture. L'Assemblée l'a adopté en lecture définitive le 9 avril 2024 (146 pour, 104 contre, 16 abst.). Le Conseil constitutionnel (décision 2024-865 DC du 7 mai 2024) a jugé conforme le délit de provocation à l'abandon de soins et censuré l'article 2 comme sans lien avec le texte ; c'est la loi n° 2024-420 du 10 mai 2024.",
+  "contexteSources": [
+    {
+      "titre": "Sénat – La loi en clair : projet de loi visant à renforcer la lutte contre les dérives sectaires",
+      "url": "https://www.senat.fr/travaux-parlementaires/textes-legislatifs/la-loi-en-clair/projet-de-loi-visant-a-renforcer-la-lutte-contre-les-derives-sectaires.html"
+    },
+    {
+      "titre": "Conseil constitutionnel – décision n° 2024-865 DC du 7 mai 2024",
+      "url": "https://www.conseil-constitutionnel.fr/decision/2024/2024865DC.htm"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N48909"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la première séance du 9 avril 2024",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mardi-09-avril-2024"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/DLR5L16N48909",
+  "argumentsPour": [
+    {
+      "auteur": "Sabrina Agresti-Roubache (secrétaire d'État, gouvernement)",
+      "resume": "Le texte vise les « gourous 2.0 » et faux guérisseurs, sans interdire la critique médicale ni le libre choix éclairé des malades.",
+      "citation": "il n’est dans l’intention du Gouvernement ni d’interdire la critique médicale, ni d’empêcher les malades pleinement éclairés de décider, en toute conscience, de prendre un traitement ou de s’en abstenir",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mardi-09-avril-2024",
+      "date": "2024-04-09"
+    },
+    {
+      "auteur": "Brigitte Liso (Renaissance, rapporteure)",
+      "resume": "Le droit en vigueur ne couvre pas les situations visées par l'article 4 ; il faut adapter la loi aux nouvelles pratiques sectaires.",
+      "citation": "Le droit en vigueur ne suffit pas non plus à traiter les situations auxquelles répond l’article 4.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mardi-09-avril-2024",
+      "date": "2024-04-09"
+    },
+    {
+      "auteur": "Arthur Delaporte (Socialistes)",
+      "resume": "Le droit doit s'adapter aux nouvelles dérives, notamment les charlatans qui promettent une guérison sans médicaments.",
+      "citation": "Néanmoins, ce texte reflète une époque qui nécessite de travailler sans cesse à l’adaptation du droit aux nouvelles dérives, ainsi qu’à la protection des victimes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mardi-09-avril-2024",
+      "date": "2024-04-09"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Thomas Ménagé (Rassemblement national)",
+      "resume": "Le délit de l'article 4, critiqué par le Conseil d'État, serait superflu : six infractions permettent déjà de réprimer ces dérives thérapeutiques.",
+      "citation": "Rappelons qu’il a été jugé inconstitutionnel et disproportionné par le Conseil d’État et qu’il est, surtout, superflu, puisqu’il existe déjà six infractions qui permettent de réprimer la promotion des dérives thérapeutiques à caractère sectaire.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mardi-09-avril-2024",
+      "date": "2024-04-09"
+    },
+    {
+      "auteur": "Élisa Martin (La France insoumise)",
+      "resume": "Le texte, uniquement répressif et sans moyens, menacerait la liberté d'expression et l'individualisation des peines.",
+      "citation": "Mais votre loi, sans moyens et uniquement répressive, sera une loi sans intérêt, sans résultat et privatrice de liberté.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mardi-09-avril-2024",
+      "date": "2024-04-09"
+    },
+    {
+      "auteur": "Davy Rimane (GDR)",
+      "resume": "Le Conseil d'État doutait de la nécessité et de la proportionnalité des nouvelles incriminations ; le texte serait juridiquement fragile.",
+      "citation": "C’est d’ailleurs la raison pour laquelle le Conseil d’État, dans son avis, considère « que ni la nécessité, ni la proportionnalité de ces nouvelles incriminations ne sont avérées ».",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mardi-09-avril-2024",
+      "date": "2024-04-09"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Xavier Breton (Les Républicains)",
+      "resume": "Le groupe salue les apports du Sénat mais reste critique sur l'article 4 et s'abstient.",
+      "citation": "C’est pourquoi le groupe Les Républicains s’abstiendra lors du vote en lecture définitive.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mardi-09-avril-2024",
+      "date": "2024-04-09"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire à cette date ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NUPES a voté contre (0 pour / 30 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+      "date": "2024-04-09"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3664) ; aucune déclaration retrouvée. À titre indicatif, son groupe GDR - NUPES a voté : contre (0p/3c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+      "date": "2024-04-09"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3664) ; aucune déclaration retrouvée. À titre indicatif, son groupe LFI - NUPES a voté : contre (0p/30c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+      "date": "2024-04-09"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Écologiste-NUPES a annoncé son vote favorable (1 pour / 0 contre parmi les votants).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+      "date": "2024-04-09"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°3664) ; aucune déclaration retrouvée. À titre indicatif, son groupe Ecolo - NUPES a voté : pour (1p/0c/0a).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+      "date": "2024-04-09"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (13 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+      "date": "2024-04-09"
+    },
+    "attal": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Premier ministre du gouvernement qui a déposé le projet de loi et en a demandé l'adoption (secrétaire d'État Sabrina Agresti-Roubache au banc) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mardi-09-avril-2024",
+      "date": "2024-04-09"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons, issu de son parti, a voté pour (11 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+      "date": "2024-04-09"
+    },
+    "retailleau": {
+      "position": "contre",
+      "type": "vote_senat",
+      "detail": "Vote nominatif pour la question préalable (rejet du texte) au Sénat, scrutin public n°170 du 2 avril 2024 (nouvelle lecture).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.senat.fr/scrutin-public/2023/scr2023-170.html",
+      "date": "2024-04-02"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée a annoncé l'abstention et s'est partagé (0 pour / 9 contre / 9 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+      "date": "2024-04-09"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR de l'Assemblée (son parti à l'époque) s'est partagé (0 pour / 9 contre / 9 abst.).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+      "date": "2024-04-09"
+    },
+    "lepen": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°3664 du 9 avril 2024) ; argument tiré de l'explication de vote de son groupe (Thomas Ménagé, RN), pas d'intervention personnelle retrouvée.",
+      "argument": "Le groupe RN juge l'article 4 disproportionné et superflu, l'arsenal pénal permettant déjà de réprimer les dérives thérapeutiques sectaires.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/session-ordinaire-de-2023-2024/premiere-seance-du-mardi-09-avril-2024",
+      "date": "2024-04-09"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée ; Reconquête n'avait pas de groupe à l'Assemblée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+      "date": "2024-04-09"
+    },
+    "dupontaignan": {
+      "position": "contre",
+      "type": "vote_an",
+      "detail": "Vote nominatif contre à l'Assemblée nationale (scrutin n°3664 du 9 avril 2024) ; pas d'intervention personnelle retrouvée dans le compte rendu de cette séance.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/3664",
+      "date": "2024-04-09"
+    }
+  },
+  "alertes": [
+    "Le scrutin porte sur l'ensemble du projet de loi (sujétion psychologique, Miviludes, victimes…) ; la question est centrée sur le délit de provocation à l'abandon de soins (article 4 du projet, article 12 de la loi), point le plus débattu.",
+    "Retailleau : voter « pour » la question préalable au Sénat équivaut à rejeter le texte, d'où la position « contre ».",
+    "Le Pen : vote certain, argument repris de l'explication de vote du groupe RN (non personnel).",
+    "Conseil constitutionnel : l'article 223-1-2 du code pénal (provocation à l'abandon de soins) est déclaré conforme ; seul l'article 2 est censuré comme cavalier législatif.",
+    "Roussel, Ruffin, Batho : n'ont pas pris part au vote ; leurs votes aux lectures précédentes n'ont pas été vérifiés."
+  ]
+}

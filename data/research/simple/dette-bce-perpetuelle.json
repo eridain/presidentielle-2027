@@ -1,0 +1,22 @@
+{
+  "id": "dette-bce-perpetuelle",
+  "questionSimple": "Faut-il demander à la Banque centrale européenne d'effacer de fait la dette publique qu'elle détient ?",
+  "enBref": "Pendant la crise du covid, la Banque centrale européenne a racheté beaucoup de dette des États. Ce texte proposait qu'elle la transforme en dette « perpétuelle » sans intérêt, jamais remboursée. C'était un simple souhait de l'Assemblée, sans effet obligatoire.",
+  "pourquoiPour": "Pour ses partisans, une dette aussi énorme ne sera jamais remboursée. L'effacer éviterait que les salariés paient la crise, sans ruiner personne puisque c'est la banque centrale qui la détient.",
+  "pourquoiContre": "Pour ses opposants, les traités européens interdisent à la banque centrale de financer les États. Créer ainsi de la monnaie risquerait l'inflation, et la banque centrale aide déjà massivement.",
+  "ceQuiSestPasse": "Le texte a été largement rejeté par l'Assemblée le 4 juin 2020 (36 voix pour, 491 contre).",
+  "lexique": [
+    {
+      "terme": "Banque centrale européenne (BCE)",
+      "definition": "Banque qui gère l'euro et fixe les taux d'intérêt pour les pays de la zone euro."
+    },
+    {
+      "terme": "Dette perpétuelle",
+      "definition": "Dette dont le capital n'est jamais remboursé ; ici, sans intérêts non plus."
+    },
+    {
+      "terme": "Résolution",
+      "definition": "Texte par lequel l'Assemblée exprime un avis, sans créer de loi."
+    }
+  ]
+}

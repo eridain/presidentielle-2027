@@ -1,0 +1,223 @@
+{
+  "id": "juridiction-violences-intrafamiliales",
+  "titre": "Juridiction spécialisée pour les violences intrafamiliales",
+  "question": "Faut-il créer une juridiction spécialisée dans les violences intrafamiliales ?",
+  "ouiSignifie": "pour",
+  "contexte": "Déposée le 18 octobre 2022 par Aurélien Pradié (LR) et examinée lors de la journée réservée du groupe Les Républicains, la proposition de loi s'inspire du modèle espagnol : elle crée des « tribunaux des violences intrafamiliales », au moins un dans le ressort de chaque cour d'appel, avec des juges réunissant les pouvoirs du juge civil et du juge pénal, appuyés sur des référents dans chaque parquet. Le gouvernement (Éric Dupond-Moretti, Isabelle Rome) s'y est opposé : il jugeait le texte sans étude d'impact, craignait d'éloigner les victimes de la justice et voulait attendre la mission parlementaire confiée à Émilie Chandler et Dominique Vérien. Après le retrait de leurs amendements par les oppositions, qui accusaient la majorité d'obstruction, le texte a été adopté à 23 h 59 par 41 voix contre 40. Il n'a jamais été examiné par le Sénat. Le gouvernement a ensuite créé par décret (23 novembre 2023) des pôles spécialisés en violences intrafamiliales au sein des tribunaux.",
+  "contexteSources": [
+    {
+      "titre": "France Inter – Violences conjugales : 8 questions sur la juridiction spécialisée votée par l'Assemblée",
+      "url": "https://www.radiofrance.fr/franceinter/violences-conjugales-8-questions-sur-la-creation-d-une-juridiction-specialisee-votee-par-l-assemblee-jeudi-5404478"
+    },
+    {
+      "titre": "Medialot – Aurélien Pradié veut que sa proposition de loi voie enfin le jour (juillet 2026)",
+      "url": "https://medialot.fr/creation-dune-juridiction-specialisee-aux-violences-intrafamiliales-aurelien-pradie-veut-que-sa-proposition-de-loi-voit-enfin-le-jour/"
+    },
+    {
+      "titre": "Village de la Justice – circulaire du 6 mars 2026 (pôles VIF issus du décret du 23 novembre 2023)",
+      "url": "https://village-justice.com/articles/circulaire-mars-2026-relative-mobilisation-contre-les-violences-intrafamiliales,56452.html"
+    },
+    {
+      "titre": "Assemblée nationale – compte rendu de la deuxième séance du 1er décembre 2022",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N078"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/16/dossiers/jur_spe_violences_intrafamil",
+  "argumentsPour": [
+    {
+      "auteur": "Aurélien Pradié (Les Républicains, rapporteur)",
+      "resume": "L'Espagne a fait baisser les féminicides grâce à une juridiction spécialisée ; la France ne peut plus attendre.",
+      "citation": "Cette juridiction spécialisée n’est pas un détail d’organisation ; elle n’est pas un outil supplémentaire, elle est l’outil essentiel qui manque à notre pays.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N078",
+      "date": "2022-12-01"
+    },
+    {
+      "auteur": "Isabelle Santiago (Socialistes)",
+      "resume": "Une juridiction spécialisée est une demande forte de la société ; le groupe soutient le texte de façon non partisane.",
+      "citation": "Une juridiction spécialisée est une demande forte de notre société.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N078",
+      "date": "2022-12-01"
+    },
+    {
+      "auteur": "Sandra Regol (Écologiste)",
+      "resume": "Face aux promesses répétées du gouvernement, il faut du concret pour les victimes.",
+      "citation": "Alors, pour qu’on avance, enfin, et en toute confiance, nous voterons en faveur de ce texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N078",
+      "date": "2022-12-01"
+    },
+    {
+      "auteur": "Béatrice Descamps (LIOT)",
+      "resume": "Les violences continuent d'augmenter malgré les dispositifs existants ; la justice doit s'adapter aux victimes.",
+      "citation": "C’est l’adaptation du service public de la justice aux victimes qui doit guider nos débats.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N078",
+      "date": "2022-12-01"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Éric Dupond-Moretti (garde des Sceaux, gouvernement)",
+      "resume": "Rien ne prouve qu'une juridiction spécialisée créée sans étude d'impact améliorerait les choses ; il faut attendre la mission parlementaire en cours.",
+      "citation": "Compte tenu de leur état d’avancement, je ne peux être que défavorable à l’adoption de la présente proposition de loi",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N078",
+      "date": "2022-12-01"
+    },
+    {
+      "auteur": "Isabelle Rome (ministre déléguée à l'Égalité femmes-hommes)",
+      "resume": "Concentrer le contentieux dans quelques tribunaux éloignerait les victimes, qui ont besoin de proximité : une justice spécialisée, mais pas des juridictions spécialisées.",
+      "citation": "Nous ne pouvons pas demander à une victime de violences intrafamiliales de faire des heures de route pour se rendre dans un tribunal doté d’une juridiction spécialisée",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N078",
+      "date": "2022-12-01"
+    },
+    {
+      "auteur": "Émilie Chandler (Renaissance)",
+      "resume": "Proposition « en kit », dont l'impact est difficile à mesurer, alors que la mission parlementaire doit rendre son rapport quatre mois plus tard.",
+      "citation": "c’est une proposition en kit. Elle manque de visibilité et il est donc difficile d’en estimer l’impact potentiel.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N078",
+      "date": "2022-12-01"
+    },
+    {
+      "auteur": "Didier Lemaire (Horizons)",
+      "resume": "Mieux vaut attendre le bilan de la mission parlementaire pour formuler des propositions adaptées.",
+      "citation": "En conséquence, le groupe Horizons et apparentés ne soutiendra pas le texte.",
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N078",
+      "date": "2022-12-01"
+    }
+  ],
+  "argumentsAbstention": [],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Non député depuis juin 2022 ; aucune déclaration retrouvée. PROXY : le groupe LFI-NUPES a voté pour (11 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°658) ; aucune déclaration retrouvée. À titre indicatif, aucun membre du groupe GDR n'a pris part au vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "ruffin": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°658) ; aucune déclaration retrouvée. À titre indicatif, le groupe LFI-NUPES a voté pour (11 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale d'EELV, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le seul votant du groupe Écologiste-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "batho": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°658) ; aucune déclaration retrouvée. À titre indicatif, le seul votant du groupe Écologiste-NUPES a voté pour.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote ; aucune déclaration retrouvée. PROXY : le groupe Socialistes s'est partagé (1 pour / 1 abst.), son oratrice Isabelle Santiago ayant annoncé le soutien du groupe.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "attal": {
+      "position": "contre",
+      "type": "gouvernement",
+      "detail": "Ministre délégué chargé des Comptes publics dans le gouvernement Borne, qui s'est opposé au texte (avis défavorable d'Éric Dupond-Moretti) ; pas de déclaration personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/comptes-rendus/seance/CRSANR5L16S2023O1N078",
+      "date": "2022-12-01"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe Horizons a voté contre (0 pour / 5 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "retailleau": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Sénateur ; le Sénat n'a jamais examiné ce texte ; aucune déclaration retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR, auteur du texte, a voté pour (14 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, sans mandat parlementaire ; aucune déclaration retrouvée. PROXY : le groupe LR (son parti à l'époque), auteur du texte, a voté pour (14 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Députée, n'a pas pris part au vote (scrutin n°658) ; aucune déclaration retrouvée. À titre indicatif, le groupe RN, qu'elle préside, a voté pour (13 pour / 0 contre).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans mandat ; aucune déclaration retrouvée ; pas de député Reconquête.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député, n'a pas pris part au vote (scrutin n°658) ; aucune déclaration retrouvée. À titre indicatif, aucun non-inscrit n'a pris part au vote.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/16/scrutins/658",
+      "date": "2022-12-01"
+    }
+  },
+  "alertes": [
+    "Vote de fin de niche, adopté à une voix près (41-40) à 23 h 59 : Roussel, Ruffin, Batho, Le Pen et Dupont-Aignan n'ont pas pris part au vote ; positions laissées « inconnu ».",
+    "Texte jamais examiné au Sénat : il n'a pas abouti. Le gouvernement a créé ensuite, par décret du 23 novembre 2023, des pôles spécialisés en violences intrafamiliales dans les tribunaux. C'est une spécialisation interne, pas une juridiction distincte.",
+    "Clivage atypique : LR, RN, LFI, écologistes, LIOT et socialistes pour ; la majorité présidentielle (Renaissance, MoDem, Horizons) contre.",
+    "Attal : position déduite de son appartenance au gouvernement, qui a émis un avis défavorable.",
+    "Aurélien Pradié a relancé sa proposition en juillet 2026 (Medialot)."
+  ]
+}

@@ -1,0 +1,31 @@
+# Dépendances, builds, caches
+node_modules/
+dist/
+.vite/
+.cache/
+coverage/
+*.tsbuildinfo
+__pycache__/
+*.pyc
+
+# Sorties générées par `npm run data`, les tests et les captures (régénérables)
+app/src/generated/
+app/data-report.md
+app/test-results/
+app/playwright-report/
+app/screenshots/
+
+# Open data brute de l'Assemblée nationale (≈ 500 Mo, voir data/raw/SHA256SUMS) : seules les métadonnées sont versionnées
+data/raw/*
+!data/raw/COLLECTED_AT
+!data/raw/SHA256SUMS
+
+# Pages web tierces mises en cache par data/scripts/check_attributions.py (non publiées)
+data/build/pages/
+
+# Journaux, secrets, fichiers locaux
+*.log
+.env
+.env.*
+.DS_Store
+.preview/

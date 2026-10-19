@@ -1,0 +1,205 @@
+{
+  "id": "interdiction-pfas",
+  "titre": "Interdiction de PFAS (« polluants éternels ») dans certains produits",
+  "question": "Faut-il interdire les PFAS (« polluants éternels ») dans certains produits (cosmétiques, farts, vêtements) et taxer leurs rejets industriels ?",
+  "ouiSignifie": "pour",
+  "contexte": "Les PFAS, ou « polluants éternels », sont des milliers de substances chimiques très persistantes, utilisées pour leurs propriétés antiadhésives et imperméabilisantes, et dont plusieurs sont reconnues toxiques. Déposée par le député écologiste Nicolas Thierry, la proposition de loi interdit à partir de 2026 la fabrication, l'importation et la vente de cosmétiques, de farts et de la plupart des vêtements et chaussures contenant des PFAS, puis de tous les textiles en 2030 ; les ustensiles de cuisine (poêles) ont été exclus. Elle prévoit aussi un contrôle des PFAS dans l'eau potable, une carte des sites émetteurs, une trajectoire vers la fin des rejets industriels en cinq ans et une redevance pollueur-payeur sur ces rejets. Adoptée à l'unanimité par l'Assemblée en première lecture (4 avril 2024), puis par le Sénat (30 mai 2024), elle a été adoptée définitivement sans modification par l'Assemblée le 20 février 2025 (231 pour, 51 contre) ; loi du 27 février 2025.",
+  "contexteSources": [
+    {
+      "titre": "Vie publique – PFAS, polluants éternels : loi écologiste du 27 février 2025",
+      "url": "https://www.vie-publique.fr/loi/293656-pfas-polluants-eternels-loi-ecologiste-du-27-fevrier-2025"
+    },
+    {
+      "titre": "Assemblée nationale – dossier législatif",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_population_risques_pfas"
+    },
+    {
+      "titre": "Assemblée nationale – analyse du scrutin n°852",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852"
+    }
+  ],
+  "urlScrutin": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+  "urlDossier": "https://www.assemblee-nationale.fr/dyn/17/dossiers/proteger_population_risques_pfas",
+  "argumentsPour": [
+    {
+      "auteur": "Anne-Cécile Violland (Horizons & indépendants)",
+      "resume": "Face au retard des négociations européennes, il faut agir sans attendre et envoyer un signal à nos partenaires, tout en laissant le temps aux industriels.",
+      "citation": "C’est pourquoi, en tant que législateur, il nous incombe d’agir sans attendre plus longtemps et d’envoyer ainsi un signal à nos partenaires européens.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N110",
+      "date": "2025-02-20"
+    },
+    {
+      "auteur": "Vincent Descoeur (Droite républicaine)",
+      "resume": "C'est un enjeu de santé publique ; la redevance fera contribuer les producteurs à la dépollution de l'eau financée par les collectivités.",
+      "citation": "c’est aussi un signal adressé aux communes et aux collectivités locales, qui ne peuvent pas assumer seules le prix de cette dépollution.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N110",
+      "date": "2025-02-20"
+    },
+    {
+      "auteur": "Marie-Charlotte Garin (Écologiste et social)",
+      "resume": "La toxicité des PFAS est confirmée par l'OMS et les agences sanitaires ; les industriels ont refusé d'anticiper.",
+      "citation": "Mais ce sont les industriels eux-mêmes qui sont responsables de cette situation, parce qu’ils ont refusé d’anticiper l’inévitable et continué à produire des substances dont ils connaissaient la toxicité.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N110",
+      "date": "2025-02-20"
+    }
+  ],
+  "argumentsContre": [
+    {
+      "auteur": "Emeric Salmon (Rassemblement national)",
+      "resume": "Le texte menacerait l'emploi industriel en France et la redevance créerait une concurrence déloyale, alors que les importations contenant des PFAS continueront.",
+      "citation": "La proposition de loi introduit une nouvelle taxe, sous la forme d’une redevance, qui ne pénalisera que les entreprises françaises et offrira un avantage compétitif aux firmes étrangères, aggravant ainsi la concurrence déloyale.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N110",
+      "date": "2025-02-20"
+    },
+    {
+      "auteur": "Pierre Meurin (Rassemblement national)",
+      "resume": "Interdire en France sans pouvoir contrôler les importations serait hypocrite et favoriserait l'industrie asiatique.",
+      "citation": "Le texte est en effet d’une grande hypocrisie : nous nous apprêtons à interdire, dans notre pays, des produits que nous continuerons à importer bien qu’ils répondent à des normes sociales et environnementales moins-disantes.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N110",
+      "date": "2025-02-20"
+    }
+  ],
+  "argumentsAbstention": [
+    {
+      "auteur": "Éric Michoux (UDR)",
+      "resume": "L'UDR reconnaît l'enjeu sanitaire mais craint une casse industrielle (exemple de Tefal) et souhaitait une date unique en 2030.",
+      "citation": "La précipitation ne peut que détruire l’emploi et nuire durablement à notre souveraineté industrielle.",
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N110",
+      "date": "2025-02-20"
+    }
+  ],
+  "candidats": {
+    "melenchon": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Pas de mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe LFI-NFP a voté pour (45-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    },
+    "roussel": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée. PROXY : le groupe GDR a voté pour (8-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    },
+    "ruffin": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°852 du 20 février 2025), siégeant au groupe Écologiste et social, auteur du texte ; pas d'intervention personnelle retrouvée.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    },
+    "tondelier": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Secrétaire nationale des Écologistes, dont le groupe parlementaire est à l'origine du texte ; aucune déclaration personnelle vérifiée ici. PROXY : le groupe Écologiste et social a voté pour (38-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    },
+    "batho": {
+      "position": "pour",
+      "type": "vote_an",
+      "detail": "Vote pour à l'Assemblée nationale (scrutin n°852) ; pas d'intervention personnelle retrouvée dans cette séance, argument = position du groupe Écologiste et social (Marie-Charlotte Garin).",
+      "argument": "Le groupe met en avant la toxicité confirmée des PFAS et la responsabilité des industriels.",
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N110",
+      "date": "2025-02-20"
+    },
+    "glucksmann": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Eurodéputé, pas de vote sur ce texte ; aucune déclaration spécifique retrouvée. PROXY : le groupe Socialistes de l'Assemblée a voté pour (46-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    },
+    "attal": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°852) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe EPR a voté pour (39-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    },
+    "philippe": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président d'Horizons, sans mandat parlementaire ; aucune déclaration spécifique retrouvée. PROXY : le groupe Horizons & indépendants a voté pour (20-0).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    },
+    "retailleau": {
+      "position": "pour",
+      "type": "gouvernement",
+      "detail": "Ministre de l'Intérieur du gouvernement Bayrou, qui soutenait l'adoption conforme du texte (Agnès Pannier-Runacher) ; pas de déclaration personnelle retrouvée. Aucun scrutin public nominatif au Sénat retrouvé lors de la première lecture (mai 2024).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/comptes-rendus/seance/CRSANR5L17S2025O1N110",
+      "date": "2025-02-20"
+    },
+    "bertrand": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de région ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (10-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    },
+    "lisnard": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Maire de Cannes, président de Nouvelle Énergie ; aucune déclaration spécifique retrouvée. PROXY : le groupe Droite républicaine a voté pour (10-1).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    },
+    "lepen": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Député(e), n'a pas pris part au vote (scrutin n°852) ; aucune déclaration spécifique retrouvée. À titre indicatif, le groupe RN a voté contre (0-50).",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    },
+    "zemmour": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Président de Reconquête, sans député à l'Assemblée ; aucune déclaration spécifique retrouvée, aucun proxy de groupe possible.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    },
+    "dupontaignan": {
+      "position": "inconnu",
+      "type": "groupe",
+      "detail": "Plus député depuis 2024 ; aucune déclaration spécifique retrouvée ; aucun proxy de groupe pertinent.",
+      "argument": null,
+      "citation": null,
+      "url": "https://www.assemblee-nationale.fr/dyn/17/scrutins/852",
+      "date": "2025-02-20"
+    }
+  },
+  "alertes": [
+    "Attal, Le Pen : n'ont pas pris part au vote ; position inconnu (indication du vote de leur groupe à titre indicatif seulement).",
+    "Le RN, qui a voté contre en deuxième lecture, ne s'était pas opposé en première lecture : le texte avait alors été adopté à l'unanimité (4 avril 2024).",
+    "Retailleau : position déduite de l'appartenance au gouvernement Bayrou, qui soutenait le texte.",
+    "Le texte n'interdit pas tous les PFAS : seuls certains produits (cosmétiques, farts, textiles) sont visés ; les ustensiles de cuisine ont été exclus."
+  ]
+}

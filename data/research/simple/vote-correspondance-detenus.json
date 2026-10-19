@@ -1,0 +1,18 @@
+{
+  "id": "vote-correspondance-detenus",
+  "questionSimple": "Faut-il empêcher les détenus de voter par courrier aux élections municipales et législatives ?",
+  "enBref": "Depuis 2019, les détenus pouvaient voter par courrier depuis la prison. Leurs votes comptaient dans la ville où se trouve la prison. La loi supprime ce vote par courrier pour les élections locales et législatives.",
+  "pourquoiPour": "Pour ses défenseurs, des détenus sans lien avec une ville pouvaient peser sur l'élection de son maire. Ils peuvent toujours voter par procuration ou lors d'une sortie.",
+  "pourquoiContre": "Pour ses opposants, le vote par courrier avait fait passer la participation en prison de 2 % à plus de 20 %. Le supprimer prive en pratique beaucoup de détenus de leur vote.",
+  "ceQuiSestPasse": "Adoptée le 4 juin 2025 et validée par le Conseil constitutionnel, la loi du 18 juillet 2025 s'est appliquée aux municipales de 2026.",
+  "lexique": [
+    {
+      "terme": "Procuration",
+      "definition": "Demander à une autre personne de voter à sa place."
+    },
+    {
+      "terme": "Permission de sortir",
+      "definition": "Autorisation pour un détenu de quitter la prison quelques heures ou jours."
+    }
+  ]
+}

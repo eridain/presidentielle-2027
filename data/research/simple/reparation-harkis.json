@@ -1,0 +1,18 @@
+{
+  "id": "reparation-harkis",
+  "questionSimple": "Faut-il que la France reconnaisse ses torts envers les harkis et les indemnise ?",
+  "enBref": "Les harkis sont des Algériens qui ont combattu aux côtés de l'armée française. Après 1962, beaucoup ont été accueillis en France dans des camps aux conditions indignes. La loi reconnaît cette tragédie et prévoit une indemnisation, examinée par une commission nationale.",
+  "pourquoiPour": "Pour ses partisans, la France doit regarder en face les zones d'ombre de son histoire. Les conditions de vie imposées aux harkis étaient inhumaines et l'État doit réparer ce préjudice.",
+  "pourquoiContre": "Pour ses opposants, la loi oublie des dizaines de milliers de harkis qui n'ont pas vécu dans des camps. D'autres, sans voter contre, jugent les indemnités trop faibles.",
+  "ceQuiSestPasse": "Adoptée définitivement en février 2022, la loi a été promulguée le 23 février 2022.",
+  "lexique": [
+    {
+      "terme": "Harkis",
+      "definition": "Algériens ayant servi comme supplétifs de l'armée française pendant la guerre d'Algérie (1954-1962)."
+    },
+    {
+      "terme": "Hameau de forestage",
+      "definition": "Petit camp isolé où des familles de harkis vivaient en faisant des travaux forestiers."
+    }
+  ]
+}

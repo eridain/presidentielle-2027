@@ -1,0 +1,18 @@
+{
+  "id": "interdiction-pfas",
+  "questionSimple": "Faut-il interdire les « polluants éternels » (PFAS) dans les cosmétiques et les vêtements et taxer leurs rejets ?",
+  "enBref": "Les PFAS sont des produits chimiques qui ne se dégradent presque jamais et dont certains sont toxiques. La loi les interdit dès 2026 dans les cosmétiques, les farts de ski et la plupart des vêtements, puis dans tous les textiles en 2030. Les usines qui en rejettent dans l'eau paieront une taxe.",
+  "pourquoiPour": "Ses partisans veulent protéger la santé et l'eau potable sans attendre l'Europe. Selon eux, les industriels doivent payer pour la pollution qu'ils ont causée.",
+  "pourquoiContre": "Ses opposants craignent des fermetures d'usines et des pertes d'emplois en France, alors que des produits importés contenant des PFAS continueront d'arriver.",
+  "ceQuiSestPasse": "Adoptée définitivement le 20 février 2025, la loi a été promulguée le 27 février 2025.",
+  "lexique": [
+    {
+      "terme": "PFAS",
+      "definition": "Famille de milliers de produits chimiques très résistants, surnommés « polluants éternels »."
+    },
+    {
+      "terme": "Redevance",
+      "definition": "Somme que doit payer une entreprise, ici pour chaque quantité de PFAS rejetée dans l'eau."
+    }
+  ]
+}

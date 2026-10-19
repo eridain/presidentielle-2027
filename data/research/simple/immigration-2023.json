@@ -1,0 +1,22 @@
+{
+  "id": "immigration-2023",
+  "questionSimple": "Faut-il adopter la loi immigration 2023 : expulsions facilitées, certains travailleurs régularisés, accès aux aides et regroupement familial durcis ?",
+  "enBref": "La loi simplifie les recours et facilite l'expulsion des étrangers, notamment ceux qui ont commis des délits. Elle permet de régulariser au cas par cas des sans-papiers travaillant dans des métiers qui peinent à recruter. Elle durcit le regroupement familial et exige une durée de résidence en France pour certaines aides sociales.",
+  "pourquoiPour": "La loi permet d'éloigner plus vite les étrangers sans droit au séjour, surtout ceux qui commettent des délits graves. Elle fait de la langue, du travail et des valeurs républicaines la base de l'intégration.",
+  "pourquoiContre": "Le texte reprend des mesures portées par l'extrême droite, comme la préférence nationale pour certaines aides. Il restreint l'aide médicale, le regroupement familial et les prestations, avec des effets sociaux et sanitaires.",
+  "ceQuiSestPasse": "Adoptée en décembre 2023, la loi a été censurée sur 35 articles, en tout ou partie, dont 32 jugés hors sujet par le Conseil constitutionnel.",
+  "lexique": [
+    {
+      "terme": "Régularisation",
+      "definition": "Délivrance d'un titre de séjour à un étranger qui vivait en France sans papiers."
+    },
+    {
+      "terme": "Regroupement familial",
+      "definition": "Droit pour un étranger installé en France de faire venir son conjoint et ses enfants."
+    },
+    {
+      "terme": "Cavalier législatif",
+      "definition": "Article sans lien suffisant avec le sujet de la loi ; le Conseil constitutionnel le supprime."
+    }
+  ]
+}
